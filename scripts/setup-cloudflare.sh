@@ -11,10 +11,17 @@ cd "$(dirname "$0")/.."
 DB_NAME="theme-quiz"
 
 echo "==> Sjekker Cloudflare-innlogging"
-if ! npx --yes wrangler whoami >/dev/null 2>&1; then
-  echo "    Ikke innlogget - aapner nettleseren."
-  npx --yes wrangler login
-fi
+# wrangler whoami gir exit 0 ogsaa naar man ikke er innlogget, saa vi leser teksten.
+WHOAMI="$(npx --yes wrangler whoami 2>&1 || true)"
+case "${WHOAMI}" in
+  *"You are logged in"*|*"associated with the email"*)
+    echo "    Allerede innlogget."
+    ;;
+  *)
+    echo "    Ikke innlogget - aapner nettleseren."
+    npx --yes wrangler login
+    ;;
+esac
 
 echo "==> Sorger for at D1-databasen ${DB_NAME} finnes"
 npx --yes wrangler d1 create "${DB_NAME}" >/dev/null 2>&1 || true
