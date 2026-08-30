@@ -57,6 +57,11 @@ export function saveProfile(profile: Profile): void {
   write(PROFILE_KEY, profile)
 }
 
+/** Logger ut av skykontoen. Rundene som er spilt lokalt blir liggende. */
+export function clearProfile(): void {
+  write(PROFILE_KEY, { userId: null, token: null, displayName: '', friendCode: null })
+}
+
 export function loadPrefs(): Prefs {
   return read<Prefs>(PREFS_KEY, { category: null, difficulty: 'medium', region: 'no' })
 }

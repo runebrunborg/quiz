@@ -1,15 +1,14 @@
 {
   "compilerOptions": {
     "target": "ES2022",
-    "lib": ["ES2022"],
+    "lib": ["ES2023"],
     "module": "ESNext",
     "moduleResolution": "bundler",
     "strict": true,
     "noEmit": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "types": ["@cloudflare/workers-types"]
+    "types": ["node", "@cloudflare/workers-types"]
   },
-  "include": ["worker", "shared"],
-  "exclude": ["worker/__tests__"]
+  "include": ["worker/__tests__", "worker", "shared"]
 }

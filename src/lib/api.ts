@@ -1,6 +1,6 @@
 import type { QuizSession } from '../../shared/types'
 import { QUESTION_BY_ID } from './content'
-import { clearFromOutbox, loadOutbox, loadProfile, loadSessions, saveProfile } from './storage'
+import { clearFromOutbox, clearProfile, loadOutbox, loadProfile, loadSessions, saveProfile } from './storage'
 
 export class ApiError extends Error {
   constructor(
@@ -15,7 +15,9 @@ async function call<T>(path: string, init: RequestInit = {}): Promise<T> {
   const profile = loadProfile()
   const headers = new Headers(init.headers)
   headers.set('content-type', 'application/json')
-  if (profile.token) headers.set('authorization', `Bearer ${profile.token}`)
+  // En eksplisitt nøkkel i kallet vinner – ellers ville innlogging med en annen
+  // nøkkel bli overstyrt av den som allerede ligger lagret.
+  if (profile.token && !headers.has('authorization')) headers.set('authorization', `Bearer ${profile.token}`)
 
   const res = await fetch(`/api${path}`, { ...init, headers })
   if (!res.ok) {
@@ -64,6 +66,50 @@ export async function restoreAccount(token: string): Promise<AccountResponse> {
     friendCode: account.friendCode,
   })
   return account
+}
+
+/** Bytter visningsnavn. Navnet er det eneste vennene dine ser. */
+export async function renameAccount(displayName: string): Promise<AccountResponse> {
+  const account = await call<AccountResponse>('/account', {
+    method: 'PATCH',
+    body: JSON.stringify({ displayName }),
+  })
+  const current = loadProfile()
+  saveProfile({ ...current, displayName: account.displayName })
+  return account
+}
+
+/** Sletter kontoen i skyen og kobler fra lokalt. Rundene på enheten blir liggende. */
+export async function deleteAccount(): Promise<void> {
+  await call('/account', { method: 'DELETE' })
+  clearProfile()
+}
+
+/** Kobler fra uten å røre noe på serveren – nøkkelen er fortsatt gyldig. */
+export function logOut(): void {
+  clearProfile()
+}
+
+export interface LeaderboardEntry {
+  rank: number
+  id: string
+  name: string
+  correct: number
+  total: number
+  pct: number | null
+  me: boolean
+}
+
+export type LeaderboardScope = 'friends' | 'all'
+export type LeaderboardPeriod = 'week' | 'all'
+
+export async function fetchLeaderboard(
+  scope: LeaderboardScope,
+  period: LeaderboardPeriod,
+): Promise<{ entries: LeaderboardEntry[]; minAnswers: number }> {
+  return call<{ entries: LeaderboardEntry[]; minAnswers: number }>(
+    `/leaderboard?scope=${scope}&period=${period}`,
+  )
 }
 
 /** Formen serveren lagrer per svar – inkluderer emne-tags så statistikken kan grupperes i SQL. */

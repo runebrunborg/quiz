@@ -67,6 +67,7 @@ api.use('/account/me', auth)
 api.use('/sessions', auth)
 api.use('/me/*', auth)
 api.use('/friends', auth)
+api.use('/leaderboard', auth)
 api.use('/friends/*', auth)
 
 /* -------------------------------------------------------------------- konto */
@@ -299,6 +300,89 @@ api.delete('/friends/:id', async (c) => {
     c.env.DB.prepare('DELETE FROM friends WHERE user_id = ? AND friend_id = ?').bind(friendId, userId),
   ])
   return c.json({ ok: true })
+})
+
+api.patch('/account', auth, async (c) => {
+  const body = await c.req.json<{ displayName?: string }>().catch(() => ({}) as { displayName?: string })
+  const displayName = (body.displayName ?? '').trim().slice(0, 40)
+  if (!displayName) return c.json({ error: 'Visningsnavnet kan ikke vaere tomt' }, 400)
+
+  await c.env.DB.prepare('UPDATE users SET display_name = ? WHERE id = ?').bind(displayName, c.get('userId')).run()
+  return c.json({ userId: c.get('userId'), token: '', displayName, friendCode: c.get('friendCode') })
+})
+
+/** Sletter kontoen og alt som henger paa den. Kan ikke angres. */
+api.delete('/account', auth, async (c) => {
+  const userId = c.get('userId')
+  await c.env.DB.batch([
+    c.env.DB.prepare('DELETE FROM answer_topics WHERE user_id = ?').bind(userId),
+    c.env.DB.prepare('DELETE FROM answers WHERE user_id = ?').bind(userId),
+    c.env.DB.prepare('DELETE FROM sessions WHERE user_id = ?').bind(userId),
+    c.env.DB.prepare('DELETE FROM friends WHERE user_id = ? OR friend_id = ?').bind(userId, userId),
+    c.env.DB.prepare('DELETE FROM users WHERE id = ?').bind(userId),
+  ])
+  return c.json({ ok: true })
+})
+
+/* ------------------------------------------------------------- toppliste */
+
+/**
+ * Rangering paa antall riktige svar, med treffprosent som skillekriterium.
+ * `scope=friends` viser deg og vennene dine uansett hvor lite de har spilt;
+ * `scope=all` er hele basen, men krever et minstevolum saa ingen topper lista
+ * paa ett riktig svar av ett.
+ */
+const MIN_ANSWERS_GLOBAL = 10
+const LEADERBOARD_LIMIT = 50
+
+api.get('/leaderboard', async (c) => {
+  const userId = c.get('userId')
+  const scope = c.req.query('scope') === 'all' ? 'all' : 'friends'
+  const period = c.req.query('period') === 'all' ? 'all' : 'week'
+  const week = isoWeek(Date.now())
+
+  const join = period === 'week' ? 'AND s.iso_week = ?' : ''
+
+  let rows
+  if (scope === 'friends') {
+    const sql = `SELECT u.id, u.display_name AS name,
+                        COALESCE(SUM(s.correct), 0) AS correct,
+                        COALESCE(SUM(s.total), 0) AS total
+                 FROM users u
+                 LEFT JOIN sessions s ON s.user_id = u.id ${join}
+                 WHERE u.id = ? OR u.id IN (SELECT friend_id FROM friends WHERE user_id = ?)
+                 GROUP BY u.id
+                 ORDER BY correct DESC, name COLLATE NOCASE`
+    const stmt = period === 'week' ? c.env.DB.prepare(sql).bind(week, userId, userId) : c.env.DB.prepare(sql).bind(userId, userId)
+    rows = await stmt.all<{ id: string; name: string; correct: number; total: number }>()
+  } else {
+    const sql = `SELECT u.id, u.display_name AS name,
+                        SUM(s.correct) AS correct,
+                        SUM(s.total) AS total
+                 FROM users u
+                 JOIN sessions s ON s.user_id = u.id ${join}
+                 GROUP BY u.id
+                 HAVING SUM(s.total) >= ?
+                 ORDER BY correct DESC, (CAST(SUM(s.correct) AS REAL) / SUM(s.total)) DESC, name COLLATE NOCASE
+                 LIMIT ?`
+    const stmt =
+      period === 'week'
+        ? c.env.DB.prepare(sql).bind(week, MIN_ANSWERS_GLOBAL, LEADERBOARD_LIMIT)
+        : c.env.DB.prepare(sql).bind(MIN_ANSWERS_GLOBAL, LEADERBOARD_LIMIT)
+    rows = await stmt.all<{ id: string; name: string; correct: number; total: number }>()
+  }
+
+  const entries = (rows.results ?? []).map((r, i) => ({
+    rank: i + 1,
+    id: r.id,
+    name: r.name,
+    correct: r.correct ?? 0,
+    total: r.total ?? 0,
+    pct: r.total ? Math.round(((r.correct ?? 0) / r.total) * 100) : null,
+    me: r.id === userId,
+  }))
+
+  return c.json({ scope, period, entries, minAnswers: scope === 'all' ? MIN_ANSWERS_GLOBAL : 0 })
 })
 
 api.get('/health', (c) => c.json({ ok: true, app: c.env.APP_NAME }))

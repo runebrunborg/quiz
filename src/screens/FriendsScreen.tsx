@@ -1,18 +1,16 @@
 import { useCallback, useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { ComparisonBars } from '../components/Charts'
-import { addFriend, createAccount, listFriends, removeFriend, restoreAccount, syncOutbox, type FriendSummary } from '../lib/api'
+import { addFriend, listFriends, removeFriend, syncOutbox, type FriendSummary } from '../lib/api'
 import { loadProfile, loadSessions, type Profile } from '../lib/storage'
 import { pct, totals } from '../lib/stats'
 
 export default function FriendsScreen() {
-  const [profile, setProfile] = useState<Profile>(loadProfile)
+  const [profile] = useState<Profile>(loadProfile)
   const [friends, setFriends] = useState<FriendSummary[]>([])
-  const [name, setName] = useState('')
   const [code, setCode] = useState('')
-  const [restoreKey, setRestoreKey] = useState('')
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState<string | null>(null)
-  const [showKey, setShowKey] = useState(false)
 
   const refresh = useCallback(async () => {
     if (!loadProfile().token) return
@@ -51,69 +49,18 @@ export default function FriendsScreen() {
           <p className="eyebrow">Venner</p>
           <h1>Sammenlign deg med andre</h1>
           <p>
-            Rundene dine lagres lokalt uansett. For å sammenligne med venner trengs en konto i skyen – bare et
-            visningsnavn, ingen e-post og ingen passord.
+            Rundene dine lagres lokalt uansett. For å se hverandres uketall trengs en konto – bare et visningsnavn,
+            ingen e-post og ingen passord.
           </p>
         </div>
 
         <div className="card card--pad stack">
-          <label className="stack stack--tight">
-            <span className="setup__label">Visningsnavn</span>
-            <input
-              className="input"
-              value={name}
-              onChange={(e) => setName(e.target.value)}
-              placeholder="Rune"
-              maxLength={40}
-            />
-          </label>
-          <button
-            type="button"
-            className="btn btn--primary"
-            disabled={busy || name.trim().length === 0}
-            onClick={() =>
-              run(async () => {
-                const account = await createAccount(name.trim())
-                setProfile(loadProfile())
-                setShowKey(true)
-                await syncOutbox()
-                void account
-              })
-            }
-          >
+          <Link className="btn btn--primary" to="/konto">
             Opprett konto
-          </button>
-
-          <details>
-            <summary className="muted" style={{ cursor: 'pointer', fontSize: 'var(--step--1)' }}>
-              Jeg har allerede en konto på en annen enhet
-            </summary>
-            <div className="stack stack--tight" style={{ marginTop: 'var(--sp-3)' }}>
-              <input
-                className="input"
-                value={restoreKey}
-                onChange={(e) => setRestoreKey(e.target.value)}
-                placeholder="Gjenopprettingsnøkkel"
-              />
-              <button
-                type="button"
-                className="btn"
-                disabled={busy || restoreKey.trim().length < 16}
-                onClick={() =>
-                  run(async () => {
-                    await restoreAccount(restoreKey.trim())
-                    setProfile(loadProfile())
-                    await syncOutbox()
-                    await refresh()
-                  })
-                }
-              >
-                Koble til
-              </button>
-            </div>
-          </details>
-
-          {error && <p className="pill pill--bad">{error}</p>}
+          </Link>
+          <Link className="btn btn--ghost" to="/konto">
+            Jeg har allerede en konto
+          </Link>
         </div>
       </>
     )
@@ -137,17 +84,10 @@ export default function FriendsScreen() {
           >
             Kopier kode
           </button>
-          <button type="button" className="btn btn--tiny btn--ghost" onClick={() => setShowKey((v) => !v)}>
-            {showKey ? 'Skjul' : 'Vis'} gjenopprettingsnøkkel
-          </button>
+          <Link className="btn btn--tiny btn--ghost" to="/konto">
+            Profil og nøkkel
+          </Link>
         </div>
-        {showKey && (
-          <p className="funfact__source" style={{ wordBreak: 'break-all' }}>
-            Ta vare på denne – den er eneste vei tilbake til kontoen fra en annen enhet:
-            <br />
-            <code>{profile.token}</code>
-          </p>
-        )}
 
         <div className="row">
           <input
