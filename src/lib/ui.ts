@@ -4,6 +4,8 @@ import type { Difficulty, Lang, Region } from '../../shared/types'
 export const UI = {
   nb: {
     question: 'Spørsmål',
+    questionsPlural: 'spørsmål',
+    startingPoint: 'som utgangspunkt',
     hint: 'Hint',
     showHint: 'Gi meg et hint',
     firstLetter: 'Første bokstav',
@@ -24,6 +26,8 @@ export const UI = {
   },
   sv: {
     question: 'Fråga',
+    questionsPlural: 'frågor',
+    startingPoint: 'som utgångspunkt',
     hint: 'Ledtråd',
     showHint: 'Ge mig en ledtråd',
     firstLetter: 'Första bokstaven',
@@ -66,8 +70,7 @@ export const REGION_HELP: Record<Region, string> = {
   int: 'Quizen går på norsk, med tyngdepunkt i internasjonale referanser.',
 }
 
-export const ORIGIN_LABELS: Record<Region, string> = {
-  no: 'Norge',
-  se: 'Sverige',
-  int: 'Internasjonalt',
+export const ORIGIN_LABELS: Record<Lang, Record<Region, string>> = {
+  nb: { no: 'Norge', se: 'Sverige', int: 'Internasjonalt' },
+  sv: { no: 'Norge', se: 'Sverige', int: 'Internationellt' },
 }

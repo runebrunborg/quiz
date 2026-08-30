@@ -83,7 +83,7 @@ export default function PlayScreen() {
         <h1>{t(meta.name, lang)}</h1>
         <div className="play-hero__meta">
           <span className="pill pill--pink">{DIFFICULTY_LABELS[difficulty]}</span>
-          <span className="pill">{ORIGIN_LABELS[region]} som utgangspunkt</span>
+          <span className="pill">{`${ORIGIN_LABELS[lang][region]} ${txt.startingPoint}`}</span>
           <span className="pill">{lang === 'sv' ? 'På svenska' : 'På norsk'}</span>
         </div>
       </div>
@@ -105,7 +105,7 @@ export default function PlayScreen() {
       {!revealed && (
         <div className="launchbar" style={{ marginTop: 'var(--sp-5)' }}>
           <div className="launchbar__text">
-            <strong>{questions.length} {txt.question.toLowerCase()}</strong>
+            <strong>{questions.length} {txt.questionsPlural}</strong>
             <br />
             <span className="faint">
               {hintsUsed} {txt.hintsUsed}

@@ -81,17 +81,25 @@
 }
 
 .meter {
+  display: block;
   flex: 1;
-  height: 5px;
+  height: 6px;
   border-radius: var(--r-pill);
-  background: rgba(255, 255, 255, 0.16);
+  background: rgba(255, 255, 255, 0.14);
   overflow: hidden;
 }
 
 .meter__fill {
+  display: block;
   height: 100%;
+  min-width: 3px;
   border-radius: var(--r-pill);
   background: var(--grad-primary);
+  transition: width var(--dur) var(--ease);
+}
+
+.topic-row .meter {
+  height: 9px;
 }
 
 /* --------------------------------------------------------- oppsett-panel */
