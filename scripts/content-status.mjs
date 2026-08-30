@@ -23,7 +23,7 @@ for (const file of files) {
 }
 
 const levels = ['lett', 'medium', 'vanskelig']
-const TARGET = 10
+const TARGET = 20
 let total = 0
 console.log('tema'.padEnd(14) + levels.map((l) => l.padStart(11)).join('') + '      sum')
 for (const cat of categories) {

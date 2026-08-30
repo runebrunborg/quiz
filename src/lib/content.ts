@@ -34,6 +34,13 @@ export interface Coverage {
 
 export const QUESTIONS_PER_ROUND = 10
 
+/**
+ * Måltall for hvor stor puljen bør være per tema og nivå. Er puljen større enn
+ * én runde, får regionvektingen noe å velge mellom – og da gir norsk, svensk og
+ * internasjonalt utgangspunkt faktisk ulike quizer.
+ */
+export const POOL_TARGET = 20
+
 export function coverage(): Coverage[] {
   return CATEGORIES.map((c) => {
     const perDifficulty = {

@@ -86,3 +86,25 @@ node scripts/validate-content.mjs
 ```
 
 Den skal si `0 feil`. Advarsler bør også ryddes bort.
+
+---
+
+## Påfyll: fra ti til tjue spørsmål per nivå
+
+Banken startet med nøyaktig ti spørsmål per tema og nivå – akkurat nok til én
+runde, slik at regionvalget bare byttet språk. Måltallet er nå **20 per nivå**,
+slik at appen trekker ti av tjue og vektingen faktisk gir ulike quizer for
+norsk, svensk og internasjonalt utgangspunkt.
+
+Påfyllet legges i en egen fil per tema: `content/questions/<kategori>-2.json`.
+Originalfilen røres ikke. Id-ene fortsetter der originalen slapp:
+`blaa-l-11` … `blaa-l-20`, `blaa-m-11` … `blaa-m-20`, `blaa-v-11` … `blaa-v-20`.
+
+**Regionmiksen i påfyllet er en annen enn i grunnsettet.** Grunnsettet er
+internasjonalt tungt, så påfyllet skal veie opp: sikt mot **4 `no`, 4 `se` og 2
+`int` per nivå**. Da ender hver pulje på omtrent 6–7 norske, 6–7 svenske og 7–8
+internasjonale spørsmål, og de tre utgangspunktene får hver sin tydelige
+karakter.
+
+Alt annet er som før: samme struktur, samme krav til kilder, og svarene må ikke
+kollidere med dem som allerede finnes i temaets originalfil – les den først.

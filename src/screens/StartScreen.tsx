@@ -4,7 +4,7 @@ import type { Difficulty, Region } from '../../shared/types'
 import { langForRegion } from '../../shared/types'
 import { CategoryCard } from '../components/CategoryCard'
 import { Segmented } from '../components/Segmented'
-import { ALL_QUESTIONS, CATEGORIES, CATEGORY_BY_ID, poolFor, QUESTIONS_PER_ROUND } from '../lib/content'
+import { ALL_QUESTIONS, CATEGORIES, CATEGORY_BY_ID, POOL_TARGET, poolFor, QUESTIONS_PER_ROUND } from '../lib/content'
 import { loadPrefs, savePrefs } from '../lib/storage'
 import { DIFFICULTY_LABELS, REGION_HELP, REGION_LABELS } from '../lib/ui'
 import { t } from '../../shared/types'
@@ -22,7 +22,7 @@ export default function StartScreen() {
   const canStart = Boolean(category) && available > 0
 
   const bankTotal = ALL_QUESTIONS.length
-  const bankTarget = CATEGORIES.length * 3 * QUESTIONS_PER_ROUND
+  const bankTarget = CATEGORIES.length * 3 * POOL_TARGET
 
   function start() {
     if (!category) return
@@ -41,7 +41,7 @@ export default function StartScreen() {
         </p>
         <p className="setup__note" style={{ marginTop: 'var(--sp-4)' }}>
           Banken har <strong className="tabular">{bankTotal}</strong> av {bankTarget} spørsmål ({CATEGORIES.length}{' '}
-          temaer × 3 nivåer × {QUESTIONS_PER_ROUND}).{' '}
+          temaer × 3 nivåer × {POOL_TARGET}).{' '}
           <a href="/banken">Se hva som mangler</a>
         </p>
       </div>
@@ -81,7 +81,7 @@ export default function StartScreen() {
                 lang={lang}
                 selected={category === c.id}
                 available={poolFor(c.id, difficulty).length}
-                needed={QUESTIONS_PER_ROUND}
+                needed={POOL_TARGET}
                 onSelect={() => setCategory(c.id)}
               />
             ))}
