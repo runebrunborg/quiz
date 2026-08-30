@@ -146,6 +146,27 @@ export const CATEGORIES: Category[] = [
     scene: 'tid',
     gradient: ['#5B2BE6', '#FF8A3D'],
   },
+  {
+    id: 'storm',
+    name: { nb: 'Storm', sv: 'Storm' },
+    tagline: { nb: 'Uvær, ordspill og Ørkenstorm', sv: 'Oväder, ordlekar och Ökenstorm' },
+    scene: 'storm',
+    gradient: ['#1F3A8A', '#FF2D8E'],
+  },
+  {
+    id: 'salt',
+    name: { nb: 'Salt', sv: 'Salt' },
+    tagline: { nb: 'Klippfisk, saltsjøer og SALT-avtaler', sv: 'Klippfisk, saltsjöar och SALT-avtal' },
+    scene: 'salt',
+    gradient: ['#1E8FA8', '#FF5FA8'],
+  },
+  {
+    id: 'hjerte',
+    name: { nb: 'Hjerte', sv: 'Hjärta' },
+    tagline: { nb: 'Kortfarger, klaffer og Løvehjerte', sv: 'Kortfärger, klaffar och Lejonhjärta' },
+    scene: 'hjerte',
+    gradient: ['#E62B5C', '#FF8A3D'],
+  },
 ]
 
 export const CATEGORY_BY_ID = new Map(CATEGORIES.map((c) => [c.id, c]))

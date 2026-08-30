@@ -1,0 +1,213 @@
+# Spørsmålsdoktrine — hvordan en 10-er settes sammen
+
+`SPEC.md` er kontrakten: felter, form, absolutte krav. **Den gjelder alltid, og
+overstyrer denne fila ved uenighet.** Dette dokumentet er den redaksjonelle metoden bak
+et sett på ti spørsmål: hvordan et tema velges, hvordan de ti henger sammen, og hvordan
+vanskelighetsgraden kalibreres. Les `SPEC.md` først, deretter denne, og bruk
+`content/questions/blaa.json` som formmal.
+
+Målestokken er Aftenpostens quiz — særlig kategoriene *Spill, Foss, Drømmer, Stillhet* og
+*Blomster i kulturen*.
+
+---
+
+## 1. Ankerordet, ikke fagfeltet
+
+En 10-er er ikke «ti spørsmål om musikk». Den er **ti spørsmål som alle henger på ett
+ord**, hentet fra ti forskjellige verdener. Ankerordet er limet; spredningen er poenget.
+Fotballfansen tar tre, litteraturviteren tar tre, og alle får noen.
+
+Gode ankerord er korte og hverdagslige: *Storm, Salt, Hjerte, Foss, Bro, Gull, Stillhet*.
+Tommelfingerregelen er at ordet både skal finnes som ting, som etternavn og i minst én
+kjent tittel. Sjekk også at det har nok **norsk og svensk** materiale — det er der de
+fleste ankerord ryker.
+
+## 2. De sju koblingstypene
+
+| # | Kobling | Eksempel |
+|---|---|---|
+| K1 | **Bokstavelig** — svaret *er* en instans av ankerordet | «Hvilken foss ligger i Måbødalen?» |
+| K2 | **Definisjon** — ankerordet forklares, svaret er ordet eller tingen | «Brettspillet med et navn som betyr enerett» |
+| K3 | **Egennavn** — ordet er etternavn, stedsnavn eller arenanavn | Per-Kristian Foss, Fosshaugane, Saltdal |
+| K4 | **Tittel** — ordet står i en sang-, film-, bok- eller programtittel | «Stormfulle høyder», «Heart of Glass» |
+| K5 | **Oversettelse** — ordet på et annet språk, eller originaltittelen | «Stille Nacht», Ørkenstorm, stormtropper |
+| K6 | **Produkt / merkevare** — ordet i et varenavn eller en logo | Dreamcast, Stormberg, Malaco |
+| K7 | **Idiom / fagbegrep** — ordet inngår i et uttrykk eller fagord | «storm i et vannglass», spillteori, SALT |
+
+K3 og K4 gir «aha». K1 og K2 gjør at folk får noen riktige.
+
+**Kvoter per 10-er:** minst 3 bokstavelige (K1/K2), minst 2 av K3/K4, maks 3 av samme
+type, og minst 5 av de sju typene representert.
+
+## 3. Bredde
+
+Emne-taggene er `TOPICS` i `shared/types.ts`, 1–3 per spørsmål (se `SPEC.md`). Ut over
+SPEC-kravet om minst åtte ulike tags per tema gjelder denne regelen per 10-er:
+
+> Minst **seks ulike hovedtags** innenfor de ti spørsmålene, og ingen tag på mer enn
+> **to** av dem.
+
+Sjekk mot Aftenpostens «Spill»: sju av ti spørsmål lå i samme domene. Det er yttergrensen
+deres. «Foss» er forbildet – politikk, fornøyelsespark, geografi, sport, litteratur,
+natur, film og geografi utenfor Norden på ti spørsmål.
+
+**Regionmiksen følger `SPEC.md`**: 4–6 `int`, 2–3 `no`, 2–3 `se` per nivå i grunnsettet,
+og 4 `no`, 4 `se`, 2 `int` i påfyllsfilene. Denne fila legger ingenting til der.
+
+**Tidsspenn:** minst ett spørsmål fra før 1950, minst ett fra de siste ti årene, og ikke
+mer enn fire fra samme tiår.
+
+**Plassering:** spørsmål 1 er det letteste — alle skal få det. Spørsmål 10 er det
+vanskeligste, og helst det med best «aha».
+
+## 4. Vanskelighetsgrad
+
+### Grunnregelen
+
+**Vanskeligheten skal ligge i å finne svaret, ikke i å vite det.**
+
+Spilleren skal tenke «det burde jeg visst» når fasiten kommer — aldri «det har jeg aldri
+hørt om». Nivåene skiller seg i hvor langt unna svaret ligger, ikke i hvor smalt det er.
+
+### Kjenthetsgulvet — gjelder alle tre nivåer
+
+Hvert svar må oppfylle minst ett av disse:
+
+- står i vanlig skolepensum
+- er en person eller et verk de fleste over 30 kjenner navnet på
+- er en merkevare man finner i en nordisk dagligvarebutikk eller kiosk
+- har vært på hitlistene, kinotoppen eller riksdekkende TV
+- forekommer i et vanlig uttrykk, en kjent sang, film eller bok
+
+Passer ingen av dem, er svaret for smalt. Da bytter du spørsmål — ikke nivå.
+
+### Skalaen
+
+Gi hvert spørsmål en verdi 1–4 under arbeidet (verdien lagres ikke i JSON, den er et
+redaksjonelt hjelpemiddel):
+
+1 = nesten alle · 2 = de fleste · 3 = omtrent halvparten · 4 = den som følger godt med
+
+En femmer — ekspertspørsmålet — er ikke et nivå, det er en feil. Skriv det om eller kast det.
+
+| Nivå | Målsnitt (± 0,3) | Maks per spørsmål | Forventet treff |
+|---|---|---|---|
+| lett | 1,8 | 3 | 70–80 % |
+| medium | 2,5 | 4, maks ett stk | 55–65 % |
+| vanskelig | 3,1 | 4, maks tre stk | 40–50 % |
+
+Også «vanskelig» skal ha to enkle spørsmål. En 10-er der alt er like tungt er kjedelig
+uansett hvor flink spilleren er.
+
+### Fire grep som gjør et spørsmål lettere uten å gjøre det kjedeligere
+
+1. **Gi et holdepunkt i innledningen.** «Den walisiske sangeren med hes stemme …» i stedet
+   for «Hvilken sanger …». Innledningen på 25–55 ord som `SPEC.md` krever, er selve
+   verktøyet for dette — bruk den til å gi kontekst, ikke bare pynt.
+2. **Spør etter det kjenteste eksemplet, ikke det nest kjenteste.**
+3. **Bruk gjenkjenning framfor gjenkalling.** Et sitat, en tittel eller en replikk gir
+   spilleren noe å henge svaret på.
+4. **Flytt vanskeligheten til koblingen.** Et lett faktum med skjult ordkobling er
+   morsommere enn et vanskelig faktum med åpenbar kobling.
+
+### Hva som ikke er lov
+
+- Svar som er et tall — antall, rangering, høyde, lengde, prosent. Årstall er unntaket,
+  og bare i årstallspørsmålet.
+- Personer som bare er kjent innenfor ett fagfelt.
+- Verk som aldri er utgitt, vist eller spilt i Norden.
+- Spørsmål som krever at man husker to ledd samtidig.
+- Mer enn ett fremmedspråklig svar per 10-er.
+
+### Nivåforskjellen i praksis — samme ankerord, tre nivåer
+
+| Nivå | Svaret | Verdi |
+|---|---|---|
+| lett | Dødehavet | 1 |
+| medium | Salten | 2 |
+| vanskelig | Saltdal | 3 |
+
+Samme kunnskapsområde, samme koblingstype — bare lenger ut i kjentheten for hvert nivå.
+
+## 5. Årstallspørsmålet
+
+En liste med 8–9 hendelser fra samme år; svaret er årstallet. Formen bruker den vanlige
+strukturen i `SPEC.md`: hendelsene utgjør innledningen, og «Hvilket år?» står til slutt.
+Svaret er fire siffer, `answerKind` er `annet`, og emne-taggen er `historie`.
+
+### Når skal 10-eren ha et?
+
+Trekk det. Når arbeidet med en ny 10-er begynner, kjør en tilfeldig verdi i [0, 1):
+
+> `Math.random() < 0.33` → 10-eren skal ha et årstallspørsmål.
+
+Trekningen gjøres **én gang, før spørsmålene skrives** — ikke etterpå, og ikke på nytt
+hvis utfallet ikke passet. Noter verdien i arbeidsnotatet, så den ikke trekkes om ved
+redigering. Fordelingen blir ujevn med vilje: en runde på ni 10-ere kan fint gi fem.
+Det er poenget — spilleren skal ikke kunne regne seg fram til når det kommer.
+
+### Oppskrift
+
+- **8–9 hendelser**, én per domene, i denne rekkefølgen: vitenskap eller romfart ·
+  internasjonal politikk · samfunn · teknologi- eller produktlansering · stor nyhet ·
+  norsk eller svensk hendelse · kulturutgivelse · en fødsel · et dødsfall.
+- **Minst tre allment kjente hendelser.** Dette er hovedgrepet som gjør spørsmålet lettere.
+- **To låsehendelser** som alene daterer året for den som kjenner dem.
+- **Ingen hendelse med ±1 års usikkerhet.** Lanseringer, valg, premierer, dødsfall — ikke
+  trender. «Gmail lanseres», ikke «Facebook blir populært».
+- **Fødselen daterer bakover.** «Kylian Mbappé fødes» får folk til å regne.
+- **Årsvindu:** 1985–2020 på lett og medium, 1960–2020 på vanskelig.
+- **Ett kort ledd per hendelse**, presens, ingen forklaringer.
+- **Pass på at årstallet ikke lekker** inn i teksten — «supernovaen SN 1987A» røper svaret,
+  og validatoren fanger det.
+- **Hint 1 er tiåret**; hint 2 kan være en ekstra pekepinn. Bokstavhint gir ingen mening.
+- Hendelsene skal helst ha **minst én kobling til temaets ankerord**, men et rent
+  årstallspørsmål er bedre enn en påklistret kobling.
+
+## 6. Sjekkliste før en 10-er leveres
+
+- [ ] Alle ti henger på ankerordet, og koblingen er synlig i ettertid
+- [ ] Minst 5 koblingstyper, maks 3 av samme
+- [ ] Minst 6 hovedtags, maks 2 per tag
+- [ ] Regionmiksen følger `SPEC.md`
+- [ ] Ett spørsmål fra før 1950, ett fra de siste ti årene, maks 4 fra samme tiår
+- [ ] Hvert svar består kjenthetsgulvet
+- [ ] Målsnittet for nivået er truffet innenfor ± 0,3
+- [ ] Spørsmål 1 er lettest, spørsmål 10 har best «aha»
+- [ ] Ingen tallsvar utenom årstallspørsmålet
+- [ ] Trekningen for årstallspørsmål er gjort før skriving, og utfallet er fulgt
+- [ ] Svarene er unike innenfor temaet, og står ikke i spørsmålsteksten
+- [ ] Den svenske versjonen er ekte svensk, ikke norsk med svenske ord
+- [ ] `node scripts/validate-content.mjs` gir 0 feil og 0 advarsler
+
+## 7. Anti-mønstre
+
+- **Leksikon-10-eren.** Ti bokstavelige spørsmål om samme fenomen. Kjedelig fra spørsmål 4.
+- **Navneleken.** Ti etternavn. Ingen kommer inn i den.
+- **Skjult ekspertise.** Tre spørsmål som krever samme spesialkunnskap — da er 10-eren
+  egentlig fem spørsmål lang for alle andre.
+- **Selvbesvarende spørsmål.** Tittelen står i innledningen og er samtidig svaret.
+- **Ferskvare.** «Hvem leder …» — se punkt 5 i `SPEC.md`.
+- **Gjettbart årstall.** Én kjempekjent hendelse gir svaret, de åtte andre er pynt.
+- **Doble ankre.** Spørsmål som egentlig hører hjemme i et annet tema.
+
+---
+
+## Vedlegg — dekonstruksjon av Aftenpostens «Spill»
+
+| # | Kobling | Domene |
+|---|---|---|
+| 1 | K2 definisjon | spill |
+| 2 | K3 etternavn | fotball |
+| 3 | K1 bokstavelig | spill |
+| 4 | K1 bokstavelig | spill |
+| 5 | K4 tittel | tv |
+| 6 | K1 bokstavelig | spill |
+| 7 | K2 definisjon | spill |
+| 8 | K7 fagbegrep | spill |
+| 9 | K5 oversettelse | spill |
+| 10 | K7 fagbegrep | vitenskap |
+
+Styrken er koblingsmiksen: seks av sju typer i bruk, og en avslutning som ligger langt fra
+brettspillene den åpner med. Svakheten er domenefordelingen — sju av ti i samme domene.
+Det er nettopp den svakheten regelen i punkt 3 finnes for å hindre.

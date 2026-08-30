@@ -1,0 +1,774 @@
+[
+  {
+    "id": "salt-l-01",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Vannflaten ligger over 400 meter under havets nivå og synker omtrent en meter i året. Vannet er så tungt av oppløste mineraler at badende flyter oppå uten å svømme. Hvilket hav mellom Israel og Jordan?",
+      "sv": "Vattenytan ligger över 400 meter under havsnivån och sjunker ungefär en meter om året. Vattnet är så tungt av lösta mineraler att badande flyter ovanpå utan att simma. Vilket hav mellan Israel och Jordanien?"
+    },
+    "answer": {
+      "nb": "Dødehavet",
+      "sv": "Döda havet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet forteller at nesten ingenting lever der.",
+      "sv": "Namnet berättar att nästan ingenting lever där."
+    },
+    "funFact": {
+      "nb": "Kosmetikkindustrien henter mineralslam herfra, og Jordan og Israel utvinner store mengder kalium til kunstgjødsel.",
+      "sv": "Kosmetikaindustrin hämtar mineralslam härifrån, och Jordanien och Israel utvinner stora mängder kalium till konstgödsel."
+    },
+    "source": "Store norske leksikon – Dødehavet"
+  },
+  {
+    "id": "salt-l-02",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sprak",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Uttrykket skal gå tilbake til Plinius den eldre, som anbefalte et hvitt krystallinsk krydder som ledd i en motgift. I dag sier vi at et tvilsomt utsagn bør tas med en klype av nettopp dette. Hvilket krydder?",
+      "sv": "Uttrycket lär gå tillbaka till Plinius den äldre, som rekommenderade en vit kristallin krydda som del av ett motgift. I dag säger vi att ett tvivelaktigt påstående bör tas med en nypa av just detta. Vilken krydda?"
+    },
+    "answer": "salt",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Står på ethvert middagsbord.",
+      "sv": "Står på varje middagsbord."
+    },
+    "funFact": {
+      "nb": "Plinius' motgift skulle inntas fastende og besto blant annet av valnøtter, fiken og vinrute.",
+      "sv": "Plinius motgift skulle intas fastande och bestod bland annat av valnötter, fikon och vinruta."
+    },
+    "source": "Plinius den eldre – «Naturalis Historia»"
+  },
+  {
+    "id": "salt-l-03",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "transport",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Norske kommuner og Statens vegvesen bruker rundt 200 000 tonn av stoffet i en normal vinter, for å hindre at det danner seg is på asfalten. Miljøvernere klager over skadene på grunnvann og vegetasjon. Hva kalles stoffet?",
+      "sv": "Norska kommuner och Statens vegvesen använder omkring 200 000 ton av ämnet under en normal vinter, för att hindra isbildning på asfalten. Miljövänner klagar över skadorna på grundvatten och växtlighet. Vad kallas ämnet?"
+    },
+    "answer": {
+      "nb": "veisalt",
+      "sv": "vägsalt"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet setter sammen ferdselsåren og krydderet.",
+      "sv": "Ordet sätter samman färdvägen och kryddan."
+    },
+    "funFact": {
+      "nb": "Under omtrent ti minusgrader slutter stoffet å virke, og da går veivedlikeholdet over til sand og grus.",
+      "sv": "Under ungefär tio minusgrader slutar ämnet att verka, och då går vägunderhållet över till sand och grus."
+    },
+    "source": "Statens vegvesen – vinterdrift"
+  },
+  {
+    "id": "salt-l-04",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Stoffet består av to grunnstoffer som er livsfarlige hver for seg: det ene eksploderer i vann, det andre er en giftgass brukt som våpen i første verdenskrig. Sammen utgjør de vanlig bordsalt. Hva heter forbindelsen?",
+      "sv": "Ämnet består av två grundämnen som är livsfarliga var för sig: det ena exploderar i vatten, det andra är en giftgas som användes som vapen i första världskriget. Tillsammans utgör de vanligt bordssalt. Vad heter föreningen?"
+    },
+    "answer": "natriumklorid",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kjemisk formel NaCl.",
+      "sv": "Kemisk formel NaCl."
+    },
+    "funFact": {
+      "nb": "Et voksent menneske har rundt 250 gram av forbindelsen i kroppen, og skiller ut omtrent en tredel av det hvert døgn.",
+      "sv": "En vuxen människa har omkring 250 gram av föreningen i kroppen och utsöndrar ungefär en tredjedel av det varje dygn."
+    },
+    "source": "Store norske leksikon – natriumklorid"
+  },
+  {
+    "id": "salt-l-05",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Familien flyktet fra byen Sodoma, og engelen hadde advart dem mot å snu seg. Ett familiemedlem gjorde det likevel og ble forvandlet til en støtte av krystallisert mineral. Hvem var det?",
+      "sv": "Familjen flydde från staden Sodom, och ängeln hade varnat dem för att vända sig om. En familjemedlem gjorde det ändå och förvandlades till en stod av kristalliserat mineral. Vem var det?"
+    },
+    "answer": "Lots hustru",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hun er aldri navngitt i Bibelen.",
+      "sv": "Hon namnges aldrig i Bibeln."
+    },
+    "funFact": {
+      "nb": "En saltformasjon på Sodomfjellet ved Dødehavet kalles fortsatt «Lots hustru» av lokalbefolkningen.",
+      "sv": "En saltformation på Sodomberget vid Döda havet kallas fortfarande «Lots hustru» av lokalbefolkningen."
+    },
+    "source": "Bibelen – 1. Mosebok 19"
+  },
+  {
+    "id": "salt-l-06",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "mat-og-drikke",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Torsken saltes og tørkes, gjerne på svaberg, og eksporteres i store mengder til Portugal og Brasil, der den er selve nasjonalretten. Kristiansund bygget hele sin økonomi på varen. Hva kalles den på norsk?",
+      "sv": "Torsken saltas och torkas, gärna på klipphällar, och exporteras i stora mängder till Portugal och Brasilien, där den är själva nationalrätten. Kristiansund byggde hela sin ekonomi på varan. Vad kallas den på norska?"
+    },
+    "answer": "klippfisk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av stedet den ble tørket på.",
+      "sv": "Namnet kommer av platsen den torkades på."
+    },
+    "funFact": {
+      "nb": "Portugiserne kaller retten bacalhau og hevder å ha en oppskrift for hver dag i året.",
+      "sv": "Portugiserna kallar rätten bacalhau och hävdar att de har ett recept för varje dag på året."
+    },
+    "source": "Store norske leksikon – klippfisk"
+  },
+  {
+    "id": "salt-l-07",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Fire ganger i døgnet presses rundt 400 millioner kubikkmeter vann gjennom et smalt sund ved Bodø, og strømmen regnes som verdens sterkeste av sitt slag. Hva heter denne tidevannsstrømmen?",
+      "sv": "Fyra gånger per dygn pressas omkring 400 miljoner kubikmeter vatten genom ett smalt sund vid Bodø, och strömmen räknas som världens starkaste i sitt slag. Vad heter denna tidvattenström?"
+    },
+    "answer": {
+      "nb": "Saltstraumen",
+      "sv": "Saltströmmen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet begynner med krydderet.",
+      "sv": "Namnet börjar med kryddan."
+    },
+    "funFact": {
+      "nb": "Malstrømmene kan bli ti meter i tverrmål, og stedet er samtidig et av Nord-Europas beste fiskeplasser for stor sei.",
+      "sv": "Malströmmarna kan bli tio meter i diameter, och platsen är samtidigt en av Nordeuropas bästa fiskeplatser för stor sej."
+    },
+    "source": "Store norske leksikon – Saltstraumen"
+  },
+  {
+    "id": "salt-l-08",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "litteratur",
+      "tv"
+    ],
+    "prompt": {
+      "nb": "Boka fra 1964 handler om familien Melkerson som tilbringer sommeren på en øy i Stockholms skjærgård, og ble til en elsket TV-serie. Øya er oppdiktet, men opptakene ble gjort på Norröra. Hvilken svensk forfatter skrev den?",
+      "sv": "Boken från 1964 handlar om familjen Melkerson som tillbringar sommaren på en ö i Stockholms skärgård, och blev en älskad tv-serie. Ön är påhittad, men inspelningarna gjordes på Norröra. Vilken svensk författare skrev den?"
+    },
+    "answer": "Astrid Lindgren",
+    "answerKind": "person",
+    "person": {
+      "given": "Astrid",
+      "family": "Lindgren"
+    },
+    "hint": {
+      "nb": "Hun skrev også om Pippi Langstrømpe.",
+      "sv": "Hon skrev även om Pippi Långstrump."
+    },
+    "funFact": {
+      "nb": "Forfatteren skrev manus til TV-serien først, og gjorde det om til roman etterpå – motsatt av hennes vanlige arbeidsmåte.",
+      "sv": "Författaren skrev manus till tv-serien först och gjorde om det till roman efteråt – tvärtemot hennes vanliga arbetssätt."
+    },
+    "source": "Store norske leksikon – Astrid Lindgren"
+  },
+  {
+    "id": "salt-l-09",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Silda saltes lett og får gjære videre i boksen, som buler ut av trykket. Retten spises tradisjonelt utendørs i august, med tunnbröd og mandelpotet, og lukten er beryktet over hele verden. Hva heter den svenske delikatessen?",
+      "sv": "Sillen saltas lätt och får jäsa vidare i burken, som buktar ut av trycket. Rätten äts traditionellt utomhus i augusti, med tunnbröd och mandelpotatis, och lukten är ökänd över hela världen. Vad heter den svenska delikatessen?"
+    },
+    "answer": "surströmming",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet beskriver både smaken og fisken.",
+      "sv": "Namnet beskriver både smaken och fisken."
+    },
+    "funFact": {
+      "nb": "Flere flyselskaper har forbudt boksene i bagasjen, fordi trykket kan få dem til å sprekke i lasterommet.",
+      "sv": "Flera flygbolag har förbjudit burkarna i bagaget, eftersom trycket kan få dem att spricka i lastrummet."
+    },
+    "source": "Nationalencyklopedin – surströmming"
+  },
+  {
+    "id": "salt-l-10",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Den første modulen til Den internasjonale romstasjonen skytes opp, Bill Clinton stilles for riksrett, Nagano arrangerer vinter-OL, Google grunnlegges, Frankrike vinner fotball-VM på hjemmebane, Norge slår Brasil i VM, «Titanic» vinner elleve Oscar, Kylian Mbappé fødes og Frank Sinatra dør. Hvilket år?",
+      "sv": "Den första modulen till Internationella rymdstationen skjuts upp, Bill Clinton ställs inför riksrätt, Nagano arrangerar vinter-OS, Google grundas, Frankrike vinner fotbolls-VM på hemmaplan, Norge slår Brasilien i VM, «Titanic» vinner elva Oscar, Kylian Mbappé föds och Frank Sinatra dör. Vilket år?"
+    },
+    "answer": "1998",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sent på 1990-tallet.",
+      "sv": "Sent 1990-tal."
+    },
+    "funFact": {
+      "nb": "Samme år kom den første iMac-en, som gjorde gjennomsiktig farget plast til tidens mest kopierte designgrep.",
+      "sv": "Samma år kom den första iMac-en, som gjorde genomskinlig färgad plast till tidens mest kopierade designgrepp."
+    },
+    "source": "Store norske leksikon – 1998"
+  },
+  {
+    "id": "salt-m-01",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "I 1930 gikk Gandhi 38 mil til havet sammen med tusenvis av tilhengere, for å koke sin egen forsyning i strid med britenes monopol. Marsjen tok 24 dager. Hva kalles denne protestaksjonen?",
+      "sv": "År 1930 gick Gandhi 38 mil till havet tillsammans med tusentals anhängare, för att koka sin egen förråd i strid med britternas monopol. Marschen tog 24 dagar. Vad kallas denna protestaktion?"
+    },
+    "answer": {
+      "nb": "Saltmarsjen",
+      "sv": "Saltmarschen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kombinerer varen og handlingen.",
+      "sv": "Namnet kombinerar varan och handlingen."
+    },
+    "funFact": {
+      "nb": "Over 60 000 indere ble arrestert i månedene etter, og aksjonen ble et forbilde for senere ikkevoldsbevegelser.",
+      "sv": "Över 60 000 indier arresterades under månaderna efteråt, och aktionen blev en förebild för senare ickevåldsrörelser."
+    },
+    "source": "Store norske leksikon – saltmarsjen"
+  },
+  {
+    "id": "salt-m-02",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sprak",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Romerske soldater skal ifølge tradisjonen ha fått en del av godtgjørelsen sin i form av en verdifull hvit vare, gjennom noe som het salarium. Hvilket engelsk ord for lønn stammer fra dette?",
+      "sv": "Romerska soldater ska enligt traditionen ha fått en del av sin ersättning i form av en värdefull vit vara, genom något som hette salarium. Vilket engelskt ord för lön härstammar från detta?"
+    },
+    "answer": "salary",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det norske ordet «salær» er i slekt med det.",
+      "sv": "Det svenska ordet «salär» är släkt med det."
+    },
+    "funFact": {
+      "nb": "Historikere er i dag uenige om soldatene faktisk ble betalt i varen, eller bare fikk penger øremerket til å kjøpe den.",
+      "sv": "Historiker är i dag oense om soldaterna faktiskt betalades i varan, eller bara fick pengar öronmärkta för att köpa den."
+    },
+    "source": "Store norske leksikon – salær"
+  },
+  {
+    "id": "salt-m-03",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Rollen som CIA-agenten Evelyn Salt var opprinnelig skrevet for en mann, med Tom Cruise påtenkt, før manuset ble skrevet om. Hvem spiller hovedrollen i actionfilmen fra 2010?",
+      "sv": "Rollen som CIA-agenten Evelyn Salt var ursprungligen skriven för en man, med Tom Cruise påtänkt, innan manuset skrevs om. Vem spelar huvudrollen i actionfilmen från 2010?"
+    },
+    "answer": "Angelina Jolie",
+    "answerKind": "person",
+    "person": {
+      "given": "Angelina",
+      "family": "Jolie"
+    },
+    "hint": {
+      "nb": "Hun spilte også Lara Croft.",
+      "sv": "Hon spelade även Lara Croft."
+    },
+    "funFact": {
+      "nb": "Skuespilleren gjorde flere av stuntene selv, blant annet et hopp mellom lastebiler i fart på en motorvei.",
+      "sv": "Skådespelaren gjorde flera av stunten själv, bland annat ett hopp mellan lastbilar i fart på en motorväg."
+    },
+    "source": "Sony Pictures – produksjonsnotater"
+  },
+  {
+    "id": "salt-m-04",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Distriktet i Nordland strekker seg rundt polarsirkelen og omfatter blant annet Bodø, Fauske og Beiarn. Navnet kommer trolig av det norrøne ordet for strøm, ikke av krydderet det ligner på. Hva heter distriktet?",
+      "sv": "Distriktet i Nordland sträcker sig kring polcirkeln och omfattar bland annat Bodø, Fauske och Beiarn. Namnet kommer troligen av det fornnordiska ordet för ström, inte av kryddan det liknar. Vad heter distriktet?"
+    },
+    "answer": "Salten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Seks bokstaver, og et navn som ligner et krydder.",
+      "sv": "Sex bokstäver, och ett namn som liknar en krydda."
+    },
+    "funFact": {
+      "nb": "Distriktet har gitt navn til både en fjord, en tidevannsstrøm og et fjell, men altså neppe til noe man har på maten.",
+      "sv": "Distriktet har gett namn åt både en fjord, en tidvattenström och ett fjäll, men knappast åt något man har på maten."
+    },
+    "source": "Store norske leksikon – Salten"
+  },
+  {
+    "id": "salt-m-05",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Når man løser opp et stoff i en væske, må temperaturen lenger ned før væsken blir fast. Det er derfor is smelter på veien og iskrem kan lages i en bøtte med isbiter. Hva kalles fenomenet?",
+      "sv": "När man löser upp ett ämne i en vätska måste temperaturen längre ner innan vätskan blir fast. Det är därför is smälter på vägen och glass kan göras i en hink med isbitar. Vad kallas fenomenet?"
+    },
+    "answer": {
+      "nb": "frysepunktnedsettelse",
+      "sv": "fryspunktsnedsättning"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Et sammensatt ord om hva som skjer med frysepunktet.",
+      "sv": "Ett sammansatt ord om vad som händer med fryspunkten."
+    },
+    "funFact": {
+      "nb": "Effekten avhenger bare av antall oppløste partikler, ikke av hva de er – derfor virker sukker også, men langt dårligere.",
+      "sv": "Effekten beror bara på antalet lösta partiklar, inte på vad de är – därför fungerar socker också, men mycket sämre."
+    },
+    "source": "Store norske leksikon – frysepunktnedsettelse"
+  },
+  {
+    "id": "salt-m-06",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "arkitektur",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "På Langkaia, med utsikt til Operaen, sto fra 2017 en kulturarena av trekonstruksjoner inspirert av nordnorske fiskehjeller, med konserter og en av Nordens største badstuer. Arenaen heter Salt. I hvilken by?",
+      "sv": "På Langkaia, med utsikt mot Operan, stod från 2017 en kulturarena av träkonstruktioner inspirerade av nordnorska fiskhjällar, med konserter och en av Nordens största bastur. Arenan heter Salt. I vilken stad?"
+    },
+    "answer": "Oslo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Norges hovedstad.",
+      "sv": "Norges huvudstad."
+    },
+    "funFact": {
+      "nb": "Anlegget var opprinnelig tenkt som et nomadisk prosjekt som skulle flytte videre til andre byer i verden.",
+      "sv": "Anläggningen var ursprungligen tänkt som ett nomadiskt projekt som skulle flytta vidare till andra städer i världen."
+    },
+    "source": "SALT Art & Music – om prosjektet"
+  },
+  {
+    "id": "salt-m-07",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "mat-og-drikke",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den skarpe, nesten stikkende smaken i nordisk lakris kommer ikke fra vanlig bordsalt, men fra en annen forbindelse med klor og ammonium. Hva kalles stoffet med sitt gamle apotekernavn?",
+      "sv": "Den skarpa, nästan stickande smaken i nordisk lakrits kommer inte från vanligt bordssalt, utan från en annan förening med klor och ammonium. Vad kallas ämnet med sitt gamla apotekarnamn?"
+    },
+    "answer": {
+      "nb": "salmiakk",
+      "sv": "salmiak"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer fra en oase i Egypt.",
+      "sv": "Namnet kommer från en oas i Egypten."
+    },
+    "funFact": {
+      "nb": "Stoffet er nesten ukjent som godterismak utenfor Norden og Nederland, og utlendinger beskriver den ofte som ren straff.",
+      "sv": "Ämnet är nästan okänt som godissmak utanför Norden och Nederländerna, och utlänningar beskriver den ofta som rena straffet."
+    },
+    "source": "Store norske leksikon – salmiakk"
+  },
+  {
+    "id": "salt-m-08",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "politikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Avtalen fra 1938 mellom LO og arbeidsgiverne la grunnlaget for den svenske modellen, med forhandlinger framfor streik. Den er oppkalt etter badebyen utenfor Stockholm der partene møttes. Hvilken by?",
+      "sv": "Avtalet från 1938 mellan LO och arbetsgivarna lade grunden för den svenska modellen, med förhandlingar framför strejk. Det är uppkallat efter badorten utanför Stockholm där parterna möttes. Vilken ort?"
+    },
+    "answer": "Saltsjöbaden",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet inneholder både et krydder, en sjø og et bad.",
+      "sv": "Namnet innehåller både en krydda, en sjö och ett bad."
+    },
+    "funFact": {
+      "nb": "Stedet ble anlagt av familien Wallenberg på 1890-tallet, med egen jernbane inn til Stockholm.",
+      "sv": "Orten anlades av familjen Wallenberg på 1890-talet, med egen järnväg in till Stockholm."
+    },
+    "source": "Nationalencyklopedin – Saltsjöbadsavtalet"
+  },
+  {
+    "id": "salt-m-09",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Fra dette endepunktet på sporvognslinje 11 i Göteborg går båtene ut til den sørlige skjærgården, til øyer som Brännö, Styrsö og Vrångö. Navnet begynner med et krydder. Hva heter stedet?",
+      "sv": "Från denna ändhållplats på spårvagnslinje 11 i Göteborg går båtarna ut till södra skärgården, till öar som Brännö, Styrsö och Vrångö. Namnet börjar med en krydda. Vad heter platsen?"
+    },
+    "answer": "Saltholmen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Andre ledd er en liten øy.",
+      "sv": "Andra ledet är en liten ö."
+    },
+    "funFact": {
+      "nb": "Øyene i den sørlige skjærgården er bilfrie, så beboerne parkerer på fastlandet og tar båten hjem.",
+      "sv": "Öarna i södra skärgården är bilfria, så de boende parkerar på fastlandet och tar båten hem."
+    },
+    "source": "Göteborgs Stad – Södra skärgården"
+  },
+  {
+    "id": "salt-m-10",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Både E6 og Nordlandsbanen krysser dette høyfjellsplatået i Nordland, og her passerer man polarsirkelen med et eget senter for anledningen. Navnet kombinerer et krydder og en landform. Hva heter platået?",
+      "sv": "Både E6 och Nordlandsbanan korsar denna högfjällsplatå i Nordland, och här passerar man polcirkeln med ett eget center för tillfället. Namnet kombinerar en krydda och en landform. Vad heter platån?"
+    },
+    "answer": "Saltfjellet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ligger mellom Mo i Rana og Fauske.",
+      "sv": "Ligger mellan Mo i Rana och Fauske."
+    },
+    "funFact": {
+      "nb": "Nordlandsbanen over platået ble bygget under andre verdenskrig, i stor grad av sovjetiske og jugoslaviske krigsfanger.",
+      "sv": "Nordlandsbanan över platån byggdes under andra världskriget, till stor del av sovjetiska och jugoslaviska krigsfångar."
+    },
+    "source": "Store norske leksikon – Saltfjellet"
+  },
+  {
+    "id": "salt-v-01",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Sletten i Bolivia er verdens største av sitt slag, over 10 000 kvadratkilometer stor, og så flat at romfartsorganisasjoner bruker den til å kalibrere satellitter. I regntiden blir den et gigantisk speil. Hva heter den?",
+      "sv": "Slätten i Bolivia är världens största i sitt slag, över 10 000 kvadratkilometer stor, och så platt att rymdorganisationer använder den för att kalibrera satelliter. Under regntiden blir den en gigantisk spegel. Vad heter den?"
+    },
+    "answer": "Salar de Uyuni",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "To ord; det siste er navnet på en nærliggende by.",
+      "sv": "Två ord; det sista är namnet på en närliggande stad."
+    },
+    "funFact": {
+      "nb": "Under sletten ligger anslagsvis en firedel av verdens kjente litiumreserver, avgjørende for batterier.",
+      "sv": "Under slätten ligger uppskattningsvis en fjärdedel av världens kända litiumreserver, avgörande för batterier."
+    },
+    "source": "Store norske leksikon – Salar de Uyuni"
+  },
+  {
+    "id": "salt-v-02",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Kommunen i Nordland har Rognan som administrasjonssenter, grenser til Sverige og rommer Junkerdal nasjonalpark med Norges nordligste sammenhengende furuskog. Navnet begynner med et krydder. Hvilken kommune?",
+      "sv": "Kommunen i Nordland har Rognan som centralort, gränsar till Sverige och rymmer Junkerdals nationalpark med Norges nordligaste sammanhängande tallskog. Namnet börjar med en krydda. Vilken kommun?"
+    },
+    "answer": "Saltdal",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Andre ledd er en landform mellom fjell.",
+      "sv": "Andra ledet är en landform mellan berg."
+    },
+    "funFact": {
+      "nb": "I kommunen ligger Blodveimuseet, til minne om krigsfangene som bygget veien nordover under okkupasjonen.",
+      "sv": "I kommunen ligger Blodvägsmuseet, till minne av krigsfångarna som byggde vägen norrut under ockupationen."
+    },
+    "source": "Store norske leksikon – Saltdal"
+  },
+  {
+    "id": "salt-v-03",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Byen i dagens Mali ble søkkrik i middelalderen på karavanehandel der plater av hvitt mineral kom sørfra Sahara og gull gikk nordover. I dag brukes navnet om et sted uendelig langt borte. Hvilken by?",
+      "sv": "Staden i dagens Mali blev stormrik under medeltiden på karavanhandel där plattor av vitt mineral kom söderifrån Sahara och guld gick norrut. I dag används namnet om en plats oändligt långt borta. Vilken stad?"
+    },
+    "answer": "Timbuktu",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet brukes i uttrykket «fra her til …».",
+      "sv": "Namnet används i uttrycket «från här till …»."
+    },
+    "funFact": {
+      "nb": "Gruvene i Taoudenni brøt fortsatt plater på tradisjonelt vis inn i vår tid, og kamelkaravanene gikk i ukevis over ørkenen.",
+      "sv": "Gruvorna i Taoudenni bröt fortfarande plattor på traditionellt vis in i vår tid, och kamelkaravanerna gick i veckor över öknen."
+    },
+    "source": "Store norske leksikon – Timbuktu"
+  },
+  {
+    "id": "salt-v-04",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Ørreten legges i lake og får modne i to til tre måneder før den spises rå, tradisjonelt med lefse, rømme og akevitt rundt juletider. Valdres og Numedal er kjerneområdene. Hva heter retten?",
+      "sv": "Öringen läggs i lag och får mogna i två till tre månader innan den äts rå, traditionellt med lefse, gräddfil och akvavit kring jultid. Valdres och Numedal är kärnområdena. Vad heter rätten?"
+    },
+    "answer": "rakfisk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Første ledd betyr «mør» eller «gjennomtrukket».",
+      "sv": "Första ledet betyder «mör» eller «genomdragen»."
+    },
+    "funFact": {
+      "nb": "Retten har beskyttet geografisk betegnelse i Norge, og temperaturen under modningen må holdes rundt fire grader.",
+      "sv": "Rätten har skyddad geografisk beteckning i Norge, och temperaturen under mognaden måste hållas kring fyra grader."
+    },
+    "source": "Store norske leksikon – rakfisk"
+  },
+  {
+    "id": "salt-v-05",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Bildet er bokstavelig talt smertefullt: krydderet svir kraftig i en åpen skade. Uttrykket brukes når noen gjør en allerede vond situasjon enda verre. Hva strør man salt i, ifølge uttrykket?",
+      "sv": "Bilden är bokstavligt talat smärtsam: kryddan svider kraftigt i en öppen skada. Uttrycket används när någon gör en redan svår situation ännu värre. Vad strör man salt i, enligt uttrycket?"
+    },
+    "answer": "såret",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bestemt form entall av en skade i huden.",
+      "sv": "Bestämd form singular av en skada i huden."
+    },
+    "funFact": {
+      "nb": "Uttrykket finnes tilsvarende på engelsk, tysk og fransk, og går trolig tilbake til romersk militærstraff.",
+      "sv": "Uttrycket finns motsvarande på engelska, tyska och franska, och går troligen tillbaka till romerskt militärstraff."
+    },
+    "source": "Store norske leksikon – idiomer"
+  },
+  {
+    "id": "salt-v-06",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Veien gikk fra Roma nordøstover til Adriaterhavet, og er en av de eldste romerveiene. Den er oppkalt etter varen som ble fraktet inn til hovedstaden langs den. Hva heter veien?",
+      "sv": "Vägen gick från Rom nordost mot Adriatiska havet och är en av de äldsta romerska vägarna. Den är uppkallad efter varan som fraktades in till huvudstaden längs den. Vad heter vägen?"
+    },
+    "answer": "Via Salaria",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "To latinske ord; det første betyr «vei».",
+      "sv": "Två latinska ord; det första betyder «väg»."
+    },
+    "funFact": {
+      "nb": "Sabinerne brukte ruten lenge før romerne, og deler av traseen er fortsatt riksvei i Italia i dag.",
+      "sv": "Sabinerna använde rutten långt före romarna, och delar av sträckningen är fortfarande riksväg i Italien i dag."
+    },
+    "source": "Store norske leksikon – romerske veier"
+  },
+  {
+    "id": "salt-v-07",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "mat-og-drikke",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Godteriprodusenten fra Malmö står bak noen av Nordens sterkeste saltlakriser, blant annet Djungelvrål og Salta Katten. Navnet er en sammentrekning av Malmö og et ord for konfekt. Hvilket selskap?",
+      "sv": "Godistillverkaren från Malmö står bakom några av Nordens starkaste saltlakritser, bland annat Djungelvrål och Salta Katten. Namnet är en sammandragning av Malmö och ett ord för konfekt. Vilket företag?"
+    },
+    "answer": "Malaco",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Seks bokstaver, begynner med Malmö.",
+      "sv": "Sex bokstäver, börjar med Malmö."
+    },
+    "funFact": {
+      "nb": "Selskapet ble grunnlagt i 1934 og er i dag en del av det finske konsernet Fazer.",
+      "sv": "Företaget grundades 1934 och är i dag en del av den finska koncernen Fazer."
+    },
+    "source": "Nationalencyklopedin – Malaco"
+  },
+  {
+    "id": "salt-v-08",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Mineralet danner hele fjell, og domer av det presser seg opp gjennom berggrunnen i Nordsjøen og fanger olje under seg. Navnet kommer av det greske ordet for havsalt. Hva heter mineralet?",
+      "sv": "Mineralet bildar hela berg, och domer av det pressar sig upp genom berggrunden i Nordsjön och fångar olja under sig. Namnet kommer av det grekiska ordet för havssalt. Vad heter mineralet?"
+    },
+    "answer": {
+      "nb": "halitt",
+      "sv": "halit"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Seks bokstaver, ender på to t-er.",
+      "sv": "Fem bokstäver, slutar på t."
+    },
+    "funFact": {
+      "nb": "Mineralet er så mykt at det kan ripes med en fingernegl, og det flyter langsomt som en tykk væske gjennom geologisk tid.",
+      "sv": "Mineralet är så mjukt att det kan repas med en nagel, och det flyter långsamt som en trögflytande vätska genom geologisk tid."
+    },
+    "source": "Store norske leksikon – halitt"
+  },
+  {
+    "id": "salt-v-09",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "politikk",
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "To avtaleserier mellom USA og Sovjetunionen på 1970-tallet begrenset antallet strategiske atomvåpen. Forkortelsen deres staves nøyaktig som et krydder på middagsbordet. Hva kalles avtalene?",
+      "sv": "Två avtalsserier mellan USA och Sovjetunionen på 1970-talet begränsade antalet strategiska kärnvapen. Deras förkortning stavas exakt som en krydda på middagsbordet. Vad kallas avtalen?"
+    },
+    "answer": {
+      "nb": "SALT-avtalene",
+      "sv": "SALT-avtalen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Står for Strategic Arms Limitation Talks.",
+      "sv": "Står för Strategic Arms Limitation Talks."
+    },
+    "funFact": {
+      "nb": "Den andre avtalen ble aldri ratifisert av USA etter invasjonen av Afghanistan, men begge parter fulgte den likevel i flere år.",
+      "sv": "Det andra avtalet ratificerades aldrig av USA efter invasionen av Afghanistan, men båda parter följde det ändå i flera år."
+    },
+    "source": "Store norske leksikon – SALT-avtalene"
+  },
+  {
+    "id": "salt-v-10",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Romsonden Voyager 1 passerer Jupiter, Khomeini vender tilbake til Iran, Margaret Thatcher blir Storbritannias første kvinnelige statsminister, Sony lanserer Walkman, Sovjetunionen invaderer Afghanistan, aksjonene mot Alta-utbyggingen tilspisser seg, «Alien» har premiere, Heath Ledger fødes og John Wayne dør. Hvilket år?",
+      "sv": "Rymdsonden Voyager 1 passerar Jupiter, Khomeini återvänder till Iran, Margaret Thatcher blir Storbritanniens första kvinnliga premiärminister, Sony lanserar Walkman, Sovjetunionen invaderar Afghanistan, aktionerna mot Alta-utbyggnaden skärps, «Alien» har premiär, Heath Ledger föds och John Wayne dör. Vilket år?"
+    },
+    "answer": "1979",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Slutten av 1970-tallet.",
+      "sv": "Slutet av 1970-talet."
+    },
+    "funFact": {
+      "nb": "Walkman ble solgt med to hodetelefonuttak, fordi Sony trodde ingen ville sitte og lytte alene.",
+      "sv": "Walkman såldes med två hörlursuttag, eftersom Sony trodde att ingen skulle sitta och lyssna ensam."
+    },
+    "source": "Store norske leksikon – 1979"
+  }
+]

@@ -468,6 +468,62 @@ const scenes: Record<string, () => ReactElement> = {
       </g>
     </Frame>
   ),
+  /* ---------------------------------------------------------------- Storm */
+  storm: () => (
+    <Frame id="s-storm" sky={['#1F3A8A', '#0A1030']}>
+      <path
+        d="M-10 96c40-26 96-26 136 0 24 16 56 16 80 0 34-22 84-18 114 10v52H-10z"
+        fill="#2B4BB8"
+        opacity="0.8"
+      />
+      <path d="M40 84c-16 0-28-12-28-26s12-26 28-26c6-18 24-30 44-30s38 12 44 30c18 2 32 16 32 34H40z" fill="#6E86C8" opacity="0.55" />
+      <path d="M214 118l34-2-20 36 40-4-58 66 14-44-30 4z" fill="#FFD84D" />
+      <g stroke="#9DB6F0" strokeWidth="4" strokeLinecap="round" opacity="0.7">
+        <path d="M70 168l-22 54" />
+        <path d="M108 176l-22 54" />
+        <path d="M146 168l-22 54" />
+        <path d="M304 172l-22 54" />
+        <path d="M342 164l-22 54" />
+      </g>
+      <path d="M-10 236c30-14 60-14 90 0s60 14 90 0 60-14 90 0 60 14 90 0v34H-10z" fill="#0A1030" opacity="0.75" />
+    </Frame>
+  ),
+
+  /* ----------------------------------------------------------------- Salt */
+  salt: () => (
+    <Frame id="s-salt" sky={['#0E5F72', '#07202C']}>
+      <circle cx="322" cy="58" r="30" fill="#FFE9A8" opacity="0.7" />
+      <path d="M-10 150h420v46H-10z" fill="#12889E" opacity="0.55" />
+      <path d="M-10 178c40 10 80 10 120 0s80-10 120 0 80 10 120 0 60-8 70-4v92H-10z" fill="#E8F4F7" opacity="0.9" />
+      <g fill="#FFFFFF" opacity="0.85">
+        <rect x="74" y="196" width="18" height="18" transform="rotate(12 83 205)" />
+        <rect x="150" y="212" width="12" height="12" transform="rotate(-18 156 218)" />
+        <rect x="252" y="200" width="22" height="22" transform="rotate(24 263 211)" />
+        <rect x="330" y="220" width="14" height="14" transform="rotate(-8 337 227)" />
+      </g>
+      <path d="M96 150c0-30 22-54 50-54s50 24 50 54z" fill="#07202C" opacity="0.35" />
+    </Frame>
+  ),
+
+  /* --------------------------------------------------------------- Hjerte */
+  hjerte: () => (
+    <Frame id="s-hjerte" sky={['#7A0E33', '#2A0616']}>
+      <path
+        d="M200 224c-64-42-104-74-104-116 0-26 20-46 46-46 22 0 36 12 44 26 8-14 22-26 44-26 26 0 46 20 46 46 0 42-40 74-104 116z"
+        fill="#FF3D6E"
+        opacity="0.9"
+      />
+      <path d="M170 112c0-16 12-28 28-30" stroke="#FFC2D2" strokeWidth="6" fill="none" strokeLinecap="round" opacity="0.8" />
+      <g stroke="#FF8AA8" strokeWidth="3" fill="none" opacity="0.6" strokeLinecap="round">
+        <path d="M-10 62h80l14-24 16 48 14-24h60" />
+        <path d="M226 62h60l14-24 16 48 14-24h80" />
+      </g>
+      <g fill="#FF7A9C" opacity="0.45">
+        <path d="M48 210c-18-12-30-21-30-33 0-8 6-13 13-13 6 0 10 3 13 7 3-4 7-7 13-7 7 0 13 5 13 13 0 12-12 21-30 33z" />
+        <path d="M352 206c-18-12-30-21-30-33 0-8 6-13 13-13 6 0 10 3 13 7 3-4 7-7 13-7 7 0 13 5 13 13 0 12-12 21-30 33z" />
+      </g>
+    </Frame>
+  ),
 }
 
 export function ThemeScene({ scene }: { scene: string }) {

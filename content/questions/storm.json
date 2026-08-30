@@ -1,0 +1,795 @@
+[
+  {
+    "id": "storm-l-01",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Stykket regnes som det siste han skrev alene, og handler om trollmannen Prospero som vekker et uvær for å drive fiendene sine i land på øya si. På norsk heter det «Stormen». Hvilken engelsk dramatiker skrev det?",
+      "sv": "Pjäsen räknas som den sista han skrev ensam, och handlar om trollkarlen Prospero som frammanar ett oväder för att driva sina fiender i land på ön. På svenska heter den «Stormen». Vilken engelsk dramatiker skrev den?"
+    },
+    "answer": "William Shakespeare",
+    "answerKind": "person",
+    "person": {
+      "given": "William",
+      "family": "Shakespeare"
+    },
+    "hint": {
+      "nb": "Han skrev også «Hamlet» og «Romeo og Julie».",
+      "sv": "Han skrev även «Hamlet» och «Romeo och Julia»."
+    },
+    "funFact": {
+      "nb": "Fra dette stykket kommer linjen om at vi er «av samme stoff som drømmer er laget av» – en av de mest siterte i engelsk litteratur.",
+      "sv": "Från denna pjäs kommer raden om att vi är «av samma stoff som drömmar görs av» – en av de mest citerade i engelsk litteratur."
+    },
+    "source": "Store norske leksikon – «Stormen»"
+  },
+  {
+    "id": "storm-l-02",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Uttrykket brukes når en konflikt blåser voldsomt opp selv om selve saken er ubetydelig, og finnes i mange språk med litt ulike bilder. På norsk raser uværet inne i et helt vanlig drikkekar av glass. Hvilket?",
+      "sv": "Uttrycket används när en konflikt blåser upp våldsamt trots att själva saken är obetydlig, och finns i många språk med lite olika bilder. På norska rasar ovädret inne i ett helt vanligt dryckeskärl av glas. Vilket?"
+    },
+    "answer": {
+      "nb": "vannglass",
+      "sv": "vattenglas"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Du finner det i ethvert kjøkkenskap.",
+      "sv": "Du hittar det i vilket köksskåp som helst."
+    },
+    "funFact": {
+      "nb": "På engelsk er det en storm i en tekopp, mens franskmennene lar den rase i et glass vann.",
+      "sv": "På engelska är det en storm i en tekopp, medan fransmännen låter den rasa i ett glas vatten."
+    },
+    "source": "Store norske leksikon – idiomer"
+  },
+  {
+    "id": "storm-l-03",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Ordet er lånt fra tyske Sturmtruppen fra første verdenskrig, og brukes på norsk om de hvitkledde soldatene som tjener Imperiet og er beryktet for å bomme med laserriflene sine. I hvilken filmserie møter vi dem?",
+      "sv": "Ordet är lånat från tyska Sturmtruppen från första världskriget, och används om de vitklädda soldaterna som tjänar Imperiet och är ökända för att missa med sina lasergevär. I vilken filmserie möter vi dem?"
+    },
+    "answer": "Star Wars",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den første filmen kom i 1977.",
+      "sv": "Den första filmen kom 1977."
+    },
+    "funFact": {
+      "nb": "Rustningen ble laget av vakuumformet plast, og skuespillerne klaget over at de knapt kunne se eller høre gjennom hjelmene.",
+      "sv": "Rustningen tillverkades av vakuumformad plast, och skådespelarna klagade över att de knappt kunde se eller höra genom hjälmarna."
+    },
+    "source": "Lucasfilm – Star Wars Databank"
+  },
+  {
+    "id": "storm-l-04",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Bandet tok navn etter en bok av Aldous Huxley, og vokalisten Jim Morrison spilte inn låten «Riders on the Storm» kort tid før han døde i Paris i 1971. Hvilket amerikansk rockeband?",
+      "sv": "Bandet tog namn efter en bok av Aldous Huxley, och sångaren Jim Morrison spelade in låten «Riders on the Storm» kort innan han dog i Paris 1971. Vilket amerikanskt rockband?"
+    },
+    "answer": "The Doors",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr «dørene».",
+      "sv": "Namnet betyder «dörrarna»."
+    },
+    "funFact": {
+      "nb": "Regnet og tordenen i innspillingen er ekte lydopptak, lagt under Ray Manzareks elpiano.",
+      "sv": "Regnet och åskan i inspelningen är äkta ljudupptagningar, lagda under Ray Manzareks elpiano."
+    },
+    "source": "Rolling Stone – The Doors"
+  },
+  {
+    "id": "storm-l-05",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Selskapet ble startet i Kristiansand i 1998, selger regnjakker og turtøy, og er mest omtalt for å ansette folk med hull i CV-en. Navnet setter sammen et kraftig uvær og en fjellformasjon. Hvilket norsk merke?",
+      "sv": "Företaget startades i Kristiansand 1998, säljer regnjackor och friluftskläder, och är mest omtalat för att anställa personer med hål i CV:t. Namnet sätter samman ett kraftigt oväder och en bergformation. Vilket norskt märke?"
+    },
+    "answer": "Stormberg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnleggeren heter Steinar J. Olsen.",
+      "sv": "Grundaren heter Steinar J. Olsen."
+    },
+    "funFact": {
+      "nb": "Selskapet gir hvert år bort en fast andel av omsetningen til humanitære formål, uavhengig av om året gikk med overskudd.",
+      "sv": "Företaget skänker varje år en fast andel av omsättningen till humanitära ändamål, oavsett om året gick med vinst."
+    },
+    "source": "Stormberg AS – om selskapet"
+  },
+  {
+    "id": "storm-l-06",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Festningen i Paris var mest et symbol – det satt bare sju fanger der da folkemengden brøt seg inn 14. juli 1789. Dagen er siden blitt Frankrikes nasjonaldag. Hvilket fengsel ble stormet?",
+      "sv": "Fästningen i Paris var mest en symbol – det satt bara sju fångar där när folkmassan bröt sig in den 14 juli 1789. Dagen har sedan blivit Frankrikes nationaldag. Vilket fängelse stormades?"
+    },
+    "answer": {
+      "nb": "Bastillen",
+      "sv": "Bastiljen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr rett og slett «festningsverk».",
+      "sv": "Namnet betyder helt enkelt «fästningsverk»."
+    },
+    "funFact": {
+      "nb": "Bygningen ble revet i månedene etterpå, og steinene ble solgt som suvenirer i hele Frankrike.",
+      "sv": "Byggnaden revs under månaderna efteråt, och stenarna såldes som souvenirer i hela Frankrike."
+    },
+    "source": "Store norske leksikon – Bastillen"
+  },
+  {
+    "id": "storm-l-07",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Meteorologisk institutt gir norske ekstremvær navn i alfabetisk rekkefølge, vekselvis kvinne- og mannsnavn. I august 2023 førte ett av dem til flom, jordskred og evakuering på Østlandet og i Innlandet. Hvilket gammeldagse guttenavn?",
+      "sv": "Meteorologiska institutet i Norge ger extremväder namn i alfabetisk ordning, växelvis kvinno- och mansnamn. I augusti 2023 ledde ett av dem till översvämning, jordskred och evakuering i östra Norge. Vilket gammaldags pojknamn?"
+    },
+    "answer": "Hans",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fire bokstaver, og et navn mange oldefedre bar.",
+      "sv": "Fyra bokstäver, och ett namn som många gammelfarfäder bar."
+    },
+    "funFact": {
+      "nb": "Uværet førte til at Braskereidfoss kraftverk i Glomma ble overtoppet, en hendelse som ble sendt direkte på norsk fjernsyn.",
+      "sv": "Ovädret ledde till att kraftverket Braskereidfoss i Glomma svämmade över, en händelse som sändes direkt i norsk tv."
+    },
+    "source": "Meteorologisk institutt – navn på ekstremvær"
+  },
+  {
+    "id": "storm-l-08",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Stormen har rast i minst 190 år, er bredere enn hele jordkloden og går under navnet Den store røde flekken. Den ligger i atmosfæren på solsystemets desidert største planet. Hvilken planet?",
+      "sv": "Stormen har rasat i minst 190 år, är bredare än hela jordklotet och går under namnet Den stora röda fläcken. Den ligger i atmosfären på solsystemets överlägset största planet. Vilken planet?"
+    },
+    "answer": "Jupiter",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Oppkalt etter romernes øverste gud.",
+      "sv": "Uppkallad efter romarnas högsta gud."
+    },
+    "funFact": {
+      "nb": "Flekken har krympet betydelig siden 1800-tallet, og er i dag omtrent halvparten så bred som da den ble målt første gang.",
+      "sv": "Fläcken har krympt betydligt sedan 1800-talet och är i dag ungefär hälften så bred som när den mättes första gången."
+    },
+    "source": "NASA – Jupiter: Great Red Spot"
+  },
+  {
+    "id": "storm-l-09",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "arkitektur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Byen var europeisk kulturhovedstad i 2024 og har et konserthus og bibliotek tegnet av britiske DRDH Architects. Bygget er oppkalt etter et kraftig uvær. I hvilken by i Nordland ligger det?",
+      "sv": "Staden var europeisk kulturhuvudstad 2024 och har ett konserthus och bibliotek ritat av brittiska DRDH Architects. Byggnaden är uppkallad efter ett kraftigt oväder. I vilken stad i Nordland ligger den?"
+    },
+    "answer": "Bodø",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger nord for polarsirkelen.",
+      "sv": "Staden ligger norr om polcirkeln."
+    },
+    "funFact": {
+      "nb": "Bygget åpnet i 2014 og består av to hvite betongvolumer som er trukket fra hverandre, slik at havet synes mellom dem.",
+      "sv": "Byggnaden öppnade 2014 och består av två vita betongvolymer som dragits isär, så att havet syns mellan dem."
+    },
+    "source": "Stormen konserthus og bibliotek – om bygget"
+  },
+  {
+    "id": "storm-l-10",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Kanaltunnelen åpner, Nelson Mandela blir Sør-Afrikas president, Norge stemmer nei til EU, Amazon grunnlegges, ferja Estonia forliser, vinter-OL arrangeres på Lillehammer, «Skrik» stjeles fra Nasjonalgalleriet, Justin Bieber blir født og Kurt Cobain dør. I hvilket år inntraff disse hendelsene?",
+      "sv": "Kanaltunneln öppnar, Nelson Mandela blir Sydafrikas president, Norge röstar nej till EU, Amazon grundas, färjan Estonia förliser, vinter-OS arrangeras i Lillehammer, «Skriet» stjäls från Nasjonalgalleriet, Justin Bieber föds och Kurt Cobain dör. Vilket år inträffade detta?"
+    },
+    "answer": "1994",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tidlig på 1990-tallet.",
+      "sv": "Tidigt 1990-tal."
+    },
+    "funFact": {
+      "nb": "Samme år kom Netscape Navigator, nettleseren som gjorde verdensveven allment tilgjengelig.",
+      "sv": "Samma år kom Netscape Navigator, webbläsaren som gjorde webben allmänt tillgänglig."
+    },
+    "source": "Store norske leksikon – 1994"
+  },
+  {
+    "id": "storm-m-01",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Hun ga ut sin eneste roman under mannsnavnet Ellis Bell i 1847, og døde året etter, bare 30 år gammel. Boka om Heathcliff og Catherine heter «Stormfulle høyder» på norsk. Hvilken av Brontë-søstrene skrev den?",
+      "sv": "Hon gav ut sin enda roman under mansnamnet Ellis Bell 1847 och dog året därpå, bara 30 år gammal. Boken om Heathcliff och Catherine heter «Svindlande höjder» på svenska. Vilken av systrarna Brontë skrev den?"
+    },
+    "answer": "Emily Brontë",
+    "answerKind": "person",
+    "person": {
+      "given": "Emily",
+      "family": "Brontë"
+    },
+    "hint": {
+      "nb": "Ikke Charlotte, og ikke Anne.",
+      "sv": "Inte Charlotte, och inte Anne."
+    },
+    "funFact": {
+      "nb": "Samtiden mottok romanen med avsky; en kritiker kalte den «rå og motbydelig», og først på 1900-tallet ble den regnet som et mesterverk.",
+      "sv": "Samtiden tog emot romanen med avsky; en kritiker kallade den «rå och motbjudande», och först på 1900-talet räknades den som ett mästerverk."
+    },
+    "source": "Store norske leksikon – Emily Brontë"
+  },
+  {
+    "id": "storm-m-02",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Luftkampanjen varte i seks uker, bakkekrigen i hundre timer, og den amerikanskledede operasjonen fikk kodenavnet Desert Storm – Ørkenstorm på norsk. Den kom etter at Irak invaderte Kuwait i 1990. Hvilken krig inngikk operasjonen i?",
+      "sv": "Luftkampanjen varade i sex veckor, markkriget i hundra timmar, och den USA-ledda operationen fick kodnamnet Desert Storm – Ökenstorm på svenska. Den kom efter att Irak invaderat Kuwait 1990. Vilket krig ingick operationen i?"
+    },
+    "answer": {
+      "nb": "Golfkrigen",
+      "sv": "Gulfkriget"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Oppkalt etter en vik i Midtøsten.",
+      "sv": "Uppkallat efter en vik i Mellanöstern."
+    },
+    "funFact": {
+      "nb": "Krigen var den første som ble kringkastet direkte døgnet rundt, og gjorde nyhetskanalen CNN til en verdensaktør.",
+      "sv": "Kriget var det första som sändes direkt dygnet runt, och gjorde nyhetskanalen CNN till en världsaktör."
+    },
+    "source": "Store norske leksikon – Golfkrigen 1990–91"
+  },
+  {
+    "id": "storm-m-03",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Når lavt lufttrykk og kraftig pålandsvind virker sammen med springflo, presses havet unormalt høyt opp på land, og kaier og kjellere langs norskekysten står under vann. Hva kalles dette fenomenet med ett ord?",
+      "sv": "När lågt lufttryck och kraftig pålandsvind samverkar med springflod pressas havet onormalt högt upp på land, och kajer och källare längs kusten står under vatten. Vad kallas fenomenet med ett ord?"
+    },
+    "answer": {
+      "nb": "stormflo",
+      "sv": "stormflod"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet setter sammen et uvær og tidevannet.",
+      "sv": "Ordet sätter samman ett oväder och tidvattnet."
+    },
+    "funFact": {
+      "nb": "Bergen og Trondheim er blant de norske byene som er mest utsatt, fordi bykjernene ligger lavt og tett på sjøen.",
+      "sv": "Bergen och Trondheim hör till de norska städer som är mest utsatta, eftersom stadskärnorna ligger lågt och nära havet."
+    },
+    "source": "Kartverket – om stormflo"
+  },
+  {
+    "id": "storm-m-04",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Den norske vindskalaen går fra stille og flau vind, via bris, kuling og storm, til det aller kraftigste trinnet, som begynner ved 32,7 meter i sekundet. Hva kalles den sterkeste vindstyrken?",
+      "sv": "Den norska vindskalan går från stiltje och svag vind, via bris, kuling och storm, till det allra kraftigaste steget, som börjar vid 32,7 meter per sekund. Vad kallas den starkaste vindstyrkan?"
+    },
+    "answer": "orkan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Brukes også om tropiske virvelstormer.",
+      "sv": "Används även om tropiska virvelstormar."
+    },
+    "funFact": {
+      "nb": "I Norge måles slik vind oftest på fjelltopper og ytterst på kysten; på Fokstugu og Sognefjellet er den nesten årviss.",
+      "sv": "I Norge mäts sådan vind oftast på bergstoppar och ytterst på kusten; på Fokstugu och Sognefjellet är den nästan årlig."
+    },
+    "source": "Meteorologisk institutt – vindskala"
+  },
+  {
+    "id": "storm-m-05",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "kunst",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Den danske tegneren og humoristen signerte med etternavnet sitt og en forbokstav, og er kjent for absurde tegneserier og for oppfinnelser der tjue unødvendige ledd løser en enkel oppgave. Hva het han fullt ut?",
+      "sv": "Den danske tecknaren och humoristen signerade med sitt efternamn och en initial, och är känd för absurda serier och för uppfinningar där tjugo onödiga led löser en enkel uppgift. Vad hette han fullständigt?"
+    },
+    "answer": "Robert Storm Petersen",
+    "answerKind": "person",
+    "person": {
+      "given": "Robert",
+      "family": "Storm Petersen"
+    },
+    "hint": {
+      "nb": "Han signerte «Storm P.».",
+      "sv": "Han signerade «Storm P.»."
+    },
+    "funFact": {
+      "nb": "Han skal ha sagt at det er vanskelig å spå, især om fremtiden – et sitat som også tillegges Niels Bohr.",
+      "sv": "Han lär ha sagt att det är svårt att spå, i synnerhet om framtiden – ett citat som också tillskrivs Niels Bohr."
+    },
+    "source": "Store norske leksikon – Robert Storm Petersen"
+  },
+  {
+    "id": "storm-m-06",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Filmen fra 2000 bygger på en virkelig hendelse: sverdfiskbåten Andrea Gail forsvant i Nord-Atlanteren i 1991 da tre uværssystemer smeltet sammen. Hvilken amerikansk skuespiller spiller kaptein Billy Tyne?",
+      "sv": "Filmen från 2000 bygger på en verklig händelse: svärdfiskbåten Andrea Gail försvann i Nordatlanten 1991 när tre ovädersystem smälte samman. Vilken amerikansk skådespelare spelar kapten Billy Tyne?"
+    },
+    "answer": "George Clooney",
+    "answerKind": "person",
+    "person": {
+      "given": "George",
+      "family": "Clooney"
+    },
+    "hint": {
+      "nb": "Han spilte lege i TV-serien «Vaktmesteren»/«ER».",
+      "sv": "Han spelade läkare i tv-serien «Cityakuten»."
+    },
+    "funFact": {
+      "nb": "Meteorologen som beskrev uværet, kalte det «the perfect storm» – og uttrykket er siden blitt vanlig om et sammenfall av uheldige omstendigheter.",
+      "sv": "Meteorologen som beskrev ovädret kallade det «the perfect storm» – och uttrycket har sedan blivit vanligt om ett sammanfall av olyckliga omständigheter."
+    },
+    "source": "National Oceanic and Atmospheric Administration – The Halloween Storm 1991"
+  },
+  {
+    "id": "storm-m-07",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "politikk",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Etaten holder til i Norrköping, varsler uvær for hele Sverige og har et navn på fire bokstaver som begynner med Sveriges. Hva er forkortelsen for det svenske meteorologiske og hydrologiske instituttet?",
+      "sv": "Myndigheten ligger i Norrköping, varnar för oväder i hela landet och har ett namn på fyra bokstäver som börjar med Sveriges. Vad är förkortningen för det meteorologiska och hydrologiska institutet?"
+    },
+    "answer": "SMHI",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fire bokstaver, den siste er I.",
+      "sv": "Fyra bokstäver, den sista är I."
+    },
+    "funFact": {
+      "nb": "Instituttet begynte å gi svenske stormer navn i 2015, etter samme modell som Norge og Danmark.",
+      "sv": "Institutet började ge svenska stormar namn 2015, efter samma modell som Norge och Danmark."
+    },
+    "source": "SMHI – om myndigheten"
+  },
+  {
+    "id": "storm-m-08",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "religion",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Innsjøen ligger over 200 meter under havets nivå og er verdens laveste ferskvannssjø. Ifølge evangeliene sov Jesus i båten mens disiplene fryktet for livet i uværet, før han stilnet vinden. Hvilken innsjø?",
+      "sv": "Sjön ligger över 200 meter under havsytan och är världens lägst belägna sötvattensjö. Enligt evangelierna sov Jesus i båten medan lärjungarna fruktade för livet i ovädret, innan han stillade vinden. Vilken sjö?"
+    },
+    "answer": {
+      "nb": "Genesaretsjøen",
+      "sv": "Gennesaretsjön"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kalles også Galileasjøen.",
+      "sv": "Kallas även Galileiska sjön."
+    },
+    "funFact": {
+      "nb": "Sjøen er beryktet for plutselige kastevind: kald luft fra Golanhøydene faller ned i den varme dalen og pisker opp bølgene på minutter.",
+      "sv": "Sjön är ökänd för plötsliga kastvindar: kall luft från Golanhöjderna faller ned i den varma dalen och piskar upp vågorna på minuter."
+    },
+    "source": "Bibelen – Markusevangeliet 4"
+  },
+  {
+    "id": "storm-m-09",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "spill",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Turfolk pakker det nederst i sekken: et lite, bærbart kokeapparat med vindskjerm rundt brenneren, slik at man får kokt vann selv i sterk vind på fjellet. Hva kalles apparatet på norsk?",
+      "sv": "Friluftsfolk packar det underst i ryggsäcken: ett litet, bärbart kokapparat med vindskydd runt brännaren, så att man får kokt vatten även i stark vind på fjället. Vad kallas apparaten på norska?"
+    },
+    "answer": {
+      "nb": "stormkjøkken",
+      "sv": "stormkök"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet setter sammen et uvær og et rom i huset.",
+      "sv": "Ordet sätter samman ett oväder och ett rum i huset."
+    },
+    "funFact": {
+      "nb": "Den svenske Trangia-modellen fra 1951 er lite endret siden, og selges fortsatt i millioner av eksemplarer.",
+      "sv": "Den svenska Trangia-modellen från 1951 är föga förändrad sedan dess och säljs fortfarande i miljontals exemplar."
+    },
+    "source": "Store norske leksikon – stormkjøkken"
+  },
+  {
+    "id": "storm-m-10",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Romsonden Huygens lander på Titan, Angela Merkel blir forbundskansler, Norge markerer hundre år siden unionsoppløsningen, YouTube grunnlegges, orkanen Katrina setter New Orleans under vann, Jens Stoltenberg blir statsminister, «Halvblodsprinsen» utgis, stormen Gudrun feller svensk skog og pave Johannes Paul II dør. Hvilket år?",
+      "sv": "Rymdsonden Huygens landar på Titan, Angela Merkel blir förbundskansler, Norge markerar hundra år sedan unionsupplösningen, YouTube grundas, orkanen Katrina sätter New Orleans under vatten, Jens Stoltenberg blir statsminister, «Halvblodsprinsen» ges ut, stormen Gudrun fäller svensk skog och påve Johannes Paulus II dör. Vilket år?"
+    },
+    "answer": "2005",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Midt på 2000-tallet.",
+      "sv": "Mitt på 2000-talet."
+    },
+    "funFact": {
+      "nb": "Gudrun felte på én natt omtrent like mye skog som Sverige normalt avvirker på et helt år.",
+      "sv": "Gudrun fällde på en natt ungefär lika mycket skog som Sverige normalt avverkar på ett helt år."
+    },
+    "source": "Store norske leksikon – 2005"
+  },
+  {
+    "id": "storm-v-01",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Skalaen ble laget i 1805 av en irskfødt britisk admiral, opprinnelig for å beskrive hvor mye seil et krigsskip kunne føre. Den går fra 0 til 12 og brukes fortsatt til å beskrive vindstyrke. Hva heter den?",
+      "sv": "Skalan skapades 1805 av en irländskfödd brittisk amiral, ursprungligen för att beskriva hur mycket segel ett örlogsfartyg kunde föra. Den går från 0 till 12 och används fortfarande för vindstyrka. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Beaufort-skalaen",
+      "sv": "Beaufortskalan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Oppkalt etter mannen som laget den.",
+      "sv": "Uppkallad efter mannen som skapade den."
+    },
+    "funFact": {
+      "nb": "Admiralen førte dagbok om været hver eneste dag i 68 år, og skalaen ble påbudt i den britiske marinen først i 1838.",
+      "sv": "Amiralen förde dagbok om vädret varje dag i 68 år, och skalan blev obligatorisk i brittiska flottan först 1838."
+    },
+    "source": "Store norske leksikon – Beaufortskalaen"
+  },
+  {
+    "id": "storm-v-02",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "sprak",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Mellom bris og storm ligger en vindstyrke som deles inn i liten, stiv og sterk. Ordet finnes ikke i den internasjonale terminologien, men er standard i norske værmeldinger. Hvilket ord?",
+      "sv": "Mellan bris och storm ligger en vindstyrka som delas in i liten, styv och stark. Ordet finns inte i den internationella terminologin, men är standard i norska väderrapporter. Vilket ord?"
+    },
+    "answer": "kuling",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Seks bokstaver, og et ord fiskere bruker daglig.",
+      "sv": "Sex bokstäver, och ett ord fiskare använder dagligen."
+    },
+    "funFact": {
+      "nb": "Ordet er trolig lånt fra nederlandsk «koelte», som betyr kjølig bris – altså atskillig mildere enn det norske ordet antyder.",
+      "sv": "Ordet är troligen lånat från nederländska «koelte», som betyder sval bris – alltså betydligt mildare än det norska ordet antyder."
+    },
+    "source": "Meteorologisk institutt – vindskala"
+  },
+  {
+    "id": "storm-v-03",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Den svenske kongen Karl 12. falt i 1718 mens hæren hans forsøkte å ta Halden. Skuddet er aldri oppklart, og det er fortsatt omstridt om det kom fra norsk eller svensk hold. Ved hvilken norsk festning skjedde det?",
+      "sv": "Den svenske kungen Karl XII föll 1718 medan hans här försökte ta Halden. Skottet är aldrig uppklarat, och det är fortfarande omstritt om det kom från norskt eller svenskt håll. Vid vilken norsk fästning skedde det?"
+    },
+    "answer": "Fredriksten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Oppkalt etter en dansk-norsk konge.",
+      "sv": "Uppkallad efter en dansk-norsk kung."
+    },
+    "funFact": {
+      "nb": "Kongens lik ble obdusert på nytt så sent som i 1917, uten at gåten om skuddretningen ble løst.",
+      "sv": "Kungens lik obducerades på nytt så sent som 1917, utan att gåtan om skottriktningen löstes."
+    },
+    "source": "Store norske leksikon – Fredriksten festning"
+  },
+  {
+    "id": "storm-v-04",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "politikk",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Organisasjonen ble stiftet i 1891 etter at hundrevis av fiskere omkom i uvær langs kysten. Den første redningsskøyta, tegnet av Colin Archer, reddet 67 mennesker allerede første vintersesong. Hva heter organisasjonen i dag?",
+      "sv": "Organisationen grundades 1891 efter att hundratals fiskare omkommit i oväder längs kusten. Den första räddningsbåten, ritad av Colin Archer, räddade 67 människor redan första vintersäsongen. Vad heter organisationen i dag?"
+    },
+    "answer": "Redningsselskapet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Het opprinnelig Norsk Selskab til Skibbrudnes Redning.",
+      "sv": "Hette ursprungligen Norsk Selskab til Skibbrudnes Redning."
+    },
+    "funFact": {
+      "nb": "Skøytene ble tegnet for å kunne seile mot vinden i full storm, og flere av dem er fortsatt i drift som veteranfartøy.",
+      "sv": "Båtarna ritades för att kunna segla mot vinden i full storm, och flera av dem är fortfarande i drift som veteranfartyg."
+    },
+    "source": "Redningsselskapet – historikk"
+  },
+  {
+    "id": "storm-v-05",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Trønderen fikk sitt internasjonale gjennombrudd i 1921 med en roman om lofotfiskere som ror ut i åpne båter og møter uværet på havet. Boka heter «Den siste viking». Hvilken norsk forfatter skrev den?",
+      "sv": "Trönderen fick sitt internationella genombrott 1921 med en roman om lofotfiskare som ror ut i öppna båtar och möter ovädret på havet. Boken heter «Den siste viking». Vilken norsk författare skrev den?"
+    },
+    "answer": "Johan Bojer",
+    "answerKind": "person",
+    "person": {
+      "given": "Johan",
+      "family": "Bojer"
+    },
+    "hint": {
+      "nb": "Etternavnet er kort og uttales med j.",
+      "sv": "Efternamnet är kort och uttalas med j."
+    },
+    "funFact": {
+      "nb": "Romanen ble oversatt til over tjue språk, og forfatteren var på 1920-tallet blant de mest leste norske forfatterne i USA.",
+      "sv": "Romanen översattes till över tjugo språk, och författaren var på 1920-talet bland de mest lästa norska författarna i USA."
+    },
+    "source": "Store norske leksikon – Johan Bojer"
+  },
+  {
+    "id": "storm-v-06",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Kammerspillet fra 1907 heter «Oväder» og var det første stykket forfatteren skrev for Intima teatern i Stockholm. Han er ellers kjent for «Fröken Julie» og «Ett drömspel». Hvilken svensk dramatiker?",
+      "sv": "Kammarspelet från 1907 heter «Oväder» och var den första pjäs som författaren skrev för Intima teatern i Stockholm. Han är annars känd för «Fröken Julie» och «Ett drömspel». Vilken svensk dramatiker?"
+    },
+    "answer": "August Strindberg",
+    "answerKind": "person",
+    "person": {
+      "given": "August",
+      "family": "Strindberg"
+    },
+    "hint": {
+      "nb": "Etternavnet betyr omtrent «strandberg».",
+      "sv": "Efternamnet betyder ungefär «strandberg»."
+    },
+    "funFact": {
+      "nb": "Han skrev fem kammerspill på ett år, alle med et værfenomen eller et hus som gjennomgående bilde.",
+      "sv": "Han skrev fem kammarspel på ett år, alla med ett väderfenomen eller ett hus som genomgående bild."
+    },
+    "source": "Store norske leksikon – August Strindberg"
+  },
+  {
+    "id": "storm-v-07",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Den tyske bevegelsen på 1770-tallet dyrket følelse og opprør framfor fornuft, og fikk navn etter et skuespill av Friedrich Maximilian Klinger. Hvilken dikter, senere kjent for «Faust», var dens mest kjente representant?",
+      "sv": "Den tyska rörelsen på 1770-talet odlade känsla och uppror framför förnuft, och fick namn efter en pjäs av Friedrich Maximilian Klinger. Vilken diktare, senare känd för «Faust», var dess mest kända företrädare?"
+    },
+    "answer": "Johann Wolfgang von Goethe",
+    "answerKind": "person",
+    "person": {
+      "given": "Johann Wolfgang",
+      "family": "von Goethe"
+    },
+    "hint": {
+      "nb": "Han skrev «Den unge Werthers lidelser».",
+      "sv": "Han skrev «Den unge Werthers lidanden»."
+    },
+    "funFact": {
+      "nb": "Bevegelsen het opprinnelig «Wirrwarr» – virvar – men Klinger byttet tittel etter råd fra en venn.",
+      "sv": "Rörelsen hette ursprungligen «Wirrwarr» – virrvarr – men Klinger bytte titel efter råd från en vän."
+    },
+    "source": "Store norske leksikon – Sturm und Drang"
+  },
+  {
+    "id": "storm-v-08",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Britens dramatiske havbilder oppløser skip og kyst i lys og skum, og han skal ha påstått at han lot seg binde til masten i fire timer for å studere et uvær. Hvilken maler?",
+      "sv": "Britens dramatiska havsbilder löser upp skepp och kust i ljus och skum, och han lär ha påstått att han lät binda sig vid masten i fyra timmar för att studera ett oväder. Vilken målare?"
+    },
+    "answer": "J.M.W. Turner",
+    "answerKind": "person",
+    "person": {
+      "given": "Joseph Mallord William",
+      "family": "Turner"
+    },
+    "hint": {
+      "nb": "Fornavnene er Joseph Mallord William.",
+      "sv": "Förnamnen är Joseph Mallord William."
+    },
+    "funFact": {
+      "nb": "Han testamenterte nesten 300 malerier og 30 000 arbeider på papir til den britiske staten.",
+      "sv": "Han testamenterade nästan 300 målningar och 30 000 arbeten på papper till brittiska staten."
+    },
+    "source": "Store norske leksikon – J.M.W. Turner"
+  },
+  {
+    "id": "storm-v-09",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Midt i en tropisk virvelstorm finnes et område der vinden nesten stilner og himmelen kan være blå, mens veggen rundt har vindstyrker over 250 kilometer i timen. Hva kalles dette området?",
+      "sv": "Mitt i en tropisk virvelstorm finns ett område där vinden nästan mojnar och himlen kan vara blå, medan väggen runt omkring har vindstyrkor över 250 kilometer i timmen. Vad kallas detta område?"
+    },
+    "answer": {
+      "nb": "orkanens øye",
+      "sv": "orkanens öga"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Et kroppsdelsord.",
+      "sv": "Ett kroppsdelsord."
+    },
+    "funFact": {
+      "nb": "Området er typisk 30–65 kilometer bredt, og jo mindre det er, desto kraftigere er stormen som regel.",
+      "sv": "Området är typiskt 30–65 kilometer brett, och ju mindre det är, desto kraftigare är stormen som regel."
+    },
+    "source": "NASA Earth Observatory – Hurricanes"
+  },
+  {
+    "id": "storm-v-10",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "En supernova observeres med det blotte øye i Den store magellanske sky, Margaret Thatcher gjenvelges for tredje gang, Brundtland-kommisjonen legger fram «Vår felles framtid», Microsoft lanserer Windows 2.0, børskrakket «Black Monday» rammer, et voldsomt uvær herjer Sør-England, a-ha spiller inn «The Living Daylights», Lionel Messi fødes og Rudolf Hess dør. Hvilket år?",
+      "sv": "En supernova observeras med blotta ögat i Stora magellanska molnet, Margaret Thatcher omväljs för tredje gången, Brundtlandkommissionen lägger fram «Vår gemensamma framtid», Microsoft lanserar Windows 2.0, börskraschen «Black Monday» slår till, ett våldsamt oväder härjar södra England, a-ha spelar in «The Living Daylights», Lionel Messi föds och Rudolf Hess dör. Vilket år?"
+    },
+    "answer": "1987",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sent på 1980-tallet.",
+      "sv": "Sent 1980-tal."
+    },
+    "funFact": {
+      "nb": "Værmelderen Michael Fish hadde samme dag beroliget seerne med at det ikke var noen storm på vei mot England.",
+      "sv": "Väderpresentatören Michael Fish hade samma dag lugnat tittarna med att det inte var någon storm på väg mot England."
+    },
+    "source": "Store norske leksikon – 1987"
+  }
+]

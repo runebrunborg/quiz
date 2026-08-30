@@ -1,0 +1,803 @@
+[
+  {
+    "id": "hjerte-l-01",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "spill"
+    ],
+    "prompt": {
+      "nb": "En vanlig kortstokk har fire farger: to svarte og to røde. Den ene røde er formet som en rute, den andre som et organ i brystet. Hva heter den siste fargen på norsk?",
+      "sv": "En vanlig kortlek har fyra färger: två svarta och två röda. Den ena röda är formad som en ruta, den andra som ett organ i bröstet. Vad heter den sistnämnda färgen på svenska?"
+    },
+    "answer": {
+      "nb": "hjerter",
+      "sv": "hjärter"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Formen er kjærlighetens symbol.",
+      "sv": "Formen är kärlekens symbol."
+    },
+    "funFact": {
+      "nb": "Etter en gammel tolkning skulle de fire fargene stå for geistlighet, adel, borgere og bønder.",
+      "sv": "Enligt en gammal tolkning skulle de fyra färgerna stå för prästerskap, adel, borgare och bönder."
+    },
+    "source": "Store norske leksikon – spillkort"
+  },
+  {
+    "id": "hjerte-l-02",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Organet er en muskel på størrelse med en knyttneve, slår rundt 100 000 ganger i døgnet og pumper omtrent 7000 liter blod gjennom kroppen hver dag. Hvilket organ er det?",
+      "sv": "Organet är en muskel stor som en knytnäve, slår omkring 100 000 gånger per dygn och pumpar ungefär 7000 liter blod genom kroppen varje dag. Vilket organ är det?"
+    },
+    "answer": {
+      "nb": "hjertet",
+      "sv": "hjärtat"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sitter litt til venstre i brystet.",
+      "sv": "Sitter lite till vänster i bröstet."
+    },
+    "funFact": {
+      "nb": "Muskelen begynner å slå omtrent fire uker etter befruktningen, lenge før den er ferdig utviklet.",
+      "sv": "Muskeln börjar slå ungefär fyra veckor efter befruktningen, långt innan den är färdigutvecklad."
+    },
+    "source": "Store norske leksikon – hjertet"
+  },
+  {
+    "id": "hjerte-l-03",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Mel Gibson både regisserte og spilte hovedrollen i filmen fra 1995, som vant fem Oscar og er beryktet blant historikere for sin omgang med fakta. Hvilken skotsk frihetshelt spiller han?",
+      "sv": "Mel Gibson både regisserade och spelade huvudrollen i filmen från 1995, som vann fem Oscar och är ökänd bland historiker för sin omgång med fakta. Vilken skotsk frihetshjälte spelar han?"
+    },
+    "answer": "William Wallace",
+    "answerKind": "person",
+    "person": {
+      "given": "William",
+      "family": "Wallace"
+    },
+    "hint": {
+      "nb": "Filmen heter «Braveheart».",
+      "sv": "Filmen heter «Braveheart»."
+    },
+    "funFact": {
+      "nb": "Den ekte Wallace var trolig rundt 1,95 meter høy, og ansiktsmalingen i filmen var gått av bruk flere hundre år tidligere.",
+      "sv": "Den verklige Wallace var troligen omkring 1,95 meter lång, och ansiktsmålningen i filmen hade slutat användas flera hundra år tidigare."
+    },
+    "source": "Store norske leksikon – William Wallace"
+  },
+  {
+    "id": "hjerte-l-04",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Låten ble skrevet av Jim Steinman og var opprinnelig tenkt som en vampyrsang, men endte som en av 1980-tallets største ballader. Hvilken walisisk sanger med hes stemme fremførte «Total Eclipse of the Heart»?",
+      "sv": "Låten skrevs av Jim Steinman och var ursprungligen tänkt som en vampyrsång, men slutade som en av 1980-talets största ballader. Vilken walesiska sångerska med hes röst framförde «Total Eclipse of the Heart»?"
+    },
+    "answer": "Bonnie Tyler",
+    "answerKind": "person",
+    "person": {
+      "given": "Bonnie",
+      "family": "Tyler"
+    },
+    "hint": {
+      "nb": "Hun sang også «It's a Heartache».",
+      "sv": "Hon sjöng även «It's a Heartache»."
+    },
+    "funFact": {
+      "nb": "Stemmen fikk sin karakteristiske klang etter en operasjon på stemmebåndene som hun ikke hvilte ordentlig etter.",
+      "sv": "Rösten fick sin karakteristiska klang efter en operation på stämbanden som hon inte vilade ordentligt efter."
+    },
+    "source": "BBC Music – Bonnie Tyler"
+  },
+  {
+    "id": "hjerte-l-05",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Boka fra 1973 handler om brødrene Jonatan og Karl, som møtes igjen i landet Nangijala etter døden. Den ble kritisert for å skildre døden så direkte for barn. Hvilken svensk forfatter skrev den?",
+      "sv": "Boken från 1973 handlar om bröderna Jonatan och Karl, som möts igen i landet Nangijala efter döden. Den kritiserades för att skildra döden så direkt för barn. Vilken svensk författare skrev den?"
+    },
+    "answer": "Astrid Lindgren",
+    "answerKind": "person",
+    "person": {
+      "given": "Astrid",
+      "family": "Lindgren"
+    },
+    "hint": {
+      "nb": "Hun skrev også om Emil i Lønneberget.",
+      "sv": "Hon skrev även om Emil i Lönneberga."
+    },
+    "funFact": {
+      "nb": "Forfatteren fikk tusenvis av brev fra barn som ville vite om Nangijala fantes på ordentlig.",
+      "sv": "Författaren fick tusentals brev från barn som ville veta om Nangijala fanns på riktigt."
+    },
+    "source": "Store norske leksikon – Astrid Lindgren"
+  },
+  {
+    "id": "hjerte-l-06",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kongehus",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Kongen dro på det tredje korstoget, kjempet mot Saladin og tilbrakte under seks måneder av sin tiårige regjeringstid i England. Tilnavnet hans handler om mot og et organ. Hvilken engelsk konge?",
+      "sv": "Kungen drog ut på det tredje korståget, kämpade mot Saladin och tillbringade under sex månader av sin tioåriga regeringstid i England. Hans tillnamn handlar om mod och ett organ. Vilken engelsk kung?"
+    },
+    "answer": {
+      "nb": "Rikard 1.",
+      "sv": "Rikard Lejonhjärta"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tilnavnet er Løvehjerte.",
+      "sv": "Tillnamnet är Lejonhjärta."
+    },
+    "funFact": {
+      "nb": "Han ble tatt til fange på hjemveien fra korstoget, og England måtte betale en løsesum tilsvarende flere års statsinntekter.",
+      "sv": "Han togs till fånga på hemvägen från korståget, och England fick betala en lösensumma motsvarande flera års statsinkomster."
+    },
+    "source": "Store norske leksikon – Rikard 1 Løvehjerte"
+  },
+  {
+    "id": "hjerte-l-07",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "medisin",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Apparatet henger i skap på vegger i idrettshaller, kjøpesentre og togstasjoner, og gir et elektrisk støt som kan få i gang et organ som har stanset. Over 30 000 av dem er registrert i Norge. Hva heter apparatet?",
+      "sv": "Apparaten hänger i skåp på väggar i idrottshallar, köpcentrum och tågstationer, och ger en elektrisk stöt som kan få igång ett organ som har stannat. Över 30 000 av dem är registrerade i Norge. Vad heter apparaten?"
+    },
+    "answer": {
+      "nb": "hjertestarter",
+      "sv": "hjärtstartare"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det medisinske ordet er defibrillator.",
+      "sv": "Det medicinska ordet är defibrillator."
+    },
+    "funFact": {
+      "nb": "Apparatene er laget for å kunne brukes av folk uten opplæring: de analyserer rytmen selv og gir bare støt når det trengs.",
+      "sv": "Apparaterna är gjorda för att kunna användas av folk utan utbildning: de analyserar rytmen själva och ger bara stöt när det behövs."
+    },
+    "source": "Norsk Resuscitasjonsråd – hjertestarterregisteret"
+  },
+  {
+    "id": "hjerte-l-08",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Duoen fra Halmstad, med Marie Fredriksson og Per Gessle, hadde flere amerikanske listetopper rundt 1990, blant dem «Listen to Your Heart». Hvilken svensk popduo?",
+      "sv": "Duon från Halmstad, med Marie Fredriksson och Per Gessle, hade flera amerikanska listettor kring 1990, bland dem «Listen to Your Heart». Vilken svensk popduo?"
+    },
+    "answer": "Roxette",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er hentet fra en låttittel av Dr. Feelgood.",
+      "sv": "Namnet är hämtat från en låttitel av Dr. Feelgood."
+    },
+    "funFact": {
+      "nb": "Låten var den første power-balladen som toppet Billboard-lista uten å ha vært utgitt som vanlig singel i USA.",
+      "sv": "Låten var den första power-balladen som toppade Billboardlistan utan att ha getts ut som vanlig singel i USA."
+    },
+    "source": "Nationalencyklopedin – Roxette"
+  },
+  {
+    "id": "hjerte-l-09",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Fram til 2013 brukte tjenesten en stjerne som knapp for å markere at man likte et bilde, men byttet den ut med et rødt symbol som ble oppfattet som varmere og mindre vurderende. Hvilken bildedelingstjeneste?",
+      "sv": "Fram till 2013 använde tjänsten en stjärna som knapp för att markera att man gillade en bild, men bytte ut den mot en röd symbol som uppfattades som varmare och mindre dömande. Vilken bilddelningstjänst?"
+    },
+    "answer": "Instagram",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kjøpt av Facebook i 2012.",
+      "sv": "Köptes av Facebook 2012."
+    },
+    "funFact": {
+      "nb": "Tjenesten begynte som en app for innsjekking på steder, kalt Burbn, før grunnleggerne kastet alt bortsett fra bildefunksjonen.",
+      "sv": "Tjänsten började som en app för incheckning på platser, kallad Burbn, innan grundarna kastade allt utom bildfunktionen."
+    },
+    "source": "Instagram – pressemateriale"
+  },
+  {
+    "id": "hjerte-l-10",
+    "category": "hjerte",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "design",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Logoen ble tegnet med rød fargestift i baksetet på en drosje i 1977, som del av en kampanje for å lokke turister tilbake til en by i dyp økonomisk krise. Hvilken amerikansk by?",
+      "sv": "Logotypen ritades med röd färgkrita i baksätet på en taxi 1977, som del av en kampanj för att locka tillbaka turister till en stad i djup ekonomisk kris. Vilken amerikansk stad?"
+    },
+    "answer": "New York",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortelsen står til slutt i logoen.",
+      "sv": "Förkortningen står sist i logotypen."
+    },
+    "funFact": {
+      "nb": "Designeren ga rettighetene bort gratis til delstaten, og logoen er siden kopiert i tusenvis av varianter over hele verden.",
+      "sv": "Designern skänkte rättigheterna gratis till delstaten, och logotypen har sedan kopierats i tusentals varianter över hela världen."
+    },
+    "source": "Museum of Modern Art – I ♥ NY"
+  },
+  {
+    "id": "hjerte-m-01",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Operasjonen ble utført i Cape Town i desember 1967 og gjorde kirurgen verdensberømt over natten. Pasienten Louis Washkansky våknet og snakket, men døde av lungebetennelse etter 18 dager. Hvilken sørafrikansk kirurg?",
+      "sv": "Operationen utfördes i Kapstaden i december 1967 och gjorde kirurgen världsberömd över en natt. Patienten Louis Washkansky vaknade och talade, men dog av lunginflammation efter 18 dagar. Vilken sydafrikansk kirurg?"
+    },
+    "answer": "Christiaan Barnard",
+    "answerKind": "person",
+    "person": {
+      "given": "Christiaan",
+      "family": "Barnard"
+    },
+    "hint": {
+      "nb": "Etternavnet ligner en engelsk hundetype.",
+      "sv": "Efternamnet liknar en engelsk hundtyp."
+    },
+    "funFact": {
+      "nb": "Kirurgen hadde trent på over femti hunder på forhånd, og en av dem, Tommie, levde i mange år etterpå.",
+      "sv": "Kirurgen hade tränat på över femtio hundar i förväg, och en av dem, Tommie, levde i många år efteråt."
+    },
+    "source": "Store norske leksikon – Christiaan Barnard"
+  },
+  {
+    "id": "hjerte-m-02",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Romanen fra 1899 følger sjømannen Marlow oppover Kongofloden på jakt etter elfenbenshandleren Kurtz, og ga stoffet til «Apocalypse Now». På engelsk heter den «Heart of Darkness». Hva er den norske tittelen?",
+      "sv": "Romanen från 1899 följer sjömannen Marlow uppför Kongofloden på jakt efter elfenbenshandlaren Kurtz, och gav stoffet till «Apocalypse Now». På engelska heter den «Heart of Darkness». Vad är den svenska titeln?"
+    },
+    "answer": {
+      "nb": "Mørkets hjerte",
+      "sv": "Mörkrets hjärta"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "To ord, en direkte oversettelse.",
+      "sv": "Två ord, en direkt översättning."
+    },
+    "funFact": {
+      "nb": "Forfatteren Joseph Conrad hadde selv ført dampbåt på Kongofloden i 1890, og ble aldri helt frisk etterpå.",
+      "sv": "Författaren Joseph Conrad hade själv fört ångbåt på Kongofloden 1890 och blev aldrig riktigt frisk efteråt."
+    },
+    "source": "Store norske leksikon – Mørkets hjerte"
+  },
+  {
+    "id": "hjerte-m-03",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Gruppa fra New York blandet punk og disco, og ble så ofte forvekslet med vokalisten Debbie Harry at de laget en egen kampanje med teksten «… is a group». Hvem sto bak hiten «Heart of Glass»?",
+      "sv": "Gruppen från New York blandade punk och disco, och förväxlades så ofta med sångerskan Debbie Harry att de gjorde en egen kampanj med texten «… is a group». Vem låg bakom hiten «Heart of Glass»?"
+    },
+    "answer": "Blondie",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet spiller på vokalistens hårfarge.",
+      "sv": "Namnet anspelar på sångerskans hårfärg."
+    },
+    "funFact": {
+      "nb": "Låten begynte som en langsom reggaelåt kalt «Once I Had a Love», og ble skrevet om til disco flere år senere.",
+      "sv": "Låten började som en långsam reggaelåt kallad «Once I Had a Love» och skrevs om till disco flera år senare."
+    },
+    "source": "Rolling Stone – Blondie"
+  },
+  {
+    "id": "hjerte-m-04",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Uttrykket beskriver den fysiske følelsen av å være svært nervøs eller redd, som når man venter på en dom eller står på et stup. På engelsk sitter organet i munnen i stedet. Hvor sitter det på norsk?",
+      "sv": "Uttrycket beskriver den fysiska känslan av att vara mycket nervös eller rädd, som när man väntar på en dom eller står på ett stup. På engelska sitter organet i munnen i stället. Var sitter det på norska?"
+    },
+    "answer": "halsen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bestemt form av kroppsdelen mellom hode og skuldre.",
+      "sv": "Bestämd form av kroppsdelen mellan huvud och axlar."
+    },
+    "funFact": {
+      "nb": "Følelsen er reell: stress får hjertet til å slå kraftigere, og pulsåren i halsen gjør slagene lettere å kjenne.",
+      "sv": "Känslan är verklig: stress får hjärtat att slå kraftigare, och pulsådern i halsen gör slagen lättare att känna."
+    },
+    "source": "Store norske leksikon – idiomer"
+  },
+  {
+    "id": "hjerte-m-05",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Om et menneske som er grunnleggende godt og velmenende, sier vi at det har hjertet et bestemt sted. Uttrykket finnes tilsvarende på både tysk og engelsk. Hvor har en slik person hjertet?",
+      "sv": "Om en människa som är i grunden god och välmenande säger vi att hon har hjärtat på ett bestämt ställe. Uttrycket finns motsvarande på både tyska och engelska. Var har en sådan person hjärtat?"
+    },
+    "answer": {
+      "nb": "på rette stedet",
+      "sv": "på rätta stället"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tre ord som beskriver riktig plassering.",
+      "sv": "Tre ord som beskriver rätt placering."
+    },
+    "funFact": {
+      "nb": "Uttrykket brukes gjerne som forsvar for noen som har gjort noe klønete, men med god hensikt.",
+      "sv": "Uttrycket används gärna som försvar för någon som gjort något klumpigt, men med god avsikt."
+    },
+    "source": "Store norske leksikon – idiomer"
+  },
+  {
+    "id": "hjerte-m-06",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "religion",
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Salmen ble skrevet i 1732 av en dansk prest og senere biskop i Ribe, har over ti vers i originalen og synges i hele Norden hver jul. Første linje er «Mitt hjerte alltid vanker». Hvem skrev den?",
+      "sv": "Psalmen skrevs 1732 av en dansk präst och senare biskop i Ribe, har över tio verser i originalet och sjungs i hela Norden varje jul. Första raden är «Mitt hjärta alltid vankar». Vem skrev den?"
+    },
+    "answer": "Hans Adolph Brorson",
+    "answerKind": "person",
+    "person": {
+      "given": "Hans Adolph",
+      "family": "Brorson"
+    },
+    "hint": {
+      "nb": "Etternavnet betyr «brorens sønn».",
+      "sv": "Efternamnet betyder «broderns son»."
+    },
+    "funFact": {
+      "nb": "Melodien de fleste kjenner, er en svensk folketone fra Värmland, ikke den originale danske.",
+      "sv": "Melodin de flesta känner är en svensk folkton från Värmland, inte den ursprungliga danska."
+    },
+    "source": "Store norske leksikon – Hans Adolph Brorson"
+  },
+  {
+    "id": "hjerte-m-07",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "mytologi",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "I egyptisk dødetro ble den dødes hjerte lagt på en vekt og veid mot en enkelt strutsefjær. Var hjertet tyngre, ble det slukt av uhyret Ammit. Hvilken gudinne for sannhet og orden tilhørte fjæren?",
+      "sv": "I egyptisk dödstro lades den dödes hjärta på en våg och vägdes mot en enda strutsfjäder. Var hjärtat tyngre slukades det av odjuret Ammit. Vilken gudinna för sanning och ordning tillhörde fjädern?"
+    },
+    "answer": "Ma'at",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet har fire bokstaver og en apostrof.",
+      "sv": "Namnet har fyra bokstäver och en apostrof."
+    },
+    "funFact": {
+      "nb": "Egypterne lot hjertet bli igjen i mumien fordi de mente det var tankenes og følelsenes sete – hjernen ble kastet.",
+      "sv": "Egyptierna lät hjärtat vara kvar i mumien eftersom de ansåg att det var tankarnas och känslornas säte – hjärnan kastades."
+    },
+    "source": "Store norske leksikon – egyptisk religion"
+  },
+  {
+    "id": "hjerte-m-08",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "mat-og-drikke",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Grønnsaken er egentlig en uåpnet blomsterknopp av en tistelaktig plante. Man spiser de nederste delene av bladene, og til slutt den møre midtdelen som kalles et hjerte. Hvilken grønnsak?",
+      "sv": "Grönsaken är egentligen en oöppnad blomknopp av en tistelliknande växt. Man äter de nedersta delarna av bladen, och till sist den möra mittdelen som kallas ett hjärta. Vilken grönsak?"
+    },
+    "answer": {
+      "nb": "artisjokk",
+      "sv": "kronärtskocka"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dyrkes mye i Italia og Frankrike.",
+      "sv": "Odlas mycket i Italien och Frankrike."
+    },
+    "funFact": {
+      "nb": "Planten inneholder cynarin, et stoff som gjør at alt man spiser eller drikker rett etterpå smaker søtere.",
+      "sv": "Växten innehåller cynarin, ett ämne som gör att allt man äter eller dricker strax efteråt smakar sötare."
+    },
+    "source": "Store norske leksikon – artisjokk"
+  },
+  {
+    "id": "hjerte-m-09",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "medisin",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Verdens første innopererbare pacemaker ble satt inn i 1958 av kirurgen Åke Senning, med en apparatdel utviklet av ingeniøren Rune Elmqvist. Ved hvilket sykehus i Stockholmsområdet skjedde det?",
+      "sv": "Världens första inopererbara pacemaker sattes in 1958 av kirurgen Åke Senning, med en apparatdel utvecklad av ingenjören Rune Elmqvist. Vid vilket sjukhus i Stockholmsområdet skedde det?"
+    },
+    "answer": "Karolinska sjukhuset",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sykehuset deler navn med et kjent medisinsk institutt.",
+      "sv": "Sjukhuset delar namn med ett känt medicinskt institut."
+    },
+    "funFact": {
+      "nb": "Den første pacemakeren virket bare i noen timer, men pasienten Arne Larsson fikk 26 nye apparater og levde til han var 86.",
+      "sv": "Den första pacemakern fungerade bara i några timmar, men patienten Arne Larsson fick 26 nya apparater och levde tills han var 86."
+    },
+    "source": "Nationalencyklopedin – pacemaker"
+  },
+  {
+    "id": "hjerte-m-10",
+    "category": "hjerte",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "spill"
+    ],
+    "prompt": {
+      "nb": "I dette stikkspillet gjelder det motsatte av vanlig: man vil helst ikke ta stikk med de røde kortene, som gir straffepoeng. Klarer man å ta alle, «skyter man månen», og de andre får poengene. Hva heter spillet på norsk?",
+      "sv": "I detta stickspel gäller det motsatta av vanligt: man vill helst inte ta stick med de röda korten, som ger strafflpoäng. Klarar man att ta alla «skjuter man månen», och de andra får poängen. Vad heter spelet på norska?"
+    },
+    "answer": {
+      "nb": "hjerterjakt",
+      "sv": "hjärterjakt"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet setter sammen kortfargen og et ord for å jage.",
+      "sv": "Ordet sätter samman kortfärgen och ett ord för att jaga."
+    },
+    "funFact": {
+      "nb": "Spillet fulgte med Windows fra 1992, og ble opprinnelig laget for å lære folk å bruke nettverksfunksjonene i operativsystemet.",
+      "sv": "Spelet följde med Windows från 1992 och gjordes ursprungligen för att lära folk använda nätverksfunktionerna i operativsystemet."
+    },
+    "source": "Store norske leksikon – hjerterjakt"
+  },
+  {
+    "id": "hjerte-v-01",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Karet har omtrent samme tverrsnitt som en hageslange, men tåler et trykk mange ganger høyere, og fører blodet ut fra venstre hjertekammer til resten av kroppen. Hva heter denne store pulsåren?",
+      "sv": "Kärlet har ungefär samma tvärsnitt som en trädgårdsslang, men tål ett tryck många gånger högre, och för blodet ut från vänster hjärtkammare till resten av kroppen. Vad heter denna stora pulsåder?"
+    },
+    "answer": "aorta",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er gresk og betyr omtrent «det som henger».",
+      "sv": "Ordet är grekiskt och betyder ungefär «det som hänger»."
+    },
+    "funFact": {
+      "nb": "Karet danner en bue over hjertet før det går nedover gjennom brystet og buken, og deler seg først i bekkenet.",
+      "sv": "Kärlet bildar en båge över hjärtat innan det går nedåt genom bröstet och buken, och delar sig först i bäckenet."
+    },
+    "source": "Store norske leksikon – aorta"
+  },
+  {
+    "id": "hjerte-v-02",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Kongen vant slaget ved Bannockburn i 1314 og sikret Skottland selvstendighet. Ifølge sagnet ba han om at organet hans skulle bæres i kamp mot maurerne i Spania etter hans død. Hvem var han?",
+      "sv": "Kungen vann slaget vid Bannockburn 1314 och säkrade Skottlands självständighet. Enligt sägnen bad han om att hans organ skulle bäras i strid mot morerna i Spanien efter hans död. Vem var han?"
+    },
+    "answer": "Robert the Bruce",
+    "answerKind": "person",
+    "person": {
+      "given": "Robert",
+      "family": "the Bruce"
+    },
+    "hint": {
+      "nb": "Han var Skottlands konge fra 1306.",
+      "sv": "Han var Skottlands kung från 1306."
+    },
+    "funFact": {
+      "nb": "Et blyskrin funnet ved Melrose Abbey i 1996 antas å inneholde restene, og ble gravlagt på nytt året etter.",
+      "sv": "Ett blyskrin funnet vid Melrose Abbey 1996 antas innehålla resterna och begravdes på nytt året därpå."
+    },
+    "source": "Historic Environment Scotland – Melrose Abbey"
+  },
+  {
+    "id": "hjerte-v-03",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Ordet beskriver et tungt sukk av bekymring eller oppgitthet, gjerne over noe man ikke rår over. Det finnes tilsvarende på dansk og tysk, men ikke på engelsk. Hvilket sammensatte norske ord?",
+      "sv": "Ordet beskriver en tung suck av bekymran eller uppgivenhet, gärna över något man inte råder över. Det finns motsvarande på danska och tyska, men inte på engelska. Vilket sammansatta norska ord?"
+    },
+    "answer": {
+      "nb": "hjertesukk",
+      "sv": "hjärtesuck"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Setter sammen organet og lyden man lager.",
+      "sv": "Sätter samman organet och ljudet man gör."
+    },
+    "funFact": {
+      "nb": "Ordet brukes også om et kort, spontant innlegg i avisspalter og leserbrev, gjerne om noe hverdagslig som irriterer.",
+      "sv": "Ordet används också om ett kort, spontant inlägg i tidningsspalter och insändare, gärna om något vardagligt som irriterar."
+    },
+    "source": "Det Norske Akademis ordbok – hjertesukk"
+  },
+  {
+    "id": "hjerte-v-04",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "design",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Han tegnet også en berømt Bob Dylan-plakat med fargede hårvirvler, og grunnla magasinet New York. Mest kjent er likevel logoen han skisserte gratis for delstaten sin i 1977. Hvilken amerikansk grafisk designer?",
+      "sv": "Han ritade också en berömd Bob Dylan-affisch med färgade hårvirvlar och grundade tidskriften New York. Mest känd är ändå logotypen han skissade gratis för sin delstat 1977. Vilken amerikansk grafisk designer?"
+    },
+    "answer": "Milton Glaser",
+    "answerKind": "person",
+    "person": {
+      "given": "Milton",
+      "family": "Glaser"
+    },
+    "hint": {
+      "nb": "Etternavnet betyr «glassmester» på tysk.",
+      "sv": "Efternamnet betyder «glasmästare» på tyska."
+    },
+    "funFact": {
+      "nb": "Han mente selv at kampanjen bare skulle vare et par måneder, og ble overrasket over at logoen fortsatt er i bruk.",
+      "sv": "Han trodde själv att kampanjen bara skulle vara ett par månader och blev överraskad över att logotypen fortfarande används."
+    },
+    "source": "Museum of Modern Art – Milton Glaser"
+  },
+  {
+    "id": "hjerte-v-05",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Platecoveret fra 1967 viser over femti kjendiser i en collage, og Gandhi ble fjernet i siste liten av frykt for reaksjoner i India. Hvilket band ga ut «Sgt. Pepper's Lonely Hearts Club Band»?",
+      "sv": "Skivomslaget från 1967 visar över femtio kändisar i ett collage, och Gandhi togs bort i sista stund av rädsla för reaktioner i Indien. Vilket band gav ut «Sgt. Pepper's Lonely Hearts Club Band»?"
+    },
+    "answer": "The Beatles",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fra Liverpool.",
+      "sv": "Från Liverpool."
+    },
+    "funFact": {
+      "nb": "Albumet var det første i verden som trykte hele sangteksten på coveret.",
+      "sv": "Albumet var det första i världen som tryckte hela sångtexten på omslaget."
+    },
+    "source": "Store norske leksikon – Sgt. Pepper's Lonely Hearts Club Band"
+  },
+  {
+    "id": "hjerte-v-06",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I novellen fra 1843 avslører morderen seg selv fordi han mener å høre offerets organ slå under gulvplankene. Fortellingen heter «Det sladrende hjertet». Hvilken amerikansk forfatter skrev den?",
+      "sv": "I novellen från 1843 avslöjar mördaren sig själv för att han tycker sig höra offrets organ slå under golvplankorna. Berättelsen heter «Det skvallrande hjärtat». Vilken amerikansk författare skrev den?"
+    },
+    "answer": "Edgar Allan Poe",
+    "answerKind": "person",
+    "person": {
+      "given": "Edgar Allan",
+      "family": "Poe"
+    },
+    "hint": {
+      "nb": "Han skrev også «Ravnen».",
+      "sv": "Han skrev även «Korpen»."
+    },
+    "funFact": {
+      "nb": "Forfatteren regnes som detektivsjangerens far, og Sherlock Holmes-forfatteren Arthur Conan Doyle kalte ham sitt forbilde.",
+      "sv": "Författaren räknas som detektivgenrens fader, och Sherlock Holmes-författaren Arthur Conan Doyle kallade honom sin förebild."
+    },
+    "source": "Store norske leksikon – Edgar Allan Poe"
+  },
+  {
+    "id": "hjerte-v-07",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Hageplanten kom fra Asia til Europa på 1840-tallet og ble raskt en klassiker i norske bed. På bøyde stilker henger rader av rosa, hjerteformede blomster. Det norske navnet inneholder en militær grad. Hvilken plante?",
+      "sv": "Trädgårdsväxten kom från Asien till Europa på 1840-talet och blev snabbt en klassiker i nordiska rabatter. På böjda stjälkar hänger rader av rosa, hjärtformade blommor. Det norska namnet innehåller en militär grad. Vilken växt?"
+    },
+    "answer": {
+      "nb": "løytnantshjerte",
+      "sv": "löjtnantshjärta"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Graden ligger under kaptein.",
+      "sv": "Graden ligger under kapten."
+    },
+    "funFact": {
+      "nb": "På engelsk heter planten bleeding heart, og det svenske navnet er det samme som det norske.",
+      "sv": "På engelska heter växten bleeding heart, och det norska namnet är detsamma som det svenska."
+    },
+    "source": "Store norske leksikon – løytnantshjerte"
+  },
+  {
+    "id": "hjerte-v-08",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Den innerste, lyseste og møreste delen av et salathode selges i dag som egen vare, og er hovedingrediensen i en klassisk cæsarsalat laget på romanosalat. Hva kalles denne delen på norsk?",
+      "sv": "Den innersta, ljusaste och möraste delen av ett salladshuvud säljs i dag som egen vara och är huvudingrediensen i en klassisk caesarsallad gjord på romansallat. Vad kallas denna del på norska?"
+    },
+    "answer": {
+      "nb": "salathjerte",
+      "sv": "sallatshjärta"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet setter sammen grønnsaken og organet.",
+      "sv": "Ordet sätter samman grönsaken och organet."
+    },
+    "funFact": {
+      "nb": "Cæsarsalaten ble ifølge tradisjonen laget i Tijuana i Mexico i 1924, ikke i Italia eller Roma.",
+      "sv": "Caesarsalladen skapades enligt traditionen i Tijuana i Mexiko 1924, inte i Italien eller Rom."
+    },
+    "source": "Store norske leksikon – salat"
+  },
+  {
+    "id": "hjerte-v-09",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "medisin",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Den svenske kirurgen Viking Olov Björk utviklet sammen med amerikaneren Donald Shiley en kunstig kroppsdel av pyrolyttisk karbon, som fra 1969 ble operert inn i hundretusener av pasienter. Hva slags kroppsdel?",
+      "sv": "Den svenske kirurgen Viking Olov Björk utvecklade tillsammans med amerikanen Donald Shiley en konstgjord kroppsdel av pyrolytiskt kol, som från 1969 opererades in i hundratusentals patienter. Vilken sorts kroppsdel?"
+    },
+    "answer": {
+      "nb": "hjerteklaff",
+      "sv": "hjärtklaff"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "To ord satt sammen: organet og en ventil.",
+      "sv": "Ett ord: organet och en ventil."
+    },
+    "funFact": {
+      "nb": "Modellen ble senere trukket tilbake etter at et fåtall eksemplarer brakk, en av medisinhistoriens mest omtalte produktsaker.",
+      "sv": "Modellen drogs senare tillbaka efter att ett fåtal exemplar brast, ett av medicinhistoriens mest omtalade produktärenden."
+    },
+    "source": "Nationalencyklopedin – Viking Olov Björk"
+  },
+  {
+    "id": "hjerte-v-10",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sprak",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Grekerne mente at hukommelsen satt i brystet, ikke i hodet, og det har satt spor i engelsk. Hvilket todelte engelske uttrykk brukes fortsatt om å kunne noe utenat?",
+      "sv": "Grekerna ansåg att minnet satt i bröstet, inte i huvudet, och det har satt spår i engelskan. Vilket tvådelade engelska uttryck används fortfarande om att kunna något utantill?"
+    },
+    "answer": "by heart",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "To ord; det siste er organet.",
+      "sv": "Två ord; det sista är organet."
+    },
+    "funFact": {
+      "nb": "Samme forestilling ligger bak det franske «par cœur» og det spanske «de memoria»s eldre motstykke «de corazón».",
+      "sv": "Samma föreställning ligger bakom franska «par cœur» och det spanska «de memoria»s äldre motsvarighet «de corazón»."
+    },
+    "source": "Oxford English Dictionary – by heart"
+  }
+]
