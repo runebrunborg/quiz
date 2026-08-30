@@ -1,13 +1,13 @@
 /**
  * Theme Quiz – Cloudflare Worker.
  *
- * Serverer det statiske frontend-bygget og et lite JSON-API på /api for
- * synkronisering av resultater, statistikk og vennesammenligning.
+ * Serverer frontend-bygget og et JSON-API på /api for kontoer, synkronisering
+ * av resultater, statistikk, venner og toppliste.
  *
- * Autentisering er bevisst enkel: hver konto får en tilfeldig 32-byte nøkkel
- * («gjenopprettingsnøkkel») som sendes som Bearer-token. Serveren lagrer bare
- * SHA-256 av nøkkelen. Ingen e-post, ingen passord, ingen personopplysninger
- * utover et visningsnavn brukeren velger selv.
+ * Om passord: nettleseren kjører selve nøkkelutledningen (PBKDF2, 600 000
+ * runder) og sender resultatet hit. Serveren salter det med sitt eget
+ * tilfeldige salt og lagrer en SHA-256 av summen. Arbeidsdelingen skyldes
+ * CPU-taket per forespørsel på Cloudflare; se src/lib/crypto.ts.
  */
 import { Hono } from 'hono'
 import type { MiddlewareHandler } from 'hono'
@@ -19,9 +19,10 @@ export interface Env {
   APP_NAME: string
 }
 
-type Vars = { userId: string; displayName: string; friendCode: string }
+type Vars = { userId: string; tokenHash: string }
 
 const app = new Hono<{ Bindings: Env; Variables: Vars }>()
+const api = new Hono<{ Bindings: Env; Variables: Vars }>()
 
 /* ------------------------------------------------------------------ hjelpere */
 
@@ -36,7 +37,15 @@ async function sha256(input: string): Promise<string> {
   return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, '0')).join('')
 }
 
-/** Vennekode: 8 tegn uten lett forvekslede bokstaver (ingen I, O, 0, 1). */
+/** Sammenligning uten tidslekkasje. */
+function timingSafeEqual(a: string, b: string): boolean {
+  if (a.length !== b.length) return false
+  let diff = 0
+  for (let i = 0; i < a.length; i++) diff |= a.charCodeAt(i) ^ b.charCodeAt(i)
+  return diff === 0
+}
+
+/** Vennekode: 8 tegn uten lett forvekslede bokstaver. Beholdt som alternativ til nickname. */
 function friendCode(): string {
   const alphabet = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'
   const buf = new Uint8Array(8)
@@ -44,59 +53,267 @@ function friendCode(): string {
   return [...buf].map((b) => alphabet[b % alphabet.length]).join('')
 }
 
-const api = new Hono<{ Bindings: Env; Variables: Vars }>()
+/** Samme normalisering som i src/lib/crypto.ts – må holdes i takt. */
+function nicknameKey(nickname: string): string {
+  return nickname.normalize('NFKC').toLowerCase().replace(/[\s\-_.]/g, '')
+}
 
-/** Krever gyldig Bearer-token og legger brukeren på context. */
+const NICKNAME_PATTERN = /^[\p{L}\p{N}][\p{L}\p{N} _.-]{1,23}$/u
+
+function validateNickname(raw: unknown): { ok: true; nickname: string; key: string } | { ok: false; error: string } {
+  const nickname = typeof raw === 'string' ? raw.trim() : ''
+  if (nickname.length < 2) return { ok: false, error: 'Nicknamet må ha minst to tegn' }
+  if (nickname.length > 24) return { ok: false, error: 'Nicknamet kan ha høyst 24 tegn' }
+  if (!NICKNAME_PATTERN.test(nickname)) return { ok: false, error: 'Nicknamet kan bare inneholde bokstaver, tall, mellomrom, punktum, bindestrek og understrek' }
+  const key = nicknameKey(nickname)
+  if (key.length < 2) return { ok: false, error: 'Nicknamet må ha minst to bokstaver eller tall' }
+  return { ok: true, nickname, key }
+}
+
+/** Nøkkelen fra nettleserens PBKDF2 – 64 heksadesimale tegn. */
+function validatePasswordKey(raw: unknown): string | null {
+  return typeof raw === 'string' && /^[0-9a-f]{64}$/.test(raw) ? raw : null
+}
+
+const MIN_YEAR = 1900
+const MAX_AGE_ISH = 13
+
+function validateBirthYear(raw: unknown): { ok: true; value: number | null } | { ok: false; error: string } {
+  if (raw === null || raw === undefined || raw === '') return { ok: true, value: null }
+  const year = typeof raw === 'number' ? raw : Number.parseInt(String(raw), 10)
+  if (!Number.isInteger(year)) return { ok: false, error: 'Fødselsår må være et årstall' }
+  const newest = new Date().getUTCFullYear() - MAX_AGE_ISH
+  if (year < MIN_YEAR || year > newest) {
+    return { ok: false, error: `Fødselsår må være mellom ${MIN_YEAR} og ${newest}. Aldersgrensen for Theme Quiz er ${MAX_AGE_ISH} år.` }
+  }
+  return { ok: true, value: year }
+}
+
+function validateCountry(raw: unknown): { ok: true; value: string | null } | { ok: false; error: string } {
+  if (raw === null || raw === undefined || raw === '') return { ok: true, value: null }
+  const code = String(raw).trim().toUpperCase()
+  if (!/^[A-Z]{2}$/.test(code)) return { ok: false, error: 'Land må være en tobokstavs landkode' }
+  return { ok: true, value: code }
+}
+
+interface UserRow {
+  id: string
+  nickname: string
+  friend_code: string
+  birth_year: number | null
+  country: string | null
+}
+
+function publicProfile(row: UserRow, token?: string) {
+  return {
+    userId: row.id,
+    nickname: row.nickname,
+    friendCode: row.friend_code,
+    birthYear: row.birth_year,
+    country: row.country,
+    ...(token ? { token } : {}),
+  }
+}
+
+async function issueToken(db: D1Database, userId: string): Promise<string> {
+  const token = randomHex(32)
+  const now = Date.now()
+  await db
+    .prepare('INSERT INTO auth_tokens (token_hash, user_id, created_at, last_seen_at) VALUES (?, ?, ?, ?)')
+    .bind(await sha256(token), userId, now, now)
+    .run()
+  return token
+}
+
+/* -------------------------------------------------------------- middleware */
+
 const auth: MiddlewareHandler<{ Bindings: Env; Variables: Vars }> = async (c, next) => {
   const header = c.req.header('authorization') ?? ''
   const token = header.startsWith('Bearer ') ? header.slice(7).trim() : ''
-  if (!token) return c.json({ error: 'Mangler nøkkel' }, 401)
+  if (!token) return c.json({ error: 'Ikke innlogget' }, 401)
 
-  const row = await c.env.DB.prepare('SELECT id, display_name, friend_code FROM users WHERE token_hash = ?')
-    .bind(await sha256(token))
-    .first<{ id: string; display_name: string; friend_code: string }>()
+  const tokenHash = await sha256(token)
+  const row = await c.env.DB.prepare('SELECT user_id FROM auth_tokens WHERE token_hash = ?')
+    .bind(tokenHash)
+    .first<{ user_id: string }>()
 
-  if (!row) return c.json({ error: 'Ukjent nøkkel' }, 401)
-  c.set('userId', row.id)
-  c.set('displayName', row.display_name)
-  c.set('friendCode', row.friend_code)
+  if (!row) return c.json({ error: 'Innloggingen er utløpt' }, 401)
+  c.set('userId', row.user_id)
+  c.set('tokenHash', tokenHash)
   await next()
 }
 
 api.use('/account/me', auth)
+api.use('/account/logout', auth)
+api.use('/account/password', auth)
 api.use('/sessions', auth)
 api.use('/me/*', auth)
 api.use('/friends', auth)
-api.use('/leaderboard', auth)
 api.use('/friends/*', auth)
+api.use('/leaderboard', auth)
 
 /* -------------------------------------------------------------------- konto */
 
-api.post('/account', async (c) => {
-  const body = await c.req.json<{ displayName?: string }>().catch(() => ({}) as { displayName?: string })
-  const displayName = (body.displayName ?? '').trim().slice(0, 40) || 'Spiller'
-
-  const id = crypto.randomUUID()
-  const token = randomHex(32)
-  const code = friendCode()
-
-  await c.env.DB.prepare(
-    'INSERT INTO users (id, display_name, friend_code, token_hash, created_at) VALUES (?, ?, ?, ?, ?)',
-  )
-    .bind(id, displayName, code, await sha256(token), Date.now())
-    .run()
-
-  return c.json({ userId: id, token, displayName, friendCode: code })
+api.get('/account/available', async (c) => {
+  const check = validateNickname(c.req.query('nickname'))
+  if (!check.ok) return c.json({ available: false, error: check.error })
+  const taken = await c.env.DB.prepare('SELECT 1 FROM users WHERE nickname_key = ?').bind(check.key).first()
+  return c.json({ available: !taken })
 })
 
-api.get('/account/me', (c) =>
-  c.json({
-    userId: c.get('userId'),
-    token: '',
-    displayName: c.get('displayName'),
-    friendCode: c.get('friendCode'),
-  }),
-)
+api.post('/account/register', async (c) => {
+  const body = await c.req.json<Record<string, unknown>>().catch(() => ({}) as Record<string, unknown>)
+
+  const name = validateNickname(body.nickname)
+  if (!name.ok) return c.json({ error: name.error }, 400)
+
+  const passwordKey = validatePasswordKey(body.passwordKey)
+  if (!passwordKey) return c.json({ error: 'Passordet mangler eller er ugyldig' }, 400)
+
+  const year = validateBirthYear(body.birthYear)
+  if (!year.ok) return c.json({ error: year.error }, 400)
+
+  const country = validateCountry(body.country)
+  if (!country.ok) return c.json({ error: country.error }, 400)
+
+  const taken = await c.env.DB.prepare('SELECT 1 FROM users WHERE nickname_key = ?').bind(name.key).first()
+  if (taken) return c.json({ error: 'Nicknamet er opptatt' }, 409)
+
+  const id = crypto.randomUUID()
+  const salt = randomHex(16)
+  const hash = await sha256(`${salt}:${passwordKey}`)
+
+  await c.env.DB.prepare(
+    `INSERT INTO users (id, display_name, nickname, nickname_key, friend_code, token_hash,
+                        password_hash, password_salt, birth_year, country, created_at)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+  )
+    .bind(
+      id,
+      name.nickname,
+      name.nickname,
+      name.key,
+      friendCode(),
+      randomHex(32), // ubrukt kolonne fra første skjemaversjon, må være unik
+      hash,
+      salt,
+      year.value,
+      country.value,
+      Date.now(),
+    )
+    .run()
+
+  const token = await issueToken(c.env.DB, id)
+  const row = await c.env.DB.prepare(
+    'SELECT id, nickname, friend_code, birth_year, country FROM users WHERE id = ?',
+  )
+    .bind(id)
+    .first<UserRow>()
+
+  return c.json(publicProfile(row!, token))
+})
+
+api.post('/account/login', async (c) => {
+  const body = await c.req.json<Record<string, unknown>>().catch(() => ({}) as Record<string, unknown>)
+  const name = validateNickname(body.nickname)
+  const passwordKey = validatePasswordKey(body.passwordKey)
+  if (!name.ok || !passwordKey) return c.json({ error: 'Feil nickname eller passord' }, 401)
+
+  const row = await c.env.DB.prepare(
+    'SELECT id, nickname, friend_code, birth_year, country, password_hash, password_salt FROM users WHERE nickname_key = ?',
+  )
+    .bind(name.key)
+    .first<UserRow & { password_hash: string | null; password_salt: string | null }>()
+
+  if (!row || !row.password_hash || !row.password_salt) {
+    return c.json({ error: 'Feil nickname eller passord' }, 401)
+  }
+
+  const attempt = await sha256(`${row.password_salt}:${passwordKey}`)
+  if (!timingSafeEqual(attempt, row.password_hash)) {
+    return c.json({ error: 'Feil nickname eller passord' }, 401)
+  }
+
+  const token = await issueToken(c.env.DB, row.id)
+  return c.json(publicProfile(row, token))
+})
+
+api.get('/account/me', async (c) => {
+  const row = await c.env.DB.prepare(
+    'SELECT id, nickname, friend_code, birth_year, country FROM users WHERE id = ?',
+  )
+    .bind(c.get('userId'))
+    .first<UserRow>()
+  if (!row) return c.json({ error: 'Fant ikke kontoen' }, 404)
+  await c.env.DB.prepare('UPDATE auth_tokens SET last_seen_at = ? WHERE token_hash = ?')
+    .bind(Date.now(), c.get('tokenHash'))
+    .run()
+  return c.json(publicProfile(row))
+})
+
+api.patch('/account/me', async (c) => {
+  const body = await c.req.json<Record<string, unknown>>().catch(() => ({}) as Record<string, unknown>)
+  const year = validateBirthYear(body.birthYear)
+  if (!year.ok) return c.json({ error: year.error }, 400)
+  const country = validateCountry(body.country)
+  if (!country.ok) return c.json({ error: country.error }, 400)
+
+  await c.env.DB.prepare('UPDATE users SET birth_year = ?, country = ? WHERE id = ?')
+    .bind(year.value, country.value, c.get('userId'))
+    .run()
+
+  const row = await c.env.DB.prepare(
+    'SELECT id, nickname, friend_code, birth_year, country FROM users WHERE id = ?',
+  )
+    .bind(c.get('userId'))
+    .first<UserRow>()
+  return c.json(publicProfile(row!))
+})
+
+api.post('/account/password', async (c) => {
+  const body = await c.req.json<Record<string, unknown>>().catch(() => ({}) as Record<string, unknown>)
+  const current = validatePasswordKey(body.currentPasswordKey)
+  const next = validatePasswordKey(body.newPasswordKey)
+  if (!current || !next) return c.json({ error: 'Passordet mangler eller er ugyldig' }, 400)
+
+  const row = await c.env.DB.prepare('SELECT password_hash, password_salt FROM users WHERE id = ?')
+    .bind(c.get('userId'))
+    .first<{ password_hash: string | null; password_salt: string | null }>()
+  if (!row?.password_hash || !row.password_salt) return c.json({ error: 'Kontoen har ikke passord' }, 400)
+  if (!timingSafeEqual(await sha256(`${row.password_salt}:${current}`), row.password_hash)) {
+    return c.json({ error: 'Feil nåværende passord' }, 401)
+  }
+
+  const salt = randomHex(16)
+  await c.env.DB.prepare('UPDATE users SET password_hash = ?, password_salt = ? WHERE id = ?')
+    .bind(await sha256(`${salt}:${next}`), salt, c.get('userId'))
+    .run()
+
+  // Logg ut alle andre enheter når passordet byttes.
+  await c.env.DB.prepare('DELETE FROM auth_tokens WHERE user_id = ? AND token_hash != ?')
+    .bind(c.get('userId'), c.get('tokenHash'))
+    .run()
+
+  return c.json({ ok: true })
+})
+
+api.post('/account/logout', async (c) => {
+  await c.env.DB.prepare('DELETE FROM auth_tokens WHERE token_hash = ?').bind(c.get('tokenHash')).run()
+  return c.json({ ok: true })
+})
+
+api.delete('/account/me', auth, async (c) => {
+  const userId = c.get('userId')
+  await c.env.DB.batch([
+    c.env.DB.prepare('DELETE FROM answer_topics WHERE user_id = ?').bind(userId),
+    c.env.DB.prepare('DELETE FROM answers WHERE user_id = ?').bind(userId),
+    c.env.DB.prepare('DELETE FROM sessions WHERE user_id = ?').bind(userId),
+    c.env.DB.prepare('DELETE FROM friends WHERE user_id = ? OR friend_id = ?').bind(userId, userId),
+    c.env.DB.prepare('DELETE FROM auth_tokens WHERE user_id = ?').bind(userId),
+    c.env.DB.prepare('DELETE FROM users WHERE id = ?').bind(userId),
+  ])
+  return c.json({ ok: true })
+})
 
 /* ------------------------------------------------------------------- økter */
 
@@ -133,7 +350,9 @@ api.post('/sessions', async (c) => {
     const correct = s.answers.filter((a) => a.correct).length
 
     // Idempotent: samme økt kan sendes flere ganger uten å telles dobbelt.
-    await c.env.DB.prepare('DELETE FROM answer_topics WHERE answer_id IN (SELECT id FROM answers WHERE session_id = ? AND user_id = ?)')
+    await c.env.DB.prepare(
+      'DELETE FROM answer_topics WHERE answer_id IN (SELECT id FROM answers WHERE session_id = ? AND user_id = ?)',
+    )
       .bind(s.id, userId)
       .run()
     await c.env.DB.prepare('DELETE FROM answers WHERE session_id = ? AND user_id = ?').bind(s.id, userId).run()
@@ -143,19 +362,7 @@ api.post('/sessions', async (c) => {
       `INSERT INTO sessions (id, user_id, category, difficulty, region, started_at, finished_at, iso_day, iso_week, correct, total)
        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
     )
-      .bind(
-        s.id,
-        userId,
-        s.category,
-        s.difficulty,
-        s.region,
-        s.startedAt,
-        finishedAt,
-        day,
-        week,
-        correct,
-        s.answers.length,
-      )
+      .bind(s.id, userId, s.category, s.difficulty, s.region, s.startedAt, finishedAt, day, week, correct, s.answers.length)
       .run()
 
     for (const a of s.answers) {
@@ -200,7 +407,7 @@ api.get('/me/stats', async (c) => {
   return c.json({ weeks: weeks.results ?? [], topics: topics.results ?? [] })
 })
 
-/* ----------------------------------------------------------------- venner */
+/* ------------------------------------------------------------------ venner */
 
 const WEEKS_BACK = 12
 
@@ -219,40 +426,37 @@ function ratio(v: { correct: number; total: number } | undefined): number | null
   return Math.round((v.correct / v.total) * 100)
 }
 
-async function friendSummary(db: D1Database, meId: string, friend: { id: string; display_name: string }) {
+function accumulate(map: Map<string, { correct: number; total: number }>) {
+  return [...map.values()].reduce((sum, v) => ({ correct: sum.correct + v.correct, total: sum.total + v.total }), {
+    correct: 0,
+    total: 0,
+  })
+}
+
+async function friendSummary(db: D1Database, meId: string, friend: { id: string; nickname: string }) {
   const [mine, theirs] = await Promise.all([weeklyFor(db, meId), weeklyFor(db, friend.id)])
   const weekKeys = recentWeeks(Date.now(), WEEKS_BACK)
   const thisWeek = weekKeys[weekKeys.length - 1]
   const lastWeek = weekKeys[weekKeys.length - 2]
 
-  const acc = (map: Map<string, { correct: number; total: number }>) =>
-    [...map.values()].reduce((sum, v) => ({ correct: sum.correct + v.correct, total: sum.total + v.total }), {
-      correct: 0,
-      total: 0,
-    })
-
   return {
     id: friend.id,
-    name: friend.display_name,
+    name: friend.nickname,
     thisWeek: theirs.get(thisWeek) ?? { correct: 0, total: 0 },
     lastWeek: theirs.get(lastWeek) ?? { correct: 0, total: 0 },
-    accumulated: acc(theirs),
-    myAccumulated: acc(mine),
-    weeks: weekKeys.map((week) => ({
-      week,
-      me: ratio(mine.get(week)),
-      friend: ratio(theirs.get(week)),
-    })),
+    accumulated: accumulate(theirs),
+    myAccumulated: accumulate(mine),
+    weeks: weekKeys.map((week) => ({ week, me: ratio(mine.get(week)), friend: ratio(theirs.get(week)) })),
   }
 }
 
 api.get('/friends', async (c) => {
   const userId = c.get('userId')
   const rows = await c.env.DB.prepare(
-    'SELECT u.id, u.display_name FROM friends f JOIN users u ON u.id = f.friend_id WHERE f.user_id = ? ORDER BY u.display_name',
+    'SELECT u.id, u.nickname FROM friends f JOIN users u ON u.id = f.friend_id WHERE f.user_id = ? ORDER BY u.nickname',
   )
     .bind(userId)
-    .all<{ id: string; display_name: string }>()
+    .all<{ id: string; nickname: string }>()
 
   const friends = []
   for (const row of rows.results ?? []) {
@@ -263,30 +467,31 @@ api.get('/friends', async (c) => {
 
 api.post('/friends', async (c) => {
   const userId = c.get('userId')
-  const body = await c.req.json<{ code?: string }>().catch(() => ({}) as { code?: string })
-  const code = (body.code ?? '').trim().toUpperCase()
-  if (!code) return c.json({ error: 'Mangler vennekode' }, 400)
+  const body = await c.req.json<{ nickname?: string; code?: string }>().catch(() => ({}) as { nickname?: string; code?: string })
 
-  const friend = await c.env.DB.prepare('SELECT id, display_name FROM users WHERE friend_code = ?')
-    .bind(code)
-    .first<{ id: string; display_name: string }>()
+  let friend: { id: string; nickname: string } | null = null
 
-  if (!friend) return c.json({ error: 'Fant ingen med den koden' }, 404)
-  if (friend.id === userId) return c.json({ error: 'Det er din egen kode' }, 400)
+  if (body.nickname) {
+    const name = validateNickname(body.nickname)
+    if (!name.ok) return c.json({ error: name.error }, 400)
+    friend = await c.env.DB.prepare('SELECT id, nickname FROM users WHERE nickname_key = ?')
+      .bind(name.key)
+      .first<{ id: string; nickname: string }>()
+  } else if (body.code) {
+    friend = await c.env.DB.prepare('SELECT id, nickname FROM users WHERE friend_code = ?')
+      .bind(body.code.trim().toUpperCase())
+      .first<{ id: string; nickname: string }>()
+  } else {
+    return c.json({ error: 'Oppgi et nickname' }, 400)
+  }
+
+  if (!friend) return c.json({ error: 'Fant ingen med det navnet' }, 404)
+  if (friend.id === userId) return c.json({ error: 'Det er deg selv' }, 400)
 
   const now = Date.now()
-  // Vennskap er gjensidig – begge får se hverandres uketall.
   await c.env.DB.batch([
-    c.env.DB.prepare('INSERT OR IGNORE INTO friends (user_id, friend_id, created_at) VALUES (?, ?, ?)').bind(
-      userId,
-      friend.id,
-      now,
-    ),
-    c.env.DB.prepare('INSERT OR IGNORE INTO friends (user_id, friend_id, created_at) VALUES (?, ?, ?)').bind(
-      friend.id,
-      userId,
-      now,
-    ),
+    c.env.DB.prepare('INSERT OR IGNORE INTO friends (user_id, friend_id, created_at) VALUES (?, ?, ?)').bind(userId, friend.id, now),
+    c.env.DB.prepare('INSERT OR IGNORE INTO friends (user_id, friend_id, created_at) VALUES (?, ?, ?)').bind(friend.id, userId, now),
   ])
 
   return c.json({ friend: await friendSummary(c.env.DB, userId, friend) })
@@ -302,94 +507,52 @@ api.delete('/friends/:id', async (c) => {
   return c.json({ ok: true })
 })
 
-api.patch('/account', auth, async (c) => {
-  const body = await c.req.json<{ displayName?: string }>().catch(() => ({}) as { displayName?: string })
-  const displayName = (body.displayName ?? '').trim().slice(0, 40)
-  if (!displayName) return c.json({ error: 'Visningsnavnet kan ikke vaere tomt' }, 400)
+/* --------------------------------------------------------------- toppliste */
 
-  await c.env.DB.prepare('UPDATE users SET display_name = ? WHERE id = ?').bind(displayName, c.get('userId')).run()
-  return c.json({ userId: c.get('userId'), token: '', displayName, friendCode: c.get('friendCode') })
-})
-
-/** Sletter kontoen og alt som henger paa den. Kan ikke angres. */
-api.delete('/account', auth, async (c) => {
-  const userId = c.get('userId')
-  await c.env.DB.batch([
-    c.env.DB.prepare('DELETE FROM answer_topics WHERE user_id = ?').bind(userId),
-    c.env.DB.prepare('DELETE FROM answers WHERE user_id = ?').bind(userId),
-    c.env.DB.prepare('DELETE FROM sessions WHERE user_id = ?').bind(userId),
-    c.env.DB.prepare('DELETE FROM friends WHERE user_id = ? OR friend_id = ?').bind(userId, userId),
-    c.env.DB.prepare('DELETE FROM users WHERE id = ?').bind(userId),
-  ])
-  return c.json({ ok: true })
-})
-
-/* ------------------------------------------------------------- toppliste */
-
-/**
- * Rangering paa antall riktige svar, med treffprosent som skillekriterium.
- * `scope=friends` viser deg og vennene dine uansett hvor lite de har spilt;
- * `scope=all` er hele basen, men krever et minstevolum saa ingen topper lista
- * paa ett riktig svar av ett.
- */
-const MIN_ANSWERS_GLOBAL = 10
-const LEADERBOARD_LIMIT = 50
+/** Færre besvarte spørsmål enn dette, og man er ikke med – ellers vinner den som har svart på tre. */
+const LEADERBOARD_MINIMUM = 30
 
 api.get('/leaderboard', async (c) => {
   const userId = c.get('userId')
-  const scope = c.req.query('scope') === 'all' ? 'all' : 'friends'
-  const period = c.req.query('period') === 'all' ? 'all' : 'week'
+  const period = c.req.query('period') === 'week' ? 'week' : 'all'
   const week = isoWeek(Date.now())
 
-  const join = period === 'week' ? 'AND s.iso_week = ?' : ''
+  const base = `
+    SELECT u.id, u.nickname, u.country,
+           SUM(s.correct) AS correct,
+           SUM(s.total)   AS total
+      FROM sessions s
+      JOIN users u ON u.id = s.user_id
+     WHERE s.total > 0 ${period === 'week' ? 'AND s.iso_week = ?' : ''}
+     GROUP BY u.id
+    HAVING total >= ?
+     ORDER BY (CAST(SUM(s.correct) AS REAL) / SUM(s.total)) DESC, total DESC
+  `
 
-  let rows
-  if (scope === 'friends') {
-    const sql = `SELECT u.id, u.display_name AS name,
-                        COALESCE(SUM(s.correct), 0) AS correct,
-                        COALESCE(SUM(s.total), 0) AS total
-                 FROM users u
-                 LEFT JOIN sessions s ON s.user_id = u.id ${join}
-                 WHERE u.id = ? OR u.id IN (SELECT friend_id FROM friends WHERE user_id = ?)
-                 GROUP BY u.id
-                 ORDER BY correct DESC, name COLLATE NOCASE`
-    const stmt = period === 'week' ? c.env.DB.prepare(sql).bind(week, userId, userId) : c.env.DB.prepare(sql).bind(userId, userId)
-    rows = await stmt.all<{ id: string; name: string; correct: number; total: number }>()
-  } else {
-    const sql = `SELECT u.id, u.display_name AS name,
-                        SUM(s.correct) AS correct,
-                        SUM(s.total) AS total
-                 FROM users u
-                 JOIN sessions s ON s.user_id = u.id ${join}
-                 GROUP BY u.id
-                 HAVING SUM(s.total) >= ?
-                 ORDER BY correct DESC, (CAST(SUM(s.correct) AS REAL) / SUM(s.total)) DESC, name COLLATE NOCASE
-                 LIMIT ?`
-    const stmt =
-      period === 'week'
-        ? c.env.DB.prepare(sql).bind(week, MIN_ANSWERS_GLOBAL, LEADERBOARD_LIMIT)
-        : c.env.DB.prepare(sql).bind(MIN_ANSWERS_GLOBAL, LEADERBOARD_LIMIT)
-    rows = await stmt.all<{ id: string; name: string; correct: number; total: number }>()
-  }
+  const minimum = period === 'week' ? 10 : LEADERBOARD_MINIMUM
+  const stmt =
+    period === 'week'
+      ? c.env.DB.prepare(`${base} LIMIT 100`).bind(week, minimum)
+      : c.env.DB.prepare(`${base} LIMIT 100`).bind(minimum)
 
-  const entries = (rows.results ?? []).map((r, i) => ({
+  const rows = await stmt.all<{ id: string; nickname: string; country: string | null; correct: number; total: number }>()
+  const list = (rows.results ?? []).map((r, i) => ({
     rank: i + 1,
-    id: r.id,
-    name: r.name,
-    correct: r.correct ?? 0,
-    total: r.total ?? 0,
-    pct: r.total ? Math.round(((r.correct ?? 0) / r.total) * 100) : null,
-    me: r.id === userId,
+    nickname: r.nickname,
+    country: r.country,
+    correct: r.correct,
+    total: r.total,
+    accuracy: Math.round((r.correct / r.total) * 100),
+    isMe: r.id === userId,
   }))
 
-  return c.json({ scope, period, entries, minAnswers: scope === 'all' ? MIN_ANSWERS_GLOBAL : 0 })
+  const mine = list.find((r) => r.isMe) ?? null
+  return c.json({ period, minimum, entries: list, me: mine })
 })
 
 api.get('/health', (c) => c.json({ ok: true, app: c.env.APP_NAME }))
 
 app.route('/api', api)
-
-// Alt annet er frontend-bygget.
 app.all('*', (c) => c.env.ASSETS.fetch(c.req.raw))
 
 export default app

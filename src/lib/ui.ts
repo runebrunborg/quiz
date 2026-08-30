@@ -74,3 +74,53 @@ export const ORIGIN_LABELS: Record<Lang, Record<Region, string>> = {
   nb: { no: 'Norge', se: 'Sverige', int: 'Internasjonalt' },
   sv: { no: 'Norge', se: 'Sverige', int: 'Internationellt' },
 }
+
+/**
+ * Landliste for profilen. Norden først siden det er der brukerne er, deretter
+ * resten alfabetisk. Koder er ISO 3166-1 alfa-2.
+ */
+export const COUNTRIES: { code: string; name: string }[] = [
+  { code: 'NO', name: 'Norge' },
+  { code: 'SE', name: 'Sverige' },
+  { code: 'DK', name: 'Danmark' },
+  { code: 'FI', name: 'Finland' },
+  { code: 'IS', name: 'Island' },
+  { code: 'AU', name: 'Australia' },
+  { code: 'BE', name: 'Belgia' },
+  { code: 'BR', name: 'Brasil' },
+  { code: 'CA', name: 'Canada' },
+  { code: 'EE', name: 'Estland' },
+  { code: 'FR', name: 'Frankrike' },
+  { code: 'GR', name: 'Hellas' },
+  { code: 'IN', name: 'India' },
+  { code: 'IE', name: 'Irland' },
+  { code: 'IT', name: 'Italia' },
+  { code: 'JP', name: 'Japan' },
+  { code: 'CN', name: 'Kina' },
+  { code: 'HR', name: 'Kroatia' },
+  { code: 'LV', name: 'Latvia' },
+  { code: 'LT', name: 'Litauen' },
+  { code: 'NL', name: 'Nederland' },
+  { code: 'PL', name: 'Polen' },
+  { code: 'PT', name: 'Portugal' },
+  { code: 'RO', name: 'Romania' },
+  { code: 'CH', name: 'Sveits' },
+  { code: 'ES', name: 'Spania' },
+  { code: 'GB', name: 'Storbritannia' },
+  { code: 'CZ', name: 'Tsjekkia' },
+  { code: 'DE', name: 'Tyskland' },
+  { code: 'UA', name: 'Ukraina' },
+  { code: 'HU', name: 'Ungarn' },
+  { code: 'US', name: 'USA' },
+  { code: 'AT', name: 'Østerrike' },
+  { code: 'ZZ', name: 'Annet' },
+]
+
+export const COUNTRY_NAME = new Map(COUNTRIES.map((c) => [c.code, c.name]))
+
+/** Land som gir et naturlig standardvalg av utgangspunkt for quizen. */
+export function regionForCountry(code: string | null): Region {
+  if (code === 'NO') return 'no'
+  if (code === 'SE') return 'se'
+  return 'int'
+}

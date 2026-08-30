@@ -1,18 +1,29 @@
 import type { Difficulty, QuizSession, Region } from '../../shared/types'
 
 const SESSIONS_KEY = 'tq.sessions.v1'
-const PROFILE_KEY = 'tq.profile.v1'
+const PROFILE_KEY = 'tq.profile.v2'
 const PREFS_KEY = 'tq.prefs.v1'
 const OUTBOX_KEY = 'tq.outbox.v1'
 
 export interface Profile {
-  /** Serverens bruker-id. Null når man spiller helt lokalt. */
+  /** Serverens bruker-id. Null når man spiller uten konto. */
   userId: string | null
-  /** Hemmelig nøkkel som autentiserer mot API-et. */
+  /** Innloggingsnøkkel for denne enheten. */
   token: string | null
-  displayName: string
-  /** Kode venner bruker for å legge deg til. */
+  nickname: string
+  /** Alternativ til nickname når man legger til venner. */
   friendCode: string | null
+  birthYear: number | null
+  country: string | null
+}
+
+export const EMPTY_PROFILE: Profile = {
+  userId: null,
+  token: null,
+  nickname: '',
+  friendCode: null,
+  birthYear: null,
+  country: null,
 }
 
 export interface Prefs {
@@ -34,7 +45,7 @@ function write(key: string, value: unknown): void {
   try {
     localStorage.setItem(key, JSON.stringify(value))
   } catch {
-    /* full disk eller privat modus – appen fungerer uansett, bare uten historikk */
+    /* privat modus eller full disk – appen fungerer, bare uten historikk */
   }
 }
 
@@ -50,16 +61,15 @@ export function saveSession(session: QuizSession): void {
 }
 
 export function loadProfile(): Profile {
-  return read<Profile>(PROFILE_KEY, { userId: null, token: null, displayName: '', friendCode: null })
+  return { ...EMPTY_PROFILE, ...read<Partial<Profile>>(PROFILE_KEY, {}) }
 }
 
 export function saveProfile(profile: Profile): void {
   write(PROFILE_KEY, profile)
 }
 
-/** Logger ut av skykontoen. Rundene som er spilt lokalt blir liggende. */
 export function clearProfile(): void {
-  write(PROFILE_KEY, { userId: null, token: null, displayName: '', friendCode: null })
+  write(PROFILE_KEY, EMPTY_PROFILE)
 }
 
 export function loadPrefs(): Prefs {
@@ -87,4 +97,11 @@ export function clearFromOutbox(sessionIds: string[]): void {
     OUTBOX_KEY,
     loadOutbox().filter((id) => !done.has(id)),
   )
+}
+
+/** Alt som er spilt lokalt legges i kø, slik at en fersk konto får med seg historikken. */
+export function queueAllFinishedSessions(): void {
+  const ids = new Set(loadOutbox())
+  for (const s of loadSessions()) if (s.finishedAt !== null) ids.add(s.id)
+  write(OUTBOX_KEY, [...ids])
 }

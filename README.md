@@ -71,16 +71,31 @@ Hvert svar lagres med spørsmålets skjulte emne-tags (`geografi`, `popkultur`,
 Rundene lagres alltid lokalt først og synkroniseres til serveren når du er
 innlogget. Er du offline, ligger de i kø og sendes neste gang.
 
-### Kontoer og venner
+### Kontoer, venner og toppliste
 
-Ingen e-post, ingen passord. Du oppretter en konto med et visningsnavn og får
-to ting:
+Innlogging er nickname og passord. Nicknamet er unikt på tvers av skrivemåte
+(«Rune» og «r u n e» er samme navn), og det er slik venner finner deg.
 
-* en **vennekode** på åtte tegn som du deler med venner,
-* en **gjenopprettingsnøkkel** som er den eneste veien inn på kontoen fra en ny
-  enhet. Serveren lagrer bare SHA-256 av den.
+Selve nøkkelutledningen fra passordet skjer i nettleseren – PBKDF2 med 600 000
+runder – og serveren lagrer en saltet SHA-256 av resultatet. Arbeidsdelingen er
+bevisst: Cloudflares gratisplan gir hver forespørsel svært lite CPU-tid, og en
+forsvarlig PBKDF2 på serveren ville sprengt taket. En angriper som får tak i
+databasen må fortsatt kjøre hele PBKDF2-jobben per passordgjetning.
 
-Vennskap er gjensidige: legger du til noen, ser dere begge hverandres uketall.
+Hver innlogget enhet får sin egen nøkkel i `auth_tokens`, så du kan være logget
+inn flere steder. Bytter du passord, logges alle andre enheter ut.
+
+Fødselsår og land er valgfrie og kan fjernes når som helst. De brukes bare til
+aldersgruppe- og landsstatistikk, og vises aldri på topplisten. Aldersgrensen er
+13 år, håndhevet ved at fødselsår nyere enn det avvises.
+
+Topplisten er åpen for innloggede spillere og viser nickname og treffprosent.
+Det står tydelig ved registrering. `DELETE /api/account/me` sletter kontoen og
+alt som hører til den.
+
+Rundene lagres alltid lokalt først og synkroniseres når du er innlogget. Er du
+offline, ligger de i kø og sendes neste gang. Oppretter du profil etter å ha
+spilt en stund, følger historikken på enheten med.
 
 ## Spørsmålsbanken
 
@@ -130,7 +145,13 @@ lyshet, kontrast og separasjon ved fargeblindhet.
 ```bash
 npm test        # hint-logikk, trekning, statistikk og innholdsinvarianter
 npm run build   # validerer innholdet, typesjekker og bygger
+
+npm run cf:dev  # i ett vindu
+npm run test:api # i et annet: hele kontolopet mot en kjorende worker
 ```
+
+`npm run test:api` gar gjennom registrering, unikt nickname, innlogging, feil
+passord, aldersgrense, venner, toppliste, passordbytte og sletting.
 
 ## Videre
 

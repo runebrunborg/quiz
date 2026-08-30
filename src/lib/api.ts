@@ -1,6 +1,16 @@
 import type { QuizSession } from '../../shared/types'
 import { QUESTION_BY_ID } from './content'
-import { clearFromOutbox, clearProfile, loadOutbox, loadProfile, loadSessions, saveProfile } from './storage'
+import { derivePasswordKey } from './crypto'
+import {
+  clearFromOutbox,
+  clearProfile,
+  loadOutbox,
+  loadProfile,
+  loadSessions,
+  queueAllFinishedSessions,
+  saveProfile,
+  type Profile,
+} from './storage'
 
 export class ApiError extends Error {
   constructor(
@@ -15,9 +25,7 @@ async function call<T>(path: string, init: RequestInit = {}): Promise<T> {
   const profile = loadProfile()
   const headers = new Headers(init.headers)
   headers.set('content-type', 'application/json')
-  // En eksplisitt nøkkel i kallet vinner – ellers ville innlogging med en annen
-  // nøkkel bli overstyrt av den som allerede ligger lagret.
-  if (profile.token && !headers.has('authorization')) headers.set('authorization', `Bearer ${profile.token}`)
+  if (profile.token) headers.set('authorization', `Bearer ${profile.token}`)
 
   const res = await fetch(`/api${path}`, { ...init, headers })
   if (!res.ok) {
@@ -35,81 +43,111 @@ async function call<T>(path: string, init: RequestInit = {}): Promise<T> {
 
 export interface AccountResponse {
   userId: string
-  token: string
-  displayName: string
+  nickname: string
   friendCode: string
+  birthYear: number | null
+  country: string | null
+  token?: string
 }
 
-export async function createAccount(displayName: string): Promise<AccountResponse> {
-  const account = await call<AccountResponse>('/account', {
+function store(account: AccountResponse, fallbackToken?: string | null): Profile {
+  const profile: Profile = {
+    userId: account.userId,
+    token: account.token ?? fallbackToken ?? null,
+    nickname: account.nickname,
+    friendCode: account.friendCode,
+    birthYear: account.birthYear,
+    country: account.country,
+  }
+  saveProfile(profile)
+  return profile
+}
+
+export async function nicknameAvailable(nickname: string): Promise<{ available: boolean; error?: string }> {
+  return call(`/account/available?nickname=${encodeURIComponent(nickname)}`)
+}
+
+export async function register(input: {
+  nickname: string
+  password: string
+  birthYear: number | null
+  country: string | null
+}): Promise<Profile> {
+  const passwordKey = await derivePasswordKey(input.nickname, input.password)
+  const account = await call<AccountResponse>('/account/register', {
     method: 'POST',
-    body: JSON.stringify({ displayName }),
+    body: JSON.stringify({
+      nickname: input.nickname,
+      passwordKey,
+      birthYear: input.birthYear,
+      country: input.country,
+    }),
   })
-  saveProfile({
-    userId: account.userId,
-    token: account.token,
-    displayName: account.displayName,
-    friendCode: account.friendCode,
-  })
-  return account
+  const profile = store(account)
+  // En fersk konto skal arve det man allerede har spilt på denne enheten.
+  queueAllFinishedSessions()
+  await syncOutbox()
+  return profile
 }
 
-/** Logg inn på en eksisterende konto på en ny enhet med gjenopprettingsnøkkelen. */
-export async function restoreAccount(token: string): Promise<AccountResponse> {
-  const account = await call<AccountResponse>('/account/me', {
-    headers: { authorization: `Bearer ${token}` },
+export async function login(nickname: string, password: string): Promise<Profile> {
+  const passwordKey = await derivePasswordKey(nickname, password)
+  const account = await call<AccountResponse>('/account/login', {
+    method: 'POST',
+    body: JSON.stringify({ nickname, passwordKey }),
   })
-  saveProfile({
-    userId: account.userId,
-    token,
-    displayName: account.displayName,
-    friendCode: account.friendCode,
-  })
-  return account
+  const profile = store(account)
+  queueAllFinishedSessions()
+  await syncOutbox()
+  return profile
 }
 
-/** Bytter visningsnavn. Navnet er det eneste vennene dine ser. */
-export async function renameAccount(displayName: string): Promise<AccountResponse> {
-  const account = await call<AccountResponse>('/account', {
-    method: 'PATCH',
-    body: JSON.stringify({ displayName }),
-  })
+export async function refreshProfile(): Promise<Profile | null> {
   const current = loadProfile()
-  saveProfile({ ...current, displayName: account.displayName })
-  return account
+  if (!current.token) return null
+  try {
+    const account = await call<AccountResponse>('/account/me')
+    return store(account, current.token)
+  } catch (e) {
+    if (e instanceof ApiError && e.status === 401) clearProfile()
+    return null
+  }
 }
 
-/** Sletter kontoen i skyen og kobler fra lokalt. Rundene på enheten blir liggende. */
+export async function updateProfile(input: { birthYear: number | null; country: string | null }): Promise<Profile> {
+  const current = loadProfile()
+  const account = await call<AccountResponse>('/account/me', {
+    method: 'PATCH',
+    body: JSON.stringify(input),
+  })
+  return store(account, current.token)
+}
+
+export async function changePassword(currentPassword: string, newPassword: string): Promise<void> {
+  const { nickname } = loadProfile()
+  await call('/account/password', {
+    method: 'POST',
+    body: JSON.stringify({
+      currentPasswordKey: await derivePasswordKey(nickname, currentPassword),
+      newPasswordKey: await derivePasswordKey(nickname, newPassword),
+    }),
+  })
+}
+
+export async function logout(): Promise<void> {
+  try {
+    await call('/account/logout', { method: 'POST' })
+  } finally {
+    clearProfile()
+  }
+}
+
 export async function deleteAccount(): Promise<void> {
-  await call('/account', { method: 'DELETE' })
-  clearProfile()
-}
-
-/** Kobler fra uten å røre noe på serveren – nøkkelen er fortsatt gyldig. */
-export function logOut(): void {
-  clearProfile()
-}
-
-export interface LeaderboardEntry {
-  rank: number
-  id: string
-  name: string
-  correct: number
-  total: number
-  pct: number | null
-  me: boolean
-}
-
-export type LeaderboardScope = 'friends' | 'all'
-export type LeaderboardPeriod = 'week' | 'all'
-
-export async function fetchLeaderboard(
-  scope: LeaderboardScope,
-  period: LeaderboardPeriod,
-): Promise<{ entries: LeaderboardEntry[]; minAnswers: number }> {
-  return call<{ entries: LeaderboardEntry[]; minAnswers: number }>(
-    `/leaderboard?scope=${scope}&period=${period}`,
-  )
+  try {
+    await call('/account/me', { method: 'DELETE' })
+  } finally {
+    clearProfile()
+  }
 }
 
 /** Formen serveren lagrer per svar – inkluderer emne-tags så statistikken kan grupperes i SQL. */
@@ -144,8 +182,12 @@ export async function syncOutbox(): Promise<number> {
     clearFromOutbox([...pending])
     return 0
   }
-  await call('/sessions', { method: 'POST', body: JSON.stringify({ sessions: sessions.map(toPayload) }) })
-  clearFromOutbox(sessions.map((s) => s.id))
+  // Send i porsjoner, så en lang historikk ikke sprenger én forespørsel.
+  for (let i = 0; i < sessions.length; i += 25) {
+    const batch = sessions.slice(i, i + 25)
+    await call('/sessions', { method: 'POST', body: JSON.stringify({ sessions: batch.map(toPayload) }) })
+    clearFromOutbox(batch.map((s) => s.id))
+  }
   return sessions.length
 }
 
@@ -155,7 +197,6 @@ export interface FriendSummary {
   thisWeek: { correct: number; total: number }
   lastWeek: { correct: number; total: number }
   accumulated: { correct: number; total: number }
-  /** Dine egne akkumulerte tall, så sammenligningen kan vises side ved side. */
   myAccumulated: { correct: number; total: number }
   weeks: { week: string; me: number | null; friend: number | null }[]
 }
@@ -165,14 +206,33 @@ export async function listFriends(): Promise<FriendSummary[]> {
   return res.friends
 }
 
-export async function addFriend(code: string): Promise<FriendSummary> {
+export async function addFriend(nickname: string): Promise<FriendSummary> {
   const res = await call<{ friend: FriendSummary }>('/friends', {
     method: 'POST',
-    body: JSON.stringify({ code: code.trim().toUpperCase() }),
+    body: JSON.stringify({ nickname: nickname.trim() }),
   })
   return res.friend
 }
 
 export async function removeFriend(id: string): Promise<void> {
   await call(`/friends/${encodeURIComponent(id)}`, { method: 'DELETE' })
+}
+
+export interface LeaderboardEntry {
+  rank: number
+  nickname: string
+  country: string | null
+  correct: number
+  total: number
+  accuracy: number
+  isMe: boolean
+}
+
+export async function leaderboard(period: 'all' | 'week'): Promise<{
+  period: string
+  minimum: number
+  entries: LeaderboardEntry[]
+  me: LeaderboardEntry | null
+}> {
+  return call(`/leaderboard?period=${period}`)
 }
