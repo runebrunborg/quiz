@@ -15,7 +15,7 @@
       "binding": "DB",
       "database_name": "theme-quiz",
       // Kjør `npx wrangler d1 create theme-quiz` og lim inn id-en her.
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "535c7bdc-24a4-495a-9b6a-9e15f6d96d76",
       "migrations_dir": "migrations"
     }
   ],
