@@ -1,0 +1,18 @@
+{
+  "name": "Theme Quiz",
+  "short_name": "ThemeQuiz",
+  "description": "Temabasert quiz på norsk og svensk med hint, fun facts og statistikk over tid.",
+  "lang": "no",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05081e",
+  "theme_color": "#05081e",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

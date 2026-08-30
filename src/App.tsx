@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import { NavLink, Route, Routes } from 'react-router-dom'
+import Logo from './components/Logo'
 import { syncOutbox } from './lib/api'
 import AccountScreen from './screens/AccountScreen'
 import BankScreen from './screens/BankScreen'
@@ -28,9 +29,8 @@ export default function App() {
     <div className="app">
       <header className="topbar">
         <div className="topbar__inner">
-          <NavLink to="/" className="brand">
-            <span className="brand__mark" aria-hidden="true" />
-            Theme Quiz
+          <NavLink to="/" className="brand" aria-label="Theme Quiz">
+            <Logo size={30} withWordmark />
           </NavLink>
           <nav className="nav">
             {NAV.map((item) => (

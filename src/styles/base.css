@@ -128,19 +128,94 @@ a {
   text-decoration: none;
   color: var(--text);
   font-family: var(--font-display);
-  font-weight: 800;
-  letter-spacing: -0.03em;
-  font-size: var(--step-1);
   white-space: nowrap;
 }
 
-.brand__mark {
-  width: 26px;
-  height: 26px;
-  border-radius: 9px;
-  background: var(--grad-primary);
-  box-shadow: var(--shadow-pink);
+/* -- Merket: fire blad som vifter seg ut fra ett punkt --------------------
+   Ett blad per temafarge. Bladene farges fra tokens, så merket følger
+   paletten. Bevegelsen er to lag: en utvifting ved innlasting og en langsom
+   pust som aldri stopper. Begge slås av under prefers-reduced-motion. */
+.tq-mark {
   flex: none;
+  overflow: visible;
+  transition: transform var(--dur) var(--ease);
+}
+
+.tq-blade {
+  transform-box: view-box;
+  transform-origin: 32px 50px;
+}
+
+.tq-blade rect {
+  transform-box: view-box;
+  transform-origin: 32px 50px;
+}
+
+.tq-blade--1 rect { fill: var(--amber-400); }
+.tq-blade--2 rect { fill: var(--pink-500); }
+.tq-blade--3 rect { fill: var(--violet-500); }
+.tq-blade--4 rect { fill: var(--cyan-400); }
+
+.tq-mark:not(.tq-mark--still) .tq-blade--1 { animation: tq-fan-1 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
+.tq-mark:not(.tq-mark--still) .tq-blade--2 { animation: tq-fan-2 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) 0.06s both; }
+.tq-mark:not(.tq-mark--still) .tq-blade--3 { animation: tq-fan-3 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) 0.12s both; }
+.tq-mark:not(.tq-mark--still) .tq-blade--4 { animation: tq-fan-4 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) 0.18s both; }
+
+.tq-mark:not(.tq-mark--still) .tq-blade--1 rect { animation: tq-sway 4.6s ease-in-out 1s infinite alternate; }
+.tq-mark:not(.tq-mark--still) .tq-blade--2 rect { animation: tq-sway 5s ease-in-out 1.15s infinite alternate; }
+.tq-mark:not(.tq-mark--still) .tq-blade--3 rect { animation: tq-sway 4.8s ease-in-out 1.3s infinite alternate; }
+.tq-mark:not(.tq-mark--still) .tq-blade--4 rect { animation: tq-sway 5.2s ease-in-out 1.45s infinite alternate; }
+
+/* Uten animasjon står bladene i endeposisjon. */
+.tq-mark--still .tq-blade--1 { transform: rotate(-48deg); }
+.tq-mark--still .tq-blade--2 { transform: rotate(-16deg); }
+.tq-mark--still .tq-blade--3 { transform: rotate(16deg); }
+.tq-mark--still .tq-blade--4 { transform: rotate(48deg); }
+
+@keyframes tq-fan-1 { from { transform: rotate(2deg); opacity: 0; } to { transform: rotate(-48deg); opacity: 1; } }
+@keyframes tq-fan-2 { from { transform: rotate(2deg); opacity: 0; } to { transform: rotate(-16deg); opacity: 1; } }
+@keyframes tq-fan-3 { from { transform: rotate(2deg); opacity: 0; } to { transform: rotate(16deg); opacity: 1; } }
+@keyframes tq-fan-4 { from { transform: rotate(2deg); opacity: 0; } to { transform: rotate(48deg); opacity: 1; } }
+@keyframes tq-sway { from { transform: rotate(-3.5deg); } to { transform: rotate(3.5deg); } }
+
+@media (prefers-reduced-motion: reduce) {
+  .tq-mark .tq-blade,
+  .tq-mark .tq-blade rect {
+    animation: none !important;
+  }
+
+  .tq-mark .tq-blade--1 { transform: rotate(-48deg); }
+  .tq-mark .tq-blade--2 { transform: rotate(-16deg); }
+  .tq-mark .tq-blade--3 { transform: rotate(16deg); }
+  .tq-mark .tq-blade--4 { transform: rotate(48deg); }
+}
+
+/* -- Ordmerket: Theme lett, Quiz tungt, satt inntil hverandre ------------- */
+.tq-word {
+  display: inline-flex;
+  font-family: var(--font-display);
+  font-size: var(--step-1);
+  letter-spacing: -0.035em;
+  line-height: 1;
+}
+
+.tq-word__a {
+  font-weight: 400;
+  color: var(--text-muted);
+}
+
+.tq-word__b {
+  font-weight: 800;
+  color: var(--text);
+}
+
+.brand:hover .tq-mark,
+.brand:focus-visible .tq-mark {
+  transform: scale(1.09) rotate(-5deg);
+}
+
+.brand:hover .tq-word__a {
+  color: var(--text);
 }
 
 .nav {

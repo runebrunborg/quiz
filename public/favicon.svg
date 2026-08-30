@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Theme Quiz">
+  <rect width="64" height="64" rx="14" fill="#080d2b"/>
+  <g transform="translate(32 32) scale(0.86) translate(-32 -34)">
+    <rect x="26.5" y="14" width="11" height="34" rx="5.5" fill="#ffc94d" transform="rotate(-48 32 50)"/>
+    <rect x="26.5" y="14" width="11" height="34" rx="5.5" fill="#ff2d8e" transform="rotate(-16 32 50)"/>
+    <rect x="26.5" y="14" width="11" height="34" rx="5.5" fill="#8e44d8" transform="rotate(16 32 50)"/>
+    <rect x="26.5" y="14" width="11" height="34" rx="5.5" fill="#3ad6e0" transform="rotate(48 32 50)"/>
+  </g>
+</svg>
