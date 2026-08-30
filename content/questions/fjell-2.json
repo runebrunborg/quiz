@@ -1,0 +1,690 @@
+[
+  {
+    "id": "fjell-l-11",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["natur", "geografi"],
+    "prompt": {
+      "nb": "Dette høyfjellsplatået regnes som Europas største sammenhengende slettelandskap i høyfjellet, og huser en av verdens største gjenværende stammer av villrein. Det ble nasjonalpark i 1981 og dekker over 3400 kvadratkilometer. Hvilket platå er dette?",
+      "sv": "Denna högfjällsplatå räknas som Europas största sammanhängande slättlandskap i högfjället, och hyser en av världens största kvarvarande stammar av vildren. Den blev nationalpark 1981 och täcker över 3 400 kvadratkilometer. Vilken platå är detta?"
+    },
+    "answer": "Hardangervidda",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Platået grenser til Hardangerfjorden i vest og Telemark i øst, og riksvei 7 krysser det via Dyranut.",
+      "sv": "Platån gränsar till Hardangerfjorden i väster och Telemark i öster, och riksväg 7 korsar den via Dyranut."
+    },
+    "funFact": {
+      "nb": "Villreinstammen på Hardangervidda regnes som en av de største i verden, men den har gått tilbake de siste tiårene på grunn av sykdom, ferdsel og klimaendringer.",
+      "sv": "Vildrensstammen på Hardangervidda räknas som en av de största i världen, men den har minskat de senaste decennierna på grund av sjukdom, mänsklig aktivitet och klimatförändringar."
+    },
+    "source": "Store norske leksikon – Hardangervidda; Miljødirektoratet – Hardangervidda nasjonalpark"
+  },
+  {
+    "id": "fjell-l-12",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "I 1962 fikk Norge sin aller første nasjonalpark, med runde, sammenhengende topper som skiller den fra de skarpe alpine formene lenger vest. Området har vært brukt til villreinjakt siden steinalderen. Hvilken nasjonalpark var først ute?",
+      "sv": "År 1962 fick Norge sin allra första nationalpark, med runda, sammanhängande toppar som skiljer den från de skarpa alpina formerna längre västerut. Området har använts för vildrensjakt sedan stenåldern. Vilken nationalpark var först?"
+    },
+    "answer": "Rondane",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellmassivet har ti navngitte topper, ofte kalt «rondene», og ligger i Innlandet fylke.",
+      "sv": "Bergmassivet har tio namngivna toppar, ofta kallade «rondene», och ligger i Innlandet fylke."
+    },
+    "funFact": {
+      "nb": "Parken ble utvidet i 2003. Steinalderens fangstfolk brukte fangstgroper og ledegjerder for å jakte villrein i området, og spor etter dette finnes fortsatt.",
+      "sv": "Parken utvidgades 2003. Stenålderns fångstfolk använde fångstgropar och ledarstängsel för att jaga vildren i området, och spår av detta finns kvar än i dag."
+    },
+    "source": "Store norske leksikon – Rondane nasjonalpark"
+  },
+  {
+    "id": "fjell-l-13",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["natur", "popkultur"],
+    "prompt": {
+      "nb": "Denne nesten flate klippen stikker 604 meter rett ut over Lysefjorden i Ryfylke, og turen dit har blitt en av Norges mest besøkte, med rundt 300 000 vandrere i 2024. Den har også opptrådt i «Mission: Impossible – Fallout». Hva heter formasjonen?",
+      "sv": "Denna nästan platta klippa sticker ut 604 meter rakt över Lysefjorden i Ryfylke, och vandringen dit har blivit en av Norges mest besökta, med omkring 300 000 vandrare 2024. Den har också synts i «Mission: Impossible – Fallout». Vad heter formationen?"
+    },
+    "answer": "Preikestolen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet spiller på klippens flate, nesten firkantede form – som en talerstol.",
+      "sv": "Namnet anspelar på klippans platta, nästan fyrkantiga form – som en predikstol."
+    },
+    "funFact": {
+      "nb": "Platået på toppen måler rundt 25 ganger 25 meter. Til tross for de mange besøkende har ikke norske myndigheter satt opp gjerde, siden dødsulykker regnes som svært sjeldne.",
+      "sv": "Platån på toppen mäter omkring 25 gånger 25 meter. Trots de många besökarna har norska myndigheter inte satt upp något staket, eftersom dödsolyckor räknas som mycket sällsynta."
+    },
+    "source": "Store norske leksikon – Preikestolen"
+  },
+  {
+    "id": "fjell-l-14",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie", "sport"],
+    "prompt": {
+      "nb": "Organisasjonen ble stiftet i Kristiania i 1868 på initiativ av Thomas Heftye, og driver i dag rundt 550 hytter og mer enn 20 000 kilometer merkede stier i norske fjell og skoger. Hvilken forening er dette?",
+      "sv": "Föreningen bildades i Kristiania 1868 på initiativ av Thomas Heftye, och driver i dag omkring 550 stugor och mer än 20 000 kilometer markerade leder i norska fjäll och skogar. Vilken förening är detta?"
+    },
+    "answer": "Den Norske Turistforening",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Foreningen forkortes DNT, og medlemstallet passerte 300 000 i 2024.",
+      "sv": "Föreningen förkortas DNT, och medlemsantalet passerade 300 000 år 2024."
+    },
+    "funFact": {
+      "nb": "DNT gir også ut håndboken «Til fots i Norge» og tidsskriftet «Fjell og Vidde», og arrangerer over 4000 turer og kurs i året.",
+      "sv": "DNT ger också ut handboken «Til fots i Norge» och tidskriften «Fjell og Vidde», och arrangerar över 4 000 turer och kurser om året."
+    },
+    "source": "Den Norske Turistforening – om oss / historikk"
+  },
+  {
+    "id": "fjell-l-15",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["sport", "geografi"],
+    "prompt": {
+      "nb": "Fjellet troner over Sveriges mest kjente skisportsted, er 1420 meter høyt og har vært mål for vintersportsturisme siden 1800-tallet. Det har vært vertskap for alpint verdensmesterskap tre ganger, senest i 2019. Hvilket fjell er dette?",
+      "sv": "Berget tronar över Sveriges mest kända skidort, är 1 420 meter högt och har varit mål för vintersportturism sedan 1800-talet. Det har varit värd för alpina VM tre gånger, senast 2019. Vilket berg är detta?"
+    },
+    "answer": "Åreskutan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellet ligger ved landsbyen Åre i Jämtland og nås enkelt med tog.",
+      "sv": "Berget ligger vid byn Åre i Jämtland och nås enkelt med tåg."
+    },
+    "funFact": {
+      "nb": "De alpine verdensmesterskapene ble arrangert her i 1954, 2007 og 2019, og fjellet huser i dag Sveriges største skianlegg.",
+      "sv": "De alpina VM-tävlingarna hölls här 1954, 2007 och 2019, och berget hyser i dag Sveriges största skidanläggning."
+    },
+    "source": "FIS Alpine World Ski Championships – historikk; Åre kommun"
+  },
+  {
+    "id": "fjell-l-16",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["natur", "geografi"],
+    "prompt": {
+      "nb": "Massivet ligger på grensen mellom Norge og Sverige, med Storsylen som høyeste topp på 1762 meter. Svenska Turistföreningen driver en fjellstasjon rett ved foten. Hvilket fjellmassiv er dette?",
+      "sv": "Massivet ligger på gränsen mellan Norge och Sverige, med Storsylen som högsta topp på 1 762 meter. Svenska Turistföreningen driver en fjällstation alldeles vid foten. Vilket bergmassiv är detta?"
+    },
+    "answer": {
+      "nb": "Sylan",
+      "sv": "Sylarna"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet viser til de spisse, syl-formede toppene i massivet.",
+      "sv": "Namnet syftar på de spetsiga, sylformade topparna i massivet."
+    },
+    "funFact": {
+      "nb": "Fjellstasjonen Sylarna eies og drives av Svenska Turistföreningen og ligger på svensk side, nær grensen til Tydal kommune i Trøndelag.",
+      "sv": "Fjällstationen Sylarna ägs och drivs av Svenska Turistföreningen och ligger på svensk sida, nära gränsen till Tydals kommun i Trøndelag."
+    },
+    "source": "Store norske leksikon – Sylan; Svenska Turistföreningen – Sylarna fjällstation"
+  },
+  {
+    "id": "fjell-l-17",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Sveriges høyeste foss med fritt fall stuper 70 meter rett ned i en kløft i Fulufjällets nasjonalpark, som ble opprettet i 2002. Vannet kommer fra en liten isbre høyt oppe i fjellet. Hva heter fossen?",
+      "sv": "Sveriges högsta fall med fritt fall störtar 70 meter rakt ner i en klyfta i Fulufjällets nationalpark, som bildades 2002. Vattnet kommer från en liten glaciär högt uppe i berget. Vad heter fallet?"
+    },
+    "answer": "Njupeskär",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fossens totale høyde, inkludert den bratte delen over det frie fallet, er 93 meter.",
+      "sv": "Fallets totala höjd, inklusive den branta delen ovanför det fria fallet, är 93 meter."
+    },
+    "funFact": {
+      "nb": "Fossen skapes av smeltevann og nedbør som samles i en li over stupet, og turen dit fra parkeringen følger en godt tilrettelagt sti på noen kilometer.",
+      "sv": "Fallet skapas av smältvatten och nederbörd som samlas i en sluttning ovanför stupet, och vandringen dit från parkeringen följer en välanlagd led på några kilometer."
+    },
+    "source": "Sveriges Nationalparker – Fulufjällets nationalpark; Naturvårdsverket"
+  },
+  {
+    "id": "fjell-l-18",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["dyr", "natur"],
+    "prompt": {
+      "nb": "Dette naturreservatet i Västerbotten ble opprettet i 1974 og dekker over 560 000 hektar – et av Europas største sammenhengende verneområder. Fjellreven er reservatets kjennemerke. Hva heter reservatet?",
+      "sv": "Detta naturreservat i Västerbotten inrättades 1974 och täcker över 560 000 hektar – ett av Europas största sammanhängande skyddade områden. Fjällräven är reservatets kännemärke. Vad heter reservatet?"
+    },
+    "answer": "Vindelfjällens naturreservat",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Reservatet ligger i fjellheimen vest i Västerbotten, i den sørlige delen av svenske Lappland.",
+      "sv": "Reservatet ligger i fjällvärlden i västra Västerbotten, i den södra delen av svenska Lappland."
+    },
+    "funFact": {
+      "nb": "Reservatet ble utvidet i 1988 og forvaltes med mål om å kombinere naturvern, reindrift, friluftsliv og annen bruk av fjellet.",
+      "sv": "Reservatet utvidgades 1988 och förvaltas med målet att kombinera naturvård, renskötsel, friluftsliv och annan användning av fjället."
+    },
+    "source": "Naturvårdsverket – Vindelfjällens naturreservat"
+  },
+  {
+    "id": "fjell-l-19",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Fjellet i Alaska er Nord-Amerikas høyeste, med en topp 6190 meter over havet. I 2015 fikk det tilbake et navn fra et atabaskisk urfolksspråk, etter mer enn hundre år under et navn gitt til ære for en amerikansk president. Hvilket fjell er dette?",
+      "sv": "Berget i Alaska är Nordamerikas högsta, med en topp 6 190 meter över havet. År 2015 fick det tillbaka ett namn från ett atabaskiskt urfolksspråk, efter mer än hundra år under ett namn som hedrade en amerikansk president. Vilket berg är detta?"
+    },
+    "answer": "Denali",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det tidligere navnet æret William McKinley, som ble president i 1897 uten noen gang å ha besøkt Alaska.",
+      "sv": "Det tidigare namnet hedrade William McKinley, som blev president 1897 utan att någonsin ha besökt Alaska."
+    },
+    "funFact": {
+      "nb": "Målt fra fot til topp er fjellet blant de høyeste på land i verden, siden foten ligger nær havnivå mens for eksempel Mount Everest starter fra et høytliggende platå.",
+      "sv": "Mätt från fot till topp är berget bland de högsta på land i världen, eftersom foten ligger nära havsnivå medan till exempel Mount Everest utgår från en högt belägen platå."
+    },
+    "source": "U.S. Department of the Interior (2015); Encyclopaedia Britannica – Denali"
+  },
+  {
+    "id": "fjell-l-20",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Med sine 6961 meter er dette den høyeste toppen i både Sør-Amerika og hele den vestlige halvkule, og en av de mest fremtredende toppene i verden nest etter Everest. Fjellet ligger i Andesfjellene i Argentina. Hvilket fjell er dette?",
+      "sv": "Med sina 6 961 meter är detta den högsta toppen i både Sydamerika och hela västra halvklotet, och en av de mest framträdande topparna i världen näst efter Everest. Berget ligger i Anderna i Argentina. Vilket berg är detta?"
+    },
+    "answer": "Aconcagua",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellet inngår i «De sju toppene» – den høyeste toppen på hvert kontinent – og ligger i provinsen Mendoza.",
+      "sv": "Berget ingår i «De sju topparna» – den högsta toppen på varje kontinent – och ligger i provinsen Mendoza."
+    },
+    "funFact": {
+      "nb": "Til tross for høyden regnes Aconcagua som teknisk enkel å bestige via normalruten, men den store høyden og kraftige vinder gjør den likevel farlig for uerfarne.",
+      "sv": "Trots höjden räknas Aconcagua som tekniskt enkel att bestiga via normalleden, men den stora höjden och de kraftiga vindarna gör den ändå farlig för oerfarna."
+    },
+    "source": "Encyclopaedia Britannica – Aconcagua"
+  },
+  {
+    "id": "fjell-m-11",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["transport", "geografi"],
+    "prompt": {
+      "nb": "Veien opp fra Åndalsnes i Rauma ble åpnet av kong Haakon VII i 1936 etter åtte års bygging, og slynger seg gjennom elleve hårnålssvinger opp en bratt fjellside. Øverst durer Stigfossen 320 meter ned. Hva heter veien?",
+      "sv": "Vägen upp från Åndalsnes i Rauma öppnades av kung Haakon VII 1936 efter åtta års byggande, och slingrar sig genom elva hårnålskurvor upp en brant bergssida. Högst upp dånar Stigfossen 320 meter ner. Vad heter vägen?"
+    },
+    "answer": "Trollstigen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet viser til de nærliggende Trolltindane, og veien er en del av Norges nasjonale turistveger.",
+      "sv": "Namnet syftar på de närliggande Trolltindane, och vägen ingår i Norges nationella turistvägar."
+    },
+    "funFact": {
+      "nb": "Stigningen er brattest 10 prosent, og på toppen ligger en utsiktsplattform med utsikt over svingene og fossen.",
+      "sv": "Lutningen är som brantast 10 procent, och högst upp finns en utsiktsplattform med utsikt över kurvorna och fallet."
+    },
+    "source": "Store norske leksikon – Trollstigen; Statens vegvesen – Nasjonale turistveger"
+  },
+  {
+    "id": "fjell-m-12",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["historie", "dyr"],
+    "prompt": {
+      "nb": "I den samiske reindriftskulturen er dette den grunnleggende driftsenheten – en gruppe familier som sammen forvalter beiteland og flytter reinflokken gjennom årstidene. Norges reindriftslov anerkjente i 2007 enheten som grunnlaget for retten til areal og drift. Hva kalles enheten?",
+      "sv": "I den samiska renskötselkulturen är detta den grundläggande driftsenheten – en grupp familjer som tillsammans förvaltar betesmark och flyttar renhjorden genom årstiderna. Norges renskötsellag erkände 2007 enheten som grunden för rätten till mark och drift. Vad kallas enheten?"
+    },
+    "answer": "Siida",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er samisk og brukes både om selve gruppen og om områdene den disponerer.",
+      "sv": "Ordet är samiskt och används både om själva gruppen och om de områden den förfogar över."
+    },
+    "funFact": {
+      "nb": "Siidaen har røtter langt tilbake i tid og er fortsatt en sentral sosial og økonomisk enhet i norsk reindrift, ved siden av det formelle reinbeitedistriktet.",
+      "sv": "Siidan har rötter långt tillbaka i tiden och är fortfarande en central social och ekonomisk enhet i norsk renskötsel, vid sidan av det formella renbetesdistriktet."
+    },
+    "source": "Reindriftsloven (2007); Sametinget"
+  },
+  {
+    "id": "fjell-m-13",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Skredderen fra Åndalsnes gikk til topps på Romsdalshornet hele 233 ganger mellom 1928 og 1985, siste gang som 80-åring, og var med på førstebestigningen av Trollryggen i 1958. Samlingen hans ble grunnlaget for Norsk Tindemuseum. Hvem var klatreren?",
+      "sv": "Skräddaren från Åndalsnes gick upp på Romsdalshorn hela 233 gånger mellan 1928 och 1985, sista gången som 80-åring, och var med vid förstabestigningen av Trollryggen 1958. Hans samling blev grunden för Norsk Tindemuseum. Vem var klättraren?"
+    },
+    "answer": "Arne Randers Heen",
+    "answerKind": "person",
+    "person": {
+      "given": "Arne",
+      "family": "Randers Heen"
+    },
+    "hint": {
+      "nb": "Han var selvlært klatrer og drev egen skredderforretning i Åndalsnes.",
+      "sv": "Han var självlärd klättrare och drev egen skrädderiverksamhet i Åndalsnes."
+    },
+    "funFact": {
+      "nb": "Han deltok også på ekspedisjoner til Grønland, Alpene, Svalbard og Himalaya, og fikk kongens fortjenstmedalje i gull i 1973.",
+      "sv": "Han deltog också i expeditioner till Grönland, Alperna, Svalbard och Himalaya, och fick Kungens förtjänstmedalj i guld 1973."
+    },
+    "source": "Store norske leksikon – Arne Randers Heen; Norsk Tindemuseum"
+  },
+  {
+    "id": "fjell-m-14",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["vitenskap", "natur"],
+    "prompt": {
+      "nb": "Denne isbreen i Sogn og Fjordane er den største på det europeiske fastlandet, med flere brearmer som Nigardsbreen og Briksdalsbreen. Nasjonalparken rundt den ble opprettet i 1991. Hvilken isbre er dette?",
+      "sv": "Denna glaciär i Sogn og Fjordane är den största på den europeiska kontinenten, med flera glaciärarmar som Nigardsbreen och Briksdalsbreen. Nationalparken runt den bildades 1991. Vilken glaciär är detta?"
+    },
+    "answer": "Jostedalsbreen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av dalen Jostedalen, som ligger på østsiden av breen.",
+      "sv": "Namnet kommer av dalen Jostedalen, som ligger på glaciärens östsida."
+    },
+    "funFact": {
+      "nb": "Breen er en rest av innlandsisen fra siste istid, og brearmene har trukket seg tilbake merkbart de siste tiårene på grunn av oppvarmingen.",
+      "sv": "Glaciären är en kvarleva av inlandsisen från senaste istiden, och dess armar har dragit sig tillbaka märkbart de senaste decennierna på grund av uppvärmningen."
+    },
+    "source": "Store norske leksikon – Jostedalsbreen; Jostedalsbreen nasjonalpark"
+  },
+  {
+    "id": "fjell-m-15",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["dyr"],
+    "prompt": {
+      "nb": "I Skandinavias fjellheim lever et lite rovdyr med hvit vinterpels og rund kroppsform tilpasset ekstrem kulde. Til tross for fredning i flere tiår teller den samlede bestanden i Norge, Sverige og Finland i dag færre enn 200 voksne dyr. Hvilket rovdyr er dette?",
+      "sv": "I Skandinaviens fjällvärld lever ett litet rovdjur med vit vinterpäls och rundad kroppsform anpassad till extrem kyla. Trots fridlysning i flera decennier räknar den sammanlagda populationen i Norge, Sverige och Finland i dag färre än 200 vuxna djur. Vilket rovdjur är detta?"
+    },
+    "answer": {
+      "nb": "Fjellrev",
+      "sv": "Fjällräv"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dyret tilhører hundefamilien og skifter pels med årstidene – hvit om vinteren, brun eller grå om sommeren.",
+      "sv": "Djuret tillhör hunddjuren och byter päls med årstiderna – vit om vintern, brun eller grå om sommaren."
+    },
+    "funFact": {
+      "nb": "Arten er symboldyret for Vindelfjällens naturreservat i Sverige, og flere prosjekter driver støttefôring og overvåking for å hjelpe bestanden på fote igjen.",
+      "sv": "Arten är symboldjur för Vindelfjällens naturreservat i Sverige, och flera projekt bedriver stödutfodring och övervakning för att hjälpa beståndet på fötter igen."
+    },
+    "source": "IUCN Red List – Vulpes lagopus; Naturvårdsverket"
+  },
+  {
+    "id": "fjell-m-16",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "I oktober 1995 syklet han fra Stockholm mot Nepal på en sykkel lastet med 108 kilo utstyr, og nådde Everest base camp etter 13 000 kilometer. 23. mai 1996 nådde han toppen helt uten flaskeoksygen og uten sherpahjelp. Hvem var syklisten og klatreren?",
+      "sv": "I oktober 1995 cyklade han från Stockholm mot Nepal på en cykel lastad med 108 kilo utrustning, och nådde Everest baslager efter 13 000 kilometer. Den 23 maj 1996 nådde han toppen helt utan flasksyre och utan sherpahjälp. Vem var cyklisten och klättraren?"
+    },
+    "answer": "Göran Kropp",
+    "answerKind": "person",
+    "person": {
+      "given": "Göran",
+      "family": "Kropp"
+    },
+    "hint": {
+      "nb": "Han var svensk, og bragden gjorde ham til den første skandinaven som besteg Everest uten oksygen.",
+      "sv": "Han var svensk, och bedriften gjorde honom till den förste skandinaven som bestigit Everest utan syrgas."
+    },
+    "funFact": {
+      "nb": "Han hadde allerede nådd sørtoppen 3. mai samme år, men snudde da tiden ble for knapp. Etter Everest syklet han også en del av veien hjem igjen.",
+      "sv": "Han hade redan nått sydtoppen den 3 maj samma år, men vände då tiden blev för knapp. Efter Everest cyklade han också en bit av vägen hem igen."
+    },
+    "source": "Svenskt biografiskt lexikon – Göran Kropp"
+  },
+  {
+    "id": "fjell-m-17",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "Denne 360 kilometer lange turistveien går fra Strömsund i Jämtland til Vilhelmina i Lappland, krysser fjellovergangen Stekenjokk over tregrensen, og passerer den samiske kirkebyen Fatmomakke. Hva heter veien?",
+      "sv": "Denna 360 kilometer långa turistväg går från Strömsund i Jämtland till Vilhelmina i Lappland, korsar fjällpasset Stekenjokk ovanför trädgränsen, och passerar den samiska kyrkstaden Fatmomakke. Vad heter vägen?"
+    },
+    "answer": "Vildmarksvägen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr rett og slett «villmarksveien», og deler av strekningen kan stenges av snø selv om sommeren.",
+      "sv": "Namnet betyder helt enkelt «vildmarksvägen», och delar av sträckan kan stängas av snö även sommartid."
+    },
+    "funFact": {
+      "nb": "Langs veien finnes også fossen Hällingsåfallet, kalt «Sveriges svar på Niagarafallene», og landets lengste grotte, Korallgrottan.",
+      "sv": "Längs vägen finns också fallet Hällingsåfallet, kallat «Sveriges svar på Niagarafallen», och landets längsta grotta, Korallgrottan."
+    },
+    "source": "Turistvägar i Sverige – Vildmarksvägen; Strömsunds kommun"
+  },
+  {
+    "id": "fjell-m-18",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["historie", "dyr"],
+    "prompt": {
+      "nb": "Den svenske reindriften er organisert i rundt 50 slike geografiske og økonomiske enheter, opprinnelig kalt lappbyer etter loven av 1886. En enhet kan drive reindrift, men ikke annen næringsvirksomhet. Hva kalles enheten på svensk?",
+      "sv": "Den svenska renskötseln är organiserad i omkring 50 sådana geografiska och ekonomiska enheter, ursprungligen kallade lappbyar enligt lagen från 1886. En enhet får bedriva renskötsel, men ingen annan näringsverksamhet. Vad kallas enheten på svenska?"
+    },
+    "answer": "Sameby",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet betyr bokstavelig «samisk by», selv om det ikke er en tettbebyggelse i vanlig forstand.",
+      "sv": "Ordet betyder bokstavligen «samisk by», även om det inte är en tätort i vanlig mening."
+    },
+    "funFact": {
+      "nb": "Betegnelsen «lappby» fra 1886 er i dag erstattet av «sameby» i den svenske reindriftsloven, ettersom «lapp» regnes som et utdatert og nedsettende ord.",
+      "sv": "Beteckningen «lappby» från 1886 har i dag ersatts av «sameby» i den svenska renskötsellagen, eftersom «lapp» anses vara ett föråldrat och nedsättande ord."
+    },
+    "source": "Sametinget; svensk renskötsellagstiftning (1886)"
+  },
+  {
+    "id": "fjell-m-19",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "På grensen mellom Chile og Argentina, i Andesfjellene, ligger jordas høyeste vulkan, med toppen 6893 meter over havet. Den regnes som sovende, uten bekreftede utbrudd i historisk tid. Hvilken vulkan er dette?",
+      "sv": "På gränsen mellan Chile och Argentina, i Anderna, ligger jordens högsta vulkan, med toppen 6 893 meter över havet. Den räknas som vilande, utan bekräftade utbrott i historisk tid. Vilken vulkan är detta?"
+    },
+    "answer": "Ojos del Salado",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr «de salte øynene» på spansk, etter saltavleiringer nær toppen.",
+      "sv": "Namnet betyder «de salta ögonen» på spanska, efter saltavlagringar nära toppen."
+    },
+    "funFact": {
+      "nb": "Fjellet er den nest høyeste toppen i Andesfjellene etter Aconcagua, og har vært mål for flere forsøk på å kjøre bil til svært høye høyder.",
+      "sv": "Berget är den näst högsta toppen i Anderna efter Aconcagua, och har varit mål för flera försök att köra bil till mycket höga höjder."
+    },
+    "source": "Encyclopaedia Britannica – Ojos del Salado"
+  },
+  {
+    "id": "fjell-m-20",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["sport", "historie"],
+    "prompt": {
+      "nb": "Den nesten 1800 meter høye nordveggen på dette sveitsiske fjellet ble lenge kalt umulig og kostet flere klatrere livet i forsøkene på 1930-tallet. 24. juli 1938 lyktes til slutt et tysk-østerriksk lag på fire. Hvilket fjell er dette?",
+      "sv": "Den nästan 1 800 meter höga nordväggen på detta schweiziska berg kallades länge omöjlig och kostade flera klättrare livet under försöken på 1930-talet. Den 24 juli 1938 lyckades till slut ett tysk-österrikiskt lag på fyra. Vilket berg är detta?"
+    },
+    "answer": "Eiger",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellet ligger i Berner Alpene, rett ved den populære turiststasjonen Kleine Scheidegg.",
+      "sv": "Berget ligger i Berner Alperna, alldeles vid den populära turiststationen Kleine Scheidegg."
+    },
+    "funFact": {
+      "nb": "De fire som lyktes, var Anderl Heckmair, Ludwig Vörg, Heinrich Harrer og Fritz Kasparek. Harrer skrev senere boken «Sju år i Tibet».",
+      "sv": "De fyra som lyckades var Anderl Heckmair, Ludwig Vörg, Heinrich Harrer och Fritz Kasparek. Harrer skrev senare boken «Sju år i Tibet»."
+    },
+    "source": "Encyclopaedia Britannica – Eiger"
+  },
+  {
+    "id": "fjell-v-11",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "Denne veien over Sognefjellet åpnet for bilkjøring i 1938 og regnes som Nord-Europas høyest beliggende fjellovergang, med et høyeste punkt på 1434 meter over havet. I 1997 ble den Norges første nasjonale turistveg. Hva heter veien?",
+      "sv": "Denna väg över Sognefjellet öppnades för biltrafik 1938 och räknas som Nordeuropas högst belägna fjällövergång, med sin högsta punkt på 1 434 meter över havet. År 1997 blev den Norges första nationella turistväg. Vad heter vägen?"
+    },
+    "answer": "Sognefjellsvegen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Veien knytter sammen Skjolden i Luster og Lom, og det høyeste punktet heter Fantesteinen.",
+      "sv": "Vägen förbinder Skjolden i Luster och Lom, och den högsta punkten heter Fantesteinen."
+    },
+    "funFact": {
+      "nb": "Veien er vanligvis stengt for vanlig biltrafikk om vinteren på grunn av snø, og brøytes opp igjen hver vår.",
+      "sv": "Vägen är normalt stängd för vanlig biltrafik på vintern på grund av snö, och plogas upp igen varje vår."
+    },
+    "source": "Store norske leksikon – Sognefjellsvegen; Statens vegvesen – Nasjonale turistveger"
+  },
+  {
+    "id": "fjell-v-12",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Hun sto på Nordpolen i 2006 og Sydpolen i 2005, begge ganger etter lange skiekspedisjoner, og fullførte i tillegg De sju toppene med Everest i 2004. Dermed ble hun den eneste kvinnen i verden som har nådd alle «de tre polene». Hvem er fjellklatreren?",
+      "sv": "Hon nådde Nordpolen 2006 och Sydpolen 2005, båda gångerna efter långa skidexpeditioner, och fullföljde dessutom De sju topparna med Everest 2004. Därmed blev hon den enda kvinnan i världen som nått alla «de tre polerna». Vem är bergsklättraren?"
+    },
+    "answer": "Cecilie Skog",
+    "answerKind": "person",
+    "person": {
+      "given": "Cecilie",
+      "family": "Skog"
+    },
+    "hint": {
+      "nb": "Hun er utdannet sykepleier fra Ålesund og var også den første norske kvinnen på K2, i 2008.",
+      "sv": "Hon är utbildad sjuksköterska från Ålesund och var även den första norska kvinnan på K2, 2008."
+    },
+    "funFact": {
+      "nb": "I 2010 krysset hun også Antarktis sammen med amerikaneren Ryan Waters, uten depoter eller hjelp fra hundespann eller seil – en av svært få slike ekspedisjoner.",
+      "sv": "År 2010 korsade hon också Antarktis tillsammans med amerikanen Ryan Waters, utan depåer eller hjälp av hundspann eller segel – en av mycket få sådana expeditioner."
+    },
+    "source": "Store norske leksikon – Cecilie Skog"
+  },
+  {
+    "id": "fjell-v-13",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "Berggrunnen i deler av Jotunheimen består blant annet av en sjelden, lys bergart som ellers knapt finnes på jorden – men som dominerer høylandet på månen. Hvilken bergart er dette?",
+      "sv": "Berggrunden i delar av Jotunheimen består bland annat av en sällsynt, ljus bergart som annars knappt finns på jorden – men som dominerar höglandet på månen. Vilken bergart är detta?"
+    },
+    "answer": {
+      "nb": "Anortositt",
+      "sv": "Anortosit"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bergarten består av over 90 prosent av mineralet plagioklas.",
+      "sv": "Bergarten består av över 90 procent av mineralet plagioklas."
+    },
+    "funFact": {
+      "nb": "Bergarten er så sjelden på jorden at forekomstene i blant annet Jotunheimen, Bergensfeltet og Indre Sogn regnes som geologisk bemerkelsesverdige, mens samme steintype dekker store deler av månens overflate.",
+      "sv": "Bergarten är så sällsynt på jorden att förekomsterna i bland annat Jotunheimen, Bergensfältet och Indre Sogn räknas som geologiskt anmärkningsvärda, medan samma stentyp täcker stora delar av månens yta."
+    },
+    "source": "Store norske leksikon – anortositt; Encyclopaedia Britannica – anorthosite"
+  },
+  {
+    "id": "fjell-v-14",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["mytologi", "sprak"],
+    "prompt": {
+      "nb": "I Alvdal og Rendalen skjærer en kløft seg 2,5 kilometer gjennom fjellet, med kanter som mot øst når 220–240 meter. Geologer mener den ble skåret ut da en enorm isdemt innsjø brøt gjennom mot slutten av siste istid, men folketroen ga æren til to kranglete troll. Hva heter kløften?",
+      "sv": "I Alvdal och Rendalen skär en klyfta sig 2,5 kilometer genom berget, med kanter som mot öster når 220–240 meter. Geologer menar att den skars ut när en enorm isdämd sjö bröt igenom mot slutet av senaste istiden, men folktron gav äran åt två grälsjuka troll. Vad heter klyftan?"
+    },
+    "answer": "Jutulhogget",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr «jutulens hogg», etter et troll i norrøn og norsk folketro.",
+      "sv": "Namnet betyder «jättens hugg», efter ett troll i nordisk och norsk folktro."
+    },
+    "funFact": {
+      "nb": "Ifølge sagnet forsøkte trollet Rendalsjutulen å grave kløften for å lede Glomma inn i Rendalen, men ble stanset av Glåmdalsjutulen. Området ble naturreservat i 1959.",
+      "sv": "Enligt sägnen försökte trollet Rendalsjutulen gräva klyftan för att leda Glomma in i Rendalen, men stoppades av Glåmdalsjutulen. Området blev naturreservat 1959."
+    },
+    "source": "Store norske leksikon – Jutulhogget"
+  },
+  {
+    "id": "fjell-v-15",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "Nasjonalparken i svensk Lappland ble opprettet i 1963 og er i dag del av verdensarvområdet Laponia. Det lulesamiske navnet, Badjelánnda, betyr rett og slett «det høyereliggende landet». Hvilken park er dette?",
+      "sv": "Nationalparken i svenska Lappland bildades 1963 och ingår i dag i världsarvsområdet Laponia. Det lulesamiska namnet, Badjelánnda, betyder helt enkelt «det högre belägna landet». Vilken park är detta?"
+    },
+    "answer": "Padjelanta",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Parken grenser til Sarek i øst og er en av Sveriges største nasjonalparker i areal.",
+      "sv": "Parken gränsar till Sarek i öster och är en av Sveriges till ytan största nationalparker."
+    },
+    "funFact": {
+      "nb": "Verdensarvområdet Laponia, som parken inngår i, ble innskrevet på Unescos liste i 1996, blant annet på grunn av den samiske kulturhistorien i området.",
+      "sv": "Världsarvsområdet Laponia, som parken ingår i, skrevs in på Unescos lista 1996, bland annat på grund av den samiska kulturhistorien i området."
+    },
+    "source": "Naturvårdsverket – Padjelanta nationalpark; Unesco – Laponia World Heritage"
+  },
+  {
+    "id": "fjell-v-16",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["kunst"],
+    "prompt": {
+      "nb": "Fra toppen av dette fjellet i Sarek åpner det seg en av Europas mest kjente fjellutsikter: en isbreslipt U-dal der elva Rapaälven fletter seg i mange løp mot et delta. Hvilket fjell gir denne utsikten?",
+      "sv": "Från toppen av detta berg i Sarek öppnar sig en av Europas mest kända bergsutsikter: en isslipad U-dal där älven Rapaälven flätar sig i många fåror mot ett delta. Vilket berg ger denna utsikt?"
+    },
+    "answer": "Skierfe",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dalen man ser ned i, heter Rapadalen, og elvedeltaet regnes som et av landets mest særpregede våtmarksområder.",
+      "sv": "Dalen man blickar ner i heter Rapadalen, och älvdeltat räknas som ett av landets mest särpräglade våtmarksområden."
+    },
+    "funFact": {
+      "nb": "Sarek er en av Sveriges eldste nasjonalparker, opprettet i 1909, og har verken merkede stier eller hytter inne i selve parken.",
+      "sv": "Sarek är en av Sveriges äldsta nationalparker, bildad 1909, och saknar både markerade leder och stugor inne i själva parken."
+    },
+    "source": "Naturvårdsverket – Sareks nationalpark"
+  },
+  {
+    "id": "fjell-v-17",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "Denne 800 kilometer lange fotruten går gjennom fjellheimen i tre land og krysser riksgrensen hele femten ganger. DNT og Svenska Turistföreningen driver hyttene på hver sin side, og ruta ble først planlagt i 1977. Hva heter den?",
+      "sv": "Denna 800 kilometer långa vandringsled går genom fjällvärlden i tre länder och korsar riksgränsen hela femton gånger. DNT och Svenska Turistföreningen driver stugorna på var sin sida, och leden planerades först 1977. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Nordkalottruta",
+      "sv": "Nordkalottleden"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ruta går mellom Kautokeino i Norge og enten Sulitjelma eller Kvikkjokk, gjennom Norge, Sverige og Finland.",
+      "sv": "Leden går mellan Kautokeino i Norge och antingen Sulitjelma eller Kvikkjokk, genom Norge, Sverige och Finland."
+    },
+    "funFact": {
+      "nb": "Av de 800 kilometerne ligger 380 i Norge, 350 i Sverige og 70 i Finland. Ruta inngår i dag i det europeiske fjernvandringsnettverket E1.",
+      "sv": "Av de 800 kilometrarna ligger 380 i Norge, 350 i Sverige och 70 i Finland. Leden ingår i dag i det europeiska fjärrvandringsnätverket E1."
+    },
+    "source": "Den Norske Turistforening; Svenska Turistföreningen – Nordkalottleden"
+  },
+  {
+    "id": "fjell-v-18",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["religion", "mytologi"],
+    "prompt": {
+      "nb": "Ingen har noen bekreftet, vellykket bestigning av dette 6638 meter høye fjellet i Tibet, dels fordi kinesiske myndigheter forbyr klatring av religiøse hensyn. Buddhister, hinduer, jainister og bon-tilhengere regner det alle som hellig. Hvilket fjell er dette?",
+      "sv": "Ingen har någon bekräftad, lyckad bestigning av detta 6 638 meter höga berg i Tibet, delvis eftersom kinesiska myndigheter förbjuder klättring av religiösa skäl. Buddhister, hinduer, jainister och bönföljare räknar alla det som heligt. Vilket berg är detta?"
+    },
+    "answer": "Kailash",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "For hinduer er fjellet Shivas bolig, og for buddhister representerer det det mytiske verdensfjellet Meru.",
+      "sv": "För hinduer är berget Shivas boning, och för buddhister representerar det det mytiska världsberget Meru."
+    },
+    "funFact": {
+      "nb": "Fjellet ligger i Ngari i det tibetanske høylandet, nær der grensene til Kina, India og Nepal møtes, og mange pilegrimer går i stedet rundt fjellet i en rituell vandring.",
+      "sv": "Berget ligger i Ngari på den tibetanska högplatån, nära där gränserna mot Kina, Indien och Nepal möts, och många pilgrimer vandrar i stället runt berget i en rituell vandring."
+    },
+    "source": "Encyclopaedia Britannica – Mount Kailas"
+  },
+  {
+    "id": "fjell-v-19",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["medisin"],
+    "prompt": {
+      "nb": "3. juli 1953 fortsatte han alene de siste 1300 høydemeterne til toppen av Nanga Parbat, etter at følgesvennene hans hadde snudd. Han nådde toppen klokken sju om kvelden, helt uten flaskeoksygen – den første soloerobringen av en åttetusenmeter. Hvem var klatreren?",
+      "sv": "Den 3 juli 1953 fortsatte han ensam de sista 1 300 höjdmetrarna till toppen av Nanga Parbat, sedan hans följeslagare hade vänt. Han nådde toppen klockan sju på kvällen, helt utan flasksyre – den första solobestigningen av en åttatusenmeterstopp. Vem var klättraren?"
+    },
+    "answer": "Hermann Buhl",
+    "answerKind": "person",
+    "person": {
+      "given": "Hermann",
+      "family": "Buhl"
+    },
+    "hint": {
+      "nb": "Han var østerriksk, og turen ned ble så krevende at han måtte tilbringe natten stående i en klippehylle uten teltutstyr.",
+      "sv": "Han var österrikare, och nedstigningen blev så krävande att han fick tillbringa natten stående på en klipphylla utan tältutrustning."
+    },
+    "funFact": {
+      "nb": "Nanga Parbat hadde krevd mange liv i tidligere forsøk, og bestigningen regnes som en av alpinismens mest ekstreme prestasjoner på grunn av den ekstremt tynne luften i den høyden.",
+      "sv": "Nanga Parbat hade dessförinnan krävt många liv i tidigare försök, och bestigningen räknas som en av alpinismens mest extrema prestationer på grund av den extremt tunna luften på den höjden."
+    },
+    "source": "Encyclopaedia Britannica – Nanga Parbat; Hermann Buhl, «Achttausend drüber und drunter» (1954)"
+  },
+  {
+    "id": "fjell-v-20",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Organisasjonen ble stiftet i Stockholm i 1885 for å fremme kjennskap til og turisme i det svenske fjellet, og bygde etter hvert et nettverk av fjellstasjoner og hytter som fortsatt driftes i dag. Hvilken forening er dette?",
+      "sv": "Föreningen bildades i Stockholm 1885 för att främja kännedom om och turism i den svenska fjällvärlden, och byggde efter hand upp ett nätverk av fjällstationer och stugor som fortfarande drivs i dag. Vilken förening är detta?"
+    },
+    "answer": "Svenska Turistföreningen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Foreningen forkortes STF og står blant annet bak Kungsleden gjennom Lappland.",
+      "sv": "Föreningen förkortas STF och står bland annat bakom Kungsleden genom Lappland."
+    },
+    "funFact": {
+      "nb": "STF regnes som en av verdens eldste turistforeninger og driver i dag et stort nettverk av vandrerhjem og fjellstasjoner rundt om i Sverige.",
+      "sv": "STF räknas som en av världens äldsta turistföreningar och driver i dag ett stort nätverk av vandrarhem och fjällstationer runt om i Sverige."
+    },
+    "source": "Svenska Turistföreningen – historik"
+  }
+]

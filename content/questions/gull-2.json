@@ -1,0 +1,670 @@
+[
+  {
+    "id": "gull-l-11",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Med åtte gull og femten medaljer totalt i langrenn er hun kåret til historiens mest medaljerte vinter-OL-utøver, kvinne som mann - rekorden ble satt under lekene i Pyeongchang i 2018. Hvilken norsk langrennsløper er dette?",
+      "sv": "Med åtta guld och femton medaljer totalt i längdskidåkning räknas hon som historiens mest medaljerade vinter-OS-idrottare, kvinna som man - rekordet sattes under spelen i Pyeongchang 2018. Vilken norsk längdskidåkare är detta?"
+    },
+    "answer": "Marit Bjørgen",
+    "answerKind": "person",
+    "person": { "given": "Marit", "family": "Bjørgen" },
+    "hint": {
+      "nb": "Hun tok fem av de femten medaljene alene under sitt siste mesterskap, i en alder av 37 år.",
+      "sv": "Hon tog fem av de femton medaljerna på egen hand under sitt sista mästerskap, vid 37 års ålder."
+    },
+    "funFact": {
+      "nb": "Av de femten medaljene er åtte gull, fire sølv og tre bronse. Ingen kvinne har tatt flere medaljer i vinter-OL, i noen idrett.",
+      "sv": "Av de femton medaljerna är åtta guld, fyra silver och tre brons. Ingen kvinna har tagit fler medaljer i vinter-OS, i någon idrott."
+    },
+    "source": "Encyclopaedia Britannica – Marit Bjørgen"
+  },
+  {
+    "id": "gull-l-12",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["mat-og-drikke", "sprak"],
+    "prompt": {
+      "nb": "Brunost er verdenskjent som Norges ost, men den brune varianten er bare halve bildet: de vanlige, faste ostene i butikkhyllen - som Norvegia og Jarlsberg - havner i en helt annen hovedkategori, oppkalt etter fargen sin. Hva heter denne kategorien?",
+      "sv": "Brunost är världskänd som Norges ost, men den bruna varianten är bara halva bilden: de vanliga, fasta ostarna i butikshyllan - som Norvegia och Jarlsberg - hamnar i en helt annan huvudkategori, uppkallad efter sin färg. Vad heter denna kategori?"
+    },
+    "answer": "Gulost",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er en sammensetning av en farge og et ord for melkeprodukt.",
+      "sv": "Ordet är en sammansättning av en färg och ett ord för mjölkprodukt."
+    },
+    "funFact": {
+      "nb": "Betegnelsen brukes i dagligtale særlig på Østlandet og Sørlandet, som en samlebetegnelse på faste, modnede oster i kontrast til den brune, søtlige mysosten.",
+      "sv": "Beteckningen används i vardagligt tal särskilt i östra och södra Norge, som ett samlingsnamn för fasta, lagrade ostar i kontrast till den bruna, sötaktiga vassleosten."
+    },
+    "source": "Store norske leksikon – gulost"
+  },
+  {
+    "id": "gull-l-13",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["design"],
+    "prompt": {
+      "nb": "Til bunaden bæres gjerne en rund, gjennombrutt brosje som klirrer med små, bladformede «skjeer» eller løv når man beveger seg. Den lages tradisjonelt i sølv, ofte forgylt, og fester skjorten i halsen eller på brystet. Hva heter denne brosjetypen?",
+      "sv": "Till bunaden bärs ofta ett runt, genombrutet spänne som skramlar med små, bladformade «skedar» eller löv när man rör sig. Det tillverkas traditionellt i silver, ofta förgyllt, och fäster skjortan vid halsen eller på bröstet. Vad heter denna typ av spänne?"
+    },
+    "answer": { "nb": "Sølje", "sv": "Sölja" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av det norrøne ordet for spenne, og brosjen bæres av både kvinner og menn til bunad.",
+      "sv": "Namnet kommer från det fornnordiska ordet för spänne, och den bärs av både kvinnor och män till folkdräkt."
+    },
+    "funFact": {
+      "nb": "Sølvet skulle tradisjonelt beskytte mot onde makter - en oppfatning som er en del av bakgrunnen for at sølv har hatt så stor plass i norsk folkedrakt.",
+      "sv": "Silvret skulle traditionellt skydda mot onda makter - en föreställning som är en del av bakgrunden till att silver haft en så stor plats i norsk folkdräkt."
+    },
+    "source": "Store norske leksikon – sølje"
+  },
+  {
+    "id": "gull-l-14",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["kongehus"],
+    "prompt": {
+      "nb": "29. august 1968 giftet kronprins Harald seg med Sonja Haraldsen, etter at faren kong Olav til slutt hadde gitt sitt samtykke. I 2018 rundet paret 50 år sammen - en gullbryllupsdag. I hvilken Oslo-kirke sto selve bryllupet?",
+      "sv": "Den 29 augusti 1968 gifte sig kronprins Harald med Sonja Haraldsen, efter att fadern kung Olav till slut hade gett sitt samtycke. År 2018 rundade paret 50 år tillsammans - en guldbröllopsdag. I vilken Oslo-kyrka hölls själva bröllopet?"
+    },
+    "answer": { "nb": "Oslo domkirke", "sv": "Oslo domkyrka" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kirken ligger ved Stortorvet, midt i Oslo sentrum.",
+      "sv": "Kyrkan ligger vid Stortorvet, mitt i centrala Oslo."
+    },
+    "funFact": {
+      "nb": "Kong Olav nølte lenge med å godkjenne ekteskapet fordi Sonja var borgerlig og ikke av adelig byrd, men ga til slutt sitt samtykke.",
+      "sv": "Kung Olav tvekade länge med att godkänna äktenskapet eftersom Sonja var av borgerlig härkomst och inte adlig, men gav till slut sitt samtycke."
+    },
+    "source": "Store norske leksikon – Sonja; Encyclopaedia Britannica – Harald V"
+  },
+  {
+    "id": "gull-l-15",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["musikk"],
+    "prompt": {
+      "nb": "Samlealbumet «Gold: Greatest Hits» kom ut i 1992 og har solgt over 30 millioner eksemplarer verden over - gruppens mest solgte utgivelse noensinne. Plata har ligget på den britiske albumlisten i over 900 uker. Hvilken svensk popgruppe står bak?",
+      "sv": "Samlingsalbumet «Gold: Greatest Hits» kom ut 1992 och har sålt över 30 miljoner exemplar världen över - gruppens mest sålda utgåva någonsin. Skivan har legat på brittiska albumlistan i över 900 veckor. Vilken svensk popgrupp ligger bakom?"
+    },
+    "answer": "ABBA",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Gruppen besto av to par, ble dannet i Stockholm i 1972, og vant Eurovision Song Contest i 1974.",
+      "sv": "Gruppen bestod av två par, bildades i Stockholm 1972, och vann Eurovision Song Contest 1974."
+    },
+    "funFact": {
+      "nb": "Albumet er fortsatt det nest mest solgte i britisk albumhistorie og har mottatt utallige diamant- og platinasertifikater verden over, blant annet i Canada og Sveits.",
+      "sv": "Albumet är fortfarande det näst mest sålda i brittisk albumhistoria och har belönats med otaliga diamant- och platinacertifikat runt om i världen, bland annat i Kanada och Schweiz."
+    },
+    "source": "Wikipedia – ABBA Gold: Greatest Hits"
+  },
+  {
+    "id": "gull-l-16",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["fotball"],
+    "prompt": {
+      "nb": "Siden 1946 har avisen Aftonbladet sammen med det svenske fotballforbundet kåret årets beste mannlige spiller i Sverige. Prisen gikk første gang til Gunnar Gren, og en kvinnelig utgave - Diamantbollen - kom i 1990. Hva heter hovedprisen?",
+      "sv": "Sedan 1946 har tidningen Aftonbladet tillsammans med Svenska Fotbollförbundet utsett årets bästa manliga spelare i Sverige. Priset gick första gången till Gunnar Gren, och en kvinnlig motsvarighet - Diamantbollen - kom 1990. Vad heter huvudpriset?"
+    },
+    "answer": "Guldbollen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er svensk for «den gyldne ballen» - samme konsept som Frankrikes Ballon d'Or.",
+      "sv": "Namnet betyder «den gyllene bollen» - samma koncept som Frankrikes Ballon d'Or."
+    },
+    "funFact": {
+      "nb": "Ingen har vunnet prisen flere ganger enn Zlatan Ibrahimović, som tok den tolv ganger mellom 2005 og 2020.",
+      "sv": "Ingen har vunnit priset fler gånger än Zlatan Ibrahimović, som tog det tolv gånger mellan 2005 och 2020."
+    },
+    "source": "Wikipedia – Guldbollen (fotbollspris)"
+  },
+  {
+    "id": "gull-l-17",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["litteratur"],
+    "prompt": {
+      "nb": "I 1909 ble hun den første kvinnen som mottok Nobelprisen i litteratur, og i 1914 ble hun akademiets første kvinnelige medlem. Hun har også vært avbildet på en svensk 20-kronerseddel. Hvilken svensk forfatter er dette?",
+      "sv": "År 1909 blev hon den första kvinnan som fick Nobelpriset i litteratur, och 1914 blev hon Svenska Akademiens första kvinnliga ledamot. Hon har också avbildats på en svensk 20-kronorssedel. Vilken svensk författare är detta?"
+    },
+    "answer": "Selma Lagerlöf",
+    "answerKind": "person",
+    "person": { "given": "Selma", "family": "Lagerlöf" },
+    "hint": {
+      "nb": "Hun er også kjent for barneboken om gutten som ble forvandlet til en nisse og fløy med villgjess over Sverige.",
+      "sv": "Hon är också känd för barnboken om pojken som förvandlades till en tomte och flög med vildgäss över Sverige."
+    },
+    "funFact": {
+      "nb": "Nils Holgersson-boken ble opprinnelig skrevet på oppdrag fra folkeskolen, som en geografibok om Sverige for barn.",
+      "sv": "Nils Holgersson-boken skrevs ursprungligen på uppdrag av folkskolan, som en geografibok om Sverige för barn."
+    },
+    "source": "Nobelprize.org – Selma Lagerlöf"
+  },
+  {
+    "id": "gull-l-18",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["film"],
+    "prompt": {
+      "nb": "Hun vant tre gullstatuetter i Hollywood: for «Gaslight» i 1944, for «Anastasia» i 1956, og for birolle i «Mordet på Orientekspressen» i 1974. Bare Katharine Hepburn har vunnet flere skuespillerpriser. Hvilken svensk skuespillerinne er dette?",
+      "sv": "Hon vann tre guldstatyetter i Hollywood: för «Gaslight» 1944, för «Anastasia» 1956, och för biroll i «Mordet på Orientexpressen» 1974. Bara Katharine Hepburn har vunnit fler skådespelarpriser. Vilken svensk skådespelerska är detta?"
+    },
+    "answer": "Ingrid Bergman",
+    "answerKind": "person",
+    "person": { "given": "Ingrid", "family": "Bergman" },
+    "hint": {
+      "nb": "Hun spilte overfor Humphrey Bogart i «Casablanca» og er mor til skuespilleren Isabella Rossellini.",
+      "sv": "Hon spelade mot Humphrey Bogart i «Casablanca» och är mor till skådespelerskan Isabella Rossellini."
+    },
+    "funFact": {
+      "nb": "Med tre skuespillerpriser er hun blant bare fire skuespillerinner i historien som har vunnet minst tre Oscar for skuespill.",
+      "sv": "Med tre skådespelarpriser tillhör hon bara fyra skådespelerskor i historien som vunnit minst tre Oscars för skådespeleri."
+    },
+    "source": "Encyclopaedia Britannica – Ingrid Bergman"
+  },
+  {
+    "id": "gull-l-19",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["vitenskap", "sport"],
+    "prompt": {
+      "nb": "Til tross for navnet består den for det meste av sølv - minst 92,5 prosent, ifølge Den internasjonale olympiske komités regler. Resten er et tynt gullbelegg som må veie et bestemt minsteantall gram. Hvor mange gram gull må belegget minst inneholde?",
+      "sv": "Trots namnet består den mestadels av silver - minst 92,5 procent, enligt Internationella olympiska kommitténs regler. Resten är en tunn guldbeläggning som måste väga ett visst minsta antal gram. Hur många gram guld måste beläggningen minst innehålla?"
+    },
+    "answer": "6 gram",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er et lite, rundt tall - godt under ti gram.",
+      "sv": "Det är ett litet, runt tal - gott och väl under tio gram."
+    },
+    "funFact": {
+      "nb": "Regelen er fastsatt i Den olympiske charterets tekniske bestemmelser. Selve grunnmetallet må være rent sølv med en finhet på minst 925 promille - samme finhetsgrad som ofte brukes i sølvsmykker.",
+      "sv": "Regeln är fastställd i den olympiska stadgans tekniska bestämmelser. Själva grundmetallen måste vara rent silver med en finhalt på minst 925 promille - samma finhalt som ofta används i silversmycken."
+    },
+    "source": "Wikipedia (basert på IOCs regelverk) – Olympic medal"
+  },
+  {
+    "id": "gull-l-20",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["mytologi"],
+    "prompt": {
+      "nb": "Da en ny Zipa-hersker skulle innsettes hos muiscafolket i høylandet i dagens Colombia, ble kroppen hans dekket med gullstøv før han dykket i den hellige innsjøen Guatavita. Historien om denne seremonien vokste til myten om en hel by av gull. Hva kalles denne mytiske byen?",
+      "sv": "När en ny Zipa-härskare skulle installeras hos muiscafolket på högslätten i dagens Colombia täcktes hans kropp med guldstoft innan han dök i den heliga sjön Guatavita. Berättelsen om denna ceremoni växte till myten om en hel stad av guld. Vad kallas denna mytiska stad?"
+    },
+    "answer": "El Dorado",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr «den forgylte» på spansk, og var opprinnelig en tittel på selve høvdingen, ikke på et sted.",
+      "sv": "Namnet betyder «den förgyllda» på spanska, och var ursprungligen en titel på själve hövdingen, inte på en plats."
+    },
+    "funFact": {
+      "nb": "Spanske erobrere hørte historien om seremonien og forestilte seg etter hvert en hel by fylt av gull et sted i Sør-Amerikas indre. Flere ekspedisjoner lette forgjeves etter den.",
+      "sv": "Spanska erövrare hörde berättelsen om ceremonin och föreställde sig efter hand en hel stad fylld av guld någonstans i Sydamerikas inland. Flera expeditioner sökte förgäves efter den."
+    },
+    "source": "Encyclopaedia Britannica – El Dorado"
+  },
+  {
+    "id": "gull-m-11",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["kunst"],
+    "prompt": {
+      "nb": "Nobels fredspris er den eneste av de opprinnelige Nobelprisene der gullmedaljen ikke er utformet av den svenske billedhuggeren Erik Lindberg. I stedet fikk en kjent norsk billedhugger oppdraget i 1901. Hvem laget medaljen som deles ut i Oslo?",
+      "sv": "Nobels fredspris är det enda av de ursprungliga Nobelprisen där guldmedaljen inte är utformad av den svenske skulptören Erik Lindberg. I stället fick en känd norsk skulptör uppdraget 1901. Vem skapade medaljen som delas ut i Oslo?"
+    },
+    "answer": "Gustav Vigeland",
+    "answerKind": "person",
+    "person": { "given": "Gustav", "family": "Vigeland" },
+    "hint": {
+      "nb": "Han er mest kjent for skulpturparken sin i Oslo, med verk som «Sinnataggen» og monolitten.",
+      "sv": "Han är mest känd för sin skulpturpark i Oslo, med verk som «Sinnataggen» och monoliten."
+    },
+    "funFact": {
+      "nb": "Lindberg designet medaljene for fysikk, kjemi, medisin og litteratur, mens Vigelands versjon viser et annet profilbilde av Alfred Nobel. Økonomiprisen, som kom til i 1968, har sin egen medalje, designet av Gunvor Svensson-Lundqvist.",
+      "sv": "Lindberg designade medaljerna för fysik, kemi, medicin och litteratur, medan Vigelands version visar en annan profilbild av Alfred Nobel. Ekonomipriset, som tillkom 1968, har en egen medalj, designad av Gunvor Svensson-Lundqvist."
+    },
+    "source": "Nobelprize.org – The Nobel Prize Medals"
+  },
+  {
+    "id": "gull-m-12",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["kongehus"],
+    "prompt": {
+      "nb": "Den norske kongekrona ble ikke laget i Norge, men bestilt fra en gullsmed i en annen skandinavisk hovedstad, i forbindelse med Karl Johans kroning i 1818. Kronen ble brukt ved fire norske kroninger fram til 1906. I hvilken by ble den laget?",
+      "sv": "Den norska kungakronan tillverkades inte i Norge, utan beställdes från en guldsmed i en annan skandinavisk huvudstad, inför Karl Johans kröning 1818. Kronan användes vid fyra norska kröningar fram till 1906. I vilken stad tillverkades den?"
+    },
+    "answer": "Stockholm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen var på den tiden hovedstad i unionen Norge delte med Sverige.",
+      "sv": "Staden var på den tiden huvudstad i unionen Norge delade med Sverige."
+    },
+    "funFact": {
+      "nb": "Gullsmeden het Olof Wihlborg. Kronen er fortsatt Norges offisielle kongekrone, selv om ingen konge har blitt kronet med den siden 1906 - i dag holdes bare en enklere signingsseremoni i Nidarosdomen.",
+      "sv": "Guldsmeden hette Olof Wihlborg. Kronan är fortfarande Norges officiella kungakrona, även om ingen kung har krönts med den sedan 1906 - i dag hålls bara en enklare välsignelseceremoni i Nidarosdomen."
+    },
+    "source": "Store norske leksikon – kongekrona"
+  },
+  {
+    "id": "gull-m-13",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Det norske kvinnelandslaget i en innendørs ballsport med sju spillere på hvert lag har vunnet olympisk gull både i Beijing i 2008 og i London i 2012, i tillegg til en lang rekke VM- og EM-titler. Hvilken idrett er dette?",
+      "sv": "Det norska damlandslaget i en inomhusbollsport med sju spelare per lag har vunnit olympiskt guld både i Peking 2008 och i London 2012, utöver en lång rad VM- och EM-titlar. Vilken idrott är detta?"
+    },
+    "answer": { "nb": "Håndball", "sv": "Handboll" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Idretten spilles med en ball litt mindre enn i fotball, som kastes for hånd mot et mål vaktet av en keeper.",
+      "sv": "Idrotten spelas med en boll något mindre än i fotboll, som kastas för hand mot ett mål bevakat av en målvakt."
+    },
+    "funFact": {
+      "nb": "Laget regnes som et av de mest dominerende i idrettens historie og har i tillegg tatt flere gull i både VM og EM opp gjennom årene.",
+      "sv": "Laget räknas som ett av de mest dominerande i idrottens historia och har dessutom tagit flera guld i både VM och EM genom åren."
+    },
+    "source": "Store norske leksikon – håndball"
+  },
+  {
+    "id": "gull-m-14",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Han debuterte i vinter-OL på hjemmebane i Lillehammer i 1994 og avsluttet den olympiske karrieren i Sotsji i 2014, med totalt åtte gullmedaljer i skiskyting. Hvilken norsk skiskytter er dette?",
+      "sv": "Han debuterade i vinter-OS på hemmaplan i Lillehammer 1994 och avslutade den olympiska karriären i Sotji 2014, med totalt åtta guldmedaljer i skidskytte. Vilken norsk skidskytt är detta?"
+    },
+    "answer": "Ole Einar Bjørndalen",
+    "answerKind": "person",
+    "person": { "given": "Ole Einar", "family": "Bjørndalen" },
+    "hint": {
+      "nb": "Med fjorten medaljer totalt er han nummer to på listen over mest medaljerte vinter-OL-utøvere gjennom tidene - bak Marit Bjørgen.",
+      "sv": "Med fjorton medaljer totalt är han tvåa på listan över mest medaljerade vinter-OS-idrottare genom tiderna - efter Marit Bjørgen."
+    },
+    "funFact": {
+      "nb": "Av de fjorten medaljene er åtte gull, fire sølv og to bronse, fordelt på hele seks vinter-OL fra 1994 til 2014.",
+      "sv": "Av de fjorton medaljerna är åtta guld, fyra silver och två brons, fördelade på hela sex vinter-OS från 1994 till 2014."
+    },
+    "source": "Wikipedia – Ole Einar Bjørndalen"
+  },
+  {
+    "id": "gull-m-15",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Han tok to gull under lekene i Sarajevo i 1984 og to til i Calgary i 1988, på femten kilometer, femti kilometer og stafett, og regnes som en av langrennshistoriens store profiler. Hvilken svensk langrennsløper er dette?",
+      "sv": "Han tog två guld under spelen i Sarajevo 1984 och två till i Calgary 1988, på femton kilometer, femtio kilometer och stafett, och räknas som en av längdskidåkningshistoriens stora profiler. Vilken svensk längdskidåkare är detta?"
+    },
+    "answer": "Gunde Svan",
+    "answerKind": "person",
+    "person": { "given": "Gunde", "family": "Svan" },
+    "hint": {
+      "nb": "Han tok totalt fire gull, ett sølv og én bronse i sine to vinter-OL.",
+      "sv": "Han tog totalt fyra guld, ett silver och ett brons i sina två vinter-OS."
+    },
+    "funFact": {
+      "nb": "De fire gullene fordeler seg på to ulike vinter-OL, og han er fortsatt en av bare et fåtall langrennsløpere som har vunnet gull på både en kort distanse (15 km) og den lange femmila.",
+      "sv": "De fyra guldmedaljerna fördelas på två olika vinter-OS, och han är fortfarande en av bara ett fåtal längdskidåkare som vunnit guld på både en kort distans (15 km) och den långa femmilen."
+    },
+    "source": "Wikipedia – Gunde Svan"
+  },
+  {
+    "id": "gull-m-16",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Under sommer-OL i 1912 ble det for siste gang delt ut vinnermedaljer støpt i massivt gull - fra og med neste mesterskap besto de av forgylt sølv. Legene ble arrangert i Stockholm, på en arena som fortsatt brukes i dag. Hva heter stadionet?",
+      "sv": "Under sommar-OS 1912 delades det för sista gången ut segermedaljer gjutna i massivt guld - från och med nästa mästerskap bestod de av förgyllt silver. Spelen hölls i Stockholm, på en arena som fortfarande används i dag. Vad heter stadion?"
+    },
+    "answer": "Stockholms olympiastadion",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stadionet ble tegnet av arkitekten Torben Grut og har vært brukt til friidrettsstevner som DN Galan siden 1967.",
+      "sv": "Stadion ritades av arkitekten Torben Grut och har använts för friidrottsgalor som DN Galan sedan 1967."
+    },
+    "funFact": {
+      "nb": "Fra 1904 til 1912 var OL-gullmedaljene i massivt gull. Etterpå gikk man over til forgylt sølv, en praksis som fortsatt gjelder i dag.",
+      "sv": "Från 1904 till 1912 var OS-guldmedaljerna i massivt guld. Därefter övergick man till förgyllt silver, en praxis som fortfarande gäller i dag."
+    },
+    "source": "Wikipedia – Stockholm Olympic Stadium; Olympic medal"
+  },
+  {
+    "id": "gull-m-17",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["mat-og-drikke"],
+    "prompt": {
+      "nb": "Denne restauranten i Gamla stan i Stockholm åpnet i 1722, og navnet viser til fredsslutningen i Nystad året før. Da stedet var truet av nedleggelse i 1919, kjøpte maleren Anders Zorn det for å redde det, og i dag eies det av Svenska Akademien. Hva heter stedet?",
+      "sv": "Denna restaurang i Gamla stan i Stockholm öppnade 1722, och namnet syftar på fredsslutet i Nystad året innan. När stället hotades av nedläggning 1919 köpte målaren Anders Zorn det för att rädda det, och i dag ägs det av Svenska Akademien. Vad heter stället?"
+    },
+    "answer": "Den Gyldene Freden",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr «den gylne freden», og sikter til at Sverige overraskende fikk beholde Finland i fredsoppgjøret.",
+      "sv": "Namnet betyder «den gyllene freden», och syftar på att Sverige överraskande fick behålla Finland i fredsuppgörelsen."
+    },
+    "funFact": {
+      "nb": "Ifølge Guinness rekordbok er dette verdens nest eldste restaurant som fortsatt holder til i sine opprinnelige lokaler. Poeten Carl Michael Bellman skrev om stedet på 1700-tallet.",
+      "sv": "Enligt Guinness rekordbok är detta världens näst äldsta restaurang som fortfarande finns kvar i sina ursprungliga lokaler. Skalden Carl Michael Bellman skrev om stället på 1700-talet."
+    },
+    "source": "Wikipedia – Den Gyldene Freden"
+  },
+  {
+    "id": "gull-m-18",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["film"],
+    "prompt": {
+      "nb": "Tre av filmene hans - «Jungfrukällan» (1960), «Såsom i en spegel» (1961) og «Fanny och Alexander» (1982) - har vunnet Oscar for beste utenlandske film. Hvilken svensk regissør er dette?",
+      "sv": "Tre av hans filmer - «Jungfrukällan» (1960), «Såsom i en spegel» (1961) och «Fanny och Alexander» (1982) - har vunnit Oscar för bästa utländska film. Vilken svensk regissör är detta?"
+    },
+    "answer": "Ingmar Bergman",
+    "answerKind": "person",
+    "person": { "given": "Ingmar", "family": "Bergman" },
+    "hint": {
+      "nb": "Han er ikke i slekt med skuespilleren Ingrid Bergman, til tross for etternavnet, og er kjent for dystre klassikere som «Det sjunde inseglet».",
+      "sv": "Han är inte släkt med skådespelerskan Ingrid Bergman, trots efternamnet, och är känd för dystra klassiker som «Det sjunde inseglet»."
+    },
+    "funFact": {
+      "nb": "Med tre vinnerfilmer er han blant de aller fremste i denne Oscar-kategorien - rekorden på fire innehas av italienske Federico Fellini.",
+      "sv": "Med tre vinnande filmer tillhör han de allra främsta i denna Oscar-kategori - rekordet på fyra innehas av italienaren Federico Fellini."
+    },
+    "source": "Wikipedia – Academy Award for Best International Feature Film"
+  },
+  {
+    "id": "gull-m-19",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Broen fikk navnet sitt allerede i 1917, lenge før den sto ferdig i 1937 - oppkalt etter sundet den krysser, ikke etter fargen. Den er nemlig malt i en oransjerød nyanse som kalles international orange. Hva heter broen?",
+      "sv": "Bron fick sitt namn redan 1917, långt innan den stod klar 1937 - uppkallad efter sundet den korsar, inte efter färgen. Den är nämligen målad i en orangeröd nyans som kallas international orange. Vad heter bron?"
+    },
+    "answer": { "nb": "Golden Gate-broen", "sv": "Golden Gate-bron" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den forbinder byen San Francisco med Marin County, og fargevalget ble gjort for å synes godt i tåke.",
+      "sv": "Den förbinder staden San Francisco med Marin County, och färgvalet gjordes för att synas väl i dimma."
+    },
+    "funFact": {
+      "nb": "Broen ble fullført under budsjett og før tidsskjema, og har vært et av USAs mest fotograferte byggverk siden åpningen i 1937.",
+      "sv": "Bron blev klar under budget och före tidtabell, och har varit ett av USA:s mest fotograferade byggverk sedan invigningen 1937."
+    },
+    "source": "Wikipedia – Golden Gate Bridge"
+  },
+  {
+    "id": "gull-m-20",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["film"],
+    "prompt": {
+      "nb": "Hovedprisen ved denne filmfestivalen i Berlin er en forgylt bronsefigur formet som byens heraldiske dyr, og har blitt delt ut siden 1951. Statuetten er 20 centimeter høy og veier rundt fire kilo. Hva kalles prisen?",
+      "sv": "Huvudpriset vid denna filmfestival i Berlin är en förgylld bronsfigur formad som stadens heraldiska djur, och har delats ut sedan 1951. Statyetten är 20 centimeter hög och väger omkring fyra kilo. Vad kallas priset?"
+    },
+    "answer": { "nb": "Gullbjørnen", "sv": "Guldbjörnen" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dyret er også Berlins offisielle våpenskjolddyr, og finnes avbildet over hele byen.",
+      "sv": "Djuret är också Berlins officiella vapendjur, och avbildas runt om i hela staden."
+    },
+    "funFact": {
+      "nb": "Originaldesignet er fra 1932, laget av billedhuggeren Renée Sintenis. Fra 1956 har en internasjonal jury avgjort hvem som vinner.",
+      "sv": "Originaldesignen är från 1932, skapad av skulptören Renée Sintenis. Sedan 1956 har en internationell jury avgjort vem som vinner."
+    },
+    "source": "Wikipedia – Golden Bear (Berlin International Film Festival)"
+  },
+  {
+    "id": "gull-v-11",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["design", "kunst"],
+    "prompt": {
+      "nb": "Firmaet ble grunnlagt i Kristiania i 1876 og ble på 1900-tallet en av landets ledende gullsmedbedrifter, særlig kjent for eksklusive arbeider i sølv og emalje. Designeren Gustav Gaudernack skapte naturalistiske dyre- og blomstermotiver for dem rundt 1895. Hva heter firmaet?",
+      "sv": "Firman grundades i Kristiania 1876 och blev under 1900-talet en av landets ledande guldsmedsfirmor, särskilt känd för exklusiva arbeten i silver och emalj. Designern Gustav Gaudernack skapade naturalistiska djur- och blommotiv åt dem omkring 1895. Vad heter firman?"
+    },
+    "answer": "David-Andersen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er grunnleggerens for- og etternavn, satt sammen med bindestrek.",
+      "sv": "Namnet är grundarens för- och efternamn, sammansatt med bindestreck."
+    },
+    "funFact": {
+      "nb": "Firmaet ble senere også kjent for å lage rimelige motesmykker for allmennheten på 1950-tallet. Kristiania er det gamle navnet på Oslo.",
+      "sv": "Firman blev senare även känd för att tillverka prisvärda modesmycken för allmänheten på 1950-talet. Kristiania är det gamla namnet på Oslo."
+    },
+    "source": "Store norske leksikon – David-Andersen"
+  },
+  {
+    "id": "gull-v-12",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["geografi", "teknologi"],
+    "prompt": {
+      "nb": "I Kautokeino kommune i Finnmark ligger et gruveanlegg der det i to atskilte perioder - 1970-75 og 1985-91 - ble utvunnet gullholdig kobbermalm. I det siste tidsrommet ga driften rundt seks tonn rent gull, før alt ble stengt i 1993. Hva heter gruven?",
+      "sv": "I Kautokeino kommun i Finnmark ligger en gruvanläggning där man under två skilda perioder - 1970-75 och 1985-91 - bröt guldhaltig kopparmalm. Under den senare perioden gav driften omkring sex ton rent guld, innan allt stängdes 1993. Vad heter gruvan?"
+    },
+    "answer": "Bidjovagge",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er samisk, og gruven ligger nordvest for Guovdageaidnu/Kautokeino sentrum, nær grensen til Troms.",
+      "sv": "Namnet är samiskt, och gruvan ligger nordväst om Guovdageaidnu/Kautokeino centrum, nära gränsen till Troms."
+    },
+    "funFact": {
+      "nb": "Malmen inneholdt i snitt bare rundt et halvt gram gull per tonn, men den finske eieren Outokumpu klarte likevel å hente ut 1,95 millioner tonn malm i den andre driftsperioden.",
+      "sv": "Malmen innehöll i genomsnitt bara omkring ett halvt gram guld per ton, men den finska ägaren Outokumpu lyckades ändå bryta 1,95 miljoner ton malm under den andra driftsperioden."
+    },
+    "source": "Store norske leksikon – Bidjovagge gruver"
+  },
+  {
+    "id": "gull-v-13",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "Danmark og Sverige inngikk i 1873 en avtale om en felles valuta bundet til en fast gullverdi, og Norge sluttet seg til to år senere. Systemet fungerte i praksis helt til det formelt ble oppløst i 1924. Hva kalles denne valutaunionen?",
+      "sv": "Danmark och Sverige ingick 1873 ett avtal om en gemensam valuta knuten till ett fast guldvärde, och Norge anslöt sig två år senare. Systemet fungerade i praktiken ända till det formellt upplöstes 1924. Vad kallas denna valutaunion?"
+    },
+    "answer": { "nb": "Den skandinaviske myntunionen", "sv": "Den skandinaviska myntunionen" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Unionen ga alle tre landene samme myntenhet, kalt krone i Norge og Danmark og krona i Sverige.",
+      "sv": "Unionen gav alla tre länderna samma myntenhet, kallad krona i Sverige och krone i Norge och Danmark."
+    },
+    "funFact": {
+      "nb": "Gullverdien var fastsatt til 0,4032 gram gull per krone. Gull- og sølvmynter fra ett medlemsland var lovlig betalingsmiddel i de to andre.",
+      "sv": "Guldvärdet var fastställt till 0,4032 gram guld per krona. Guld- och silvermynt från ett medlemsland var lagligt betalningsmedel i de två andra."
+    },
+    "source": "Wikipedia – Scandinavian Monetary Union"
+  },
+  {
+    "id": "gull-v-14",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Under de aller første vinterlekene, i Chamonix i 1924, vant han samtlige tre nordiske skiøvelser på programmet: 18 kilometer, 50 kilometer og kombinert. Hvilken norsk skiløper er dette?",
+      "sv": "Under de allra första vinterspelen, i Chamonix 1924, vann han samtliga tre nordiska skidgrenar på programmet: 18 kilometer, 50 kilometer och kombinert. Vilken norsk skidåkare är detta?"
+    },
+    "answer": "Thorleif Haug",
+    "answerKind": "person",
+    "person": { "given": "Thorleif", "family": "Haug" },
+    "hint": {
+      "nb": "Han var også ivrig hopper, men det var i langrenn og kombinert han skrev seg inn i historien.",
+      "sv": "Han var även en ivrig hoppare, men det var i längdskidåkning och kombinert han skrev in sig i historien."
+    },
+    "funFact": {
+      "nb": "Legene i 1924 ble den gang ikke kalt vinter-OL, men «Internasjonale vinteruken» - betegnelsen kom først i ettertid, da IOC anerkjente dem som de første vinterlekene.",
+      "sv": "Spelen 1924 kallades då inte vinter-OS, utan «Internationella vinterveckan» - benämningen kom först i efterhand, då IOK retroaktivt erkände dem som de första vinterspelen."
+    },
+    "source": "Wikipedia – 1924 Winter Olympics; Thorleif Haug"
+  },
+  {
+    "id": "gull-v-15",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "Denne tynne gullskiven fra rundt år 500 ble funnet i en liten by i Östergötland i 1774 og bærer en fullstendig runerekke i eldre futhark, delt inn i tre grupper på åtte tegn. I 1938 ble den stjålet fra et svensk museum og er aldri kommet til rette. Hva kalles denne typen tynne gullsmykker?",
+      "sv": "Denna tunna guldskiva från omkring år 500 hittades i en liten stad i Östergötland 1774 och bär en fullständig runrad i äldre futhark, indelad i tre grupper om åtta tecken. År 1938 stals den från ett svenskt museum och har aldrig återfunnits. Vad kallas denna typ av tunna guldsmycken?"
+    },
+    "answer": "Brakteat",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen der den ble funnet, ga også navn til selve gjenstanden - den kalles gjerne Vadstenabrakteaten.",
+      "sv": "Staden där den hittades gav också namn åt själva föremålet - den kallas ofta Vadstenabrakteaten."
+    },
+    "funFact": {
+      "nb": "Runeinnskriften er delt inn i tre «ætter» à åtte runer og regnes som et av de eldste vitnesbyrdene om det norrøne runealfabetet. Et beslektet eksemplar, Mariedamm-brakteaten, funnet i 1906, hjalp forskere å tolke den siste runen.",
+      "sv": "Runinskriften är indelad i tre «ätter» om åtta runor vardera och räknas som ett av de äldsta vittnesbörden om det fornnordiska runalfabetet. Ett besläktat exemplar, Mariedamsbrakteaten, hittat 1906, hjälpte forskare att tolka den sista runan."
+    },
+    "source": "Wikipedia – Vadstena bracteate"
+  },
+  {
+    "id": "gull-v-16",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Etter å ha sittet fengslet i nesten åtte år, døde denne svenske kongen på Örbyhus slott 26. februar 1577. Tradisjonen forteller at siste måltid var en forgiftet ertesuppe, og en rettsmedisinsk undersøkelse i 1958 bekreftet funn av arsenikk i levningene. Hvilken konge er dette?",
+      "sv": "Efter att ha suttit fängslad i nästan åtta år dog denne svenske kungen på Örbyhus slott den 26 februari 1577. Traditionen berättar att sista måltiden var en förgiftad ärtsoppa, och en rättsmedicinsk undersökning 1958 bekräftade fynd av arsenik i kvarlevorna. Vilken kung är detta?"
+    },
+    "answer": "Erik XIV",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han var sønn av Gustav Vasa og ble avsatt av sin egen bror, som senere ble Johan III.",
+      "sv": "Han var son till Gustav Vasa och avsattes av sin egen bror, som senare blev Johan III."
+    },
+    "funFact": {
+      "nb": "Han ble avsatt i januar 1569 etter en urolig periode med mistanke og maktkamp ved hoffet. Brorens signatur, sammen med adelsmannen Bengt Bengtsson Gyltas, sto bak fullmakten som tillot at han kunne bli likvidert i fangenskap.",
+      "sv": "Han avsattes i januari 1569 efter en orolig period med misstänksamhet och maktkamp vid hovet. Broderns underskrift, tillsammans med adelsmannen Bengt Bengtsson Gyltas, låg bakom fullmakten som tillät att han kunde likvideras i fångenskap."
+    },
+    "source": "Wikipedia – Eric XIV of Sweden"
+  },
+  {
+    "id": "gull-v-17",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["militaerhistorie"],
+    "prompt": {
+      "nb": "Dette svenske treddekkers linjeskipet kantret og eksploderte under slaget ved Öland 1. juni 1676, og tok med seg rundt 800 mann i dypet. Ved utgravninger fra 1980 og utover er det funnet 255 gulldukater i vraket - trolig den største gullskatten som er funnet på svensk jord. Hva het skipet?",
+      "sv": "Detta svenska tredäckade linjeskepp kantrade och exploderade under slaget vid Öland den 1 juni 1676, och tog med sig omkring 800 man i djupet. Vid utgrävningar från 1980 och framåt har 255 gulddukater hittats i vraket - troligen den största guldskatten som hittats på svensk mark. Vad hette skeppet?"
+    },
+    "answer": "Kronan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skipet var på sin tid et av verdens største krigsskip, med over hundre kanoner, og vraket ligger i dag ved Öland.",
+      "sv": "Skeppet var på sin tid ett av världens största örlogsfartyg, med över hundra kanoner, och vraket ligger i dag utanför Öland."
+    },
+    "funFact": {
+      "nb": "I 2000 ble det funnet 46 gulldukater til. Myntene stammer fra svært ulike steder, blant annet Kairo, Reval og Sevilla, og gjenstandene fra vraket vises i dag ved Kalmar läns museum.",
+      "sv": "År 2000 hittades ytterligare 46 guldmynt. Mynten härstammar från vitt skilda platser, bland annat Kairo, Reval och Sevilla, och föremålen från vraket visas i dag på Kalmar läns museum."
+    },
+    "source": "Wikipedia – Kronan (ship)"
+  },
+  {
+    "id": "gull-v-18",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["teknologi", "geografi"],
+    "prompt": {
+      "nb": "Like øst for Gällivare i Norrbotten ligger Sveriges største dagbrudd, en gruve som først og fremst utvinner kobber, men også gir betydelige mengder sølv og gull som biprodukt. Driften, eid av Boliden, startet i 1968. Hva heter gruven?",
+      "sv": "Strax öster om Gällivare i Norrbotten ligger Sveriges största dagbrott, en gruva som i första hand bryter koppar, men som också ger betydande mängder silver och guld som biprodukt. Driften, som ägs av Boliden, startade 1968. Vad heter gruvan?"
+    },
+    "answer": "Aitik",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Gruvehullet er tre kvadratkilometer stort og rundt 450 meter dypt.",
+      "sv": "Gruvhålet är tre kvadratkilometer stort och omkring 450 meter djupt."
+    },
+    "funFact": {
+      "nb": "Gruven er Sveriges klart største produsent av kobber og bidrar samtidig med en betydelig andel av landets gullproduksjon, selv om kobber er hovedproduktet.",
+      "sv": "Gruvan är Sveriges klart största producent av koppar och bidrar samtidigt med en betydande andel av landets guldproduktion, även om koppar är huvudprodukten."
+    },
+    "source": "Store norske leksikon – Aitik"
+  },
+  {
+    "id": "gull-v-19",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "Denne kongen av Lydia, i dagens Tyrkia, lot gull renses for sølv ved å varme det opp sammen med bordsalt, og fikk laget verdens første standardiserte myntmynter av rent gull, kalt kroiseider. Navnet hans lever videre i uttrykket «rik som...». Hvem var han?",
+      "sv": "Denne kungen av Lydien, i dagens Turkiet, lät rena guld från silver genom att hetta upp det tillsammans med bordssalt, och lät prägla världens första standardiserade guldmynt, kroeseider. Hans namn lever kvar i uttrycket «rik som...». Vem var han?"
+    },
+    "answer": { "nb": "Krøsus", "sv": "Krösus" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uttrykket brukes fortsatt på norsk og svensk om noen som er svært rike.",
+      "sv": "Uttrycket används fortfarande på svenska och norska om någon som är mycket rik."
+    },
+    "funFact": {
+      "nb": "Faren hans, Alyattes, hadde alt eksperimentert med myntpreging i elektrum - en naturlig gull-sølv-legering fra elva Paktolos. Han selv ble til slutt beseiret av perserkongen Kyros den store, rundt 547 f.Kr.",
+      "sv": "Hans far, Alyattes, hade redan experimenterat med myntprägling i elektrum - en naturlig guld-silverlegering från floden Paktolos. Han själv besegrades till slut av perserkungen Kyros den store, omkring 547 f.Kr."
+    },
+    "source": "Encyclopaedia Britannica – Croesus"
+  },
+  {
+    "id": "gull-v-20",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "16. august 1896 ble det funnet gull i en bielv langt oppe i Yukon, i det nordvestlige Canada. Nyheten nådde ikke omverdenen før i 1897, men da satte rundt 100 000 mennesker kursen mot området - færre enn 4000 av dem fant noe gull. Hva kalles dette berømte gullrushet?",
+      "sv": "Den 16 augusti 1896 hittades guld i en biflod långt uppe i Yukon, i nordvästra Kanada. Nyheten nådde inte omvärlden förrän 1897, men då styrde omkring 100 000 människor kosan mot området - färre än 4000 av dem hittade guld. Vad kallas denna berömda guldrusch?"
+    },
+    "answer": "Klondike",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Regionen ligger i Yukon-territoriet, og gullgraverne måtte ofte ta seg over det beryktede Chilkoot-passet til fots.",
+      "sv": "Regionen ligger i Yukon-territoriet, och guldgrävarna fick ofta ta sig över det beryktade Chilkootpasset till fots."
+    },
+    "funFact": {
+      "nb": "Selve gullfunnet i Bonanza Creek regnes gjort av amerikaneren George Carmack sammen med to menn fra urfolket tagish, Skookum Jim og Tagish Charlie - men Carmack ble oppgitt som oppdageren, av frykt for at myndighetene ikke ville godkjenne et krav fra en urfolksperson.",
+      "sv": "Själva guldfyndet i Bonanza Creek anses ha gjorts av amerikanen George Carmack tillsammans med två män ur urfolket tagish, Skookum Jim och Tagish Charlie - men Carmack uppgavs som upptäckaren, av rädsla för att myndigheterna inte skulle godkänna ett anspråk från en urfolksperson."
+    },
+    "source": "Wikipedia – Klondike Gold Rush"
+  }
+]

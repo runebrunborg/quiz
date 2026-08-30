@@ -1,0 +1,665 @@
+[
+  {
+    "id": "rod-l-11",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Skjoldet har vært nesten uendret siden 1200-tallet: et kronet, gyllent dyr som holder en sølvøks med gyllent skaft, avbildet på rød bunn. Motivet regnes som et av Europas eldste riksvåpen og finnes i dag blant annet på politiets uniformer. Hvilket dyr er avbildet i Norges riksvåpen?",
+      "sv": "Skölden har varit nästan oförändrad sedan 1200-talet: ett krönt, gyllene djur som håller en silveryxa med gyllene skaft, avbildat på röd botten. Motivet räknas som ett av Europas äldsta riksvapen och finns i dag bland annat på polisens uniformer. Vilket djur avbildas i Norges riksvapen?"
+    },
+    "answer": { "nb": "Løve", "sv": "Lejon" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dyret er kongenes symbol i norsk heraldikk helt tilbake til middelalderen, og bærer en øks til minne om Olav den hellige.",
+      "sv": "Djuret är kungarnas symbol i norsk heraldik ända tillbaka till medeltiden, och bär en yxa till minne av Olav den helige."
+    },
+    "funFact": {
+      "nb": "Motivet har hatt sitt fastsatte utseende siden en kongelig resolusjon i 1937: kronet, med sølvøks med gyllent skaft, på rødt skjold. Selve løven kan spores tilbake til kong Sverres tid på 1100–1200-tallet.",
+      "sv": "Motivet har haft sitt fastställda utseende sedan en kunglig resolution 1937: krönt, med en silveryxa med gyllene skaft, på röd sköld. Själva lejonet kan spåras tillbaka till kung Sverres tid på 1100–1200-talet."
+    },
+    "source": "Store norske leksikon – Norges riksvåpen"
+  },
+  {
+    "id": "rod-l-12",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Norges største friluftslivsorganisasjon merker over 22 000 kilometer fotruter i fjellet med et rødt bokstavtegn malt på steiner og trær, slik at turgåere finner veien selv i tåke. Organisasjonen har over 300 000 medlemmer og drifter rundt 550 hytter. Hva heter organisasjonen?",
+      "sv": "Norges största friluftsorganisation märker ut mer än 22 000 kilometer vandringsleder i fjällen med ett rött bokstavstecken målat på stenar och träd, så att vandrare hittar vägen även i dimma. Organisationen har över 300 000 medlemmar och driver omkring 550 stugor. Vad heter organisationen?"
+    },
+    "answer": "Den Norske Turistforening",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortelsen er DNT, og bokstaven som males rødt, står for «tur».",
+      "sv": "Förkortningen är DNT, och bokstaven som målas röd står för «tur» (vandring)."
+    },
+    "funFact": {
+      "nb": "Merkesystemet med rød T ble innført av foreningen alt på slutten av 1800-tallet og er i dag et av verdens mest utbredte turmerkesystemer. Sommerrutene alene utgjør over 22 000 kilometer.",
+      "sv": "Märkessystemet med röd T infördes av föreningen redan i slutet av 1800-talet och är i dag ett av världens mest utbredda vandringsledsmärken. Enbart sommarlederna utgör över 22 000 kilometer."
+    },
+    "source": "Den Norske Turistforening – om DNT"
+  },
+  {
+    "id": "rod-l-13",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "Kjeden åpnet sin første butikk i Trondheim 15. februar 1979, grunnlagt av Odd Reitan, og navnet er satt sammen av «Reitan» og «Mat». I dag kjenner de fleste nordmenn igjen den røde logoen fra tusenvis av dagligvarebutikker. Hvilken kjede er dette?",
+      "sv": "Kedjan öppnade sin första butik i Trondheim den 15 februari 1979, grundad av Odd Reitan, och namnet är sammansatt av «Reitan» och «Mat» (mat). I dag känner de flesta norrmän igen den röda logotypen från tusentals dagligvarubutiker. Vilken kedja är detta?"
+    },
+    "answer": "REMA 1000",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er en sammentrekning, og kjeden er i dag en av Norges største lavprisaktører innen dagligvare.",
+      "sv": "Namnet är en sammandragning, och kedjan är i dag en av Norges största lågpriskedjor inom dagligvaror."
+    },
+    "funFact": {
+      "nb": "Kjeden drives i dag av Reitangruppen, som grunnlegger Odd Reitan bygde opp fra denne ene butikken. REMA 1000 finnes også i Danmark, der kjeden er blant de største.",
+      "sv": "Kedjan drivs i dag av Reitangruppen, som grundaren Odd Reitan byggde upp från denna enda butik. REMA 1000 finns också i Danmark, där kedjan är bland de största."
+    },
+    "source": "Wikipedia – Rema 1000; Reitangruppen"
+  },
+  {
+    "id": "rod-l-14",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["popkultur"],
+    "prompt": {
+      "nb": "Hver vår kler norske avgangselever fra studiespesialisering og andre allmennfaglige linjer seg i en rød kjeledress – den klart vanligste fargen blant landets russ. Draktens farge har gitt gruppen et eget navn. Hva kalles disse russen?",
+      "sv": "Varje vår klär norska avgångselever från studieförberedande program sig i en röd overall – den klart vanligaste färgen bland landets avgångselever. Overallens färg har gett gruppen ett eget namn. Vad kallas dessa elever?"
+    },
+    "answer": "Rødruss",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Disse elevene fullfører 13 års skolegang og feirer dette i ukene før 17. mai, med et kjent knutesystem på russeluen.",
+      "sv": "Dessa elever avslutar 13 års skolgång och firar detta veckorna före den 17 maj, med ett känt knutsystem på mössan."
+    },
+    "funFact": {
+      "nb": "Yrkesfagelever bruker tradisjonelt svart kjeledress, mens økonomisk-administrative linjer bruker blått – rødt er likevel den klart vanligste fargen blant norsk russ totalt.",
+      "sv": "Yrkeselever använder traditionellt svart overall, medan ekonomisk-administrativa linjer använder blått – rött är ändå den klart vanligaste färgen bland norska avgångselever totalt."
+    },
+    "source": "Wikipedia – Russefeiring"
+  },
+  {
+    "id": "rod-l-15",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["mat-og-drikke"],
+    "prompt": {
+      "nb": "I august samles svensker rundt bord pyntet med papirlykter, ofte formet som måne og stjerner, for å spise ferskvannskreps kokt i saltlake med dillkroner. Skallet på kreps skifter farge til klar rød under kokingen. Hva heter denne svenske spisetradisjonen?",
+      "sv": "I augusti samlas svenskar kring bord dukade med papperslyktor, ofta formade som måne och stjärnor, för att äta sötvattenskräftor kokta i saltlake med dillkronor. Skalet på kräftorna skiftar färg till klarrött under kokningen. Vad heter denna svenska mattradition?"
+    },
+    "answer": "Kräftskiva",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Festen holdes tradisjonelt i august, og gjestene synger gjerne snapsviser mellom rettene.",
+      "sv": "Festen hålls traditionellt i augusti, och gästerna sjunger gärna snapsvisor mellan rätterna."
+    },
+    "funFact": {
+      "nb": "Fargeskiftet under koking skyldes et rødt fargestoff i skallet som blir synlig når proteinet det er bundet til, brytes ned av varmen.",
+      "sv": "Färgskiftet vid kokning beror på ett rött färgämne i skalet som blir synligt när proteinet det är bundet till bryts ned av värmen."
+    },
+    "source": "Nordiska museet – kräftskiva"
+  },
+  {
+    "id": "rod-l-16",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["design"],
+    "prompt": {
+      "nb": "Denne tradisjonelle svenske husmalingen er i bunn og grunn et industrielt restprodukt: forvitret gruveavfall fra en kobbergruve brennes til jernoksid og blandes blant annet med rugmel og linolje. Kong Johan III lot male med den alt i 1573. Hva heter denne røde malingen?",
+      "sv": "Denna traditionella svenska husfärg är i grunden en industriell restprodukt: vittrat gruvavfall från en koppargruva bränns till järnoxid och blandas bland annat med rågmjöl och linolja. Kung Johan III lät måla med den redan 1573. Vad heter denna röda färgen?"
+    },
+    "answer": "Falu rödfärg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Restproduktet kommer fra samme gruve som har gitt navn til en by i Dalarna.",
+      "sv": "Restprodukten kommer från samma gruva som gett namn åt en stad i Dalarna."
+    },
+    "funFact": {
+      "nb": "Malingen inneholder også kobber og sink, som virker sopphemmende, og først fra 1860-årene ble den vanlig på vanlige gårdshus – før det var den forbeholdt herregårder og kirker.",
+      "sv": "Färgen innehåller också koppar och zink, som verkar svamphämmande, och först från 1860-talet blev den vanlig på vanliga gårdshus – innan dess var den förbehållen herrgårdar och kyrkor."
+    },
+    "source": "Riksantikvarieämbetet; Unesco – Mining Area of the Great Copper Mountain in Falun"
+  },
+  {
+    "id": "rod-l-17",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["fotball"],
+    "prompt": {
+      "nb": "Klubben ble stiftet i 1910 som IF Göta og tok sitt nåværende navn i 1927. Siden 1944 har spillerne båret helrød trøye til hvite bukser, og i 2008 tok klubben sitt hittil eneste seriemesterskap i Allsvenskan. Hvilken svensk fotballklubb er dette?",
+      "sv": "Klubben grundades 1910 som IF Göta och tog sitt nuvarande namn 1927. Sedan 1944 har spelarna burit helröd tröja till vita byxor, och 2008 tog klubben sitt hittills enda SM-guld i Allsvenskan. Vilken svensk fotbollsklubb är detta?"
+    },
+    "answer": "Kalmar FF",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Klubben holder til i en by på Smålandskysten og spiller sine hjemmekamper på Guldfågeln Arena.",
+      "sv": "Klubben håller till i en stad på Smålandskusten och spelar sina hemmamatcher på Guldfågeln Arena."
+    },
+    "funFact": {
+      "nb": "Seriegullet i 2008 kom etter 2–2 borte mot Halmstads BK, ett poeng foran IF Elfsborg. Klubben har også vunnet den svenske cupen tre ganger.",
+      "sv": "SM-guldet 2008 kom efter 2–2 borta mot Halmstads BK, en poäng före IF Elfsborg. Klubben har också vunnit Svenska cupen tre gånger."
+    },
+    "source": "Wikipedia – Kalmar FF"
+  },
+  {
+    "id": "rod-l-18",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["politikk"],
+    "prompt": {
+      "nb": "Partiet har rødt som sin fargeidentitet og het fram til 1990 noe med tillegget «Kommunisterna», forkortet VPK. Røttene går tilbake til et sosialdemokratisk venstreparti fra 1917, som senere ble til Sveriges kommunistiske parti. Hvilket parti heter det i dag?",
+      "sv": "Partiet har rött som sin färgidentitet och hette fram till 1990 något med tillägget «Kommunisterna», förkortat VPK. Rötterna går tillbaka till ett socialdemokratiskt vänsterparti från 1917, som senare blev Sveriges kommunistiska parti. Vilket parti heter det i dag?"
+    },
+    "answer": "Vänsterpartiet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnebyttet i 1990 markerte et brudd med kommunistmerkelappen og en dreining mot nordisk folkesosialisme.",
+      "sv": "Namnbytet 1990 markerade ett brott med kommunistetiketten och en vändning mot nordisk folksocialism."
+    },
+    "funFact": {
+      "nb": "Partiet ble grunnlagt som Sveriges socialdemokratiska vänsterparti i 1917, het Sveriges kommunistiska parti fra 1921 og Vänsterpartiet kommunisterna fra 1967, før det endelige navnebyttet i 1990.",
+      "sv": "Partiet grundades som Sveriges socialdemokratiska vänsterparti 1917, hette Sveriges kommunistiska parti från 1921 och Vänsterpartiet kommunisterna från 1967, innan det slutgiltiga namnbytet 1990."
+    },
+    "source": "Wikipedia – Vänsterpartiet"
+  },
+  {
+    "id": "rod-l-19",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["popkultur"],
+    "prompt": {
+      "nb": "Selskapets logo er hvit skrift på rød bunn, og fra 1931 malte kunstneren Haddon Sundblom en rund, blid julenisse i rødt og hvitt for reklamene deres. Nissen fantes fra før, men annonsene gjorde nettopp denne utgaven verdenskjent. Hvilket brusmerke er dette?",
+      "sv": "Företagets logotyp är vit text på röd botten, och från 1931 målade konstnären Haddon Sundblom en rultig, godmodig jultomte i rött och vitt för deras reklam. Tomten fanns sedan tidigare, men annonserna gjorde just denna version världskänd. Vilket läskedrycksmärke är detta?"
+    },
+    "answer": "Coca-Cola",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Merket er en av verdens mest solgte leskedrikker og har brukt samme røde fargeidentitet i over hundre år.",
+      "sv": "Märket är en av världens mest sålda läskedrycker och har använt samma röda färgidentitet i över hundra år."
+    },
+    "funFact": {
+      "nb": "Sundblom malte julenissemotivet for merket i 33 år. Reklamene får ofte æren for å ha «oppfunnet» den moderne julenissen, men den røde og hvite nissedrakten fantes i amerikansk billedkunst allerede tiår før.",
+      "sv": "Sundblom målade jultomtemotivet för märket i 33 år. Reklamerna får ofta äran av att ha «uppfunnit» den moderna jultomten, men den röda och vita tomtedräkten fanns i amerikansk bildkonst redan årtionden tidigare."
+    },
+    "source": "The Coca-Cola Company – Haddon Sundblom's Santa Claus"
+  },
+  {
+    "id": "rod-l-20",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["design", "transport"],
+    "prompt": {
+      "nb": "Arkitekten Giles Gilbert Scott tegnet denne røde telefonkiosken med kuppeltak, og prototypen ble satt opp ved Royal Academy i 1924. Fra 1926 spredte den seg i gatebildet, og designet er blitt et av verdens mest gjenkjennelige symboler på én bestemt by. Hvilken by?",
+      "sv": "Arkitekten Giles Gilbert Scott ritade denna röda telefonkiosk med kupoltak, och prototypen sattes upp vid Royal Academy 1924. Från 1926 spred den sig i gatubilden, och designen har blivit en av världens mest igenkännbara symboler för en viss stad. Vilken stad?"
+    },
+    "answer": "London",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger ved elven Themsen, og kiosk-modellen kalles K2.",
+      "sv": "Staden ligger vid floden Themsen, och kioskmodellen kallas K2."
+    },
+    "funFact": {
+      "nb": "Modellen het K2 og ble senere avløst av den enklere K6 som landsdekkende standard. Den originale prototypen fra 1924 fikk vernestatus (Grade II*) i 2019.",
+      "sv": "Modellen hette K2 och ersattes senare av den enklare K6 som landsomfattande standard. Originalprototypen från 1924 fick skyddsstatus (Grade II*) 2019."
+    },
+    "source": "Wikipedia – Red telephone box"
+  },
+  {
+    "id": "rod-m-11",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Organisasjonen ble stiftet 22. september 1865, samme år som sitt svenske søsterselskap, og regnes som en av verdens eldste nasjonale Røde Kors-foreninger. Fra 1907 ble den offisielt godkjent som sanitetsforening for Forsvaret. Hvilken norsk organisasjon er dette?",
+      "sv": "Organisationen grundades den 22 september 1865, samma år som sin svenska systerorganisation, och räknas som en av världens äldsta nationella Röda Kors-föreningar. Från 1907 blev den officiellt godkänd som sjukvårdsförening för försvaret. Vilken norsk organisation är detta?"
+    },
+    "answer": { "nb": "Norges Røde Kors", "sv": "Norska Röda Korset" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Symbolet er et rødt kors på hvit bunn – fargene i det sveitsiske flagget speilvendt.",
+      "sv": "Symbolen är ett rött kors på vit botten – färgerna i den schweiziska flaggan spegelvända."
+    },
+    "funFact": {
+      "nb": "Norge og Sverige stiftet sine Røde Kors-foreninger samme år, 1865, med noen måneders mellomrom. Organisasjonen er i dag en av Norges største frivillige beredskapsaktører.",
+      "sv": "Norge och Sverige grundade sina Röda Kors-föreningar samma år, 1865, med några månaders mellanrum. Organisationen är i dag en av Norges största frivilliga beredskapsaktörer."
+    },
+    "source": "Store norske leksikon – Norges Røde Kors"
+  },
+  {
+    "id": "rod-m-12",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["dyr", "natur"],
+    "prompt": {
+      "nb": "Denne lille sangfuglen er en av de aller første som synger når våren nærmer seg i Norge, gjerne alt i februar. Den er sterkt revirhevdende og finnes i hager og skogkanter over hele landet hele året. Navnet viser til den rødlige fargen på strupen. Hvilken fugl er dette?",
+      "sv": "Denna lilla sångfågeln är en av de allra första att sjunga när våren närmar sig i Norge, gärna redan i februari. Den är starkt revirhävdande och finns i trädgårdar och skogsbryn över hela landet året runt. Namnet syftar på den rödaktiga färgen på hakan. Vilken fågel är detta?"
+    },
+    "answer": { "nb": "Rødstrupe", "sv": "Rödhake" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det vitenskapelige navnet er Erithacus rubecula, og fuglen er ofte avbildet på engelske julekort.",
+      "sv": "Det vetenskapliga namnet är Erithacus rubecula, och fågeln avbildas ofta på engelska julkort."
+    },
+    "funFact": {
+      "nb": "Både hanner og hunner synger og forsvarer revir, noe som er uvanlig blant europeiske sangfugler. Fuglen forbindes med jul i britisk tradisjon, blant annet fordi 1800-tallets postbud bar røde uniformer og ble kalt «robins».",
+      "sv": "Både hanar och honor sjunger och försvarar revir, vilket är ovanligt bland europeiska sångfåglar. Fågeln förknippas med jul i brittisk tradition, bland annat eftersom 1800-talets brevbärare bar röda uniformer och kallades «robins»."
+    },
+    "source": "RSPB – European Robin; Store norske leksikon – rødstrupe"
+  },
+  {
+    "id": "rod-m-13",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["fotball"],
+    "prompt": {
+      "nb": "Det norske herrelandslaget i fotball spiller i rødt, og fikk på 1990-tallet et kallenavn satt sammen av navnet til landslagssjefen og et flertallsmerke. Under ham kvalifiserte laget seg til VM i både 1994 og 1998. Hva ble laget kalt?",
+      "sv": "Det norska herrlandslaget i fotboll spelar i rött, och fick på 1990-talet ett smeknamn sammansatt av förbundskaptenens namn och en pluraländelse. Under honom kvalificerade sig laget till VM både 1994 och 1998. Vad kallades laget?"
+    },
+    "answer": "Drillos",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Trenerens eget kallenavn var «Drillo», og han var kjent for en pragmatisk, langballorientert spillestil.",
+      "sv": "Tränarens eget smeknamn var «Drillo», och han var känd för en pragmatisk, långbollsorienterad spelstil."
+    },
+    "funFact": {
+      "nb": "Trenerens fulle navn var Egil Olsen. Kallenavnet «Drillos» er lite brukt i dag, men laget huskes fortsatt for VM-triumfen 2–1 over Brasil i 1998, avgjort på straffe av Kjetil Rekdal.",
+      "sv": "Tränarens fulla namn var Egil Olsen. Smeknamnet «Drillos» används sällan i dag, men laget minns fortfarande VM-triumfen 2–1 mot Brasilien 1998, avgjord på straff av Kjetil Rekdal."
+    },
+    "source": "Wikipedia – Kjetil Rekdal; Wikipedia – Norway national football team"
+  },
+  {
+    "id": "rod-m-14",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "På norske kalendere er søndager og offentlige fridager trykt i en bestemt farge, mens hverdager står i svart. Uttrykket for disse fridagene er blitt en fast muntlig betegnelse, selv i sammenhenger uten kalender. Hva kalles disse dagene i dagligtale?",
+      "sv": "På svenska kalendrar är söndagar och allmänna lediga dagar tryckta i en viss färg, medan vardagar står i svart. Uttrycket för dessa lediga dagar har blivit en fast muntlig benämning, även i sammanhang utan kalender. Vad kallas dessa dagar i vardagligt tal?"
+    },
+    "answer": { "nb": "Røde dager", "sv": "Röda dagar" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uttrykket brukes også overført, for eksempel om en dag man har fri fra jobb selv om den ikke er en offisiell helligdag.",
+      "sv": "Uttrycket används också bildligt, till exempel om en dag man är ledig från jobbet även om den inte är en officiell helgdag."
+    },
+    "funFact": {
+      "nb": "Skikken med å trykke søndager og helligdager i rødt på kalendere er felles for Norge og Sverige, og finnes også i en del andre europeiske land, om enn med andre farger.",
+      "sv": "Seden att trycka söndagar och helgdagar i rött på almanackor delas av Sverige och Norge, och finns också i en del andra europeiska länder, om än ofta med andra färger."
+    },
+    "source": "Bokmålsordboka – «rød dag»; Svenska Akademiens ordbok – «röd dag»"
+  },
+  {
+    "id": "rod-m-15",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["dyr", "natur"],
+    "prompt": {
+      "nb": "Denne laksefisken lever i kalde, dype innsjøer i Norden, blant annet i Vättern i Sverige, og kjøttet kan variere fra blekrosa til sterkt rødt. Den regnes som en delikatesse og fanges gjerne på høsten når den vandrer mot grunt vann for å gyte. Hvilken fiskeart er dette?",
+      "sv": "Denna laxfisk lever i kalla, djupa insjöar i Norden, bland annat i Vättern i Sverige, och köttet kan variera från blekrosa till starkt rött. Den räknas som en delikatess och fångas gärna på hösten när den vandrar mot grunt vatten för att leka. Vilken fiskart är detta?"
+    },
+    "answer": { "nb": "Røye", "sv": "Röding" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det vitenskapelige navnet er Salvelinus alpinus, og arten finnes helt opp på Svalbard.",
+      "sv": "Det vetenskapliga namnet är Salvelinus alpinus, och arten finns ända upp på Svalbard."
+    },
+    "funFact": {
+      "nb": "Kjøttfargen kommer fra karotenoider i dyreplankton og andre byttedyr fisken spiser. I Vättern kjenner man til flere ulike lokale bestander, blant dem den storvokste Vätternröyen.",
+      "sv": "Köttfärgen kommer från karotenoider i djurplankton och andra bytesdjur fisken äter. I Vättern känner man till flera olika lokala bestånd, bland dem den storväxta Vätternrödingen."
+    },
+    "source": "Havs- och vattenmyndigheten – röding; Artsdatabanken – røye"
+  },
+  {
+    "id": "rod-m-16",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "Når en svenske blir rasende, sier man gjerne at vedkommende «ser rødt» – som om synet skulle bli sløret av raseriet. Engelsk har et nøyaktig tilsvarende uttrykk for det samme sinnet, med samme farge og samme verb. Hva sier man på engelsk?",
+      "sv": "När en svensk blir rasande säger man gärna att personen «ser rött» – som om synen skulle slöjas över av raseriet. Engelskan har ett exakt motsvarande uttryck för samma sinnesstämning, med samma färg och samma verb. Vad säger man på engelska?"
+    },
+    "answer": "To see red",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uttrykket finnes også på norsk – «å se rødt» – og trolig i enda flere europeiske språk.",
+      "sv": "Uttrycket finns också på norska – «å se rødt» – och troligen i ännu fler europeiska språk."
+    },
+    "funFact": {
+      "nb": "Uttrykket spiller trolig på den fysiologiske følelsen av at blodet stiger til hodet og synet «rødmer» når adrenalinet strømmer på i sinne.",
+      "sv": "Uttrycket anspelar troligen på den fysiologiska känslan av att blodet stiger till huvudet och synen «rodnar» när adrenalinet strömmar till i vrede."
+    },
+    "source": "Svenska Akademiens ordbok – «se rött»; Merriam-Webster – «see red»"
+  },
+  {
+    "id": "rod-m-17",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "Kleskjeden åpnet sin første butikk i Västerås i 1947, grunnlagt av Erling Persson, og het opprinnelig bare «Hennes» siden den kun solgte klær til kvinner. I dag er det røde ordmerket å finne i kjøpesentre over hele verden. Hvilken kjede er dette?",
+      "sv": "Klädkedjan öppnade sin första butik i Västerås 1947, grundad av Erling Persson, och hette ursprungligen bara «Hennes» eftersom den enbart sålde kläder till kvinnor. I dag finns det röda ordmärket i köpcentrum över hela världen. Vilken kedja är detta?"
+    },
+    "answer": "H&M",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet ble utvidet etter et oppkjøp av en jakt- og fiskeutstyrsbutikk i 1968, og forkortelsen viser fortsatt til begge deler.",
+      "sv": "Namnet utökades efter ett förvärv av en jakt- och fiskeutrustningsbutik 1968, och förkortningen syftar fortfarande på båda delarna."
+    },
+    "funFact": {
+      "nb": "Mauritz Widforss var navnet på jakt- og fiskeutstyrsbutikken som ble kjøpt opp i 1968, og det gjorde at herre- og barneklær kom inn i sortimentet. Selskapet er i dag en av verdens største moteforhandlere.",
+      "sv": "Mauritz Widforss var namnet på jakt- och fiskeutrustningsbutiken som förvärvades 1968, vilket gjorde att herr- och barnkläder kom in i sortimentet. Bolaget är i dag en av världens största modeåterförsäljare."
+    },
+    "source": "Wikipedia – H&M"
+  },
+  {
+    "id": "rod-m-18",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["vitenskap", "mat-og-drikke"],
+    "prompt": {
+      "nb": "Rå kreps, hummer og reker er gjerne gråbrune eller grønnlige, men blir klart røde i kokende vann. Årsaken er et rødt fargestoff som i utgangspunktet er bundet til et protein i skallet – varmen bryter ned proteinet og frigjør fargen. Hva heter fargestoffet?",
+      "sv": "Råa kräftor, hummer och räkor är ofta gråbruna eller grönaktiga, men blir klarröda i kokande vatten. Orsaken är ett rött färgämne som från början är bundet till ett protein i skalet – värmen bryter ner proteinet och frigör färgen. Vad heter färgämnet?"
+    },
+    "answer": "Astaxanthin",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stoffet er et karotenoid, i samme familie som fargestoffene i gulrøtter og laksekjøtt.",
+      "sv": "Ämnet är ett karotenoid, i samma familj som färgämnena i morötter och laxkött."
+    },
+    "funFact": {
+      "nb": "Fargestoffet er det samme som gir laks og flamingoer sin farge, og skalldyrene får det i seg gjennom det de spiser, som alger og dyreplankton.",
+      "sv": "Färgämnet är detsamma som ger lax och flamingor deras färg, och skaldjuren får i sig det genom det de äter, som alger och djurplankton."
+    },
+    "source": "Wikipedia – Astaxanthin"
+  },
+  {
+    "id": "rod-m-19",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["historie", "militaerhistorie"],
+    "prompt": {
+      "nb": "Vinteren og våren 1918 sto det borgerkrig i et nordisk naboland: sosialistiske arbeidergarder kontrollerte byene og industristrøkene i sør, mens en borgerlig side ledet av general Mannerheim hadde makten i nord og øst. Hva ble den sosialistiske siden kalt?",
+      "sv": "Vintern och våren 1918 rådde inbördeskrig i ett nordiskt grannland: socialistiska arbetargarden kontrollerade städerna och industriområdena i söder, medan en borgerlig sida ledd av general Mannerheim hade makten i norr och öster. Vad kallades den socialistiska sidan?"
+    },
+    "answer": { "nb": "De røde", "sv": "De röda" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet hadde nettopp blitt selvstendig fra Russland, og konflikten er også kjent som «frihetskrigen» sett fra motstandernes side.",
+      "sv": "Landet hade precis blivit självständigt från Ryssland, och konflikten är också känd som «frihetskriget» sett från motståndarnas sida."
+    },
+    "funFact": {
+      "nb": "På finsk kalles siden «punaiset», og på svensk «röda» eller «röda gardet». Konflikten varte fra januar til mai 1918 og krevde et stort antall menneskeliv på begge sider.",
+      "sv": "På finska kallas sidan «punaiset», och på svenska «röda» eller «röda gardet». Konflikten varade från januari till maj 1918 och krävde ett stort antal människoliv på båda sidor."
+    },
+    "source": "Wikipedia – Finnish Civil War"
+  },
+  {
+    "id": "rod-m-20",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["historie", "medisin"],
+    "prompt": {
+      "nb": "Symbolet med rødt kors på hvit bunn ble valgt under Genève-konvensjonen i 1864 som et nøytralt kjennemerke for sanitetspersonell i krig. Fargene er nøyaktig omvendt av flagget til landet konferansen ble holdt i, som en hedersbevisning. Hvilket land er dette?",
+      "sv": "Symbolen med rött kors på vit botten valdes vid Genèvekonventionen 1864 som ett neutralt kännetecken för sjukvårdspersonal i krig. Färgerna är exakt omvända jämfört med flaggan i landet där konferensen hölls, som en hedersbetygelse. Vilket land är detta?"
+    },
+    "answer": { "nb": "Sveits", "sv": "Schweiz" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landets eget flagg har et hvitt kors på rød bunn, og det var også her Genève-konvensjonen ble forhandlet fram.",
+      "sv": "Landets egen flagga har ett vitt kors på röd botten, och det var också här Genèvekonventionen förhandlades fram."
+    },
+    "funFact": {
+      "nb": "Den offisielle forklaringen, stadfestet i konvensjonsteksten fra 1906, hedrer også grunnleggerne bak Røde Kors-bevegelsen, blant dem sveitserne Henry Dunant, Louis Appia og Guillaume-Henri Dufour.",
+      "sv": "Den officiella förklaringen, fastslagen i konventionstexten från 1906, hedrar också grundarna bakom Röda Korset-rörelsen, bland dem schweizarna Henry Dunant, Louis Appia och Guillaume-Henri Dufour."
+    },
+    "source": "ICRC – Discover the ICRC: the emblems"
+  },
+  {
+    "id": "rod-v-11",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["design", "historie"],
+    "prompt": {
+      "nb": "Flagget ble innviet 15. august 1986 under den 13. nordiske samekonferansen i Åre, og sirkelen i rødt og blått er hentet fra sol- og månesymbolikk på sjamantrommer. Kunstneren bak designet var en same fra Skibotn i Troms. Hvem var hun?",
+      "sv": "Flaggan invigdes den 15 augusti 1986 under den 13:e nordiska samekonferensen i Åre, och cirkeln i rött och blått är hämtad från sol- och månesymbolik på schamantrummor. Konstnären bakom designen var en same från Skibotn i Troms. Vem var hon?"
+    },
+    "answer": "Astrid Båhl",
+    "answerKind": "person",
+    "person": { "given": "Astrid", "family": "Båhl" },
+    "hint": {
+      "nb": "Rødt symboliserer sola og blått månen, og bildet knyttes til diktet «Päiven Pārne'» («Solens sønner»).",
+      "sv": "Rött symboliserar solen och blått månen, och bilden knyts till dikten «Päiven Pārne'» («Solens söner»)."
+    },
+    "funFact": {
+      "nb": "Flagget ble valgt blant flere forslag i en åpen konkurranse, og fargene rødt, grønt, gult og blått går igjen i samisk drakttradisjon.",
+      "sv": "Flaggan valdes bland flera förslag i en öppen tävling, och färgerna rött, grönt, gult och blått återkommer i samisk dräkttradition."
+    },
+    "source": "Wikipedia – Sámi flag"
+  },
+  {
+    "id": "rod-v-12",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["natur", "vitenskap"],
+    "prompt": {
+      "nb": "I høyfjellet og på Svalbard kan snøen enkelte steder om sommeren få et rosarødt skjær, forårsaket av en kuldetolerant alge som blomstrer nær overflaten. Fenomenet kalles gjerne «vannmelonsnø» på engelsk. Hva heter algen med sitt latinske navn?",
+      "sv": "I högfjällen och på Svalbard kan snön på vissa ställen om sommaren få en rosaröd skiftning, orsakad av en köldtålig alg som blommar nära ytan. Fenomenet kallas ofta «vattenmelonsnö» på engelska. Vad heter algen med sitt latinska namn?"
+    },
+    "answer": "Chlamydomonas nivalis",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den samme røde fargen forklares av det samme fargestoffet som gjør kokte reker og hummer røde.",
+      "sv": "Samma röda färg förklaras av samma färgämne som gör kokta räkor och hummer röda."
+    },
+    "funFact": {
+      "nb": "Fargen kommer av astaxanthin, som algen produserer for å beskytte seg mot sterkt sollys og UV-stråling i det ekstreme høyfjellsmiljøet. Algen kan danne store, synlige flekker i snøen.",
+      "sv": "Färgen kommer av astaxantin, som algen producerar för att skydda sig mot starkt solljus och UV-strålning i den extrema högfjällsmiljön. Algen kan bilda stora, synliga fläckar i snön."
+    },
+    "source": "Wikipedia – Chlamydomonas nivalis"
+  },
+  {
+    "id": "rod-v-13",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Kommunen på Helgelandskysten i Nordland har fått navnet sitt fra en rødlig bergart som er vanlig i området, og administrasjonssenteret Vågaholmen ligger ved munningen av Tjongsfjorden. Hvilken kommune er dette?",
+      "sv": "Kommunen vid Helgelandskusten i Nordland har fått sitt namn efter en rödaktig bergart som är vanlig i området, och administrationscentret Vågaholmen ligger vid mynningen av Tjongsfjorden. Vilken kommun är detta?"
+    },
+    "answer": "Rødøy",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kommunenavnet er satt sammen av to ledd, der det første er en gammel form av fargeordet.",
+      "sv": "Kommunnamnet är sammansatt av två led, där det första är en gammal form av färgordet."
+    },
+    "funFact": {
+      "nb": "Første ledd i navnet kommer av det gammelnorske ordet «raud», altså «rød», og viser til bergartens farge på en av øyene i kommunen.",
+      "sv": "Första ledet i namnet kommer av det gammalnorska ordet «raud», alltså «röd», och syftar på bergartens färg på en av öarna i kommunen."
+    },
+    "source": "Store norske leksikon – Rødøy"
+  },
+  {
+    "id": "rod-v-14",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["natur", "vitenskap"],
+    "prompt": {
+      "nb": "Denne rosarøde varianten av mineralet zoisitt ble første gang funnet i Sauland i Telemark i 1820, med mangan som gir fargen. Navnet viser til et mytisk landområde lengst i nord, tolket som Skandinavia. Hva heter mineralet?",
+      "sv": "Denna rosaröda varianten av mineralet zoisit hittades första gången i Sauland i Telemark 1820, med mangan som ger färgen. Namnet syftar på ett mytiskt landområde längst i norr, tolkat som Skandinavien. Vad heter mineralet?"
+    },
+    "answer": { "nb": "Thulitt", "sv": "Thulit" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er avledet av det mytiske Thule, som antikke forfattere plasserte lengst nord i verden.",
+      "sv": "Namnet är avlett från det mytiska Thule, som antika författare placerade längst norrut i världen."
+    },
+    "funFact": {
+      "nb": "Mineralet er ofte flekket med hvit kalkspat og har vært brukt som smykkestein. Det regnes som en av Norges mest kjente egne mineralvarianter.",
+      "sv": "Mineralet är ofta fläckat med vit kalkspat och har använts som smyckesten. Det räknas som en av Norges mest kända egna mineralvarianter."
+    },
+    "source": "Wikipedia – Thulite; Mindat.org"
+  },
+  {
+    "id": "rod-v-15",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Med sin knallrøde hatt full av hvite prikker er denne soppen lett gjenkjennelig i norske bjørke- og granskoger om høsten. Den inneholder giftstoffene muskimol og ibotensyre, og er nært knyttet til julenisse- og eventyrbilder i nordisk kultur. Hvilken sopp er dette?",
+      "sv": "Med sin knallröda hatt full av vita prickar är denna svamp lätt igenkännlig i norska björk- och granskogar om hösten. Den innehåller giftämnena muskimol och ibotensyra, och är nära knuten till jultomte- och sagobilder i nordisk kultur. Vilken svamp är detta?"
+    },
+    "answer": { "nb": "Fluesopp", "sv": "Flugsvamp" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det latinske navnet er Amanita muscaria, og navnet på norsk viser til at soppen tradisjonelt ble brukt til å bedøve fluer.",
+      "sv": "Det latinska namnet är Amanita muscaria, och det svenska namnet syftar på att svampen traditionellt användes för att bedöva flugor."
+    },
+    "funFact": {
+      "nb": "Enkelte forskere har foreslått at soppen kan ligge bak gamle forestillinger om flygende reinsdyr i sirkumpolare kulturer, en teori som fortsatt diskuteres. Fluesoppen brukes i dag særlig som pyntemotiv, ikke til mat, siden den er giftig rå.",
+      "sv": "Vissa forskare har föreslagit att svampen kan ligga bakom gamla föreställningar om flygande renar i cirkumpolära kulturer, en teori som fortfarande diskuteras. Flugsvampen används i dag främst som prydnadsmotiv, inte som mat, eftersom den är giftig rå."
+    },
+    "source": "Artsdatabanken – fluesopp; Wikipedia – Amanita muscaria"
+  },
+  {
+    "id": "rod-v-16",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["film"],
+    "prompt": {
+      "nb": "I denne filmen fra 1972 brøt regissøren med sin vanlige svart-hvitt-estetikk og lot vegger, tepper og gardiner domineres av mettet rødt, med hvite kontraster. Han forklarte selv at fargen for ham symboliserte sjelen. Hvilken film er dette?",
+      "sv": "I denna film från 1972 bröt regissören med sin vanliga svartvita estetik och lät väggar, mattor och gardiner domineras av mättat rött, med vita kontraster. Han förklarade själv att färgen för honom symboliserade själen. Vilken film är detta?"
+    },
+    "answer": "Viskningar och rop",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Regissøren er svensk og en av filmhistoriens mest hyllede, kjent for kammerspill om familier og relasjoner.",
+      "sv": "Regissören är svensk och en av filmhistoriens mest hyllade, känd för kammarspel om familjer och relationer."
+    },
+    "funFact": {
+      "nb": "Regissøren er Ingmar Bergman. Han beskrev en visjon av fire kvinner i hvitt inne i et rødt rom som opphavet til filmen – rødt fordi han som barn forestilte seg sjelen som noe rødt innvendig.",
+      "sv": "Regissören är Ingmar Bergman. Han beskrev en vision av fyra kvinnor i vitt inuti ett rött rum som filmens ursprung – rött eftersom han som barn föreställde sig själen som något rött invändigt."
+    },
+    "source": "Wikipedia – Cries and Whispers"
+  },
+  {
+    "id": "rod-v-17",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Organisasjonen ble stiftet 24. mai 1865, inspirert av sveitseren Henry Dunants opplevelser fra slaget ved Solferino seks år tidligere, og er blant verdens eldste nasjonale Røde Kors-foreninger. Norges tilsvarende organisasjon kom bare måneder senere samme år. Hvilken organisasjon er dette?",
+      "sv": "Organisationen grundades den 24 maj 1865, inspirerad av schweizaren Henry Dunants upplevelser från slaget vid Solferino sex år tidigare, och är bland världens äldsta nationella Röda Kors-föreningar. Norges motsvarande organisation kom bara månader senare samma år. Vilken organisation är detta?"
+    },
+    "answer": "Svenska Röda Korset",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnleggeren av den internasjonale bevegelsen skrev en bok om slaget ved Solferino som førte til Genève-konvensjonen fire år senere.",
+      "sv": "Grundaren av den internationella rörelsen skrev en bok om slaget vid Solferino som ledde till Genèvekonventionen fyra år senare."
+    },
+    "funFact": {
+      "nb": "Dunants opplevelser fra slagmarken i Solferino i 1859, der tusenvis av sårede lå uten hjelp, resulterte i boken om slaget og senere Genève-konvensjonen av 1864.",
+      "sv": "Dunants upplevelser från slagfältet i Solferino 1859, där tusentals sårade låg utan hjälp, resulterade i boken om slaget och senare Genèvekonventionen 1864."
+    },
+    "source": "Svenska Röda Korset – vår historia; ICRC – Henry Dunant"
+  },
+  {
+    "id": "rod-v-18",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["kunst", "arkitektur"],
+    "prompt": {
+      "nb": "Bygningen ved havneinnløpet i Göteborg ble oppført i 1940 som kjelehus for å varme opp naboindustrien Klippan, sto lenge forlatt og ble okkupert av festarrangører og graffitikunstnere før den ble konsthall i 2000. Navnet viser til en stein i nærheten. Hva heter stedet?",
+      "sv": "Byggnaden vid hamninloppet i Göteborg uppfördes 1940 som pannhus för att värma upp grannindustrin Klippan, stod länge övergiven och ockuperades av festarrangörer och graffitikonstnärer innan den blev konsthall år 2000. Namnet syftar på en sten i närheten. Vad heter platsen?"
+    },
+    "answer": "Röda Sten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Konsthallen fikk sitt nåværende navn i 2010, og ligger rett under Älvsborgsbroen.",
+      "sv": "Konsthallen fick sitt nuvarande namn 2010, och ligger precis under Älvsborgsbron."
+    },
+    "funFact": {
+      "nb": "En gruppe ildsjeler, inspirert av lignende fabrikkomgjøringer i USA og Storbritannia, reddet bygningen fra riving på 1990-tallet. En fullstendig renovering sto ferdig i 2000.",
+      "sv": "En grupp eldsjälar, inspirerade av liknande fabriksomvandlingar i USA och Storbritannien, räddade byggnaden från rivning på 1990-talet. En fullständig renovering stod klar år 2000."
+    },
+    "source": "Wikipedia – Röda Sten Konsthall"
+  },
+  {
+    "id": "rod-v-19",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["kunst"],
+    "prompt": {
+      "nb": "Kunstneren fikk i 1958 i oppdrag å lage murmalerier i mørkerødt og burgunder til en eksklusiv restaurant i Seagram-bygningen i New York. Han trakk seg fra prosjektet før verkene ble hengt opp, og ni av dem ble i 1969 gitt bort til Tate i London. Hvem var kunstneren?",
+      "sv": "Konstnären fick 1958 i uppdrag att skapa väggmålningar i mörkrött och vinrött till en exklusiv restaurang i Seagram-byggnaden i New York. Han drog sig ur projektet innan verken hängdes upp, och nio av dem donerades 1969 till Tate i London. Vem var konstnären?"
+    },
+    "answer": "Mark Rothko",
+    "answerKind": "person",
+    "person": { "given": "Mark", "family": "Rothko" },
+    "hint": {
+      "nb": "Han var en av de ledende innen abstrakt ekspresjonisme og er kjent for store, fargemettede flater uten gjenkjennelige former.",
+      "sv": "Han var en av de ledande inom abstrakt expressionism och är känd för stora, färgmättade ytor utan igenkännbara former."
+    },
+    "funFact": {
+      "nb": "Restauranten var Four Seasons, og maleriene ble aldri hengt opp der. I dag er verkene spredt mellom blant annet Tate i London og National Gallery of Art i Washington.",
+      "sv": "Restaurangen var Four Seasons, och målningarna hängdes aldrig upp där. I dag är verken utspridda mellan bland annat Tate i London och National Gallery of Art i Washington."
+    },
+    "source": "Tate – Rothko's Seagram Murals"
+  },
+  {
+    "id": "rod-v-20",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "I desember 1868 satte denne britiske ingeniøren opp verdens første trafikklys utenfor Parlamentsbygningen i London: semaforarmer om dagen, rødt og grønt gasslys om natten. Bare uker senere eksploderte gassen og skadet en politimann. Hvem konstruerte det?",
+      "sv": "I december 1868 satte denne brittiska ingenjören upp världens första trafikljus utanför parlamentsbyggnaden i London: semaforarmar om dagen, rött och grönt gasljus om natten. Bara veckor senare exploderade gasen och skadade en polis. Vem konstruerade det?"
+    },
+    "answer": "John Peake Knight",
+    "answerKind": "person",
+    "person": { "given": "John", "family": "Peake Knight" },
+    "hint": {
+      "nb": "Han hadde tidligere jobbet med signalsystemer for jernbanen, og hentet ideen om rødt for stopp derfra.",
+      "sv": "Han hade tidigare arbetat med signalsystem för järnvägen, och hämtade idén om rött för stopp därifrån."
+    },
+    "funFact": {
+      "nb": "Anlegget ble tatt ned etter eksplosjonen 2. januar 1869, og det tok flere tiår før nye trafikklys dukket opp – da i USA på begynnelsen av 1900-tallet.",
+      "sv": "Anläggningen togs ner efter explosionen den 2 januari 1869, och det tog flera decennier innan nya trafikljus dök upp – då i USA i början av 1900-talet."
+    },
+    "source": "Wikipedia – Traffic light"
+  }
+]

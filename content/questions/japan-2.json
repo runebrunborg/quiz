@@ -1,0 +1,677 @@
+[
+  {
+    "id": "japan-l-11",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["sport", "kongehus"],
+    "prompt": {
+      "nb": "Under sommer-OL i Tokyo i 1964 bar denne norske kronprinsen sitt lands flagg i åpningsseremonien og stilte selv til start i seiling. Han var tilbake i seilkonkurransen også under OL i Mexico by i 1968 og München i 1972, lenge før han besteg tronen i 1991. Hvem var han?",
+      "sv": "Under sommar-OS i Tokyo 1964 bar denna norska kronprinsen sitt lands flagga vid invigningsceremonin och tävlade själv i segling. Han var tillbaka i seglingstävlingen även under OS i Mexico City 1968 och München 1972, långt innan han besteg tronen 1991. Vem var han?"
+    },
+    "answer": "Kronprins Harald",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Faren hans, kong Olav V, hadde selv vunnet OL-gull i seiling i 1928, og sønnen hans er dagens kronprins Haakon.",
+      "sv": "Hans far, kung Olav V, hade själv vunnit OS-guld i segling 1928, och hans son är dagens kronprins Haakon."
+    },
+    "funFact": {
+      "nb": "Olav V vant sitt OL-gull i seiling under lekene i Amsterdam i 1928. Sønnen fulgte i farens spor og stilte til start for Norge i seiling under tre olympiske leker på rad, fra Tokyo til München.",
+      "sv": "Olav V vann sitt OS-guld i segling under spelen i Amsterdam 1928. Sonen följde i faderns fotspår och tävlade för Norge i segling under tre olympiska spel i rad, från Tokyo till München."
+    },
+    "source": "Det norske kongehuset – offisiell biografi; Den internasjonale olympiske komité"
+  },
+  {
+    "id": "japan-l-12",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["musikk"],
+    "prompt": {
+      "nb": "Dette norske bandet fra Oslo slo internasjonalt gjennom med «Take On Me» i 1985, en låt med en berømt tegnefilmaktig musikkvideo. Fra debutturneen i 1986 og fram til i dag har de gjentatte ganger spilt konserter i Japan, et av landene med det mest trofaste fanmiljøet deres. Hvilket band er dette?",
+      "sv": "Detta norska bandet från Oslo slog internationellt igenom med «Take On Me» 1985, en låt med en berömd tecknad musikvideo. Från debutturnén 1986 och fram till i dag har de upprepade gånger spelat konserter i Japan, ett av länderna med deras mest trogna fans. Vilket band är detta?"
+    },
+    "answer": "a-ha",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bandet består av Morten Harket, Magne Furuholmen og Paul Waaktaar-Savoy, og navnet er hentet fra tittelen på en sang i Waaktaars egen sangbok.",
+      "sv": "Bandet består av Morten Harket, Magne Furuholmen och Paul Waaktaar-Savoy, och namnet är hämtat från titeln på en låt i Waaktaars egen sångbok."
+    },
+    "funFact": {
+      "nb": "Musikkvideoen til «Take On Me», der Morten Harket beveger seg mellom tegnet og virkelig verden, vant hele seks priser under MTV Video Music Awards i 1986, blant annet for årets video.",
+      "sv": "Musikvideon till «Take On Me», där Morten Harket rör sig mellan tecknad och verklig värld, vann hela sex priser vid MTV Video Music Awards 1986, bland annat för årets video."
+    },
+    "source": "a-ha – offisiell bandhistorikk; MTV Video Music Awards 1986"
+  },
+  {
+    "id": "japan-l-13",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["kongehus", "politikk"],
+    "prompt": {
+      "nb": "I mai 2005 kom et keiserlig par til Norge på statsbesøk, invitert for å styrke vennskapsforholdet mellom landene. Fjorten år senere abdiserte han til fordel for sønnen sin, i det som ble Japans første keiserskifte på over to hundre år. Hvilken keiser besøkte Norge i 2005?",
+      "sv": "I maj 2005 kom ett kejserligt par till Norge på statsbesök, inbjudna för att stärka vänskapsförhållandet mellan länderna. Fjorton år senare abdikerade han till förmån för sin son, i vad som blev Japans första kejsarskifte på över tvåhundra år. Vilken kejsare besökte Norge 2005?"
+    },
+    "answer": "Akihito",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han abdiserte 30. april 2019, og sønnen Naruhito overtok tronen dagen etter.",
+      "sv": "Han abdikerade den 30 april 2019, och sonen Naruhito tog över tronen dagen därpå."
+    },
+    "funFact": {
+      "nb": "Besøket i Norge fant sted 7.–14. mai 2005. Fem år tidligere, i 2000, hadde han og keiserinne Michiko også avlagt et tilsvarende statsbesøk i Sverige.",
+      "sv": "Besöket i Norge ägde rum den 7–14 maj 2005. Fem år tidigare, år 2000, hade han och kejsarinnan Michiko avlagt ett liknande statsbesök i Sverige."
+    },
+    "source": "Det keiserlige hoffbyrået (Kunaichō) – reiseoversikt; Det norske kongehuset"
+  },
+  {
+    "id": "japan-l-14",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["politikk"],
+    "prompt": {
+      "nb": "Denne japanske statsministeren innførte i 1967 prinsippet om at Japan verken skulle produsere, eie eller tillate atomvåpen på sitt territorium, og undertegnet ikkespredningsavtalen i 1970. I 1974 ble han den første japaneren som mottok Nobels fredspris, utdelt av den norske Nobelkomiteen i Oslo. Hvem var han?",
+      "sv": "Denna japanska premiärminister införde 1967 principen om att Japan varken skulle tillverka, äga eller tillåta kärnvapen på sitt territorium, och undertecknade icke-spridningsavtalet 1970. År 1974 blev han den förste japan som fick Nobels fredspris, utdelat av den norska Nobelkommittén i Oslo. Vem var han?"
+    },
+    "answer": "Eisaku Sato",
+    "answerKind": "person",
+    "person": { "given": "Eisaku", "family": "Sato" },
+    "hint": {
+      "nb": "Etternavnet hans er svært vanlig i Japan og begynner på S; han var statsminister fra 1964 til 1972.",
+      "sv": "Efternamnet är mycket vanligt i Japan och börjar på S; han var premiärminister från 1964 till 1972."
+    },
+    "funFact": {
+      "nb": "Fredsprisen han fikk var omstridt: senere frigitte dokumenter avslørte at han samtidig hadde inngått hemmelige avtaler som tillot amerikanske atomvåpen på Okinawa.",
+      "sv": "Fredspriset han fick var omtvistat: senare frigivna dokument avslöjade att han samtidigt hade ingått hemliga avtal som tillät amerikanska kärnvapen på Okinawa."
+    },
+    "source": "Nobelprize.org – The Nobel Peace Prize 1974; Norsk Nobelinstitutt"
+  },
+  {
+    "id": "japan-l-15",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["okonomi", "design"],
+    "prompt": {
+      "nb": "Denne svenske møbelkjeden åpnet sitt første varehus i Japan i 1974, men trakk seg ut av markedet i 1986 fordi flatpakker passet dårlig med japanske leiligheter og handlevaner. I 2006 kom kjeden tilbake med visningsrom tilpasset japanske hjem. Hvilket selskap er dette?",
+      "sv": "Denna svenska möbelkedja öppnade sitt första varuhus i Japan 1974, men drog sig ur marknaden 1986 eftersom platta paket passade dåligt med japanska lägenheter och köpvanor. År 2006 kom kedjan tillbaka med visningsrum anpassade för japanska hem. Vilket företag är detta?"
+    },
+    "answer": "IKEA",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er en forkortelse som blant annet viser til grunnleggerens initialer og gården han vokste opp på.",
+      "sv": "Namnet är en förkortning som bland annat syftar på grundarens initialer och gården han växte upp på."
+    },
+    "funFact": {
+      "nb": "Ved gjenåpningen i 2006 bygde selskapet visningsrom for en typisk japansk tenåringsgutt som liker baseball og dataspill, for å vise hvordan møblene kunne fungere i trange japanske hjem.",
+      "sv": "Vid återöppningen 2006 byggde företaget visningsrum för en typisk japansk tonårspojke som gillar basboll och tv-spel, för att visa hur möblerna kunde fungera i trånga japanska hem."
+    },
+    "source": "IKEA – selskapets historikk; forretningshistoriske analyser av IKEAs Japan-satsing"
+  },
+  {
+    "id": "japan-l-16",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["teknologi", "okonomi"],
+    "prompt": {
+      "nb": "I 2001 slo et japansk elektronikkonsern seg sammen med en svensk telekomgigant om et felles mobilselskap, i et forsøk på å ta opp kampen med Nokia. Samarbeidet varte til 2012, da japanerne kjøpte ut svenskene og gjorde selskapet om til en ren egen merkevare. Hva het fellesselskapet?",
+      "sv": "År 2001 gick en japansk elektronikkoncern samman med en svensk telekomjätte om ett gemensamt mobilbolag, i ett försök att ta upp kampen med Nokia. Samarbetet varade till 2012, då japanerna köpte ut svenskarna och gjorde bolaget till ett eget renodlat varumärke. Vad hette det gemensamma bolaget?"
+    },
+    "answer": "Sony Ericsson",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er rett og slett en sammenslåing av begge morselskapenes navn.",
+      "sv": "Namnet är helt enkelt en sammanslagning av båda moderbolagens namn."
+    },
+    "funFact": {
+      "nb": "Sony kjøpte ut Ericssons eierandel for 1,05 milliarder euro i 2012, og selskapet ble omdøpt til Sony Mobile Communications.",
+      "sv": "Sony köpte ut Ericssons ägarandel för 1,05 miljarder euro 2012, och bolaget döptes om till Sony Mobile Communications."
+    },
+    "source": "Sony Group Corporation – pressemelding 2012; Ericsson – selskapshistorikk"
+  },
+  {
+    "id": "japan-l-17",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Under sommerlekene i Tokyo, utsatt til 2021, kom denne svenske svømmeren tilbake etter et komplisert armbrudd hun hadde pådratt seg på isen bare litt over ett år tidligere. Hun tok likevel sølv på 50 meter fri, en prestasjon som ga henne en egen pris for utholdenhet. Hvem er hun?",
+      "sv": "Under sommarspelen i Tokyo, uppskjutna till 2021, gjorde denna svenska simmerskan comeback efter ett komplicerat armbrott hon ådragit sig på isen bara drygt ett år tidigare. Hon tog ändå silver på 50 meter fritt, en prestation som gav henne ett eget pris för uthållighet. Vem är hon?"
+    },
+    "answer": "Sarah Sjöström",
+    "answerKind": "person",
+    "person": { "given": "Sarah", "family": "Sjöström" },
+    "hint": {
+      "nb": "Hun satte tidligere verdensrekord på 100 meter fri og er en av Sveriges mestvinnende olympiere.",
+      "sv": "Hon satte tidigare världsrekord på 100 meter fritt och är en av Sveriges mest framgångsrika olympier."
+    },
+    "funFact": {
+      "nb": "Skaden kom da hun falt på isen i februar 2020, og hun var ikke tilbake i konkurranse før i juni 2021, rett før lekene. Prisen hun fikk het «Olympic Resilience Award».",
+      "sv": "Skadan uppstod när hon föll på isen i februari 2020, och hon var inte tillbaka i tävling förrän i juni 2021, strax före spelen. Priset hon fick hette «Olympic Resilience Award»."
+    },
+    "source": "Den internasjonale olympiske komité – Tokyo 2020; Swimming World Magazine"
+  },
+  {
+    "id": "japan-l-18",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Tradisjonen med å samles under blomstrende trær går tilbake til Nara-perioden, da man i starten feiret plommeblomster etter kinesisk skikk. Fra Heian-perioden overtok et annet tre hovedrollen, og keiser Saga skal ha holdt de første hageselskapene med sake under grenene i Kyoto. Hva heter denne japanske skikken?",
+      "sv": "Traditionen att samlas under blommande träd går tillbaka till Nara-perioden, då man till en början firade plommonblom enligt kinesisk sed. Från Heian-perioden tog ett annat träd över huvudrollen, och kejsar Saga sägs ha hållit de första trädgårdsfesterna med sake under grenarna i Kyoto. Vad heter denna japanska sedvänja?"
+    },
+    "answer": "Hanami",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Treet det handler om i dag er kirsebærtreet, og blomstringen varer sjelden mer enn en uke eller to.",
+      "sv": "Trädet det handlar om i dag är körsbärsträdet, och blomningen varar sällan mer än en vecka eller två."
+    },
+    "funFact": {
+      "nb": "Et av Japans eldste kirsebærtrær, Jindai-zakura, skal være rundt 2000 år gammelt. Japans meteorologiske institutt spår hvert år når blomstringen starter på de ulike stedene i landet.",
+      "sv": "Ett av Japans äldsta körsbärsträd, Jindai-zakura, ska vara omkring 2000 år gammalt. Japans meteorologiska institut förutspår varje år när blomningen startar på olika platser i landet."
+    },
+    "source": "Japan Meteorological Agency; Encyclopaedia Britannica – hanami"
+  },
+  {
+    "id": "japan-l-19",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Landet har rundt 25 000 varme kilder og omtrent 3 000 badeanlegg som bruker dette geotermisk oppvarmede vannet. Etter japansk lov må vannet holde minst 25 grader og komme fra minst halvannen kilometers dyp for å få denne betegnelsen. Hva kalles denne typen bad?",
+      "sv": "Landet har omkring 25 000 varma källor och ungefär 3 000 badanläggningar som använder detta geotermiskt uppvärmda vattnet. Enligt japansk lag måste vattnet hålla minst 25 grader och komma från minst en och en halv kilometers djup för att få denna beteckning. Vad kallas denna typ av bad?"
+    },
+    "answer": "Onsen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tradisjonen med å bade i disse kildene er dokumentert over 1300 år tilbake i tid.",
+      "sv": "Traditionen att bada i dessa källor är dokumenterad över 1300 år tillbaka i tiden."
+    },
+    "funFact": {
+      "nb": "Blant de eldste badestedene regnes Dōgo Onsen, Shirahama Onsen og Arima Onsen. Skikken med å bo lenge ved kildene for å kurere plager kalles tōji.",
+      "sv": "Bland de äldsta badorterna räknas Dōgo Onsen, Shirahama Onsen och Arima Onsen. Seden att bo länge vid källorna för att bota åkommor kallas tōji."
+    },
+    "source": "Japan National Tourism Organization; Encyclopaedia Britannica – onsen"
+  },
+  {
+    "id": "japan-l-20",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Den minste av Japans fire hovedøyer er likevel hjem til en pilegrimsrute på 88 templer, viet munken Kūkai, og ruten er totalt rundt 1200 kilometer lang til fots. Øya ligger sør for Honshu, atskilt av det indre Seto-havet. Hvilken øy er dette?",
+      "sv": "Den minsta av Japans fyra huvudöar hyser ändå en pilgrimsled med 88 tempel, tillägnad munken Kūkai, och leden är totalt omkring 1200 kilometer lång till fots. Ön ligger söder om Honshu, avskild av Inlandshavet Seto. Vilken ö är detta?"
+    },
+    "answer": "Shikoku",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øyas navn betyr «de fire provinsene», og pilegrimsruten er også kjent som «de 88 hellige stedene».",
+      "sv": "Öns namn betyder «de fyra provinserna», och pilgrimsleden är också känd som «de 88 heliga platserna»."
+    },
+    "funFact": {
+      "nb": "Munken er bedre kjent under sitt postume navn Kōbō Daishi. Pilegrimsvandringen tar tradisjonelt mellom 30 og 60 dager til fots, men mange i dag reiser med buss eller bil.",
+      "sv": "Munken är mer känd under sitt postuma namn Kōbō Daishi. Pilgrimsvandringen tar traditionellt mellan 30 och 60 dagar till fots, men många i dag reser med buss eller bil."
+    },
+    "source": "Encyclopaedia Britannica – Shikoku; Shikoku Tourism"
+  },
+  {
+    "id": "japan-m-11",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Under vinterlekene i Nagano i 1998 satte denne norske skøyteløperen ny verdensrekord da han vant gull på 1500 meter, med tiden 1.47,87. Løperen var født i 1971 og hadde ventet lenge på sitt store gjennombrudd på den individuelle toppdistansen. Hvem er han?",
+      "sv": "Under vinterspelen i Nagano 1998 satte denna norska skridskoåkaren nytt världsrekord när han vann guld på 1500 meter, med tiden 1.47,87. Åkaren var född 1971 och hade väntat länge på sitt stora genombrott på den individuella toppdistansen. Vem är han?"
+    },
+    "answer": "Ådne Søndrål",
+    "answerKind": "person",
+    "person": { "given": "Ådne", "family": "Søndrål" },
+    "hint": {
+      "nb": "Etternavnet begynner på S, og gullet i Nagano var den midterste av tre OL-medaljer på nøyaktig samme distanse.",
+      "sv": "Efternamnet börjar på S, och guldet i Nagano var den mellersta av tre OS-medaljer på exakt samma distans."
+    },
+    "funFact": {
+      "nb": "På 1500 meter tok han sølv i Albertville i 1992 og bronse i Salt Lake City i 2002 – dermed har han alle tre medaljefargene på akkurat denne distansen.",
+      "sv": "På 1500 meter tog han silver i Albertville 1992 och brons i Salt Lake City 2002 – han har därmed alla tre medaljfärgerna på just den distansen."
+    },
+    "source": "Den internasjonale olympiske komité; International Skating Union"
+  },
+  {
+    "id": "japan-m-12",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["okonomi", "mat-og-drikke"],
+    "prompt": {
+      "nb": "I 2014 betalte et japansk handelshus 1,4 milliarder dollar for å kjøpe opp et norsk oppdrettsselskap med hovedkontor i Oslo og lakseanlegg i flere verdensdeler. Dermed ble et av Norges kjente sjømatmerker en heleid del av et av Japans største konsern. Hvilket norsk selskap ble kjøpt?",
+      "sv": "År 2014 betalade ett japanskt handelshus 1,4 miljarder dollar för att köpa upp ett norskt vattenbruksbolag med huvudkontor i Oslo och laxanläggningar på flera kontinenter. Därmed blev ett av Norges kända sjömatsmärken en helägd del av en av Japans största koncerner. Vilket norskt bolag köptes?"
+    },
+    "answer": "Cermaq",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet driver oppdrett av laks og ørret i blant annet Norge, Canada, Chile og Skottland.",
+      "sv": "Bolaget bedriver odling av lax och öring i bland annat Norge, Kanada, Chile och Skottland."
+    },
+    "funFact": {
+      "nb": "Kjøperen var Mitsubishi Corporation, et av Japans store sōgō shōsha – generelle handelshus som driver med alt fra råvarer til matproduksjon. I 2017 omsatte selskapet for over en milliard dollar.",
+      "sv": "Köparen var Mitsubishi Corporation, ett av Japans stora sōgō shōsha – generella handelshus som sysslar med allt från råvaror till matproduktion. År 2017 omsatte bolaget för över en miljard dollar."
+    },
+    "source": "Mitsubishi Corporation – pressemelding 2014; Cermaq – selskapshistorikk"
+  },
+  {
+    "id": "japan-m-13",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "I februar 1957 åpnet et skandinavisk luftfartsselskap verdens første kommersielle flyrute over Nordpolen, fra København til Tokyo med mellomlanding i Anchorage i Alaska. Ruten måtte legges denne veien fordi Sovjetunionen nektet overflyging av Sibir. Hvilket flyselskap sto bak?",
+      "sv": "I februari 1957 öppnade ett skandinaviskt flygbolag världens första kommersiella flyglinje över Nordpolen, från Köpenhamn till Tokyo med mellanlandning i Anchorage i Alaska. Rutten måste läggas denna väg eftersom Sovjetunionen nekade överflygning av Sibirien. Vilket flygbolag stod bakom?"
+    },
+    "answer": "SAS",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet ble stiftet i 1946 som et likeverdig samarbeid mellom Norge, Sverige og Danmark, og flyene på ruten var av typen Douglas DC-7C.",
+      "sv": "Bolaget grundades 1946 som ett jämlikt samarbete mellan Norge, Sverige och Danmark, och planen på linjen var av typen Douglas DC-7C."
+    },
+    "funFact": {
+      "nb": "Tre år tidligere, i 1954, hadde det samme selskapet allerede åpnet verdens aller første polarrute, mellom København og Los Angeles via Grønland og Canada.",
+      "sv": "Tre år tidigare, 1954, hade samma bolag redan öppnat världens allra första polarrutt, mellan Köpenhamn och Los Angeles via Grönland och Kanada."
+    },
+    "source": "Scandinavian Airlines – selskapshistorikk"
+  },
+  {
+    "id": "japan-m-14",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["litteratur"],
+    "prompt": {
+      "nb": "Denne institusjonen i Stockholm ble stiftet i 1786 av kong Gustav III for å verne om det svenske språket, og har atten medlemmer utnevnt på livstid. Siden 1901 har den også hatt i oppgave å kåre vinneren av Nobels litteraturpris, første gang gitt til en japansk forfatter i 1968. Hva heter institusjonen?",
+      "sv": "Denna institution i Stockholm grundades 1786 av kung Gustav III för att värna det svenska språket, och har arton ledamöter utsedda på livstid. Sedan 1901 har den även haft i uppgift att utse vinnaren av Nobelpriset i litteratur, som första gången gick till en japansk författare 1968. Vad heter institutionen?"
+    },
+    "answer": "Svenska Akademien",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Akademiets valgspråk er «Snille och smak», og den japanske forfatteren som vant i 1968 het Yasunari Kawabata.",
+      "sv": "Akademiens valspråk är «Snille och smak», och den japanske författaren som vann 1968 hette Yasunari Kawabata."
+    },
+    "funFact": {
+      "nb": "Prisvinneren kåres ved hemmelig avstemning blant de atten medlemmene. Akademiet arbeider også med den svenske ordboken og deler ut en rekke andre litterære priser hvert år.",
+      "sv": "Pristagaren utses genom sluten omröstning bland de arton ledamöterna. Akademien arbetar också med den svenska ordboken och delar varje år ut en rad andra litterära priser."
+    },
+    "source": "Svenska Akademien – offisiell historikk; Nobelprize.org"
+  },
+  {
+    "id": "japan-m-15",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "I 1935 forutsa denne unge fysikeren ved et japansk universitet eksistensen av en ny type partikkel som skulle forklare kreftene inne i atomkjernen. Da partikkelen faktisk ble påvist i 1947, fikk han to år senere som første japaner Nobelprisen i fysikk. Hvem var han?",
+      "sv": "År 1935 förutspådde denna unge fysiker vid ett japanskt universitet existensen av en ny typ av partikel som skulle förklara krafterna inne i atomkärnan. När partikeln väl påvisades 1947, fick han två år senare, som förste japan, Nobelpriset i fysik. Vem var han?"
+    },
+    "answer": "Hideki Yukawa",
+    "answerKind": "person",
+    "person": { "given": "Hideki", "family": "Yukawa" },
+    "hint": {
+      "nb": "Partikkelen kalles meson, og han arbeidet ved Osaka keiserlige universitet da han la fram teorien.",
+      "sv": "Partikeln kallas meson, och han arbetade vid Osaka kejserliga universitet när han lade fram teorin."
+    },
+    "funFact": {
+      "nb": "Nobelprisen i fysikk avgjøres av Det kongelige svenske vitenskapsakademiet, samme akademi som senere har hedret flere andre japanske fysikere og kjemikere.",
+      "sv": "Nobelpriset i fysik avgörs av Kungliga Vetenskapsakademien, samma akademi som senare har hedrat flera andra japanska fysiker och kemister."
+    },
+    "source": "Nobelprize.org – The Nobel Prize in Physics 1949"
+  },
+  {
+    "id": "japan-m-16",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["medisin", "vitenskap"],
+    "prompt": {
+      "nb": "I 1976 viste denne japanske forskeren, da ansatt ved et sveitsisk institutt, hvordan kroppen kan lage hundrevis av millioner ulike antistoffer selv om den har langt færre gener enn det skulle tilsi. Oppdagelsen ga ham i 1987 Nobelprisen i fysiologi eller medisin, utdelt av Karolinska Institutet i Stockholm. Hvem er forskeren?",
+      "sv": "År 1976 visade denna japanska forskare, då anställd vid ett schweiziskt institut, hur kroppen kan tillverka hundratals miljoner olika antikroppar trots att den har långt färre gener än vad det borde kräva. Upptäckten gav honom 1987 Nobelpriset i fysiologi eller medicin, utdelat av Karolinska Institutet i Stockholm. Vem är forskaren?"
+    },
+    "answer": "Susumu Tonegawa",
+    "answerKind": "person",
+    "person": { "given": "Susumu", "family": "Tonegawa" },
+    "hint": {
+      "nb": "Mekanismen kalles V(D)J-rekombinasjon, og han var senere professor ved MIT i USA.",
+      "sv": "Mekanismen kallas V(D)J-rekombination, och han var senare professor vid MIT i USA."
+    },
+    "funFact": {
+      "nb": "Antistoffmangfoldet oppstår ved at gener flyttes rundt og settes sammen på nye måter mens hvite blodceller modnes – en prosess ingen hadde trodd var mulig i kroppens celler.",
+      "sv": "Antikroppsmångfalden uppstår genom att gener flyttas runt och sätts samman på nya sätt medan vita blodkroppar mognar – en process ingen hade trott var möjlig i kroppens celler."
+    },
+    "source": "Nobelprize.org – The Nobel Prize in Physiology or Medicine 1987"
+  },
+  {
+    "id": "japan-m-17",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["politikk", "historie"],
+    "prompt": {
+      "nb": "I desember 1956 ble Japan endelig tatt opp som medlem av FN, etter at søknaden tidligere hadde blitt stanset av sovjetisk veto i en diplomatisk strid om hvilke land som skulle slippe inn samtidig. Generalsekretæren som ledet organisasjonen da, var en svensk diplomat. Hvem var han?",
+      "sv": "I december 1956 blev Japan äntligen upptaget som medlem i FN, efter att ansökan tidigare hade stoppats av en sovjetisk veto i en diplomatisk strid om vilka länder som skulle släppas in samtidigt. Generalsekreteraren som ledde organisationen då var en svensk diplomat. Vem var han?"
+    },
+    "answer": "Dag Hammarskjöld",
+    "answerKind": "person",
+    "person": { "given": "Dag", "family": "Hammarskjöld" },
+    "hint": {
+      "nb": "Han var FNs andre generalsekretær og satt i embetet fra 1953 til 1961.",
+      "sv": "Han var FN:s andre generalsekreterare och satt på posten från 1953 till 1961."
+    },
+    "funFact": {
+      "nb": "Under hans tid som generalsekretær vokste FN fra rundt seksti til godt over hundre medlemsland, ettersom avkoloniseringen tok fart i Afrika og Asia.",
+      "sv": "Under hans tid som generalsekreterare växte FN från omkring sextio till gott och väl över hundra medlemsländer, i takt med att avkoloniseringen tog fart i Afrika och Asien."
+    },
+    "source": "FN – historisk medlemsoversikt; Nobelprize.org – Dag Hammarskjöld"
+  },
+  {
+    "id": "japan-m-18",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Denne kampsporten skal ifølge et dokument fra 712 ha oppstått som en mytologisk brytekamp mellom to guder, og ble senere en jordbruksritual for å be om god høst. Den 4,55 meter brede sirkelen brytekjempene kjemper i, ble angivelig først tatt i bruk under en turnering med 1500 deltakere i 1578. Hva heter sporten?",
+      "sv": "Denna kampsport ska enligt ett dokument från 712 ha uppstått som en mytologisk brottningsmatch mellan två gudar, och blev senare en jordbruksritual för att be om god skörd. Den 4,55 meter breda cirkeln brottarna kämpar i, togs enligt uppgift först i bruk under en turnering med 1500 deltagare år 1578. Vad heter sporten?"
+    },
+    "answer": "Sumo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Utøverne skal tvinge motstanderen ut av ringen eller få ham til å berøre bakken med noe annet enn fotsålene.",
+      "sv": "Utövarna ska tvinga motståndaren ut ur ringen eller få honom att röra marken med något annat än fotsulorna."
+    },
+    "funFact": {
+      "nb": "Ringen, dohyō, ble ifølge tradisjonen tatt i bruk under en turnering arrangert av herskeren Oda Nobunaga. I dag finnes det 82 offisielt godkjente vinnerteknikker, kalt kimarite.",
+      "sv": "Ringen, dohyō, togs enligt traditionen i bruk under en turnering arrangerad av härskaren Oda Nobunaga. I dag finns 82 officiellt godkända vinnartekniker, kallade kimarite."
+    },
+    "source": "Japan Sumo Association; Encyclopaedia Britannica – sumo"
+  },
+  {
+    "id": "japan-m-19",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["popkultur"],
+    "prompt": {
+      "nb": "Denne tegneserieskaperen, ofte kalt «tegneseriens gud» i hjemlandet, skapte i 1952 en robotgutt-figur som ble en umiddelbar snakkis i Japan. I 1963 fikk figuren sin egen TV-serie, den første virkelig vellykkede animasjonsserien laget for japansk fjernsyn. Hvem er skaperen?",
+      "sv": "Denna serieskapare, ofta kallad «tecknad serie-guden» i hemlandet, skapade 1952 en robotpojke-figur som blev omedelbart omtalad i Japan. År 1963 fick figuren sin egen tv-serie, den första riktigt framgångsrika animeserien gjord för japansk tv. Vem är skaparen?"
+    },
+    "answer": "Osamu Tezuka",
+    "answerKind": "person",
+    "person": { "given": "Osamu", "family": "Tezuka" },
+    "hint": {
+      "nb": "Robotgutten heter Tetsuwan Atomu, kjent internasjonalt som Astro Boy, og skaperen sammenlignes ofte med Walt Disney.",
+      "sv": "Robotpojken heter Tetsuwan Atomu, internationellt känd som Astro Boy, och skaparen jämförs ofta med Walt Disney."
+    },
+    "funFact": {
+      "nb": "I 1961 grunnla han studioet Mushi Production som rival til Toei, men selskapet gikk konkurs i 1973. Han rakk likevel å tegne over 700 samlebind i løpet av karrieren.",
+      "sv": "År 1961 grundade han studion Mushi Production som en rival till Toei, men bolaget gick i konkurs 1973. Han hann ändå teckna över 700 samlingsvolymer under sin karriär."
+    },
+    "source": "Tezuka Osamu Official; Encyclopaedia Britannica – Osamu Tezuka"
+  },
+  {
+    "id": "japan-m-20",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["religion", "arkitektur"],
+    "prompt": {
+      "nb": "Denne shintohelligdommen sør i Kyoto ble grunnlagt i år 711 av Hata-klanen og er viet en gud for ris og velstand. Langs stiene opp fjellet står i dag rundt ti tusen oransjerøde porter, gitt som gaver av japanske bedrifter siden Edo-perioden. Hva heter helligdommen?",
+      "sv": "Denna shintohelgedom söder om Kyoto grundades år 711 av Hataklanen och är tillägnad en gud för ris och välstånd. Längs stigarna uppför berget står i dag omkring tio tusen orangeröda portar, skänkta av japanska företag sedan Edoperioden. Vad heter helgedomen?"
+    },
+    "answer": "Fushimi Inari-taisha",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Portene kalles torii, og helligdommen er kjent for statuer av reven, kami-sendebudet til guden Inari.",
+      "sv": "Portarna kallas torii, och helgedomen är känd för statyer av räven, kami-budbäraren åt guden Inari."
+    },
+    "funFact": {
+      "nb": "Ifølge legenden skjøt en rik godseier en pil mot en riskake som ble til en hvit fugl og fløy opp på fjellet, der ris siden vokste fram. De rundt 800 tetteste portene langs hovedstien kalles Senbon Torii.",
+      "sv": "Enligt legenden sköt en rik godsägare en pil mot en riskaka som förvandlades till en vit fågel och flög upp på berget, där ris sedan växte fram. De omkring 800 tätaste portarna längs huvudstigen kallas Senbon Torii."
+    },
+    "source": "Fushimi Inari Taisha – offisiell historikk; Encyclopaedia Britannica"
+  },
+  {
+    "id": "japan-v-11",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["historie", "teknologi"],
+    "prompt": {
+      "nb": "Mellom 1982 og 1984 solgte en japansk verktøymaskinprodusent avanserte fresemaskiner til Sovjetunionen, utstyrt med styringsteknologi fra et norsk forsvarskonsern. Utstyret gjorde sovjetiske ubåtpropeller merkbart stillere, og saken førte til amerikanske importforbud og avgang for japanske toppsjefer. Hvilket norsk konsern var involvert?",
+      "sv": "Mellan 1982 och 1984 sålde en japansk verktygsmaskintillverkare avancerade fräsmaskiner till Sovjetunionen, utrustade med styrteknik från en norsk försvarskoncern. Utrustningen gjorde sovjetiska ubåtspropellrar märkbart tystare, och skandalen ledde till amerikanska importförbud och avgångar för japanska toppchefer. Vilken norsk koncern var inblandad?"
+    },
+    "answer": "Kongsberg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet holder til i byen med samme navn i Buskerud, og lager i dag blant annet våpensystemer og maritim elektronikk.",
+      "sv": "Bolaget håller till i staden med samma namn i Buskerud, och tillverkar i dag bland annat vapensystem och marin elektronik."
+    },
+    "funFact": {
+      "nb": "Den japanske produsenten var Toshiba Machine, og salget gikk via mellommenn for å omgå eksportkontrollen COCOM. To Toshiba-ledere fikk betingede fengselsstraffer, mens konsernsjefen og styrelederen gikk av.",
+      "sv": "Den japanska tillverkaren var Toshiba Machine, och försäljningen gick via mellanhänder för att kringgå exportkontrollen COCOM. Två Toshiba-chefer fick villkorliga fängelsestraff, medan koncernchefen och styrelseordföranden avgick."
+    },
+    "source": "U.S. Congress-høringer 1987; Kongsberg Gruppen – selskapshistorikk"
+  },
+  {
+    "id": "japan-v-12",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["litteratur", "sprak"],
+    "prompt": {
+      "nb": "Denne norske oversetteren har jobbet med japansk skjønnlitteratur siden 1998 og har alene gitt norske lesere fjorten romaner av en av Japans mest kjente forfattere. I 2012 mottok hun Bastianprisen for oversettelsen av romanen «1Q84». Hvem er hun?",
+      "sv": "Denna norska översättare har arbetat med japansk skönlitteratur sedan 1998 och har på egen hand gett norska läsare fjorton romaner av en av Japans mest kända författare. År 2012 fick hon Bastianpriset för översättningen av romanen «1Q84». Vem är hon?"
+    },
+    "answer": "Ika Kaminka",
+    "answerKind": "person",
+    "person": { "given": "Ika", "family": "Kaminka" },
+    "hint": {
+      "nb": "Forfatteren hun er mest kjent for å oversette, er Haruki Murakami, og hun har en mastergrad i kunsthistorie fra Universitetet i Bergen.",
+      "sv": "Författaren hon är mest känd för att översätta är Haruki Murakami, och hon har en magisterexamen i konsthistoria från universitetet i Bergen."
+    },
+    "funFact": {
+      "nb": "Hun ledet Norsk Oversetterforening i to omganger, i 2008–2010 og 2014–2020, og har foruten Murakami også oversatt forfattere som Natsuo Kirino og Jun'ichirō Tanizaki.",
+      "sv": "Hon ledde Norsk Oversetterforening i två omgångar, 2008–2010 och 2014–2020, och har förutom Murakami även översatt författare som Natsuo Kirino och Jun'ichirō Tanizaki."
+    },
+    "source": "Store norske leksikon – Ika Kaminka; Bastianprisen 2012"
+  },
+  {
+    "id": "japan-v-13",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["historie", "geografi"],
+    "prompt": {
+      "nb": "Da denne norske eventyreren i 1970 krysset Atlanterhavet i en papyrusbåt for å teste om oldtidens folk kunne ha seilt mellom kontinenter, satte han sammen et mannskap fra hele verden – blant dem en japansk deltaker ved navn Kei Ohara. Hvem var ekspedisjonslederen?",
+      "sv": "När denne norske äventyraren år 1970 korsade Atlanten i en papyrusbåt för att testa om forntidens folk kunde ha seglat mellan kontinenter, satte han samman en besättning från hela världen – bland dem en japansk deltagare vid namn Kei Ohara. Vem var expeditionsledaren?"
+    },
+    "answer": "Thor Heyerdahl",
+    "answerKind": "person",
+    "person": { "given": "Thor", "family": "Heyerdahl" },
+    "hint": {
+      "nb": "Han er mest kjent for en tidligere ekspedisjon med en balsaflåte over Stillehavet, oppkalt etter en inkagud.",
+      "sv": "Han är mest känd för en tidigare expedition med en balsaflotte över Stilla havet, uppkallad efter en inkagud."
+    },
+    "funFact": {
+      "nb": "Ekspedisjonen het Ra II. Sju år senere, på Tigris-ekspedisjonen gjennom Persiabukta og Det indiske hav, hadde han igjen en japansk deltaker om bord, Toru Suzuki.",
+      "sv": "Expeditionen hette Ra II. Sju år senare, på Tigrisexpeditionen genom Persiska viken och Indiska oceanen, hade han återigen en japansk deltagare ombord, Toru Suzuki."
+    },
+    "source": "Kon-Tiki Museet, Oslo – Ra II og Tigris-ekspedisjonene"
+  },
+  {
+    "id": "japan-v-14",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["litteratur", "sprak"],
+    "prompt": {
+      "nb": "Født i Stockholm i 1966 med japansk mor og svensk far, har denne oversetteren gitt svenske lesere blant annet romanen «Norwegian Wood» av Haruki Murakami. Ved siden av oversetterarbeidet er hun også kjent som litteraturkritiker i svensk TV siden 1993. Hvem er hun?",
+      "sv": "Född i Stockholm 1966 med japansk mamma och svensk pappa har denna översättare gett svenska läsare bland annat romanen «Norwegian Wood» av Haruki Murakami. Vid sidan av översättararbetet är hon också känd som litteraturkritiker i svensk tv sedan 1993. Vem är hon?"
+    },
+    "answer": "Yukiko Duke",
+    "answerKind": "person",
+    "person": { "given": "Yukiko", "family": "Duke" },
+    "hint": {
+      "nb": "Hun har vært fast litteraturkritiker i morgenprogrammet «Gomorron Sverige», og har også skrevet en japansk kokebok sammen med moren sin.",
+      "sv": "Hon har varit fast litteraturkritiker i morgonprogrammet «Gomorron Sverige», och har även skrivit en japansk kokbok tillsammans med sin mamma."
+    },
+    "funFact": {
+      "nb": "Kokeboken hun skrev sammen med moren i 2001 ble nominert til Augustpriset, Sveriges mest prestisjefylte litteraturpris.",
+      "sv": "Kokboken hon skrev tillsammans med sin mamma 2001 nominerades till Augustpriset, Sveriges mest prestigefyllda litteraturpris."
+    },
+    "source": "Sveriges Television – Gomorron Sverige; Augustpriset 2001"
+  },
+  {
+    "id": "japan-v-15",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Etter en ekspedisjon gjennom Sentral-Asia og India i 1905–1908, reiste denne svenske oppdageren hjem til Stockholm via Japan og Russland. I 1923 passerte han landet igjen, denne gangen på vei til Beijing via USA. Hvem var oppdageren?",
+      "sv": "Efter en expedition genom Centralasien och Indien 1905–1908 reste denna svenske upptäckare hem till Stockholm via Japan och Ryssland. År 1923 passerade han landet igen, denna gång på väg till Peking via USA. Vem var upptäckaren?"
+    },
+    "answer": "Sven Hedin",
+    "answerKind": "person",
+    "person": { "given": "Sven", "family": "Hedin" },
+    "hint": {
+      "nb": "Han er mest kjent for sine kartlegginger av Tibet og ørkenen Taklamakan i Sentral-Asia.",
+      "sv": "Han är mest känd för sina kartläggningar av Tibet och öknen Taklamakan i Centralasien."
+    },
+    "funFact": {
+      "nb": "Ekspedisjonene hans var blant de siste store landkartleggingene fra tiden før satellittbilder, og oppdagelsene endret datidens kart over Sentral-Asia betydelig.",
+      "sv": "Hans expeditioner var bland de sista stora lantmätningarna från tiden före satellitbilder, och upptäckterna förändrade dåtidens kartor över Centralasien betydligt."
+    },
+    "source": "Kungliga Vetenskapsakademien; Svenskt biografiskt lexikon – Sven Hedin"
+  },
+  {
+    "id": "japan-v-16",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["politikk", "historie"],
+    "prompt": {
+      "nb": "Denne japanske diplomaten skrev i 1900 en bok på engelsk om samuraienes æreskodeks, lest av både president Theodore Roosevelt og senere John F. Kennedy. Etter første verdenskrig ble han en av Folkeforbundets visegeneralsekretærer, der han blant annet bidro til å løse en strid mellom Sverige og Finland om Åland-øyene. Hvem var han?",
+      "sv": "Denna japanska diplomat skrev 1900 en bok på engelska om samurajernas hederskodex, läst av både president Theodore Roosevelt och senare John F. Kennedy. Efter första världskriget blev han en av Nationernas förbunds vice generalsekreterare, där han bland annat bidrog till att lösa en tvist mellan Sverige och Finland om Ålandsöarna. Vem var han?"
+    },
+    "answer": "Inazo Nitobe",
+    "answerKind": "person",
+    "person": { "given": "Inazo", "family": "Nitobe" },
+    "hint": {
+      "nb": "Boken hans heter «Bushido: The Soul of Japan», og ansiktet hans prydet en tidligere japansk 5000-yen-seddel.",
+      "sv": "Hans bok heter «Bushido: The Soul of Japan», och hans ansikte fanns på en tidigare japansk 5000-yensedel."
+    },
+    "funFact": {
+      "nb": "Sedelen med bildet hans ble trykket fra 1984 til 2004. Boken ble en bestselger i Vesten etter den russisk-japanske krigen 1904–1905.",
+      "sv": "Sedeln med hans bild trycktes från 1984 till 2004. Boken blev en bästsäljare i väst efter det rysk-japanska kriget 1904–1905."
+    },
+    "source": "Nationernas förbund – historisk arkiv; Bank of Japan – seddelhistorikk"
+  },
+  {
+    "id": "japan-v-17",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["kunst", "musikk"],
+    "prompt": {
+      "nb": "Dette tresnittet fra tidlig 1830-tall er del av en serie kalt «Trettiseks utsikter over Fuji» og ble senere en viktig inspirasjonskilde langt utenfor Japan. Den franske komponisten Claude Debussy hadde et eksemplar hengende i stuen og krevde at det skulle pryde forsiden av partituret til tonediktet «La Mer» fra 1905. Hvilket tresnitt er dette?",
+      "sv": "Detta träsnitt från tidigt 1830-tal ingår i en serie kallad «Trettiosex vyer av Fuji» och blev senare en viktig inspirationskälla långt utanför Japan. Den franske kompositören Claude Debussy hade ett exemplar hängande i vardagsrummet och krävde att det skulle pryda omslaget till partituret för tondikten «La Mer» från 1905. Vilket träsnitt är detta?"
+    },
+    "answer": {
+      "nb": "Den store bølgen ved Kanagawa",
+      "sv": "Den stora vågen utanför Kanagawa"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kunstneren het Katsushika Hokusai, en av ukiyo-e-kunstens store mestere.",
+      "sv": "Konstnären hette Katsushika Hokusai, en av ukiyo-e-konstens stora mästare."
+    },
+    "funFact": {
+      "nb": "Også Vincent van Gogh og Claude Monet lot seg inspirere av bildet under den europeiske japonisme-bølgen på slutten av 1800-tallet. Trykket viser en enorm bølge som truer båter, med Fuji lite i bakgrunnen.",
+      "sv": "Även Vincent van Gogh och Claude Monet inspirerades av bilden under den europeiska japonismvågen i slutet av 1800-talet. Trycket visar en enorm våg som hotar båtar, med Fuji litet i bakgrunden."
+    },
+    "source": "The Metropolitan Museum of Art; Bibliothèque nationale de France – Debussy-arkivet"
+  },
+  {
+    "id": "japan-v-18",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["historie", "kunst"],
+    "prompt": {
+      "nb": "Denne temesteren tjenestegjorde først for krigsherren Oda Nobunaga fra 1579 og senere for hans etterfølger Toyotomi Hideyoshi, og utviklet en enkel, jordnær teseremoni-stil kalt wabi-cha. Han skapte også nye redskaper sammen med keramikeren Chōjirō. Hvem var temesteren?",
+      "sv": "Denna temästare tjänstgjorde först åt krigsherren Oda Nobunaga från 1579 och senare åt hans efterträdare Toyotomi Hideyoshi, och utvecklade en enkel, jordnära teceremonistil kallad wabi-cha. Han skapade också nya redskap tillsammans med keramikern Chōjirō. Vem var temästaren?"
+    },
+    "answer": "Sen no Rikyū",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han bygde tesalonger så små som to tatami-matter, kalt sō-an, og en av dem er i dag en nasjonalskatt.",
+      "sv": "Han byggde terum så små som två tatamimattor, kallade sō-an, och ett av dem är i dag en nationalskatt."
+    },
+    "funFact": {
+      "nb": "Keramikken han utviklet sammen med Chōjirō kalles raku-keramikk. Tre av dagens store teskoler – Omotesenke, Urasenke og Mushakōjisenke – stammer alle fra hans linje.",
+      "sv": "Keramiken han utvecklade tillsammans med Chōjirō kallas rakukeramik. Tre av dagens stora teskolor – Omotesenke, Urasenke och Mushakōjisenke – härstammar alla från hans linje."
+    },
+    "source": "The Metropolitan Museum of Art – Heilbrunn Timeline of Art History; Urasenke Foundation"
+  },
+  {
+    "id": "japan-v-19",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["okonomi", "historie"],
+    "prompt": {
+      "nb": "Dette byggefirmaet ble grunnlagt i år 578 for å reise tempelet Shitennō-ji, og regnes som verdens eldste dokumenterte, fortsatt eksisterende selskap. Familien bak drev det uavbrutt i nesten 1400 år, blant annet ved å la svigersønner ta slektsnavnet når det manglet sønner. Hva heter firmaet?",
+      "sv": "Detta byggföretag grundades år 578 för att uppföra templet Shitennō-ji, och räknas som världens äldsta dokumenterade, fortfarande existerande företag. Familjen bakom drev det oavbrutet i nästan 1400 år, bland annat genom att låta svärsöner ta släktnamnet när söner saknades. Vad heter företaget?"
+    },
+    "answer": "Kongō Gumi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet spesialiserte seg på tempel- og helligdomsbygging, og var også involvert i gjenoppbygging av Osaka slott.",
+      "sv": "Företaget specialiserade sig på tempel- och helgedomsbyggen, och var även inblandat i återuppbyggnaden av Osaka slott."
+    },
+    "funFact": {
+      "nb": "I januar 2006 ble selskapet et heleid datterselskap av byggkonsernet Takamatsu, men fortsetter å eksistere som egen juridisk enhet. Shitennō-ji har brent ned og blitt gjenreist hele sju ganger.",
+      "sv": "I januari 2006 blev företaget ett helägt dotterbolag till byggkoncernen Takamatsu, men fortsätter att existera som egen juridisk enhet. Shitennō-ji har brunnit ner och återuppbyggts hela sju gånger."
+    },
+    "source": "Takamatsu Corporation – konsernhistorikk; BBC – «The oldest company in the world»"
+  },
+  {
+    "id": "japan-v-20",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["kunst"],
+    "prompt": {
+      "nb": "I 1603 skal en tidligere tempeltjenerinne ha startet en ny dansedramaform på en provisorisk scene ved elven Kamo i Kyoto, med en trupp av unge kvinnelige dansere. Fra 1629 ble kvinner forbudt på scenen, og i dag spilles alle roller, også kvinnelige, av menn. Hvem regnes som grunnleggeren?",
+      "sv": "År 1603 ska en tidigare tempeltjänarinna ha startat en ny dansdramaform på en provisorisk scen vid floden Kamo i Kyoto, med en trupp unga kvinnliga dansare. Från 1629 förbjöds kvinnor på scenen, och i dag spelas alla roller, även kvinnliga, av män. Vem räknas som grundaren?"
+    },
+    "answer": "Izumo no Okuni",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kunstformen kalles kabuki, og menn som spesialiserer seg på kvinneroller, kalles onnagata.",
+      "sv": "Konstformen kallas kabuki, och män som specialiserar sig på kvinnoroller kallas onnagata."
+    },
+    "funFact": {
+      "nb": "Hun opptrådte etter hvert også for keiserhoffet. Kabuki ble oppført på Unescos liste over immateriell kulturarv i 2008.",
+      "sv": "Hon uppträdde så småningom även för kejsarhovet. Kabuki togs upp på Unescos lista över immateriellt kulturarv 2008."
+    },
+    "source": "Unesco – «Kabuki theatre»; Encyclopaedia Britannica – kabuki"
+  }
+]

@@ -1,0 +1,697 @@
+[
+  {
+    "id": "blaa-l-11",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["fotball"],
+    "prompt": {
+      "nb": "Klubben fra Oslo øst het opprinnelig «Spring» da den ble stiftet i 1913. Året etter kjøpte de billig et restparti med blå og røde drakter fra jernbaneselskapet NSB, og fargene ble hengende ved. Hvilken klubb er dette?",
+      "sv": "Klubben från östra Oslo hette ursprungligen «Spring» när den grundades 1913. Året därpå köpte man billigt ett restparti blå och röda tröjor från järnvägsbolaget NSB, och färgerna blev kvar. Vilken klubb är detta?"
+    },
+    "answer": "Vålerenga",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hjemmebanen heter i dag Intility Arena, tidligere Valle Hovin, og klubben holder til på Oslos østkant.",
+      "sv": "Hemmaplanen heter i dag Intility Arena, tidigare Valle Hovin, och klubben håller till på Oslos östkant."
+    },
+    "funFact": {
+      "nb": "Fargene er fortsatt de samme over hundre år senere, og klubben er blant Norges mest støttede uansett hvordan det går på banen.",
+      "sv": "Färgerna är fortfarande desamma över hundra år senare, och klubben är bland Norges mest stöttade oavsett hur det går på planen."
+    },
+    "source": "Wikipedia – Vålerenga Fotball"
+  },
+  {
+    "id": "blaa-l-12",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["mat-og-drikke", "natur"],
+    "prompt": {
+      "nb": "Dette skjellet finnes langs hele norskekysten og filtrerer store mengder sjøvann gjennom gjellene sine. Det anbefales spist fra september til april, når faren for algegift er lavere enn om sommeren. Hvilket skjell er dette?",
+      "sv": "Detta skaldjur finns längs hela Norges kust och filtrerar stora mängder havsvatten genom sina gälar. Det rekommenderas ätas mellan september och april, när risken för algtoxiner är lägre än på sommaren. Vilket skaldjur är detta?"
+    },
+    "answer": {
+      "nb": "Blåskjell",
+      "sv": "Blåmussla"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skallet er mørkeblått til svart, og dyret fester seg til fjell og brygger med tynne tråder kalt bysstråd.",
+      "sv": "Skalet är mörkblått till svart, och djuret fäster sig vid klippor och bryggor med tunna trådar som kallas bysstråd."
+    },
+    "funFact": {
+      "nb": "Det foregår også kommersielt oppdrett i Norge, med tyngdepunkt i Trøndelag, Nordland og Sogn og Fjordane, men næringen er fortsatt liten sammenlignet med potensialet.",
+      "sv": "Det bedrivs även kommersiell odling i Norge, med tyngdpunkt i Trøndelag, Nordland och Sogn og Fjordane, men näringen är fortfarande liten jämfört med potentialen."
+    },
+    "source": "Store norske leksikon – blåskjell"
+  },
+  {
+    "id": "blaa-l-13",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["politikk"],
+    "prompt": {
+      "nb": "Etter valget i 2013 dannet Høyre og Fremskrittspartiet regjering sammen, en koalisjon som i dagligtale fikk et fargerikt kallenavn etter partienes to blånyanser. Hvem ble statsminister?",
+      "sv": "Efter valet 2013 bildade Høyre och Fremskrittspartiet regering tillsammans, en koalition som i dagligt tal fick ett färgstarkt smeknamn efter partiernas två blånyanser. Vem blev statsminister?"
+    },
+    "answer": "Erna Solberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Erna",
+      "family": "Solberg"
+    },
+    "hint": {
+      "nb": "Høyre bruker lys blå som partifarge, Fremskrittspartiet en mørkere blå.",
+      "sv": "Høyre använder ljusblått som partifärg, Fremskrittspartiet en mörkare blå."
+    },
+    "funFact": {
+      "nb": "Regjeringen ble uformelt kalt «den blå-blå regjeringen» og satt fra 2013 til 2021, med Venstre og KrF etter hvert som faste samarbeidspartnere.",
+      "sv": "Regeringen kallades informellt «den blåblå regeringen» och satt från 2013 till 2021, med Venstre och KrF som fasta samarbetspartner efter hand."
+    },
+    "source": "Wikipedia – Solberg's Cabinet"
+  },
+  {
+    "id": "blaa-l-14",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "I norsk og svensk brukes et sammensatt ord om de blinkende varsellysene på politi-, brannvesen- og ambulansebiler – et ord som også brukes som fellesbetegnelse for selve utrykningen. Hvilket ord er dette?",
+      "sv": "På svenska och norska används ett sammansatt ord om de blinkande varningsljusen på polis-, brandkårs- och ambulansbilar – ett ord som även används som samlingsbegrepp för själva utryckningen. Vilket ord är detta?"
+    },
+    "answer": {
+      "nb": "Blålys",
+      "sv": "Blåljus"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er satt sammen av fargen på lyset og selve lyskilden.",
+      "sv": "Ordet är sammansatt av färgen på ljuset och själva ljuskällan."
+    },
+    "funFact": {
+      "nb": "Media omtaler ofte politi, brannvesen og ambulansetjeneste samlet som «blålysetatene».",
+      "sv": "Medier talar ofta om polis, brandkår och ambulanssjukvård samlat som «blåljusmyndigheterna»."
+    },
+    "source": "Bokmålsordboka; Svenska Akademiens ordbok"
+  },
+  {
+    "id": "blaa-l-15",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["design", "okonomi"],
+    "prompt": {
+      "nb": "Selskapet ble startet i 1943 av en syttenåring i Småland, og butikkene kjennetegnes i dag av blå fasader med gule detaljer – fargene i grunnleggerens hjemlands flagg. Navnet er satt sammen av initialene hans og navnet på gården og bygda han vokste opp i. Hvilket selskap er dette?",
+      "sv": "Företaget grundades 1943 av en sjuttonåring i Småland, och butikerna kännetecknas i dag av blå fasader med gula detaljer – färgerna i grundarens hemlands flagga. Namnet är sammansatt av hans initialer och namnet på gården och byn han växte upp i. Vilket företag är detta?"
+    },
+    "answer": "IKEA",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Første varehus åpnet i Älmhult i 1958, og grunnleggeren het Ingvar Kamprad.",
+      "sv": "Det första varuhuset öppnade i Älmhult 1958, och grundaren hette Ingvar Kamprad."
+    },
+    "funFact": {
+      "nb": "Navnet står for Ingvar Kamprad, gården Elmtaryd og bygda Agunnaryd. Selskapet begynte som postordrefirma flere år før det første varehuset åpnet.",
+      "sv": "Namnet står för Ingvar Kamprad, gården Elmtaryd och byn Agunnaryd. Företaget började som postorderfirma flera år innan det första varuhuset öppnade."
+    },
+    "source": "Wikipedia – IKEA"
+  },
+  {
+    "id": "blaa-l-16",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["fotball"],
+    "prompt": {
+      "nb": "Det skandinaviske landslaget i fotball spiller hjemme i gule drakter med blå shorts, og bortekamper i blått med gule detaljer – farger hentet rett fra flagget. Hva er lagets kallenavn?",
+      "sv": "Det skandinaviska fotbollslandslaget spelar hemma i gula tröjor med blå shorts, och bortamatcher i blått med gula detaljer – färger hämtade direkt från flaggan. Vad är lagets smeknamn?"
+    },
+    "answer": "Blågult",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet ligger på den skandinaviske halvøy, og flagget er blått med et gult kors.",
+      "sv": "Landet ligger på den skandinaviska halvön, och flaggan är blå med ett gult kors."
+    },
+    "funFact": {
+      "nb": "Kallenavnet brukes gjerne om flere av landets landslag, ikke bare i fotball, og gjenspeiler at gult og blått er nasjonalfargene.",
+      "sv": "Smeknamnet används gärna om flera av landets landslag, inte bara i fotboll, och speglar att gult och blått är nationalfärgerna."
+    },
+    "source": "Wikipedia – Sweden men's national football team"
+  },
+  {
+    "id": "blaa-l-17",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Denne intenst blå åkerblomsten er landskapsblomst for Östergötland og har siden tidlig 1900-tall også vært partisymbol for et svensk liberalt parti. Hvilken blomst er dette?",
+      "sv": "Denna intensivt blå åkerblomma är landskapsblomma för Östergötland och har sedan tidigt 1900-tal även varit partisymbol för ett svenskt liberalt parti. Vilken blomma är detta?"
+    },
+    "answer": {
+      "nb": "Kornblomst",
+      "sv": "Blåklint"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det latinske navnet er Centaurea cyanus, og trykkfargen cyan har navn etter nettopp denne blånyansen.",
+      "sv": "Det latinska namnet är Centaurea cyanus, och tryckfärgen cyan har fått sitt namn efter just denna blånyans."
+    },
+    "funFact": {
+      "nb": "Blomsten vokser gjerne blant kornaks, derav navnet, og brukes fortsatt som partisymbol i både Sverige og Finland.",
+      "sv": "Blomman växer gärna bland sädesax, därav namnet, och används fortfarande som partisymbol i både Sverige och Finland."
+    },
+    "source": "Wikipedia – Cornflower"
+  },
+  {
+    "id": "blaa-l-18",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["mat-og-drikke", "natur"],
+    "prompt": {
+      "nb": "Dette mørkeblå skogsbæret dekker rundt 17 prosent av Sveriges landareal og kan plukkes fritt av hvem som helst takket være allemannsretten. Det brukes i alt fra paier til kald suppe. Hvilket bær er dette?",
+      "sv": "Detta mörkblå skogsbär täcker omkring 17 procent av Sveriges landyta och kan plockas fritt av vem som helst tack vare allemansrätten. Det används i allt från pajer till kall soppa. Vilket bär är detta?"
+    },
+    "answer": {
+      "nb": "Blåbær",
+      "sv": "Blåbär"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bæret vokser lavt på ris i barskog og myr, og fargen smitter lett av på fingre og tenner.",
+      "sv": "Bäret växer lågt på ris i barrskog och myr, och färgen smittar lätt av sig på fingrar och tänder."
+    },
+    "funFact": {
+      "nb": "Arten er den samme som gir norsk blåbær, men i Sverige er bæret nesten et nasjonalsymbol for høstens skogsplukking.",
+      "sv": "Arten är densamma som ger norska blåbär, men i Sverige är bäret närmast en nationalsymbol för höstens bärplockning."
+    },
+    "source": "Wikipedia – Bilberry"
+  },
+  {
+    "id": "blaa-l-19",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["tv", "popkultur"],
+    "prompt": {
+      "nb": "Dette lodne, blå monsteret i det amerikanske barneprogrammet Sesame Street har en umettelig trang til kjeks, sluker dem gjerne hele og strør smuler overalt. Figuren ble skapt av dukkeføreren Jim Henson. Hvilken figur er dette?",
+      "sv": "Detta ludna, blå monstret i det amerikanska barnprogrammet Sesame Street har en omättlig lust efter kakor, sväljer dem gärna hela och strör smulor överallt. Figuren skapades av dockspelaren Jim Henson. Vilken figur är detta?"
+    },
+    "answer": "Cookie Monster",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han sier ofte «me want cookie» med dårlig grammatikk, og øynene sitter løst og vipper i alle retninger.",
+      "sv": "Han säger ofta «me want cookie» med dålig grammatik, och ögonen sitter löst och guppar åt alla håll."
+    },
+    "funFact": {
+      "nb": "Figuren har røtter i en tidlig, usendt reklamefigur Henson laget på 1960-tallet, lenge før han fikk sitt kjente navn og sin kjeksbesettelse i Sesame Street.",
+      "sv": "Figuren har rötter i en tidig, osänd reklamfigur Henson skapade på 1960-talet, långt innan han fick sitt kända namn och sin kaksbesatthet i Sesame Street."
+    },
+    "source": "Wikipedia – Cookie Monster"
+  },
+  {
+    "id": "blaa-l-20",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["spill", "popkultur"],
+    "prompt": {
+      "nb": "Da et japansk spillselskap skulle lage sin egen maskotfigur på begynnelsen av 1990-tallet, fikk pinnsvinet sin blå farge for å matche selskapets logo. Han debuterte i et spill i 1991. Hvilken figur er dette?",
+      "sv": "När ett japanskt spelbolag skulle skapa sin egen maskot i början av 1990-talet fick igelkotten sin blå färg för att matcha bolagets logotyp. Han debuterade i ett spel 1991. Vilken figur är detta?"
+    },
+    "answer": "Sonic",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han er kjent for å løpe ekstremt fort og samle gyldne ringer, og spillselskapet het Sega.",
+      "sv": "Han är känd för att springa extremt fort och samla gyllene ringar, och spelbolaget hette Sega."
+    },
+    "funFact": {
+      "nb": "Figuren ble designet av Naoto Ohshima, mens Yuji Naka programmerte spillet. Fargen skulle understreke forbindelsen til Segas kobaltblå logo.",
+      "sv": "Figuren designades av Naoto Ohshima, medan Yuji Naka programmerade spelet. Färgen skulle understryka kopplingen till Segas koboltblå logotyp."
+    },
+    "source": "Wikipedia – Sonic the Hedgehog (character)"
+  },
+  {
+    "id": "blaa-m-11",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["fotball"],
+    "prompt": {
+      "nb": "Klubben fra Nordvestlandet spiller i blått og hvitt, og vant sitt aller første seriemesterskap i 2011 – samme år som en tidligere spiller i klubben, nå tilbake som trener, ledet dem til gull under klubbens hundreårsjubileum. Hvilken klubb er dette?",
+      "sv": "Klubben från nordvästra Norge spelar i blått och vitt, och vann sitt allra första ligamästerskap 2011 – samma år som en tidigare spelare i klubben, nu tillbaka som tränare, ledde dem till guld under klubbens hundraårsjubileum. Vilken klubb är detta?"
+    },
+    "answer": "Molde FK",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Treneren het Ole Gunnar Solskjær, senere kjent fra Manchester United.",
+      "sv": "Tränaren hette Ole Gunnar Solskjær, senare känd från Manchester United."
+    },
+    "funFact": {
+      "nb": "Solskjær hadde selv scoret 31 mål på 42 kamper for klubben som spiller på 1990-tallet, før han dro til Manchester United i 1996.",
+      "sv": "Solskjær hade själv gjort 31 mål på 42 matcher för klubben som spelare på 1990-talet, innan han lämnade för Manchester United 1996."
+    },
+    "source": "Wikipedia – Molde FK"
+  },
+  {
+    "id": "blaa-m-12",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Det høyeste fjellet på øya Kvaløya utenfor Tromsø når 1044 meter over havet, er et populært turmål og har bratte klatrevegger på en av sidene. Navnet spiller på fargen fjellsiden ofte får i dagslys. Hvilket fjell er dette?",
+      "sv": "Det högsta berget på ön Kvaløya utanför Tromsø når 1044 meter över havet, är ett populärt vandringsmål och har branta klätterväggar på en av sidorna. Namnet anspelar på färgen bergssidan ofta får i dagsljus. Vilket berg är detta?"
+    },
+    "answer": "Blåmannen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellet kalles også Store Blåmann, og troner synlig over store deler av Tromsø by.",
+      "sv": "Berget kallas även Store Blåmann, och syns tydligt från stora delar av Tromsø stad."
+    },
+    "funFact": {
+      "nb": "Fjellet er et av de mest brukte turmålene for Tromsø-folk, og de bratte veggene brukes også til flerdagers klatring.",
+      "sv": "Berget är ett av de mest anlitade utflyktsmålen för Tromsøbor, och de branta väggarna används även för flerdagarsklättring."
+    },
+    "source": "Store norske leksikon – Blåmannen"
+  },
+  {
+    "id": "blaa-m-13",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "Når et slag mot huden får blodårer til å briste under overflaten uten å lage sår, skifter huden farge over noen dager – først blåaktig, siden grønn og gul. Hvilket ord bruker vi om selve skaden?",
+      "sv": "När ett slag mot huden får blodkärl att brista under ytan utan att ge ett sår, byter huden färg under några dagar – först blåaktig, sedan grön och gul. Vilket ord används om själva skadan?"
+    },
+    "answer": {
+      "nb": "Blåmerke",
+      "sv": "Blåmärke"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er satt sammen av fargen og et ord for spor eller avtrykk.",
+      "sv": "Ordet är sammansatt av färgen och ett ord för spår eller avtryck."
+    },
+    "funFact": {
+      "nb": "Den medisinske betegnelsen er hematom eller kontusjon, men i dagligtale bruker både nordmenn og svensker fargen på skaden som navn.",
+      "sv": "Den medicinska termen är hematom eller kontusion, men i vardagligt tal använder både norrmän och svenskar färgen på skadan som namn."
+    },
+    "source": "Bokmålsordboka; Svenska Akademiens ordbok"
+  },
+  {
+    "id": "blaa-m-14",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["natur", "vitenskap"],
+    "prompt": {
+      "nb": "Nord i Norge kan denne lysdansen på himmelen sjelden bli blåfiolett i stedet for det vanlige grønne, når molekylært nitrogen høyt oppe i atmosfæren avgir lys rundt 428 nanometers bølgelengde. Hva heter naturfenomenet?",
+      "sv": "I norra Norge kan denna ljusdans på himlen sällsynt bli blåviolett i stället för det vanliga gröna, när molekylärt kväve högt uppe i atmosfären avger ljus kring 428 nanometers våglängd. Vad heter naturfenomenet?"
+    },
+    "answer": {
+      "nb": "Nordlys",
+      "sv": "Norrsken"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fenomenet oppstår når ladede partikler fra sola treffer atmosfæren, og Tromsø er blant verdens mest kjente steder å se det.",
+      "sv": "Fenomenet uppstår när laddade partiklar från solen träffar atmosfären, och Tromsø är en av världens mest kända platser att se det."
+    },
+    "funFact": {
+      "nb": "Den vanlige grønnfargen kommer fra oksygenatomer høyere oppe, mens den sjeldne blåfiolette fargen krever kraftig soluvær og lavere høyde i atmosfæren.",
+      "sv": "Den vanliga gröna färgen kommer från syreatomer högre upp, medan den sällsynta blåvioletta färgen kräver kraftig solaktivitet och lägre höjd i atmosfären."
+    },
+    "source": "Wikipedia – Aurora"
+  },
+  {
+    "id": "blaa-m-15",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "En av Stockholms tunnelbanelinjer åpnet i 1975 og går stort sett gjennom udekorert, sprengt fjellgrunn – en rå estetikk som er blitt en del av det systemet som kalles «verdens lengste kunstgalleri». Hvilken linje er dette?",
+      "sv": "En av Stockholms tunnelbanelinjer öppnade 1975 och går till stor del genom oskyddad, sprängd berggrund – en rå estetik som blivit en del av det system som kallas «världens längsta konstgalleri». Vilken linje är detta?"
+    },
+    "answer": {
+      "nb": "Blå linjen",
+      "sv": "Blå linjen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Linjen har flest reisende av de tre fargede linjene, med rundt 171 000 reiser en vanlig hverdag.",
+      "sv": "Linjen har flest resenärer av de tre färgade linjerna, med omkring 171 000 resor en vanlig vardag."
+    },
+    "funFact": {
+      "nb": "Totalt har 94 av 100 stasjoner i Stockholms tunnelbane kunstnerisk utsmykning, laget av over 150 ulike kunstnere.",
+      "sv": "Totalt har 94 av 100 stationer i Stockholms tunnelbana konstnärlig utsmyckning, gjord av över 150 olika konstnärer."
+    },
+    "source": "Wikipedia – Stockholm metro"
+  },
+  {
+    "id": "blaa-m-16",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Denne idrettsklubben fra Stockholm ble stiftet i 1891 og har lag i både fotball og ishockey, med gult, rødt og blått som klubbfarger – oftest vist som stripete drakter i lys og mørk blå. Hvilken klubb er dette?",
+      "sv": "Denna idrottsförening från Stockholm grundades 1891 och har lag i både fotboll och ishockey, med gult, rött och blått som klubbfärger – oftast visat som randiga tröjor i ljust och mörkt blått. Vilken klubb är detta?"
+    },
+    "answer": "Djurgårdens IF",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Klubben kalles ofte bare «Djurgår'n» av supporterne, og holder til på Kungliga Djurgården i Stockholm.",
+      "sv": "Klubben kallas ofta bara «Djurgår'n» av supportrarna, och håller till på Kungliga Djurgården i Stockholm."
+    },
+    "funFact": {
+      "nb": "Klubben er en av Sveriges eldste idrettsforeninger og har vunnet seriemesterskap i både fotball og ishockey opp gjennom historien.",
+      "sv": "Klubben är en av Sveriges äldsta idrottsföreningar och har vunnit seriemästerskap i både fotboll och ishockey genom historien."
+    },
+    "source": "Wikipedia – Djurgårdens IF"
+  },
+  {
+    "id": "blaa-m-17",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["kongehus"],
+    "prompt": {
+      "nb": "Sveriges nasjonaldag feires 6. juni til ære for det blågule flagget og til minne om at denne mannen ble valgt til konge i 1523, en begivenhet som regnes som grunnlaget for det moderne Sverige. Dagen ble første gang markert som «Svenska flaggans dag» i 1916. Hvem var kongen?",
+      "sv": "Sveriges nationaldag firas 6 juni till ära för den blågula flaggan och till minne av att denne man valdes till kung 1523, en händelse som räknas som grunden för det moderna Sverige. Dagen högtidlighölls första gången som «Svenska flaggans dag» 1916. Vem var kungen?"
+    },
+    "answer": "Gustav Vasa",
+    "answerKind": "person",
+    "person": {
+      "given": "Gustav",
+      "family": "Vasa"
+    },
+    "hint": {
+      "nb": "Han ledet opprøret mot den dansk-ledede Kalmarunionen og grunnla en kongeslekt som fortsatt gir navn til et berømt skirenn.",
+      "sv": "Han ledde upproret mot den danskledda Kalmarunionen och grundade en kungaätt som fortfarande ger namn åt ett berömt skidlopp."
+    },
+    "funFact": {
+      "nb": "Først i 1983 ble dagen offisiell nasjonaldag, og i 2005 ble den betalt fridag – da erstattet den annen pinsedag i kalenderen.",
+      "sv": "Först 1983 blev dagen officiell nationaldag, och 2005 blev den en betald ledig dag – då ersatte den annandag pingst i kalendern."
+    },
+    "source": "Wikipedia – National Day of Sweden"
+  },
+  {
+    "id": "blaa-m-18",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "Dette skandinaviske flyselskapet ble dannet i 1946 av tre nasjonale flyselskaper og har hovedkontor i Solna utenfor Stockholm. Halefinnen på flyene er malt i en dyp blåfarge med selskapets logo i hvitt. Hvilket flyselskap er dette?",
+      "sv": "Detta skandinaviska flygbolag bildades 1946 av tre nationella flygbolag och har huvudkontor i Solna utanför Stockholm. Stjärtfenan på planen är målad i en djup blå färg med bolagets logotyp i vitt. Vilket flygbolag är detta?"
+    },
+    "answer": "SAS",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortelsen står for Scandinavian Airlines System.",
+      "sv": "Förkortningen står för Scandinavian Airlines System."
+    },
+    "funFact": {
+      "nb": "Selskapet ble til ved en sammenslåing av svenske, danske og norske flyselskaper, og den formelle fusjonen kom i 1951.",
+      "sv": "Bolaget bildades genom en sammanslagning av svenska, danska och norska flygbolag, och den formella fusionen kom 1951."
+    },
+    "source": "Wikipedia – Scandinavian Airlines"
+  },
+  {
+    "id": "blaa-m-19",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["musikk"],
+    "prompt": {
+      "nb": "Dette jazzalbumet ble spilt inn på bare to studiosesjoner i 1959, nesten uten øvelse, med musikere som John Coltrane og Bill Evans. Det regnes som et av de mest innflytelsesrike og solgte jazzalbumene noensinne. Hvilket album er dette?",
+      "sv": "Detta jazzalbum spelades in på bara två studiosessioner 1959, nästan utan repetition, med musiker som John Coltrane och Bill Evans. Det räknas som ett av de mest inflytelserika och sålda jazzalbumen någonsin. Vilket album är detta?"
+    },
+    "answer": "Kind of Blue",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bandlederen på trompet ga også navn til stilen «modal jazz», og han het Miles Davis.",
+      "sv": "Bandledaren på trumpet gav också namn åt stilen «modal jazz», och han hette Miles Davis."
+    },
+    "funFact": {
+      "nb": "Albumet har solgt over 5 millioner eksemplarer i USA og fikk femdobbelt platina-sertifisering fra RIAA i 2019, uvanlig for et jazzalbum.",
+      "sv": "Albumet har sålt över 5 miljoner exemplar i USA och fick femdubbel platina-certifiering av RIAA 2019, ovanligt för ett jazzalbum."
+    },
+    "source": "Wikipedia – Kind of Blue"
+  },
+  {
+    "id": "blaa-m-20",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["tv", "popkultur"],
+    "prompt": {
+      "nb": "I en berømt britisk komikersketsj fra 1969 klager en kunde til en dyrehandler over at papegøyen han nettopp har kjøpt, ikke bare hviler, men faktisk er død. Den oppdiktede papegøyerasen er oppkalt etter et skandinavisk land og en farge. Hvilken rase er dette?",
+      "sv": "I en berömd brittisk komikersketch från 1969 klagar en kund till en djurhandlare på att papegojan han just köpt inte bara vilar, utan faktiskt är död. Den påhittade papegojrasen är uppkallad efter ett skandinaviskt land och en färg. Vilken ras är detta?"
+    },
+    "answer": "Norwegian Blue",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sketsjen heter «Dead Parrot» og ble fremført av John Cleese og Michael Palin i Monty Python's Flying Circus.",
+      "sv": "Sketchen heter «Dead Parrot» och framfördes av John Cleese och Michael Palin i Monty Python's Flying Circus."
+    },
+    "funFact": {
+      "nb": "Sketsjen ble skrevet av John Cleese og Graham Chapman og hadde premiere 7. desember 1969, i episode åtte av den første sesongen.",
+      "sv": "Sketchen skrevs av John Cleese och Graham Chapman och hade premiär den 7 december 1969, i avsnitt åtta av den första säsongen."
+    },
+    "source": "Wikipedia – Dead Parrot sketch"
+  },
+  {
+    "id": "blaa-v-11",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["natur", "geografi"],
+    "prompt": {
+      "nb": "Med et areal på nesten 2000 kvadratkilometer er dette Norges fjerde største nasjonalpark, opprettet i 2004 i Trøndelag og fordelt over fem kommuner. Navnet viser til fargen fjellene ofte får i disen. Hvilken nasjonalpark er dette?",
+      "sv": "Med en yta på nästan 2000 kvadratkilometer är detta Norges fjärde största nationalpark, inrättad 2004 i Trøndelag och fördelad över fem kommuner. Namnet syftar på färgen bergen ofta får i diset. Vilken nationalpark är detta?"
+    },
+    "answer": "Blåfjella-Skjækerfjella nasjonalpark",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Parken slukte den tidligere Gressåmoen nasjonalpark da den ble opprettet.",
+      "sv": "Parken uppslukade den tidigare Gressåmoen nationalpark när den inrättades."
+    },
+    "funFact": {
+      "nb": "Parken dekker 1931 kvadratkilometer og er et av de største sammenhengende villmarksområdene på Fosen- og Namdalshalvøya.",
+      "sv": "Parken täcker 1931 kvadratkilometer och är ett av de största sammanhängande vildmarksområdena på Fosen- och Namdalshalvön."
+    },
+    "source": "Store norske leksikon – Blåfjella-Skjækerfjella nasjonalpark"
+  },
+  {
+    "id": "blaa-v-12",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "Norges største finanskonsern oppsto i 2003 da to store banker slo seg sammen, med et navn som i flere år inneholdt både en forkortelse og et forsikringsselskaps navn, før det hele ble kortet ned til tre bokstaver i 2011. Hvilket konsern er dette?",
+      "sv": "Norges största finanskoncern uppstod 2003 när två stora banker gick samman, med ett namn som i flera år innehöll både en förkortning och ett försäkringsbolags namn, innan allt kortades ner till tre bokstäver 2011. Vilken koncern är detta?"
+    },
+    "answer": "DNB",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De to bankene som slo seg sammen i 2003 var Den norske Bank og Gjensidige NOR.",
+      "sv": "De två bankerna som gick samman 2003 var Den norske Bank och Gjensidige NOR."
+    },
+    "funFact": {
+      "nb": "Fram til 2011 het konsernet DnB NOR. Den norske Bank var selv et resultat av en tidligere fusjon i 1990, mellom Den norske Creditbank og Bergen Bank.",
+      "sv": "Fram till 2011 hette koncernen DnB NOR. Den norske Bank var själv ett resultat av en tidigare fusion 1990, mellan Den norske Creditbank och Bergen Bank."
+    },
+    "source": "Store norske leksikon – DNB; Wikipedia – DNB ASA"
+  },
+  {
+    "id": "blaa-v-13",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["geografi", "historie"],
+    "prompt": {
+      "nb": "Da denne av Norges eldste byer fikk nytt kommunevåpen i 2020, ble det delt i to felt: et skipsstavn fra et berømt vikingskipfunn i blått på hvit bunn, og et kirkespir i hvitt på blå bunn. Hvilken by er dette?",
+      "sv": "När denna av Norges äldsta städer fick ett nytt kommunvapen 2020 delades det i två fält: en skeppsstäv från ett berömt vikingaskeppsfynd i blått på vit botten, och ett kyrktorn i vitt på blå botten. Vilken stad är detta?"
+    },
+    "answer": "Tønsberg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen regnes som Norges eldste, grunnlagt før år 900, og vikingskipet det siktes til ble funnet på en gård like ved.",
+      "sv": "Staden räknas som Norges äldsta, grundad före år 900, och vikingaskeppet som åsyftas hittades på en gård alldeles i närheten."
+    },
+    "funFact": {
+      "nb": "Skipsstavnen viser til Osebergskipet, som ble funnet i Tønsberg-området i 1904 og i dag står utstilt på Museum for vikingtid i Oslo.",
+      "sv": "Skeppsstäven syftar på Osebergsskeppet, som hittades i Tønsbergtrakten 1904 och i dag finns utställt på Vikingatidsmuseet i Oslo."
+    },
+    "source": "Store norske leksikon – kommunevåpen (Tønsberg)"
+  },
+  {
+    "id": "blaa-v-14",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["historie", "sprak"],
+    "prompt": {
+      "nb": "Ordet betegnet opprinnelig mandagen i fastelavn, oppkalt etter en liturgisk farge i den katolske kirken. I dag brukes det derimot om dagen etter kraftig fest, preget av bakrus og anger. Hvilket ord er dette?",
+      "sv": "Ordet betecknade ursprungligen måndagen i fastlagen, uppkallat efter en liturgisk färg i den katolska kyrkan. I dag används det däremot om dagen efter kraftigt festande, präglad av baksmälla och ånger. Vilket ord är detta?"
+    },
+    "answer": {
+      "nb": "Blåmandag",
+      "sv": "Blåmåndag"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er en sammensetning av fargen og ukedagen rett etter søndag.",
+      "sv": "Ordet är en sammansättning av färgen och veckodagen direkt efter söndagen."
+    },
+    "funFact": {
+      "nb": "Fastelavn er festen før den kristne fasteperioden, og navnet henger sammen med at blått var fargen for anger og bot i kirkeåret.",
+      "sv": "Fastlagen är festen inför den kristna fasteperioden, och namnet hänger samman med att blått var färgen för ånger och bot i kyrkoåret."
+    },
+    "source": "Store norske leksikon – blåmandag"
+  },
+  {
+    "id": "blaa-v-15",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie", "sport"],
+    "prompt": {
+      "nb": "Sveriges herrelandslag i ishockey er oppkalt etter landets eldste riksvåpen, et symbol som også ga navn til en kongelig borg på stedet der Stockholms slott nå ligger – helt til en brann la den i grus i 1697. Hva er kallenavnet?",
+      "sv": "Sveriges herrlandslag i ishockey är uppkallat efter landets äldsta riksvapen, ett symbol som även gav namn åt en kunglig borg på platsen där Stockholms slott nu ligger – ända tills en brand lade den i aska 1697. Vad är smeknamnet?"
+    },
+    "answer": "Tre Kronor",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr rett og slett «tre kroner», og symbolet finnes fortsatt i Sveriges riksvåpen.",
+      "sv": "Namnet betyder helt enkelt «tre kronor», och symbolen finns fortfarande i Sveriges riksvapen."
+    },
+    "funFact": {
+      "nb": "Borgen skal ha fått navnet sitt under kong Magnus Eriksson på 1300-tallet. Det nåværende Stockholms slott sto ferdig i 1754, tegnet av arkitekten Nicodemus Tessin den yngre.",
+      "sv": "Borgen ska ha fått sitt namn under kung Magnus Eriksson på 1300-talet. Det nuvarande Stockholms slott stod klart 1754, ritat av arkitekten Nicodemus Tessin den yngre."
+    },
+    "source": "Wikipedia – Tre Kronor Castle"
+  },
+  {
+    "id": "blaa-v-16",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["fotball"],
+    "prompt": {
+      "nb": "Denne klubben fra vestkysten er det eneste laget fra hele Norden som har vunnet en av UEFAs store klubbturneringer – faktisk to ganger, i 1982 og 1987. Draktfargene er blått og hvitt. Hvilken klubb er dette?",
+      "sv": "Denna klubb från västkusten är det enda laget i hela Norden som vunnit en av UEFAs stora klubbturneringar – faktiskt två gånger, 1982 och 1987. Tröjfärgerna är blått och vitt. Vilken klubb är detta?"
+    },
+    "answer": "IFK Göteborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Klubben holder til i Göteborg, og turneringen het den gang UEFA-cupen.",
+      "sv": "Klubben håller till i Göteborg, och turneringen hette då UEFA-cupen."
+    },
+    "funFact": {
+      "nb": "I 1982-finalen slo de tyske Hamburger SV 4–0 sammenlagt, og i 1987 vant de over skotske Dundee United.",
+      "sv": "I 1982 års final slog de tyska Hamburger SV med sammanlagt 4–0, och 1987 vann de mot skotska Dundee United."
+    },
+    "source": "Wikipedia – IFK Göteborg"
+  },
+  {
+    "id": "blaa-v-17",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["litteratur", "historie"],
+    "prompt": {
+      "nb": "Forfatteren tilbrakte sine siste leveår, fra 1908 til 1912, i en bygård fra 1906–07 med et dominerende hjørnetårn i Stockholm. Han ga selv bygningen et fargerikt kallenavn, og i dag er leiligheten hans museum. Hva kalte han bygningen?",
+      "sv": "Författaren tillbringade sina sista levnadsår, från 1908 till 1912, i en hyresfastighet från 1906–07 med ett dominerande hörntorn i Stockholm. Han gav själv byggnaden ett färgstarkt smeknamn, och i dag är hans lägenhet museum. Vad kallade han byggnaden?"
+    },
+    "answer": "Blå tornet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forfatteren het August Strindberg, og bygningen ligger i hjørnet av Drottninggatan og Tegnérgatan.",
+      "sv": "Författaren hette August Strindberg, och byggnaden ligger i hörnet av Drottninggatan och Tegnérgatan."
+    },
+    "funFact": {
+      "nb": "Museet, som i dag heter Strindbergsmuseet, åpnet i 1973 og viser forfatterens private eiendeler, deriblant biblioteket hans.",
+      "sv": "Museet, som i dag heter Strindbergsmuseet, öppnade 1973 och visar författarens privata ägodelar, däribland hans bibliotek."
+    },
+    "source": "Wikipedia – Strindberg Museum"
+  },
+  {
+    "id": "blaa-v-18",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie", "geografi"],
+    "prompt": {
+      "nb": "Dette sørsvenske landskapets våpen viser et gullfarget, opprykket eiketre kronet med tre kroner, alt på blå bunn. Det ble tildelt i 1660, rett etter kong Karl X Gustavs begravelse, og markerte landskapets overgang fra dansk til svensk territorium. Hvilket landskap er dette?",
+      "sv": "Detta sydsvenska landskaps vapen visar ett guldfärgat, upryckt ekträd krönt med tre kronor, allt på blå botten. Det tilldelades 1660, strax efter kung Karl X Gustavs begravning, och markerade landskapets övergång från danskt till svenskt territorium. Vilket landskap är detta?"
+    },
+    "answer": "Blekinge",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landskapet ble svensk etter freden i Roskilde i 1658, og har i dag byer som Karlskrona og Karlshamn.",
+      "sv": "Landskapet blev svenskt efter freden i Roskilde 1658, och har i dag städer som Karlskrona och Karlshamn."
+    },
+    "funFact": {
+      "nb": "Våpenet bygger på et segl fra 1400-tallet, og de tre kronene er de samme som i Sveriges riksvåpen.",
+      "sv": "Vapnet bygger på ett sigill från 1400-talet, och de tre kronorna är desamma som i Sveriges riksvapen."
+    },
+    "source": "Wikipedia – Blekinge"
+  },
+  {
+    "id": "blaa-v-19",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["kunst", "vitenskap"],
+    "prompt": {
+      "nb": "En fargehandler i Berlin prøvde i 1706 å lage et rødt fargestoff av cochenille, men en forurenset ingrediens med dyreblod i blandingen ga i stedet en sterk blåfarge – det første moderne syntetiske pigmentet. Hvilket pigment er dette?",
+      "sv": "En färghandlare i Berlin försökte 1706 göra ett rött färgämne av cochenille, men en förorenad ingrediens med djurblod i blandningen gav i stället en stark blå färg – det första moderna syntetiska pigmentet. Vilket pigment är detta?"
+    },
+    "answer": {
+      "nb": "Berlinerblått",
+      "sv": "Berlinerblått"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Pigmentet fikk etter hvert navn både etter byen det ble oppdaget i og etter landet byen lå i.",
+      "sv": "Pigmentet fick så småningom namn både efter staden det upptäcktes i och efter landet staden låg i."
+    },
+    "funFact": {
+      "nb": "Oppdageren het Johann Jacob Diesbach, og pigmentet ble markedsført under navn som «Preussisch Blau» fra 1709.",
+      "sv": "Upptäckaren hette Johann Jacob Diesbach, och pigmentet marknadsfördes under namn som «Preussisch Blau» från 1709."
+    },
+    "source": "Wikipedia – Prussian blue"
+  },
+  {
+    "id": "blaa-v-20",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["tv", "design"],
+    "prompt": {
+      "nb": "Et britisk TV-program for barn, verdens lengst sammenhengende barneprogram, har sendt siden 1958 og er oppkalt etter et nautisk signalflagg som varsler at et skip snart skal legge fra kai – ment å symbolisere eventyr og reise. Hvilket program er dette?",
+      "sv": "Ett brittiskt tv-program för barn, världens längst sammanhängande barnprogram, har sänts sedan 1958 och är uppkallat efter en nautisk signalflagga som varslar att ett skepp snart ska lägga ut från kaj – tänkt att symbolisera äventyr och resa. Vilket program är detta?"
+    },
+    "answer": "Blue Peter",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Signalflagget er blått med en hvit firkant i midten, og brukes i internasjonal signalkode som bokstaven P.",
+      "sv": "Signalflaggan är blå med en vit fyrkant i mitten, och används i internationell signalkod som bokstaven P."
+    },
+    "funFact": {
+      "nb": "Programmet hadde premiere 16. oktober 1958 på BBC og regnes som verdens lengst sammenhengende barneprogram.",
+      "sv": "Programmet hade premiär den 16 oktober 1958 på BBC och räknas som världens längst sammanhängande barnprogram."
+    },
+    "source": "Wikipedia – Blue Peter"
+  }
+]

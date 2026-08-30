@@ -1,0 +1,710 @@
+[
+  {
+    "id": "havet-l-11",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "Organisasjonen ble stiftet i 1891 og har reddet liv langs norskekysten i over hundre år, med redningsskøyter og forebyggende sikkerhetsarbeid som kjerneoppgaver. Hvilken frivillige organisasjon er dette?",
+      "sv": "Organisationen grundades 1891 och har räddat liv längs norska kusten i över hundra år, med räddningsbåtar och förebyggande säkerhetsarbete som kärnuppgifter. Vilken frivillig organisation är detta?"
+    },
+    "answer": "Redningsselskapet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De kjennetegnes ved oransje redningsskøyter som patruljerer langs hele norskekysten.",
+      "sv": "De känns igen på orangea räddningsbåtar som patrullerar längs hela norska kusten."
+    },
+    "funFact": {
+      "nb": "Organisasjonen het opprinnelig Norsk Selskab til Skibbrudnes Redning, og driver i dag både redningsskøyter, hurtigbåter og forebyggende sikkerhetsarbeid langs kysten.",
+      "sv": "Organisationen hette ursprungligen Norsk Selskab til Skibbrudnes Redning och driver i dag både räddningsbåtar, snabbgående båtar och förebyggande säkerhetsarbete längs kusten."
+    },
+    "source": "Store norske leksikon – Redningsselskapet"
+  },
+  {
+    "id": "havet-l-12",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["dyr", "natur"],
+    "prompt": {
+      "nb": "Hver vinter vandrer torsk fra Barentshavet mot gyteplassene sine ved en øygruppe i Nord-Norge, en ferd som i århundrer har gitt grunnlag for kystbosetning langs hele Nordland. Hva heter dette tradisjonsrike sesongfisket?",
+      "sv": "Varje vinter vandrar torsk från Barents hav mot sina lekplatser vid en ögrupp i Nordnorge, en färd som i århundraden gett grund för kustbosättning längs hela Nordland. Vad heter detta traditionsrika säsongsfisket?"
+    },
+    "answer": "Lofotfisket",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fisket foregår fra januar til april, og den vandrende torsken kalles skrei.",
+      "sv": "Fisket sker från januari till april, och den vandrande torsken kallas skrei."
+    },
+    "funFact": {
+      "nb": "Skreien er den norsk-arktiske torskebestanden, som vokser opp i Barentshavet og søker til kysten for å gyte. Det er særlig fisket ved Lofoten og Vesterålen som er kjent.",
+      "sv": "Skrejen är det norsk-arktiska torskbeståndet, som växer upp i Barents hav och söker sig till kusten för att leka. Det är särskilt fisket vid Lofoten och Vesterålen som är känt."
+    },
+    "source": "Store norske leksikon – skrei"
+  },
+  {
+    "id": "havet-l-13",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["teknologi", "okonomi"],
+    "prompt": {
+      "nb": "25. oktober 1969 gjorde et amerikansk oljeselskap et funn i Nordsjøen som skulle bli starten på norsk oljeeventyr, og feltet var den gangen verdens største oljefunn til havs. Hva heter feltet?",
+      "sv": "Den 25 oktober 1969 gjorde ett amerikanskt oljebolag ett fynd i Nordsjön som skulle bli starten på det norska oljeäventyret, och fältet var då världens största oljefynd till havs. Vad heter fältet?"
+    },
+    "answer": "Ekofisk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet som gjorde funnet, drev feltet i flere tiår og het Phillips Petroleum.",
+      "sv": "Bolaget som gjorde fyndet drev fältet i flera decennier och hette Phillips Petroleum."
+    },
+    "funFact": {
+      "nb": "Produksjonen startet i 1971, og de teknologiske løsningene som ble utviklet for feltet – blant annet plattformer i betong – la grunnlaget for resten av norsk sokkel.",
+      "sv": "Produktionen startade 1971, och de tekniska lösningar som utvecklades för fältet – bland annat plattformar i betong – lade grunden för resten av den norska kontinentalsockeln."
+    },
+    "source": "Store norske leksikon – Ekofisk"
+  },
+  {
+    "id": "havet-l-14",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Dette farvannet skiller Norge fra Jylland og strekker seg mellom tre nordiske land, med et areal på rundt 32 000 kvadratkilometer. Navnet er satt sammen av et nordjysk stedsnavn og et gammelt ord for en rett vannrenne. Hva heter farvannet?",
+      "sv": "Detta farvatten skiljer Norge från Jylland och sträcker sig mellan tre nordiska länder, med en yta på omkring 32 000 kvadratkilometer. Namnet är sammansatt av ett nordjylländskt ortnamn och ett gammalt ord för en rak vattenränna. Vad heter farvattnet?"
+    },
+    "answer": "Skagerrak",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det dypeste punktet, nær Arendal, går ned mot 700 meter, og navnets første del er hentet fra tettstedet Skagen.",
+      "sv": "Den djupaste punkten, nära Arendal, går ner mot 700 meter, och namnets första del är hämtad från orten Skagen."
+    },
+    "funFact": {
+      "nb": "Andre delen av navnet, «rak», kommer fra nederlandsk og betyr en rett vannstrekning. Brakkvann fra Østersjøen strømmer ut i overflaten her, mens saltere vann strømmer inn i dypet.",
+      "sv": "Namnets andra del, «rak», kommer från nederländska och betyder en rak vattensträcka. Bräckt vatten från Östersjön strömmar ut i ytan här, medan saltare vatten strömmar in på djupet."
+    },
+    "source": "Store norske leksikon – Skagerrak"
+  },
+  {
+    "id": "havet-l-15",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Sundet skiller Sjælland fra Skåne, er 118 kilometer langt og har vekslende bredde ned til rundt 4 kilometer på det smaleste. En bro- og tunnelforbindelse mellom København og Malmö åpnet her i 2000. Hva heter sundet?",
+      "sv": "Sundet skiljer Själland från Skåne, är 118 kilometer långt och har varierande bredd ner till omkring 4 kilometer som smalast. En bro- och tunnelförbindelse mellan Köpenhamn och Malmö öppnade här år 2000. Vad heter sundet?"
+    },
+    "answer": {
+      "nb": "Øresund",
+      "sv": "Öresund"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På det bredeste er sundet nesten 30 kilometer, og forbindelsen kalles Øresundsbroen.",
+      "sv": "Som bredast är sundet nästan 30 kilometer, och förbindelsen kallas Öresundsbron."
+    },
+    "funFact": {
+      "nb": "Bro- og tunnelforbindelsen knytter sammen en storbyregion med nesten fire millioner innbyggere og har gjort daglig pendling mellom København og Malmö mulig.",
+      "sv": "Bro- och tunnelförbindelsen binder samman en storstadsregion med nästan fyra miljoner invånare och har gjort daglig pendling mellan Köpenhamn och Malmö möjlig."
+    },
+    "source": "Wikipedia – Öresund; Øresundsbro Konsortiet"
+  },
+  {
+    "id": "havet-l-16",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi", "natur"],
+    "prompt": {
+      "nb": "Øst for hovedstaden ligger et øyrike med over 24 000 øyer, holmer og skjær spredt over et område på rundt 1700 kvadratkilometer, og landet hever seg fortsatt etter siste istid. Hva kalles dette området?",
+      "sv": "Öster om huvudstaden ligger ett örike med över 24 000 öar, holmar och skär utspridda över ett område på omkring 1700 kvadratkilometer, och landet höjer sig fortfarande efter senaste istiden. Vad kallas detta område?"
+    },
+    "answer": {
+      "nb": "Stockholms skjærgård",
+      "sv": "Stockholms skärgård"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Området strekker seg fra Landsort i sør til Väddö i nord, og noen av de travleste innseilingene ligger ved Sandhamn.",
+      "sv": "Området sträcker sig från Landsort i söder till Väddö i norr, och några av de mest trafikerade infarterna ligger vid Sandhamn."
+    },
+    "funFact": {
+      "nb": "Landhevingen skjer med rundt tre millimeter i året, og skjærgården har både faste boliger og et stort antall fritidshus.",
+      "sv": "Landhöjningen sker med omkring tre millimeter om året, och skärgården har både fast bosättning och ett stort antal fritidshus."
+    },
+    "source": "Wikipedia – Stockholm archipelago"
+  },
+  {
+    "id": "havet-l-17",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["mat-og-drikke"],
+    "prompt": {
+      "nb": "Denne sterkt luktende, fermenterte Østersjøsilda har røtter tilbake til 1500-tallet og lages ved at fisken saltes og deretter modner i flere måneder før boksen bules ut av gassen inni. Hva heter denne svenske spesialiteten?",
+      "sv": "Denna starkt luktande, fermenterade Östersjösill har rötter tillbaka till 1500-talet och görs genom att fisken saltas och sedan mognar i flera månader innan burken buktar ut av gasen inuti. Vad heter denna svenska specialitet?"
+    },
+    "answer": "Surströmming",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den kommer tradisjonelt fra Norrland og spises gjerne utendørs med tunnbröd, potet og rødløk fra tredje torsdag i august.",
+      "sv": "Den kommer traditionellt från Norrland och äts gärna utomhus med tunnbröd, potatis och rödlök från tredje torsdagen i augusti."
+    },
+    "funFact": {
+      "nb": "Fermenteringen skjer takket være melkesyrebakterier og andre mikrober i fiskens ryggrad, og resultatet er en svovelholdig lukt. Et eget museum for retten åpnet i Skeppsmalen i 2005.",
+      "sv": "Fermenteringen sker tack vare mjölksyrabakterier och andra mikrober i fiskens ryggrad, och resultatet är en svavelhaltig lukt. Ett eget museum för rätten öppnade i Skeppsmalen 2005."
+    },
+    "source": "Wikipedia – Surströmming"
+  },
+  {
+    "id": "havet-l-18",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Denne øya i Østersjøen er Sveriges største og den største som ligger helt omgitt av dette innhavet, med et areal på nesten 3000 kvadratkilometer og Fårö som nærmeste nabo-øy. Hva heter øya?",
+      "sv": "Denna ö i Östersjön är Sveriges största och den största som ligger helt omgiven av detta innanhav, med en yta på nästan 3000 kvadratkilometer och Fårö som närmaste grannö. Vad heter ön?"
+    },
+    "answer": "Gotland",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øya ligger omtrent 90 kilometer øst for svenske fastlandet, og hovedstaden er Visby.",
+      "sv": "Ön ligger omkring 90 kilometer öster om svenska fastlandet, och huvudstaden är Visby."
+    },
+    "funFact": {
+      "nb": "Sjælland i Danmark er større i areal, men regnes som en del av kysten mot Østersjøen snarere enn en øy helt omsluttet av den – dermed beholder Gotland tittelen som størst.",
+      "sv": "Själland i Danmark är större till ytan, men räknas som en del av kusten mot Östersjön snarare än en ö helt omsluten av den – därmed behåller Gotland titeln som störst."
+    },
+    "source": "Wikipedia – Gotland"
+  },
+  {
+    "id": "havet-l-19",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["transport", "historie"],
+    "prompt": {
+      "nb": "Skipet fra White Star Line var på jomfruturen fra Southampton til New York da det traff et isfjell natt til 15. april 1912 og sank, med rundt 1500 omkomne. Hvilket skip er dette?",
+      "sv": "Fartyget från White Star Line var på sin jungfruresa från Southampton till New York när det träffade ett isberg natten till den 15 april 1912 och sjönk, med omkring 1500 omkomna. Vilket fartyg är detta?"
+    },
+    "answer": "Titanic",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skipet ble regnet som praktisk talt synkefritt, og vraket ble først funnet i 1985.",
+      "sv": "Fartyget ansågs praktiskt taget osänkbart, och vraket hittades först 1985."
+    },
+    "funFact": {
+      "nb": "Rundt 705 personer overlevde forliset. Skipet hadde for få livbåter til alle om bord, noe som førte til strengere internasjonale sikkerhetsregler for passasjerskip i årene etterpå.",
+      "sv": "Omkring 705 personer överlevde förlisningen. Fartyget hade för få livbåtar till alla ombord, vilket ledde till strängare internationella säkerhetsregler för passagerarfartyg åren därefter."
+    },
+    "source": "Encyclopædia Britannica – Titanic"
+  },
+  {
+    "id": "havet-l-20",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["transport", "geografi"],
+    "prompt": {
+      "nb": "I 1492 satte en genuesisk sjøfarer i spansk tjeneste kursen vestover over Atlanterhavet med tre skip, i håp om å finne en ny sjøvei til Asia, men landet i stedet i Karibia. Hvem var han?",
+      "sv": "År 1492 satte en genuesisk sjöfarare i spansk tjänst kursen västerut över Atlanten med tre skepp, i hopp om att hitta en ny sjöväg till Asien, men han landade i stället i Karibien. Vem var han?"
+    },
+    "answer": {
+      "nb": "Christopher Columbus",
+      "sv": "Christofer Columbus"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": {
+        "nb": "Christopher",
+        "sv": "Christofer"
+      },
+      "family": "Columbus"
+    },
+    "hint": {
+      "nb": "De tre skipene het Niña, Pinta og Santa María.",
+      "sv": "De tre skeppen hette Niña, Pinta och Santa María."
+    },
+    "funFact": {
+      "nb": "Han trodde han hadde nådd Asia, og kalte derfor øyboerne for «indianere». Han foretok totalt fire reiser over Atlanteren, men nådde aldri selve det nordamerikanske fastlandet.",
+      "sv": "Han trodde att han hade nått Asien och kallade därför öborna för «indianer». Han företog totalt fyra resor över Atlanten, men nådde aldrig själva den nordamerikanska fastlandskusten."
+    },
+    "source": "Encyclopædia Britannica – Christopher Columbus"
+  },
+  {
+    "id": "havet-m-11",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["teknologi", "historie"],
+    "prompt": {
+      "nb": "27. mars 1980 kantret en boligplattform i Ekofisk-feltet etter at et bein brakk løs, og 123 av 212 om bord omkom. Plattformen fungerte som «flotell» for oljearbeidere. Hva het den, oppkalt etter en norsk forfatter?",
+      "sv": "Den 27 mars 1980 kantrade en boendeplattform i Ekofiskfältet efter att ett ben lossnade, och 123 av 212 ombord omkom. Plattformen fungerade som «flotell» för oljearbetare. Vad hette den, uppkallad efter en norsk författare?"
+    },
+    "answer": "Alexander L. Kielland",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Årsaken var en utmattingssprekk i en avstivning, som startet i en dårlig sveis rundt et sonarfeste.",
+      "sv": "Orsaken var en utmattningsspricka i en avstyvning, som började i en dålig svets kring ett sonarfäste."
+    },
+    "funFact": {
+      "nb": "Ulykken er en av de største i norsk oljehistorie og førte til strenge nye krav til konstruksjon og sikkerhet på plattformer i Nordsjøen.",
+      "sv": "Olyckan är en av de största i norsk oljehistoria och ledde till stränga nya krav på konstruktion och säkerhet för plattformar i Nordsjön."
+    },
+    "source": "Wikipedia – Alexander L. Kielland (platform)"
+  },
+  {
+    "id": "havet-m-12",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["litteratur"],
+    "prompt": {
+      "nb": "I dette skuespillet fra 1888 er hovedpersonen datter av en fyrvokter og gift med en distriktslege i en norsk fjordby, men lengter mot havet og en sjømann fra fortiden hun en gang lovet seg bort til. Hva heter stykket?",
+      "sv": "I detta skådespel från 1888 är huvudpersonen dotter till en fyrvaktare och gift med en distriktsläkare i en norsk fjordstad, men längtar mot havet och en sjöman från det förflutna som hon en gång lovat sig åt. Vad heter pjäsen?"
+    },
+    "answer": {
+      "nb": "Fruen fra havet",
+      "sv": "Kvinnan från havet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forfatteren skrev også «Et dukkehjem» og «Vildanden», og hovedpersonen heter Ellida.",
+      "sv": "Författaren skrev också «Ett dockhem» och «Vildanden», och huvudpersonen heter Ellida."
+    },
+    "funFact": {
+      "nb": "Stykket hadde urpremiere samtidig i Kristiania og Weimar i februar 1889, og er senere blitt til både film og ballett.",
+      "sv": "Pjäsen hade urpremiär samtidigt i Kristiania och Weimar i februari 1889, och har senare blivit både film och balett."
+    },
+    "source": "Store norske leksikon – Fruen fra havet"
+  },
+  {
+    "id": "havet-m-13",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["militaerhistorie"],
+    "prompt": {
+      "nb": "10. og 13. april 1940 møttes britiske og tyske jagere i fjordene rundt en nordnorsk by, og etter det andre slaget lå samtlige tyske jagere senket. Nederlaget svekket den tyske marinen resten av krigen. Hva kalles disse slagene?",
+      "sv": "Den 10 och 13 april 1940 möttes brittiska och tyska jagare i fjordarna kring en nordnorsk stad, och efter det andra slaget låg samtliga tyska jagare sänkta. Nederlaget försvagade den tyska flottan resten av kriget. Vad kallas dessa slag?"
+    },
+    "answer": {
+      "nb": "Slagene om Narvik",
+      "sv": "Slagen om Narvik"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger innerst i Ofotfjorden og var viktig på grunn av jernmalmseksporten fra Sverige.",
+      "sv": "Staden ligger innerst i Ofotfjorden och var viktig på grund av järnmalmsexporten från Sverige."
+    },
+    "funFact": {
+      "nb": "De overlevende tyske sjøfolkene ble senere satt inn som infanteri på land. Britene mistet ingen skip i det andre slaget, men fikk selv betydelige skader.",
+      "sv": "De överlevande tyska sjömännen sattes senare in som infanteri på land. Britterna förlorade inga fartyg i det andra slaget, men fick själva betydande skador."
+    },
+    "source": "Store norske leksikon – slaget om Narvik"
+  },
+  {
+    "id": "havet-m-14",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["teknologi"],
+    "prompt": {
+      "nb": "Roald Amundsen lot bygge dette polarskipet i Vollen i 1917 for å drive med isen tvers over Polhavet, slik Nansen hadde forsøkt med et annet skip tjue år tidligere. Ferden varte fra 1918 til 1925. Hva het skipet, oppkalt etter dronningen?",
+      "sv": "Roald Amundsen lät bygga detta polarskepp i Vollen 1917 för att driva med isen tvärs över Norra ishavet, precis som Nansen försökt med ett annat skepp tjugo år tidigare. Färden varade från 1918 till 1925. Vad hette skeppet, uppkallat efter drottningen?"
+    },
+    "answer": "Maud",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skuta ble senere liggende i Canada i flere tiår, men ble hevet og tauet hjem til Norge i 2018.",
+      "sv": "Skutan blev senare liggande i Kanada i flera decennier, men bärgades och bogserades hem till Norge 2018."
+    },
+    "funFact": {
+      "nb": "Skipet sank ved Cambridge Bay i 1930, ble hevet i 2016 av det norske selskapet Tandberg Eiendom, og ankom Vollen i august 2018 – nesten hundre år etter avreisen.",
+      "sv": "Skeppet sjönk vid Cambridge Bay 1930, bärgades 2016 av det norska bolaget Tandberg Eiendom, och anlände till Vollen i augusti 2018 – nästan hundra år efter avfärden."
+    },
+    "source": "Wikipedia – Maud (ship); Frammuseet"
+  },
+  {
+    "id": "havet-m-15",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "Natt til 28. september 1994 sank en bilferje på vei fra Tallinn til Stockholm etter at baugporten løsnet, i det som ble en av Europas verste fredstidsulykker til sjøs med over 850 omkomne. Hva het ferjen?",
+      "sv": "Natten till den 28 september 1994 sjönk en bilfärja på väg från Tallinn till Stockholm efter att bogvisiret lossnat, i vad som blev en av Europas värsta fredstida olyckor till sjöss med över 850 omkomna. Vad hette färjan?"
+    },
+    "answer": "MS Estonia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skipet var opprinnelig bygget i 1980 under et annet navn og trafikkerte ruten mellom estiske og svenske havner.",
+      "sv": "Fartyget byggdes ursprungligen 1980 under ett annat namn och trafikerade rutten mellan estniska och svenska hamnar."
+    },
+    "funFact": {
+      "nb": "Bare 137 av 989 om bord ble reddet. Ulykken førte til strengere internasjonale krav til baugporter og evakueringsrutiner på ferjer.",
+      "sv": "Endast 137 av 989 ombord räddades. Olyckan ledde till strängare internationella krav på bogvisir och evakueringsrutiner på färjor."
+    },
+    "source": "Wikipedia – MS Estonia"
+  },
+  {
+    "id": "havet-m-16",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["historie", "transport"],
+    "prompt": {
+      "nb": "I desember 1637 seilte et svensk skip fra Göteborg og nådde Delaware-elven i Nord-Amerika i mars 1638, der mannskapet grunnla kolonien Nya Sverige ved det som ble Fort Christina. Hva het skipet?",
+      "sv": "I december 1637 seglade ett svenskt skepp från Göteborg och nådde Delawarefloden i Nordamerika i mars 1638, där besättningen grundade kolonin Nya Sverige vid det som blev Fort Christina. Vad hette skeppet?"
+    },
+    "answer": "Kalmar Nyckel",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fortet lå der byen Wilmington ligger i dag, og ekspedisjonen ble ledet av Peter Minuit.",
+      "sv": "Fortet låg där staden Wilmington ligger i dag, och expeditionen leddes av Peter Minuit."
+    },
+    "funFact": {
+      "nb": "Nya Sverige besto i sytten år før nederlenderne tok over kolonien i 1655. Peter Minuit hadde tidligere vært guvernør i den nederlandske kolonien New Netherland.",
+      "sv": "Nya Sverige bestod i sjutton år innan nederländarna tog över kolonin 1655. Peter Minuit hade tidigare varit guvernör i den nederländska kolonin New Netherland."
+    },
+    "source": "Wikipedia – Kalmar Nyckel; New Sweden"
+  },
+  {
+    "id": "havet-m-17",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["geografi", "natur"],
+    "prompt": {
+      "nb": "Langs Bottenhavet i Ångermanland har landet steget rundt 285 meter siden siste istid – den kraftigste landhevingen som er påvist noe sted på jorden. Området ble Unesco-verdensarv i 2000. Hva kalles denne kyststrekningen?",
+      "sv": "Längs Bottenhavet i Ångermanland har landet höjt sig omkring 285 meter sedan senaste istiden – den kraftigaste landhöjningen som påvisats någonstans på jorden. Området blev Unesco-världsarv år 2000. Vad kallas denna kuststräcka?"
+    },
+    "answer": "Höga Kusten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet fortsetter å heve seg med rundt åtte millimeter i året, og verdensarvstedet ble senere utvidet med Kvarken skjærgård i Finland.",
+      "sv": "Landet fortsätter att höja sig med omkring åtta millimeter om året, och världsarvsplatsen utvidgades senare med Kvarkens skärgård i Finland."
+    },
+    "funFact": {
+      "nb": "Kommunene Kramfors, Härnösand og Örnsköldsvik ligger i området, som strekker seg fra Höga Kusten-broen i sør til Skagsudde i nord.",
+      "sv": "Kommunerna Kramfors, Härnösand och Örnsköldsvik ligger i området, som sträcker sig från Höga Kusten-bron i söder till Skagsudde i norr."
+    },
+    "source": "Wikipedia – High Coast/Kvarken Archipelago (UNESCO)"
+  },
+  {
+    "id": "havet-m-18",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "Mellom 1747 og 1809 svømte enorme mengder sild inn mot Bohuskysten, og fiskevær vokste fram overalt mens tranutvinning fra fisken ga arbeid og inntekt. Skogen ble hardt beskattet til hus, båter og brensel til kokeriene. Hva kalles denne perioden i svensk historie?",
+      "sv": "Mellan 1747 och 1809 svämmade enorma mängder sill in mot Bohuskusten, och fiskelägen växte fram överallt medan tranutvinning ur fisken gav arbete och inkomst. Skogen beskattades hårt till hus, båtar och bränsle till kokerierna. Vad kallas denna period i svensk historia?"
+    },
+    "answer": {
+      "nb": "Sildeperioden",
+      "sv": "Sillperioden"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fenomenet gjentok seg flere ganger opp gjennom historien, men denne bestemte perioden på 1700-tallet er den mest kjente.",
+      "sv": "Fenomenet upprepade sig flera gånger genom historien, men just denna period på 1700-talet är den mest kända."
+    },
+    "funFact": {
+      "nb": "Tranet fra kokeriene ble blant annet brukt til lampeolje og garving. Da silda plutselig uteble etter 1809, rammet det hardt de kystsamfunnene som hadde vokst opp rundt fisket.",
+      "sv": "Tranet från kokerierna användes bland annat till lampolja och garvning. När sillen plötsligt uteblev efter 1809 drabbade det hårt de kustsamhällen som vuxit upp kring fisket."
+    },
+    "source": "Wikipedia – Bohuslän (herring fishing history)"
+  },
+  {
+    "id": "havet-m-19",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["natur", "vitenskap"],
+    "prompt": {
+      "nb": "Når havet blir for varmt, kan koraller kvitte seg med algene som lever inni vevet deres og gir dem farge og mesteparten av maten. Korallene blir da helt hvite, og dør hvis varmen varer for lenge. Hva kalles dette fenomenet?",
+      "sv": "När havet blir för varmt kan koraller göra sig av med algerna som lever inuti deras vävnad och ger dem färg och det mesta av maten. Korallerna blir då helt vita, och dör om värmen varar för länge. Vad kallas detta fenomen?"
+    },
+    "answer": {
+      "nb": "Korallbleking",
+      "sv": "Korallblekning"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Algene heter zooxanthellae, og uten dem mister korallen både farge og næring.",
+      "sv": "Algerna heter zooxanthellae, och utan dem förlorar korallen både färg och näring."
+    },
+    "funFact": {
+      "nb": "NOAA regner økt havtemperatur som den viktigste årsaken til fenomenet i dag. Mild bleking kan gå tilbake, men langvarig varme dreper korallen.",
+      "sv": "NOAA räknar ökad havstemperatur som den viktigaste orsaken till fenomenet i dag. Mild blekning kan gå tillbaka, men långvarig värme dödar korallen."
+    },
+    "source": "NOAA Ocean Service – Coral Bleaching"
+  },
+  {
+    "id": "havet-m-20",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["teknologi"],
+    "prompt": {
+      "nb": "I 1513 tegnet en osmansk admiral et verdenskart som delvis bygde på en tapt kartskisse av en italiensk oppdagelsesreisende, med en kyststrek som gjenspeiler troen på at Karibia lå ved Asia. Kartet ligger i Topkapı-palasset i Istanbul. Hva kalles kartet?",
+      "sv": "År 1513 ritade en osmansk amiral en världskarta som delvis byggde på en förlorad kartskiss av en italiensk upptäcktsresande, med en kustlinje som speglar tron att Karibien låg vid Asien. Kartan finns på Topkapıpalatset i Istanbul. Vad kallas kartan?"
+    },
+    "answer": {
+      "nb": "Piri Reis-kartet",
+      "sv": "Piri Reis-kartan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bare omtrent en tredjedel av det opprinnelige kartet er bevart, tegnet på gaselleskinn.",
+      "sv": "Endast omkring en tredjedel av den ursprungliga kartan är bevarad, ritad på gasellskinn."
+    },
+    "funFact": {
+      "nb": "Den italienske oppdagelsesreisende var etter alt å dømme Christofer Columbus selv, hvis egen kartskisse i dag er tapt. Det bevarte fragmentet dekker Atlanterhavet med kystene av Europa, Afrika og Sør-Amerika.",
+      "sv": "Den italienske upptäcktsresanden var med all sannolikhet Christofer Columbus själv, vars egen kartskiss i dag är förlorad. Det bevarade fragmentet täcker Atlanten med kusterna av Europa, Afrika och Sydamerika."
+    },
+    "source": "Wikipedia – Piri Reis map; Topkapı Palace Museum"
+  },
+  {
+    "id": "havet-v-11",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["teknologi", "historie"],
+    "prompt": {
+      "nb": "Skipet ble bygget i Geestemünde i Tyskland i 1914 som skoleskip for den tyske handelsflåten, under et helt annet navn. Etter første verdenskrig kjøpte en tidligere norsk statsråd det og ga det sitt eget navn. Hva het skipet, som fortsatt seiler fra Bergen?",
+      "sv": "Skeppet byggdes i Geestemünde i Tyskland 1914 som skolskepp för den tyska handelsflottan, under ett helt annat namn. Efter första världskriget köpte en tidigare norsk statsråd det och gav det sitt eget namn. Vad hette skeppet, som fortfarande seglar från Bergen?"
+    },
+    "answer": "Statsraad Lehmkuhl",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det opprinnelige navnet var Grossherzog Friedrich August, og statsråden het Kristofer Lehmkuhl.",
+      "sv": "Det ursprungliga namnet var Grossherzog Friedrich August, och statsrådet hette Kristofer Lehmkuhl."
+    },
+    "funFact": {
+      "nb": "Skipet ble kjøpt i 1921 og fungerer i dag både som skoleskip for Sjøforsvaret og som forskningsfartøy, i tillegg til å delta i seilskutekappløp.",
+      "sv": "Skeppet köptes 1921 och fungerar i dag både som skolskepp för sjöförsvaret och som forskningsfartyg, samt deltar i segelfartygskappsegling."
+    },
+    "source": "Wikipedia – Statsraad Lehmkuhl"
+  },
+  {
+    "id": "havet-v-12",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["militaerhistorie"],
+    "prompt": {
+      "nb": "9. april 1940 åpnet en gammel festning i Oslofjorden ild mot en tysk tungkrysser på svært kort hold, og senket den med granater og torpedoer. Forsinkelsen dette skapte, ga kongefamilie og regjering tid til å flykte fra Oslo. Hvilket skip ble senket?",
+      "sv": "Den 9 april 1940 öppnade en gammal fästning i Oslofjorden eld mot en tysk tung kryssare på mycket kort håll och sänkte den med granater och torpeder. Fördröjningen detta skapade gav kungafamilj och regering tid att fly från Oslo. Vilket fartyg sänktes?"
+    },
+    "answer": "Blücher",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Festningen heter Oscarsborg, og ligger ved Drøbaksundet.",
+      "sv": "Fästningen heter Oscarsborg och ligger vid Drøbaksundet."
+    },
+    "funFact": {
+      "nb": "Festningens 28 cm kanoner avfyrte de første skuddene klokken 04.21, og to torpedoer fra et skjult torpedobatteri fullførte jobben tretten minutter senere.",
+      "sv": "Fästningens 28 cm kanoner avfyrade de första skotten klockan 04.21, och två torpeder från ett dolt torpedbatteri fullbordade jobbet tretton minuter senare."
+    },
+    "source": "Wikipedia – German cruiser Blücher"
+  },
+  {
+    "id": "havet-v-13",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["mytologi"],
+    "prompt": {
+      "nb": "I sitt tobindsverk om Norges naturlige historie fra 1752–53 forsvarte denne biskopen av Bergen at sjøormen, havfruen og et enormt sjøuhyre virkelig fantes, og beskrev uhyret som kunne ligne et skjær før det dro båter ned i dypet. Hvem var biskopen?",
+      "sv": "I sitt tvådelade verk om Norges naturliga historia från 1752–53 hävdade denna biskop av Bergen att sjöormen, sjöjungfrun och ett enormt sjöodjur verkligen fanns, och beskrev odjuret som kunde likna ett skär innan det drog båtar ner i djupet. Vem var biskopen?"
+    },
+    "answer": "Erik Pontoppidan",
+    "answerKind": "person",
+    "person": {
+      "given": "Erik",
+      "family": "Pontoppidan"
+    },
+    "hint": {
+      "nb": "Uhyret han beskrev er senere blitt kjent som kraken, og skal ifølge ham ha hatt mastehøye armer.",
+      "sv": "Odjuret han beskrev är senare känt som kraken, och ska enligt honom ha haft masthöga armar."
+    },
+    "funFact": {
+      "nb": "Herman Melville viser til «den store kraken til biskop Pontoppidan» i romanen Moby-Dick. Skikkelsen har røtter enda lenger tilbake, til havguva i Kongespeilet fra middelalderen.",
+      "sv": "Herman Melville hänvisar till «den store kraken hos biskop Pontoppidan» i romanen Moby Dick. Gestalten har rötter ännu längre tillbaka, till havguva i Kongespegelen från medeltiden."
+    },
+    "source": "Wikipedia – Erik Pontoppidan; Store norske leksikon – kraken"
+  },
+  {
+    "id": "havet-v-14",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["okonomi", "mat-og-drikke"],
+    "prompt": {
+      "nb": "I 1691 fikk en kjøpmann i Fosna kongelig enerett på å produsere og eksportere en saltet og tørket fiskevare, en metode som krevde saltmengder som først ble rimelige utover 1700-tallet. Byen ble senere selve navet i denne norske eksportnæringen. Hva heter fiskevaren?",
+      "sv": "År 1691 fick en köpman i Fosna kunglig ensamrätt att producera och exportera en saltad och torkad fiskvara, en metod som krävde saltmängder som först blev överkomliga under 1700-talet. Staden blev senare själva navet i denna norska exportnäring. Vad heter fiskvaran?"
+    },
+    "answer": "Klippfisk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen het opprinnelig Fosna og heter i dag Kristiansund, og fisken tørkes gjerne i oppvarmede tørkehus.",
+      "sv": "Staden hette ursprungligen Fosna och heter i dag Kristiansund, och fisken torkas gärna i uppvärmda torkhus."
+    },
+    "funFact": {
+      "nb": "Kjøpmannen het Jappe Ippes. Katolske land, der fisk var påbudt i fasten, ble de viktigste eksportmarkedene for varen i århundrene som fulgte.",
+      "sv": "Köpmannen hette Jappe Ippes. Katolska länder, där fisk var påbjudet under fastan, blev de viktigaste exportmarknaderna för varan under de århundraden som följde."
+    },
+    "source": "Store norske leksikon – klippfisk"
+  },
+  {
+    "id": "havet-v-15",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["militaerhistorie"],
+    "prompt": {
+      "nb": "27. oktober 1981 gikk en sovjetisk ubåt på grunn bare noen kilometer fra en svensk marinebase i Blekinge skjærgård, med atomvåpen om bord ifølge svenske undersøkelser. Ubåten lå fast i nesten ti dager før den ble slept ut i internasjonalt farvann. Hvilket kallenavn fikk hendelsen i pressen?",
+      "sv": "Den 27 oktober 1981 gick en sovjetisk ubåt på grund bara några kilometer från en svensk marinbas i Blekinge skärgård, med kärnvapen ombord enligt svenska undersökningar. Ubåten låg fast i nästan tio dagar innan den bogserades ut i internationellt vatten. Vilket smeknamn fick händelsen i pressen?"
+    },
+    "answer": "Whiskey on the rocks",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet spiller både på ubåtklassen NATO kalte «Whiskey» og på at den lå på grunn.",
+      "sv": "Namnet anspelar både på ubåtsklassen NATO kallade «Whiskey» och på att den låg på grund."
+    },
+    "funFact": {
+      "nb": "Marinebasen lå i Karlskrona, og statsministeren skal ha beordret «Håll gränsen» da flere sovjetiske fartøy nærmet seg for å hente ubåten.",
+      "sv": "Marinbasen låg i Karlskrona, och statsministern ska ha beordrat «Håll gränsen» när flera sovjetiska fartyg närmade sig för att hämta ubåten."
+    },
+    "source": "Wikipedia – Whiskey on the rocks (submarine incident)"
+  },
+  {
+    "id": "havet-v-16",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["militaerhistorie", "historie"],
+    "prompt": {
+      "nb": "1. juni 1676 eksploderte krutlageret på et svensk slagskip midt i et sjøslag ved Öland, og over 800 av mannskapet omkom da skipet sank. Samme mann som fant vraket i 1980, hadde 24 år tidligere også funnet Vasa. Hvem var han?",
+      "sv": "Den 1 juni 1676 exploderade krutförrådet på ett svenskt slagskepp mitt i ett sjöslag vid Öland, och över 800 av besättningen omkom när skeppet sjönk. Samma man som hittade vraket 1980 hade 24 år tidigare även hittat Vasa. Vem var han?"
+    },
+    "answer": "Anders Franzén",
+    "answerKind": "person",
+    "person": {
+      "given": "Anders",
+      "family": "Franzén"
+    },
+    "hint": {
+      "nb": "Skipet het Kronan, og var et av datidens største krigsskip.",
+      "sv": "Skeppet hette Kronan, och var ett av tidens största krigsskepp."
+    },
+    "funFact": {
+      "nb": "Skipet gjorde en for bratt sving under for mye seil og kantret, slik at vann fosset inn gjennom kanonportene før eksplosjonen. Blant de omkomne var admiral Lorentz Creutz.",
+      "sv": "Skeppet gjorde en för skarp sväng under för mycket segel och kantrade, så att vatten forsade in genom kanonportarna före explosionen. Bland de omkomna fanns amiral Lorentz Creutz."
+    },
+    "source": "Wikipedia – Swedish ship Kronan"
+  },
+  {
+    "id": "havet-v-17",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["natur", "vitenskap"],
+    "prompt": {
+      "nb": "Overgjødsling fra jordbruk, kloakk og industri har fått de oksygenfrie sonene på bunnen av dette innhavet til å vokse fra rundt 5000 til over 60 000 kvadratkilometer. Området overvåkes av samarbeidsorganisasjonen Helcom. Hva kalles disse oksygenfrie bunnområdene?",
+      "sv": "Övergödning från jordbruk, avlopp och industri har fått de syrefria zonerna på bottnen av detta innanhav att växa från omkring 5000 till över 60 000 kvadratkilometer. Området övervakas av samarbetsorganisationen Helcom. Vad kallas dessa syrefria bottenområden?"
+    },
+    "answer": {
+      "nb": "Døde bunner",
+      "sv": "Döda bottnar"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fenomenet oppstår når nedbrytning av alger forbruker alt oksygenet nær bunnen, slik at bunndyr ikke kan overleve der.",
+      "sv": "Fenomenet uppstår när nedbrytning av alger förbrukar allt syre nära botten, så att bottendjur inte kan överleva där."
+    },
+    "funFact": {
+      "nb": "Østersjøens begrensede vannutskiftning gjennom de danske sundene gjør havet spesielt sårbart for denne typen oksygensvinn.",
+      "sv": "Östersjöns begränsade vattenutbyte genom de danska sunden gör havet särskilt sårbart för denna typ av syrebrist."
+    },
+    "source": "Wikipedia – Dead zone (ecology); HELCOM"
+  },
+  {
+    "id": "havet-v-18",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie", "transport"],
+    "prompt": {
+      "nb": "Fra 1915 fraktet dette Göteborg-baserte rederiet svenske utvandrere over Atlanteren til New York, med skip som «Kungsholm» og «Gripsholm». Passasjertrafikken opphørte i 1975 etter konkurranse fra flyet. Hva het rederiet?",
+      "sv": "Från 1915 fraktade denna Göteborgsbaserade rederi svenska utvandrare över Atlanten till New York, med skepp som «Kungsholm» och «Gripsholm». Passagerartrafiken upphörde 1975 efter konkurrens från flyget. Vad hette rederiet?"
+    },
+    "answer": "Svenska Amerika Linien",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet ble stiftet i 1914 under et annet navn, og «Gripsholm» var den første dieseldrevne linjebåten over Atlanteren.",
+      "sv": "Bolaget grundades 1914 under ett annat namn, och «Gripsholm» var det första dieseldrivna linjefartyget över Atlanten."
+    },
+    "funFact": {
+      "nb": "Opprinnelig het rederiet Rederiaktiebolaget Sverige-Nordamerika, og skipstrafikken var i starten særlig innrettet mot utvandrere som reiste på tredje klasse.",
+      "sv": "Ursprungligen hette rederiet Rederiaktiebolaget Sverige-Nordamerika, och fartygstrafiken var till en början särskilt inriktad på utvandrare som reste i tredje klass."
+    },
+    "source": "Wikipedia – Swedish American Line"
+  },
+  {
+    "id": "havet-v-19",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["militaerhistorie"],
+    "prompt": {
+      "nb": "31. mai til 1. juni 1916 møttes den britiske og den tyske hovedflåten i et slag i Skagerrak – det største sjøslaget under første verdenskrig og det siste store oppgjøret mellom slagskip i historien. Hva kalles slaget?",
+      "sv": "Den 31 maj till 1 juni 1916 möttes den brittiska och den tyska huvudflottan i ett slag vid Skagerrak – det största sjöslaget under första världskriget och den sista stora uppgörelsen mellan slagskepp i historien. Vad kallas slaget?"
+    },
+    "answer": {
+      "nb": "Jyllandsslaget",
+      "sv": "Slaget vid Jylland"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tyskerne kaller slaget Skagerrakschlacht, og den tyske admiralen het Reinhard Scheer.",
+      "sv": "Tyskarna kallar slaget Skagerrakschlacht, och den tyska amiralen hette Reinhard Scheer."
+    },
+    "funFact": {
+      "nb": "Tyskerne senket flere skip og drepte flere sjøfolk enn britene, men den tyske flåten dro seg tilbake til havn og våget seg aldri ut i et nytt stort sjøslag resten av krigen.",
+      "sv": "Tyskarna sänkte fler fartyg och dödade fler sjömän än britterna, men den tyska flottan drog sig tillbaka till hamn och vågade sig aldrig ut i ett nytt stort sjöslag under resten av kriget."
+    },
+    "source": "Store norske leksikon – Jyllandsslaget; Encyclopædia Britannica – Battle of Jutland"
+  },
+  {
+    "id": "havet-v-20",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["politikk", "okonomi"],
+    "prompt": {
+      "nb": "FN-konvensjonen som ble undertegnet i Montego Bay i 1982 og trådte i kraft i 1994, fastsetter at kyststater har territorialfarvann ut til 12 nautiske mil og en økonomisk sone ut til 200 nautiske mil. Hva kalles konvensjonen på norsk?",
+      "sv": "FN-konventionen som undertecknades i Montego Bay 1982 och trädde i kraft 1994 fastställer att kuststater har territorialvatten ut till 12 nautiska mil och en ekonomisk zon ut till 200 nautiska mil. Vad kallas konventionen på svenska?"
+    },
+    "answer": {
+      "nb": "Havrettskonvensjonen",
+      "sv": "Havsrättskonventionen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortelsen på engelsk er UNCLOS, og konvensjonen har over 320 artikler.",
+      "sv": "Förkortningen på engelska är UNCLOS, och konventionen har över 320 artiklar."
+    },
+    "funFact": {
+      "nb": "Det tok over fjorten års forhandlinger mellom mer enn 150 land å bli enige om teksten, som blant annet også regulerer kontinentalsokkelen og havbunnen utenfor statenes jurisdiksjon.",
+      "sv": "Det tog över fjorton års förhandlingar mellan fler än 150 länder att enas om texten, som bland annat också reglerar kontinentalsockeln och havsbottnen utanför staternas jurisdiktion."
+    },
+    "source": "United Nations – UN Convention on the Law of the Sea (UNCLOS), 1982"
+  }
+]
