@@ -1,0 +1,114 @@
+/* ============================================================================
+   Theme Quiz – designtokens
+   Palett: hotpink som signalfarge, mørkeblå som lerret, hvit som tekst.
+   Alle farger er definert her, ingen andre steder.
+   ========================================================================= */
+
+:root {
+  /* -- Hotpink -------------------------------------------------------- */
+  --pink-100: #ffe3f1;
+  --pink-200: #ffc2df;
+  --pink-300: #ff8ac2;
+  --pink-400: #ff5fa8;
+  --pink-500: #ff2d8e; /* primær */
+  --pink-600: #e0157a;
+  --pink-700: #b30c5f;
+
+  /* -- Mørkeblå ------------------------------------------------------- */
+  --navy-950: #05081e;
+  --navy-900: #080d2b;
+  --navy-850: #0c1338;
+  --navy-800: #111a49;
+  --navy-700: #1a265f;
+  --navy-600: #26357c;
+  --navy-500: #3a4aa0;
+
+  /* -- Nøytrale ------------------------------------------------------- */
+  --white: #ffffff;
+  --mist-100: #f7f3fa;
+  --mist-200: #e6dcee;
+  --mist-300: #c3b6d2;
+  --mist-400: #9a8cae;
+
+  /* -- Støttefarger --------------------------------------------------- */
+  --violet-500: #8e44d8;
+  --cyan-400: #3ad6e0;
+  --amber-400: #ffc94d;
+
+  /* -- Semantiske ----------------------------------------------------- */
+  --ok-500: #2fd89b;
+  --ok-bg: rgba(47, 216, 155, 0.14);
+  --bad-500: #ff8a3d;
+  --bad-bg: rgba(255, 138, 61, 0.14);
+  --hint-500: var(--amber-400);
+
+  /* -- Diagramserier ---------------------------------------------------
+     Validert mot mørk flate #080D2B med dataviz-validatoren:
+     lyshetsbånd, kromafloor, CVD-separasjon (ΔE 13.5 protan) og kontrast. */
+  --chart-1: #ff2d8e; /* deg */
+  --chart-2: #3d86e0; /* venn */
+  --chart-grid: rgba(255, 255, 255, 0.09);
+
+  /* -- Semantiske flater ---------------------------------------------- */
+  --bg: var(--navy-950);
+  --bg-elevated: rgba(255, 255, 255, 0.045);
+  --bg-elevated-strong: rgba(255, 255, 255, 0.075);
+  --border: rgba(255, 255, 255, 0.1);
+  --border-strong: rgba(255, 255, 255, 0.18);
+  --border-pink: rgba(255, 45, 142, 0.45);
+
+  --text: var(--white);
+  --text-muted: var(--mist-300);
+  --text-faint: var(--mist-400);
+
+  /* -- Gradienter ------------------------------------------------------ */
+  --grad-primary: linear-gradient(135deg, #ff2d8e 0%, #ff5fa8 45%, #8e44d8 100%);
+  --grad-primary-soft: linear-gradient(135deg, rgba(255, 45, 142, 0.22), rgba(142, 68, 216, 0.22));
+  --grad-hero: radial-gradient(120% 90% at 12% 0%, rgba(255, 45, 142, 0.55) 0%, rgba(255, 45, 142, 0) 55%),
+    radial-gradient(100% 80% at 92% 8%, rgba(142, 68, 216, 0.5) 0%, rgba(142, 68, 216, 0) 60%),
+    radial-gradient(120% 120% at 50% 120%, rgba(58, 214, 224, 0.22) 0%, rgba(58, 214, 224, 0) 55%);
+  --grad-text: linear-gradient(100deg, #ffffff 0%, #ffc2df 40%, #ff5fa8 90%);
+
+  /* -- Typografi ------------------------------------------------------- */
+  --font-display: 'Outfit', 'Segoe UI', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --step--1: clamp(0.78rem, 0.76rem + 0.1vw, 0.84rem);
+  --step-0: clamp(0.95rem, 0.92rem + 0.15vw, 1.02rem);
+  --step-1: clamp(1.1rem, 1.04rem + 0.3vw, 1.28rem);
+  --step-2: clamp(1.35rem, 1.24rem + 0.55vw, 1.7rem);
+  --step-3: clamp(1.75rem, 1.5rem + 1.2vw, 2.6rem);
+  --step-4: clamp(2.3rem, 1.8rem + 2.4vw, 4rem);
+
+  /* -- Form ------------------------------------------------------------ */
+  --r-sm: 10px;
+  --r-md: 16px;
+  --r-lg: 22px;
+  --r-xl: 30px;
+  --r-pill: 999px;
+
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --sp-8: 72px;
+
+  --shadow-sm: 0 1px 2px rgba(3, 6, 20, 0.5);
+  --shadow-md: 0 12px 32px -12px rgba(3, 6, 20, 0.85);
+  --shadow-lg: 0 32px 70px -28px rgba(3, 6, 20, 0.95);
+  --shadow-pink: 0 14px 40px -14px rgba(255, 45, 142, 0.65);
+
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur: 220ms;
+
+  --maxw: 940px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur: 1ms;
+  }
+}

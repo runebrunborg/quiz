@@ -1,0 +1,839 @@
+[
+  {
+    "id": "nobel-l-01",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Han eksperimenterte med det ustabile nitroglyserinet og oppdaget at det kunne suges opp i kiselgur og bli trygt å frakte. Navnet han valgte, kommer av det greske ordet for kraft. Hvilket sprengstoff tok den svenske kjemikeren patent på i 1867?",
+      "sv": "Han experimenterade med det instabila nitroglycerinet och upptäckte att det kunde sugas upp i kiselgur och bli tryggt att frakta. Namnet han valde kommer av det grekiska ordet för kraft. Vilket sprängämne tog den svenske kemisten patent på 1867?"
+    },
+    "answer": {
+      "nb": "Dynamitt",
+      "sv": "Dynamit"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han hadde først tenkt å selge det under navnet «Nobels sikkerhetskrutt».",
+      "sv": "Han hade först tänkt sälja det under namnet «Nobels säkerhetskrut»."
+    },
+    "funFact": {
+      "nb": "Kiselguren – fossile alger – hentet han ved Elben nær fabrikken i Hamburg. Da han døde i 1896, hadde han 355 patenter.",
+      "sv": "Kiselguren – fossila alger – hämtade han vid Elbe nära fabriken i Hamburg. När han dog 1896 hade han 355 patent."
+    },
+    "source": "Nobel Prize Outreach – «Alfred Nobel's life and work»"
+  },
+  {
+    "id": "nobel-l-02",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "politikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Alfred Nobel bestemte i testamentet at én av prisene ikke skulle deles ut i Sverige, men av en komité på fem personer i nabolandet i vest. Hvilken forsamling velger disse fem medlemmene?",
+      "sv": "Alfred Nobel bestämde i testamentet att ett av prisen inte skulle delas ut i Sverige, utan av en kommitté på fem personer i grannlandet i väster. Vilken församling väljer dessa fem ledamöter?"
+    },
+    "answer": "Stortinget",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forsamlingen holder til ved Karl Johans gate i Oslo, og medlemmene kalles representanter.",
+      "sv": "Församlingen håller till vid Karl Johans gate i Oslo, och ledamöterna kallas representanter."
+    },
+    "funFact": {
+      "nb": "Norge og Sverige var i union da testamentet ble skrevet i 1895. Historikerne er ikke enige om hvorfor Nobel la nettopp fredsprisen til Norge.",
+      "sv": "Norge och Sverige var i union när testamentet skrevs 1895. Historikerna är oense om varför Nobel lade just fredspriset till Norge."
+    },
+    "source": "Nobelstiftelsen – «Alfred Nobel's will»; Det Norske Nobelinstitutt"
+  },
+  {
+    "id": "nobel-l-03",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1903 ble hun den første kvinnen som fikk en nobelpris, og åtte år senere fikk hun én til – i en annen vitenskap. Hun er fortsatt den eneste som har vunnet i to ulike naturvitenskaper. Hvem var hun?",
+      "sv": "År 1903 blev hon den första kvinnan som fick ett nobelpris, och åtta år senare fick hon ytterligare ett – i en annan vetenskap. Hon är fortfarande den enda som vunnit i två olika naturvetenskaper. Vem var hon?"
+    },
+    "answer": "Marie Curie",
+    "answerKind": "person",
+    "person": {
+      "given": "Marie",
+      "family": "Curie"
+    },
+    "hint": {
+      "nb": "Hun ble født i Warszawa som Maria Skłodowska, og ett av grunnstoffene hun oppdaget, er oppkalt etter hjemlandet.",
+      "sv": "Hon föddes i Warszawa som Maria Skłodowska, och ett av grundämnena hon upptäckte är uppkallat efter hemlandet."
+    },
+    "funFact": {
+      "nb": "Fysikkprisen i 1903 delte hun med ektemannen Pierre og med Henri Becquerel. Kjemiprisen i 1911 fikk hun alene, for oppdagelsen av radium og polonium.",
+      "sv": "Fysikpriset 1903 delade hon med maken Pierre och med Henri Becquerel. Kemipriset 1911 fick hon ensam, för upptäckten av radium och polonium."
+    },
+    "source": "Nobel Prize Outreach – prisvinnersidene for 1903 og 1911"
+  },
+  {
+    "id": "nobel-l-04",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "politikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Hun kjempet for jenters rett til skolegang i Swat-dalen i Pakistan, og i 2014 ble hun den yngste nobelprisvinneren noensinne, bare 17 år gammel. Prisen delte hun med indiske Kailash Satyarthi. Hva heter hun?",
+      "sv": "Hon kämpade för flickors rätt till skolgång i Swatdalen i Pakistan, och 2014 blev hon den yngsta nobelpristagaren någonsin, bara 17 år gammal. Priset delade hon med indiske Kailash Satyarthi. Vad heter hon?"
+    },
+    "answer": "Malala Yousafzai",
+    "answerKind": "person",
+    "person": {
+      "given": "Malala",
+      "family": "Yousafzai"
+    },
+    "hint": {
+      "nb": "Som skoleelev skrev hun anonymt blogg for BBC om hverdagen der Taliban hadde makten.",
+      "sv": "Som skolelev skrev hon anonymt blogg för BBC om vardagen där talibanerna hade makten."
+    },
+    "funFact": {
+      "nb": "Nobelkomiteen framhevet at det var et viktig poeng at en hindu og en muslim, en inder og en pakistaner, kjempet sammen for utdanning og mot ekstremisme.",
+      "sv": "Nobelkommittén framhöll att det var en viktig poäng att en hindu och en muslim, en indier och en pakistanier, kämpade tillsammans för utbildning och mot extremism."
+    },
+    "source": "Nobel Prize Outreach – pressemelding, fredsprisen 2014"
+  },
+  {
+    "id": "nobel-l-05",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Alle nobelprisene deles ut på samme dag hvert år, i to ulike hovedsteder, og datoen er valgt fordi den er årsdagen for Alfred Nobels død i 1896. Hvilken dato er det?",
+      "sv": "Alla nobelpris delas ut samma dag varje år, i två olika huvudstäder, och datumet är valt för att det är årsdagen av Alfred Nobels död 1896. Vilket datum är det?"
+    },
+    "answer": {
+      "nb": "10. desember",
+      "sv": "10 december"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Datoen ligger tre dager før Luciadagen.",
+      "sv": "Datumet ligger tre dagar före luciadagen."
+    },
+    "funFact": {
+      "nb": "De aller første nobelprisene ble delt ut på denne datoen i 1901, fem år etter Nobels død. Wilhelm Conrad Röntgen fikk den første fysikkprisen.",
+      "sv": "De allra första nobelprisen delades ut detta datum 1901, fem år efter Nobels död. Wilhelm Conrad Röntgen fick det första fysikpriset."
+    },
+    "source": "Nobelstiftelsen – «The Nobel Prize Award Ceremonies»"
+  },
+  {
+    "id": "nobel-l-06",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "litteratur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I 1909 ble hun den første kvinnen som fikk nobelprisen i litteratur, og fem år senere den første kvinnen i Svenska Akademien. Mest kjent er boka om gutten som flyr over Sverige på ryggen av en gås. Hvem er hun?",
+      "sv": "År 1909 blev hon den första kvinnan som fick nobelpriset i litteratur, och fem år senare den första kvinnan i Svenska Akademien. Mest känd är boken om pojken som flyger över Sverige på ryggen av en gås. Vem är hon?"
+    },
+    "answer": "Selma Lagerlöf",
+    "answerKind": "person",
+    "person": {
+      "given": "Selma",
+      "family": "Lagerlöf"
+    },
+    "hint": {
+      "nb": "Hun vokste opp på gården Mårbacka i Värmland og kjøpte den senere tilbake.",
+      "sv": "Hon växte upp på gården Mårbacka i Värmland och köpte senare tillbaka den."
+    },
+    "funFact": {
+      "nb": "«Nils Holgerssons underbara resa genom Sverige» kom i 1906–07 og var bestilt av lærerforbundet som geografibok for svenske skolebarn.",
+      "sv": "«Nils Holgerssons underbara resa genom Sverige» kom 1906–07 och var beställd av lärarförbundet som geografibok för svenska skolbarn."
+    },
+    "source": "Nobel Prize Outreach – litteraturprisen 1909; Svenska Akademien"
+  },
+  {
+    "id": "nobel-l-07",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "litteratur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Nobelprisen i litteratur gikk i 1928 til en norsk forfatter, «hovedsakelig for hennes mektige skildringer av nordisk liv i middelalderen». Trilogien om Kristin Lavransdatter var da kommet i tre bind mellom 1920 og 1922. Hvem var forfatteren?",
+      "sv": "Nobelpriset i litteratur gick 1928 till en norsk författare, «huvudsakligen för hennes mäktiga skildringar av nordiskt liv under medeltiden». Trilogin om Kristin Lavransdatter hade då kommit i tre band mellan 1920 och 1922. Vem var författaren?"
+    },
+    "answer": "Sigrid Undset",
+    "answerKind": "person",
+    "person": {
+      "given": "Sigrid",
+      "family": "Undset"
+    },
+    "hint": {
+      "nb": "Hun ble født i Danmark, vokste opp i Kristiania og bodde store deler av livet på Bjerkebæk i Lillehammer.",
+      "sv": "Hon föddes i Danmark, växte upp i Kristiania och bodde stora delar av livet på Bjerkebæk i Lillehammer."
+    },
+    "funFact": {
+      "nb": "Bindene heter «Kransen», «Husfrue» og «Korset». Hun konverterte til katolisismen i 1924 og skrev senere en romansyklus om Olav Audunssøn.",
+      "sv": "Banden heter «Kransen», «Husfrue» och «Korset». Hon konverterade till katolicismen 1924 och skrev senare en romansvit om Olav Audunssøn."
+    },
+    "source": "Nobel Prize Outreach – litteraturprisen 1928; Store norske leksikon"
+  },
+  {
+    "id": "nobel-l-08",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "I 1964 gikk fredsprisen til en amerikansk baptistprest «for hans ikkevoldelige kamp for borgerrettigheter for den afroamerikanske befolkningen». Han var 35 år og hadde ledet bussboikotten i Montgomery i 1955–56. Hvem var han?",
+      "sv": "År 1964 gick fredspriset till en amerikansk baptistpastor «för hans ickevåldsliga kamp för medborgerliga rättigheter för den afroamerikanska befolkningen». Han var 35 år och hade lett bussbojkotten i Montgomery 1955–56. Vem var han?"
+    },
+    "answer": "Martin Luther King",
+    "answerKind": "person",
+    "person": {
+      "given": "Martin Luther",
+      "family": "King"
+    },
+    "hint": {
+      "nb": "Talen han holdt fra trappen ved Lincoln Memorial i 1963, begynner med ordene «I have a dream».",
+      "sv": "Talet han höll från trappan vid Lincoln Memorial 1963 inleds med orden «I have a dream»."
+    },
+    "funFact": {
+      "nb": "Samme år som prisen ble den amerikanske borgerrettsloven vedtatt, og året etter kom stemmerettsloven av 1965.",
+      "sv": "Samma år som priset antogs den amerikanska medborgarrättslagen, och året därpå kom rösträttslagen 1965."
+    },
+    "source": "Nobel Prize Outreach – fredsprisen 1964"
+  },
+  {
+    "id": "nobel-l-09",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "medisin",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I 1928 oppdaget en skotsk bakteriolog at en muggsopp hadde forurenset en av skålene hans og drept bakteriene rundt seg. I 1945 fikk han nobelprisen i medisin sammen med Ernst Chain og Howard Florey. Hvem var han?",
+      "sv": "År 1928 upptäckte en skotsk bakteriolog att en mögelsvamp hade förorenat en av hans skålar och dödat bakterierna runt omkring. År 1945 fick han nobelpriset i medicin tillsammans med Ernst Chain och Howard Florey. Vem var han?"
+    },
+    "answer": "Alexander Fleming",
+    "answerKind": "person",
+    "person": {
+      "given": "Alexander",
+      "family": "Fleming"
+    },
+    "hint": {
+      "nb": "Stoffet han fant, fikk navn etter muggsoppslekten Penicillium.",
+      "sv": "Ämnet han fann fick namn efter mögelsläktet Penicillium."
+    },
+    "funFact": {
+      "nb": "Selv klarte han ikke å rendyrke stoffet. Chain og Florey fikk det fram i store nok mengder til å behandle pasienter under andre verdenskrig, og de tre delte prisen.",
+      "sv": "Själv lyckades han inte renframställa ämnet. Chain och Florey fick fram det i tillräckliga mängder för att behandla patienter under andra världskriget, och de tre delade priset."
+    },
+    "source": "Nobel Prize Outreach – medisinprisen 1945"
+  },
+  {
+    "id": "nobel-l-10",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "politikk",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Polarforskeren som lot skuta «Fram» fryse fast i drivisen, ble senere Folkeforbundets første høykommissær for flyktninger og fikk fredsprisen i 1922. Et reisedokument for statsløse bærer navnet hans. Hvem var han?",
+      "sv": "Polarforskaren som lät skutan «Fram» frysa fast i drivisen blev senare Nationernas förbunds förste flyktingkommissarie och fick fredspriset 1922. Ett resedokument för statslösa bär hans namn. Vem var han?"
+    },
+    "answer": "Fridtjof Nansen",
+    "answerKind": "person",
+    "person": {
+      "given": "Fridtjof",
+      "family": "Nansen"
+    },
+    "hint": {
+      "nb": "Han krysset Grønland på ski i 1888 sammen med blant andre Otto Sverdrup.",
+      "sv": "Han korsade Grönland på skidor 1888 tillsammans med bland andra Otto Sverdrup."
+    },
+    "funFact": {
+      "nb": "Passet som bærer navnet hans, ga statsløse flyktninger et gyldig reisedokument. Han ledet også arbeidet med å få krigsfanger hjem etter første verdenskrig.",
+      "sv": "Passet som bär hans namn gav statslösa flyktingar ett giltigt resedokument. Han ledde också arbetet med att få hem krigsfångar efter första världskriget."
+    },
+    "source": "Nobel Prize Outreach – fredsprisen 1922"
+  },
+  {
+    "id": "nobel-m-01",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Testamentet som opprettet nobelprisene, ble undertegnet 27. november 1895 i Den svensk-norske klubben – ikke i Stockholm, men i storbyen der Alfred Nobel hadde bodd og hatt laboratorium siden 1873. Hvilken by var det?",
+      "sv": "Testamentet som instiftade nobelprisen undertecknades den 27 november 1895 i Svensk-norska klubben – inte i Stockholm, utan i storstaden där Alfred Nobel hade bott och haft laboratorium sedan 1873. Vilken stad var det?"
+    },
+    "answer": "Paris",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han flyttet fra byen til San Remo i Italia i 1891, etter strid om sprengstoffet ballistitt.",
+      "sv": "Han flyttade från staden till San Remo i Italien 1891, efter strid om sprängämnet ballistit."
+    },
+    "funFact": {
+      "nb": "Nobel skrev testamentet selv, uten advokat. Slektninger bestred det, og det tok fem år før den første prisen kunne deles ut.",
+      "sv": "Nobel skrev testamentet själv, utan advokat. Släktingar bestred det, och det tog fem år innan det första priset kunde delas ut."
+    },
+    "source": "Nobelstiftelsen – «Alfred Nobel's will»"
+  },
+  {
+    "id": "nobel-m-02",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Han er mest kjent for relativitetsteorien, men begrunnelsen for fysikkprisen han fikk for 1921, var en helt annen oppdagelse: loven for hvordan lys kan slå elektroner løs fra et metall. Hva kalles dette fenomenet?",
+      "sv": "Han är mest känd för relativitetsteorin, men motiveringen till fysikpriset han fick för 1921 var en helt annan upptäckt: lagen för hur ljus kan slå loss elektroner från en metall. Vad kallas detta fenomen?"
+    },
+    "answer": {
+      "nb": "Den fotoelektriske effekten",
+      "sv": "Fotoelektriska effekten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forklaringen bygger på at lyset kommer i små energipakker – kvanter – og ble en grunnstein i kvantefysikken.",
+      "sv": "Förklaringen bygger på att ljuset kommer i små energipaket – kvanta – och blev en grundsten i kvantfysiken."
+    },
+    "funFact": {
+      "nb": "Prisen for 1921 ble først holdt tilbake og delt ut året etter. Albert Einstein var da på en lang reise i Asia og rakk ikke seremonien i Stockholm.",
+      "sv": "Priset för 1921 hölls först inne och delades ut året därpå. Albert Einstein var då på en lång resa i Asien och hann inte till ceremonin i Stockholm."
+    },
+    "source": "Nobel Prize Outreach – fysikkprisen 1921"
+  },
+  {
+    "id": "nobel-m-03",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "medisin",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Fysikk, kjemi og økonomi avgjøres av Kungliga Vetenskapsakademien, litteraturen av Svenska Akademien. Prisen i fysiologi eller medisin bestemmes derimot av en forsamling ved et medisinsk universitet i Solna utenfor Stockholm. Hvilket lærested er det?",
+      "sv": "Fysik, kemi och ekonomi avgörs av Kungliga Vetenskapsakademien, litteraturen av Svenska Akademien. Priset i fysiologi eller medicin bestäms däremot av en församling vid ett medicinskt universitet i Solna utanför Stockholm. Vilket lärosäte är det?"
+    },
+    "answer": "Karolinska Institutet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Lærestedet ble grunnlagt i 1810, og universitetssykehuset ved siden av bærer samme navn.",
+      "sv": "Lärosätet grundades 1810, och universitetssjukhuset intill bär samma namn."
+    },
+    "funFact": {
+      "nb": "Forsamlingen som velger vinneren, består av professorer ved lærestedet. Selve utdelingen skjer likevel sammen med de andre svenske prisene i Stockholm.",
+      "sv": "Församlingen som utser pristagaren består av professorer vid lärosätet. Själva utdelningen sker ändå tillsammans med de andra svenska prisen i Stockholm."
+    },
+    "source": "Nobelförsamlingen vid Karolinska Institutet"
+  },
+  {
+    "id": "nobel-m-04",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Da han i 1964 ble tildelt nobelprisen i litteratur, takket den franske filosofen nei. Han hadde avslått utmerkelser før og mente at en forfatter ikke må la seg gjøre om til en institusjon. Hvem var han?",
+      "sv": "När han 1964 tilldelades nobelpriset i litteratur tackade den franske filosofen nej. Han hade avböjt utmärkelser tidigare och menade att en författare inte får låta sig göras till en institution. Vem var han?"
+    },
+    "answer": "Jean-Paul Sartre",
+    "answerKind": "person",
+    "person": {
+      "given": "Jean-Paul",
+      "family": "Sartre"
+    },
+    "hint": {
+      "nb": "Han skrev «Kvalmen» og «Væren og intet», og var eksistensialismens fremste navn.",
+      "sv": "Han skrev «Äcklet» och «Varat och intet», och var existentialismens främsta namn."
+    },
+    "funFact": {
+      "nb": "Avslaget endret ikke listene – han står fortsatt oppført som prisvinner for 1964, men fikk verken medalje eller pengesum. Bare én annen har takket nei frivillig: Le Duc Tho, som avslo fredsprisen i 1973.",
+      "sv": "Avböjandet ändrade inte listorna – han står fortfarande som pristagare för 1964, men fick varken medalj eller prissumma. Bara en annan har tackat nej frivilligt: Le Duc Tho, som avböjde fredspriset 1973."
+    },
+    "source": "Nobel Prize Outreach – litteraturprisen 1964"
+  },
+  {
+    "id": "nobel-m-05",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "arkitektur",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Fram til 1946 ble fredsprisen delt ut i Nobelinstituttet, deretter i universitetets aula. Siden 1990 har seremonien vært holdt i et teglbygg med to tårn nede ved havna, innviet i 1950. Hvilket bygg er det?",
+      "sv": "Fram till 1946 delades fredspriset ut i Nobelinstitutet, därefter i universitetets aula. Sedan 1990 hålls ceremonin i en tegelbyggnad med två torn nere vid hamnen, invigd 1950. Vilken byggnad är det?"
+    },
+    "answer": "Oslo rådhus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Arkitektene Arnstein Arneberg og Magnus Poulsson vant konkurransen om bygget allerede i 1918.",
+      "sv": "Arkitekterna Arnstein Arneberg och Magnus Poulsson vann tävlingen om byggnaden redan 1918."
+    },
+    "funFact": {
+      "nb": "Bygget ble innviet til byens 900-årsjubileum. Fram til 1989 satt publikum i universitetets aula, under Edvard Munchs monumentalmaleri «Solen».",
+      "sv": "Byggnaden invigdes till stadens 900-årsjubileum. Fram till 1989 satt publiken i universitetets aula, under Edvard Munchs monumentalmålning «Solen»."
+    },
+    "source": "Oslo kommune; Nobel Prize Outreach – fredsprisseremonien"
+  },
+  {
+    "id": "nobel-m-06",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "politikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Nobelinstituttets mangeårige direktør har kalt det den største forsømmelsen i fredsprisens historie at denne indiske lederen aldri fikk prisen. Han ble nominert fem ganger, siste gang i januar 1948. Hvem er det snakk om?",
+      "sv": "Nobelinstitutets mångårige direktör har kallat det fredsprisets största försummelse att denne indiske ledare aldrig fick priset. Han nominerades fem gånger, sista gången i januari 1948. Vem talar vi om?"
+    },
+    "answer": "Mahatma Gandhi",
+    "answerKind": "person",
+    "person": {
+      "given": "Mahatma",
+      "family": "Gandhi"
+    },
+    "hint": {
+      "nb": "Han ledet den indiske uavhengighetsbevegelsen med ikkevold som metode, blant annet gjennom saltmarsjen i 1930.",
+      "sv": "Han ledde den indiska självständighetsrörelsen med ickevåld som metod, bland annat genom saltmarschen 1930."
+    },
+    "funFact": {
+      "nb": "I 1948 valgte komiteen å ikke dele ut fredsprisen i det hele tatt, med den begrunnelsen at det ikke fantes «noen egnet levende kandidat».",
+      "sv": "År 1948 valde kommittén att inte dela ut fredspriset alls, med motiveringen att det inte fanns «någon lämplig levande kandidat»."
+    },
+    "source": "Nobel Prize Outreach – «Mahatma Gandhi, the Missing Laureate»"
+  },
+  {
+    "id": "nobel-m-07",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "I 1903 ble en kjemiker fra Uppsala den aller første svenske nobelprisvinneren, for teorien om elektrolytisk dissosiasjon. Han hadde også regnet på hvordan karbondioksid i lufta påvirker jordas temperatur. Hvem var han?",
+      "sv": "År 1903 blev en kemist från Uppsala den allra första svenska nobelpristagaren, för teorin om elektrolytisk dissociation. Han hade också räknat på hur koldioxid i luften påverkar jordens temperatur. Vem var han?"
+    },
+    "answer": "Svante Arrhenius",
+    "answerKind": "person",
+    "person": {
+      "given": "Svante",
+      "family": "Arrhenius"
+    },
+    "hint": {
+      "nb": "Etternavnet lever videre i en kjent ligning for hvordan reaksjonsfarten avhenger av temperaturen.",
+      "sv": "Efternamnet lever vidare i en känd ekvation för hur reaktionshastigheten beror av temperaturen."
+    },
+    "funFact": {
+      "nb": "Beregningene hans fra 1896 er blant de tidligste anslagene av drivhuseffekten. Senere ledet han Nobelinstituttet for fysikalsk kjemi i Stockholm.",
+      "sv": "Hans beräkningar från 1896 är bland de tidigaste uppskattningarna av växthuseffekten. Senare ledde han Nobelinstitutet för fysikalisk kemi i Stockholm."
+    },
+    "source": "Nobel Prize Outreach – kjemiprisen 1903; Kungliga Vetenskapsakademien"
+  },
+  {
+    "id": "nobel-m-08",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "litteratur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Norges aller første nobelprisvinner fikk litteraturprisen i 1903, «som en hyllest til hans edle, storslagne og allsidige diktning». Han skrev også teksten til den norske nasjonalsangen. Hvem var han?",
+      "sv": "Norges allra första nobelpristagare fick litteraturpriset 1903, «som en hyllning till hans ädla, storslagna och mångsidiga diktning». Han skrev också texten till den norska nationalsången. Vem var han?"
+    },
+    "answer": "Bjørnstjerne Bjørnson",
+    "answerKind": "person",
+    "person": {
+      "given": "Bjørnstjerne",
+      "family": "Bjørnson"
+    },
+    "hint": {
+      "nb": "Han regnes som en av «de fire store» sammen med Ibsen, Lie og Kielland.",
+      "sv": "Han räknas som en av «de fyra stora» tillsammans med Ibsen, Lie och Kielland."
+    },
+    "funFact": {
+      "nb": "Bondefortellingen «Synnøve Solbakken» fra 1857 gjorde ham kjent. Han var også teatersjef, avisredaktør og politisk agitator.",
+      "sv": "Bondeberättelsen «Synnöve Solbakken» från 1857 gjorde honom känd. Han var också teaterchef, tidningsredaktör och politisk agitator."
+    },
+    "source": "Nobel Prize Outreach – litteraturprisen 1903; Store norske leksikon"
+  },
+  {
+    "id": "nobel-m-09",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "En britisk statsminister fikk i 1953 nobelprisen i litteratur, «for hans mesterskap i historisk og biografisk framstilling og for glimrende talekunst». Han hadde skrevet et flerbindsverk om andre verdenskrig. Hvem var han?",
+      "sv": "En brittisk premiärminister fick 1953 nobelpriset i litteratur, «för hans mästerskap i historisk och biografisk framställning och för lysande talekonst». Han hade skrivit ett flerbandsverk om andra världskriget. Vem var han?"
+    },
+    "answer": "Winston Churchill",
+    "answerKind": "person",
+    "person": {
+      "given": "Winston",
+      "family": "Churchill"
+    },
+    "hint": {
+      "nb": "Han ledet Storbritannia gjennom andre verdenskrig og malte akvareller på fritiden.",
+      "sv": "Han ledde Storbritannien genom andra världskriget och målade akvareller på fritiden."
+    },
+    "funFact": {
+      "nb": "Blant verkene er en stor biografi om forfaren hans, hertugen av Marlborough. Han ble også nominert til fredsprisen, men det var forfatterskapet som ga uttelling.",
+      "sv": "Bland verken finns en stor biografi om hans förfader, hertigen av Marlborough. Han nominerades även till fredspriset, men det var författarskapet som gav utdelning."
+    },
+    "source": "Nobel Prize Outreach – litteraturprisen 1953"
+  },
+  {
+    "id": "nobel-m-10",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Prisen i økonomiske vitenskaper sto ikke i Alfred Nobels testamente. Den ble opprettet i 1968 av en institusjon som samme år feiret 300-årsjubileum, og deles ut sammen med de andre prisene. Hvilken institusjon?",
+      "sv": "Priset i ekonomisk vetenskap stod inte i Alfred Nobels testamente. Det instiftades 1968 av en institution som samma år firade 300-årsjubileum, och delas ut tillsammans med de andra prisen. Vilken institution?"
+    },
+    "answer": "Sveriges riksbank",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Institusjonen ble grunnlagt i 1668 og regnes som verdens eldste av sitt slag.",
+      "sv": "Institutionen grundades 1668 och räknas som världens äldsta i sitt slag."
+    },
+    "funFact": {
+      "nb": "Det fulle navnet er «Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne». Vinneren utpekes av Kungliga Vetenskapsakademien, som også står bak fysikk- og kjemiprisen.",
+      "sv": "Det fullständiga namnet är «Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne». Pristagaren utses av Kungliga Vetenskapsakademien, som också står bakom fysik- och kemipriset."
+    },
+    "source": "Nobelstiftelsen; Sveriges riksbank"
+  },
+  {
+    "id": "nobel-v-01",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Han er den eneste som har fått to udelte nobelpriser: kjemiprisen i 1954 for arbeidet med den kjemiske bindingen, og fredsprisen for 1962 for kampen mot prøvesprengninger av atomvåpen. Hvem var han?",
+      "sv": "Han är den ende som fått två odelade nobelpris: kemipriset 1954 för arbetet med den kemiska bindningen, och fredspriset för 1962 för kampen mot provsprängningar av kärnvapen. Vem var han?"
+    },
+    "answer": "Linus Pauling",
+    "answerKind": "person",
+    "person": {
+      "given": "Linus",
+      "family": "Pauling"
+    },
+    "hint": {
+      "nb": "Amerikaneren foreslo også en trippelheliks for DNA – en modell som viste seg å være feil, kort før Watson og Crick fant dobbelthelixen.",
+      "sv": "Amerikanen föreslog också en trippelhelix för DNA – en modell som visade sig vara fel, strax innan Watson och Crick fann dubbelhelixen."
+    },
+    "funFact": {
+      "nb": "Fredsprisen for 1962 ble kunngjort først i oktober 1963, samme dag som avtalen om delvis prøvestans trådte i kraft.",
+      "sv": "Fredspriset för 1962 kungjordes först i oktober 1963, samma dag som avtalet om partiellt provstopp trädde i kraft."
+    },
+    "source": "Nobel Prize Outreach – kjemiprisen 1954 og fredsprisen 1962"
+  },
+  {
+    "id": "nobel-v-02",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Han er den eneste som har fått nobelprisen i fysikk to ganger: i 1956 sammen med Shockley og Brattain for transistoren, og i 1972 for BCS-teorien om superledning. Hvem var han?",
+      "sv": "Han är den ende som fått nobelpriset i fysik två gånger: 1956 tillsammans med Shockley och Brattain för transistorn, och 1972 för BCS-teorin om supraledning. Vem var han?"
+    },
+    "answer": "John Bardeen",
+    "answerKind": "person",
+    "person": {
+      "given": "John",
+      "family": "Bardeen"
+    },
+    "hint": {
+      "nb": "Amerikaneren arbeidet ved Bell Labs på 1940-tallet og senere ved University of Illinois.",
+      "sv": "Amerikanen arbetade vid Bell Labs på 1940-talet och senare vid University of Illinois."
+    },
+    "funFact": {
+      "nb": "Bokstavene i BCS er initialene til de tre bak teorien: han selv, Leon Cooper og John Robert Schrieffer. Transistoren ble demonstrert allerede i 1947.",
+      "sv": "Bokstäverna i BCS är initialerna för de tre bakom teorin: han själv, Leon Cooper och John Robert Schrieffer. Transistorn demonstrerades redan 1947."
+    },
+    "source": "Nobel Prize Outreach – fysikkprisen 1956 og 1972"
+  },
+  {
+    "id": "nobel-v-03",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Han fikk litteraturprisen i 1958, takket først ja, men ble få dager senere presset av sovjetiske myndigheter til å avslå. Først i 1989 kunne sønnen hente medaljen i Stockholm. Hvem var forfatteren?",
+      "sv": "Han fick litteraturpriset 1958, tackade först ja, men pressades några dagar senare av sovjetiska myndigheter att avböja. Först 1989 kunde sonen hämta medaljen i Stockholm. Vem var författaren?"
+    },
+    "answer": "Boris Pasternak",
+    "answerKind": "person",
+    "person": {
+      "given": "Boris",
+      "family": "Pasternak"
+    },
+    "hint": {
+      "nb": "Romanen som utløste striden, ble smuglet ut og utgitt i Italia i 1957, og følger en lege gjennom revolusjon og borgerkrig.",
+      "sv": "Romanen som utlöste striden smugglades ut och gavs ut i Italien 1957, och följer en läkare genom revolution och inbördeskrig."
+    },
+    "funFact": {
+      "nb": "«Doktor Zjivago» kunne først utgis i Sovjetunionen i 1988, i tidsskriftet Novyj Mir. Han står fortsatt oppført som prisvinner for 1958.",
+      "sv": "«Doktor Zjivago» kunde först ges ut i Sovjetunionen 1988, i tidskriften Novyj Mir. Han står fortfarande som pristagare för 1958."
+    },
+    "source": "Nobel Prize Outreach – litteraturprisen 1958"
+  },
+  {
+    "id": "nobel-v-04",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie",
+      "historie",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Ingen har fått fredsprisen flere ganger enn denne organisasjonen: i 1917 og 1944 for arbeidet under de to verdenskrigene, og i 1963 på hundreårsdagen for stiftelsen. Hvilken organisasjon er det?",
+      "sv": "Ingen har fått fredspriset fler gånger än denna organisation: 1917 och 1944 för arbetet under de två världskrigen, och 1963 på hundraårsdagen av grundandet. Vilken organisation är det?"
+    },
+    "answer": {
+      "nb": "Den internasjonale Røde Kors-komiteen",
+      "sv": "Internationella rödakorskommittén"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedkontoret ligger i Genève, og emblemet er det sveitsiske flagget med omvendte farger.",
+      "sv": "Huvudkontoret ligger i Genève, och emblemet är den schweiziska flaggan med omvända färger."
+    },
+    "funFact": {
+      "nb": "Grunnleggeren Henry Dunant delte den aller første fredsprisen i 1901 med franskmannen Frédéric Passy. Prisen i 1963 ble delt med forbundet av nasjonale Røde Kors-foreninger.",
+      "sv": "Grundaren Henry Dunant delade det allra första fredspriset 1901 med fransmannen Frédéric Passy. Priset 1963 delades med förbundet av nationella rödakorsföreningar."
+    },
+    "source": "Nobel Prize Outreach – fredsprisen 1917, 1944 og 1963; ICRC"
+  },
+  {
+    "id": "nobel-v-05",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "politikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Svensken var FNs generalsekretær fra 1953 og medlem av Svenska Akademien, der han overtok farens stol. Han er den eneste som har fått fredsprisen posthumt, for 1961. Hvem var han?",
+      "sv": "Svensken var FN:s generalsekreterare från 1953 och ledamot av Svenska Akademien, där han övertog sin fars stol. Han är den ende som fått fredspriset postumt, för 1961. Vem var han?"
+    },
+    "answer": "Dag Hammarskjöld",
+    "answerKind": "person",
+    "person": {
+      "given": "Dag",
+      "family": "Hammarskjöld"
+    },
+    "hint": {
+      "nb": "Biblioteket i FN-bygningen i New York bærer navnet hans.",
+      "sv": "Biblioteket i FN-byggnaden i New York bär hans namn."
+    },
+    "funFact": {
+      "nb": "Fram til 1974 var det mulig å tildele prisen posthumt; etter det kan det bare skje dersom vinneren går bort etter kunngjøringen. Notatboka «Vägmärken» ble utgitt i 1963.",
+      "sv": "Fram till 1974 var det möjligt att tilldela priset postumt; därefter kan det bara ske om pristagaren går bort efter tillkännagivandet. Anteckningsboken «Vägmärken» gavs ut 1963."
+    },
+    "source": "Nobel Prize Outreach – fredsprisen 1961; Nobelstiftelsens statutter"
+  },
+  {
+    "id": "nobel-v-06",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "kunst",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Medaljene for fysikk, kjemi, medisin og litteratur ble tegnet av svensken Erik Lindberg. Fredsmedaljen, med tre menn i broderlig omfavnelse, ble derimot tegnet i 1901 av en norsk billedhugger. Hvem?",
+      "sv": "Medaljerna för fysik, kemi, medicin och litteratur formgavs av svensken Erik Lindberg. Fredsmedaljen, med tre män i broderlig omfamning, formgavs däremot 1901 av en norsk skulptör. Vem?"
+    },
+    "answer": "Gustav Vigeland",
+    "answerKind": "person",
+    "person": {
+      "given": "Gustav",
+      "family": "Vigeland"
+    },
+    "hint": {
+      "nb": "Han er mest kjent for skulpturparken på Frogner i Oslo, med Monolitten og Sinnataggen.",
+      "sv": "Han är mest känd för skulpturparken på Frogner i Oslo, med Monoliten och Sinnataggen."
+    },
+    "funFact": {
+      "nb": "Innskriften på baksiden lyder «Pro pace et fraternitate gentium» – for folkenes fred og brorskap. Stemplene måtte Lindberg lage, siden billedhuggeren ikke var gravør.",
+      "sv": "Inskriften på frånsidan lyder «Pro pace et fraternitate gentium» – för folkens fred och broderskap. Stamparna fick Lindberg göra, eftersom skulptören inte var gravör."
+    },
+    "source": "Nobel Prize Outreach – «The Nobel Prize medals»"
+  },
+  {
+    "id": "nobel-v-07",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Fredsprisen for 1935 gikk til en tysk journalist og pasifist som satt fengslet av naziregimet og ikke fikk lov til å reise til Oslo. Kong Haakon uteble fra seremonien. Hvem var prisvinneren?",
+      "sv": "Fredspriset för 1935 gick till en tysk journalist och pacifist som satt fängslad av nazistregimen och inte fick resa till Oslo. Kung Haakon uteblev från ceremonin. Vem var pristagaren?"
+    },
+    "answer": "Carl von Ossietzky",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl",
+      "family": "von Ossietzky"
+    },
+    "hint": {
+      "nb": "Han hadde vært redaktør for tidsskriftet «Die Weltbühne» og avslørte hemmelig tysk opprustning i strid med Versailles-traktaten.",
+      "sv": "Han hade varit redaktör för tidskriften «Die Weltbühne» och avslöjade hemlig tysk upprustning i strid med Versaillesfördraget."
+    },
+    "funFact": {
+      "nb": "Prisen ble kunngjort først i 1936, ett år på etterskudd. To medlemmer av Nobelkomiteen trakk seg fordi de hadde regjeringsverv, og Hitler forbød senere tyskere å ta imot nobelpriser.",
+      "sv": "Priset kungjordes först 1936, ett år i efterskott. Två ledamöter i Nobelkommittén drog sig ur eftersom de hade regeringsuppdrag, och Hitler förbjöd senare tyskar att ta emot nobelpris."
+    },
+    "source": "Nobel Prize Outreach – fredsprisen 1935; Det Norske Nobelinstitutt"
+  },
+  {
+    "id": "nobel-v-08",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "mat-og-drikke",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Den aller første nobelbanketten ble i 1901 holdt i Speilsalen på et hotell rett ved Nationalmuseum i Stockholm, med utsikt mot slottet. Der har prisvinnerne bodd helt siden. Hva heter hotellet?",
+      "sv": "Den allra första nobelbanketten hölls 1901 i Spegelsalen på ett hotell alldeles vid Nationalmuseum i Stockholm, med utsikt mot slottet. Där har pristagarna bott ända sedan dess. Vad heter hotellet?"
+    },
+    "answer": "Grand Hôtel",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er fransk og lover rett og slett det største og gjeveste. Huset åpnet i 1874.",
+      "sv": "Namnet är franskt och lovar helt enkelt det största och förnämsta. Huset öppnade 1874."
+    },
+    "funFact": {
+      "nb": "Banketten flyttet til Stockholms stadshus i 1930, men vendte kortvarig tilbake hit under depresjonen på 1930-tallet.",
+      "sv": "Banketten flyttade till Stockholms stadshus 1930, men återvände kortvarigt hit under depressionen på 1930-talet."
+    },
+    "source": "Nobelstiftelsen – nobelbankettens historie; Grand Hôtel Stockholm"
+  },
+  {
+    "id": "nobel-v-09",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den aller første prisen i økonomiske vitenskaper ble delt ut i 1969, til nederlenderen Jan Tinbergen og en nordmann som hadde innført selve ordet «økonometri». Hvem var nordmannen?",
+      "sv": "Det allra första priset i ekonomisk vetenskap delades ut 1969, till nederländaren Jan Tinbergen och en norrman som hade infört själva ordet «ekonometri». Vem var norrmannen?"
+    },
+    "answer": "Ragnar Frisch",
+    "answerKind": "person",
+    "person": {
+      "given": "Ragnar",
+      "family": "Frisch"
+    },
+    "hint": {
+      "nb": "Han var professor i sosialøkonomi ved Universitetet i Oslo og en pioner innen matematisk økonomi.",
+      "sv": "Han var professor i nationalekonomi vid Universitetet i Oslo och en pionjär inom matematisk ekonomi."
+    },
+    "funFact": {
+      "nb": "Begrunnelsen var at de hadde «utviklet og anvendt dynamiske modeller for analyse av økonomiske prosesser». Senere har også Trygve Haavelmo (1989) og Finn Kydland (2004) fått prisen.",
+      "sv": "Motiveringen var att de hade «utvecklat och tillämpat dynamiska modeller för analys av ekonomiska processer». Senare har även Trygve Haavelmo (1989) och Finn Kydland (2004) fått priset."
+    },
+    "source": "Nobel Prize Outreach – økonomiprisen 1969; Store norske leksikon"
+  },
+  {
+    "id": "nobel-v-10",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1915 delte en far og sønn fysikkprisen for å ha analysert krystallstrukturer ved hjelp av røntgenstråler. Sønnen var bare 25 år og er fortsatt den yngste som har fått nobelprisen i en naturvitenskap. Hvilket etternavn bar de to?",
+      "sv": "År 1915 delade en far och son fysikpriset för att ha analyserat kristallstrukturer med hjälp av röntgenstrålar. Sonen var bara 25 år och är fortfarande den yngste som fått nobelpriset i en naturvetenskap. Vilket efternamn bar de två?"
+    },
+    "answer": "Bragg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Loven som knytter røntgenstrålenes bølgelengde til avstanden mellom atomplanene i en krystall, bærer navnet deres.",
+      "sv": "Lagen som knyter röntgenstrålarnas våglängd till avståndet mellan atomplanen i en kristall bär deras namn."
+    },
+    "funFact": {
+      "nb": "Sønnen William Lawrence formulerte loven som student i 1912 og delte prisen med faren William Henry. Metoden ble senere avgjørende for å bestemme strukturen til DNA og proteiner.",
+      "sv": "Sonen William Lawrence formulerade lagen som student 1912 och delade priset med fadern William Henry. Metoden blev senare avgörande för att bestämma strukturen hos DNA och proteiner."
+    },
+    "source": "Nobel Prize Outreach – fysikkprisen 1915"
+  }
+]

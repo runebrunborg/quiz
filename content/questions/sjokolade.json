@@ -1,0 +1,808 @@
+[
+  {
+    "id": "sjokolade-l-01",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "I 1753 ga en svensk naturforsker kakaotreet det vitenskapelige navnet Theobroma cacao, der «theobroma» er gresk for «gudenes mat». Treet stammer opprinnelig fra Amazonas-regnskogen i Sør-Amerika. Hvem var naturforskeren som satte navnet?",
+      "sv": "År 1753 gav en svensk naturforskare kakaoträdet det vetenskapliga namnet Theobroma cacao, där «theobroma» är grekiska för «gudarnas föda». Trädet härstammar ursprungligen från Amazonas regnskog i Sydamerika. Vem var naturforskaren som satte namnet?"
+    },
+    "answer": "Carl von Linné",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl",
+      "family": "von Linné"
+    },
+    "hint": {
+      "nb": "Han regnes som far til det binomiale systemet for å navngi arter, og ble adlet noen år etter denne utgivelsen.",
+      "sv": "Han räknas som fadern till det binomiala systemet för att namnge arter, och adlades några år efter denna utgivning."
+    },
+    "funFact": {
+      "nb": "Navnet kom i tobindsverket «Species Plantarum», som fortsatt regnes som utgangspunktet for moderne botanisk navngiving. Åtte år senere, i 1761, ble han adlet og tok navnet Carl von Linné.",
+      "sv": "Namnet kom i tvåbandsverket «Species Plantarum», som fortfarande räknas som utgångspunkten för modern botanisk namngivning. Åtta år senare, 1761, adlades han och tog namnet Carl von Linné."
+    },
+    "source": "Species Plantarum (1753); Uppsala universitet"
+  },
+  {
+    "id": "sjokolade-l-02",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Aztekernes sjokoladedrikk ble laget av malte kakaobønner rørt ut i vann og smakt til med chili og andre krydder, og ble drukket med stor høytidelighet av krigere, adel og herskere. Én ting manglet helt sammenlignet med sjokoladen vi kjenner i dag. Hva var det?",
+      "sv": "Aztekernas chokladdryck gjordes av malda kakaobönor rörda ut i vatten och kryddades med chili och andra kryddor, och dracks med stor högtidlighet av krigare, adel och härskare. En sak saknades helt jämfört med chokladen vi känner i dag. Vad var det?"
+    },
+    "answer": {
+      "nb": "Sukker",
+      "sv": "Socker"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Drikken ble gjort skummende ved å helles fra en beholder til en annen, en tilberedningsmåte som fortsatt brukes enkelte steder i Mexico.",
+      "sv": "Drycken gjordes skummande genom att hällas från ett kärl till ett annat, ett tillagningssätt som fortfarande används på sina håll i Mexiko."
+    },
+    "funFact": {
+      "nb": "Ordet sjokolade stammer trolig fra et nahuatlspråklig ord aztekerne brukte om denne drikken. Da spanjolene senere tok den med til Europa, begynte de å søte den og varme den opp.",
+      "sv": "Ordet choklad kommer troligen från ett ord på nahuatl som aztekerna använde om denna dryck. När spanjorerna senare tog med den till Europa började de söta den och värma upp den."
+    },
+    "source": "Sophie D. og Michael D. Coe, «The True History of Chocolate»"
+  },
+  {
+    "id": "sjokolade-l-03",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "I 1964 ga denne walisisk-britiske forfatteren ut en barnebok om fem barn som vinner gylne billetter til en hemmelighetsfull fabrikk. Ideen skal ha blitt næret av spionasje mellom rivaliserende sjokoladefabrikker mens han selv gikk på kostskole. Hvem skrev «Charlie og sjokoladefabrikken»?",
+      "sv": "År 1964 gav denna walesisk-brittiska författaren ut en barnbok om fem barn som vinner gyllene biljetter till en hemlighetsfull fabrik. Idén ska ha närts av spionage mellan rivaliserande chokladfabriker medan han själv gick i internatskola. Vem skrev «Kalle och chokladfabriken»?"
+    },
+    "answer": "Roald Dahl",
+    "answerKind": "person",
+    "person": {
+      "given": "Roald",
+      "family": "Dahl"
+    },
+    "hint": {
+      "nb": "Han er også kjent for bøker som «Matilda» og «Jakob og den store ferskenen», og var selv født i Wales av norske foreldre.",
+      "sv": "Han är också känd för böcker som «Matilda» och «James och den jättelika persikan», och var själv född i Wales av norska föräldrar."
+    },
+    "funFact": {
+      "nb": "Dahl gikk på Repton School, dit sjokoladeprodusenter som Cadbury sendte nye produkter for utprøving blant elevene – noe han senere sa inspirerte boken. Filmatiseringen fra 1971 mislikte han sterkt.",
+      "sv": "Dahl gick på Repton School, dit chokladtillverkare som Cadbury skickade nya produkter för utprovning bland eleverna – något han senare sa inspirerade boken. Filmatiseringen från 1971 ogillade han starkt."
+    },
+    "source": "Roald Dahl Story Company; Wikipedia – Charlie and the Chocolate Factory"
+  },
+  {
+    "id": "sjokolade-l-04",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Denne sjokoladefabrikken ble grunnlagt i 1889 og har helt siden den gang holdt til på Rodeløkka i Oslo. Bare tre år senere ble den kjøpt av en forretningsmann som skulle gjøre den til landets ledende sjokoladeprodusent. Hvilken fabrikk er dette?",
+      "sv": "Denna chokladfabrik grundades 1889 och har ända sedan dess legat på Rodeløkka i Oslo. Bara tre år senare köptes den av en affärsman som skulle göra den till landets ledande chokladtillverkare. Vilken fabrik är detta?"
+    },
+    "answer": "Freia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fabrikken er i dag mest kjent for sin melkesjokolade og for vaffelplaten nordmenn spiser i fjellet i påsken.",
+      "sv": "Fabriken är i dag mest känd för sin mjölkchoklad och för den rånbaserade chokladkakan norrmän äter i fjällen på påsken."
+    },
+    "funFact": {
+      "nb": "Forretningsmannen het Johan Throne Holst. Nesten tretti år senere startet han også søsterbedriften Marabou i Sverige.",
+      "sv": "Affärsmannen hette Johan Throne Holst. Nästan trettio år senare startade han också systerföretaget Marabou i Sverige."
+    },
+    "source": "Wikipedia – Freia (chocolate)"
+  },
+  {
+    "id": "sjokolade-l-05",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "popkultur",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Denne vaffelplaten dekket med melkesjokolade ble lansert av Freia i 1937 og er siden blitt selve symbolet på den norske påskefjellturen. Baksiden av innpakningen har i mange tiår vist reglene for trygg ferdsel i fjellet. Hvilken sjokoladeplate er dette?",
+      "sv": "Denna rånbaserade chokladkaka lanserades av Freia 1937 och har sedan dess blivit själva symbolen för den norska påskfjällturen. Baksidan av omslaget har i många decennier visat reglerna för säker vistelse i fjällen. Vilken chokladkaka är detta?"
+    },
+    "answer": "Kvikk Lunsj",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr «rask lunsj», og platen består av fire rektangulære vafler med sjokolade imellom.",
+      "sv": "Namnet betyder «snabb lunch», och kakan består av fyra rektangulära rån med choklad emellan."
+    },
+    "funFact": {
+      "nb": "Da Freia i 2005 endret innpakningen til en lufttett variant, oppsto det protestgrupper på Facebook – et tegn på hvor sterkt platen er knyttet til norsk identitet.",
+      "sv": "När Freia 2005 ändrade omslaget till en lufttät variant uppstod protestgrupper på Facebook – ett tecken på hur starkt kakan är knuten till norsk identitet."
+    },
+    "source": "Wikipedia – Kvikk Lunsj"
+  },
+  {
+    "id": "sjokolade-l-06",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "okonomi",
+      "design"
+    ],
+    "prompt": {
+      "nb": "I 1916 startet en norsk forretningsmann en sjokoladefabrikk i Sundbyberg utenfor Stockholm. Navnet Freia var allerede opptatt i Sverige, så fabrikken ble i stedet oppkalt etter storkefuglen i logoen. Hvilken svensk sjokoladefabrikk er dette?",
+      "sv": "År 1916 startade en norsk affärsman en chokladfabrik i Sundbyberg utanför Stockholm. Namnet Freja var redan upptaget i Sverige, så fabriken uppkallades i stället efter storkfågeln i logotypen. Vilken svensk chokladfabrik är detta?"
+    },
+    "answer": "Marabou",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Logoen har senere blitt endret, men fuglenavnet henger fortsatt igjen i selskapsnavnet.",
+      "sv": "Logotypen har senare ändrats, men fågelnamnet lever fortfarande kvar i företagsnamnet."
+    },
+    "funFact": {
+      "nb": "Forretningsmannen het Johan Throne Holst og eide fra før Freia i Norge. Selve produksjonen kom først i gang i 1919, forsinket av mangel på kakao under første verdenskrig.",
+      "sv": "Affärsmannen hette Johan Throne Holst och ägde sedan tidigare Freia i Norge. Själva produktionen kom först igång 1919, försenad av kakaobrist under första världskriget."
+    },
+    "source": "Wikipedia – Marabou (chocolate)"
+  },
+  {
+    "id": "sjokolade-l-07",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "popkultur",
+      "design"
+    ],
+    "prompt": {
+      "nb": "I 1953 lanserte en svensk godteriprodusent en skumgodisfigur formet som en liten bil, i flere farger. Den er blitt kalt verdens mest solgte bil – i alle fall regnet i antall. Hva heter godteriet?",
+      "sv": "År 1953 lanserade en svensk godistillverkare en skumgodisfigur formad som en liten bil, i flera färger. Den har kallats världens mest sålda bil – i alla fall räknat i antal. Vad heter godiset?"
+    },
+    "answer": "Ahlgrens bilar",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Godteriet er oppkalt etter produsentfamilien, og lages i dag av Cloetta.",
+      "sv": "Godiset är uppkallat efter tillverkarfamiljen, och görs i dag av Cloetta."
+    },
+    "funFact": {
+      "nb": "Da konsernet Cloetta kjøpte opp Ahlgrens i 1993 og la ned de fleste andre merkene til fordel for Leaf, fikk bilene beholde sitt opprinnelige navn.",
+      "sv": "När koncernen Cloetta köpte upp Ahlgrens 1993 och lade ner de flesta andra märkena till förmån för Leaf, fick bilarna behålla sitt ursprungliga namn."
+    },
+    "source": "Wikipedia – Ahlgrens bilar"
+  },
+  {
+    "id": "sjokolade-l-08",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Sjokoladedrikken kom til Europa med spanjolene på 1500-tallet, men brukte over hundre år på å nå videre nordover. Rundt 1657 åpnet det som regnes som det aller første sjokoladehuset i dette landet, og drikken spredte seg raskt sammen med de nye kaffehusene. Hvilket land?",
+      "sv": "Chokladdrycken kom till Europa med spanjorerna på 1500-talet, men tog över hundra år på sig att nå vidare norrut. Omkring 1657 öppnade det som räknas som det allra första chokladhuset i detta land, och drycken spred sig snabbt tillsammans med de nya kaffehusen. Vilket land?"
+    },
+    "answer": "England",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedstaden i landet er også kjent for sine tradisjonsrike kaffehus fra samme århundre.",
+      "sv": "Huvudstaden i landet är också känd för sina traditionsrika kaffehus från samma århundrade."
+    },
+    "funFact": {
+      "nb": "Sjokolade var lenge en dyr luksusdrikk for overklassen, ikke noe man spiste i fast form – de første faste sjokoladeplatene kom ikke før på 1800-tallet.",
+      "sv": "Choklad var länge en dyr lyxdryck för överklassen, inte något man åt i fast form – de första fasta chokladkakorna kom inte förrän på 1800-talet."
+    },
+    "source": "Wikipedia – History of chocolate"
+  },
+  {
+    "id": "sjokolade-l-09",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Denne fettypen fra kakaobønnen smelter mellom 34 og 38 grader – like under kroppstemperaturen vår. Det forklarer hvorfor en sjokoladeplate er fast i romtemperatur, men smelter med én gang du putter et stykke i munnen. Hva heter fettet?",
+      "sv": "Denna fettyp från kakaobönan smälter mellan 34 och 38 grader – strax under vår kroppstemperatur. Det förklarar varför en chokladkaka är fast i rumstemperatur men smälter direkt när du stoppar en bit i munnen. Vad heter fettet?"
+    },
+    "answer": {
+      "nb": "Kakaosmør",
+      "sv": "Kakaosmör"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det samme fettet brukes også i hudkremer og leppepomade.",
+      "sv": "Samma fett används också i hudkrämer och läppomade."
+    },
+    "funFact": {
+      "nb": "Fettet kan krystallisere seg i seks ulike former. Bare én av dem gir sjokoladen den blanke overflaten og det tydelige knekket vi forventer.",
+      "sv": "Fettet kan kristallisera sig i sex olika former. Bara en av dem ger chokladen den blanka ytan och det tydliga knäcket vi förväntar oss."
+    },
+    "source": "Wikipedia – Cocoa butter"
+  },
+  {
+    "id": "sjokolade-l-10",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "På 1870-tallet strevde en sjokolademaker lenge med å blande melk inn i sjokoladen uten at den ble muggen. Løsningen kom da han fikk hjelp av en nabo som nettopp hadde funnet opp kondensert melk. I hvilket land ble melkesjokoladen dermed oppfunnet?",
+      "sv": "Under 1870-talet kämpade en chokladtillverkare länge med att blanda in mjölk i chokladen utan att den möglade. Lösningen kom när han fick hjälp av en granne som just hade uppfunnit kondenserad mjölk. I vilket land uppfanns mjölkchokladen därmed?"
+    },
+    "answer": {
+      "nb": "Sveits",
+      "sv": "Schweiz"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Naboen het Henri Nestlé, og de to inngikk senere et forretningspartnerskap.",
+      "sv": "Grannen hette Henri Nestlé, och de två inledde senare ett affärspartnerskap."
+    },
+    "funFact": {
+      "nb": "Sjokolademakeren het Daniel Peter og holdt til i byen Vevey. Det tok ham nesten tjue år fra han begynte å eksperimentere til produktet nådde markedet i 1875.",
+      "sv": "Chokladtillverkaren hette Daniel Peter och höll till i staden Vevey. Det tog honom nästan tjugo år från det att han började experimentera tills produkten nådde marknaden 1875."
+    },
+    "source": "Wikipedia – Daniel Peter"
+  },
+  {
+    "id": "sjokolade-m-01",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1879 lot en sveitsisk sjokolademaker en blandemaskin i fabrikken sin gå hele helgen ved en feiltakelse. Resultatet ble en sjokolade som var langt jevnere, blankere og mer smeltende enn noe som fantes fra før. Hvem oppfant denne prosessen, kalt konchering?",
+      "sv": "År 1879 lät en schweizisk chokladtillverkare en blandningsmaskin i sin fabrik gå hela helgen av misstag. Resultatet blev en choklad som var betydligt jämnare, blankare och mer smältande än något som funnits tidigare. Vem uppfann denna process, kallad konchering?"
+    },
+    "answer": "Rodolphe Lindt",
+    "answerKind": "person",
+    "person": {
+      "given": "Rodolphe",
+      "family": "Lindt"
+    },
+    "hint": {
+      "nb": "Etternavnet hans lever videre i et av verdens mest kjente sjokolademerker.",
+      "sv": "Efternamnet hans lever vidare i ett av världens mest kända chokladmärken."
+    },
+    "funFact": {
+      "nb": "Navnet konchering kommer av at de opprinnelige maskinene hadde en form som lignet et konkylieskall. Moderne fabrikker gjør i dag jobben på timer, mot opptil flere døgn tidligere.",
+      "sv": "Namnet konchering kommer av att de ursprungliga maskinerna hade en form som liknade ett snäckskal. Moderna fabriker gör i dag jobbet på timmar, mot upp till flera dygn tidigare."
+    },
+    "source": "Wikipedia – Conching"
+  },
+  {
+    "id": "sjokolade-m-02",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Kakaosmør kan stivne i seks ulike krystallformer, men bare én av dem gir sjokoladen et blankt utseende og et tydelig knekk. Velges feil form, får overflaten stygge, gråhvite flekker kalt fettmodning. Hvilken varmebehandlingsprosess bruker sjokolademakere for å sikre riktig krystallform?",
+      "sv": "Kakaosmör kan stelna i sex olika kristallformer, men bara en av dem ger chokladen ett blankt utseende och ett tydligt knäck. Väljs fel form får ytan fula, gråvita fläckar som kallas fettvit. Vilken värmebehandlingsprocess använder chokladtillverkare för att säkerställa rätt kristallform?"
+    },
+    "answer": {
+      "nb": "Temperering",
+      "sv": "Temperering"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Prosessen innebærer å varme opp, avkjøle og varme opp sjokoladen igjen i nøye kontrollerte temperaturtrinn.",
+      "sv": "Processen innebär att värma upp, kyla ner och värma upp chokladen igen i noggrant kontrollerade temperatursteg."
+    },
+    "funFact": {
+      "nb": "Den ønskede krystallformen kalles form V og smelter ved rundt 34 grader. Fettmodning er ikke farlig å spise, men gir en dårligere tekstur.",
+      "sv": "Den önskade kristallformen kallas form V och smälter vid omkring 34 grader. Fettvit är inte farligt att äta, men ger en sämre textur."
+    },
+    "source": "Wikipedia – Cocoa butter"
+  },
+  {
+    "id": "sjokolade-m-03",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Denne sjokoladefabrikken i Trondheim ble grunnlagt i 1912 og er fortsatt i drift på samme sted, i dag som del av Orkla-konsernet. Et av de mest kjente produktene, en kremfylt plate, har vært laget på samme pakkemaskin siden 1957. Hvilken fabrikk er dette?",
+      "sv": "Denna chokladfabrik i Trondheim grundades 1912 och drivs fortfarande på samma plats, i dag som en del av Orkla-koncernen. En av de mest kända produkterna, en gräddfylld kaka, har tillverkats på samma förpackningsmaskin sedan 1957. Vilken fabrik är detta?"
+    },
+    "answer": "Nidar",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er en gammel form av navnet på byen fabrikken ligger i.",
+      "sv": "Namnet är en gammal form av namnet på staden fabriken ligger i."
+    },
+    "funFact": {
+      "nb": "Produktet med den gamle pakkemaskinen heter Krembanan. På 1970-tallet slo Nidar seg sammen med tre andre norske konfektbedrifter.",
+      "sv": "Produkten med den gamla förpackningsmaskinen heter Krembanan. På 1970-talet gick Nidar samman med tre andra norska konfektyrföretag."
+    },
+    "source": "Wikipedia – Nidar"
+  },
+  {
+    "id": "sjokolade-m-04",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "okonomi",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I 1862 startet tre brødre et sjokoladefirma i København, og elleve år senere åpnet de en fabrikk i Malmø som etter hvert ble hovedbasen. Selskapet er i dag et av Nordens største innen sjokolade og godteri. Hva heter selskapet?",
+      "sv": "År 1862 startade tre bröder ett chokladföretag i Köpenhamn, och elva år senare öppnade de en fabrik i Malmö som så småningom blev huvudbasen. Företaget är i dag ett av Nordens största inom choklad och godis. Vad heter företaget?"
+    },
+    "answer": "Cloetta",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Brødrene het Cloëtta, og det er også navnet på selskapet den dag i dag.",
+      "sv": "Bröderna hette Cloëtta, och det är också namnet på företaget än i dag."
+    },
+    "funFact": {
+      "nb": "Familien Cloëtta var dansk, ikke svensk, selv om selskapet i dag oppfattes som svensk gjennom og gjennom. Etternavnet er opphavet til navnet på hele konsernet.",
+      "sv": "Familjen Cloëtta var dansk, inte svensk, även om företaget i dag uppfattas som svenskt rakt igenom. Efternamnet är ursprunget till namnet på hela koncernen."
+    },
+    "source": "Wikipedia – Cloetta"
+  },
+  {
+    "id": "sjokolade-m-05",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "design",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I 1908 lanserte en sveitsisk konditor en trekantet sjokoladeplate i Bern. Navnet er satt sammen av etternavnet hans og det italienske ordet for nougat, og et bjørneomriss – byens symbol – er gjemt i fjellsilhuetten på pakningen. Hvilken sjokoladeplate er dette?",
+      "sv": "År 1908 lanserade en schweizisk konditor en triangelformad chokladkaka i Bern. Namnet är sammansatt av hans efternamn och det italienska ordet för nougat, och en björnkontur – stadens symbol – är gömd i bergssilhuetten på förpackningen. Vilken chokladkaka är detta?"
+    },
+    "answer": "Toblerone",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sjokoladeplaten inneholder også honning og mandler i selve nougaten.",
+      "sv": "Chokladkakan innehåller också honung och mandel i själva nougaten."
+    },
+    "funFact": {
+      "nb": "Konditoren het Theodor Tobler. Ifølge sønnene hans var det egentlig ikke et fjell, men en dansegruppes pyramideformasjon på Folies Bergère i Paris, som inspirerte den trekantede formen.",
+      "sv": "Konditorn hette Theodor Tobler. Enligt hans söner var det egentligen inte ett berg, utan en dansgrupps pyramidformation på Folies Bergère i Paris, som inspirerade den triangulära formen."
+    },
+    "source": "Wikipedia – Toblerone"
+  },
+  {
+    "id": "sjokolade-m-06",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "popkultur",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Denne italienske sjokoladeprodusenten bygde i 1974 videre på en italiensk påsketradisjon med overraskelsesegg, og laget et helårsprodukt: et melkesjokoladeegg med hvit sjokolade innvendig og en gul plastkapsel med leke inni. Hva kalles dette produktet i Norden?",
+      "sv": "Denna italienska chokladtillverkare byggde 1974 vidare på en italiensk påsktradition med överraskningsägg, och skapade en helårsprodukt: ett mjölkchokladägg med vit choklad invändigt och en gul plastkapsel med leksak i. Vad kallas denna produkt i Norden?"
+    },
+    "answer": {
+      "nb": "Kinderegg",
+      "sv": "Kinderägg"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Produsenten er også kjent for pålegget Nutella.",
+      "sv": "Tillverkaren är också känd för pålägget Nutella."
+    },
+    "funFact": {
+      "nb": "Produktet er utviklet av Ferrero-familien i byen Alba. Siden lanseringen har det kommet med rundt tolv tusen ulike leker.",
+      "sv": "Produkten är utvecklad av familjen Ferrero i staden Alba. Sedan lanseringen har den kommit med omkring tolv tusen olika leksaker."
+    },
+    "source": "Wikipedia – Kinder Surprise"
+  },
+  {
+    "id": "sjokolade-m-07",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Denne norske forretningsmannen kjøpte i 1892 en liten sjokoladefabrikk i Oslo og bygde den opp til å bli landets største. I 1916 startet han i tillegg søsterbedriften Marabou i Sverige. Hvem var han?",
+      "sv": "Denna norska affärsman köpte 1892 en liten chokladfabrik i Oslo och byggde upp den till att bli landets största. År 1916 startade han dessutom systerföretaget Marabou i Sverige. Vem var han?"
+    },
+    "answer": "Johan Throne Holst",
+    "answerKind": "person",
+    "person": {
+      "given": "Johan",
+      "family": "Throne Holst"
+    },
+    "hint": {
+      "nb": "Fabrikken han kjøpte i Oslo het Freia.",
+      "sv": "Fabriken han köpte i Oslo hette Freia."
+    },
+    "funFact": {
+      "nb": "Sønnen hans, Henning Throne Holst, sto senere bak flere kjente Marabou-merker, blant dem en skumgodisplate med et navn som betyr «uten stans».",
+      "sv": "Sonen hans, Henning Throne Holst, låg senare bakom flera kända Marabou-märken, bland dem en skumgodiskaka med ett namn som betyder «utan uppehåll»."
+    },
+    "source": "Wikipedia – Freia (chocolate); Wikipedia – Marabou (chocolate)"
+  },
+  {
+    "id": "sjokolade-m-08",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "mat-og-drikke",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Henning Throne Holst, sønn av grunnleggeren av Marabou, sto bak flere merker som fortsatt finnes i godterihyllene. Ett av dem er en skumgodisplate dekket med sjokolade, med et navn som betyr «uten stans» eller «uten avbrudd». Hvilket merke?",
+      "sv": "Henning Throne Holst, son till grundaren av Marabou, låg bakom flera märken som fortfarande finns i godishyllorna. Ett av dem är en skumgodiskaka täckt med choklad, med ett namn som betyder «utan uppehåll» eller «utan avbrott». Vilket märke?"
+    },
+    "answer": "Non Stop",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er engelsk og består av to ord.",
+      "sv": "Namnet är engelskt och består av två ord."
+    },
+    "funFact": {
+      "nb": "De samme Marabou-merkene omfatter også Japp, Daim og Twist – alle skapt eller videreutviklet av samme mann.",
+      "sv": "Samma Marabou-märken omfattar också Japp, Daim och Twist – alla skapade eller vidareutvecklade av samma man."
+    },
+    "source": "Wikipedia – Marabou (chocolate)"
+  },
+  {
+    "id": "sjokolade-m-09",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Denne sjokoladetypen inneholder kakaosmør, sukker og melk, men ingen kakaomasse eller kakaopulver – derfor mangler den den brune fargen. Nestlé regnes som først ute med å selge den kommersielt, under navnet Galak i 1936. Hva slags sjokolade er dette?",
+      "sv": "Denna chokladtyp innehåller kakaosmör, socker och mjölk, men ingen kakaomassa eller kakaopulver – därför saknar den den bruna färgen. Nestlé räknas som först med att sälja den kommersiellt, under namnet Galak år 1936. Vilken sorts choklad är detta?"
+    },
+    "answer": {
+      "nb": "Hvit sjokolade",
+      "sv": "Vit choklad"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I Storbritannia selges samme produkt under navnet Milkybar.",
+      "sv": "I Storbritannien säljs samma produkt under namnet Milkybar."
+    },
+    "funFact": {
+      "nb": "Selve betegnelsen dukket først opp i tidsskriftet Scientific American i 1917, nesten tjue år før Nestlés produkt kom i handelen.",
+      "sv": "Själva beteckningen dök först upp i tidskriften Scientific American 1917, nästan tjugo år innan Nestlés produkt kom i handeln."
+    },
+    "source": "Wikipedia – White chocolate"
+  },
+  {
+    "id": "sjokolade-m-10",
+    "category": "sjokolade",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "film",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Denne filmen fra 2000 er basert på en roman av Joanne Harris og handler om en kvinne som åpner en sjokoladebutikk i en fransk landsby under fasten. Filmen fikk fem Oscar-nominasjoner, blant dem beste kvinnelige hovedrolle til Juliette Binoche. Hva heter filmen?",
+      "sv": "Denna film från 2000 bygger på en roman av Joanne Harris och handlar om en kvinna som öppnar en chokladbutik i en fransk by under fastan. Filmen fick fem Oscarsnomineringar, bland dem bästa kvinnliga huvudroll till Juliette Binoche. Vad heter filmen?"
+    },
+    "answer": "Chocolat",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I birollene finner vi blant andre Judi Dench og Johnny Depp.",
+      "sv": "I biroller finner vi bland andra Judi Dench och Johnny Depp."
+    },
+    "funFact": {
+      "nb": "Filmen ble regissert av svenske Lasse Hallström. Den fiktive landsbyen i filmen heter Lansquenet-sous-Tannes.",
+      "sv": "Filmen regisserades av svenske Lasse Hallström. Den fiktiva byn i filmen heter Lansquenet-sous-Tannes."
+    },
+    "source": "Wikipedia – Chocolat (2000 film)"
+  },
+  {
+    "id": "sjokolade-v-01",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sprak",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Ordet sjokolade kom til europeiske språk via spansk, men stammer opprinnelig fra et urfolksspråk i Mexico – selv om språkforskere fortsatt diskuterer nøyaktig hvilket ord det opprinnelig var. Hvilket språk er dette, som også var aztekernes språk?",
+      "sv": "Ordet choklad kom till europeiska språk via spanska, men härstammar ursprungligen från ett urfolksspråk i Mexiko – även om språkforskare fortfarande diskuterar exakt vilket ord det ursprungligen var. Vilket språk är detta, som också var aztekernas språk?"
+    },
+    "answer": "Nahuatl",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Språket snakkes fortsatt av over en million mennesker i Mexico i dag.",
+      "sv": "Språket talas fortfarande av över en miljon människor i Mexiko i dag."
+    },
+    "funFact": {
+      "nb": "Ett forslag er ordet «chocolātl», men det dukker ikke opp skriftlig før på 1700-tallet. Andre forskere mener «chicolātl» – etter tresleiven man rørte drikken med – er en mer sannsynlig opprinnelse.",
+      "sv": "Ett förslag är ordet «chocolātl», men det dyker inte upp skriftligt förrän på 1700-talet. Andra forskare menar att «chicolātl» – efter träslevens man rörde drycken med – är ett mer troligt ursprung."
+    },
+    "source": "Wiktionary – etymology of chocolate; Sophie D. og Michael D. Coe, «The True History of Chocolate»"
+  },
+  {
+    "id": "sjokolade-v-02",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1828 patenterte en nederlandsk familiebedrift en hydraulisk presse som skilte kakaosmøret fra kakaomassen, og skapte dermed kakaopulver. Samme etternavn er også knyttet til alkaliseringsmetoden «dutching», som gjør pulveret lettere å røre ut i vann. Hvilket etternavn?",
+      "sv": "År 1828 patenterade ett nederländskt familjeföretag en hydraulisk press som skilde kakaosmöret från kakaomassan, och skapade därmed kakaopulver. Samma efternamn är också kopplat till alkaliseringsmetoden «dutching», som gör pulvret lättare att röra ut i vatten. Vilket efternamn?"
+    },
+    "answer": "Van Houten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Patentet gjorde det for første gang mulig å produsere sjokolade i store mengder til en overkommelig pris.",
+      "sv": "Patentet gjorde det för första gången möjligt att producera choklad i stora mängder till ett överkomligt pris."
+    },
+    "funFact": {
+      "nb": "Pressen ble patentert av far og sønn i fellesskap, mens det var sønnen, Coenraad Johannes, som senere utviklet selve alkaliseringsmetoden.",
+      "sv": "Pressen patenterades av far och son tillsammans, medan det var sonen, Coenraad Johannes, som senare utvecklade själva alkaliseringsmetoden."
+    },
+    "source": "Wikipedia – Coenraad Johannes van Houten"
+  },
+  {
+    "id": "sjokolade-v-03",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "To naboland i Vest-Afrika har i flere tiår stått for mesteparten av verdens kakaoproduksjon til sammen. Det største av dem alene dyrker over en tredjedel av all verdens kakao. Hvilket land er dette?",
+      "sv": "Två grannländer i Västafrika har i flera decennier stått för merparten av världens kakaoproduktion tillsammans. Det största av dem odlar ensamt över en tredjedel av all världens kakao. Vilket land är detta?"
+    },
+    "answer": {
+      "nb": "Elfenbenskysten",
+      "sv": "Elfenbenskusten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Naboland nummer to i denne kakaoduoen er Ghana.",
+      "sv": "Grannland nummer två i denna kakaoduon är Ghana."
+    },
+    "funFact": {
+      "nb": "Kakaotreet stiller strenge krav til klima og trives bare i et smalt belte nær ekvator. Selv om treet opprinnelig stammer fra Amazonas, dyrkes det aller meste i dag altså i Vest-Afrika.",
+      "sv": "Kakaoträdet ställer stränga krav på klimatet och trivs bara i ett smalt bälte nära ekvatorn. Även om trädet ursprungligen härstammar från Amazonas odlas det mesta i dag alltså i Västafrika."
+    },
+    "source": "Wikipedia – Cacao bean"
+  },
+  {
+    "id": "sjokolade-v-04",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "medisin",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "På et sykehus i Lund gjennomførte svenske forskere på slutten av 1940-tallet studier av sammenhengen mellom sukker og hull i tennene. Anbefalingen om å innta ukens godteri samlet, i stedet for spredt utover uken, la grunnlaget for en svensk tradisjon som lever videre i dag. Hva kalles tradisjonen?",
+      "sv": "På ett sjukhus i Lund genomförde svenska forskare i slutet av 1940-talet studier av sambandet mellan socker och karies. Rekommendationen att äta veckans godis samlat, i stället för utspritt över veckan, lade grunden till en svensk tradition som lever kvar i dag. Vad kallas traditionen?"
+    },
+    "answer": {
+      "nb": "Lørdagsgodt",
+      "sv": "Lördagsgodis"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tradisjonen innebærer at godteriet i hovedsak spises på én bestemt ukedag.",
+      "sv": "Traditionen innebär att godiset i huvudsak äts en bestämd veckodag."
+    },
+    "funFact": {
+      "nb": "Studiene fant sted ved Vipeholms sykehus og pågikk i flere år. De ga et av de klareste vitenskapelige bevisene på at sukker – særlig klebrig sukker som blir sittende på tennene – fører til hull.",
+      "sv": "Studierna ägde rum vid Vipeholms sjukhus och pågick i flera år. De gav ett av de tydligaste vetenskapliga bevisen för att socker – särskilt klibbigt socker som fastnar på tänderna – orsakar karies."
+    },
+    "source": "Wikipedia – Vipeholm experiments"
+  },
+  {
+    "id": "sjokolade-v-05",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "På 1970-tallet slo en stor sjokoladefabrikk i Trondheim seg sammen med tre eldre norske konfektbedrifter. Én av dem hadde holdt til i samme by helt siden 1899. Hva het denne eldre Trondheims-bedriften?",
+      "sv": "På 1970-talet gick en stor chokladfabrik i Trondheim samman med tre äldre norska konfektyrföretag. Ett av dem hade funnits i samma stad ända sedan 1899. Vad hette detta äldre Trondheimsföretag?"
+    },
+    "answer": "Lorentz Erbe & Søn",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet består av et fornavn, et etternavn og ordet for «sønn».",
+      "sv": "Namnet består av ett förnamn, ett efternamn och ordet för «son»."
+    },
+    "funFact": {
+      "nb": "Den store fabrikken de gikk inn i, Nidar, tok samtidig også opp i seg to Oslo-bedrifter: Kiellands Fabrikker og Bergene.",
+      "sv": "Den stora fabriken de gick in i, Nidar, tog samtidigt också upp två Oslobaserade företag: Kiellands Fabrikker och Bergene."
+    },
+    "source": "Wikipedia – Nidar"
+  },
+  {
+    "id": "sjokolade-v-06",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "design",
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "På slutten av 1960-tallet fikk en kjent industridesigner i oppdrag å tegne om logoen til en stor svensk sjokoladefabrikk, og erstattet storkefuglen med en avrundet bokstav M. Designeren var også medlem av det svenske kongehuset. Hvem var han?",
+      "sv": "I slutet av 1960-talet fick en känd industridesigner i uppdrag att rita om logotypen för en stor svensk chokladfabrik, och ersatte storkfågeln med ett avrundat bokstaven M. Designern var också medlem av det svenska kungahuset. Vem var han?"
+    },
+    "answer": "Sigvard Bernadotte",
+    "answerKind": "person",
+    "person": {
+      "given": "Sigvard",
+      "family": "Bernadotte"
+    },
+    "hint": {
+      "nb": "Han var sønn av en svensk konge, men frasa seg sin kongelige tittel for å kunne gifte seg og arbeide som designer.",
+      "sv": "Han var son till en svensk kung, men avsade sig sin kungliga titel för att kunna gifta sig och arbeta som designer."
+    },
+    "funFact": {
+      "nb": "Fabrikken var Marabou. Storken i den opprinnelige logoen viste til navnet – siden Freja allerede var opptatt som varemerke, fikk den svenske marabustorken gi navnet i stedet.",
+      "sv": "Fabriken var Marabou. Storken i den ursprungliga logotypen syftade på namnet – eftersom Freja redan var upptaget som varumärke fick den svenska marabustorken ge namnet i stället."
+    },
+    "source": "Wikipedia – Marabou (chocolate); Wikipedia – Sigvard Bernadotte"
+  },
+  {
+    "id": "sjokolade-v-07",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "I 1946 begynte en baker i den italienske byen Alba å selge et pålegg av hasselnøtter og kakao, oppfunnet fordi etterkrigstidens rasjonering gjorde ordentlig sjokolade knapp og dyr. Sønnen hans videreutviklet oppskriften og lanserte den i 1964 under et nytt navn. Hvem var bakeren?",
+      "sv": "År 1946 började en bagare i den italienska staden Alba sälja ett pålägg av hasselnötter och kakao, uppfunnet eftersom efterkrigstidens ransonering gjorde riktig choklad knapp och dyr. Hans son vidareutvecklade receptet och lanserade det 1964 under ett nytt namn. Vem var bagaren?"
+    },
+    "answer": "Pietro Ferrero",
+    "answerKind": "person",
+    "person": {
+      "given": "Pietro",
+      "family": "Ferrero"
+    },
+    "hint": {
+      "nb": "Etternavnet hans er i dag navnet på et av verdens største konfektkonsern.",
+      "sv": "Efternamnet hans är i dag namnet på en av världens största konfektyrkoncerner."
+    },
+    "funFact": {
+      "nb": "Det opprinnelige pålegget het Pasta Gianduja, etter en tradisjonell nøtte- og sjokoladeblanding fra Torino-regionen. Sønnen Michele ga produktet det nye navnet Nutella.",
+      "sv": "Det ursprungliga pålägget hette Pasta Gianduja, efter en traditionell nöt- och chokladblandning från Turinregionen. Sonen Michele gav produkten det nya namnet Nutella."
+    },
+    "source": "Wikipedia – Nutella"
+  },
+  {
+    "id": "sjokolade-v-08",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "kunst",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Sjokoladefabrikken på Rodeløkka i Oslo bestilte i 1921 utsmykning av spisesalen for arbeiderne, og fikk landets aller største kunstner til å gjøre jobben. Det ble hans siste store dekorative oppdrag. Hvilken maler sto bak?",
+      "sv": "Chokladfabriken på Rodeløkka i Oslo beställde 1921 utsmyckning av matsalen för arbetarna och fick landets allra största konstnär att göra jobbet. Det blev hans sista stora dekorativa uppdrag. Vilken målare stod bakom?"
+    },
+    "answer": "Edvard Munch",
+    "answerKind": "person",
+    "person": {
+      "given": "Edvard",
+      "family": "Munch"
+    },
+    "hint": {
+      "nb": "Samme kunstner malte «Skrik» og «Livets dans», og dekorerte tidligere Universitetets aula.",
+      "sv": "Samma konstnär målade «Skriet» och «Livets dans», och dekorerade tidigare universitetets aula i Oslo."
+    },
+    "funFact": {
+      "nb": "Arbeidet ble gjort i 1921–1922 og er kjent som Freiafrisen. At fabrikkarbeidere skulle spise lunsjen sin omgitt av verk av landets fremste maler var en radikal tanke i samtiden.",
+      "sv": "Arbetet gjordes 1921–1922 och är känt som Freiafrisen. Att fabriksarbetare skulle äta sin lunch omgivna av verk av landets främste målare var en radikal tanke på den tiden."
+    },
+    "source": "Store norske leksikon – Edvard Munch"
+  },
+  {
+    "id": "sjokolade-v-09",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "sprak",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Navnet på denne svenske sjokoladeplaten beskriver rett og slett hva den består av: en kjeksplate dekket med melkesjokolade. Platen regnes som en klassiker i den svenske godterihyllen og lages i dag av Cloetta. Hva heter den?",
+      "sv": "Namnet på denna svenska chokladkaka beskriver helt enkelt vad den består av: en kexskiva täckt med mjölkchoklad. Kakan räknas som en klassiker i den svenska godishyllan och tillverkas i dag av Cloetta. Vad heter den?"
+    },
+    "answer": "Kexchoklad",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De to delene av navnet er de to hovedbestanddelene.",
+      "sv": "De två delarna av namnet är de två huvudingredienserna."
+    },
+    "funFact": {
+      "nb": "«Kex» er det svenske ordet for kjeks eller kjeksaktig bakverk, mens «choklad» rett og slett er svensk for sjokolade.",
+      "sv": "«Kex» är det svenska ordet för just kex eller kexliknande bakverk, medan «choklad» helt enkelt är svenska för choklad."
+    },
+    "source": "Wikipedia – Cloetta"
+  },
+  {
+    "id": "sjokolade-v-10",
+    "category": "sjokolade",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I 1900 solgte denne amerikanske godteriprodusenten sitt svært lønnsomme karamellselskap for én million dollar, og brukte pengene til å bygge en sjokoladefabrikk omgitt av en hel arbeiderby oppkalt etter ham selv. Hvem var han?",
+      "sv": "År 1900 sålde denna amerikanska godistillverkare sitt mycket lönsamma karamellföretag för en miljon dollar, och använde pengarna till att bygga en chokladfabrik omgiven av en hel arbetarstad uppkallad efter honom själv. Vem var han?"
+    },
+    "answer": "Milton Hershey",
+    "answerKind": "person",
+    "person": {
+      "given": "Milton",
+      "family": "Hershey"
+    },
+    "hint": {
+      "nb": "Byen ligger i delstaten Pennsylvania og bærer samme navn som sjokoladen.",
+      "sv": "Staden ligger i delstaten Pennsylvania och bär samma namn som chokladen."
+    },
+    "funFact": {
+      "nb": "Samme år, 1900, kom de første Hershey-platene på markedet. Syv år senere fulgte den lille dråpeformede godbiten Hershey's Kiss.",
+      "sv": "Samma år, 1900, kom de första Hershey-kakorna ut på marknaden. Sju år senare följde den lilla droppformade godsaken Hershey's Kiss."
+    },
+    "source": "Wikipedia – Milton S. Hershey"
+  }
+]

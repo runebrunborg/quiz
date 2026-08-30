@@ -1,0 +1,770 @@
+[
+  {
+    "id": "fjell-l-01",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Britene kalte det bare «Peak XV» til Royal Geographical Society i 1865 oppkalte det etter en tidligere landmålersjef i India, en mann som selv protesterte mot æren. Nepalerne sier Sagarmatha, tibetanerne Chomolungma. Hvilket fjell er dette?",
+      "sv": "Britterna kallade det bara «Peak XV» tills Royal Geographical Society 1865 döpte det efter en tidigare lantmäterichef i Indien, en man som själv protesterade mot äran. Nepaleserna säger Sagarmatha, tibetanerna Chomolungma. Vilket berg är detta?"
+    },
+    "answer": "Mount Everest",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den offisielle høyden ble i desember 2020 kunngjort av Nepal og Kina i fellesskap: 8848,86 meter over havet.",
+      "sv": "Den officiella höjden tillkännagavs i december 2020 av Nepal och Kina gemensamt: 8 848,86 meter över havet."
+    },
+    "funFact": {
+      "nb": "Landmåleren het George Everest, og etternavnet hans ble uttalt «IV-rist» – ikke slik fjellnavnet uttales i dag. Førstebestigningen kom 29. mai 1953.",
+      "sv": "Lantmätaren hette George Everest, och hans efternamn uttalades «IV-rist» – inte som bergsnamnet uttalas i dag. Förstabestigningen kom den 29 maj 1953."
+    },
+    "source": "Royal Geographical Society; Encyclopaedia Britannica – Mount Everest"
+  },
+  {
+    "id": "fjell-l-02",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den ruver alene over savannen i Tanzania og er en sovende stratovulkan med tre kratre. Det høyeste punktet fikk etter selvstendigheten navnet Uhuru, som betyr «frihet» på swahili. Hvilket fjell er Afrikas høyeste?",
+      "sv": "Det reser sig ensamt över savannen i Tanzania och är en sovande stratovulkan med tre kratrar. Den högsta punkten fick efter självständigheten namnet Uhuru, som betyder «frihet» på swahili. Vilket berg är Afrikas högsta?"
+    },
+    "answer": "Kilimanjaro",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Toppen ligger 5895 meter over havet, og det høyeste av de tre kraterne heter Kibo.",
+      "sv": "Toppen ligger 5 895 meter över havet, och den högsta av de tre kratrarna heter Kibo."
+    },
+    "funFact": {
+      "nb": "Fram til 1964 het toppen Kaiser-Wilhelm-Spitze, et minne fra tiden som tysk koloni. De to andre kraterne heter Mawenzi og Shira.",
+      "sv": "Fram till 1964 hette toppen Kaiser-Wilhelm-Spitze, ett minne från tiden som tysk koloni. De två andra kratrarna heter Mawenzi och Shira."
+    },
+    "source": "Encyclopaedia Britannica – Kilimanjaro; Tanzania National Parks"
+  },
+  {
+    "id": "fjell-l-03",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Sommeren 1850 gikk tre menn fra Lom opp fra Spiterstulen og gjorde den første kjente bestigningen: Steinar Sulheim, Ingebrigt Flotten og Lars Arnesen. Toppen de nådde, ligger 2469 meter over havet. Hvilket fjell er Norges høyeste?",
+      "sv": "Sommaren 1850 gick tre män från Lom upp från Spiterstulen och gjorde den första kända bestigningen: Steinar Sulheim, Ingebrigt Flotten och Lars Arnesen. Toppen de nådde ligger 2 469 meter över havet. Vilket är Norges högsta berg?"
+    },
+    "answer": "Galdhøpiggen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellet ligger i Jotunheimen, mellom Visdalen og Leirdalen i Lom kommune.",
+      "sv": "Berget ligger i Jotunheimen, mellan Visdalen och Leirdalen i Lom kommun."
+    },
+    "funFact": {
+      "nb": "Nabotoppen Glittertind var lenge en utfordrer: med isbreen medregnet ble den målt høyere. Breen har krympet, og sommeren 2024 var Glittertind helt snøfri.",
+      "sv": "Grannetoppen Glittertind var länge en utmanare: med glaciären inräknad mättes den som högre. Glaciären har krympt, och sommaren 2024 var Glittertind helt snöfri."
+    },
+    "source": "Store norske leksikon – Galdhøpiggen og Glittertind"
+  },
+  {
+    "id": "fjell-l-04",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mytologi",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "De tolv gudene i gresk mytologi skulle ifølge tradisjonen holde hus på toppen, som med sine snaut 2918 meter også er landets høyeste. Den øverste tinden kalles Mytikas, «nesen». Hva heter dette fjellet?",
+      "sv": "De tolv gudarna i grekisk mytologi skulle enligt traditionen bo på toppen, som med sina knappt 2 918 meter också är landets högsta. Den översta tinnen kallas Mytikas, «näsan». Vad heter detta berg?"
+    },
+    "answer": "Olympos",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellet ligger i Hellas, nær kysten av Egeerhavet, rett vest for byen Litochoro.",
+      "sv": "Berget ligger i Grekland, nära Egeiska havets kust, strax väster om staden Litochoro."
+    },
+    "funFact": {
+      "nb": "Den første kjente bestigningen skjedde så sent som 2. august 1913, da sveitserne Frédéric Boissonnas og Daniel Baud-Bovy nådde toppen sammen med den lokale geitejegeren Christos Kakkalos.",
+      "sv": "Den första kända bestigningen skedde så sent som den 2 augusti 1913, då schweizarna Frédéric Boissonnas och Daniel Baud-Bovy nådde toppen tillsammans med den lokala getjägaren Christos Kakkalos."
+    },
+    "source": "Encyclopaedia Britannica – Mount Olympus"
+  },
+  {
+    "id": "fjell-l-05",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Sveriges høyeste fjell har to topper. Sørtoppen bærer en isbre som smelter og måles på nytt hver sommer, mens den isfrie nordtoppen nå er den høyeste. Navnet er samisk og betyr omtrent «kjelekammen». Hva heter fjellet?",
+      "sv": "Sveriges högsta berg har två toppar. Sydtoppen bär en glaciär som smälter och mäts om varje sommar, medan den isfria nordtoppen nu är den högsta. Namnet är samiskt och betyder ungefär «kittelkammen». Vad heter berget?"
+    },
+    "answer": "Kebnekaise",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellet ligger i Lappland, vest for Kiruna, like ved den lange fotturløypa gjennom fjellene.",
+      "sv": "Berget ligger i Lappland, väster om Kiruna, alldeles intill den långa vandringsleden genom fjällen."
+    },
+    "funFact": {
+      "nb": "Det nordsamiske navnet er Giebmegáisi. Fordi breen på sørtoppen krymper, er den isfrie nordtoppen nå Sveriges høyeste faste punkt.",
+      "sv": "Det nordsamiska namnet är Giebmegáisi. Eftersom glaciären på sydtoppen krymper är den isfria nordtoppen nu Sveriges högsta fasta punkt."
+    },
+    "source": "Stockholms universitet – Tarfala forskningsstation"
+  },
+  {
+    "id": "fjell-l-06",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "design",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Sjokoladen Toblerone ble laget i Bern i 1908, og siden 1960 har et bestemt alpefjell preget innpakningen – med en bjørn skjult inne i fjellsiden. Fjellet ligger på grensen mellom Sveits og Italia. Hva heter det?",
+      "sv": "Chokladen Toblerone skapades i Bern 1908, och sedan 1960 har ett bestämt alpberg prytt förpackningen – med en björn dold inne i bergssidan. Berget ligger på gränsen mellan Schweiz och Italien. Vad heter det?"
+    },
+    "answer": "Matterhorn",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Førstebestigningen i 1865 endte i katastrofe: fire av sju klatrere omkom på nedturen da tauet røk.",
+      "sv": "Förstabestigningen 1865 slutade i katastrof: fyra av sju klättrare omkom på nedstigningen när repet brast."
+    },
+    "funFact": {
+      "nb": "Bjørnen er byvåpenet til Bern. Edward Whymper nådde toppen 14. juli 1865, men Michel Croz, Douglas Hadow, Charles Hudson og lord Francis Douglas omkom under nedstigningen.",
+      "sv": "Björnen är Berns stadsvapen. Edward Whymper nådde toppen den 14 juli 1865, men Michel Croz, Douglas Hadow, Charles Hudson och lord Francis Douglas omkom under nedstigningen."
+    },
+    "source": "Encyclopaedia Britannica – Matterhorn; Mondelez/Toblerone – merkehistorikk"
+  },
+  {
+    "id": "fjell-l-07",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Ibsen lot Peer Gynt ri på en reinsbukk langs en knivskarp fjellrygg han i skuespillet kalte «Gjendineggen». I virkeligheten stuper ryggen nesten 400 meter rett ned i vannet Gjende. Hva heter fjellryggen egentlig?",
+      "sv": "Ibsen lät Peer Gynt rida på en renbock längs en knivskarp bergsrygg som han i pjäsen kallade «Gjendineggen». I verkligheten stupar ryggen nästan 400 meter rakt ned i sjön Gjende. Vad heter bergsryggen i verkligheten?"
+    },
+    "answer": "Besseggen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den ligger i østlige Jotunheimen, mellom Gjende og det langt høyereliggende Bessvatnet.",
+      "sv": "Den ligger i östra Jotunheimen, mellan Gjende och det betydligt högre belägna Bessvatnet."
+    },
+    "funFact": {
+      "nb": "Bessvatnet ligger nesten 400 meter høyere enn Gjende, som får sin grønnlige farge av slam fra brebekkene. I 2019 gikk rundt 60 000 mennesker turen.",
+      "sv": "Bessvatnet ligger nästan 400 meter högre än Gjende, som får sin grönaktiga färg av slam från glaciärbäckarna. År 2019 gick omkring 60 000 människor turen."
+    },
+    "source": "Store norske leksikon – Besseggen; Henrik Ibsen, «Peer Gynt» (1867)"
+  },
+  {
+    "id": "fjell-l-08",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kunst",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Hokusai laget en serie på trettiseks tresnitt av det på 1830-tallet, det har vært pilegrimsmål i århundrer, og i 2013 kom det på Unescos verdensarvliste – som kulturminne, ikke som naturminne. Hvilket fjell er dette?",
+      "sv": "Hokusai gjorde en serie på trettiosex träsnitt av det på 1830-talet, det har varit pilgrimsmål i århundraden, och 2013 kom det med på Unescos världsarvslista – som kulturarv, inte som naturarv. Vilket berg är detta?"
+    },
+    "answer": "Fuji",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er Japans høyeste fjell, 3776 meter, og en vulkan som sist hadde utbrudd vinteren 1707–1708.",
+      "sv": "Det är Japans högsta berg, 3 776 meter, och en vulkan som senast fick utbrott vintern 1707–1708."
+    },
+    "funFact": {
+      "nb": "Unesco begrunnet oppføringen med at fjellet har inspirert kunstnere og diktere og vært mål for pilegrimer gjennom århundrer. Hokusai laget senere også en serie kalt «Hundre utsikter».",
+      "sv": "Unesco motiverade upptagandet med att berget har inspirerat konstnärer och diktare och varit mål för pilgrimer genom århundraden. Hokusai gjorde senare också en serie kallad «Hundra utsikter»."
+    },
+    "source": "Unesco – World Heritage List, «Fujisan, sacred place and source of artistic inspiration»"
+  },
+  {
+    "id": "fjell-l-09",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur",
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Nasjonalparken i Jokkmokk ble opprettet i 1909, i den aller første puljen av svenske nasjonalparker. Her ligger seks topper over 2000 meter, og her lever både bjørn og en elgstamme som regnes som unik i Europa. Hva heter parken?",
+      "sv": "Nationalparken i Jokkmokk inrättades 1909, i den allra första omgången svenska nationalparker. Här finns sex toppar över 2 000 meter, och här lever både björn och en älgstam som räknas som unik i Europa. Vad heter parken?"
+    },
+    "answer": "Sarek",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Høyeste topp er Sarektjåkkå, 2089 meter over havet, og parken inngår i verdensarvområdet Laponia.",
+      "sv": "Högsta toppen är Sarektjåkkå, 2 089 meter över havet, och parken ingår i världsarvsområdet Laponia."
+    },
+    "funFact": {
+      "nb": "Sverige opprettet ni nasjonalparker på én gang i 1909, blant de aller første i Europa. Parken har ingen vei inn og regnes som et av verdensdelens mest utilgjengelige fjellområder.",
+      "sv": "Sverige inrättade nio nationalparker på en gång 1909, bland de allra första i Europa. Parken har ingen väg in och räknas som ett av världsdelens mest otillgängliga fjällområden."
+    },
+    "source": "Naturvårdsverket – Sareks nationalpark; Store norske leksikon"
+  },
+  {
+    "id": "fjell-l-10",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Fra en hylle 1180 meter over havet stikker en flat steinformasjon vannrett ut i lufta, rundt 800 meter over Ringedalsvatnet i Ullensvang. Turen inn og ut er 28 kilometer, og bildene derfra fyller sosiale medier. Hva heter formasjonen?",
+      "sv": "Från en hylla 1 180 meter över havet sticker en flat klippformation vågrätt ut i luften, omkring 800 meter över sjön Ringedalsvatnet i Ullensvang. Turen in och ut är 28 kilometer, och bilderna därifrån fyller sociala medier. Vad heter formationen?"
+    },
+    "answer": "Trolltunga",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet spiller på et vesen fra folketroen som stikker noe ut av munnen.",
+      "sv": "Namnet anspelar på ett väsen ur folktron som sticker ut något ur munnen."
+    },
+    "funFact": {
+      "nb": "Turen tar normalt 10–11 timer tur-retur og starter ved enden av Mågelivegen, rundt 850 meter over havet. Formasjonen ligger nordøst for Ringedalsvatnet.",
+      "sv": "Turen tar normalt 10–11 timmar tur och retur och startar vid slutet av Mågelivegen, omkring 850 meter över havet. Formationen ligger nordost om Ringedalsvatnet."
+    },
+    "source": "Store norske leksikon – Trolltunga"
+  },
+  {
+    "id": "fjell-m-01",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Naturforskeren Horace-Bénédict de Saussure lovte belønning til den som først nådde toppen. 8. august 1786 klarte Jacques Balmat og legen Michel Paccard det, og bragden regnes som starten på moderne alpinisme. Hvilket fjell besteg de?",
+      "sv": "Naturforskaren Horace-Bénédict de Saussure utlovade belöning till den som först nådde toppen. Den 8 augusti 1786 lyckades Jacques Balmat och läkaren Michel Paccard, och bedriften räknas som början på den moderna alpinismen. Vilket berg besteg de?"
+    },
+    "answer": "Mont Blanc",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er Alpenes høyeste fjell og ligger på grensen mellom Frankrike og Italia, ved byen Chamonix.",
+      "sv": "Det är Alpernas högsta berg och ligger på gränsen mellan Frankrike och Italien, vid staden Chamonix."
+    },
+    "funFact": {
+      "nb": "Saussure gikk selv opp året etter, i 1787. Snø- og isdekket på toppen varierer, så høyden oppgis litt ulikt fra måling til måling, rundt 4808 meter.",
+      "sv": "Saussure gick själv upp året därpå, 1787. Snö- och istäcket på toppen varierar, så höjden anges lite olika från mätning till mätning, omkring 4 808 meter."
+    },
+    "source": "Encyclopaedia Britannica – Mont Blanc"
+  },
+  {
+    "id": "fjell-m-02",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I 2002 kåret lytterne til NRKs Reiseradioen dette 1391 meter høye fjellet i Narvik kommune til Norges nasjonalfjell. Det ser ut som en obelisk med glatte vegger som går rett ned i sjøen. Hva heter det?",
+      "sv": "År 2002 utsåg lyssnarna till NRK:s Reiseradioen detta 1 391 meter höga berg i Narviks kommun till Norges nationalberg. Det ser ut som en obelisk med släta väggar som går rakt ned i havet. Vad heter det?"
+    },
+    "answer": "Stetind",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Førstebestigningen kom 13. juli 1910, ved Alf Bonnevie Bryn, Carl Wilhelm Rubenson og Ferdinand Schjelderup.",
+      "sv": "Förstabestigningen kom den 13 juli 1910, av Alf Bonnevie Bryn, Carl Wilhelm Rubenson och Ferdinand Schjelderup."
+    },
+    "funFact": {
+      "nb": "Fjellet stiger rett opp fra Stefjorden i Nordland. Norsk Tindeklub var stiftet i 1908, og bestigningen to år senere er blant de mest omtalte i norsk klatrehistorie.",
+      "sv": "Berget reser sig rakt upp ur Stefjorden i Nordland. Norsk Tindeklub bildades 1908, och bestigningen två år senare är bland de mest omtalade i norsk klätterhistoria."
+    },
+    "source": "Store norske leksikon – Stetind"
+  },
+  {
+    "id": "fjell-m-03",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Navnet er ikke annet enn en forkortelse fra den britiske oppmålingen av Karakoram på 1850-tallet: en bokstav for fjellkjeden og et tall for toppen. Klatrere kaller det «det ville fjellet». Hvilket fjell er verdens nest høyeste?",
+      "sv": "Namnet är inget annat än en förkortning från den brittiska uppmätningen av Karakoram på 1850-talet: en bokstav för bergskedjan och en siffra för toppen. Klättrare kallar det «det vilda berget». Vilket berg är världens näst högsta?"
+    },
+    "answer": "K2",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellet er 8611 meter høyt og ligger på grensen mellom Pakistan og Kina.",
+      "sv": "Berget är 8 611 meter högt och ligger på gränsen mellan Pakistan och Kina."
+    },
+    "funFact": {
+      "nb": "Førstebestigningen kom 31. juli 1954, ved italienerne Achille Compagnoni og Lino Lacedelli på en ekspedisjon ledet av Ardito Desio. Kallenavnet «Savage Mountain» stammer fra klatreren George Bell.",
+      "sv": "Förstabestigningen kom den 31 juli 1954, av italienarna Achille Compagnoni och Lino Lacedelli på en expedition ledd av Ardito Desio. Smeknamnet «Savage Mountain» kommer från klättraren George Bell."
+    },
+    "source": "Encyclopaedia Britannica – K2"
+  },
+  {
+    "id": "fjell-m-04",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Svenska Turistföreningen, stiftet i 1885, står bak Sveriges mest kjente fotturløype. Den går over 400 kilometer gjennom fjellheimen fra Abisko i nord til Hemavan i sør, med fjellstuer underveis. Hva heter løypa?",
+      "sv": "Svenska Turistföreningen, bildad 1885, står bakom Sveriges mest kända vandringsled. Den går över 400 kilometer genom fjällvärlden från Abisko i norr till Hemavan i söder, med fjällstugor längs vägen. Vad heter leden?"
+    },
+    "answer": "Kungsleden",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den nordligste etappen går gjennom Abisko nasjonalpark og forbi Sveriges høyeste fjellmassiv.",
+      "sv": "Den nordligaste etappen går genom Abisko nationalpark och förbi Sveriges högsta bergsmassiv."
+    },
+    "funFact": {
+      "nb": "Navnet dukket opp første gang i 1928, da fjellstasjonen i Kvikkjokk åpnet. Løypa ble forlenget til Hemavan i 1975, samtidig med opprettelsen av Vindelfjällens naturreservat.",
+      "sv": "Namnet dök upp första gången 1928, då fjällstationen i Kvikkjokk öppnade. Leden förlängdes till Hemavan 1975, samtidigt som Vindelfjällens naturreservat bildades."
+    },
+    "source": "Svenska Turistföreningen (STF); Naturvårdsverket"
+  },
+  {
+    "id": "fjell-m-05",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Han drev birøkt sammen med faren og broren hjemme på New Zealand, med 1600 kuber å passe. 29. mai 1953 ble han og sherpaen Tenzing Norgay de første som sto på verdens høyeste topp. Hva het birøkteren?",
+      "sv": "Han drev biodling tillsammans med sin far och bror hemma på Nya Zeeland, med 1 600 kupor att sköta. Den 29 maj 1953 blev han och sherpan Tenzing Norgay de första som stod på världens högsta topp. Vad hette biodlaren?"
+    },
+    "answer": "Edmund Hillary",
+    "answerKind": "person",
+    "person": {
+      "given": "Edmund",
+      "family": "Hillary"
+    },
+    "hint": {
+      "nb": "Han ble adlet samme år som bestigningen og har senere prydet New Zealands femdollarseddel.",
+      "sv": "Han adlades samma år som bestigningen och har senare prytt Nya Zeelands femdollarsedel."
+    },
+    "funFact": {
+      "nb": "Ekspedisjonen var britisk og ble ledet av John Hunt. I 1960 grunnla han Himalayan Trust, som har bygd skoler og sykehus for sherpaene i Khumbu.",
+      "sv": "Expeditionen var brittisk och leddes av John Hunt. År 1960 grundade han Himalayan Trust, som har byggt skolor och sjukhus för sherpafolket i Khumbu."
+    },
+    "source": "Encyclopaedia Britannica – Sir Edmund Hillary"
+  },
+  {
+    "id": "fjell-m-06",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "I Romsdalen i Rauma reiser det seg et loddrett stup på rundt 1000 meter, det høyeste i Europa. Norske og britiske klatrere brukte nesten to uker på førstebestigningen sommeren 1965. Hva heter denne fjellveggen?",
+      "sv": "I Romsdalen i Rauma reser sig ett lodrätt stup på omkring 1 000 meter, det högsta i Europa. Norska och brittiska klättrare använde nästan två veckor på förstabestigningen sommaren 1965. Vad heter denna bergvägg?"
+    },
+    "answer": "Trollveggen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Veggen er en del av fjellrekka Trolltindane, og fallskjermhopping herfra var forbudt fra 1986 til 2000.",
+      "sv": "Väggen är en del av bergskedjan Trolltindane, och fallskärmshoppning härifrån var förbjuden från 1986 till 2000."
+    },
+    "funFact": {
+      "nb": "Toppen ligger rundt 1700 meter over dalbunnen, og området inngår i Reinheimen nasjonalpark. Basehopping ble forbudt i 1986 etter flere dødsulykker og tillatt igjen i 2000.",
+      "sv": "Toppen ligger omkring 1 700 meter över dalbotten, och området ingår i Reinheimen nationalpark. Basehoppning förbjöds 1986 efter flera dödsolyckor och tilläts igen 2000."
+    },
+    "source": "Store norske leksikon – Trollveggen"
+  },
+  {
+    "id": "fjell-m-07",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Han vokste opp i en liten fjellbygd i Lappland, kjørte bare slalåm og storslalåm, og vant 86 renn i verdenscupen. Under vinter-OL i Lake Placid i 1980 tok han gull i begge grenene. Hva heter alpinisten?",
+      "sv": "Han växte upp i en liten fjällby i Lappland, körde bara slalom och storslalom, och vann 86 lopp i världscupen. Under vinter-OS i Lake Placid 1980 tog han guld i båda grenarna. Vad heter alpinisten?"
+    },
+    "answer": "Ingemar Stenmark",
+    "answerKind": "person",
+    "person": {
+      "given": "Ingemar",
+      "family": "Stenmark"
+    },
+    "hint": {
+      "nb": "Hjembygda heter Tärnaby og ligger i Storumans kommun; derfra kommer også Anja Pärson.",
+      "sv": "Hembyn heter Tärnaby och ligger i Storumans kommun; därifrån kommer också Anja Pärson."
+    },
+    "funFact": {
+      "nb": "De 86 seirene fordeler seg på 46 i storslalåm og 40 i slalåm. Han vant verdenscupen sammenlagt tre år på rad, 1976, 1977 og 1978.",
+      "sv": "De 86 segrarna fördelar sig på 46 i storslalom och 40 i slalom. Han vann världscupen sammanlagt tre år i rad: 1976, 1977 och 1978."
+    },
+    "source": "Internationella Skidförbundet (FIS); Sveriges Olympiska Kommitté"
+  },
+  {
+    "id": "fjell-m-08",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Himalaya vokser fortsatt noen millimeter i året fordi to kontinentplater presses mot hverandre. Den ene er den eurasiske. Hvilken plate er den andre, den som for rundt 50 millioner år siden begynte å skyve fjellkjeden opp?",
+      "sv": "Himalaya växer fortfarande några millimeter om året eftersom två kontinentalplattor pressas mot varandra. Den ena är den eurasiska. Vilken platta är den andra, den som för ungefär 50 miljoner år sedan började skjuta upp bergskedjan?"
+    },
+    "answer": {
+      "nb": "Den indiske platen",
+      "sv": "Den indiska plattan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Platen bærer et subkontinent som en gang lå langt sør på den gamle sørkontinenten Gondwana og drev nordover over ekvator.",
+      "sv": "Plattan bär en subkontinent som en gång låg långt söderut på den gamla sydkontinenten Gondwana och drev norrut över ekvatorn."
+    },
+    "funFact": {
+      "nb": "Platen beveger seg fortsatt nordover med rundt 67 millimeter i året, og Himalaya heves omtrent 5 millimeter årlig. Den samme kollisjonen har løftet Tibet-platået.",
+      "sv": "Plattan rör sig fortfarande norrut med omkring 67 millimeter om året, och Himalaya höjs ungefär 5 millimeter årligen. Samma kollision har lyft Tibetanska platån."
+    },
+    "source": "United States Geological Survey (USGS) – «This Dynamic Earth»"
+  },
+  {
+    "id": "fjell-m-09",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "musikk",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Satsen begynner lavt og snikende og ender i vilt kaos, mens Peer Gynt flykter fra trollene i fjellhallen til Dovregubben. Musikken ble skrevet i 1875 til Ibsens skuespill. Hvem er komponisten?",
+      "sv": "Satsen börjar lågt och smygande och slutar i vilt kaos, medan Peer Gynt flyr från trollen i Dovregubbens bergsal. Musiken skrevs 1875 till Ibsens pjäs. Vem är tonsättaren?"
+    },
+    "answer": "Edvard Grieg",
+    "answerKind": "person",
+    "person": {
+      "given": "Edvard",
+      "family": "Grieg"
+    },
+    "hint": {
+      "nb": "Han er født i Bergen, og byens store konserthus bærer navnet hans.",
+      "sv": "Han föddes i Bergen, och stadens stora konserthus bär hans namn."
+    },
+    "funFact": {
+      "nb": "Scenemusikken til «Peer Gynt» ble senere satt sammen til to orkestersuiter, med satser som «Morgenstemning» og «Solveigs sang».",
+      "sv": "Scenmusiken till «Peer Gynt» sattes senare samman till två orkestersviter, med satser som «Morgonstämning» och «Solveigs sång»."
+    },
+    "source": "Store norske leksikon – Peer Gynt (musikk); Troldhaugen – Edvard Grieg-museet"
+  },
+  {
+    "id": "fjell-m-10",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Under byen i Norrbotten ligger malmfjellet Kiirunavaara, der gruveselskapet LKAB bryter jernmalm så dypt at grunnen over setter seg. Derfor flyttes hele bysentrum tre kilometer østover. Hvilken by er dette?",
+      "sv": "Under staden i Norrbotten ligger malmberget Kiirunavaara, där gruvbolaget LKAB bryter järnmalm så djupt att marken ovanför sätter sig. Därför flyttas hela stadskärnan tre kilometer österut. Vilken stad är detta?"
+    },
+    "answer": "Kiruna",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger nord for polarsirkelen, og selskapsnavnet LKAB inneholder navnene på to malmfjell.",
+      "sv": "Staden ligger norr om polcirkeln, och bolagsnamnet LKAB innehåller namnen på två malmberg."
+    },
+    "funFact": {
+      "nb": "Flyttingen startet i 2014 og skal pågå i flere tiår. Det nye sentrumet åpnet i 2022, og 21 utvalgte bygninger flyttes fysisk til den nye plasseringen.",
+      "sv": "Flytten startade 2014 och ska pågå i flera decennier. Den nya stadskärnan invigdes 2022, och 21 utvalda byggnader flyttas fysiskt till den nya platsen."
+    },
+    "source": "LKAB; Kiruna kommun – «Kiruna stadsomvandling»"
+  },
+  {
+    "id": "fjell-v-01",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "3. juni 1950 nådde franskmennene Maurice Herzog og Louis Lachenal en topp i Nepal og gjorde noe ingen hadde gjort før: sto på et fjell over 8000 meter. Nedturen kostet dem fingre og tær. Hvilket fjell var det?",
+      "sv": "Den 3 juni 1950 nådde fransmännen Maurice Herzog och Louis Lachenal en topp i Nepal och gjorde något ingen hade gjort förut: stod på ett berg över 8 000 meter. Nedstigningen kostade dem fingrar och tår. Vilket berg var det?"
+    },
+    "answer": "Annapurna",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fjellet er 8091 meter høyt og regnes som et av de aller farligste av åttetusenmeterne.",
+      "sv": "Berget är 8 091 meter högt och räknas som ett av de allra farligaste av åttatusenmeterstopparna."
+    },
+    "funFact": {
+      "nb": "Det var det første av de fjorten åttetusenmeterne som ble besteget. Herzogs bok om ekspedisjonen ble en internasjonal bestselger.",
+      "sv": "Det var det första av de fjorton åttatusenmeterstopparna som bestegs. Herzogs bok om expeditionen blev en internationell bästsäljare."
+    },
+    "source": "Encyclopaedia Britannica – Annapurna; Maurice Herzog, «Annapurna» (1951)"
+  },
+  {
+    "id": "fjell-v-02",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "sport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "21. juli 1876 gikk en britisk fjellklatrer alene opp den siste, bratte biten til toppen av Store Skagastølstind i Hurrungane. Han kalles gjerne den norske fjellsportens far. Hva het han?",
+      "sv": "Den 21 juli 1876 gick en brittisk bergsklättrare ensam upp den sista, branta biten till toppen av Store Skagastølstind i Hurrungane. Han kallas gärna den norska fjällsportens fader. Vad hette han?"
+    },
+    "answer": "William Cecil Slingsby",
+    "answerKind": "person",
+    "person": {
+      "given": "William Cecil",
+      "family": "Slingsby"
+    },
+    "hint": {
+      "nb": "Ruta han fulgte opp, Nordeggen, bærer i dag navnet hans.",
+      "sv": "Rutten han följde upp, Nordeggen, bär i dag hans namn."
+    },
+    "funFact": {
+      "nb": "Emanuel Mohn og Knut Lykken fulgte ham et stykke på vei, men snudde før toppen. Store Skagastølstind er 2405 meter høy og Norges tredje høyeste fjell.",
+      "sv": "Emanuel Mohn och Knut Lykken följde honom en bit på vägen men vände före toppen. Store Skagastølstind är 2 405 meter högt och Norges tredje högsta berg."
+    },
+    "source": "Store norske leksikon – Store Skagastølstind"
+  },
+  {
+    "id": "fjell-v-03",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "8. mai 1978 nådde han og Peter Habeler verdens høyeste topp uten flaskeoksygen, noe mange leger hadde ment var umulig. I 1986 ble han den første som hadde stått på alle fjorten åttetusenmeterne. Hvem er dette?",
+      "sv": "Den 8 maj 1978 nådde han och Peter Habeler världens högsta topp utan syrgas, något många läkare hade menat var omöjligt. År 1986 blev han den förste som hade stått på alla fjorton åttatusenmeterstopparna. Vem är detta?"
+    },
+    "answer": "Reinhold Messner",
+    "answerKind": "person",
+    "person": {
+      "given": "Reinhold",
+      "family": "Messner"
+    },
+    "hint": {
+      "nb": "Han er fra Sør-Tirol i Italia og gjorde i august 1980 også den første soloturen til toppen av Mount Everest uten oksygen.",
+      "sv": "Han är från Sydtyrolen i Italien och gjorde i augusti 1980 också den första soloturen till toppen av Mount Everest utan syrgas."
+    },
+    "funFact": {
+      "nb": "Solobestigningen 20. august 1980 gikk over nordøstryggen fra tibetansk side. Han vokste opp i Villnöss i Sør-Tirol og drev senere et nettverk av fjellmuseer.",
+      "sv": "Solobestigningen den 20 augusti 1980 gick över nordostryggen från tibetansk sida. Han växte upp i Villnöss i Sydtyrolen och drev senare ett nätverk av bergsmuseer."
+    },
+    "source": "Encyclopaedia Britannica – Reinhold Messner"
+  },
+  {
+    "id": "fjell-v-04",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Med sine 1797 meter er dette Sveriges høyeste fjell sør for polarsirkelen, og på nordsiden ligger landets sørligste isbre. Fjellet ligger i Härjedalen, nær grensen mot Norge. Hva heter det?",
+      "sv": "Med sina 1 797 meter är detta Sveriges högsta berg söder om polcirkeln, och på nordsidan ligger landets sydligaste glaciär. Berget ligger i Härjedalen, nära gränsen mot Norge. Vad heter det?"
+    },
+    "answer": "Helagsfjället",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Isbreen på nordsiden bærer samme navn som fjellet, og Svenska Turistföreningen driver en fjellstasjon i området.",
+      "sv": "Glaciären på nordsidan bär samma namn som berget, och Svenska Turistföreningen driver en fjällstation i området."
+    },
+    "funFact": {
+      "nb": "Isbreen ligger i en nordvendt skål der snøen overlever sommeren. Lenger nord i samme fjellkjede finnes langt større breer, som Storglaciären ved Kebnekaise.",
+      "sv": "Glaciären ligger i en nordvänd skål där snön överlever sommaren. Längre norrut i samma fjällkedja finns betydligt större glaciärer, som Storglaciären vid Kebnekaise."
+    },
+    "source": "Naturvårdsverket; Länsstyrelsen i Jämtlands län – fjällinformation"
+  },
+  {
+    "id": "fjell-v-05",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "På spørsmål om hvorfor han ville opp på verdens høyeste fjell, svarte han visstnok bare «fordi det er der». Han forsvant nær toppen i juni 1924 sammen med Andrew Irvine, og liket ble funnet i 1999. Hvem var han?",
+      "sv": "På frågan om varför han ville upp på världens högsta berg svarade han enligt uppgift bara «därför att det finns där». Han försvann nära toppen i juni 1924 tillsammans med Andrew Irvine, och kroppen hittades 1999. Vem var han?"
+    },
+    "answer": "George Mallory",
+    "answerKind": "person",
+    "person": {
+      "given": "George",
+      "family": "Mallory"
+    },
+    "hint": {
+      "nb": "Han var engelsk skolelærer og deltok på alle de tre britiske ekspedisjonene i 1921, 1922 og 1924.",
+      "sv": "Han var engelsk skollärare och deltog i alla de tre brittiska expeditionerna 1921, 1922 och 1924."
+    },
+    "funFact": {
+      "nb": "Han ble funnet 8160 meter over havet, snaut 700 høydemeter under toppen. Om han rakk toppen før han omkom, er fortsatt ubesvart.",
+      "sv": "Han hittades 8 160 meter över havet, knappt 700 höjdmeter under toppen. Om han hann till toppen innan han omkom är fortfarande obesvarat."
+    },
+    "source": "Royal Geographical Society; Encyclopaedia Britannica – George Mallory"
+  },
+  {
+    "id": "fjell-v-06",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Etter flere dødsulykker laget Den Norske Turistforening og Norges Røde Kors i 1952 et sett enkle råd for tur i høyfjellet. De ble skjerpet i 1967, etter en påske der 17 mennesker omkom. Hva kalles disse rådene?",
+      "sv": "Efter flera dödsolyckor tog Den Norske Turistforening och Norges Röda Kors 1952 fram en uppsättning enkla råd för turer i högfjället. De skärptes 1967, efter en påsk då 17 människor omkom. Vad kallas dessa råd?"
+    },
+    "answer": "Fjellvettreglene",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den nyeste utgaven er fra 2016 og har ni punkter; ett av dem er «vend i tide, det er ingen skam å snu».",
+      "sv": "Den senaste versionen är från 2016 och har nio punkter; en av dem är «vänd i tid, det är ingen skam att vända»."
+    },
+    "funFact": {
+      "nb": "Revisjonen i 2016 tok blant annet høyde for toppturer på randonée-ski og økt press på redningstjenesten. Fjellklatreren Cecilie Skog var med i arbeidsgruppen.",
+      "sv": "Revideringen 2016 tog bland annat hänsyn till toppturer på randonéeskidor och ökat tryck på räddningstjänsten. Bergsklättraren Cecilie Skog ingick i arbetsgruppen."
+    },
+    "source": "Den Norske Turistforening; Norges Røde Kors – fjellvettreglene"
+  },
+  {
+    "id": "fjell-v-07",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I en dal like ved Sveriges høyeste fjell driver Stockholms universitet en forskningsstasjon fra 1961. Her er massebalansen på Storglaciären målt siden 1946 – verdens lengste sammenhengende måleserie av sitt slag. Hva heter dalen og stasjonen?",
+      "sv": "I en dal alldeles intill Sveriges högsta berg driver Stockholms universitet en forskningsstation från 1961. Här har massbalansen på Storglaciären mätts sedan 1946 – världens längsta sammanhängande mätserie av sitt slag. Vad heter dalen och stationen?"
+    },
+    "answer": "Tarfala",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er samisk og deles av dalen, forskningsstasjonen og innsjøen midt i dalen.",
+      "sv": "Namnet är samiskt och delas av dalen, forskningsstationen och sjön mitt i dalen."
+    },
+    "funFact": {
+      "nb": "Stasjonen ligger 1135 meter over havet, om lag 150 kilometer nord for polarsirkelen. Herfra måles også høyden på Kebnekaises sørtopp hver sommer.",
+      "sv": "Stationen ligger 1 135 meter över havet, ungefär 150 kilometer norr om polcirkeln. Härifrån mäts också höjden på Kebnekaises sydtopp varje sommar."
+    },
+    "source": "Stockholms universitet – Tarfala forskningsstation"
+  },
+  {
+    "id": "fjell-v-08",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Fordi jorda buler ut ved ekvator, er det ikke Mount Everest som har toppen lengst fra jordas sentrum, men en langt lavere vulkan i Ecuador, bare én breddegrad sør for ekvator. Hva heter denne vulkanen?",
+      "sv": "Eftersom jorden buktar ut vid ekvatorn är det inte Mount Everest som har toppen längst från jordens centrum, utan en betydligt lägre vulkan i Ecuador, bara en breddgrad söder om ekvatorn. Vad heter denna vulkan?"
+    },
+    "answer": "Chimborazo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er Ecuadors høyeste fjell, 6263 meter, og Alexander von Humboldt forsøkte å bestige den i 1802.",
+      "sv": "Den är Ecuadors högsta berg, 6 263 meter, och Alexander von Humboldt försökte bestiga den 1802."
+    },
+    "funFact": {
+      "nb": "Toppen ligger rundt to kilometer lengre fra jordas sentrum enn Mount Everests topp. Humboldt nådde ikke helt opp, men høyden han kom til, ble regnet som datidens høyderekord.",
+      "sv": "Toppen ligger omkring två kilometer längre från jordens centrum än Mount Everests topp. Humboldt nådde inte ända upp, men höjden han kom till räknades som dåtidens höjdrekord."
+    },
+    "source": "Encyclopaedia Britannica – Chimborazo; Instituto Geográfico Militar del Ecuador"
+  },
+  {
+    "id": "fjell-v-09",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "sprak",
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "En norsk geolog foreslo i 1823 navnet «Jotunfjeldene» etter jotnenes hjem i norrøn mytologi. En dikter og journalist fra Telemark tok navnet videre og brukte formen «Jøtunheimen» i en reiseskildring på 1860-tallet. Hvem var dikteren?",
+      "sv": "En norsk geolog föreslog 1823 namnet «Jotunfjeldene» efter jättarnas hem i nordisk mytologi. En diktare och journalist från Telemark tog namnet vidare och använde formen «Jøtunheimen» i en reseskildring på 1860-talet. Vem var diktaren?"
+    },
+    "answer": "Aasmund Olavsson Vinje",
+    "answerKind": "person",
+    "person": {
+      "given": "Aasmund",
+      "family": "Vinje"
+    },
+    "hint": {
+      "nb": "Han skrev på landsmål, ga ut bladet «Dølen» og var med på å finansiere turisthytta Eidsbugarden i 1868.",
+      "sv": "Han skrev på landsmål, gav ut tidskriften «Dølen» och var med och finansierade turiststugan Eidsbugarden 1868."
+    },
+    "funFact": {
+      "nb": "Navnet ble først alminnelig mot slutten av 1800-tallet. Fjellområdet rommer Norges 26 høyeste fjelltopper.",
+      "sv": "Namnet blev allmänt först mot slutet av 1800-talet. Fjällområdet rymmer Norges 26 högsta bergstoppar."
+    },
+    "source": "Store norske leksikon – Jotunheimen; Store norske leksikon – Aasmund Olavsson Vinje"
+  },
+  {
+    "id": "fjell-v-10",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Mellom fjellene Nissuntjårro og Tjuonatjåkka ved Abisko åpner det seg en nesten perfekt U-formet dal, slipt ut av isbreer og et av Lapplands mest fotograferte landemerker. På nordsamisk heter den Čuonjávággi, «gåsedalen». Hva heter den på svensk?",
+      "sv": "Mellan bergen Nissuntjårro och Tjuonatjåkka vid Abisko öppnar sig en nästan perfekt U-formad dal, slipad av glaciärer och ett av Lapplands mest fotograferade landmärken. På nordsamiska heter den Čuonjávággi, «gåsdalen». Vad heter den på svenska?"
+    },
+    "answer": "Lapporten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det svenske navnet beskriver dalen som en inngang til landsdelen den ligger i.",
+      "sv": "Det svenska namnet beskriver dalen som en ingång till landsdelen den ligger i."
+    },
+    "funFact": {
+      "nb": "Dalbunnen ligger rundt 950 meter over havet, med innsjøen Čuonjájávri. U-formen er typisk for daler gravd ut av isbreer, i motsetning til elvedalenes V-form.",
+      "sv": "Dalbotten ligger omkring 950 meter över havet, med sjön Čuonjájávri. U-formen är typisk för dalar urgröpta av glaciärer, till skillnad från älvdalarnas V-form."
+    },
+    "source": "Naturvårdsverket – Abisko nationalpark; Institutet för språk och folkminnen – samiska ortnamn"
+  }
+]

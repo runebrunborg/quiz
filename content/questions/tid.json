@@ -1,0 +1,791 @@
+[
+  {
+    "id": "tid-l-01",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Klokketårnet ved den britiske nasjonalforsamlingen i London ble offisielt omdøpt til Elizabeth Tower i 2012, men det er storklokken inni – som først slo an i 1859 – folk egentlig snakker om. Hvilket kallenavn bruker de fleste på klokken og tårnet?",
+      "sv": "Klocktornet vid det brittiska parlamentet i London döptes officiellt om till Elizabeth Tower 2012, men det är den stora klockan inuti – som slog för första gången 1859 – som folk egentligen menar. Vilket smeknamn använder de flesta om klockan och tornet?"
+    },
+    "answer": "Big Ben",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer trolig fra en lang, ihuga embetsmann som ledet arbeidet med klokken, ikke fra en bokser med samme fornavn – selv om også han nevnes som mulig opphav.",
+      "sv": "Namnet kommer troligen från en lång, nitisk tjänsteman som ledde klockarbetet, inte från en boxare med samma förnamn – även om även han nämns som möjligt ursprung."
+    },
+    "funFact": {
+      "nb": "De to hovedteoriene er at navnet stammer fra Sir Benjamin Hall, den høyreiste embetsmannen som hadde ansvaret for klokken, eller fra bokseren Ben Caunt. Samtidens presseomtale peker mot Hall.",
+      "sv": "De två huvudteorierna är att namnet kommer från Sir Benjamin Hall, den långe tjänstemannen som ansvarade för klockan, eller från boxaren Ben Caunt. Samtidens presskällor pekar mot Hall."
+    },
+    "source": "UK Parliament – «Big Ben: the Great Bell and the Great Clock»"
+  },
+  {
+    "id": "tid-l-02",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "design",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "I 1905 startet en tysk-britisk forretningsmann og partneren Alfred Davis et urfirma i London. Bare tre år senere ga han selskapet et kort, lett uttalelig navn som skulle fungere på alle språk og få plass på en liten urskive. Hvem var mannen bak Rolex?",
+      "sv": "1905 startade en tysk-brittisk affärsman och kompanjonen Alfred Davis ett urföretag i London. Bara tre år senare gav han bolaget ett kort, lättuttalat namn som skulle fungera på alla språk och rymmas på en liten urtavla. Vem var mannen bakom Rolex?"
+    },
+    "answer": "Hans Wilsdorf",
+    "answerKind": "person",
+    "person": {
+      "given": "Hans",
+      "family": "Wilsdorf"
+    },
+    "hint": {
+      "nb": "Han var født i Bayern, men bygde opp selskapet i Storbritannia før det i 1919 flyttet til Genève på grunn av høye britiske avgifter på luksusimport.",
+      "sv": "Han föddes i Bayern men byggde upp bolaget i Storbritannien innan det 1919 flyttade till Genève på grund av höga brittiska avgifter på lyxvaruimport."
+    },
+    "funFact": {
+      "nb": "Rolex fikk sitt navn i 1908 og flyttet til Genève i 1919. I 1926 kom «Oyster», det første vanntette uret, og i 1931 den selvopptrekkende «Perpetual»-mekanismen.",
+      "sv": "Rolex fick sitt namn 1908 och flyttade till Genève 1919. 1926 kom «Oyster», det första vattentäta uret, och 1931 den självuppdragande «Perpetual»-mekanismen."
+    },
+    "source": "Rolex – offisiell selskapshistorikk"
+  },
+  {
+    "id": "tid-l-03",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Klokketypen med en trefigur av en fugl som spretter ut og roper på hel- og halvtimer, ble utviklet og videreforedlet fra 1700-tallet i en skogkledd region i Sør-Tyskland kjent for sine tette graner. Hva kalles denne klokketypen på norsk?",
+      "sv": "Klocktypen med en trädfigur i form av en fågel som poppar ut och ropar på hel- och halvtimmar utvecklades och förfinades från 1700-talet i en skogklädd region i södra Tyskland känd för sina täta granskogar. Vad kallas denna klocktyp på svenska?"
+    },
+    "answer": {
+      "nb": "Gjøkur",
+      "sv": "Gökur"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Regionen er Schwarzwald (Svartskogen), og lyden lages av to små treblåsepiper drevet av belger inni klokken.",
+      "sv": "Regionen är Schwarzwald (Svarta skogen), och ljudet skapas av två små träblåspipor som drivs av bälgar inuti klockan."
+    },
+    "funFact": {
+      "nb": "Den eldste kjente beskrivelsen av en mekanisk gjøk er fra Dresden i 1629, men det var i Schwarzwald konseptet ble videreutviklet til den klassiske veggklokken vi kjenner i dag.",
+      "sv": "Den äldsta kända beskrivningen av en mekanisk gök är från Dresden 1629, men det var i Schwarzwald som konceptet vidareutvecklades till den klassiska väggklocka vi känner i dag."
+    },
+    "source": "Deutsches Uhrenmuseum, Furtwangen – «Kuckucksuhr»"
+  },
+  {
+    "id": "tid-l-04",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I år 46 f.Kr. innførte en romersk hærfører og statsmann en kalenderreform som skulle hindre presteskapet i å forlenge år etter politisk forgodtbefinnende, med et fast skuddår hvert fjerde år. Hvem sto bak denne kalenderen?",
+      "sv": "År 46 f.Kr. införde en romersk fältherre och statsman en kalenderreform som skulle hindra prästerskapet från att förlänga år efter politiskt godtycke, med ett fast skottår vart fjärde år. Vem låg bakom denna kalender?"
+    },
+    "answer": "Julius Caesar",
+    "answerKind": "person",
+    "person": {
+      "given": "Julius",
+      "family": "Caesar"
+    },
+    "hint": {
+      "nb": "Han ble myrdet på idene i mars 44 f.Kr., bare to år etter at kalenderen trådte i kraft.",
+      "sv": "Han mördades på idus martiae 44 f.Kr., bara två år efter att kalendern trätt i kraft."
+    },
+    "funFact": {
+      "nb": "Den julianske kalenderen definerte et år til 365,25 dager, litt for langt i forhold til solåret. Avviket bygget seg opp gjennom middelalderen og var en viktig grunn til at pave Gregor XIII innførte en ny kalender i 1582.",
+      "sv": "Den julianska kalendern definierade ett år till 365,25 dagar, något för långt jämfört med solåret. Avvikelsen byggdes upp genom medeltiden och var en viktig orsak till att påven Gregorius XIII införde en ny kalender 1582."
+    },
+    "source": "Britannica – «Julian calendar»"
+  },
+  {
+    "id": "tid-l-05",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "I filmen fra 1985 bygger en eksentrisk vitenskapsmann om en sportsbil med vingedører til en tidsmaskin, og den må opp i nøyaktig 88 miles i timen for at sprangene gjennom tiden skal fungere. Hvilken bilmodell er dette?",
+      "sv": "I filmen från 1985 bygger en excentrisk vetenskapsman om en sportbil med vingdörrar till en tidsmaskin, och den måste upp i exakt 88 miles i timmen för att sprången genom tiden ska fungera. Vilken bilmodell är detta?"
+    },
+    "answer": "DeLorean",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bilen har et skrog i ubehandlet rustfritt stål, og ble opprinnelig laget av et lite amerikansk bilmerke oppkalt etter grunnleggeren.",
+      "sv": "Bilen har ett skrov i obehandlat rostfritt stål, och tillverkades ursprungligen av ett litet amerikanskt bilmärke uppkallat efter grundaren."
+    },
+    "funFact": {
+      "nb": "Regissør Robert Zemeckis valgte nettopp denne bilen fordi vingedørene skulle gi et ekstra fremmedartet, «UFO-aktig» inntrykk når den dukket opp foran vanlige folk på 1950-tallet.",
+      "sv": "Regissören Robert Zemeckis valde just denna bil eftersom vingdörrarna skulle ge ett extra främmande, «UFO-liknande» intryck när den dök upp framför vanligt folk på 1950-talet."
+    },
+    "source": "Universal Pictures – produksjonshistorikk «Back to the Future» (1985)"
+  },
+  {
+    "id": "tid-l-06",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "I 1931 malte en spansk surrealist et lite, drømmeaktig landskap med flere smeltende lommeur drapert over grener og en formløs skikkelse. Kunstneren selv sa at inspirasjonen kom fra en camembert i solen, ikke fra relativitetsteorien. Hvem malte bildet?",
+      "sv": "1931 målade en spansk surrealist ett litet, drömlikt landskap med flera smältande fickur draperade över grenar och en formlös gestalt. Konstnären själv sa att inspirationen kom från en camembert i solen, inte från relativitetsteorin. Vem målade tavlan?"
+    },
+    "answer": "Salvador Dalí",
+    "answerKind": "person",
+    "person": {
+      "given": "Salvador",
+      "family": "Dalí"
+    },
+    "hint": {
+      "nb": "Bildet henger i dag på Museum of Modern Art i New York, dit det kom som gave fra en anonym giver i 1934.",
+      "sv": "Tavlan hänger i dag på Museum of Modern Art i New York, dit den kom som gåva från en anonym givare 1934."
+    },
+    "funFact": {
+      "nb": "Bildet heter «Det vedvarende minnet» («The Persistence of Memory»). Den ene, faste klokken nederst til venstre er full av maur – en kontrast til de myke, smeltende urene.",
+      "sv": "Tavlan heter «Det ihärdiga minnet» («The Persistence of Memory»). Den enda fasta klockan, nere till vänster, är täckt av myror – en kontrast till de mjuka, smältande uren."
+    },
+    "source": "Museum of Modern Art (MoMA) – «The Persistence of Memory»"
+  },
+  {
+    "id": "tid-l-07",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1700 hoppet Danmark-Norge rett fra 18. februar til 1. mars for å bytte ut den gamle, upresise kalenderen med en nyere og mer nøyaktig en – elleve dager forsvant fra kalenderen over natten. Hvilken kalender tok landet i bruk?",
+      "sv": "1700 hoppade Danmark-Norge direkt från 18 februari till 1 mars för att byta ut den gamla, oprecisa kalendern mot en nyare och mer exakt en – elva dagar försvann ur kalendern över en natt. Vilken kalender tog landet i bruk?"
+    },
+    "answer": {
+      "nb": "Den gregorianske kalenderen",
+      "sv": "Den gregorianska kalendern"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kalenderen er oppkalt etter paven som innførte den i store deler av Europa allerede i 1582, over hundre år tidligere.",
+      "sv": "Kalendern är uppkallad efter påven som införde den i stora delar av Europa redan 1582, över hundra år tidigare."
+    },
+    "funFact": {
+      "nb": "Endringen kom ved kongelig forordning under Frederik IV. Sverige valgte i stedet en helt annen løsning samme år – en gradvis overgang som gikk fullstendig i vasken.",
+      "sv": "Ändringen kom genom kunglig förordning under Fredrik IV. Sverige valde i stället en helt annan lösning samma år – en gradvis övergång som gick fullständigt i stöpet."
+    },
+    "source": "Store norske leksikon – «Gregoriansk kalender»"
+  },
+  {
+    "id": "tid-l-08",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fra middelalderen og fram til tidlig på 1800-tallet brukte man i Norge en evighetskalender av tre, der hver dag ble markert med et innskåret hakk og helligdager fikk egne symboler for helgener og høytider. Hva kalles denne trekalenderen?",
+      "sv": "Från medeltiden och fram till tidigt 1800-tal använde man i Norge en evighetskalender av trä, där varje dag markerades med ett inskuret hack och helgdagar fick egna symboler för helgon och högtider. Vad kallas denna träkalender?"
+    },
+    "answer": "Primstav",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hver ny måned begynte gjerne med en ny symbolrekke, og datoene fulgte solåret, ikke bestemte klokkeslett.",
+      "sv": "Varje ny månad inleddes ofta med en ny symbolrad, och datumen följde solåret, inte bestämda klockslag."
+    },
+    "funFact": {
+      "nb": "Den eldste bevarte norske primstaven er datert til 1457. Etter at Norge gikk over til den gregorianske kalenderen i 1700, ble primstavene mindre praktiske fordi helligdagene plutselig lå på andre datoer.",
+      "sv": "Den äldsta bevarade norska primstaven dateras till 1457. Efter att Norge övergick till den gregorianska kalendern 1700 blev primstavarna mindre praktiska, eftersom helgdagarna plötsligt hamnade på andra datum."
+    },
+    "source": "Store norske leksikon – «Primstav»"
+  },
+  {
+    "id": "tid-l-09",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1712 fikk Sverige en dato som ikke finnes noe annet sted i den vestlige kalenderhistorien, etter at landet i 1700 hadde satt i gang en mislykket, gradvis kalenderomlegging som gikk fullstendig galt. Hvilken dato ble lagt til i februar det året?",
+      "sv": "1712 fick Sverige ett datum som inte finns någon annanstans i den västerländska kalenderhistorien, efter att landet 1700 hade inlett en misslyckad, gradvis kalenderomläggning som gick fullständigt fel. Vilket datum lades till i februari det året?"
+    },
+    "answer": {
+      "nb": "30. februar",
+      "sv": "30 februari"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Året før hadde Karl XII bestemt at Sverige skulle gi opp reformen og heller gå tilbake til den gamle kalenderen – men da måtte en dag legges til for å rette opp differansen.",
+      "sv": "Året innan hade Karl XII bestämt att Sverige skulle överge reformen och i stället återgå till den gamla kalendern – men då behövde en dag läggas till för att rätta till differensen."
+    },
+    "funFact": {
+      "nb": "Sverige fulgte etterpå den julianske kalenderen som før, helt til landet i 1753 gjorde det store spranget til den gregorianske kalenderen ved å hoppe over elleve dager på én gang.",
+      "sv": "Sverige följde därefter den julianska kalendern precis som förut, ända till landet 1753 gjorde det stora språnget till den gregorianska kalendern genom att hoppa över elva dagar på en gång."
+    },
+    "source": "Nationalencyklopedin; Wikipedia – «Swedish calendar»"
+  },
+  {
+    "id": "tid-l-10",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Et svensk rockeband fra Upplands Väsby fikk sitt internasjonale gjennombrudd i 1986 med en låt om en nedtelling til avreise mot stjernene, kjent for sin ikoniske synthesizer-riff. Hva heter bandet bak «The Final Countdown»?",
+      "sv": "Ett svenskt rockband från Upplands Väsby fick sitt internationella genombrott 1986 med en låt om en nedräkning till avfärd mot stjärnorna, känd för sitt ikoniska synthesizerriff. Vad heter bandet bakom «The Final Countdown»?"
+    },
+    "answer": "Europe",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bandets vokalist, Joey Tempest, skrev det berømte keyboardriffet allerede i 1981–82, flere år før innspillingen.",
+      "sv": "Bandets sångare, Joey Tempest, skrev det berömda keyboardriffet redan 1981–82, flera år före inspelningen."
+    },
+    "funFact": {
+      "nb": "Låten toppet listene i 25 land. Bandet hadde alt markert seg i Sverige da det vant den aller første Rock-SM-konkurransen i 1982.",
+      "sv": "Låten toppade listorna i 25 länder. Bandet hade redan gjort sig ett namn i Sverige genom att vinna den allra första Rock-SM-tävlingen 1982."
+    },
+    "source": "Wikipedia – «Europe (band)»"
+  },
+  {
+    "id": "tid-m-01",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Sekundet ble tidligere definert ut fra jordas rotasjon og bane rundt sola, men siden 1967 bygger den offisielle definisjonen i stedet på svingningene inni et bestemt grunnstoff avkjølt nesten til det absolutte nullpunktet. Hvilken type klokke definerer i dag sekundet?",
+      "sv": "Sekunden definierades tidigare utifrån jordens rotation och bana runt solen, men sedan 1967 bygger den officiella definitionen i stället på svängningarna inuti ett visst grundämne nedkylt nästan till den absoluta nollpunkten. Vilken typ av klocka definierar i dag sekunden?"
+    },
+    "answer": "Atomur",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnstoffet er cesium, og klokken teller svingninger i strålingen som sendes ut når elektroner bytter energinivå.",
+      "sv": "Grundämnet är cesium, och klockan räknar svängningar i strålningen som sänds ut när elektroner byter energinivå."
+    },
+    "funFact": {
+      "nb": "Definisjonen fra 1967 sier at ett sekund er 9 192 631 770 svingninger av strålingen fra cesium-133-atomet. Det er så presist at avviket knapt utgjør ett sekund på flere hundre millioner år.",
+      "sv": "Definitionen från 1967 säger att en sekund är 9 192 631 770 svängningar av strålningen från cesium-133-atomen. Det är så exakt att avvikelsen knappt uppgår till en sekund på flera hundra miljoner år."
+    },
+    "source": "BIPM – «SI Brochure», definisjonen av sekundet (1967)"
+  },
+  {
+    "id": "tid-m-02",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "På en konferanse i Washington D.C. i 1884 stemte representanter fra en rekke land for å gjøre én bestemt by til utgangspunkt for lengdegrader og verdens tidssoner – Frankrike stemte imot og brukte sin egen hovedstad som nullpunkt helt til 1911. Hvilken by ble valgt som nullmeridian?",
+      "sv": "På en konferens i Washington D.C. 1884 röstade representanter från en rad länder för att göra en bestämd stad till utgångspunkt för longituder och världens tidszoner – Frankrike röstade emot och använde sin egen huvudstad som nollpunkt ända till 1911. Vilken stad valdes som nollmeridian?"
+    },
+    "answer": "Greenwich",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stedet huser Royal Observatory, og en messinglinje i bakken markerer i dag nøyaktig 0 grader lengdegrad.",
+      "sv": "Platsen hyser Royal Observatory, och en mässinglinje i marken markerar i dag exakt 0 grader longitud."
+    },
+    "funFact": {
+      "nb": "41 delegater fra 25 nasjoner deltok på konferansen. Selve nullmeridianen ble vedtatt, men forslaget om et globalt system med tidssoner måtte vente noen tiår til på fullt gjennomslag.",
+      "sv": "41 delegater från 25 nationer deltog i konferensen. Själva nollmeridianen antogs, men förslaget om ett globalt system med tidszoner fick vänta några decennier till på fullt genomslag."
+    },
+    "source": "International Meridian Conference (1884) – protokoll; Royal Museums Greenwich"
+  },
+  {
+    "id": "tid-m-03",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I 1895 ga en britisk forfatter ut en kort roman om en oppfinner som bygger et kjøretøy for å reise gjennom årene, og boken er den som ga oss selve ordet for et slikt kjøretøy. Hvem skrev denne banebrytende romanen?",
+      "sv": "1895 gav en brittisk författare ut en kort roman om en uppfinnare som bygger ett fordon för att resa genom åren, och boken är den som gav oss själva ordet för ett sådant fordon. Vem skrev denna banbrytande roman?"
+    },
+    "answer": "H.G. Wells",
+    "answerKind": "person",
+    "person": {
+      "given": "H.G.",
+      "family": "Wells"
+    },
+    "hint": {
+      "nb": "Boken heter «Tidsmaskinen», og forfatteren skrev også romaner om usynlige menn og marsboere som invaderer jorden.",
+      "sv": "Boken heter «Tidsmaskinen» (The Time Machine), och författaren skrev även romaner om osynliga män och marsbor som invaderar jorden."
+    },
+    "funFact": {
+      "nb": "Ordet «time machine» ble oppfunnet av forfatteren selv og brukes i dag nesten universelt om ethvert fiktivt kjøretøy for tidsreiser.",
+      "sv": "Ordet «time machine» myntades av författaren själv och används i dag nästan universellt om varje fiktivt fordon för tidsresor."
+    },
+    "source": "Britannica – «The Time Machine»"
+  },
+  {
+    "id": "tid-m-04",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Det amerikanske nyhetsmagasinet, grunnlagt i 1923, begynte i 1927 en årlig tradisjon med å kåre én person som hadde preget nyhetsbildet mest. Den aller første som fikk tittelen, var en flyger som nettopp hadde krysset Atlanterhavet alene. Hvem var han?",
+      "sv": "Den amerikanska nyhetstidningen, grundad 1923, inledde 1927 en årlig tradition med att utse en person som präglat nyhetsbilden mest. Den allra första som fick titeln var en flygare som just hade korsat Atlanten ensam. Vem var han?"
+    },
+    "answer": "Charles Lindbergh",
+    "answerKind": "person",
+    "person": {
+      "given": "Charles",
+      "family": "Lindbergh"
+    },
+    "hint": {
+      "nb": "Han fløy nonstop fra New York til Paris i mai 1927, i flyet «Spirit of St. Louis».",
+      "sv": "Han flög nonstop från New York till Paris i maj 1927, i flygplanet «Spirit of St. Louis»."
+    },
+    "funFact": {
+      "nb": "Magasinet er «Time», og tradisjonen het opprinnelig «Man of the Year» før den senere ble kjønnsnøytral og fikk navnet «Person of the Year».",
+      "sv": "Tidningen är «Time», och traditionen hette ursprungligen «Man of the Year» innan den senare blev könsneutral och fick namnet «Person of the Year»."
+    },
+    "source": "Time – historikk om «Person of the Year»"
+  },
+  {
+    "id": "tid-m-05",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "I en amerikansk komedie fra 1993 blir en kynisk værmelder fanget i en tidssløyfe og må oppleve nøyaktig samme dag – 2. februar i den lille byen Punxsutawney i Pennsylvania – om og om igjen. Hvilken skuespiller spilte værmelderen?",
+      "sv": "I en amerikansk komedi från 1993 fastnar en cynisk väderpresentatör i en tidsslinga och tvingas uppleva exakt samma dag – 2 februari i den lilla staden Punxsutawney i Pennsylvania – om och om igen. Vilken skådespelare spelade väderpresentatören?"
+    },
+    "answer": "Bill Murray",
+    "answerKind": "person",
+    "person": {
+      "given": "Bill",
+      "family": "Murray"
+    },
+    "hint": {
+      "nb": "Han er kjent for sin tørre komikerstil og har senere spilt i flere av Wes Andersons filmer.",
+      "sv": "Han är känd för sin torra komikerstil och har senare spelat i flera av Wes Andersons filmer."
+    },
+    "funFact": {
+      "nb": "Filmen heter «Groundhog Day» og er regissert av Harold Ramis. Uttrykket «a groundhog day» er siden blitt en vanlig engelsk talemåte for en dag som gjentar seg om og om igjen.",
+      "sv": "Filmen heter «Groundhog Day» och regisserades av Harold Ramis. Uttrycket «a groundhog day» har sedan dess blivit ett vanligt engelskt talesätt för en dag som upprepar sig om och om igen."
+    },
+    "source": "IMDb; Sony Pictures – «Groundhog Day» (1993)"
+  },
+  {
+    "id": "tid-m-06",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "I et essay fra 1748 med råd til unge håndverkere skrev en amerikansk polymat en kort formaning som siden er blitt et av de mest brukte uttrykkene om sammenhengen mellom arbeid og fortjeneste. Hvilket uttrykk er dette?",
+      "sv": "I ett essä från 1748 med råd till unga hantverkare skrev en amerikansk polymat en kort förmaning som sedan dess blivit ett av de mest använda uttrycken om sambandet mellan arbete och förtjänst. Vilket uttryck är detta?"
+    },
+    "answer": {
+      "nb": "Tid er penger",
+      "sv": "Tid är pengar"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Mannen bak essayet er også avbildet på den amerikanske hundredollarseddelen.",
+      "sv": "Mannen bakom essän avbildas också på den amerikanska hundradollarsedeln."
+    },
+    "funFact": {
+      "nb": "Essayet er «Advice to a Young Tradesman» av Benjamin Franklin. Uttrykket fantes trolig i engelsk presse allerede i 1719, men det er Franklin som har fått æren for å ha gjort det kjent.",
+      "sv": "Essän är «Advice to a Young Tradesman» av Benjamin Franklin. Uttrycket fanns troligen i engelsk press redan 1719, men det är Franklin som fått äran för att ha gjort det känt."
+    },
+    "source": "Founders Online, National Archives – Benjamin Franklin, «Advice to a Young Tradesman» (1748)"
+  },
+  {
+    "id": "tid-m-07",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Fram til 1895 stilte hver norske by klokken etter sin egen lokale soltid, noe som skapte kaos for jernbanen. Etter at Stortinget enstemmig hadde avvist forslaget i 1887, ble en felles tidssone endelig vedtatt nesten uten motstand. Hvilken tidssone fikk Norge da?",
+      "sv": "Fram till 1895 ställde varje norsk stad klockan efter sin egen lokala soltid, vilket skapade kaos för järnvägen. Efter att Stortinget enhälligt hade avvisat förslaget 1887, antogs en gemensam tidszon till slut nästan utan motstånd. Vilken tidszon fick Norge då?"
+    },
+    "answer": {
+      "nb": "GMT+1 (sentraleuropeisk tid)",
+      "sv": "GMT+1 (centraleuropeisk tid)"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tidssonen følger meridianen 15 grader øst for Greenwich, og er den samme som store deler av Vest- og Sentral-Europa bruker.",
+      "sv": "Tidszonen följer meridianen 15 grader öster om Greenwich, och är densamma som stora delar av Väst- och Centraleuropa använder."
+    },
+    "funFact": {
+      "nb": "Sverige innførte den samme tidssonen fem år senere, i 1900. Fram til da hadde alle norske byer sin egen lokale soltid, ofte med flere minutters avvik fra nabobyen.",
+      "sv": "Sverige införde samma tidszon fem år senare, 1900. Fram till dess hade alla norska städer sin egen lokala soltid, ofta med flera minuters avvikelse från grannstaden."
+    },
+    "source": "Store norske leksikon – «Normaltid»"
+  },
+  {
+    "id": "tid-m-08",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "arkitektur",
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "På taket av det østre tårnet på en av Oslos mest omdiskuterte bygninger henger et instrument med 49 klokker, som kan spilles både for hånd og automatisk, og som markerer timeslagene ut over havna. Hvilken bygning er det?",
+      "sv": "På taket av det östra tornet på en av Oslos mest omdiskuterade byggnader hänger ett instrument med 49 klockor, som kan spelas både för hand och automatiskt, och som markerar timslagen ut över hamnen. Vilken byggnad är det?"
+    },
+    "answer": {
+      "nb": "Oslo rådhus",
+      "sv": "Oslos rådhus"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er her Nobels fredspris deles ut hver 10. desember.",
+      "sv": "Det är här Nobels fredspris delas ut varje 10 december."
+    },
+    "funFact": {
+      "nb": "Bygget sto ferdig i 1950, tjue år etter at grunnsteinen ble lagt, og har vært gjenstand for arkitekturstrid helt siden. Klokkespillet spilles av en egen klokkenist ved høytidelige anledninger.",
+      "sv": "Byggnaden stod färdig 1950, tjugo år efter att grundstenen lades, och har varit föremål för arkitekturstrid ända sedan dess. Klockspelet spelas av en egen klockenist vid högtidliga tillfällen."
+    },
+    "source": "Store norske leksikon – Oslo rådhus"
+  },
+  {
+    "id": "tid-m-09",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Fra 1934 kunne svensker ringe et eget nummer og få en innspilt stemme til å lese opp nøyaktig klokkeslett. Tjenesten fikk et kallenavn som gjorde stemmen til en slags nasjonal person, og navnet henger igjen den dag i dag. Hva kalles hun?",
+      "sv": "Från 1934 kunde svenskar ringa ett eget nummer och få en inspelad röst att läsa upp exakt klockslag. Tjänsten fick ett smeknamn som gjorde rösten till en sorts nationell person, och namnet hänger kvar än i dag. Vad kallas hon?"
+    },
+    "answer": {
+      "nb": "Fröken Ur",
+      "sv": "Fröken Ur"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er to ord: en høflig tiltaleform for en ugift kvinne, og det svenske ordet for klokke.",
+      "sv": "Namnet är två ord: en artig tilltalsform för en ogift kvinna, och det svenska ordet för klocka."
+    },
+    "funFact": {
+      "nb": "Liknende talende klokker kom i flere land på 1930-tallet – Frankrike var først ute i 1933. Opptakene ble opprinnelig spilt av fra optisk lydfilm, samme teknologi som i kinoene.",
+      "sv": "Liknande talande klockor kom i flera länder på 1930-talet – Frankrike var först ut 1933. Inspelningarna spelades ursprungligen upp från optisk ljudfilm, samma teknik som på biograferna."
+    },
+    "source": "Wikipedia – Speaking clock; Telemuseum"
+  },
+  {
+    "id": "tid-m-10",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "I 1887 grunnla en svensk fabrikkeier en urfabrikk i Svängsta i Blekinge, oppkalt etter et sammentrukket etternavn. Fabrikken vant to medaljer på verdensutstillingen i Chicago i 1893, men måtte legge ned lommeurproduksjonen i 1917. Hva het fabrikken?",
+      "sv": "1887 grundade en svensk fabriksägare en urfabrik i Svängsta i Blekinge, uppkallad efter ett sammandraget efternamn. Fabriken vann två medaljer på världsutställningen i Chicago 1893, men fick lägga ner fickursproduktionen 1917. Vad hette fabriken?"
+    },
+    "answer": "Halda",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er en sammentrekning av grunnleggerens etternavn, Hammarlund.",
+      "sv": "Namnet är en sammandragning av grundarens efternamn, Hammarlund."
+    },
+    "funFact": {
+      "nb": "Merket ble gjenopplivet i 2009 med en helt ny type ur med utskiftbare tidsmoduler, og en modell fulgte med den svenske astronauten Christer Fuglesang på romferden STS-128.",
+      "sv": "Märket återupplivades 2009 med en helt ny urtyp med utbytbara tidsmoduler, och en modell följde med den svenske astronauten Christer Fuglesang på rymdfärden STS-128."
+    },
+    "source": "Halda – selskapshistorikk"
+  },
+  {
+    "id": "tid-v-01",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Siden 1972 har man av og til lagt til et ekstra sekund i verdensklokken for å holde den i takt med jordas noe uregelmessige og stadig avtakende rotasjon. I 2022 vedtok et internasjonalt målemøte å fase ut ordningen innen et bestemt år. Hva kalles dette ekstra sekundet?",
+      "sv": "Sedan 1972 har man ibland lagt till en extra sekund i världsklockan för att hålla den i takt med jordens något oregelbundna och alltjämt avtagande rotation. 2022 beslöt ett internationellt mätmöte att fasa ut ordningen inom ett visst år. Vad kallas denna extra sekund?"
+    },
+    "answer": {
+      "nb": "Skuddsekund",
+      "sv": "Skottsekund"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Beslutningen om å legge det til tas av en internasjonal tjeneste som overvåker jordrotasjonen, og kunngjøres et halvt år i forveien.",
+      "sv": "Beslutet att lägga till den tas av en internationell tjänst som övervakar jordrotationen, och tillkännages ett halvår i förväg."
+    },
+    "funFact": {
+      "nb": "Vedtaket fra 2022 sier at ordningen skal avvikles innen 2035. Fram til da tillates det at UTC og astronomisk tid glir lenger fra hverandre enn tidligere praksis.",
+      "sv": "Beslutet från 2022 säger att ordningen ska avvecklas senast 2035. Fram till dess tillåts UTC och astronomisk tid glida längre isär än tidigare praxis."
+    },
+    "source": "BIPM – 27. CGPM-resolusjon (2022); IERS"
+  },
+  {
+    "id": "tid-v-02",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "I friidrett måles hver løpers reaksjon fra startskuddet med brøkdels nøyaktighet, og reagerer man raskere enn en fysiologisk fastsatt grense, dømmes det automatisk som ulovlig start – siden 2009 uten sjanse til en ny start. Hvor kort er denne grensen?",
+      "sv": "I friidrott mäts varje löpares reaktion från startskottet med bråkdels noggrannhet, och reagerar man snabbare än en fysiologiskt fastställd gräns döms det automatiskt som ogiltig start – sedan 2009 utan chans till en ny start. Hur kort är denna gräns?"
+    },
+    "answer": "0,1 sekund",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grensen skal gjenspeile hvor raskt en hjerne i beste fall kan bearbeide et lydsignal og sende beskjed videre til musklene.",
+      "sv": "Gränsen ska spegla hur snabbt en hjärna i bästa fall kan bearbeta en ljudsignal och skicka besked vidare till musklerna."
+    },
+    "funFact": {
+      "nb": "En studie bestilt av det internasjonale friidrettsforbundet i 2009 antydet at enkelte eliteløpere i praksis kan reagere på så lite som 0,08 sekunder, så regelen har en innebygget sikkerhetsmargin.",
+      "sv": "En studie beställd av det internationella friidrottsförbundet 2009 antydde att vissa elitlöpare i praktiken kan reagera på så lite som 0,08 sekunder, så regeln har en inbyggd säkerhetsmarginal."
+    },
+    "source": "World Athletics – regelverk for ugyldig start"
+  },
+  {
+    "id": "tid-v-03",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Da denne stillehavsstaten ble selvstendig i 1979, lå deler av territoriet på hver sin side av datolinjen, slik at ukedagene på jobb bare overlappet fire dager i uken mellom de to landsdelene. Løsningen i 1994 var å stryke en hel lørdag fra kalenderen. Hvilken øystat er dette?",
+      "sv": "När denna stillahavsstat blev självständig 1979 låg delar av territoriet på var sin sida om datumlinjen, så att arbetsdagarna bara överlappade fyra dagar i veckan mellan de två landsdelarna. Lösningen 1994 var att stryka en hel lördag ur kalendern. Vilken östat är detta?"
+    },
+    "answer": "Kiribati",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet består av tidligere Gilbertøyene, Phoenixøyene og Line-øyene, spredt over et enormt havområde i Stillehavet.",
+      "sv": "Landet består av forna Gilbertöarna, Phoenixöarna och Line-öarna, utspridda över ett enormt havsområde i Stilla havet."
+    },
+    "funFact": {
+      "nb": "Lørdag 31. desember 1994 ble strøket, slik at fredag 30. desember ble direkte etterfulgt av søndag 1. januar 1995. Datolinjen bøyer i dag langt østover nettopp for å holde hele landet i samme kalenderdag.",
+      "sv": "Lördagen den 31 december 1994 ströks, så att fredagen den 30 december direkt efterföljdes av söndagen den 1 januari 1995. Datumlinjen böjer i dag långt österut just för att hålla hela landet i samma kalenderdag."
+    },
+    "source": "Wikipedia – «International Date Line»"
+  },
+  {
+    "id": "tid-v-04",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Etter å ha gått glipp av et tog i Irland i 1876 fordi togtabellen ikke skilte mellom formiddag og ettermiddag, begynte en skotskfødt kanadisk ingeniør å kjempe for et verdensomspennende system med tidssoner og et felles nullpunkt for lengdegrader. Hvem var han?",
+      "sv": "Efter att ha missat ett tåg på Irland 1876 eftersom tidtabellen inte skilde på förmiddag och eftermiddag, började en skotskfödd kanadensisk ingenjör kämpa för ett världsomspännande system med tidszoner och en gemensam nollpunkt för longituder. Vem var han?"
+    },
+    "answer": "Sandford Fleming",
+    "answerKind": "person",
+    "person": {
+      "given": "Sandford",
+      "family": "Fleming"
+    },
+    "hint": {
+      "nb": "Han er også kjent som ingeniøren bak store deler av den kanadiske jernbanen, og foreslo opprinnelig en 24-timers «kosmisk tid».",
+      "sv": "Han är även känd som ingenjören bakom stora delar av den kanadensiska järnvägen, och föreslog ursprungligen en 24-timmars «kosmisk tid»."
+    },
+    "funFact": {
+      "nb": "Fleming la fram forslaget sitt for Canadian Institute i Toronto i 1879 og talte for det på Den internasjonale meridiankonferansen i Washington i 1884, der Greenwich ble valgt som nullmeridian – men uten hans fulle 24-soneinndeling.",
+      "sv": "Fleming lade fram sitt förslag för Canadian Institute i Toronto 1879 och argumenterade för det på Den internationella meridiankonferensen i Washington 1884, där Greenwich valdes som nollmeridian – men utan hans fullständiga 24-zonsindelning."
+    },
+    "source": "Library and Archives Canada; Wikipedia – «Sandford Fleming»"
+  },
+  {
+    "id": "tid-v-05",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "transport",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Etter at en britisk flåte gikk på grunn og mistet nesten to tusen mann i 1707 fordi navigatørene ikke klarte å beregne lengdegrad presist nok, lovet Parlamentet en stor pengesum til den som løste problemet. En selvlært urmaker brukte flere tiår på en løsning med et bærbart ur. Hvem var han?",
+      "sv": "Efter att en brittisk flotta gick på grund och miste nästan tvåtusen man 1707 eftersom navigatörerna inte kunde beräkna longitud tillräckligt exakt, utlovade parlamentet en stor summa pengar till den som löste problemet. En självlärd urmakare ägnade flera decennier åt en lösning med ett bärbart ur. Vem var han?"
+    },
+    "answer": "John Harrison",
+    "answerKind": "person",
+    "person": {
+      "given": "John",
+      "family": "Harrison"
+    },
+    "hint": {
+      "nb": "Hans fjerde og mest kompakte ur, H4, ble testet på en seilas til Jamaica og gikk bare fem sekunder feil etter flere måneder til sjøs.",
+      "sv": "Hans fjärde och mest kompakta ur, H4, testades på en resa till Jamaica och gick bara fem sekunder fel efter flera månader till sjöss."
+    },
+    "funFact": {
+      "nb": "Katastrofen var Scilly-forliset i 1707. Harrison fikk aldri utbetalt hele den utlovede premien fra Board of Longitude på grunn av politisk motstand, men mottok til slutt over 23 000 pund i ulike utbetalinger.",
+      "sv": "Katastrofen var Scillyolyckan 1707. Harrison fick aldrig hela den utlovade belöningen från Board of Longitude på grund av politiskt motstånd, men fick till slut över 23 000 pund i olika utbetalningar."
+    },
+    "source": "Royal Museums Greenwich – «John Harrison and the Longitude problem»"
+  },
+  {
+    "id": "tid-v-06",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I 1971 fløy en fysiker og en astronom fire cesium-atomur rundt jorden med rutefly, først østover og så vestover, og sammenlignet dem etterpå med stillestående ur ved et amerikansk marineobservatorium. Forsøket kostet under 10 000 dollar å gjennomføre. Hvilken teori satte de to på prøve?",
+      "sv": "1971 flög en fysiker och en astronom fyra cesium-atomur runt jorden med reguljärflyg, först österut och sedan västerut, och jämförde dem sedan med stillastående ur vid ett amerikanskt marinobservatorium. Experimentet kostade under 10 000 dollar att genomföra. Vilken teori satte de två på prov?"
+    },
+    "answer": "Einsteins relativitetsteori",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forsøket het Hafele–Keating-eksperimentet, og bekreftet både at bevegelige klokker går saktere og at klokker høyt oppe går raskere enn klokker nær bakken.",
+      "sv": "Experimentet kallades Hafele–Keating-experimentet, och bekräftade både att klockor i rörelse går långsammare och att klockor högt uppe går snabbare än klockor nära marken."
+    },
+    "funFact": {
+      "nb": "Resultatene stemte med de relativistiske forutsigelsene innenfor omtrent 10 prosent nøyaktighet – en forbløffende presis bekreftelse gitt det beskjedne budsjettet, som stort sett gikk til flybilletter.",
+      "sv": "Resultaten stämde med de relativistiska förutsägelserna inom ungefär 10 procents noggrannhet – en förbluffande exakt bekräftelse med tanke på den blygsamma budgeten, som mest gick till flygbiljetter."
+    },
+    "source": "United States Naval Observatory; Hafele & Keating, Science (1972)"
+  },
+  {
+    "id": "tid-v-07",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Grunnleggeren av Norges første astronomiske observatorium i Christiania hevet fra tidlig på 1800-tallet en oransje kule på en stang hver torsdag og lørdag klokken kvart på tolv, og lot den falle nøyaktig klokken tolv – et signal sjøfolk og byens innbyggere kunne stille klokkene sine etter. Hvem var mannen med tidsballen?",
+      "sv": "Grundaren av Norges första astronomiska observatorium i Christiania höjde från tidigt 1800-tal en orange kula på en stång varje torsdag och lördag klockan kvart i tolv, och lät den falla exakt klockan tolv – en signal som sjömän och stadens invånare kunde ställa sina klockor efter. Vem var mannen med tidsbollen?"
+    },
+    "answer": "Christopher Hansteen",
+    "answerKind": "person",
+    "person": {
+      "given": "Christopher",
+      "family": "Hansteen"
+    },
+    "hint": {
+      "nb": "Observatoriet han fikk bygget mellom 1831 og 1833, tegnet av arkitekt Christian Heinrich Grosch, huset også familien hans.",
+      "sv": "Observatoriet han lät bygga mellan 1831 och 1833, ritat av arkitekten Christian Heinrich Grosch, hyste också hans familj."
+    },
+    "funFact": {
+      "nb": "Han var også en fremtredende geofysiker og kartla jordas magnetfelt. Tidsballen var en tidlig, håndfast måte å spre nøyaktig klokkeslett på i en by uten radio.",
+      "sv": "Han var även en framstående geofysiker och kartlade jordens magnetfält. Tidsbollen var ett tidigt, konkret sätt att sprida exakt klockslag i en stad utan radio."
+    },
+    "source": "Store norske leksikon – «Christopher Hansteen»"
+  },
+  {
+    "id": "tid-v-08",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Det norske direktoratet med ansvar for landets offisielle klokkeslett drifter i dag flere cesium-atomur og har hovedkontor på Kjeller utenfor Oslo. Etaten bidrar også med data til det internasjonale arbeidet med å beregne verdenstiden. Hva heter direktoratet?",
+      "sv": "Den norska myndigheten med ansvar för landets officiella klockslag driver i dag flera cesium-atomur och har huvudkontor i Kjeller utanför Oslo. Myndigheten bidrar också med data till det internationella arbetet med att beräkna världstiden. Vad heter myndigheten?"
+    },
+    "answer": "Justervesenet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Etaten har også ansvar for å kontrollere at vekter og målere i norske butikker og bensinstasjoner viser riktig.",
+      "sv": "Myndigheten ansvarar också för att kontrollera att vågar och mätare i norska butiker och bensinstationer visar rätt."
+    },
+    "funFact": {
+      "nb": "Direktoratets nasjonale laboratorium bidrar med data fra sine atomur til Det internasjonale byrået for mål og vekt (BIPM) i Paris, som beregner UTC-tiden i samarbeid med tidslaboratorier over hele verden.",
+      "sv": "Myndighetens nationella laboratorium bidrar med data från sina atomur till Internationella byrån för mått och vikt (BIPM) i Paris, som beräknar UTC-tiden i samarbete med tidslaboratorier över hela världen."
+    },
+    "source": "Justervesenet – «Norges offisielle tid»"
+  },
+  {
+    "id": "tid-v-09",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Etter det mislykkede kalendereksperimentet fra tidlig 1700-tall ga Sverige opp sin egen løsning for godt i 1753, ett år etter at Storbritannia hadde gjort det samme, og hoppet i ett jafs over elleve dager. Hvilken dato fulgte rett etter 17. februar det året?",
+      "sv": "Efter det misslyckade kalenderexperimentet från tidigt 1700-tal övergav Sverige sin egen lösning för gott 1753, ett år efter att Storbritannien hade gjort samma sak, och hoppade i ett enda steg över elva dagar. Vilket datum följde direkt efter den 17 februari det året?"
+    },
+    "answer": {
+      "nb": "1. mars",
+      "sv": "1 mars"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sammenlign med Danmark-Norge, som gjorde det samme spranget allerede i 1700 – bare noen tiår tidligere.",
+      "sv": "Jämför med Danmark-Norge, som gjorde samma språng redan 1700 – bara några decennier tidigare."
+    },
+    "funFact": {
+      "nb": "Med dette gikk Sverige endelig over til den gregorianske kalenderen som resten av Vest-Europa i stor grad allerede brukte. Kalenderforvirringen fra begynnelsen av århundret var dermed historie.",
+      "sv": "Med detta övergick Sverige äntligen till den gregorianska kalender som resten av Västeuropa till stor del redan använde. Kalenderförvirringen från seklets början var därmed historia."
+    },
+    "source": "Nationalencyklopedin; Wikipedia – «Swedish calendar»"
+  },
+  {
+    "id": "tid-v-10",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Den astronomiske klokken i en skånsk domkirke stammer fra rundt 1425, ble tatt ned i 1837 og gjenoppsto restaurert i 1923. To ganger daglig krysser to riddere sverdene sine oppå klokken, mens en prosesjon med de tre vise menn vandrer over urskiven og et lite orgel spiller. I hvilken by står klokken?",
+      "sv": "Den astronomiska klockan i en skånsk domkyrka härstammar från omkring 1425, togs ner 1837 och återuppstod restaurerad 1923. Två gånger om dagen korsar två riddare sina svärd ovanpå klockan, medan en procession med de tre vise männen vandrar över urtavlan och en liten orgel spelar. I vilken stad står klockan?"
+    },
+    "answer": "Lund",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Domkirken er en av Nordens best bevarte romanske kirker, og byen ligger i Skåne, ikke langt fra Malmö.",
+      "sv": "Domkyrkan är en av Nordens bäst bevarade romanska kyrkor, och staden ligger i Skåne, inte långt från Malmö."
+    },
+    "funFact": {
+      "nb": "Restaureringen på 1920-tallet ble ledet av arkitekten Theodor Wåhlin sammen med den danske urmakeren Julius Bertram Larsen. Selve urverket øverst er originalt, mens kalenderskiven nederst er en rekonstruksjon.",
+      "sv": "Restaureringen på 1920-talet leddes av arkitekten Theodor Wåhlin tillsammans med den danske urmakaren Julius Bertram Larsen. Själva urverket längst upp är originalet, medan kalenderskivan längst ner är en rekonstruktion."
+    },
+    "source": "Wikipedia – «Lund Cathedral»"
+  }
+]

@@ -1,0 +1,780 @@
+[
+  {
+    "id": "tog-l-01",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "I oktober 1829 arrangerte styret for jernbanen mellom Liverpool og Manchester en konkurranse på Rainhill for å avgjøre om lokomotiver kunne slå stasjonære dampmaskiner med tauverk. Robert Stephensons bidrag vant og nådde 48 kilometer i timen. Hva het dette lokomotivet?",
+      "sv": "I oktober 1829 anordnade styrelsen för järnvägen mellan Liverpool och Manchester en tävling vid Rainhill för att avgöra om lok kunde slå stationära ångmaskiner med linor. Robert Stephensons bidrag vann och nådde 48 kilometer i timmen. Vad hette detta lok?"
+    },
+    "answer": "Rocket",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Maskinen hadde skråstilte sylindre og flammerørskjele, og navnet peker mot noe som farer raskt til værs.",
+      "sv": "Maskinen hade lutande cylindrar och tubpanna, och namnet pekar mot något som far snabbt uppåt."
+    },
+    "funFact": {
+      "nb": "Rainhill-prøvene avgjorde at damplokomotiver, ikke tauverk trukket av stasjonære maskiner, skulle drive banen. Liverpool and Manchester Railway åpnet i 1830 og regnes som den første jernbanen mellom to store byer der all trafikk ble trukket av damplokomotiver.",
+      "sv": "Rainhillproven avgjorde att ånglok, inte linor dragna av stationära maskiner, skulle driva banan. Liverpool and Manchester Railway öppnade 1830 och räknas som den första järnvägen mellan två större städer där all trafik drogs av ånglok."
+    },
+    "source": "Science Museum Group; Encyclopaedia Britannica – Rainhill Trials"
+  },
+  {
+    "id": "tog-l-02",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "I bøkene om Harry Potter kommer elevene seg til skoletoget ved å løpe rett gjennom en murvegg mellom perrong 9 og 10. Den store London-stasjonen finnes på ekte, og der er det montert en bagasjetralle som forsvinner inn i veggen. Hvilken stasjon?",
+      "sv": "I böckerna om Harry Potter tar sig eleverna till skoltåget genom att springa rakt in i en tegelvägg mellan perrong 9 och 10. Den stora Londonstationen finns på riktigt, och där sitter en bagagevagn fastmonterad halvvägs in i väggen. Vilken station?"
+    },
+    "answer": "King's Cross",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Nabostasjonen heter St Pancras, og derfra går Eurostar-togene til kontinentet.",
+      "sv": "Grannstationen heter St Pancras, och därifrån går Eurostartågen till kontinenten."
+    },
+    "funFact": {
+      "nb": "Stasjonen åpnet i 1852 og ble tegnet av Lewis Cubitt. I filmene ble ikke de virkelige perrongene 9 og 10 brukt – filmteamet kledde i stedet om buene mellom perrong 4 og 5.",
+      "sv": "Stationen öppnade 1852 och ritades av Lewis Cubitt. I filmerna användes inte de riktiga perrongerna 9 och 10 – filmteamet klädde i stället om valven mellan perrong 4 och 5."
+    },
+    "source": "Network Rail – King's Cross station history; British Library"
+  },
+  {
+    "id": "tog-l-03",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "film"
+    ],
+    "prompt": {
+      "nb": "Agatha Christies roman fra 1934 lar et luksustog bli stående fast i en snøfonn på Balkan, med en drept passasjer bak låst dør og et helt galleri av mistenkte i samme vogn. Hvilken belgisk detektiv løser saken?",
+      "sv": "Agatha Christies roman från 1934 låter ett lyxtåg bli stående fast i en snödriva på Balkan, med en mördad passagerare bakom låst dörr och ett helt galleri av misstänkta i samma vagn. Vilken belgisk detektiv löser fallet?"
+    },
+    "answer": "Hercule Poirot",
+    "answerKind": "person",
+    "person": {
+      "given": "Hercule",
+      "family": "Poirot"
+    },
+    "hint": {
+      "nb": "Han kaller hjernecellene sine «de små grå» og er svært pertentlig med barten.",
+      "sv": "Han kallar sina hjärnceller «de små grå» och är mycket noga med mustaschen."
+    },
+    "funFact": {
+      "nb": "Christie hadde selv reist med Orientekspressen, og i februar 1929 ble toget snødd inne i seks dager nær Çerkezköy i Tyrkia. Romanen er filmatisert flere ganger, blant annet i 1974 og 2017.",
+      "sv": "Christie hade själv rest med Orientexpressen, och i februari 1929 blev tåget insnöat i sex dagar nära Çerkezköy i Turkiet. Romanen har filmatiserats flera gånger, bland annat 1974 och 2017."
+    },
+    "source": "Agatha Christie Ltd.; Encyclopaedia Britannica"
+  },
+  {
+    "id": "tog-l-04",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Fra fjellstasjonen Myrdal, 867 meter over havet, faller den drøyt 20 kilometer ned til fjordbunnen i Aurland gjennom 21 tunneler, med opptil 55 promille stigning. Prøvedriften startet i 1940. Hva heter denne bratte norske banen?",
+      "sv": "Från fjällstationen Myrdal, 867 meter över havet, faller den drygt 20 kilometer ner till fjordbotten i Aurland genom 21 tunnlar, med upp till 55 promilles lutning. Provdriften började 1940. Vad heter denna branta norska bana?"
+    },
+    "answer": "Flåmsbana",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Endestasjonen ligger innerst i Aurlandsfjorden og har gitt banen navnet sitt.",
+      "sv": "Ändstationen ligger innerst i Aurlandsfjorden och har gett banan dess namn."
+    },
+    "funFact": {
+      "nb": "Den lengste tunnelen, Nålitunnelen, er 1352 meter, og tunnelene utgjør mer enn en firedel av banens lengde. Damplokomotiv trakk togene til banen ble elektrisk drevet i 1944.",
+      "sv": "Den längsta tunneln, Nålitunneln, är 1352 meter, och tunnlarna utgör mer än en fjärdedel av banans längd. Ånglok drog tågen tills banan blev eldriven 1944."
+    },
+    "source": "Store norske leksikon – Flåmsbana"
+  },
+  {
+    "id": "tog-l-05",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "transport",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Da den siste parsellen over høyfjellet sto ferdig i 1909, kalte kong Haakon 7. anlegget «vårt slektleds storverk». Banen er 371 kilometer lang fra Hønefoss og passerer Norges høyestliggende jernbanestasjon. Hvilken bane er dette?",
+      "sv": "När den sista sträckan över högfjället stod färdig 1909 kallade kung Haakon VII anläggningen «vårt släktleds storverk». Banan är 371 kilometer lång från Hønefoss och passerar Norges högst belägna järnvägsstation. Vilken bana är detta?"
+    },
+    "answer": {
+      "nb": "Bergensbanen",
+      "sv": "Bergensbanan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den knytter Oslo til Norges nest største by, ute på vestkysten.",
+      "sv": "Den knyter Oslo till Norges näst största stad, ute på västkusten."
+    },
+    "funFact": {
+      "nb": "Finse stasjon ligger 1222 meter over havet. Ved Hardangerjøkulen like i nærheten ble Hoth-scenene i «Star Wars: Imperiet slår tilbake» filmet.",
+      "sv": "Finse station ligger 1222 meter över havet. Vid Hardangerjøkulen alldeles intill filmades Hoth-scenerna i «Star Wars: Rymdimperiet slår tillbaka»."
+    },
+    "source": "Store norske leksikon – Bergensbanen"
+  },
+  {
+    "id": "tog-l-06",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "kunst",
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Nordens første undergrunnsbane åpnet i 1950, og de aller fleste stasjonene er utsmykket med mosaikk, skulpturer og malte fjellhvelv. Nettet omtales gjerne som verdens lengste kunstutstilling. I hvilken by ligger den?",
+      "sv": "Nordens första tunnelbana öppnade 1950, och de allra flesta stationerna är utsmyckade med mosaik, skulpturer och målade bergvalv. Nätet brukar kallas världens längsta konstutställning. I vilken stad ligger den?"
+    },
+    "answer": "Stockholm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er bygd på øyer der Mälaren møter Østersjøen.",
+      "sv": "Staden är byggd på öar där Mälaren möter Östersjön."
+    },
+    "funFact": {
+      "nb": "Mer enn 150 kunstnere har bidratt. Mange av stasjonene er sprengt ut i urfjell, og bergveggene er latt stå rå og malt direkte på.",
+      "sv": "Mer än 150 konstnärer har bidragit. Många av stationerna är utsprängda i urberg, och bergväggarna har lämnats råa och målats direkt."
+    },
+    "source": "Region Stockholm – konsten i tunnelbanan"
+  },
+  {
+    "id": "tog-l-07",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Den går 1288 kilometer gjennom Norrlands grisgrendte strøk, langt fra kysten, fra Kristinehamn ved Vänern helt opp til Gällivare. Byggingen startet i 1908, men først i 1937 var hele strekningen ferdig. Hva heter denne svenske banen?",
+      "sv": "Den går 1288 kilometer genom Norrlands glesbygd, långt från kusten, från Kristinehamn vid Vänern ända upp till Gällivare. Bygget startade 1908, men först 1937 var hela sträckan färdig. Vad heter denna svenska bana?"
+    },
+    "answer": "Inlandsbanan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Banen krysser polarsirkelen ved Jokkmokk.",
+      "sv": "Banan korsar polcirkeln vid Jokkmokk."
+    },
+    "funFact": {
+      "nb": "Første verdenskrig og etterkrigskrisen forsinket arbeidet; opprinnelig skulle banen stå ferdig alt i 1924. Innvielsen fant sted 6. august 1937.",
+      "sv": "Första världskriget och efterkrigskrisen försenade arbetet; ursprungligen skulle banan stå klar redan 1924. Invigningen ägde rum den 6 augusti 1937."
+    },
+    "source": "Inlandsbanan AB; Sveriges järnvägsmuseum"
+  },
+  {
+    "id": "tog-l-08",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Verdens første egne høyhastighetsbane åpnet mellom Tokyo og Shin-Osaka 1. oktober 1964, ni dager før OL i Tokyo, og togene holdt 210 kilometer i timen fra første dag. Hva kalles disse japanske lyntogene?",
+      "sv": "Världens första särskilda höghastighetsbana öppnade mellan Tokyo och Shin-Osaka den 1 oktober 1964, nio dagar före OS i Tokyo, och tågen höll 210 kilometer i timmen från första dagen. Vad kallas dessa japanska snabbtåg?"
+    },
+    "answer": "Shinkansen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet betyr «ny hovedlinje», og på engelsk kalles togene «bullet train».",
+      "sv": "Ordet betyder «ny huvudlinje», och på engelska kallas tågen «bullet train»."
+    },
+    "funFact": {
+      "nb": "Banen ble bygd med normalspor på 1435 millimeter, mens de eldre japanske banene stort sett har smalspor på 1067 millimeter.",
+      "sv": "Banan byggdes med normalspår på 1435 millimeter, medan de äldre japanska banorna mestadels har smalspår på 1067 millimeter."
+    },
+    "source": "Central Japan Railway Company; Encyclopaedia Britannica"
+  },
+  {
+    "id": "tog-l-09",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Strekningen fra Moskva til Vladivostok er over 9200 kilometer lang, krysser åtte tidssoner og ble bygd ut mellom 1891 og 1916. En sammenhengende reise tar omtrent en uke. Hva heter denne jernbanen?",
+      "sv": "Sträckan från Moskva till Vladivostok är över 9200 kilometer lång, korsar åtta tidszoner och byggdes ut mellan 1891 och 1916. En sammanhängande resa tar ungefär en vecka. Vad heter denna järnväg?"
+    },
+    "answer": {
+      "nb": "Den transsibirske jernbanen",
+      "sv": "Transsibiriska järnvägen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet peker mot det enorme landområdet øst for Uralfjellene.",
+      "sv": "Namnet pekar mot det enorma landområdet öster om Uralbergen."
+    },
+    "funFact": {
+      "nb": "Hele strekningen var dobbeltsporet i 1939, og elektrifiseringen ble fullført i 2002. Banen er bygd med russisk bredspor, ikke normalspor.",
+      "sv": "Hela sträckan var dubbelspårig 1939, och elektrifieringen slutfördes 2002. Banan är byggd med rysk bredspårvidd, inte normalspår."
+    },
+    "source": "Encyclopaedia Britannica – Trans-Siberian Railroad"
+  },
+  {
+    "id": "tog-l-10",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Filmen «Snowpiercer» fra 2013 bygger på den franske tegneserien «Le Transperceneige» og foregår om bord på et tog som uten stans sirkler rundt en nedfrosset jord, med passasjerene sortert etter klasse fra hale til lokomotiv. Hvilken sørkoreansk regissør står bak?",
+      "sv": "Filmen «Snowpiercer» från 2013 bygger på den franska serieromanen «Le Transperceneige» och utspelar sig ombord på ett tåg som utan uppehåll cirklar runt en nedfryst jord, med passagerarna sorterade efter klass från svans till lok. Vilken sydkoreansk regissör står bakom?"
+    },
+    "answer": "Bong Joon-ho",
+    "answerKind": "person",
+    "person": {
+      "given": "Bong",
+      "family": "Joon-ho"
+    },
+    "hint": {
+      "nb": "Sju år senere vant en annen av filmene hans fire Oscar-statuetter.",
+      "sv": "Sju år senare vann en annan av hans filmer fyra Oscarsstatyetter."
+    },
+    "funFact": {
+      "nb": "«Parasitt» ble i 2020 den første ikke-engelskspråklige filmen som vant Oscar for beste film. Tegneserien ble skapt av Jacques Lob og Jean-Marc Rochette.",
+      "sv": "«Parasit» blev 2020 den första icke engelskspråkiga film som vann Oscar för bästa film. Serieromanen skapades av Jacques Lob och Jean-Marc Rochette."
+    },
+    "source": "Academy of Motion Picture Arts and Sciences; Encyclopaedia Britannica"
+  },
+  {
+    "id": "tog-m-01",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Sporvidden George Stephenson tok med seg fra kullgruvebanene i Nordøst-England, ble standard for rundt seksti prosent av verdens jernbaner. Den måles mellom innsidene av skinnehodene, litt under kjørebanen. Hvor bred er normalsporet, oppgitt i millimeter?",
+      "sv": "Spårvidden som George Stephenson tog med sig från kolgruvebanorna i nordöstra England blev standard för omkring sextio procent av världens järnvägar. Den mäts mellan insidorna av rälshuvudena, strax under körytan. Hur bred är normalspårvidden, i millimeter?"
+    },
+    "answer": "1435 millimeter",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I engelske mål er det 4 fot 8½ tomme.",
+      "sv": "I engelska mått är det 4 fot 8½ tum."
+    },
+    "funFact": {
+      "nb": "Stephensons tidligste baner brukte 4 fot 8 tommer. Den ekstra halvtommen kom til for å gi hjulene litt mer klaring i kurvene, og ble stående som standard.",
+      "sv": "Stephensons tidigaste banor använde 4 fot 8 tum. Den extra halvtummen tillkom för att ge hjulen lite mer spelrum i kurvorna, och blev kvar som standard."
+    },
+    "source": "Store norske leksikon – normalspor; Encyclopaedia Britannica"
+  },
+  {
+    "id": "tog-m-02",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Verdens første undergrunnsbane for passasjerer åpnet 10. januar 1863, drøyt seks kilometer lang, med trevogner trukket av damplokomotiver som fylte tunnelene med røyk. 38 000 reisende var med alt den første dagen. I hvilken by?",
+      "sv": "Världens första tunnelbana för passagerare öppnade den 10 januari 1863, drygt sex kilometer lång, med trävagnar dragna av ånglok som fyllde tunnlarna med rök. 38 000 resenärer åkte redan första dagen. I vilken stad?"
+    },
+    "answer": "London",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet het Metropolitan Railway, og linjen gikk fra Paddington til Farringdon.",
+      "sv": "Bolaget hette Metropolitan Railway, och linjen gick från Paddington till Farringdon."
+    },
+    "funFact": {
+      "nb": "Det første driftsåret fraktet banen 9,5 millioner passasjerer. Tunnelen ble bygd med «cut and cover»: man gravde en grøft i gata og la tak over.",
+      "sv": "Det första driftsåret fraktade banan 9,5 miljoner passagerare. Tunneln byggdes med «cut and cover»: man grävde ett dike i gatan och lade tak över."
+    },
+    "source": "London Transport Museum; Encyclopaedia Britannica"
+  },
+  {
+    "id": "tog-m-03",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Ofotbanen er bare 43 kilometer lang, men frakter svensk jernmalm ut til en isfri havn ved Atlanterhavet. Stedet fikk først navnet Victoriahavn, etter et besøk av det svenske kronprinsparet i 1887, men ble kjøpstad under et annet navn i 1902. Hvilket?",
+      "sv": "Ofotbanan är bara 43 kilometer lång, men fraktar svensk järnmalm ut till en isfri hamn vid Atlanten. Platsen fick först namnet Victoriahavn, efter ett besök av det svenska kronprinsparet 1887, men blev köpstad under ett annat namn 1902. Vilket?"
+    },
+    "answer": "Narvik",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ble erobret og gjenerobret under harde kamper våren 1940.",
+      "sv": "Staden erövrades och återerövrades under hårda strider våren 1940."
+    },
+    "funFact": {
+      "nb": "Kronprinsparet var Gustav og Victoria. Banen fortsetter på svensk side som Malmbanan, og til sammen utgjør de to banene rundt 500 kilometer.",
+      "sv": "Kronprinsparet var Gustaf och Victoria. Banan fortsätter på svensk sida som Malmbanan, och tillsammans utgör de två banorna omkring 500 kilometer."
+    },
+    "source": "Store norske leksikon – Narvik og Ofotbanen"
+  },
+  {
+    "id": "tog-m-04",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Malmbanan går 398 kilometer fra Boden til Riksgränsen og ble elektrifisert mellom 1915 og 1923. Den frakter jernmalm fra gruvene i Kiruna og Malmberget. Hvilket svensk gruveselskap, kjent på fire bokstaver, eier malmen?",
+      "sv": "Malmbanan går 398 kilometer från Boden till Riksgränsen och elektrifierades mellan 1915 och 1923. Den fraktar järnmalm från gruvorna i Kiruna och Malmberget. Vilket svenskt gruvbolag, känt på fyra bokstäver, äger malmen?"
+    },
+    "answer": "LKAB",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bokstavene står for to fjell ved Kiruna, pluss selskapsformen.",
+      "sv": "Bokstäverna står för två berg vid Kiruna, plus bolagsformen."
+    },
+    "funFact": {
+      "nb": "Selskapet heter fullt ut Luossavaara-Kiirunavaara AB. Gruvedriften under byen har gjort at store deler av Kiruna må flyttes til et nytt sentrum.",
+      "sv": "Bolaget heter fullt ut Luossavaara-Kiirunavaara AB. Gruvbrytningen under staden har gjort att stora delar av Kiruna måste flyttas till ett nytt centrum."
+    },
+    "source": "LKAB – bolagets historik; Trafikverket"
+  },
+  {
+    "id": "tog-m-05",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "27. september 1981 åpnet Frankrikes første høyhastighetslinje, mellom Paris og Lyon. I 2007 satte et spesialrigget sett fra samme togfamilie verdensrekord for hjulgående tog med 574,8 kilometer i timen. Hva heter togtypen, kjent på tre bokstaver?",
+      "sv": "Den 27 september 1981 öppnade Frankrikes första höghastighetslinje, mellan Paris och Lyon. År 2007 satte ett specialriggat set ur samma tågfamilj världsrekord för hjulburna tåg med 574,8 kilometer i timmen. Vad heter tågtypen, känd på tre bokstäver?"
+    },
+    "answer": "TGV",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Togene kjøres av det franske statlige jernbaneselskapet SNCF.",
+      "sv": "Tågen körs av det franska statliga järnvägsbolaget SNCF."
+    },
+    "funFact": {
+      "nb": "Rekordtoget i 2007 het V150, var kortet ned til tre vogner og fikk større hjul og bedre aerodynamikk. Kjøringen foregikk på LGV Est mellom Paris og Strasbourg.",
+      "sv": "Rekordtåget 2007 hette V150, hade kortats ner till tre vagnar och fick större hjul och bättre aerodynamik. Körningen skedde på LGV Est mellan Paris och Strasbourg."
+    },
+    "source": "SNCF; Encyclopaedia Britannica"
+  },
+  {
+    "id": "tog-m-06",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Verdens lengste jernbanetunnel er 57 kilometer lang, ble påbegynt i 1999 og satt i ordinær drift i 2016. Den går flatt gjennom Alpene, med opptil 2450 meter fjell over sporet. Hva heter tunnelen?",
+      "sv": "Världens längsta järnvägstunnel är 57 kilometer lång, påbörjades 1999 och togs i ordinarie drift 2016. Den går flackt genom Alperna, med upp till 2450 meter berg över spåret. Vad heter tunneln?"
+    },
+    "answer": {
+      "nb": "Gotthardbasistunnelen",
+      "sv": "Gotthards bastunnel"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den ligger i Sveits og har navn etter et gammelt alpepass.",
+      "sv": "Den ligger i Schweiz och har namn efter ett gammalt alppass."
+    },
+    "funFact": {
+      "nb": "Det ble tatt ut rundt 28 millioner tonn stein under byggingen. Tunnelen er også verdens dypeste jernbanetunnel.",
+      "sv": "Omkring 28 miljoner ton berg togs ut under bygget. Tunneln är också världens djupaste järnvägstunnel."
+    },
+    "source": "AlpTransit Gotthard AG; SBB"
+  },
+  {
+    "id": "tog-m-07",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "4. september 1990 satte SJ inn et nytt hurtigtog mellom Stockholm og Göteborg. Vognkassene krenger innover i kurvene, slik at toget kan holde høyere fart på gamle traseer uten at sporet må bygges om. Hva heter togtypen?",
+      "sv": "Den 4 september 1990 satte SJ in ett nytt snabbtåg mellan Stockholm och Göteborg. Vagnskorgarna lutar inåt i kurvorna, så att tåget kan hålla högre fart på gamla banor utan att spåret behöver byggas om. Vad heter tågtypen?"
+    },
+    "answer": "X2000",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er en bokstav fulgt av et årstall som lå langt fram i tid da toget kom.",
+      "sv": "Namnet är en bokstav följd av ett årtal som låg långt fram i tiden när tåget kom."
+    },
+    "funFact": {
+      "nb": "Toppfarten i trafikk er 200 kilometer i timen. Krengingen gjør at toget kan holde omtrent 15 prosent høyere fart gjennom kurvene enn et vanlig tog.",
+      "sv": "Toppfarten i trafik är 200 kilometer i timmen. Lutningen gör att tåget kan hålla ungefär 15 procent högre fart genom kurvorna än ett vanligt tåg."
+    },
+    "source": "Sveriges järnvägsmuseum; ABB"
+  },
+  {
+    "id": "tog-m-08",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Norges første jernbane åpnet 1. september 1854, gikk knapt 68 kilometer nordover fra Christiania og ble bygd med britisk kapital og engelske entreprenører. Endestasjonen lå ved sørenden av Mjøsa, der hjuldamperen «Skibladner» tok over. Hvilket sted?",
+      "sv": "Norges första järnväg öppnade den 1 september 1854, gick knappt 68 kilometer norrut från Christiania och byggdes med brittiskt kapital och engelska entreprenörer. Ändstationen låg vid Mjøsas södra ände, där hjulångaren «Skibladner» tog vid. Vilken plats?"
+    },
+    "answer": "Eidsvoll",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stedet er ellers mest kjent for grunnlovsforsamlingen i 1814.",
+      "sv": "Platsen är annars mest känd för grundlagsförsamlingen 1814."
+    },
+    "funFact": {
+      "nb": "«Skibladner» ble bygd i 1856 og er Norges eldste skip i drift. Stasjonsbygningene på Hovedbanen ble tegnet av arkitektene Heinrich Ernst Schirmer og Wilhelm von Hanno.",
+      "sv": "«Skibladner» byggdes 1856 och är Norges äldsta fartyg i drift. Stationshusen på Hovedbanen ritades av arkitekterna Heinrich Ernst Schirmer och Wilhelm von Hanno."
+    },
+    "source": "Store norske leksikon – Hovedbanen og Skibladner"
+  },
+  {
+    "id": "tog-m-09",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "10. mai 1869 møttes Union Pacific og Central Pacific ved Promontory Summit, den siste spikeren ble slått i, og ordet «done» ble telegrafert ut over hele USA. I hvilken delstat lå møtestedet?",
+      "sv": "Den 10 maj 1869 möttes Union Pacific och Central Pacific vid Promontory Summit, den sista spiken slogs i och ordet «done» telegraferades ut över hela USA. I vilken delstat låg mötesplatsen?"
+    },
+    "answer": "Utah",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Delstaten er kjent for en stor saltsjø og ble bygd opp av mormonske nybyggere.",
+      "sv": "Delstaten är känd för en stor saltsjö och byggdes upp av mormonska nybyggare."
+    },
+    "funFact": {
+      "nb": "Central Pacific bygde østover fra California med tusenvis av kinesiske arbeidere, mens Union Pacific bygde vestover med blant andre irske innvandrere og krigsveteraner. Seremonien regnes som en av USAs første landsdekkende mediebegivenheter.",
+      "sv": "Central Pacific byggde österut från Kalifornien med tusentals kinesiska arbetare, medan Union Pacific byggde västerut med bland andra irländska invandrare och krigsveteraner. Ceremonin räknas som en av USA:s första rikstäckande mediehändelser."
+    },
+    "source": "National Park Service – Golden Spike National Historical Park"
+  },
+  {
+    "id": "tog-m-10",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "arkitektur",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Stasjonen på hjørnet av 42nd Street og Park Avenue i New York åpnet i 1913 og har flere perronger enn noen annen jernbanestasjon i verden. I hvelvet over den store hallen er stjernehimmelen malt speilvendt. Hva heter stasjonen?",
+      "sv": "Stationen i hörnet av 42nd Street och Park Avenue i New York öppnade 1913 och har fler perronger än någon annan järnvägsstation i världen. I valvet över den stora hallen är stjärnhimlen målad spegelvänd. Vad heter stationen?"
+    },
+    "answer": "Grand Central Terminal",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Arkitektfirmaene var Reed and Stem og Warren and Wetmore, og navnet slutter på «Terminal», ikke «Station».",
+      "sv": "Arkitektfirmorna var Reed and Stem och Warren and Wetmore, och namnet slutar på «Terminal», inte «Station»."
+    },
+    "funFact": {
+      "nb": "Stasjonen har 44 perrongnumre og står i Guinness rekordbok for flest perronger. Hvorfor stjernehimmelen ble malt speilvendt, er fortsatt omdiskutert.",
+      "sv": "Stationen har 44 perrongnummer och står i Guinness rekordbok för flest perronger. Varför stjärnhimlen målades spegelvänd är fortfarande omdiskuterat."
+    },
+    "source": "Metropolitan Transportation Authority; Guinness World Records"
+  },
+  {
+    "id": "tog-v-01",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "21. februar 1804 trakk et damplokomotiv for første gang et tog på skinner: ti tonn jern, fem vogner og 70 menn fra jernverket Penydarren i Wales, som innsats i et veddemål på 500 guineas. Hvilken cornisk ingeniør bygde maskinen?",
+      "sv": "Den 21 februari 1804 drog ett ånglok för första gången ett tåg på räls: tio ton järn, fem vagnar och 70 män från järnbruket Penydarren i Wales, som insats i ett vad om 500 guineas. Vilken cornisk ingenjör byggde maskinen?"
+    },
+    "answer": "Richard Trevithick",
+    "answerKind": "person",
+    "person": {
+      "given": "Richard",
+      "family": "Trevithick"
+    },
+    "hint": {
+      "nb": "Han satset på høytrykksdamp, i motsetning til James Watt, og døde fattig i Kent i 1833.",
+      "sv": "Han satsade på högtrycksånga, till skillnad från James Watt, och dog fattig i Kent 1833."
+    },
+    "funFact": {
+      "nb": "Turen på 15,7 kilometer tok fire timer og fem minutter. I 1808 satte han opp «Catch Me Who Can» på en sirkelbane i London, der publikum kunne løse billett og kjøre med damplokomotiv.",
+      "sv": "Färden på 15,7 kilometer tog fyra timmar och fem minuter. År 1808 satte han upp «Catch Me Who Can» på en cirkelbana i London, där publiken kunde lösa biljett och åka med ånglok."
+    },
+    "source": "Science Museum Group; Encyclopaedia Britannica – Richard Trevithick"
+  },
+  {
+    "id": "tog-v-02",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "3. juli 1938 nådde et strømlinjeformet britisk damplokomotiv 203 kilometer i timen i utforbakken ved Stoke Bank sør for Grantham. Rekorden for damplokomotiver står fortsatt. Hva het lokomotivet, som deler navn med en andefugl?",
+      "sv": "Den 3 juli 1938 nådde ett strömlinjeformat brittiskt ånglok 203 kilometer i timmen i nedförsbacken vid Stoke Bank söder om Grantham. Rekordet för ånglok står sig än. Vad hette loket, som delar namn med en andfågel?"
+    },
+    "answer": "Mallard",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det tilhørte LNERs klasse A4, tegnet av Nigel Gresley.",
+      "sv": "Det tillhörde LNER:s klass A4, ritat av Nigel Gresley."
+    },
+    "funFact": {
+      "nb": "Rekordkjøringen skjedde under en prøve av en ny hurtigvirkende Westinghouse-brems. Toget besto av sju vogner, deriblant en dynamometervogn som målte farten.",
+      "sv": "Rekordkörningen skedde under ett prov av en ny snabbverkande Westinghouse-broms. Tåget bestod av sju vagnar, däribland en dynamometervagn som mätte farten."
+    },
+    "source": "National Railway Museum, York"
+  },
+  {
+    "id": "tog-v-03",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "12. juni 1889 delte mannskapet et overfylt søndagsskoletog som ikke greide stigningen. Den bakre halvdelen rullet ukontrollert nedover og traff toget bak; 80 mennesker omkom. To måneder senere påla britisk lov gjennomgående automatiske bremser. I hvilken irsk by skjedde ulykken?",
+      "sv": "Den 12 juni 1889 delade personalen ett överfullt söndagsskoletåg som inte klarade stigningen. Den bakre halvan rullade okontrollerat nedför och träffade tåget bakom; 80 människor omkom. Två månader senare krävde brittisk lag genomgående automatiska bromsar. I vilken irisk stad inträffade olyckan?"
+    },
+    "answer": "Armagh",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er øyas kirkelige sentrum, sete for både den katolske og den anglikanske primas.",
+      "sv": "Staden är öns kyrkliga centrum, säte för både den katolske och den anglikanske primasen."
+    },
+    "funFact": {
+      "nb": "Regulation of Railways Act 1889 påla også blokksignalering og sammenkobling av sporveksler og signaler. Om lag en tredjedel av de omkomne var barn.",
+      "sv": "Regulation of Railways Act 1889 krävde också blocksignalering och förregling av växlar och signaler. Ungefär en tredjedel av de omkomna var barn."
+    },
+    "source": "Board of Trade – ulykkesrapport 1889; Encyclopaedia Britannica"
+  },
+  {
+    "id": "tog-v-04",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "teknologi",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Da denne 25 kilometer lange smalsporbanen i Orkdal åpnet i 1908 for å frakte svovelkis fra gruvene ved Løkken Verk ut til sjøen, var den blant verdens aller første jernbaner drevet med vekselstrøm. Hva heter banen?",
+      "sv": "När denna 25 kilometer långa smalspårsbana i Orkdal öppnade 1908 för att frakta svavelkis från gruvorna vid Løkken Verk ut till havet, var den bland världens allra första järnvägar drivna med växelström. Vad heter banan?"
+    },
+    "answer": "Thamshavnbanen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den drives i dag som museumsjernbane, og gruveselskapet som eide den, vokste senere til industrikonsernet Orkla.",
+      "sv": "Den drivs i dag som museijärnväg, och gruvbolaget som ägde den växte senare till industrikoncernen Orkla."
+    },
+    "funFact": {
+      "nb": "Navnet kommer av utskipningshavna ved Orkdalsfjorden. Under andre verdenskrig ble banen utsatt for gjentatte sabotasjeaksjoner som skulle ramme tyskernes tilgang på svovelkis.",
+      "sv": "Namnet kommer av utskeppningshamnen vid Orkdalsfjorden. Under andra världskriget utsattes banan för upprepade sabotageaktioner som skulle drabba tyskarnas tillgång på svavelkis."
+    },
+    "source": "Store norske leksikon – Thamshavnbanen; Orkla Industrimuseum"
+  },
+  {
+    "id": "tog-v-05",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "transport",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Da Sverige la om biltrafikken til høyrekjøring 3. september 1967, ble jernbanen holdt utenfor. Signalene sto på feil side, førerplassen i lokomotivene vendte feil vei, og ombyggingen ville blitt altfor dyr. På hvilken side av sporet kjører svenske tog fortsatt?",
+      "sv": "När Sverige lade om biltrafiken till högertrafik den 3 september 1967 hölls järnvägen utanför. Signalerna stod på fel sida, förarplatsen i loken vette åt fel håll och ombyggnaden hade blivit alldeles för dyr. På vilken sida av spåret kör svenska tåg fortfarande?"
+    },
+    "answer": {
+      "nb": "Venstre",
+      "sv": "Vänster"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Samme side som i Storbritannia og Belgia, der jernbanene ble bygd med britisk teknologi.",
+      "sv": "Samma sida som i Storbritannien och Belgien, där järnvägarna byggdes med brittisk teknik."
+    },
+    "funFact": {
+      "nb": "Veiomleggingen kalles «Dagen H», etter «högertrafik». Også Stockholms tunnelbane kjører på samme side som jernbanen ellers.",
+      "sv": "Vägomläggningen kallas «Dagen H», efter «högertrafik». Även Stockholms tunnelbana kör på samma sida som järnvägen i övrigt."
+    },
+    "source": "Trafikverket; Sveriges järnvägsmuseum"
+  },
+  {
+    "id": "tog-v-06",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Fram til 2016 var denne 53,85 kilometer lange tunnelen verdens lengste jernbanetunnel. Den åpnet i 1988, ligger på det dypeste 240 meter under havflaten og binder Honshu sammen med Hokkaido. Hva heter tunnelen?",
+      "sv": "Fram till 2016 var denna 53,85 kilometer långa tunnel världens längsta järnvägstunnel. Den öppnade 1988, ligger som djupast 240 meter under havsytan och binder samman Honshu med Hokkaido. Vad heter tunneln?"
+    },
+    "answer": {
+      "nb": "Seikantunnelen",
+      "sv": "Seikantunneln"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av skrifttegn fra byene Aomori og Hakodate i hver sin ende.",
+      "sv": "Namnet är sammansatt av skrivtecken från städerna Aomori och Hakodate i var sin ände."
+    },
+    "funFact": {
+      "nb": "Den undersjøiske delen er 23,3 kilometer lang, og sporet ligger om lag 100 meter under havbunnen.",
+      "sv": "Den undersjöiska delen är 23,3 kilometer lång, och spåret ligger omkring 100 meter under havsbottnen."
+    },
+    "source": "Japan Railway Construction, Transport and Technology Agency; Encyclopaedia Britannica"
+  },
+  {
+    "id": "tog-v-07",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "arkitektur",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Great Western Railway ble bygd med et bredspor på 2140 millimeter, som ga romsligere vogner og roligere gange, men som til slutt tapte kampen mot normalsporet. Ingeniøren bak sto også bak dampskipet «Great Britain» og hengebrua ved Clifton. Hvem var han?",
+      "sv": "Great Western Railway byggdes med en bredspårvidd på 2140 millimeter, som gav rymligare vagnar och lugnare gång, men som till slut förlorade kampen mot normalspåret. Ingenjören bakom låg också bakom ångfartyget «Great Britain» och hängbron vid Clifton. Vem var han?"
+    },
+    "answer": "Isambard Kingdom Brunel",
+    "answerKind": "person",
+    "person": {
+      "given": "Isambard",
+      "family": "Brunel"
+    },
+    "hint": {
+      "nb": "Han ble født i Portsmouth i 1806, sønn av ingeniøren Marc, som bygde tunnelen under Themsen.",
+      "sv": "Han föddes i Portsmouth 1806, son till ingenjören Marc, som byggde tunneln under Themsen."
+    },
+    "funFact": {
+      "nb": "Bredsporet ble endelig avviklet i mai 1892, da Great Western la om de siste strekningene til normalspor i løpet av en eneste helg.",
+      "sv": "Bredspåret avvecklades slutgiltigt i maj 1892, när Great Western lade om de sista sträckorna till normalspår under en enda helg."
+    },
+    "source": "SS Great Britain Trust, Brunel Institute; Encyclopaedia Britannica"
+  },
+  {
+    "id": "tog-v-08",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "politikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "På slutten av 1800-tallet var drømmen en sammenhengende britisk jernbane gjennom Afrika, fra Kapp til Kairo, farget rødt hele veien på kartet. Den ble aldri fullført. Hvilken britisk gruvemagnat og kolonipolitiker var dens fremste forkjemper?",
+      "sv": "I slutet av 1800-talet var drömmen en sammanhängande brittisk järnväg genom Afrika, från Kap till Kairo, färgad röd hela vägen på kartan. Den blev aldrig färdig. Vilken brittisk gruvmagnat och kolonialpolitiker var dess främste förespråkare?"
+    },
+    "answer": "Cecil Rhodes",
+    "answerKind": "person",
+    "person": {
+      "given": "Cecil",
+      "family": "Rhodes"
+    },
+    "hint": {
+      "nb": "To land i det sørlige Afrika bar en tid navnet hans.",
+      "sv": "Två länder i södra Afrika bar en tid hans namn."
+    },
+    "funFact": {
+      "nb": "Ideen ble først lansert i 1874 av redaktøren Edwin Arnold i The Daily Telegraph. Av de drøyt 10 000 planlagte kilometerne ble bare rundt halvparten bygd.",
+      "sv": "Idén lanserades först 1874 av redaktören Edwin Arnold i The Daily Telegraph. Av de drygt 10 000 planerade kilometrarna byggdes bara omkring hälften."
+    },
+    "source": "Encyclopaedia Britannica – Cecil Rhodes; Cape to Cairo Railway"
+  },
+  {
+    "id": "tog-v-09",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Riksdagen bestemte i 1854 at staten selv skulle bygge Sveriges stambaner. Sjefen for arbeidet la linjene inn i landet, unna kysten der dampbåtene konkurrerte, og trakk seg tilbake i 1862. Broren John ble berømt som ingeniør i USA. Hva het han?",
+      "sv": "Riksdagen beslutade 1854 att staten själv skulle bygga Sveriges stambanor. Chefen för arbetet lade linjerna in i landet, bort från kusten där ångbåtarna konkurrerade, och drog sig tillbaka 1862. Brodern John blev berömd som ingenjör i USA. Vad hette han?"
+    },
+    "answer": "Nils Ericson",
+    "answerKind": "person",
+    "person": {
+      "given": "Nils",
+      "family": "Ericson"
+    },
+    "hint": {
+      "nb": "Bussterminalen ved Göteborgs centralstation bærer navnet hans.",
+      "sv": "Busstationen vid Göteborgs centralstation bär hans namn."
+    },
+    "funFact": {
+      "nb": "Han ble adlet i 1854 og friherre i 1859. Broren John Ericsson konstruerte panserskipet «Monitor» for nordstatene under den amerikanske borgerkrigen.",
+      "sv": "Han adlades 1854 och blev friherre 1859. Brodern John Ericsson konstruerade pansarfartyget «Monitor» för nordstaterna under det amerikanska inbördeskriget."
+    },
+    "source": "Svenskt biografiskt lexikon; Sveriges järnvägsmuseum"
+  },
+  {
+    "id": "tog-v-10",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Stasjonsbygningen fra 1872 ved Rådhusplassen i Oslo var endestasjon for banen til Drammen. Persontrafikken tok slutt i 1989, og bygningen ble fredet i 1994. Hvilken institusjon åpnet i lokalene i 2005?",
+      "sv": "Stationshuset från 1872 vid Rådhusplassen i Oslo var ändstation för banan till Drammen. Persontrafiken upphörde 1989 och byggnaden blev byggnadsminne 1994. Vilken institution öppnade i lokalerna 2005?"
+    },
+    "answer": {
+      "nb": "Nobels Fredssenter",
+      "sv": "Nobels fredssenter"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Institusjonen forteller om en pris som deles ut i rådhuset like ved, hver tiende desember.",
+      "sv": "Institutionen berättar om ett pris som delas ut i rådhuset alldeles intill, varje tionde december."
+    },
+    "funFact": {
+      "nb": "Bygningen ble tegnet av arkitekten Georg Andreas Bull. Etter at persontrafikken tok slutt, ble sporområdet bak stasjonen frigjort til byutvikling.",
+      "sv": "Byggnaden ritades av arkitekten Georg Andreas Bull. Sedan persontrafiken upphörde frigjordes spårområdet bakom stationen för stadsutveckling."
+    },
+    "source": "Store norske leksikon – Oslo Vestbanestasjon; Riksantikvaren"
+  }
+]

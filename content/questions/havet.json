@@ -1,0 +1,821 @@
+[
+  {
+    "id": "havet-l-01",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Det dekker omtrent en tredjedel av jordoverflaten og er større enn alle verdens landområder til sammen. Rundt kanten ligger «Ildringen» med jordskjelv og vulkaner, og Ferdinand Magellans mannskap brukte over tre måneder på å krysse det i 1520–21. Hvilket hav?",
+      "sv": "Det täcker ungefär en tredjedel av jordytan och är större än alla världens landområden tillsammans. Runt kanten ligger «Eldringen» med jordbävningar och vulkaner, och Ferdinand Magellans besättning tillbringade över tre månader på att korsa det 1520–21. Vilket hav?"
+    },
+    "answer": {
+      "nb": "Stillehavet",
+      "sv": "Stilla havet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet ble gitt fordi flåten møtte uvanlig rolig vær da den kom inn i det.",
+      "sv": "Namnet gavs för att flottan mötte ovanligt lugnt väder när den kom in i det."
+    },
+    "funFact": {
+      "nb": "Magellan kalte det Mar Pacífico, «det fredelige havet», etter at flåten hans hadde sluppet unna det harde været ved Sør-Amerikas sørspiss. Navnet ble hengende ved, enda havet også er hjemsted for noen av verdens kraftigste tyfoner.",
+      "sv": "Magellan kallade det Mar Pacífico, «det fredliga havet», efter att hans flotta hade sluppit undan det hårda vädret vid Sydamerikas sydspets. Namnet blev kvar, trots att havet också är hemvist för några av världens kraftigaste tyfoner."
+    },
+    "source": "Encyclopædia Britannica – Pacific Ocean; NOAA Ocean Service"
+  },
+  {
+    "id": "havet-l-02",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Den buer seg omtrent 2 400 kilometer gjennom den vestlige delen av Stillehavet, øst for Filippinene, og på det dypeste går den nærmere elleve kilometer ned – langt dypere enn Mount Everest er høy. Hva heter denne havgropen?",
+      "sv": "Den bågnar omkring 2 400 kilometer genom den västra delen av Stilla havet, öster om Filippinerna, och som djupast går den närmare elva kilometer ner – långt djupare än Mount Everest är hög. Vad heter denna djuphavsgrav?"
+    },
+    "answer": {
+      "nb": "Marianegropen",
+      "sv": "Marianergraven"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den har navn etter en øygruppe som ligger like vest for den.",
+      "sv": "Den har namn efter en ögrupp som ligger strax väster om den."
+    },
+    "funFact": {
+      "nb": "Det dypeste punktet kalles Challengerdypet, etter det britiske forskningsskipet «Challenger», som loddet der på 1870-tallet. Selv der nede lever det organismer.",
+      "sv": "Den djupaste punkten kallas Challengerdjupet, efter det brittiska forskningsfartyget «Challenger», som lodade där på 1870-talet. Även där nere lever det organismer."
+    },
+    "source": "Store norske leksikon – Marianegropen; NOAA Office of Ocean Exploration"
+  },
+  {
+    "id": "havet-l-03",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Sommeren 1975 fikk et helt kinopublikum vondt for å bade. Den mekaniske haien var så upålitelig under innspillingen at uhyret måtte antydes med musikk og kameravinkler i stedet for å vises. Hvem regisserte filmen «Haisommer»?",
+      "sv": "Sommaren 1975 fick en hel biopublik svårt att bada. Den mekaniska hajen var så opålitlig under inspelningen att odjuret fick antydas med musik och kameravinklar i stället för att visas. Vem regisserade filmen «Hajen»?"
+    },
+    "answer": "Steven Spielberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Steven",
+      "family": "Spielberg"
+    },
+    "hint": {
+      "nb": "Han var i tjueårene da han laget den, og sto senere bak «E.T.» og «Jurassic Park».",
+      "sv": "Han var i tjugoårsåldern när han gjorde den, och stod senare bakom «E.T.» och «Jurassic Park»."
+    },
+    "funFact": {
+      "nb": "Filmen bygger på Peter Benchleys roman fra 1974, og John Williams' to truende toner ble like berømte som haien selv. De mekaniske haiene fikk kallenavnet «Bruce» av filmteamet.",
+      "sv": "Filmen bygger på Peter Benchleys roman från 1974, och John Williams två hotfulla toner blev lika berömda som hajen själv. De mekaniska hajarna fick smeknamnet «Bruce» av filmteamet."
+    },
+    "source": "Universal Pictures; American Film Institute Catalog"
+  },
+  {
+    "id": "havet-l-04",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Romanen fra 1851 åpner med de tre ordene «Kall meg Ismael» og følger hvalfangstskipet «Pequod» og kaptein Ahabs besettelse av en hvit spermhval. Boken solgte dårlig i forfatterens levetid. Hvilken amerikansk forfatter skrev den?",
+      "sv": "Romanen från 1851 inleds med de tre orden «Kalla mig Ismael» och följer valfångstfartyget «Pequod» och kapten Ahabs besatthet av en vit kaskelot. Boken sålde dåligt under författarens livstid. Vilken amerikansk författare skrev den?"
+    },
+    "answer": "Herman Melville",
+    "answerKind": "person",
+    "person": {
+      "given": "Herman",
+      "family": "Melville"
+    },
+    "hint": {
+      "nb": "Han hadde selv mønstret på et hvalfangstskip og seilt i Stillehavet før han begynte å skrive.",
+      "sv": "Han hade själv mönstrat på ett valfångstfartyg och seglat i Stilla havet innan han började skriva."
+    },
+    "funFact": {
+      "nb": "Forfatteren hentet stoff fra to virkelige hendelser: hvalfangstskipet «Essex», som ble senket av en spermhval i 1820, og fortellingene om den hvite hvalen «Mocha Dick». Først på 1920-tallet ble romanen regnet som et hovedverk.",
+      "sv": "Författaren hämtade stoff från två verkliga händelser: valfångstfartyget «Essex», som sänktes av en kaskelot 1820, och berättelserna om den vita valen «Mocha Dick». Först på 1920-talet räknades romanen som ett huvudverk."
+    },
+    "source": "Herman Melville: «Moby-Dick» (1851); Encyclopædia Britannica"
+  },
+  {
+    "id": "havet-l-05",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Han er bror av Zevs og Hades, farer over bølgene med hestespann og kan både reise storm og legge sjøen i ro med treforken sin. Sjøfolk ofret til ham før avreise. Hvilken gresk gud rådde over havet?",
+      "sv": "Han är bror till Zeus och Hades, far över vågorna med hästspann och kan både resa storm och lägga sjön i stiltje med sin treudd. Sjöfolk offrade till honom före avfärd. Vilken grekisk gud rådde över havet?"
+    },
+    "answer": "Poseidon",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Romerne kalte den samme guden Neptun.",
+      "sv": "Romarna kallade samma gud för Neptunus."
+    },
+    "funFact": {
+      "nb": "Han var også gud for jordskjelv og for hester. I kampen om Athen tapte han mot Athene, som ga innbyggerne oliventreet.",
+      "sv": "Han var också gud för jordbävningar och för hästar. I striden om Aten förlorade han mot Athena, som gav invånarna olivträdet."
+    },
+    "source": "Store norske leksikon – Poseidon; Encyclopædia Britannica"
+  },
+  {
+    "id": "havet-l-06",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Det strekker seg over 2 300 kilometer langs kysten av Queensland i Australia, består av mer enn 2 900 enkeltrev og rundt 900 øyer, og er den største konstruksjonen på jorden bygd av levende organismer. Hva heter det?",
+      "sv": "Det sträcker sig över 2 300 kilometer längs kusten av Queensland i Australien, består av mer än 2 900 enskilda rev och omkring 900 öar, och är den största konstruktion på jorden som byggts av levande organismer. Vad heter det?"
+    },
+    "answer": {
+      "nb": "Great Barrier Reef",
+      "sv": "Stora barriärrevet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byggmesterne er milliarder av små korallpolypper, og anlegget kan skimtes fra verdensrommet.",
+      "sv": "Byggmästarna är miljarder små korallpolyper, och anläggningen kan skönjas från rymden."
+    },
+    "funFact": {
+      "nb": "Revet kom på Unescos verdensarvliste i 1981. Korallblekning ved høye havtemperaturer regnes i dag som den alvorligste trusselen mot det.",
+      "sv": "Revet kom med på Unescos världsarvslista 1981. Korallblekning vid höga havstemperaturer räknas i dag som det allvarligaste hotet mot det."
+    },
+    "source": "UNESCO World Heritage Centre; Great Barrier Reef Marine Park Authority"
+  },
+  {
+    "id": "havet-l-07",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "I 1947 satte seks menn ut fra Callao i Peru på en flåte av balsatømmer, bygd etter gammelt søramerikansk mønster, og drev 8 000 kilometer vestover før de strandet på et rev i Tuamotu. Hvem ledet ferden?",
+      "sv": "År 1947 gav sig sex män av från Callao i Peru på en flotte av balsaträ, byggd efter gammalt sydamerikanskt mönster, och drev 8 000 kilometer västerut innan de strandade på ett rev i Tuamotu. Vem ledde färden?"
+    },
+    "answer": "Thor Heyerdahl",
+    "answerKind": "person",
+    "person": {
+      "given": "Thor",
+      "family": "Heyerdahl"
+    },
+    "hint": {
+      "nb": "Flåten er i dag utstilt i et eget museum på Bygdøy i Oslo.",
+      "sv": "Flotten är i dag utställd i ett eget museum på Bygdøy i Oslo."
+    },
+    "funFact": {
+      "nb": "Ferden skulle vise at folk fra Sør-Amerika kunne ha nådd Polynesia med enkle flåter. Dokumentarfilmen om ekspedisjonen vant Oscar for beste dokumentar i 1952.",
+      "sv": "Färden skulle visa att folk från Sydamerika kunde ha nått Polynesien med enkla flottar. Dokumentärfilmen om expeditionen vann Oscar för bästa dokumentär 1952."
+    },
+    "source": "Store norske leksikon – Kon-Tiki-ekspedisjonen; Kon-Tiki Museet"
+  },
+  {
+    "id": "havet-l-08",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "transport",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Da dampskipet «Vesteraalen» la fra kai i Trondheim 2. juli 1893, fikk Nord-Norge for første gang fast postgang året rundt, også vinterstid. I dag går ruta mellom Bergen og Kirkenes. Hva heter denne skipsruta langs norskekysten?",
+      "sv": "När ångfartyget «Vesteraalen» lade ut från kaj i Trondheim den 2 juli 1893 fick Nordnorge för första gången fast postgång året runt, också vintertid. I dag går linjen mellan Bergen och Kirkenes. Vad heter denna fartygslinje längs norska kusten?"
+    },
+    "answer": "Hurtigruten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kaptein Richard With sto bak, og navnet forteller at posten skulle fram raskere enn før.",
+      "sv": "Kapten Richard With stod bakom, och namnet berättar att posten skulle fram snabbare än förut."
+    },
+    "funFact": {
+      "nb": "Ruta ble opprettet for post og gods, men er i dag like mye en turistrute. Skipene anløper 34 havner underveis langs kysten.",
+      "sv": "Linjen inrättades för post och gods, men är i dag lika mycket en turistlinje. Fartygen anlöper 34 hamnar längs kusten."
+    },
+    "source": "Store norske leksikon – Hurtigruten"
+  },
+  {
+    "id": "havet-l-09",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "militaerhistorie",
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "Gustav II Adolfs praktskip bar 64 kanoner og var bygd altfor høyt. På jomfruturen 10. august 1628 kantret det etter drøyt en kilometer i Stockholms havn. I 1961 ble det hevet, nesten helt bevart. Hva heter skipet?",
+      "sv": "Gustav II Adolfs praktskepp bar 64 kanoner och var byggt alldeles för högt. På jungfruturen den 10 augusti 1628 kantrade det efter drygt en kilometer i Stockholms hamn. År 1961 bärgades det, nästan helt bevarat. Vad heter skeppet?"
+    },
+    "answer": "Vasa",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skipet har gitt navn til et eget museum på Djurgården i Stockholm.",
+      "sv": "Skeppet har gett namn åt ett eget museum på Djurgården i Stockholm."
+    },
+    "funFact": {
+      "nb": "Treverket overlevde 333 år på bunnen fordi pælemarken Teredo navalis ikke trives i det brakke vannet utenfor Stockholm. Amatørarkeologen Anders Franzén fant vraket i 1956.",
+      "sv": "Träet överlevde 333 år på botten eftersom skeppsmasken Teredo navalis inte trivs i det bräckta vattnet utanför Stockholm. Amatörarkeologen Anders Franzén fann vraket 1956."
+    },
+    "source": "Vasamuseet, Statens maritima och transporthistoriska museer"
+  },
+  {
+    "id": "havet-l-10",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Ni land grenser til dette innhavet, som bare har smale forbindelser til verdenshavene gjennom de danske sundene. Så mye elvevann renner ut i det at saltinnholdet i overflaten er en brøkdel av det vanlig sjøvann har. Hva heter havet?",
+      "sv": "Nio länder gränsar till detta innanhav, som bara har smala förbindelser med världshaven genom de danska sunden. Så mycket flodvatten rinner ut i det att salthalten i ytan är en bråkdel av vad vanligt havsvatten har. Vad heter havet?"
+    },
+    "answer": {
+      "nb": "Østersjøen",
+      "sv": "Östersjön"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sverige, Finland, Estland og Polen har alle kyst mot det, og Gotland ligger midt i.",
+      "sv": "Sverige, Finland, Estland och Polen har alla kust mot det, och Gotland ligger mitt i."
+    },
+    "funFact": {
+      "nb": "Brakkvannet gjør at både ferskvanns- og saltvannsarter kan leve der, men artsutvalget er lite. Gjennomsnittsdypet er drøyt femti meter.",
+      "sv": "Det bräckta vattnet gör att både sötvattens- och saltvattensarter kan leva där, men artrikedomen är liten. Medeldjupet är drygt femtio meter."
+    },
+    "source": "HELCOM (Helsingforskommisjonen); Encyclopædia Britannica – Baltic Sea"
+  },
+  {
+    "id": "havet-m-01",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Den 23. januar 1960 tok sveitseren Jacques Piccard og amerikaneren Don Walsh en batyskaf helt ned i Challengerdypet, nærmere elleve kilometer under havflaten. Farkosten var konstruert av Piccards far Auguste. Hva het den?",
+      "sv": "Den 23 januari 1960 tog schweizaren Jacques Piccard och amerikanen Don Walsh en batyskaf hela vägen ner i Challengerdjupet, närmare elva kilometer under havsytan. Farkosten var konstruerad av Piccards far Auguste. Vad hette den?"
+    },
+    "answer": "Trieste",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er oppkalt etter en italiensk havneby innerst i Adriaterhavet.",
+      "sv": "Den är uppkallad efter en italiensk hamnstad innerst i Adriatiska havet."
+    },
+    "funFact": {
+      "nb": "Nedturen tok nesten fem timer. Først i 2012 kom et nytt bemannet dykk til samme dyp, da filmregissøren James Cameron gikk ned alene.",
+      "sv": "Nedfärden tog nästan fem timmar. Först 2012 kom ett nytt bemannat dyk till samma djup, då filmregissören James Cameron gick ner ensam."
+    },
+    "source": "U.S. Navy; Woods Hole Oceanographic Institution"
+  },
+  {
+    "id": "havet-m-02",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Natt til 1. september 1985 fant et fransk-amerikansk lag vraket av verdens mest omtalte skipsforlis, rundt 3 800 meter ned i Nord-Atlanteren, ved hjelp av den slepte kamerasleden «Argo». Hvilken amerikansk havforsker ledet letingen?",
+      "sv": "Natten till den 1 september 1985 hittade ett fransk-amerikanskt lag vraket efter världens mest omtalade skeppsbrott, omkring 3 800 meter ner i Nordatlanten, med hjälp av den bogserade kamerasläden «Argo». Vilken amerikansk havsforskare ledde letandet?"
+    },
+    "answer": "Robert Ballard",
+    "answerKind": "person",
+    "person": {
+      "given": "Robert",
+      "family": "Ballard"
+    },
+    "hint": {
+      "nb": "Fire år senere fant han også slagskipet «Bismarck», og i 1977 var han med på å oppdage varme kilder på havbunnen.",
+      "sv": "Fyra år senare fann han också slagskeppet «Bismarck», och 1977 var han med om att upptäcka varma källor på havsbottnen."
+    },
+    "funFact": {
+      "nb": "Toktet var delvis finansiert av den amerikanske marinen, som først ville ha ham til å undersøke to forliste atomubåter. Vraket ligger fortsatt urørt der det ble funnet.",
+      "sv": "Expeditionen var delvis finansierad av den amerikanska flottan, som först ville ha honom att undersöka två förlista atomubåtar. Vraket ligger fortfarande orört där det hittades."
+    },
+    "source": "Woods Hole Oceanographic Institution; National Geographic Society"
+  },
+  {
+    "id": "havet-m-03",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Benjamin Franklin fikk i 1769 trykt det første kartet over den, etter tips fra en hvalfangstkaptein som visste hvorfor postskipene brukte lengre tid vestover enn østover. Den fører varmt vann fra Mexicogolfen mot Europa. Hva heter havstrømmen?",
+      "sv": "Benjamin Franklin lät 1769 trycka den första kartan över den, efter tips från en valfångstkapten som visste varför postfartygen tog längre tid västerut än österut. Den för varmt vatten från Mexikanska golfen mot Europa. Vad heter havsströmmen?"
+    },
+    "answer": {
+      "nb": "Golfstrømmen",
+      "sv": "Golfströmmen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Utløperen nordover er grunnen til at norskekysten holder seg isfri hele vinteren.",
+      "sv": "Utlöparen norrut är skälet till att norska kusten håller sig isfri hela vintern."
+    },
+    "funFact": {
+      "nb": "Strømmen er om lag hundre kilometer bred og flere hundre meter dyp, og fører langt mer vann enn alle verdens elver til sammen. Nordover fortsetter den som Den nordatlantiske strøm.",
+      "sv": "Strömmen är omkring hundra kilometer bred och flera hundra meter djup, och för långt mer vatten än alla världens floder tillsammans. Norrut fortsätter den som Nordatlantiska strömmen."
+    },
+    "source": "NOAA Ocean Service; Encyclopædia Britannica – Gulf Stream"
+  },
+  {
+    "id": "havet-m-04",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Tresnittet fra rundt 1831 viser en veldig bølge med kloliknende skumtopper over tre smale båter, mens fjellet Fuji ligger lite i bakgrunnen. Bildet er første blad i serien «Trettiseks utsikter over Fuji». Hvem laget det?",
+      "sv": "Träsnittet från omkring 1831 visar en väldig våg med klolika skumtoppar över tre smala båtar, medan berget Fuji ligger litet i bakgrunden. Bilden är första bladet i serien «Trettiosex vyer av berget Fuji». Vem gjorde den?"
+    },
+    "answer": "Katsushika Hokusai",
+    "answerKind": "person",
+    "person": {
+      "given": "Hokusai",
+      "family": "Katsushika"
+    },
+    "hint": {
+      "nb": "Han var over sytti år da serien kom, og kalte seg selv «den gamle mannen som er gal etter å tegne».",
+      "sv": "Han var över sjuttio år när serien kom, och kallade sig själv «den gamle mannen som är galen i att teckna»."
+    },
+    "funFact": {
+      "nb": "Tresnittet ble trykt i tusenvis av eksemplarer og kostet omtrent det samme som en dobbel porsjon nudler. I dag finnes originaltrykk blant annet i British Museum og Metropolitan Museum of Art.",
+      "sv": "Träsnittet trycktes i tusentals exemplar och kostade ungefär lika mycket som en dubbel portion nudlar. I dag finns originaltryck bland annat på British Museum och Metropolitan Museum of Art."
+    },
+    "source": "The British Museum – «The Great Wave»; Metropolitan Museum of Art"
+  },
+  {
+    "id": "havet-m-05",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Det er det eneste havet i verden uten en eneste kyst: det ligger midt i Nord-Atlanteren og holdes på plass av fire havstrømmer. Portugisiske sjøfarere ga det navn etter brunalgene som flyter i store matter der. Hva heter det?",
+      "sv": "Det är det enda havet i världen utan en enda kust: det ligger mitt i Nordatlanten och hålls på plats av fyra havsströmmar. Portugisiska sjöfarare gav det namn efter brunalgerna som flyter i stora mattor där. Vad heter det?"
+    },
+    "answer": {
+      "nb": "Sargassohavet",
+      "sv": "Sargassohavet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bermuda ligger i vestkanten av det, og navnet er hentet fra algeslekten som dekker overflaten.",
+      "sv": "Bermuda ligger i dess västra kant, och namnet är hämtat från algsläktet som täcker ytan."
+    },
+    "funFact": {
+      "nb": "Danske Johannes Schmidt viste på Dana-ekspedisjonene i 1920-årene at den europeiske ålen gyter der. Ingen har likevel sett ål gyte i naturen.",
+      "sv": "Danske Johannes Schmidt visade under Dana-expeditionerna på 1920-talet att den europeiska ålen leker där. Ändå har ingen sett ål leka i naturen."
+    },
+    "source": "Sargasso Sea Commission; DTU Aqua – Johannes Schmidt og Dana-ekspedisjonene"
+  },
+  {
+    "id": "havet-m-06",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Ideen var å fryse skipet fast i isen nord for Sibir og la havstrømmen drive det tvers over polhavet. Da det ble klart at driften ikke ville nå polpunktet, forlot to av mennene skuta i mars 1895 og satte ny nordrekord. Hvem ledet ekspedisjonen?",
+      "sv": "Idén var att frysa fast fartyget i isen norr om Sibirien och låta havsströmmen driva det tvärs över Norra ishavet. När det stod klart att driften inte skulle nå polpunkten lämnade två av männen skutan i mars 1895 och satte nytt nordrekord. Vem ledde expeditionen?"
+    },
+    "answer": "Fridtjof Nansen",
+    "answerKind": "person",
+    "person": {
+      "given": "Fridtjof",
+      "family": "Nansen"
+    },
+    "hint": {
+      "nb": "Skipet het «Fram», og mannen fikk senere Nobels fredspris for arbeidet med flyktninger.",
+      "sv": "Fartyget hette «Fram», och mannen fick senare Nobels fredspris för sitt arbete med flyktingar."
+    },
+    "funFact": {
+      "nb": "Følgesvennen var Hjalmar Johansen. De to overvintret i en enkel hytte på Frans Josefs land og møtte tilfeldig den britiske polfareren Frederick Jackson i juni 1896.",
+      "sv": "Följeslagaren var Hjalmar Johansen. De två övervintrade i en enkel hydda på Frans Josefs land och mötte av en slump den brittiske polarfararen Frederick Jackson i juni 1896."
+    },
+    "source": "Frammuseet; Store norske leksikon – Fridtjof Nansen"
+  },
+  {
+    "id": "havet-m-07",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "teknologi",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Lyset ble tent første gang 27. februar 1656, men talglysene i lykten lyste så svakt at kongen tok bevillingen tilbake samme høst. Først i 1725 kom stasjonen i drift igjen. Hvilket fyr er det eldste i Norge?",
+      "sv": "Ljuset tändes första gången den 27 februari 1656, men talgljusen i lyktan lyste så svagt att kungen drog tillbaka tillståndet samma höst. Först 1725 kom stationen i drift igen. Vilken fyr är den äldsta i Norge?"
+    },
+    "answer": {
+      "nb": "Lindesnes fyr",
+      "sv": "Lindesnes fyr"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det står ytterst på halvøya som utgjør det sørligste punktet på Norges fastland, i Agder.",
+      "sv": "Den står ytterst på halvön som utgör den sydligaste punkten på Norges fastland, i Agder."
+    },
+    "funFact": {
+      "nb": "Stasjonen ble automatisert i 1979, men er fortsatt et av de svært få norske fyrene med fast bemanning. I dag rommer den også et nasjonalt fyrmuseum.",
+      "sv": "Stationen automatiserades 1979 men är fortfarande en av de mycket få norska fyrar som har fast bemanning. I dag rymmer den även ett nationellt fyrmuseum."
+    },
+    "source": "Store norske leksikon – Lindesnes fyr; Kystverket"
+  },
+  {
+    "id": "havet-m-08",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fra 1731 seilte skipene deres fra Göteborg til Kanton og hjem igjen med te, porselen og silke, og teen kom til slutt til å utgjøre det aller meste av verdien i lasten. Selskapet ble oppløst i 1813. Hva het dette svenske handelsselskapet?",
+      "sv": "Från 1731 seglade deras skepp från Göteborg till Kanton och hem igen med te, porslin och siden, och teet kom till slut att utgöra den allra största delen av lastens värde. Bolaget upplöstes 1813. Vad hette detta svenska handelsbolag?"
+    },
+    "answer": {
+      "nb": "Svenska Ostindiska Companiet",
+      "sv": "Svenska Ostindiska Companiet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet ligner på de nederlandske og britiske selskapene som seilte samme vei.",
+      "sv": "Namnet liknar de nederländska och brittiska bolagen som seglade samma väg."
+    },
+    "funFact": {
+      "nb": "Det ble gjennomført rundt 130 ekspedisjoner med 37 skip. Ostindiefareren «Götheborg» forliste i 1745 rett utenfor hjembyen etter en vellykket tur til Kina, og en seilende kopi ble sjøsatt i 2003.",
+      "sv": "Det genomfördes omkring 130 expeditioner med 37 skepp. Ostindiefararen «Götheborg» förliste 1745 strax utanför hemstaden efter en lyckad resa till Kina, och en seglande kopia sjösattes 2003."
+    },
+    "source": "Göteborgs stadsmuseum; Nationalencyklopedin – Svenska Ostindiska Companiet"
+  },
+  {
+    "id": "havet-m-09",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "musikk",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Han vokste opp på fyrøya Vinga utenfor Göteborg, der faren var fyrvokter, dro til sjøs som ung og tilbrakte fem år i Argentina. Senere skrev han visen «Så skimrande var aldrig havet». Hvilken svensk visedikter?",
+      "sv": "Han växte upp på fyrön Vinga utanför Göteborg, där fadern var fyrvaktare, gick till sjöss som ung och tillbringade fem år i Argentina. Senare skrev han visan «Så skimrande var aldrig havet». Vilken svensk visdiktare?"
+    },
+    "answer": "Evert Taube",
+    "answerKind": "person",
+    "person": {
+      "given": "Evert",
+      "family": "Taube"
+    },
+    "hint": {
+      "nb": "Han akkompagnerte seg selv på lutt, og «Änglamark» ble en sang for miljøbevegelsen på 1970-tallet.",
+      "sv": "Han ackompanjerade sig själv på luta, och «Änglamark» blev en sång för miljörörelsen på 1970-talet."
+    },
+    "funFact": {
+      "nb": "Han levde fra 1890 til 1976. Årene i Argentina ga ham latinamerikanske rytmer som han tok med inn i den svenske vistradisjonen.",
+      "sv": "Han levde 1890–1976. Åren i Argentina gav honom latinamerikanska rytmer som han tog med sig in i den svenska vistraditionen."
+    },
+    "source": "Nationalencyklopedin – Evert Taube; Svenskt biografiskt lexikon"
+  },
+  {
+    "id": "havet-m-10",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Jules Vernes roman fra 1870 følger den gåtefulle kaptein Nemo, som har brutt med menneskeheten og lever i en elektrisk drevet undervannsbåt med både bibliotek og orgel om bord. Hva heter denne båten?",
+      "sv": "Jules Vernes roman från 1870 följer den gåtfulle kapten Nemo, som brutit med mänskligheten och lever i en eldriven undervattensbåt med både bibliotek och orgel ombord. Vad heter denna båt?"
+    },
+    "answer": "Nautilus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er hentet fra en blekksprutslekt med spiralformet skall, og verdens første atomubåt fikk samme navn.",
+      "sv": "Namnet är hämtat från ett bläckfisksläkte med spiralformat skal, och världens första atomubåt fick samma namn."
+    },
+    "funFact": {
+      "nb": "Verne lot Nemo hente kraft fra havet selv, tiår før praktiske ubåter fantes. USS Nautilus, verdens første atomdrevne ubåt, ble sjøsatt i 1954 og passerte Nordpolen under isen i 1958.",
+      "sv": "Verne lät Nemo hämta kraft ur havet självt, decennier innan praktiska ubåtar fanns. USS Nautilus, världens första kärnkraftsdrivna ubåt, sjösattes 1954 och passerade Nordpolen under isen 1958."
+    },
+    "source": "Jules Verne: «Vingt mille lieues sous les mers» (1870); U.S. Navy"
+  },
+  {
+    "id": "havet-v-01",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Som tenåring holdt han i 2012 en TEDx-tale i Delft om å la havstrømmene samle opp plasten selv, sluttet på ingeniørstudiet og startet året etter en organisasjon som i dag også fanger avfall i elvemunninger. Hvem er han?",
+      "sv": "Som tonåring höll han 2012 ett TEDx-tal i Delft om att låta havsströmmarna samla upp plasten själva, hoppade av ingenjörsstudierna och startade året därpå en organisation som i dag också fångar avfall i flodmynningar. Vem är han?"
+    },
+    "answer": "Boyan Slat",
+    "answerKind": "person",
+    "person": {
+      "given": "Boyan",
+      "family": "Slat"
+    },
+    "hint": {
+      "nb": "Han er nederlender, og organisasjonen heter The Ocean Cleanup.",
+      "sv": "Han är nederländare, och organisationen heter The Ocean Cleanup."
+    },
+    "funFact": {
+      "nb": "Organisasjonen arbeider både i søppelvirvelen i Stillehavet og i elver, ut fra beregningen om at en liten andel av verdens elver står for storparten av plasten som når havet.",
+      "sv": "Organisationen arbetar både i skräpvirveln i Stilla havet och i floder, utifrån beräkningen att en liten andel av världens floder står för merparten av plasten som når havet."
+    },
+    "source": "The Ocean Cleanup; TU Delft"
+  },
+  {
+    "id": "havet-v-02",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Briggen ble funnet for seil og i god stand i Atlanterhavet utenfor Azorene i desember 1872, med lasten på 1 701 fat alkohol i behold, men uten et menneske om bord. Livbåten manglet. Hva het skipet?",
+      "sv": "Briggen påträffades för segel och i gott skick i Atlanten utanför Azorerna i december 1872, med lasten på 1 701 fat alkohol i behåll, men utan en enda människa ombord. Livbåten saknades. Vad hette fartyget?"
+    },
+    "answer": "Mary Celeste",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Arthur Conan Doyle skrev en novelle inspirert av saken og gjorde skipsnavnet verdenskjent i en litt forvansket form.",
+      "sv": "Arthur Conan Doyle skrev en novell inspirerad av fallet och gjorde fartygsnamnet världsberömt i en något förvanskad form."
+    },
+    "funFact": {
+      "nb": "Siste innførsel i loggboken var datert ni dager før funnet. Verken kaptein Benjamin Briggs, familien hans eller de sju i mannskapet ble noen gang sett igjen.",
+      "sv": "Sista noteringen i loggboken var daterad nio dagar före fyndet. Varken kapten Benjamin Briggs, hans familj eller de sju i besättningen sågs någonsin igen."
+    },
+    "source": "Royal Museums Greenwich; Smithsonian Magazine"
+  },
+  {
+    "id": "havet-v-03",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Det britiske parlamentet lovte i 1714 opptil 20 000 pund til den som kunne bestemme lengdegrad til havs. En snekker fra Yorkshire brukte tiårene etterpå på fire sjøklokker, og den fjerde, på størrelse med et stort lommeur, besto prøven. Hvem var han?",
+      "sv": "Det brittiska parlamentet utlovade 1714 upp till 20 000 pund till den som kunde bestämma longitud till havs. En snickare från Yorkshire ägnade decennierna därpå åt fyra sjöur, och det fjärde, stort som ett stort fickur, klarade provet. Vem var han?"
+    },
+    "answer": "John Harrison",
+    "answerKind": "person",
+    "person": {
+      "given": "John",
+      "family": "Harrison"
+    },
+    "hint": {
+      "nb": "Klokkene hans, kalt H1 til H4, står i dag på observatoriet i Greenwich.",
+      "sv": "Hans ur, kallade H1 till H4, står i dag på observatoriet i Greenwich."
+    },
+    "funFact": {
+      "nb": "Han fikk aldri premien formelt tildelt, men Parlamentet bevilget ham 8 750 pund i 1773, tre år før han døde. Løsningen var å ta med nøyaktig hjemmetid ombord.",
+      "sv": "Han fick aldrig priset formellt tilldelat, men parlamentet beviljade honom 8 750 pund 1773, tre år före hans död. Lösningen var att ta med exakt hemmatid ombord."
+    },
+    "source": "Royal Museums Greenwich – Harrison's timekeepers"
+  },
+  {
+    "id": "havet-v-04",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Trålere i Nordsjøen har dratt opp mammuttenner, flintredskaper og en spydspiss av gevir fra en slette der mennesker jaktet i steinalderen, før havet steg og skilte Storbritannia fra kontinentet. Hva kalles dette druknede landet?",
+      "sv": "Trålare i Nordsjön har dragit upp mammutbetar, flintredskap och en spjutspets av horn från en slätt där människor jagade under stenåldern, innan havet steg och skilde Storbritannien från kontinenten. Vad kallas detta dränkta land?"
+    },
+    "answer": "Doggerland",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er hentet fra en grunne i Nordsjøen som igjen har navn etter nederlandske fiskebåter.",
+      "sv": "Namnet är hämtat från en grundbank i Nordsjön som i sin tur har namn efter nederländska fiskebåtar."
+    },
+    "funFact": {
+      "nb": "Havet steg fra rundt 10 000 år før nåtid, og omkring 6500 fvt. var Storbritannia blitt en øy. En flodbølge etter det store Storegga-skredet kan ha framskyndet de siste stadiene.",
+      "sv": "Havet steg från omkring 10 000 år före nutid, och kring 6500 f.Kr. hade Storbritannien blivit en ö. En flodvåg efter det stora Storegga-skredet kan ha påskyndat de sista stadierna."
+    },
+    "source": "University of Bradford – Europe's Lost Frontiers; Natural History Museum, London"
+  },
+  {
+    "id": "havet-v-05",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Mellom 1405 og 1433 ledet en kinesisk hoffembetsmann sju store flåteferder til India, Arabia og Øst-Afrika. Den første flåten hadde over 300 skip og nesten 28 000 mann, og senere ferder brakte blant annet en sjiraff hjem til keiseren. Hvem var admiralen?",
+      "sv": "Mellan 1405 och 1433 ledde en kinesisk hovämbetsman sju stora flottfärder till Indien, Arabien och Östafrika. Den första flottan hade över 300 skepp och nästan 28 000 man, och senare färder förde bland annat hem en giraff till kejsaren. Vem var amiralen?"
+    },
+    "answer": "Zheng He",
+    "answerKind": "person",
+    "person": {
+      "given": "He",
+      "family": "Zheng"
+    },
+    "hint": {
+      "nb": "Han tjente Yongle-keiseren i Ming-dynastiet og kom fra en muslimsk familie i Yunnan.",
+      "sv": "Han tjänade Yongle-kejsaren i Mingdynastin och kom från en muslimsk familj i Yunnan."
+    },
+    "funFact": {
+      "nb": "Etter hans død ble de store ekspedisjonene stanset, og mye av dokumentasjonen gikk tapt. Ferdene fant sted flere tiår før Vasco da Gama seilte rundt Afrika til India.",
+      "sv": "Efter hans död stoppades de stora expeditionerna, och mycket av dokumentationen gick förlorad. Färderna ägde rum flera decennier före Vasco da Gamas segling runt Afrika till Indien."
+    },
+    "source": "Encyclopædia Britannica – Zheng He"
+  },
+  {
+    "id": "havet-v-06",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "transport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Skuta ble bygd i Rosendal i 1872 og gikk i 28 år som sildefartøy før den ble kjøpt til polarbruk. Med et lite mannskap brukte den tre år, fra 1903 til 1906, på å komme gjennom Nordvestpassasjen. Hva het den?",
+      "sv": "Skutan byggdes i Rosendal 1872 och gick i 28 år som sillfartyg innan den köptes för polarbruk. Med en liten besättning tog det henne tre år, från 1903 till 1906, att ta sig genom Nordvästpassagen. Vad hette hon?"
+    },
+    "answer": "Gjøa",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Roald Amundsen førte den, og i dag står den under samme tak som «Fram» på Bygdøy.",
+      "sv": "Roald Amundsen förde henne, och i dag står hon under samma tak som «Fram» på Bygdøy."
+    },
+    "funFact": {
+      "nb": "Skuta ble den første som kom helt gjennom passasjen. Den lå lenge i Golden Gate Park i San Francisco, kom tilbake til Norge i 1972 og ble flyttet inn i Frammuseet i 2009.",
+      "sv": "Skutan blev den första som tog sig hela vägen genom passagen. Hon låg länge i Golden Gate Park i San Francisco, kom tillbaka till Norge 1972 och flyttades in i Frammuseet 2009."
+    },
+    "source": "Frammuseet; Store norske leksikon – Roald Amundsen"
+  },
+  {
+    "id": "havet-v-07",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "mytologi",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "I nordnorsk folketro seiler han i en halv båt, kledd i skinnstakk og med en tangdott der hodet skulle vært. Å høre skriket hans varslet død på sjøen. Theodor Kittelsen malte ham i opprørt hav. Hvem er dette?",
+      "sv": "I nordnorsk folktro seglar han i en halv båt, klädd i skinnpäls och med en tångtuss där huvudet borde ha suttit. Att höra hans skrik varslade om död till sjöss. Theodor Kittelsen målade honom i upprört hav. Vem är detta?"
+    },
+    "answer": {
+      "nb": "Draugen",
+      "sv": "Draugen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet kommer av norrønt draugr, «gjenganger», og handler om en druknet som ikke fikk kristen grav.",
+      "sv": "Ordet kommer av fornnordiskans draugr, «gengångare», och handlar om en drunknad som inte fick kristen grav."
+    },
+    "funFact": {
+      "nb": "Fiskere unngikk å ta ombord en «tangstein» som ballast, for han kunne vise seg som en stein med tang på. Kittelsens bilde har preget den norske forestillingen om ham.",
+      "sv": "Fiskare undvek att ta ombord en «tångsten» som barlast, för han kunde visa sig som en sten med tång på. Kittelsens bild har präglat den norska föreställningen om honom."
+    },
+    "source": "Store norske leksikon – draug; Norsk Folkeminnesamling"
+  },
+  {
+    "id": "havet-v-08",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Han fant opp en solventil som slår av gassen i fyrlykta når dagen gryr, og en blinkanordning som kuttet forbruket dramatisk. Dermed kunne fyr og lysbøyer stå uten tilsyn i over et år. Hvem fikk nobelprisen i fysikk for dette i 1912?",
+      "sv": "Han uppfann en solventil som stänger av gasen i fyrlyktan när dagen gryr, och en blinkanordning som skar ner förbrukningen dramatiskt. Därmed kunde fyrar och lysbojar stå utan tillsyn i över ett år. Vem fick nobelpriset i fysik för detta 1912?"
+    },
+    "answer": "Gustaf Dalén",
+    "answerKind": "person",
+    "person": {
+      "given": "Gustaf",
+      "family": "Dalén"
+    },
+    "hint": {
+      "nb": "Han ledet selskapet AGA, som senere også ga navn til en kjent kokeovn.",
+      "sv": "Han ledde bolaget AGA, som senare också gav namn åt en känd köksspis."
+    },
+    "funFact": {
+      "nb": "Prisen ble gitt for automatiske regulatorer brukt sammen med gassakkumulatorer til fyr og lysbøyer. Han ledet AGA fra 1909 til han døde i 1937.",
+      "sv": "Priset gavs för automatiska regulatorer använda tillsammans med gasackumulatorer för fyrar och lysbojar. Han ledde AGA från 1909 till sin död 1937."
+    },
+    "source": "Nobelstiftelsen – Nobelpriset i fysik 1912; Tekniska museet, Stockholm"
+  },
+  {
+    "id": "havet-v-09",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Nansen hadde undret seg over at isen i polhavet drev 20 til 40 grader til høyre for vinden. En ung svensk student løste gåten i 1905 og viste hvordan strømretningen dreier videre nedover i dypet. Hvem har gitt navn til denne spiralen?",
+      "sv": "Nansen hade förundrats över att isen i Norra ishavet drev 20 till 40 grader åt höger om vinden. En ung svensk student löste gåtan 1905 och visade hur strömriktningen vrider sig vidare nedåt i djupet. Vem har gett namn åt denna spiral?"
+    },
+    "answer": "Vagn Walfrid Ekman",
+    "answerKind": "person",
+    "person": {
+      "given": "Vagn Walfrid",
+      "family": "Ekman"
+    },
+    "hint": {
+      "nb": "Etternavnet hans brukes også om «transporten» av vann i det øverste laget av havet.",
+      "sv": "Hans efternamn används också om «transporten» av vatten i havets översta skikt."
+    },
+    "funFact": {
+      "nb": "Det var Vilhelm Bjerknes som ga studenten oppgaven. Han levde fra 1874 til 1954 og regnes som en av grunnleggerne av moderne fysisk oseanografi.",
+      "sv": "Det var Vilhelm Bjerknes som gav studenten uppgiften. Han levde 1874–1954 och räknas som en av grundarna av modern fysisk oceanografi."
+    },
+    "source": "Nationalencyklopedin – Vagn Walfrid Ekman; American Meteorological Society"
+  },
+  {
+    "id": "havet-v-10",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Østersjøens dypeste punkt ligger sørøst for en liten fyrøy ytterst i Stockholms skjærgård og går drøyt 450 meter ned, altså mange ganger dypere enn innhavet er i gjennomsnitt. Hva heter dette dypet?",
+      "sv": "Östersjöns djupaste punkt ligger sydost om en liten fyrö ytterst i Stockholms skärgård och går drygt 450 meter ner, alltså många gånger djupare än innanhavet är i genomsnitt. Vad heter detta djup?"
+    },
+    "answer": {
+      "nb": "Landsortsdjupet",
+      "sv": "Landsortsdjupet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øya heter Öja, men både fyret og dypet er kjent under et annet navn.",
+      "sv": "Ön heter Öja, men både fyren och djupet är kända under ett annat namn."
+    },
+    "funFact": {
+      "nb": "Dypet ligger i en smal renne i havbunnen. Fram til 1960-tallet ble det dumpet kjemisk og radioaktivt avfall der, nettopp fordi det var så dypt.",
+      "sv": "Djupet ligger i en smal ränna i havsbottnen. Fram till 1960-talet dumpades kemiskt och radioaktivt avfall där, just för att det var så djupt."
+    },
+    "source": "SMHI – Sveriges meteorologiska och hydrologiska institut; Nationalencyklopedin"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "kaffe-l-01",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Tre venner åpnet i 1971 en liten butikk ved Pike Place Market i Seattle. De første årene solgte de bare kaffebønner og utstyr, ikke ferdige drikker, og navnet hentet de fra styrmannen i Herman Melvilles «Moby-Dick». Hvilken kaffekjede vokste dette til?",
+      "sv": "Tre vänner öppnade 1971 en liten butik vid Pike Place Market i Seattle. De första åren sålde de bara kaffebönor och utrustning, inte färdiga drycker, och namnet hämtade de från styrmannen i Herman Melvilles «Moby Dick». Vilken kaffekedja växte det till?"
+    },
+    "answer": "Starbucks",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Logoen er en grønn sirene, og hovedkontoret ligger fortsatt i byen der det hele begynte.",
+      "sv": "Logotypen är en grön siren, och huvudkontoret ligger fortfarande i staden där allt började."
+    },
+    "funFact": {
+      "nb": "Den første butikken lå i 2000 Western Avenue fra 1971 til 1976 og flyttet så til 1912 Pike Place. Gordon Bowker har fortalt at «Moby-Dick» egentlig ikke hadde noe med saken å gjøre – de lette bare etter et navn som begynte på «st».",
+      "sv": "Den första butiken låg på 2000 Western Avenue från 1971 till 1976 och flyttade sedan till 1912 Pike Place. Gordon Bowker har berättat att «Moby Dick» egentligen inte hade med saken att göra – de letade bara efter ett namn som började på «st»."
+    },
+    "source": "Wikipedia (engelsk) – «Starbucks»"
+  },
+  {
+    "id": "kaffe-l-02",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "I 1727 smuglet offiseren Francisco de Melo Palheta kaffefrø over grensen fra fransk koloniområde, og den første plantasjen ble anlagt. Alt på 1800-tallet stod landet for rundt 40 prosent av verdens kaffe, og har vært den største produsenten siden. Hvilket land?",
+      "sv": "År 1727 smugglade officeren Francisco de Melo Palheta kaffefrön över gränsen från franskt kolonialområde, och den första plantagen anlades. Redan på 1800-talet stod landet för omkring 40 procent av världens kaffe och har varit den största producenten sedan dess. Vilket land?"
+    },
+    "answer": {
+      "nb": "Brasil",
+      "sv": "Brasilien"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Delstaten Minas Gerais står alene for om lag halvparten av produksjonen.",
+      "sv": "Delstaten Minas Gerais står ensam för ungefär hälften av produktionen."
+    },
+    "funFact": {
+      "nb": "For å holde prisen oppe kjøpte staten opp overskuddskaffe etter Taubaté-avtalen fra 1906. Ordningen bidro til overproduksjon i verdensmarkedet og gjorde skadene under depresjonen på 1930-tallet verre.",
+      "sv": "För att hålla uppe priset köpte staten upp överskottskaffe efter Taubaté-avtalet från 1906. Systemet bidrog till överproduktion på världsmarknaden och förvärrade skadorna under depressionen på 1930-talet."
+    },
+    "source": "Wikipedia (engelsk) – «Coffee production in Brazil»"
+  },
+  {
+    "id": "kaffe-l-03",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "religion",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Munkene i en fransiskansk orden fra 1500-tallet gikk i en brunlig kutte med spiss hette. På kaffehusmenyene i Habsburgriket dukket det på 1700-tallet opp en drikk oppkalt etter fargen på kutten. I dag lages den av espresso, dampet melk og melkeskum. Hva heter drikken?",
+      "sv": "Munkarna i en franciskansk orden från 1500-talet bar en brunaktig kåpa med spetsig huva. På kaffehusmenyerna i Habsburgriket dök det på 1700-talet upp en dryck uppkallad efter kåpans färg. I dag görs den av espresso, ångad mjölk och mjölkskum. Vad heter drycken?"
+    },
+    "answer": "Cappuccino",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordenen heter kapusinerne, og navnet deres kommer av den spisse hetten.",
+      "sv": "Orden heter kapucinerna, och deras namn kommer av den spetsiga huvan."
+    },
+    "funFact": {
+      "nb": "På tysk het forløperen «Kapuziner». Verdensmesterskapet for baristaer definerer drikken som 150–180 milliliter med minst én centimeter skum.",
+      "sv": "På tyska hette föregångaren «Kapuziner». Världsmästerskapet för baristor definierar drycken som 150–180 milliliter med minst en centimeter skum."
+    },
+    "source": "Wikipedia (engelsk) – «Cappuccino»"
+  },
+  {
+    "id": "kaffe-l-04",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Kaffetreet vokser vilt i de sørvestlige høylandene her, og den tradisjonelle kaffeseremonien har tre runder med navnene abol, tona og baraka. Kaffen kokes i en leirkanne som kalles jebena, ofte mens det brennes røkelse. Hvilket land regnes som kaffens hjemland?",
+      "sv": "Kaffeträdet växer vilt i det sydvästra höglandet här, och den traditionella kaffeceremonin har tre rundor med namnen abol, tona och baraka. Kaffet kokas i en lerkanna som kallas jebena, ofta medan rökelse bränns. Vilket land räknas som kaffets hemland?"
+    },
+    "answer": {
+      "nb": "Etiopia",
+      "sv": "Etiopien"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedstaden heter Addis Abeba.",
+      "sv": "Huvudstaden heter Addis Abeba."
+    },
+    "funFact": {
+      "nb": "Sagnet om gjeteren som oppdaget kaffen fordi geitene ble oppspilte, står ikke skrevet ned før i 1671, hos Antoine Faustus Nairon i Roma. Gjeteren er navnløs i den eldste versjonen; navnet Kaldi kom til på 1900-tallet.",
+      "sv": "Sägnen om herden som upptäckte kaffet för att getterna blev uppspelta skrevs inte ned förrän 1671, hos Antoine Faustus Nairon i Rom. Herden är namnlös i den äldsta versionen; namnet Kaldi tillkom på 1900-talet."
+    },
+    "source": "Wikipedia (engelsk) – «History of coffee», «Coffee ceremony of Ethiopia and Eritrea»"
+  },
+  {
+    "id": "kaffe-l-05",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Det italienske nasjonalinstituttet for denne kaffen setter standarden: vann med om lag ni bars trykk presses gjennom finmalt, hardt stampet kaffe i rundt 25 sekunder, og i koppen havner bare 25 milliliter med et lag brunt skum øverst. Hva kalles kaffen?",
+      "sv": "Det italienska nationalinstitutet för detta kaffe sätter standarden: vatten med omkring nio bars tryck pressas genom finmalet, hårt packat kaffe i ungefär 25 sekunder, och i koppen hamnar bara 25 milliliter med ett lager brunt skum överst. Vad kallas kaffet?"
+    },
+    "answer": "Espresso",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av et italiensk verb for å presse ut, og spiller også på at kaffen lages på bestilling og går fort.",
+      "sv": "Namnet kommer av ett italienskt verb för att pressa ut och anspelar också på att kaffet görs på beställning och går fort."
+    },
+    "funFact": {
+      "nb": "Skumlaget heter crema og skyldes at karbondioksid fra brenningen løses i vannet under høyt trykk. Uttrykket «caffè crema» ble tatt i bruk i 1948, om skummet på Achille Gaggias stempelmaskin.",
+      "sv": "Skumlagret heter crema och beror på att koldioxid från rostningen löses i vattnet under högt tryck. Uttrycket «caffè crema» började användas 1948, om skummet på Achille Gaggias kolvmaskin."
+    },
+    "source": "Istituto Nazionale Espresso Italiano, gjengitt i Wikipedia (engelsk) – «Espresso», «Crema (coffee)»"
+  },
+  {
+    "id": "kaffe-l-06",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Av over hundre viltvoksende arter i kaffeslekten er det bare et par som dyrkes i stor skala. Den ene står for rundt 60 prosent av verdensproduksjonen, har omtrent halvparten så mye koffein som konkurrenten robusta og regnes som den fineste. Hva heter den?",
+      "sv": "Av över hundra vildväxande arter i kaffesläktet är det bara ett par som odlas i stor skala. Den ena står för omkring 60 procent av världsproduktionen, har ungefär hälften så mycket koffein som konkurrenten robusta och räknas som den finaste. Vad heter den?"
+    },
+    "answer": "Arabica",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Artsnavnet peker mot Den arabiske halvøya, selv om planten opprinnelig kommer fra Afrika.",
+      "sv": "Artnamnet pekar mot Arabiska halvön, även om växten ursprungligen kommer från Afrika."
+    },
+    "funFact": {
+      "nb": "Arten har 44 kromosomer og er selv en krysning mellom robustaplanten og arten Coffea eugenioides. Krysningen skjedde i Øst-Afrika for et sted mellom 543 000 og 1,08 millioner år siden.",
+      "sv": "Arten har 44 kromosomer och är själv en korsning mellan robustaplantan och arten Coffea eugenioides. Korsningen skedde i Östafrika för någonstans mellan 543 000 och 1,08 miljoner år sedan."
+    },
+    "source": "Store norske leksikon – «kaffe»; Wikipedia (engelsk) – «Coffea arabica»"
+  },
+  {
+    "id": "kaffe-l-07",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Drikken består av varm kaffe og sprit, gjerne med litt sukker, og har lange tradisjoner på norske bygder. Et gammelt mål er å legge en mynt i koppen: hell kaffe til mynten forsvinner, og sprit til den kommer til syne igjen. Hva kalles blandingen i Trøndelag?",
+      "sv": "Drycken består av varmt kaffe och sprit, gärna med lite socker, och har långa traditioner på den norska landsbygden. Ett gammalt mått är att lägga ett mynt i koppen: häll kaffe tills myntet försvinner, och sprit tills det syns igen. Vad kallas blandningen i Trøndelag?"
+    },
+    "answer": "Karsk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er også et gammelt norsk adjektiv for «frisk og sprek».",
+      "sv": "Ordet är också ett gammalt norskt adjektiv för «frisk och kry»."
+    },
+    "funFact": {
+      "nb": "Ellers i landet heter blandingen gjerne kaffedoktor. Store norske leksikon påpeker at den har de samme grunningrediensene som cocktailen espresso martini, og i 2018 ble det arrangert norgesmesterskap under en kaffefestival i Stjørdal.",
+      "sv": "I övriga landet kallas blandningen ofta kaffedoktor. Store norske leksikon påpekar att den har samma grundingredienser som cocktailen espresso martini, och 2018 hölls ett norskt mästerskap under en kaffefestival i Stjørdal."
+    },
+    "source": "Store norske leksikon – «kaffedoktor»"
+  },
+  {
+    "id": "kaffe-l-08",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "mat-og-drikke",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Metoden var lenge den vanligste i norske hjem og på fjellturer: grovmalt kaffe has rett i kjelen sammen med vannet, det hele varmes opp, og grutet får synke til bunns før man skjenker forsiktig. Hva kalles denne kaffen?",
+      "sv": "Metoden var länge den vanligaste i norska hem och på fjällturer: grovmalet kaffe hälls direkt i pannan tillsammans med vattnet, alltihop värms upp, och sumpen får sjunka till botten innan man häller upp försiktigt. Vad kallas detta kaffe?"
+    },
+    "answer": {
+      "nb": "Kokekaffe",
+      "sv": "Kokkaffe"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Metoden krever verken filter, trakt eller maskin – bare varme og litt tålmodighet.",
+      "sv": "Metoden kräver varken filter, tratt eller maskin – bara värme och lite tålamod."
+    },
+    "funFact": {
+      "nb": "Nordmenn er blant dem som drikker mest kaffe i verden, med nesten ti kilo per person i året. Filtrering har for lengst overtatt som den vanligste metoden i Norge.",
+      "sv": "Norrmännen är bland dem som dricker mest kaffe i världen, med nästan tio kilo per person och år. Filtrering har för länge sedan tagit över som vanligaste metod i Norge."
+    },
+    "source": "Store norske leksikon – «kaffe»"
+  },
+  {
+    "id": "kaffe-l-09",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "sprak",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Ordet oppstod på slutten av 1800-tallet ved at stavelsene i det svenske ordet for kaffe ble byttet om. I dag betyr det en fast pause med kaffe og noe søtt, og i enkelte svenske arbeidsavtaler er pausen skrevet inn. Hvilket ord?",
+      "sv": "Ordet uppstod i slutet av 1800-talet genom att stavelserna i det svenska ordet för kaffe kastades om. I dag betyder det en fast paus med kaffe och något sött, och i vissa svenska anställningsavtal är pausen inskriven. Vilket ord?"
+    },
+    "answer": "Fika",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet brukes både som substantiv og som verb, og har de siste tiårene blitt kjent langt utenfor Sverige.",
+      "sv": "Ordet används både som substantiv och som verb och har de senaste decennierna blivit känt långt utanför Sverige."
+    },
+    "funFact": {
+      "nb": "Skikken vokste fram på 1800-tallet, da jernkomfyrene gjorde det enkelt å koke kaffe hjemme. Pausen legges gjerne til faste tider midt på formiddagen og midt på ettermiddagen.",
+      "sv": "Seden växte fram på 1800-talet, när järnspisarna gjorde det enkelt att koka kaffe hemma. Pausen läggs gärna på fasta tider mitt på förmiddagen och mitt på eftermiddagen."
+    },
+    "source": "Wikipedia (engelsk) – «Fika (Sweden)»"
+  },
+  {
+    "id": "kaffe-l-10",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "okonomi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Handelshuset ble grunnlagt i 1853 av Victor Theodor Engwall i en havneby ved Bottenhavet. Kaffemerket fikk navn etter den latinske formen av bynavnet, og er blitt et av Sveriges mest kjente. Hva heter merket?",
+      "sv": "Handelshuset grundades 1853 av Victor Theodor Engwall i en hamnstad vid Bottenhavet. Kaffemärket fick namn efter den latinska formen av stadsnamnet och har blivit ett av Sveriges mest kända. Vad heter märket?"
+    },
+    "answer": "Gevalia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er kjent for en stor julebukk av halm som reises hvert år.",
+      "sv": "Staden är känd för en stor julbock av halm som reses varje år."
+    },
+    "funFact": {
+      "nb": "Byen fikk sin latinske form i en tid da lærde skrev stedsnavn på latin. Engwall var selv den første sjefen i handelshuset som bar navnet hans.",
+      "sv": "Staden fick sin latinska form i en tid när lärda skrev ortnamn på latin. Engwall var själv den förste chefen i handelshuset som bar hans namn."
+    },
+    "source": "Wikipedia (engelsk) – «Gevalia»"
+  },
+  {
+    "id": "kaffe-m-01",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "design"
+    ],
+    "prompt": {
+      "nb": "En husmor i Dresden var lei av grut i koppen. I 1908 slo hun hull i bunnen av en messingbolle, la inn et ark trekkpapir og helte vann over den malte kaffen. Patentet ble innvilget 8. juli samme år. Hvem var hun?",
+      "sv": "En husmor i Dresden var trött på sump i koppen. År 1908 slog hon hål i botten på en mässingsskål, lade in ett ark läskpapper och hällde vatten över det malda kaffet. Patentet beviljades den 8 juli samma år. Vem var hon?"
+    },
+    "answer": "Melitta Bentz",
+    "answerKind": "person",
+    "person": {
+      "given": "Melitta",
+      "family": "Bentz"
+    },
+    "hint": {
+      "nb": "Fornavnet hennes står fortsatt på pakker med kaffefiltre i butikkhyllene.",
+      "sv": "Hennes förnamn står fortfarande på paket med kaffefilter i butikshyllorna."
+    },
+    "funFact": {
+      "nb": "Hun startet firmaet sammen med ektemannen Hugo samme år, og i 1929 flyttet produksjonen til Minden. Papirfilteret holder tilbake fettstoffene fra kaffen og gir en klarere kopp.",
+      "sv": "Hon startade firman tillsammans med maken Hugo samma år, och 1929 flyttade produktionen till Minden. Pappersfiltret håller kvar fettämnena från kaffet och ger en klarare kopp."
+    },
+    "source": "Wikipedia (engelsk) – «Melitta Bentz»"
+  },
+  {
+    "id": "kaffe-m-02",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "design",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Den åttekantede aluminiumskannen kom i 1933 og virker ved at damptrykk presser vannet opp gjennom en trakt med malt kaffe. Formen er praktisk talt uendret siden, og merket fikk senere en tegnet maskott med bart. Hva heter det italienske merket?",
+      "sv": "Den åttkantiga aluminiumkannan kom 1933 och fungerar genom att ångtryck pressar vattnet upp genom en tratt med malet kaffe. Formen är i praktiken oförändrad sedan dess, och märket fick senare en tecknad maskot med mustasch. Vad heter det italienska märket?"
+    },
+    "answer": "Bialetti",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnleggeren het Alfonso til fornavn og hadde lært aluminiumsfaget i Frankrike.",
+      "sv": "Grundaren hette Alfonso i förnamn och hade lärt sig aluminiumyrket i Frankrike."
+    },
+    "funFact": {
+      "nb": "Kannen selges som Moka Express, og verkstedet lå i Crusinallo i Piemonte. Maskotten kalles «l'omino con i baffi» – den lille mannen med bart – og ble bestilt i 1952.",
+      "sv": "Kannan säljs som Moka Express, och verkstaden låg i Crusinallo i Piemonte. Maskoten kallas «l'omino con i baffi» – den lille mannen med mustasch – och beställdes 1952."
+    },
+    "source": "Wikipedia (engelsk) – «Moka pot», «Bialetti»"
+  },
+  {
+    "id": "kaffe-m-03",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "På slutten av 1600-tallet drev en vert et kaffehus i Tower Street i London og sørget for pålitelige skipsnyheter. Lokalet ble et samlingssted for sjøfolk, kjøpmenn og redere, og der vokste det fram en markedsplass for sjøforsikring som fortsatt bærer vertens navn. Hvilken institusjon?",
+      "sv": "I slutet av 1600-talet drev en värd ett kaffehus på Tower Street i London och såg till att skeppsnyheterna var pålitliga. Lokalen blev en samlingsplats för sjöfolk, köpmän och redare, och där växte det fram en marknadsplats för sjöförsäkring som fortfarande bär värdens namn. Vilken institution?"
+    },
+    "answer": "Lloyd's of London",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er ikke et vanlig forsikringsselskap, men en markedsplass der syndikater tegner risiko – fortsatt i City of London.",
+      "sv": "Det är inte ett vanligt försäkringsbolag, utan en marknadsplats där syndikat tecknar risk – fortfarande i City of London."
+    },
+    "funFact": {
+      "nb": "I 1691 flyttet miljøet til Lombard Street, og i 1773 til Royal Exchange, der «The Society of Lloyd's» ble formalisert. Også børsmeglerne holdt til i kaffehus, fordi de ikke slapp inn på Royal Exchange.",
+      "sv": "År 1691 flyttade miljön till Lombard Street och 1773 till Royal Exchange, där «The Society of Lloyd's» formaliserades. Även börsmäklarna höll till i kaffehus, eftersom de inte släpptes in på Royal Exchange."
+    },
+    "source": "Wikipedia (engelsk) – «Lloyd's of London», «English coffeehouses in the 17th and 18th centuries»"
+  },
+  {
+    "id": "kaffe-m-04",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Maleriet fra 1942 viser fire mennesker i en nattåpen amerikansk kafeteria, sett gjennom en stor glassrute, med to blanke kaffetanker bak disken og en folketom gate utenfor. Det henger på Art Institute of Chicago. Hvem malte det?",
+      "sv": "Målningen från 1942 visar fyra människor i ett nattöppet amerikanskt matställe, sett genom en stor glasruta, med två blanka kaffetankar bakom disken och en folktom gata utanför. Den hänger på Art Institute of Chicago. Vem målade den?"
+    },
+    "answer": "Edward Hopper",
+    "answerKind": "person",
+    "person": {
+      "given": "Edward",
+      "family": "Hopper"
+    },
+    "hint": {
+      "nb": "Han er kjent for stille amerikanske interiører og fasader i skarpt, hardt lys.",
+      "sv": "Han är känd för stilla amerikanska interiörer och fasader i skarpt, hårt ljus."
+    },
+    "funFact": {
+      "nb": "Bildet heter «Nighthawks» og ble solgt til museet 13. mai 1942 for 3000 dollar.",
+      "sv": "Tavlan heter «Nighthawks» och såldes till museet den 13 maj 1942 för 3000 dollar."
+    },
+    "source": "Art Institute of Chicago; Wikipedia (engelsk) – «Nighthawks»"
+  },
+  {
+    "id": "kaffe-m-05",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Rundt 1735 skrev en tysk komponist en verdslig kantate for Zimmermanns kaffehus i Leipzig, med tekst av Picander. Handlingen er enkel: en far prøver forgjeves å få datteren til å slutte med kaffe. Hvem var komponisten?",
+      "sv": "Omkring 1735 skrev en tysk tonsättare en världslig kantat för Zimmermanns kaffehus i Leipzig, med text av Picander. Handlingen är enkel: en far försöker förgäves få dottern att sluta med kaffe. Vem var tonsättaren?"
+    },
+    "answer": "Johann Sebastian Bach",
+    "answerKind": "person",
+    "person": {
+      "given": "Johann Sebastian",
+      "family": "Bach"
+    },
+    "hint": {
+      "nb": "Han var kantor ved Thomaskirken i samme by.",
+      "sv": "Han var kantor vid Thomaskyrkan i samma stad."
+    },
+    "funFact": {
+      "nb": "Verket kalles kaffekantaten og heter «Schweigt stille, plaudert nicht», BWV 211. Datteren Lieschen lover å slutte, men forteller i hemmelighet friere at de må gi henne lov til å drikke kaffe.",
+      "sv": "Verket kallas kaffekantaten och heter «Schweigt stille, plaudert nicht», BWV 211. Dottern Lieschen lovar att sluta, men berättar i hemlighet för friare att de måste låta henne dricka kaffe."
+    },
+    "source": "Wikipedia (engelsk) – «Coffee Cantata» (BWV 211)"
+  },
+  {
+    "id": "kaffe-m-06",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Kaffen dyrkes høyt oppe i en fjellkjede på en karibisk øy, er av sorten Typica og kjennes på mild smak uten bitterhet. Over 80 prosent av eksporten går til ett enkelt land i Øst-Asia. Hva heter denne berømte kaffen?",
+      "sv": "Kaffet odlas högt uppe i en bergskedja på en karibisk ö, är av sorten Typica och känns igen på mild smak utan beska. Över 80 procent av exporten går till ett enda land i Östasien. Vad heter detta berömda kaffe?"
+    },
+    "answer": "Jamaica Blue Mountain",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øya ligger sør for Cuba, og fjellene rager over 2200 meter.",
+      "sv": "Ön ligger söder om Kuba, och bergen når över 2200 meter."
+    },
+    "funFact": {
+      "nb": "Kaffen ble innført til øya i 1728, og bare partier sertifisert av øyas egne myndigheter får bruke navnet. Japan er den desidert største kjøperen.",
+      "sv": "Kaffet infördes till ön 1728, och bara partier certifierade av öns egna myndigheter får använda namnet. Japan är den klart största köparen."
+    },
+    "source": "Jamaica Commodities Regulatory Authority; Wikipedia (engelsk) – «Jamaican Blue Mountain Coffee»"
+  },
+  {
+    "id": "kaffe-m-07",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Bergensbedriften ble drevet av samme familie i over 200 år og regnes som Norges eldste kaffehus. Fra å være en beskjeden leverandør til vestlendinger vokste den til landets ledende kaffeprodusent, og i 2013 ble den solgt til et nederlandsk konsern. Hvilket merke?",
+      "sv": "Bergensföretaget drevs av samma familj i över 200 år och räknas som Norges äldsta kaffehus. Från att ha varit en blygsam leverantör till västnorrmännen växte det till landets ledande kaffeproducent, och 2013 såldes det till en nederländsk koncern. Vilket märke?"
+    },
+    "answer": "Friele",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Familiens overhode var ordfører i Bergen for Høyre fra 2003 til 2007.",
+      "sv": "Familjens överhuvud var borgmästare i Bergen för Høyre från 2003 till 2007."
+    },
+    "funFact": {
+      "nb": "Firmaet het B. Friele & Sønner. Herman Friele var administrerende direktør fra 1980 og gikk senere inn i politikken i hjembyen.",
+      "sv": "Firman hette B. Friele & Sønner. Herman Friele var verkställande direktör från 1980 och gick senare in i politiken i hemstaden."
+    },
+    "source": "Store norske leksikon – «Herman Friele»"
+  },
+  {
+    "id": "kaffe-m-08",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "litteratur",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Henrik Ibsen gikk hver dag fra leiligheten i Arbins gate til dette serveringsstedet ved Karl Johans gate, der også Edvard Munch, Christian Krohg og Knut Hamsun var stamgjester. Per Krohg dekorerte lokalet mellom 1928 og 1932. Hva heter stedet?",
+      "sv": "Henrik Ibsen gick varje dag från lägenheten på Arbins gate till detta serveringsställe vid Karl Johans gate, där även Edvard Munch, Christian Krohg och Knut Hamsun var stamgäster. Per Krohg dekorerade lokalen mellan 1928 och 1932. Vad heter stället?"
+    },
+    "answer": "Grand Café",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stedet ligger i første etasje på et hotell med samme navn.",
+      "sv": "Stället ligger på bottenvåningen i ett hotell med samma namn."
+    },
+    "funFact": {
+      "nb": "Per Krohg var sønn av Christian Krohg. Serveringsstedet ble stengt høsten 2015, men åpnet igjen et år senere.",
+      "sv": "Per Krohg var son till Christian Krohg. Serveringsstället stängde hösten 2015 men öppnade igen ett år senare."
+    },
+    "source": "Store norske leksikon – «Grand Hotel i Oslo», «Per Krohg»"
+  },
+  {
+    "id": "kaffe-m-09",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "kongehus",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Kongen mente kaffe var farlig for folkehelsen og ville bevise det. Etter overleveringen fikk to dødsdømte tvillinger omgjort straffen mot at den ene drakk tre kanner kaffe hver dag og den andre like mye te. Hvilken svensk konge?",
+      "sv": "Kungen ansåg att kaffe var farligt för folkhälsan och ville bevisa det. Enligt berättelsen fick två dödsdömda tvillingar sina straff omvandlade mot att den ene drack tre kannor kaffe varje dag och den andre lika mycket te. Vilken svensk kung?"
+    },
+    "answer": {
+      "nb": "Gustav 3.",
+      "sv": "Gustav III"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han ble skutt på et maskeradeball i Operaen i Stockholm i 1792.",
+      "sv": "Han sköts på en maskeradbal på Operan i Stockholm 1792."
+    },
+    "funFact": {
+      "nb": "Forsøket blir spøkefullt kalt en tidlig klinisk studie, men ektheten er omstridt. Etter beretningen døde te-tvillingen først, som 83-åring – og begge legene som skulle følge forsøket, døde før kongen selv.",
+      "sv": "Försöket kallas skämtsamt en tidig klinisk studie, men äktheten är omstridd. Enligt berättelsen dog te-tvillingen först, vid 83 års ålder – och båda läkarna som skulle följa försöket dog före kungen själv."
+    },
+    "source": "Wikipedia (engelsk) – «Gustav III of Sweden's coffee experiment»"
+  },
+  {
+    "id": "kaffe-m-10",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "litteratur",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Etter at kaffen ble fri i Sverige i 1823, spredte kaffeselskapene seg, og det oppstod en uskreven regel om hvor mange slag småkaker verten burde by på – verken for få eller for mange. En kokebok fra 1945 tok navn etter regelen og er blitt Sveriges mest solgte. Hva heter boka?",
+      "sv": "Sedan kaffet blev fritt i Sverige 1823 spred sig kafferepen, och det uppstod en oskriven regel om hur många slags småkakor värden borde bjuda på – varken för få eller för många. En kokbok från 1945 tog namn efter regeln och har blivit Sveriges mest sålda. Vad heter boken?"
+    },
+    "answer": "Sju sorters kakor",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tittelen inneholder et tall, og regelen handlet om å vise gjestfrihet uten å skryte.",
+      "sv": "Titeln innehåller ett tal, och regeln handlade om att visa gästfrihet utan att skryta."
+    },
+    "funFact": {
+      "nb": "Boka er solgt i over 3,8 millioner eksemplarer og finnes på engelsk som «Swedish Cakes and Cookies». Den kom ut da rasjoneringen tok slutt og ingrediensene ble rimeligere igjen.",
+      "sv": "Boken har sålts i över 3,8 miljoner exemplar och finns på engelska som «Swedish Cakes and Cookies». Den kom ut när ransoneringen tog slut och ingredienserna blev billigare igen."
+    },
+    "source": "Wikipedia (engelsk) – «Sju sorters kakor»"
+  },
+  {
+    "id": "kaffe-v-01",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "I 1819 viste en ung tysk kjemiker Goethe hvordan et ekstrakt av belladonna utvider pupillen hos en katt. Dikteren ble imponert og ga ham en pose kaffebønner å undersøke nærmere. Året etter publiserte kjemikeren funnet av koffein. Hva het han?",
+      "sv": "År 1819 visade en ung tysk kemist Goethe hur ett extrakt av belladonna vidgar pupillen hos en katt. Diktaren blev imponerad och gav honom en påse kaffebönor att undersöka närmare. Året därpå publicerade kemisten fyndet av koffein. Vad hette han?"
+    },
+    "answer": "Friedlieb Ferdinand Runge",
+    "answerKind": "person",
+    "person": {
+      "given": "Friedlieb Ferdinand",
+      "family": "Runge"
+    },
+    "hint": {
+      "nb": "Han beskrev funnet i verket «Neueste phytochemische Entdeckungen» fra 1820.",
+      "sv": "Han beskrev fyndet i verket «Neueste phytochemische Entdeckungen» från 1820."
+    },
+    "funFact": {
+      "nb": "Koffein har formelen C8H10N4O2 og er et metylxantin-alkaloid, kjemisk i slekt med DNA-basene adenin og guanin. Selv omtalte han det som stoffet «som ble så berømt på grunn av sitt høye nitrogeninnhold».",
+      "sv": "Koffein har formeln C8H10N4O2 och är en metylxantinalkaloid, kemiskt besläktad med DNA-baserna adenin och guanin. Själv omtalade han det som ämnet «som blev så berömt på grund av sin höga kvävehalt»."
+    },
+    "source": "Wikipedia (engelsk) – «Friedlieb Ferdinand Runge», «Caffeine»"
+  },
+  {
+    "id": "kaffe-v-02",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1867 ble en rustsopp for første gang meldt fra plantasjene på Ceylon. Innen 1890 var øyas kaffenæring så godt som utslettet, og dyrkerne la om til te – noe historikere mener bidro til britenes drikkevaner. Hva heter soppen med sitt vitenskapelige navn?",
+      "sv": "År 1867 rapporterades en rostsvamp för första gången från plantagerna på Ceylon. Fram till 1890 var öns kaffenäring så gott som utplånad, och odlarna gick över till te – något historiker menar bidrog till britternas dryckesvanor. Vad heter svampen med sitt vetenskapliga namn?"
+    },
+    "answer": "Hemileia vastatrix",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Slektsnavnet begynner på H, og artsnavnet er latin for «ødeleggeren».",
+      "sv": "Släktnamnet börjar på H, och artnamnet är latin för «förödaren»."
+    },
+    "funFact": {
+      "nb": "Sykdommen heter kaffebladrust på norsk og regnes fortsatt som kaffedyrkingens alvorligste plage.",
+      "sv": "Sjukdomen heter kaffebladrost på svenska och räknas fortfarande som kaffeodlingens allvarligaste plåga."
+    },
+    "source": "Wikipedia (engelsk) – «Coffee leaf rust»"
+  },
+  {
+    "id": "kaffe-v-03",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sprak",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1554 åpnet Hakem fra Aleppo og Shems fra Damaskus det første kaffehuset i bydelen Tahtakale i Konstantinopel. Kaffen ble kokt i en liten kanne av tykt smidd kobber, konisk og bredere i bunnen enn i halsen. Hva heter kannen på tyrkisk?",
+      "sv": "År 1554 öppnade Hakem från Aleppo och Shems från Damaskus det första kaffehuset i stadsdelen Tahtakale i Konstantinopel. Kaffet kokades i en liten kanna av tjock smidd koppar, konisk och bredare i botten än i halsen. Vad heter kannan på turkiska?"
+    },
+    "answer": "Cezve",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Utenfor Tyrkia kalles den ofte ibrik, og den har et langt håndtak på siden.",
+      "sv": "Utanför Turkiet kallas den ofta ibrik, och den har ett långt handtag på sidan."
+    },
+    "funFact": {
+      "nb": "Grutet i bunnen brukes til spådom: koppen snus ned i skålen, og mønstrene tydes. Det engelske ordet «coffee» kom via tyrkisk kahve fra arabisk qahwa.",
+      "sv": "Sumpen i botten används till spådom: koppen vänds ned i fatet, och mönstren tyds. Det engelska ordet «coffee» kom via turkiskans kahve från arabiskans qahwa."
+    },
+    "source": "Wikipedia (engelsk) – «Turkish coffee», «History of coffee»"
+  },
+  {
+    "id": "kaffe-v-04",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "design",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den tyskfødte kjemikeren Peter Schlumbohm, med doktorgrad fra Berlin, flyttet til New York og formet i 1941 en traktekanne av glass som et timeglass, med trekrage og lærsnor. Den står i samlingen til Museum of Modern Art. Hva heter kannen?",
+      "sv": "Den tyskfödde kemisten Peter Schlumbohm, med doktorsgrad från Berlin, flyttade till New York och formade 1941 en bryggkanna av glas som ett timglas, med träkrage och lädersnöre. Den finns i Museum of Modern Arts samling. Vad heter kannan?"
+    },
+    "answer": "Chemex",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet spiller på laboratorieglasset og på kjemi.",
+      "sv": "Namnet anspelar på laboratorieglaset och på kemi."
+    },
+    "funFact": {
+      "nb": "Patentet ble søkt allerede i 1939, og produksjonen kom i gang i samarbeid med Corning Glass Works i 1942. I 1958 kåret designere ved Illinois Institute of Technology kannen til et av de best utformede produktene i moderne tid.",
+      "sv": "Patentet söktes redan 1939, och produktionen kom i gång i samarbete med Corning Glass Works 1942. År 1958 utsåg formgivare vid Illinois Institute of Technology kannan till en av de bäst utformade produkterna i modern tid."
+    },
+    "source": "Museum of Modern Art; Wikipedia (engelsk) – «Chemex Coffeemaker», «Peter Schlumbohm»"
+  },
+  {
+    "id": "kaffe-v-05",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "En kjøpmann fra Bremen fant i 1903 en industriell måte å fjerne koffeinet fra kaffebønner på, og fikk patent i 1906. Produktet ble solgt som Kaffee HAG i Europa og under navnet Sanka i Frankrike og USA. Hva het han?",
+      "sv": "En köpman från Bremen hittade 1903 ett industriellt sätt att avlägsna koffeinet ur kaffebönor och fick patent 1906. Produkten såldes som Kaffee HAG i Europa och under namnet Sanka i Frankrike och USA. Vad hette han?"
+    },
+    "answer": "Ludwig Roselius",
+    "answerKind": "person",
+    "person": {
+      "given": "Ludwig",
+      "family": "Roselius"
+    },
+    "hint": {
+      "nb": "Fornavnet er det samme som Beethovens.",
+      "sv": "Förnamnet är detsamma som Beethovens."
+    },
+    "funFact": {
+      "nb": "Den opprinnelige metoden dampet bønnene med syre eller base og brukte benzen som løsemiddel. «Swiss Water»-prosessen ble utviklet i Sveits i 1933 og kommersialisert i 1980.",
+      "sv": "Den ursprungliga metoden ångade bönorna med syra eller bas och använde bensen som lösningsmedel. «Swiss Water»-processen utvecklades i Schweiz 1933 och kommersialiserades 1980."
+    },
+    "source": "Wikipedia (engelsk) – «Decaffeination»"
+  },
+  {
+    "id": "kaffe-v-06",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Fram til slutten av 1600-tallet gikk så å si all kaffe i verdenshandelen ut gjennom én havneby ved Rødehavet i Jemen. Bynavnet ble etter hvert et alminnelig ord for kaffe, og siden for kaffe blandet med sjokolade. Hvilken by?",
+      "sv": "Fram till slutet av 1600-talet gick så gott som allt kaffe i världshandeln ut genom en enda hamnstad vid Röda havet i Jemen. Stadsnamnet blev med tiden ett vanligt ord för kaffe, och senare för kaffe blandat med choklad. Vilken stad?"
+    },
+    "answer": {
+      "nb": "Mokka",
+      "sv": "Mocka"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er kjent fra kakeoppskrifter og fra hyllene i kaffebutikken.",
+      "sv": "Namnet är känt från tårtrecept och från hyllorna i kaffebutiken."
+    },
+    "funFact": {
+      "nb": "Byen heter al-Makha på arabisk. Jemen var verdens viktigste kaffeprodusent fram til slutten av 1600-tallet, før dyrkingen spredte seg til Java og Amerika.",
+      "sv": "Staden heter al-Makha på arabiska. Jemen var världens viktigaste kaffeproducent fram till slutet av 1600-talet, innan odlingen spred sig till Java och Amerika."
+    },
+    "source": "Wikipedia (engelsk) – «History of coffee», «Coffee»"
+  },
+  {
+    "id": "kaffe-v-07",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "I 2004 vant en nordmann verdensmesterskapet for baristaer. Siden startet han et lite kaffebrenneri og en espressobar på Grünerløkka i Oslo, og er blitt et referansepunkt for den lyse, nordiske brenningen. Hvem er han?",
+      "sv": "År 2004 vann en norrman världsmästerskapet för baristor. Sedan startade han ett litet kafferosteri och en espressobar på Grünerløkka i Oslo och har blivit en referenspunkt för den ljusa, nordiska rostningen. Vem är han?"
+    },
+    "answer": "Tim Wendelboe",
+    "answerKind": "person",
+    "person": {
+      "given": "Tim",
+      "family": "Wendelboe"
+    },
+    "hint": {
+      "nb": "Både brenneriet og baren bærer navnet hans.",
+      "sv": "Både rosteriet och baren bär hans namn."
+    },
+    "funFact": {
+      "nb": "Nordmannen Robert Thoresen vant det aller første verdensmesterskapet for baristaer i 2000. Ved lys brenning skal opprinnelsessmaken fram, i stedet for smaken av selve brenningen.",
+      "sv": "Norrmannen Robert Thoresen vann det allra första världsmästerskapet för baristor år 2000. Vid ljus rostning ska ursprungssmaken fram i stället för smaken av själva rostningen."
+    },
+    "source": "World Barista Championship – vinnerliste; timwendelboe.no"
+  },
+  {
+    "id": "kaffe-v-08",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "medisin",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Brygger man uten papirfilter, følger to fettløselige diterpener med i koppen, og de hever kolesterolet i blodet. Traktekaffe og frysetørket kaffe gir ikke samme utslag. Det ene stoffet har navn etter kaffen selv – hva heter det?",
+      "sv": "Brygger man utan pappersfilter följer två fettlösliga diterpener med i koppen, och de höjer kolesterolet i blodet. Bryggkaffe och frystorkat kaffe ger inte samma utslag. Det ena ämnet har namn efter kaffet självt – vad heter det?"
+    },
+    "answer": "Cafestol",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det andre stoffet heter kahweol.",
+      "sv": "Det andra ämnet heter kahweol."
+    },
+    "funFact": {
+      "nb": "Stoffene finnes i høyest konsentrasjon i kokekaffe, presskanne og tyrkisk kaffe. Papirfilteret holder dem tilbake, og en typisk arabicabønne inneholder 0,4–0,7 prosent av det ene stoffet.",
+      "sv": "Ämnena finns i högst koncentration i kokkaffe, presskanna och turkiskt kaffe. Pappersfiltret håller kvar dem, och en typisk arabicaböna innehåller 0,4–0,7 procent av det ena ämnet."
+    },
+    "source": "Store medisinske leksikon – «hyperkolesterolemi»; Wikipedia (engelsk) – «Cafestol»"
+  },
+  {
+    "id": "kaffe-v-09",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "historie",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Myndighetene så på kaffe som unødig luksus og en trussel mot handelsbalansen, og drikken ble forbudt gang på gang mellom 1756 og 1823. Svenskene svarte med hemmelige kaffelag. Hvor mange forbud rakk myndighetene å innføre i denne perioden?",
+      "sv": "Myndigheterna såg kaffet som onödig lyx och ett hot mot handelsbalansen, och drycken förbjöds gång på gång mellan 1756 och 1823. Svenskarna svarade med hemliga kaffegillen. Hur många förbud hann myndigheterna införa under denna period?"
+    },
+    "answer": {
+      "nb": "Fem",
+      "sv": "Fem"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Antallet er det samme som antall fingre på én hånd.",
+      "sv": "Antalet är detsamma som antalet fingrar på en hand."
+    },
+    "funFact": {
+      "nb": "Forbudene virket dårlig, og kaffedrikkingen fortsatte i lukkede lag. Da det siste forbudet falt, spredte små kaffehus seg over hele landet.",
+      "sv": "Förbuden fungerade dåligt, och kaffedrickandet fortsatte i slutna sällskap. När det sista förbudet föll spred sig små kaffehus över hela landet."
+    },
+    "source": "Wikipedia (engelsk) – «Coffee in Sweden»"
+  },
+  {
+    "id": "kaffe-v-10",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Kaffeslekten og arten Coffea arabica ble formelt beskrevet og navngitt i 1753, i det verket som regnes som utgangspunktet for all moderne botanisk navnsetting. Hvilken svenske stod bak?",
+      "sv": "Kaffesläktet och arten Coffea arabica beskrevs och namngavs formellt 1753, i det verk som räknas som utgångspunkten för all modern botanisk namngivning. Vilken svensk låg bakom?"
+    },
+    "answer": "Carl von Linné",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl",
+      "family": "von Linné"
+    },
+    "hint": {
+      "nb": "Han innførte det tobinnede navnesystemet med slektsnavn og artsnavn.",
+      "sv": "Han införde det binära namnsystemet med släktnamn och artnamn."
+    },
+    "funFact": {
+      "nb": "Verket heter «Species Plantarum». Kaffeslekten hører til maurefamilien, Rubiaceae, samme familie som kinatreet, som gir kinin.",
+      "sv": "Verket heter «Species Plantarum». Kaffesläktet hör till måreväxterna, Rubiaceae, samma familj som kinaträdet, som ger kinin."
+    },
+    "source": "Wikipedia (engelsk) – «Coffea»; Carl von Linné, «Species Plantarum» (1753)"
+  }
+]

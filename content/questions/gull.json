@@ -1,0 +1,782 @@
+[
+  {
+    "id": "gull-l-01",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Grunnstoffet har atomnummer 79, smelter først ved rundt 1064 grader og er så tungt at en melkekartong fylt med det ville veid over 19 kilo. Det kjemiske symbolet består av to bokstaver som ikke finnes i det norske ordet gull. Hvilket symbol er det?",
+      "sv": "Grundämnet har atomnummer 79, smälter först vid omkring 1064 grader och är så tungt att en mjölkkartong fylld med det skulle väga över 19 kilo. Den kemiska beteckningen består av två bokstäver som inte finns i det svenska ordet guld. Vilken beteckning är det?"
+    },
+    "answer": "Au",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bokstavene er de to første i metallets latinske navn.",
+      "sv": "Bokstäverna är de två första i metallens latinska namn."
+    },
+    "funFact": {
+      "nb": "Det latinske navnet er «aurum». Gull er også ekstremt formbart: ett gram kan trekkes ut til en tråd på 3000 meter.",
+      "sv": "Det latinska namnet är «aurum». Guld är också extremt formbart: ett gram kan dras ut till en tråd på 3000 meter."
+    },
+    "source": "Store norske leksikon – gull"
+  },
+  {
+    "id": "gull-l-02",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "24. januar 1848 ble det funnet gull ved et sagbruk ved elva American River, og i løpet av få år strømmet over 300 000 mennesker til området. Rushet nådde toppåret sitt i 1852 og varte til omkring 1859. I hvilken amerikansk delstat foregikk dette?",
+      "sv": "Den 24 januari 1848 hittades guld vid ett sågverk vid floden American River, och inom några år strömmade över 300 000 människor till området. Ruschen nådde sitt toppår 1852 och varade till omkring 1859. I vilken amerikansk delstat utspelade sig detta?"
+    },
+    "answer": "California",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Delstatens hovedstad, Sacramento, ligger der American River møter Sacramento River.",
+      "sv": "Delstatens huvudstad, Sacramento, ligger där American River möter Sacramento River."
+    },
+    "funFact": {
+      "nb": "Sagbruket tilhørte nybyggeren John Sutter og lå ved Coloma. Selve rushet regnes vanligvis til perioden 1848–1859, med 1852 som det største året.",
+      "sv": "Sågverket tillhörde nybyggaren John Sutter och låg vid Coloma. Själva ruschen räknas vanligen till perioden 1848–1859, med 1852 som det största året."
+    },
+    "source": "Encyclopaedia Britannica – California Gold Rush; Store norske leksikon"
+  },
+  {
+    "id": "gull-l-03",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Under lekene i Beijing i 2008 ble han den første utøveren som vant åtte gull i ett og samme mesterskap. Til sammen står han med 23 olympiske gull og 28 medaljer, og regnes som den mest dekorerte utøveren i olympisk historie. Hvilken amerikansk svømmer?",
+      "sv": "Under spelen i Peking 2008 blev han den förste idrottare som vann åtta guld i ett och samma mästerskap. Sammanlagt har han 23 olympiska guld och 28 medaljer och räknas som den mest dekorerade idrottaren i olympisk historia. Vilken amerikansk simmare?"
+    },
+    "answer": "Michael Phelps",
+    "answerKind": "person",
+    "person": {
+      "given": "Michael",
+      "family": "Phelps"
+    },
+    "hint": {
+      "nb": "Han er født i Baltimore i Maryland i 1985.",
+      "sv": "Han är född i Baltimore i Maryland 1985."
+    },
+    "funFact": {
+      "nb": "De 28 medaljene er flere enn noen annen utøver har tatt i olympiske leker. Han er født 30. juni 1985.",
+      "sv": "De 28 medaljerna är fler än någon annan idrottare tagit i olympiska spel. Han är född den 30 juni 1985."
+    },
+    "source": "Encyclopaedia Britannica – Michael Phelps"
+  },
+  {
+    "id": "gull-l-04",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Filmfestivalen i Cannes ble holdt for første gang i 1946, og hovedprisen deles ut av en internasjonalt sammensatt jury av regissører og skuespillere. Blant dem som har vunnet to ganger er Bille August, Michael Haneke og Ken Loach. Hva heter prisen?",
+      "sv": "Filmfestivalen i Cannes hölls för första gången 1946, och huvudpriset delas ut av en internationellt sammansatt jury av regissörer och skådespelare. Bland dem som vunnit två gånger finns Bille August, Michael Haneke och Ken Loach. Vad heter priset?"
+    },
+    "answer": {
+      "nb": "Gullpalmen",
+      "sv": "Guldpalmen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Prisen har navn etter et tre som vokser langs Rivieraen.",
+      "sv": "Priset har namn efter ett träd som växer längs Rivieran."
+    },
+    "funFact": {
+      "nb": "Bille August vant både i 1988 for «Pelle Erobreren» og i 1992 for «Den goda viljan». På fransk heter prisen Palme d'Or.",
+      "sv": "Bille August vann både 1988 för «Pelle Erövraren» och 1992 för «Den goda viljan». På franska heter priset Palme d'Or."
+    },
+    "source": "Store norske leksikon – Gullpalmen"
+  },
+  {
+    "id": "gull-l-05",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Ifølge gresk mytologi var han konge i Frygia og fikk et ønske oppfylt av Dionysos etter å ha tatt godt imot satyren Silenos. Ønsket viste seg å være en forbannelse: også maten forandret seg så snart han rørte ved den. Hvem var denne kongen?",
+      "sv": "Enligt grekisk mytologi var han kung i Frygien och fick en önskan uppfylld av Dionysos efter att ha tagit väl emot satyren Silenos. Önskan visade sig vara en förbannelse: även maten förändrades så snart han rörde vid den. Vem var denne kung?"
+    },
+    "answer": "Midas",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet brukes fortsatt om folk som lykkes med alt de tar i.",
+      "sv": "Namnet används fortfarande om människor som lyckas med allt de tar i."
+    },
+    "funFact": {
+      "nb": "Han ble kvitt forbannelsen ved å bade i elva Paktolos ved Sardes i dagens Tyrkia, som ifølge sagnet fikk sin gullførende sand nettopp derfra. I en annen fortelling ga Apollon ham eselører.",
+      "sv": "Han blev av med förbannelsen genom att bada i floden Paktolos vid Sardes i dagens Turkiet, som enligt sägnen fick sin guldförande sand just därifrån. I en annan berättelse gav Apollon honom åsneöron."
+    },
+    "source": "Encyclopaedia Britannica – Midas"
+  },
+  {
+    "id": "gull-l-06",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Arten heter Carassius auratus på latin og er i naturen grønnbrun eller grå. I Kina begynte man å avle den fram allerede under Song-dynastiet, og i dag er den et av verdens vanligste kjæledyr. Hvilken fisk snakker vi om?",
+      "sv": "Arten heter Carassius auratus på latin och är i naturen grönbrun eller grå. I Kina började man avla fram den redan under Songdynastin, och i dag är den ett av världens vanligaste sällskapsdjur. Vilken fisk talar vi om?"
+    },
+    "answer": {
+      "nb": "Gullfisk",
+      "sv": "Guldfisk"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er i slekt med karpen, men mangler skjeggtrådene ved munnen.",
+      "sv": "Den är släkt med karpen men saknar skäggtömmarna vid munnen."
+    },
+    "funFact": {
+      "nb": "Avlen startet i Kina under Song-dynastiet (960–1279). I akvarium blir fisken gjerne 5–10 centimeter, men kommer den ut i det fri kan den bli opptil 30 centimeter lang.",
+      "sv": "Aveln startade i Kina under Songdynastin (960–1279). I akvarium blir fisken oftast 5–10 centimeter, men kommer den ut i det fria kan den bli upp till 30 centimeter lång."
+    },
+    "source": "Encyclopaedia Britannica – goldfish"
+  },
+  {
+    "id": "gull-l-07",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "sport",
+      "film"
+    ],
+    "prompt": {
+      "nb": "Hun vant ti VM-titler på rad fra 1927 til 1936 og olympisk gull i 1928, 1932 og 1936. Etterpå dro hun til Hollywood, ble filmstjerne og bygde sammen med ektemannen Niels Onstad opp en stor kunstsamling utenfor Oslo. Hvem var hun?",
+      "sv": "Hon vann tio VM-titlar i rad från 1927 till 1936 och olympiskt guld 1928, 1932 och 1936. Därefter for hon till Hollywood, blev filmstjärna och byggde tillsammans med maken Niels Onstad upp en stor konstsamling utanför Oslo. Vem var hon?"
+    },
+    "answer": "Sonja Henie",
+    "answerKind": "person",
+    "person": {
+      "given": "Sonja",
+      "family": "Henie"
+    },
+    "hint": {
+      "nb": "Idretten var kunstløp, og kunstsenteret på Høvikodden bærer navnet hennes.",
+      "sv": "Idrotten var konståkning, och konstcentret på Høvikodden bär hennes namn."
+    },
+    "funFact": {
+      "nb": "Filmdebuten «One in a Million» kom i 1936, og i 1938 var hun den tredje best betalte skuespilleren i Hollywood. I 1961 opprettet hun og Onstad stiftelsen som i 1968 åpnet Henie Onstad Kunstsenter.",
+      "sv": "Filmdebuten «One in a Million» kom 1936, och 1938 var hon den tredje bäst betalda skådespelaren i Hollywood. År 1961 grundade hon och Onstad stiftelsen som 1968 öppnade Henie Onstad Kunstsenter."
+    },
+    "source": "Store norske leksikon – Sonja Henie"
+  },
+  {
+    "id": "gull-l-08",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "militaerhistorie",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Da tyske styrker angrep Norge 9. april 1940, ble rundt 49 tonn gull fraktet ut av Oslo med lastebil, tog og fiskeskøyter, via Lillehammer, Åndalsnes, Molde og Tromsø, og videre til Storbritannia med britiske krigsskip. Hvilken institusjon eide gullet?",
+      "sv": "När tyska styrkor angrep Norge den 9 april 1940 fraktades omkring 49 ton guld ut ur Oslo med lastbil, tåg och fiskebåtar, via Lillehammer, Åndalsnes, Molde och Tromsø, och vidare till Storbritannien med brittiska örlogsfartyg. Vilken institution ägde guldet?"
+    },
+    "answer": "Norges Bank",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Institusjonen holder til i Oslo og gir ut landets sedler.",
+      "sv": "Institutionen ligger i Oslo och ger ut landets sedlar."
+    },
+    "funFact": {
+      "nb": "Alle de 1503 gullkassene og 39 tønnene med gullmynt kom fram; bare rundt 300 mynter gikk tapt under lastingen i Molde. Gullet endte i Bank of England, Federal Reserve i New York og Bank of Canada.",
+      "sv": "Alla de 1503 guldlådorna och 39 tunnorna med guldmynt kom fram; bara omkring 300 mynt gick förlorade vid lastningen i Molde. Guldet hamnade i Bank of England, Federal Reserve i New York och Bank of Canada."
+    },
+    "source": "Store norske leksikon – gulltransporten"
+  },
+  {
+    "id": "gull-l-09",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Kunstneren Karl Axel Pehrson, som selv samlet på biller, formet i 1964 en statuett inspirert av en billes skimrende flukt – den minnet ham om en filmstrimmel som flyr forbi. Statuetten deles ut av Svenska Filminstitutet. Hva heter prisen?",
+      "sv": "Konstnären Karl Axel Pehrson, som själv samlade på skalbaggar, formgav 1964 en statyett inspirerad av en skalbagges skimrande flykt – den påminde honom om en filmremsa som flyger förbi. Statyetten delas ut av Svenska Filminstitutet. Vad heter priset?"
+    },
+    "answer": "Guldbaggen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er Sveriges viktigste filmpris, delt ut siden 1964.",
+      "sv": "Det är Sveriges främsta filmpris, utdelat sedan 1964."
+    },
+    "funFact": {
+      "nb": "Siden 1964 er det delt ut nesten 600 statuetter, i dag i nitten klasser. Galaen produseres sammen med SVT.",
+      "sv": "Sedan 1964 har nästan 600 statyetter delats ut, i dag i nitton klasser. Galan produceras tillsammans med SVT."
+    },
+    "source": "Guldbaggen / Svenska Filminstitutet"
+  },
+  {
+    "id": "gull-l-10",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Før Per Gessle dannet Roxette sammen med Marie Fredriksson i 1986, var han vokalist, gitarist og låtskriver i et annet svensk band. I Norge fikk de hits allerede i 1981 med «När vi två blir en» og «Sommartider». Hva heter bandet?",
+      "sv": "Innan Per Gessle bildade Roxette tillsammans med Marie Fredriksson 1986 var han sångare, gitarrist och låtskrivare i ett annat svenskt band. I Norge fick de hits redan 1981 med «När vi två blir en» och «Sommartider». Vad heter bandet?"
+    },
+    "answer": "Gyllene Tider",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet består av to ord, og det første er et adjektiv avledet av et edelt metall.",
+      "sv": "Namnet består av två ord, och det första är ett adjektiv avlett av en ädel metall."
+    },
+    "funFact": {
+      "nb": "Roxette ble dannet i Halmstad i 1986. I 2024 gjenoppsto gruppen med Gessle og Lena Philipsson.",
+      "sv": "Roxette bildades i Halmstad 1986. År 2024 återuppstod gruppen med Gessle och Lena Philipsson."
+    },
+    "source": "Store norske leksikon – Roxette"
+  },
+  {
+    "id": "gull-m-01",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "4. november 1922 dukket det første trappetrinnet fram i Kongenes dal, og 26. november sto han foran en forseglet dør inn til en nesten urørt faraograv med gullmaske og tusenvis av gjenstander. Utgravingen ble betalt av lord Carnarvon. Hvilken britisk arkeolog?",
+      "sv": "Den 4 november 1922 dök det första trappsteget upp i Konungarnas dal, och den 26 november stod han framför en förseglad dörr in till en nästan orörd faraograv med guldmask och tusentals föremål. Utgrävningen bekostades av lord Carnarvon. Vilken brittisk arkeolog?"
+    },
+    "answer": "Howard Carter",
+    "answerKind": "person",
+    "person": {
+      "given": "Howard",
+      "family": "Carter"
+    },
+    "hint": {
+      "nb": "Etternavnet er det samme som hos en amerikansk president fra 1970-tallet.",
+      "sv": "Efternamnet är detsamma som hos en amerikansk president från 1970-talet."
+    },
+    "funFact": {
+      "nb": "Graven tilhørte Tutankhamon. Det tok ti år å tømme den, og skattene er nå i Det store egyptiske museum i Giza.",
+      "sv": "Graven tillhörde Tutankhamon. Det tog tio år att tömma den, och skatterna finns nu på Grand Egyptian Museum i Giza."
+    },
+    "source": "Encyclopaedia Britannica – Howard Carter"
+  },
+  {
+    "id": "gull-m-02",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "15. august 1971 gikk han på TV og kunngjorde at utenlandske myndigheter ikke lenger kunne veksle dollar mot gull. Dermed falt Bretton Woods-systemet fra 1944, der dollaren var bundet til 35 dollar per unse. Hvilken amerikansk president?",
+      "sv": "Den 15 augusti 1971 gick han ut i tv och tillkännagav att utländska myndigheter inte längre kunde växla dollar mot guld. Därmed föll Bretton Woods-systemet från 1944, där dollarn var bunden till 35 dollar per uns. Vilken amerikansk president?"
+    },
+    "answer": "Richard Nixon",
+    "answerKind": "person",
+    "person": {
+      "given": "Richard",
+      "family": "Nixon"
+    },
+    "hint": {
+      "nb": "Samme kveld kunngjorde han også en importavgift på ti prosent.",
+      "sv": "Samma kväll tillkännagav han också en importavgift på tio procent."
+    },
+    "funFact": {
+      "nb": "Kunngjøringen omfattet i tillegg 90 dagers lønns- og prisstopp, første gang USA innførte slikt i fredstid. Etterpå gikk verdens valutaer over til å være penger uten gulldekning.",
+      "sv": "Tillkännagivandet omfattade dessutom 90 dagars löne- och prisstopp, första gången USA införde sådant i fredstid. Därefter övergick världens valutor till att vara pengar utan guldtäckning."
+    },
+    "source": "Federal Reserve History – Gold Convertibility Ends"
+  },
+  {
+    "id": "gull-m-03",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Maleriet «Kysset» fra 1908–09 er utført med olje og blad av gull, sølv og platina, og henger i Belvedere i Wien. Det tilhører den perioden i kunstnerskapet hans som har fått navn etter metallet. Hvem malte det?",
+      "sv": "Målningen «Kyssen» från 1908–09 är utförd med olja och blad av guld, silver och platina och hänger på Belvedere i Wien. Den tillhör den period i hans konstnärskap som fått namn efter metallen. Vem målade den?"
+    },
+    "answer": "Gustav Klimt",
+    "answerKind": "person",
+    "person": {
+      "given": "Gustav",
+      "family": "Klimt"
+    },
+    "hint": {
+      "nb": "Han var østerriker og en av de ledende skikkelsene i wienerkunsten rundt år 1900.",
+      "sv": "Han var österrikare och en av de ledande gestalterna i wienerkonsten kring år 1900."
+    },
+    "funFact": {
+      "nb": "Belvedere daterer bildet til 1908–09. Kunstneren brukte ekte bladgull i flere av verkene fra denne perioden.",
+      "sv": "Belvedere daterar målningen till 1908–09. Konstnären använde äkta bladguld i flera av verken från denna period."
+    },
+    "source": "Encyclopaedia Britannica – Gustav Klimt; Belvedere, Wien"
+  },
+  {
+    "id": "gull-m-04",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Guy Hamilton regisserte Bond-filmen fra 1964 der Sean Connery møter en skurk spilt av tyske Gert Fröbe, som planlegger et angrep på gullbeholdningen i Fort Knox. Filmen bygger på en roman av Ian Fleming. Hva heter den?",
+      "sv": "Guy Hamilton regisserade Bondfilmen från 1964 där Sean Connery möter en skurk spelad av tyske Gert Fröbe, som planerar ett angrepp på guldreserven i Fort Knox. Filmen bygger på en roman av Ian Fleming. Vad heter den?"
+    },
+    "answer": "Goldfinger",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tittelen er etternavnet til skurken.",
+      "sv": "Titeln är skurkens efternamn."
+    },
+    "funFact": {
+      "nb": "Harold Sakata spilte livvakten Oddjob. Filmen regnes som den som for alvor gjorde James Bond til en internasjonal ikon.",
+      "sv": "Harold Sakata spelade livvakten Oddjob. Filmen räknas som den som på allvar gjorde James Bond till en internationell ikon."
+    },
+    "source": "Encyclopaedia Britannica – Goldfinger"
+  },
+  {
+    "id": "gull-m-05",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Som britisk koloni het området Gullkysten. I 1957 ble det den første kolonien sør for Sahara som ble selvstendig, med Kwame Nkrumah som leder, og landet tok da navn etter et gammelt vestafrikansk rike. Hvilket land er dette?",
+      "sv": "Som brittisk koloni hette området Guldkusten. År 1957 blev det den första kolonin söder om Sahara som blev självständig, med Kwame Nkrumah som ledare, och landet tog då namn efter ett gammalt västafrikanskt rike. Vilket land är detta?"
+    },
+    "answer": "Ghana",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kwame Nkrumah ble landets første president.",
+      "sv": "Kwame Nkrumah blev landets förste president."
+    },
+    "funFact": {
+      "nb": "Kolonien var britisk fram til 1957. Nkrumah, som ledet landet til selvstendighet, ble den første presidenten.",
+      "sv": "Kolonin var brittisk fram till 1957. Nkrumah, som ledde landet till självständighet, blev den förste presidenten."
+    },
+    "source": "Store norske leksikon – Ghana"
+  },
+  {
+    "id": "gull-m-06",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "tv"
+    ],
+    "prompt": {
+      "nb": "Siden 1998 har norske produsenter og kanaler delt ut en pris for fjernsynsproduksjoner, med utdeling under Nordiske Mediedager i Bergen. NRK, TV 2, TV Norge og TV3 står bak sammen med produsentforeningen. Hva heter prisen?",
+      "sv": "Sedan 1998 har norska producenter och kanaler delat ut ett pris för tv-produktioner, med utdelning under Nordiske Mediedager i Bergen. NRK, TV 2, TV Norge och TV3 står bakom tillsammans med producentföreningen. Vad heter priset?"
+    },
+    "answer": "Gullruten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet spiller på et gammelt uttrykk for fjernsynsskjermen.",
+      "sv": "Namnet anspelar på ett gammalt uttryck för tv-skärmen."
+    },
+    "funFact": {
+      "nb": "Prisen ble delt ut første gang i 1998 og har en lang rekke klasser. Formålet er å stimulere til fjernsynsproduksjoner av høy kvalitet.",
+      "sv": "Priset delades ut första gången 1998 och har en lång rad klasser. Syftet är att stimulera till tv-produktioner av hög kvalitet."
+    },
+    "source": "Store norske leksikon – Gullruten"
+  },
+  {
+    "id": "gull-m-07",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "vikingtid",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Under grøftegraving på en gård i Øvre Eiker i 1834 kom det for dagen over 2,5 kilo gull: 20 mynter, 50 smykker og 125 perler, blant annet en halsring på over ett kilo. Det er det største skattefunnet fra vikingtid i Norge. Hva kalles funnet?",
+      "sv": "Vid dikesgrävning på en gård i Øvre Eiker 1834 kom över 2,5 kilo guld i dagen: 20 mynt, 50 smycken och 125 pärlor, bland annat en halsring på över ett kilo. Det är det största skattfyndet från vikingatid i Norge. Vad kallas fyndet?"
+    },
+    "answer": "Hoenskatten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Funnet er oppkalt etter gården der det lå, og oppbevares ved Kulturhistorisk museum i Oslo.",
+      "sv": "Fyndet är uppkallat efter gården där det låg och förvaras på Kulturhistorisk museum i Oslo."
+    },
+    "funFact": {
+      "nb": "De yngste myntene daterer nedleggelsen til mellom 875 og 900. Det eldste stykket er en romersk mynt fra 364–367, nesten 500 år eldre enn resten.",
+      "sv": "De yngsta mynten daterar nedläggningen till mellan 875 och 900. Det äldsta stycket är ett romerskt mynt från 364–367, nästan 500 år äldre än resten."
+    },
+    "source": "Store norske leksikon – Hoenskatten"
+  },
+  {
+    "id": "gull-m-08",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "I 2018 delte France Football for første gang ut Gullballen til en kvinne. Prisen gikk til en norsk spiss i Olympique Lyonnais, som har vunnet Mesterligaen seks ganger og er den første norske spilleren, kvinne eller mann, som har fått prisen. Hvem?",
+      "sv": "År 2018 delade France Football för första gången ut Ballon d'Or till en kvinna. Priset gick till en norsk anfallare i Olympique Lyonnais, som vunnit Champions League sex gånger och är den första norska spelaren, kvinna eller man, som fått priset. Vem?"
+    },
+    "answer": "Ada Hegerberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Ada",
+      "family": "Hegerberg"
+    },
+    "hint": {
+      "nb": "Hun er født i Molde i 1995 og har spilt i Lyon siden 2014.",
+      "sv": "Hon är född i Molde 1995 och har spelat i Lyon sedan 2014."
+    },
+    "funFact": {
+      "nb": "Hun ble kåret til Europas beste kvinnelige spiller av UEFA i 2016 og har vunnet det franske seriemesterskapet ni ganger.",
+      "sv": "Hon utsågs till Europas bästa kvinnliga spelare av UEFA 2016 och har vunnit det franska seriemästerskapet nio gånger."
+    },
+    "source": "Store norske leksikon – Ada Hegerberg"
+  },
+  {
+    "id": "gull-m-09",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "arkitektur",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Veggene i denne salen i Stockholms stadshus er dekket av 18 millioner mosaikkbiter i ekte gull, utført av kunstneren Einar Forseth. Rommet er 42 meter langt, og den store figuren «Mälardrottningen» troner midt på veggen. Hva heter salen?",
+      "sv": "Väggarna i denna sal i Stockholms stadshus är täckta av 18 miljoner mosaikbitar i äkta guld, utförda av konstnären Einar Forseth. Rummet är 42 meter långt, och den stora figuren «Mälardrottningen» tronar mitt på väggen. Vad heter salen?"
+    },
+    "answer": "Gyllene salen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Salen ligger i etasjen over Blå hallen, der nobelbanketten holdes.",
+      "sv": "Salen ligger på våningen ovanför Blå hallen, där nobelbanketten hålls."
+    },
+    "funFact": {
+      "nb": "Salen er 600 kvadratmeter, 14 meter bred og 12 meter høy, og rommer opptil 700 gjester. Stadshuset ble innviet på midtsommeraften 1923.",
+      "sv": "Salen är 600 kvadratmeter, 14 meter bred och 12 meter hög och rymmer upp till 700 gäster. Stadshuset invigdes på midsommarafton 1923."
+    },
+    "source": "Stockholms stadshus – Gyllene salen"
+  },
+  {
+    "id": "gull-m-10",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Han vant 86 verdenscuprenn mellom 1974 og 1989, 40 i slalåm og 46 i storslalåm, og tok tre sammenlagtseire i verdenscupen. I Lake Placid i 1980 ble han olympisk mester i begge grenene. Hvilken svensk alpinist er dette?",
+      "sv": "Han vann 86 världscuptävlingar mellan 1974 och 1989, 40 i slalom och 46 i storslalom, och tog tre totalsegrar i världscupen. I Lake Placid 1980 blev han olympisk mästare i båda grenarna. Vilken svensk alpinist är detta?"
+    },
+    "answer": "Ingemar Stenmark",
+    "answerKind": "person",
+    "person": {
+      "given": "Ingemar",
+      "family": "Stenmark"
+    },
+    "hint": {
+      "nb": "Han er født 18. mars 1956 i Joesjö.",
+      "sv": "Han är född den 18 mars 1956 i Joesjö."
+    },
+    "funFact": {
+      "nb": "Han tok også bronse i storslalåm i 1976, og vant åtte slalåmcuper og sju storslalåmcuper.",
+      "sv": "Han tog också brons i storslalom 1976 och vann åtta slalomcuper och sju storslalomcuper."
+    },
+    "source": "Store norske leksikon – Ingemar Stenmark"
+  },
+  {
+    "id": "gull-v-01",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I 1909 lot han medarbeiderne sine skyte alfapartikler mot en hinnetynn folie av gull. De aller fleste gikk rett gjennom, men noen få ble slengt kraftig til side – et resultat som viste at atomet stort sett er tomrom rundt en tung kjerne. Hvem sto bak forsøket?",
+      "sv": "År 1909 lät han sina medarbetare skjuta alfapartiklar mot en hinntunn folie av guld. De allra flesta gick rakt igenom, men några få slungades kraftigt åt sidan – ett resultat som visade att atomen mest är tomrum kring en tung kärna. Vem låg bakom försöket?"
+    },
+    "answer": "Ernest Rutherford",
+    "answerKind": "person",
+    "person": {
+      "given": "Ernest",
+      "family": "Rutherford"
+    },
+    "hint": {
+      "nb": "Han hadde alt fått nobelprisen i kjemi året før forsøket.",
+      "sv": "Han hade redan fått nobelpriset i kemi året före försöket."
+    },
+    "funFact": {
+      "nb": "Gull ble valgt fordi metallet kan hamres ut til ekstremt tynn folie. Nobelprisen i kjemi fikk han i 1908, for arbeidet med radioaktivitet – altså før hans mest berømte forsøk.",
+      "sv": "Guld valdes eftersom metallen kan hamras ut till extremt tunn folie. Nobelpriset i kemi fick han 1908, för arbetet med radioaktivitet – alltså före hans mest berömda försök."
+    },
+    "source": "Encyclopaedia Britannica – Ernest Rutherford"
+  },
+  {
+    "id": "gull-v-02",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Gull tåler både saltsyre og salpetersyre hver for seg, men blandes de tre deler mot én, oppstår en væske som løser opp metallet ved å binde det som et klorkompleks. Navnet forteller at væsken tar knekken på metallenes konge. Hva heter blandingen?",
+      "sv": "Guld tål både saltsyra och salpetersyra var för sig, men blandas de tre delar mot en uppstår en vätska som löser upp metallen genom att binda den som ett klorkomplex. Namnet berättar att vätskan knäcker metallernas kung. Vad heter blandningen?"
+    },
+    "answer": {
+      "nb": "Kongevann",
+      "sv": "Kungsvatten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Blandingen løser også opp platina, mens mange uedle metaller står imot.",
+      "sv": "Blandningen löser också upp platina, medan många oädla metaller står emot."
+    },
+    "funFact": {
+      "nb": "Tre deler konsentrert saltsyre og én del konsentrert salpetersyre. Gullet ender som det gyllenrøde komplekset [AuCl4]–. Det latinske navnet er aqua regia.",
+      "sv": "Tre delar koncentrerad saltsyra och en del koncentrerad salpetersyra. Guldet slutar som det gyllenröda komplexet [AuCl4]–. Det latinska namnet är aqua regia."
+    },
+    "source": "Store norske leksikon – kongevann"
+  },
+  {
+    "id": "gull-v-03",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Han styrte Maliriket i Vest-Afrika fra begynnelsen av 1300-tallet og blir ofte omtalt som det rikeste mennesket som har levd. Mest kjent er han for prakten under pilegrimsferden til Mekka i 1324. Hva het han?",
+      "sv": "Han styrde Mali i Västafrika från början av 1300-talet och omtalas ofta som den rikaste människa som levt. Mest känd är han för prakten under pilgrimsfärden till Mecka 1324. Vad hette han?"
+    },
+    "answer": "Mansa Musa",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den første delen av navnet er en tittel som betyr «hersker».",
+      "sv": "Den första delen av namnet är en titel som betyder «härskare»."
+    },
+    "funFact": {
+      "nb": "Han ble hersker i 1307 eller 1312. Ferden i 1324 gjorde Mali kjent helt til Europa, og riket ble tegnet inn på europeiske kart utover 1300-tallet.",
+      "sv": "Han blev härskare 1307 eller 1312. Färden 1324 gjorde Mali känt ända till Europa, och riket ritades in på europeiska kartor under 1300-talet."
+    },
+    "source": "Encyclopaedia Britannica – Mūsā I of Mali"
+  },
+  {
+    "id": "gull-v-04",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Om bord på de to romsondene som ble skutt opp i 1977 ligger en forgylt kobberplate med hilsener på 55 språk, musikk fra ulike kulturer og lyder av torden og fugler. En komité ved Cornell University valgte ut innholdet for NASA. Hvem ledet komiteen?",
+      "sv": "Ombord på de två rymdsonder som sköts upp 1977 finns en förgylld kopparskiva med hälsningar på 55 språk, musik från olika kulturer och ljud av åska och fåglar. En kommitté vid Cornell University valde ut innehållet åt NASA. Vem ledde kommittén?"
+    },
+    "answer": "Carl Sagan",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl",
+      "family": "Sagan"
+    },
+    "hint": {
+      "nb": "Han var astronom ved Cornell og en av 1900-tallets mest kjente formidlere av romforskning.",
+      "sv": "Han var astronom vid Cornell och en av 1900-talets mest kända förmedlare av rymdforskning."
+    },
+    "funFact": {
+      "nb": "Platen er tolv tommer i diameter. På omslaget står instruksjoner for avspilling, et kart som viser hvor jorden ligger, og en markering av hvor lang tid som har gått siden oppskytingen.",
+      "sv": "Skivan är tolv tum i diameter. På omslaget finns instruktioner för uppspelning, en karta som visar var jorden ligger och en markering av hur lång tid som gått sedan uppskjutningen."
+    },
+    "source": "NASA – Voyager Golden Record"
+  },
+  {
+    "id": "gull-v-05",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "kunst",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Del en strekning i to ulike deler slik at hele strekningen forholder seg til den lengste delen på samme måte som den lengste forholder seg til den korteste. Forholdstallet blir omtrent 1,618 og skrives gjerne med den greske bokstaven fi. Hva kalles denne delingen?",
+      "sv": "Dela en sträcka i två olika delar så att hela sträckan förhåller sig till den längsta delen på samma sätt som den längsta förhåller sig till den kortaste. Förhållandet blir ungefär 1,618 och skrivs gärna med den grekiska bokstaven fi. Vad kallas denna delning?"
+    },
+    "answer": {
+      "nb": "Det gylne snitt",
+      "sv": "Gyllene snittet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet inneholder et adjektiv avledet av et edelt metall.",
+      "sv": "Namnet innehåller ett adjektiv avlett av en ädel metall."
+    },
+    "funFact": {
+      "nb": "Forholdstallet betegnes også med den greske bokstaven tau. Tallet er irrasjonalt og begynner 1,6180339…",
+      "sv": "Förhållandet betecknas också med den grekiska bokstaven tau. Talet är irrationellt och börjar 1,6180339…"
+    },
+    "source": "Encyclopaedia Britannica – golden ratio"
+  },
+  {
+    "id": "gull-v-06",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Den amerikanske plateindustriens bransjeorganisasjon RIAA innførte i 1958 en utmerkelse for utgivelser som selger godt, og delte den senere opp i flere nivåer. Hvor mange solgte enheter kreves i USA for det laveste nivået, gullplaten?",
+      "sv": "Den amerikanska skivindustrins branschorganisation RIAA införde 1958 en utmärkelse för utgåvor som säljer bra och delade senare upp den i flera nivåer. Hur många sålda enheter krävs i USA för den lägsta nivån, guldskivan?"
+    },
+    "answer": "500 000",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er et rundt tall i hundretusener, godt under én million.",
+      "sv": "Det är ett runt tal i hundratusental, en bra bit under en miljon."
+    },
+    "funFact": {
+      "nb": "Ordningen ble opprettet i 1958. Sertifiseringen gjelder bare det amerikanske markedet; andre land har sine egne grenser for gull og platina.",
+      "sv": "Ordningen inrättades 1958. Certifieringen gäller bara den amerikanska marknaden; andra länder har egna gränser för guld och platina."
+    },
+    "source": "RIAA – Gold & Platinum, About the Awards"
+  },
+  {
+    "id": "gull-v-07",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Dvergen Sindre smidde en ring av gull til Odin. Hver niende natt dryppet det åtte like kostbare ringer av den, og navnet kommer nettopp av det norrøne ordet for å dryppe. Da Balder ble brent, la Odin ringen på bålet. Hva heter ringen?",
+      "sv": "Dvärgen Sindre smidde en ring av guld åt Oden. Var nionde natt droppade det åtta lika dyrbara ringar av den, och namnet kommer just av det fornnordiska ordet för att droppa. När Balder brändes lade Oden ringen på bålet. Vad heter ringen?"
+    },
+    "answer": "Draupnir",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet begynner på D og betyr «den dryppende».",
+      "sv": "Namnet börjar på D och betyder «den droppande»."
+    },
+    "funFact": {
+      "nb": "Hermod hentet ringen tilbake fra Hel etter Balders død. På norsk skrives navnet også Draupne.",
+      "sv": "Hermod hämtade tillbaka ringen från Hel efter Balders död. Namnet skrivs på nordiska språk också Draupne."
+    },
+    "source": "Store norske leksikon – Draupne"
+  },
+  {
+    "id": "gull-v-08",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Rett øst for Minnesund ligger en grend med flere kilometer gruveganger og et gammelt laboratorium bevart. Her ble det med lange avbrudd drevet gullgruve fra 1758 til 1908, med 1902 som toppår og rundt 50 kilo rent gull. I hvilken kommune ligger stedet?",
+      "sv": "Strax öster om Minnesund ligger en by med flera kilometer gruvgångar och ett gammalt laboratorium bevarade. Här bedrevs med långa avbrott guldgruvdrift från 1758 till 1908, med 1902 som toppår och omkring 50 kilo rent guld. I vilken kommun ligger platsen?"
+    },
+    "answer": "Eidsvoll",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kommunen ligger i Akershus og er mest kjent for grunnlovsverket i 1814.",
+      "sv": "Kommunen ligger i Akershus och är mest känd för grundlagsarbetet 1814."
+    },
+    "funFact": {
+      "nb": "Grenda heter Gullverket. Driften ble aldri lønnsom i det lange løp, men gruvegangene og det gamle laboratoriet står der fortsatt.",
+      "sv": "Byn heter Gullverket. Driften blev aldrig lönsam i längden, men gruvgångarna och det gamla laboratoriet står kvar."
+    },
+    "source": "Store norske leksikon – Gullverket"
+  },
+  {
+    "id": "gull-v-09",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "historie",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "I en utstilling ved Historiska museet i Stockholm vises nesten 3000 gjenstander, blant dem tre sjeldne halskrager av gull fra 400-tallet med bittesmå menneske- og dyrefigurer. Til sammen rundt 52 kilo gull og over 200 kilo sølv. Hva heter utstillingen?",
+      "sv": "I en utställning på Historiska museet i Stockholm visas nästan 3000 föremål, bland dem tre sällsynta halskragar av guld från 400-talet med pyttesmå människo- och djurfigurer. Sammanlagt omkring 52 kilo guld och över 200 kilo silver. Vad heter utställningen?"
+    },
+    "answer": "Guldrummet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er så enkelt som det kan bli: det sier rett ut hva rommet er fullt av.",
+      "sv": "Namnet är så enkelt det kan bli: det säger rakt ut vad rummet är fullt av."
+    },
+    "funFact": {
+      "nb": "De tre halskragene ble funnet hver for seg på 1800-tallet og kan åpnes med en sinnrik låsemekanisme. Samlingen rommer også Elisabethrelikvariet og Duneskatten fra Gotland.",
+      "sv": "De tre halskragarna hittades var för sig på 1800-talet och kan öppnas med en sinnrik låsmekanism. Samlingen rymmer också Elisabethrelikvariet och Duneskatten från Gotland."
+    },
+    "source": "Historiska museet, Stockholm – Guldrummet"
+  },
+  {
+    "id": "gull-v-10",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Siden 1961 har bransjeforeningen Sveriges Kommunikationsbyråer delt ut landets eldste og største pris innen kreativ kommunikasjon. En jury på nærmere seksti personer kårer vinnere i femten klasser, og de nest beste får en statuett i sølv. Hva heter prisen?",
+      "sv": "Sedan 1961 har branschföreningen Sveriges Kommunikationsbyråer delat ut landets äldsta och största pris inom kreativ kommunikation. En jury på närmare sextio personer utser vinnare i femton klasser, och tvåorna får en statyett i silver. Vad heter priset?"
+    },
+    "answer": "Guldägget",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Statuetten har form av noe en fugl legger.",
+      "sv": "Statyetten har form av något en fågel lägger."
+    },
+    "funFact": {
+      "nb": "Vinnerne får «guldägg», de nest beste «silverägg», og i tillegg deles det ut fem spesialpriser. Konkurransen har vært arrangert siden 1961.",
+      "sv": "Vinnarna får «guldägg», tvåorna «silverägg», och dessutom delas fem specialpriser ut. Tävlingen har arrangerats sedan 1961."
+    },
+    "source": "Guldägget – Sveriges Kommunikationsbyråer"
+  }
+]

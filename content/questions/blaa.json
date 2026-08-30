@@ -1,0 +1,834 @@
+[
+  {
+    "id": "blaa-l-01",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "vikingtid"
+    ],
+    "prompt": {
+      "nb": "Han samlet Danmark under én krone på 900-tallet, kristnet danene og reiste den store Jellingsteinen til minne om foreldrene sine. Tilnavnet skal komme av en mørk, misfarget tann. Da Intel-ingeniørene i 1997 trengte et arbeidsnavn på en ny standard for trådløs kortdistansekommunikasjon, lånte de navnet hans. Hvilken vikingkonge?",
+      "sv": "Han samlade Danmark under en krona på 900-talet, kristnade danerna och reste den stora Jellingstenen till minne av sina föräldrar. Tillnamnet lär komma av en mörk, missfärgad tand. När Intel-ingenjörerna 1997 behövde ett arbetsnamn på en ny standard för trådlös kortdistanskommunikation lånade de hans namn. Vilken vikingakung?"
+    },
+    "answer": {
+      "nb": "Harald Blåtann",
+      "sv": "Harald Blåtand"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": "Harald",
+      "family": {
+        "nb": "Blåtann",
+        "sv": "Blåtand"
+      }
+    },
+    "hint": {
+      "nb": "Logoen til teknologien er hans to initialer skrevet med runer, lagt oppå hverandre.",
+      "sv": "Teknikens logotyp är hans två initialer skrivna med runor, lagda över varandra."
+    },
+    "funFact": {
+      "nb": "Bluetooth-logoen er en binderune av ᚼ (Hagall) og ᛒ (Bjarkan) – H og B. Navnet var ment som et midlertidig kodenavn mens markedsavdelingen fant på noe bedre, men det stakk av med seieren.",
+      "sv": "Bluetooth-logotypen är en bindruna av ᚼ (Hagall) och ᛒ (Bjarkan) – H och B. Namnet var tänkt som ett tillfälligt kodnamn medan marknadsavdelningen hittade på något bättre, men det blev kvar."
+    },
+    "source": "Bluetooth SIG – «Origin of the Name and Logo»"
+  },
+  {
+    "id": "blaa-l-02",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Den kan bli over 30 meter lang, kalven er rundt sju meter allerede ved fødselen, og de lavfrekvente ropene fra hannene er blant de kraftigste lydene noe dyr lager. Likevel lever den nesten utelukkende av krill. Hvilket dyr er det største som noen gang har levd på jorden?",
+      "sv": "Den kan bli över 30 meter lång, kalven är omkring sju meter redan vid födseln, och hanarnas lågfrekventa läten hör till de kraftigaste ljud något djur åstadkommer. Ändå lever den nästan uteslutande av krill. Vilket djur är det största som någonsin levt på jorden?"
+    },
+    "answer": {
+      "nb": "Blåhval",
+      "sv": "Blåval"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den tilhører gruppen bardehvaler og siler maten gjennom bardene i stedet for å tygge.",
+      "sv": "Den hör till bardvalarna och silar maten genom barderna i stället för att tugga."
+    },
+    "funFact": {
+      "nb": "Moderne hvalfangst desimerte bestanden på 1900-tallet, og arten er fortsatt langt under det den en gang var. Et bevart blåhvalhjerte ved Royal Ontario Museum i Toronto veier rundt 180 kilo.",
+      "sv": "Modernt valfångst decimerade beståndet under 1900-talet, och arten är fortfarande långt under vad den en gång var. Ett bevarat blåvalshjärta på Royal Ontario Museum i Toronto väger omkring 180 kilo."
+    },
+    "source": "NOAA Fisheries – Blue Whale; Royal Ontario Museum"
+  },
+  {
+    "id": "blaa-l-03",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Belgieren Peyo tegnet dem første gang i 1958, som bifigurer i en historie om ridderen Johan og Pirlouit. De bor i sopphus, er «tre epler høye» og heter alle det samme etterfulgt av yrket eller lynnet sitt. Hva kalles dette blå folkeslaget på norsk?",
+      "sv": "Belgaren Peyo ritade dem första gången 1958, som bifigurer i en berättelse om riddaren Johan och Pirlouit. De bor i svamphus, är «tre äpplen höga» och heter alla samma sak följt av yrket eller lynnet sitt. Vad kallas detta blå folkslag på svenska?"
+    },
+    "answer": {
+      "nb": "Smurfene",
+      "sv": "Smurferna"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På fransk heter de «Les Schtroumpfs», og lederen har rød lue og hvitt skjegg.",
+      "sv": "På franska heter de «Les Schtroumpfs», och ledaren har röd mössa och vitt skägg."
+    },
+    "funFact": {
+      "nb": "Navnet skal ha oppstått ved et middagsbord: Peyo ba kollegaen André Franquin om saltet, glemte ordet og sa «passe-moi le schtroumpf». Siden har de blitt tegnefilm, spillefilmer og fornøyelsespark.",
+      "sv": "Namnet lär ha uppstått vid ett middagsbord: Peyo bad kollegan André Franquin om saltet, glömde ordet och sa «passe-moi le schtroumpf». Sedan dess har de blivit tecknad serie, långfilmer och nöjespark."
+    },
+    "source": "Éditions Dupuis – Les Schtroumpfs; Peyo-arkivet"
+  },
+  {
+    "id": "blaa-l-04",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "James Camerons film fra 2009 ble den mest innbringende filmen gjennom tidene og gjorde 3D til en kinostandard i et helt tiår. Handlingen foregår på månen Pandora, der et gruveselskap er ute etter mineralet unobtanium. Hva kalles den høye, blåhudete urbefolkningen på Pandora?",
+      "sv": "James Camerons film från 2009 blev den mest inbringande filmen genom tiderna och gjorde 3D till en biostandard i ett helt decennium. Handlingen utspelar sig på månen Pandora, där ett gruvbolag är ute efter mineralet unobtanium. Vad kallas den långa, blåhyade urbefolkningen på Pandora?"
+    },
+    "answer": "Na'vi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De rir på flygende, drageliknende skapninger som kalles ikran.",
+      "sv": "De rider på flygande, drakliknande varelser som kallas ikran."
+    },
+    "funFact": {
+      "nb": "Lingvisten Paul Frommer fikk i oppdrag å bygge språket deres fra bunnen av, med egen grammatikk, lydverk og et ordforråd på godt over tusen ord – og det vokser fortsatt.",
+      "sv": "Lingvisten Paul Frommer fick i uppdrag att bygga deras språk från grunden, med egen grammatik, ljudsystem och ett ordförråd på långt över tusen ord – och det växer fortfarande."
+    },
+    "source": "20th Century Studios; Paul Frommer, University of Southern California"
+  },
+  {
+    "id": "blaa-l-05",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "sport",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Verdens eldste og lengste skirenn går de ni milene fra Sälen til Mora, ble arrangert første gang i 1922 og har mottoet «I fäders spår för framtids segrar». Langs løypa deler funksjonærene ut en varm, blå drikk som er blitt et symbol på hele rennet. Hva slags drikk er det?",
+      "sv": "Världens äldsta och längsta skidlopp går de nio milen från Sälen till Mora, arrangerades första gången 1922 och har mottot «I fäders spår för framtids segrar». Längs banan delar funktionärerna ut en varm, blå dryck som blivit en symbol för hela loppet. Vilken dryck är det?"
+    },
+    "answer": {
+      "nb": "Blåbærsuppe",
+      "sv": "Blåbärssoppa"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den lages av et bær som vokser i store mengder i svensk skogsmark.",
+      "sv": "Den görs på ett bär som växer i stora mängder i svensk skogsmark."
+    },
+    "funFact": {
+      "nb": "Rennet oppsto etter en avisartikkel av journalisten Anders Pers i 1922, som foreslo et skirenn i sporene til Gustav Vasa. Startfeltet er i dag på titusenvis av deltakere gjennom hele Vasaloppsveckan.",
+      "sv": "Loppet uppstod efter en tidningsartikel av journalisten Anders Pers 1922, som föreslog ett skidlopp i Gustav Vasas spår. Startfältet är i dag tiotusentals deltagare under hela Vasaloppsveckan."
+    },
+    "source": "Vasaloppet – offisiell historikk"
+  },
+  {
+    "id": "blaa-l-06",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Den trives i kalkrik løvskog på Østlandet og i Trøndelag, blomstrer så tidlig at den ofte står mellom de siste snøflekkene i mars og april, og de blå «kronbladene» er egentlig begerblad – planten har ingen ekte kronblad. Hvilken vårblomst er dette?",
+      "sv": "Den trivs i kalkrik lövskog, blommar så tidigt att den ofta står mellan de sista snöfläckarna i mars och april, och de blå «kronbladen» är egentligen foderblad – växten har inga äkta kronblad. Vilken vårblomma är detta?"
+    },
+    "answer": {
+      "nb": "Blåveis",
+      "sv": "Blåsippa"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det latinske navnet er Hepatica nobilis, etter bladenes likhet med en lever.",
+      "sv": "Det latinska namnet är Hepatica nobilis, efter bladens likhet med en lever."
+    },
+    "funFact": {
+      "nb": "Den er landskapsblomst for Uppland i Sverige. I Norge er den vanlig på Østlandet, men mangler i store deler av Vestlandet og Nord-Norge.",
+      "sv": "Den är landskapsblomma för Uppland. I Norge är den vanlig på Østlandet men saknas i stora delar av Vestlandet och Nord-Norge."
+    },
+    "source": "Artsdatabanken; Den virtuella floran, Naturhistoriska riksmuseet"
+  },
+  {
+    "id": "blaa-l-07",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Da Levi Strauss og skredderen Jacob Davis i 1873 fikk patent på arbeidsbukser med naglede lommer, ble stoffet farget med et fargestoff som legger seg utenpå trådene i stedet for å trenge inn i dem. Derfor blir buksene lysere for hver vask, og slitasjen tegner seg som lyse striper. Hvilket fargestoff er det?",
+      "sv": "När Levi Strauss och skräddaren Jacob Davis 1873 fick patent på arbetsbyxor med nitade fickor färgades tyget med ett färgämne som lägger sig utanpå trådarna i stället för att tränga in i dem. Därför blir byxorna ljusare för varje tvätt, och slitaget tecknar sig som ljusa ränder. Vilket färgämne är det?"
+    },
+    "answer": "Indigo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fargestoffet ble opprinnelig utvunnet av planter i slekten Indigofera.",
+      "sv": "Färgämnet utvanns ursprungligen ur växter i släktet Indigofera."
+    },
+    "funFact": {
+      "nb": "Nesten all som brukes i dag er syntetisk. Den tyske kjemikeren Adolf von Baeyer arbeidet fram syntesen på 1800-tallet og fikk nobelprisen i kjemi i 1905 for arbeidet med organiske fargestoffer.",
+      "sv": "Nästan allt som används i dag är syntetiskt. Den tyske kemisten Adolf von Baeyer arbetade fram syntesen på 1800-talet och fick nobelpriset i kemi 1905 för sitt arbete med organiska färgämnen."
+    },
+    "source": "Levi Strauss & Co. arkiv; Nobelprize.org – Adolf von Baeyer 1905"
+  },
+  {
+    "id": "blaa-l-08",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "NRKs julekalender fra 1999 ble en av de mest sette barneseriene i norsk fjernsynshistorie, og har blitt sendt i reprise en rekke ganger siden. Handlingen foregår inne i et fjell, der et blåhudet nissefolk lever atskilt fra rødnissene utenfor. Hva heter serien?",
+      "sv": "NRK:s julkalender från 1999 blev en av de mest sedda barnserierna i norsk tv-historia och har repriserats många gånger sedan dess. Handlingen utspelar sig inne i ett berg, där ett blåhyat tomtefolk lever avskilt från rödtomtarna utanför. Vad heter serien?"
+    },
+    "answer": {
+      "nb": "Jul i Blåfjell",
+      "sv": "Jul i Blåfjell"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tittelen består av tre ord, og det siste er navnet på fjellet de bor i.",
+      "sv": "Titeln består av tre ord, och det sista är namnet på berget de bor i."
+    },
+    "funFact": {
+      "nb": "Serien fikk to oppfølgere, «Jul på Månetoppen» og «Amalies jul», og regnes som starten på en ny gullalder for norske julekalendere.",
+      "sv": "Serien fick två uppföljare, «Jul på Månetoppen» och «Amalies jul», och räknas som starten på en ny guldålder för norska julkalendrar."
+    },
+    "source": "NRK – arkiv og produksjonsomtale"
+  },
+  {
+    "id": "blaa-l-09",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "fotball",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Fotballandslaget deres kalles «Azzurri» – «de blå» – etter en farge som stammer fra fyrstehuset Savoia og altså ikke fra flagget, som er grønt, hvitt og rødt. Laget har vunnet fire verdensmesterskap. Hvilket land er dette?",
+      "sv": "Deras fotbollslandslag kallas «Azzurri» – «de blå» – efter en färg som kommer från furstehuset Savojen och alltså inte från flaggan, som är grön, vit och röd. Laget har vunnit fyra världsmästerskap. Vilket land är detta?"
+    },
+    "answer": {
+      "nb": "Italia",
+      "sv": "Italien"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Mesterskapene kom i 1934, 1938, 1982 og 2006.",
+      "sv": "Mästerskapen kom 1934, 1938, 1982 och 2006."
+    },
+    "funFact": {
+      "nb": "Den blå drakten ble tatt i bruk i 1911, mens landet fortsatt var et kongedømme. Republikken kom i 1946, men fargen fikk bli.",
+      "sv": "Den blå tröjan togs i bruk 1911, medan landet fortfarande var ett kungadöme. Republiken kom 1946, men färgen fick vara kvar."
+    },
+    "source": "FIGC – Federazione Italiana Giuoco Calcio"
+  },
+  {
+    "id": "blaa-l-10",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "mytologi",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "I svensk folketro drar heksene hit skjærtorsdag for å feste med djevelen, og derfor kler svenske barn seg ut som påskekjerringer og går fra dør til dør i påsken. Hva heter dette sagnomsuste stedet?",
+      "sv": "I svensk folktro drar häxorna hit på skärtorsdagen för att festa med djävulen, och därför klär svenska barn ut sig till påskkärringar och går från dörr till dörr i påsken. Vad heter denna sägenomspunna plats?"
+    },
+    "answer": {
+      "nb": "Blåkulla",
+      "sv": "Blåkulla"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er ofte knyttet til granittøya Blå Jungfrun i Kalmarsund.",
+      "sv": "Namnet knyts ofta till granitön Blå Jungfrun i Kalmarsund."
+    },
+    "funFact": {
+      "nb": "Forestillingen fikk dødelige følger under heksejaktene på 1600-tallet, da barn i Dalarna og Norrland vitnet om reiser hit. Sverige avskaffet dødsstraff for trolldom i 1779.",
+      "sv": "Föreställningen fick dödliga följder under häxprocesserna på 1600-talet, då barn i Dalarna och Norrland vittnade om resor hit. Sverige avskaffade dödsstraff för trolldom 1779."
+    },
+    "source": "Nordiska museet; Institutet för språk och folkminnen"
+  },
+  {
+    "id": "blaa-m-01",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Mellom 1901 og 1904 malte han nesten utelukkende i kjølige blågrønne toner, med tiggere, blinde og utstøtte som motiv. Perioden ble avløst av en varmere «rosa periode» med sirkusartister. Hvilken kunstner står bak det kunsthistorien kaller den blå perioden?",
+      "sv": "Mellan 1901 och 1904 målade han nästan uteslutande i svala blågröna toner, med tiggare, blinda och utstötta som motiv. Perioden avlöstes av en varmare «rosa period» med cirkusartister. Vilken konstnär står bakom det konsthistorien kallar den blå perioden?"
+    },
+    "answer": "Pablo Picasso",
+    "answerKind": "person",
+    "person": {
+      "given": "Pablo",
+      "family": "Picasso"
+    },
+    "hint": {
+      "nb": "Han var spanjol, men arbeidet mesteparten av livet i Frankrike, og var senere med på å grunnlegge kubismen.",
+      "sv": "Han var spanjor men arbetade större delen av livet i Frankrike, och var senare med och grundade kubismen."
+    },
+    "funFact": {
+      "nb": "«La Vie» fra 1903 regnes som hovedverket fra perioden. Røntgenundersøkelser har vist at han malte det oppå et tidligere lerret – han hadde ikke råd til nye.",
+      "sv": "«La Vie» från 1903 räknas som periodens huvudverk. Röntgenundersökningar har visat att han målade det ovanpå en tidigare duk – han hade inte råd med nya."
+    },
+    "source": "Museu Picasso, Barcelona; Cleveland Museum of Art – «La Vie»"
+  },
+  {
+    "id": "blaa-m-02",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Blaafarveværket i Modum var på 1830-tallet en av Norges største industribedrifter og forsynte europeiske glass- og porselensfabrikker med blått pigment. Råstoffet kom fra Skuterudgruvene like ved. Hvilket metall er det som gir denne dype blåfargen?",
+      "sv": "Blaafarveværket i Modum var på 1830-talet ett av Norges största industriföretag och försörjde europeiska glas- och porslinsfabriker med blått pigment. Råvaran kom från Skuterudgruvorna strax intill. Vilken metall ger denna djupa blå färg?"
+    },
+    "answer": {
+      "nb": "Kobolt",
+      "sv": "Kobolt"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnstoffet har symbolet Co og atomnummer 27, og navnet kommer av det tyske ordet for nisse eller trollet i gruven.",
+      "sv": "Grundämnet har symbolen Co och atomnummer 27, och namnet kommer av det tyska ordet för tomte eller trollet i gruvan."
+    },
+    "funFact": {
+      "nb": "Navnet kommer av «Kobold» – bergmennene skyldte på underjordiske når malmen ikke oppførte seg som ventet. Verket er i dag museum og kunstsenter.",
+      "sv": "Namnet kommer av «Kobold» – bergsmännen skyllde på underjordiska när malmen inte uppförde sig som väntat. Verket är i dag museum och konstcentrum."
+    },
+    "source": "Blaafarveværket, Modum – museets historikk"
+  },
+  {
+    "id": "blaa-m-03",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Hvert år 10. desember samles nobelprisvinnerne til bankett i en sal i Stockholms stadshus. Arkitekten Ragnar Östberg hadde tenkt å dekke teglveggene med blå, glasserte fliser, men ombestemte seg og lot teglet stå rått – men navnet på salen ble stående. Hva heter salen?",
+      "sv": "Varje år den 10 december samlas nobelpristagarna till bankett i en sal i Stockholms stadshus. Arkitekten Ragnar Östberg hade tänkt klä tegelväggarna med blått, glaserat kakel, men ändrade sig och lät teglet stå rått – men salens namn blev kvar. Vad heter salen?"
+    },
+    "answer": {
+      "nb": "Blå hallen",
+      "sv": "Blå hallen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Salen er altså ikke blå. Dansen etter middagen foregår i Gyllene salen i etasjen over.",
+      "sv": "Salen är alltså inte blå. Dansen efter middagen sker i Gyllene salen på våningen ovanför."
+    },
+    "funFact": {
+      "nb": "Stadshuset sto ferdig i 1923, og nobelbanketten har vært holdt her siden 1930. Trappen ned i salen er beryktet blant gjestene som skal ned den i lange kjoler.",
+      "sv": "Stadshuset stod färdigt 1923, och nobelbanketten har hållits här sedan 1930. Trappan ned i salen är ökänd bland gäster som ska ta sig ned i långklänning."
+    },
+    "source": "Stockholms stadshus; Nobel Prize Outreach – Nobel banquet"
+  },
+  {
+    "id": "blaa-m-04",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Denne låten fra 1983 regnes som den mest solgte tolvtommeren gjennom tidene. Peter Saville designet omslaget som en etterligning av en diskett, med så kostbar utstansing at plateselskapet Factory Records etter sigende tapte penger på hvert eksemplar. Hva heter låten?",
+      "sv": "Denna låt från 1983 räknas som den mest sålda tolvtumssingeln genom tiderna. Peter Saville formgav omslaget som en efterlikning av en diskett, med så kostsam stansning att skivbolaget Factory Records enligt uppgift förlorade pengar på varje exemplar. Vad heter låten?"
+    },
+    "answer": "Blue Monday",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bandet ble dannet av de gjenlevende medlemmene i Joy Division og kommer fra Manchester.",
+      "sv": "Bandet bildades av de kvarvarande medlemmarna i Joy Division och kommer från Manchester."
+    },
+    "funFact": {
+      "nb": "Bandet er New Order. Den maskinelle trommerytmen ble programmert på en Oberheim DMX, og låten regnes som et bindeledd mellom postpunk og house.",
+      "sv": "Bandet är New Order. Den maskinella trumrytmen programmerades på en Oberheim DMX, och låten räknas som en länk mellan postpunk och house."
+    },
+    "source": "Factory Records-diskografi; Peter Saville-arkivet"
+  },
+  {
+    "id": "blaa-m-05",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "transport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Det blå båndet ble gitt til passasjerskipet med raskeste rutekryssing av Atlanterhavet. På jomfruturen i 1952 tok et amerikansk skip rekorden vestover med en snittfart på over 34 knop, og ingen passasjerbåt har slått den siden. Hvilket skip er det?",
+      "sv": "Det blå bandet gavs till passagerarfartyget med snabbaste linjeöverfart av Atlanten. På jungfruresan 1952 tog ett amerikanskt fartyg rekordet västerut med en snitthastighet på över 34 knop, och ingen passagerarbåt har slagit den sedan dess. Vilket fartyg är det?"
+    },
+    "answer": "SS United States",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skipet er oppkalt etter landet det ble bygget i, og skroget var bygget med tanke på rask ombygging til troppetransport.",
+      "sv": "Fartyget är uppkallat efter landet det byggdes i, och skrovet var byggt för snabb ombyggnad till trupptransport."
+    },
+    "funFact": {
+      "nb": "Skipet ble konstruert av William Francis Gibbs med et nesten fanatisk fokus på brannsikkerhet: det ble brukt aluminium og glassfiber der andre skip brukte tre.",
+      "sv": "Fartyget konstruerades av William Francis Gibbs med ett närmast fanatiskt fokus på brandsäkerhet: aluminium och glasfiber användes där andra fartyg använde trä."
+    },
+    "source": "SS United States Conservancy; Hales Trophy-historikk"
+  },
+  {
+    "id": "blaa-m-06",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I Charles Perraults eventyrsamling fra 1697 møter vi en rik og skremmende mann som gir sin unge kone nøklene til hele slottet, men forbyr henne å åpne ett bestemt kammer. Fargen på skjegget hans ga ham navnet. Hva heter eventyret?",
+      "sv": "I Charles Perraults sagosamling från 1697 möter vi en rik och skrämmande man som ger sin unga hustru nycklarna till hela slottet men förbjuder henne att öppna ett visst rum. Färgen på hans skägg gav honom namnet. Vad heter sagan?"
+    },
+    "answer": {
+      "nb": "Blåskjegg",
+      "sv": "Blåskägg"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På fransk heter det «La Barbe bleue», og nøkkelen som avslører henne får en flekk som ikke lar seg vaske bort.",
+      "sv": "På franska heter den «La Barbe bleue», och nyckeln som avslöjar henne får en fläck som inte går att tvätta bort."
+    },
+    "funFact": {
+      "nb": "Samlingen «Histoires ou contes du temps passé» inneholdt også Askepott, Rødhette og Tornerose. Béla Bartók brukte historien i sin eneste opera, «Hertug Blåskjeggs borg», fra 1911.",
+      "sv": "Samlingen «Histoires ou contes du temps passé» innehöll också Askungen, Rödluvan och Törnrosa. Béla Bartók använde berättelsen i sin enda opera, «Hertig Blåskäggs borg», från 1911."
+    },
+    "source": "Charles Perrault, «Histoires ou contes du temps passé» (1697); Bibliothèque nationale de France"
+  },
+  {
+    "id": "blaa-m-07",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Islands mest besøkte turistattraksjon er egentlig et industriuhell: melkeblått, silikaholdig vann fra kraftverket Svartsengi samlet seg i lavafeltet, folk begynte å bade i det, og siden ble det bygget spa rundt. Hva heter stedet?",
+      "sv": "Islands mest besökta turistattraktion är egentligen en industriolycka: mjölkblått, kiselhaltigt vatten från kraftverket Svartsengi samlades i lavafältet, folk började bada i det, och sedan byggdes ett spa runt omkring. Vad heter platsen?"
+    },
+    "answer": {
+      "nb": "Den blå lagune",
+      "sv": "Blå lagunen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På islandsk heter det Bláa lónið, og det ligger på Reykjanes-halvøya, ikke langt fra flyplassen i Keflavík.",
+      "sv": "På isländska heter det Bláa lónið, och det ligger på Reykjaneshalvön, inte långt från flygplatsen i Keflavík."
+    },
+    "funFact": {
+      "nb": "Den melkeblå fargen kommer av at kiselsyre i vannet sprer lyset. Kraftverket henter varme og damp fra det geotermiske reservoaret under lavafeltet.",
+      "sv": "Den mjölkblå färgen beror på att kiselsyra i vattnet sprider ljuset. Kraftverket hämtar värme och ånga från den geotermiska reservoaren under lavafältet."
+    },
+    "source": "Bláa lónið / Blue Lagoon Iceland; HS Orka – Svartsengi"
+  },
+  {
+    "id": "blaa-m-08",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Da Norge skulle ha eget flagg, foreslo en stortingsrepresentant fra Bergen i 1821 å legge et blått kors inni det hvite korset på et rødt felt – fargekombinasjonen skulle signalisere slektskap med de frie nasjonene Frankrike, USA og Storbritannia. Hvem foreslo dette flagget?",
+      "sv": "När Norge skulle få en egen flagga föreslog en stortingsledamot från Bergen 1821 att lägga ett blått kors inuti det vita korset på ett rött fält – färgkombinationen skulle signalera släktskap med de fria nationerna Frankrike, USA och Storbritannien. Vem föreslog denna flagga?"
+    },
+    "answer": "Fredrik Meltzer",
+    "answerKind": "person",
+    "person": {
+      "given": "Fredrik",
+      "family": "Meltzer"
+    },
+    "hint": {
+      "nb": "Etternavnet er tysk-klingende, og fargevalget skulle også hedre Norges tidligere og daværende unionspartnere: rødt og hvitt for Danmark, blått for Sverige.",
+      "sv": "Efternamnet är tyskklingande, och färgvalet skulle också hedra Norges tidigare och dåvarande unionspartner: rött och vitt för Danmark, blått för Sverige."
+    },
+    "funFact": {
+      "nb": "Stortinget vedtok flagget i 1821, men kong Carl Johan nektet å sanksjonere det. Først i 1898 fikk Norge bruke det rene flagget uten unionsmerket i alle farvann.",
+      "sv": "Stortinget antog flaggan 1821, men kung Carl Johan vägrade sanktionera den. Först 1898 fick Norge använda den rena flaggan utan unionsmärket i alla farvatten."
+    },
+    "source": "Stortingsarkivet; Store norske leksikon – Norges flagg"
+  },
+  {
+    "id": "blaa-m-09",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Midt i Kalmarsund ligger en naken granittøy uten fast bosetning, full av grotter og løse steinblokker. Den ble nasjonalpark i 1926, og folketroen knytter den til heksenes møteplass. Overtroen sier at det bringer ulykke å ta med seg stein derfra. Hva heter øya?",
+      "sv": "Mitt i Kalmarsund ligger en naken granitö utan fast bosättning, full av grottor och lösa stenblock. Den blev nationalpark 1926, och folktron knyter den till häxornas mötesplats. Vidskepelsen säger att det bringar olycka att ta med sig sten därifrån. Vad heter ön?"
+    },
+    "answer": {
+      "nb": "Blå Jungfrun",
+      "sv": "Blå Jungfrun"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet består av to ord, og det siste betyr «jomfru».",
+      "sv": "Namnet består av två ord, och det sista betyder «jungfru»."
+    },
+    "funFact": {
+      "nb": "Oskarshamn kommune får hvert år tilsendt stein i posten fra angrende turister. Øya har også en steinlabyrint kalt Trojeborg.",
+      "sv": "Oskarshamns kommun får varje år stenar skickade i posten från ångerfulla turister. Ön har också en stenlabyrint kallad Trojeborg."
+    },
+    "source": "Naturvårdsverket – Blå Jungfruns nationalpark"
+  },
+  {
+    "id": "blaa-m-10",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Plateselskapet ble grunnlagt i New York i 1939 av den tyske innvandreren Alfred Lion, og ble hjemmet til Art Blakey, Thelonious Monk og Herbie Hancock. Grafikeren Reid Miles' omslag med skrå typografi og Francis Wolffs studiofotografier er like berømte som musikken. Hva heter selskapet?",
+      "sv": "Skivbolaget grundades i New York 1939 av den tyske invandraren Alfred Lion och blev hemmet för Art Blakey, Thelonious Monk och Herbie Hancock. Grafikern Reid Miles omslag med snedställd typografi och Francis Wolffs studiofotografier är lika berömda som musiken. Vad heter bolaget?"
+    },
+    "answer": "Blue Note Records",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet viser til de senkede tonene som gir blues og jazz sin karakteristiske klang.",
+      "sv": "Namnet syftar på de sänkta toner som ger blues och jazz sin karaktäristiska klang."
+    },
+    "funFact": {
+      "nb": "Alfred Lion betalte musikerne for øvingstid før innspillingene – uvanlig i bransjen, og en viktig grunn til at katalogen holder så jevnt høyt nivå.",
+      "sv": "Alfred Lion betalade musikerna för repetitionstid före inspelningarna – ovanligt i branschen, och en viktig orsak till att katalogen håller så jämnt hög nivå."
+    },
+    "source": "Blue Note Records – selskapshistorikk"
+  },
+  {
+    "id": "blaa-v-01",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "kunst",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I middelalderen og renessansen var det dyreste pigmentet en maler kunne kjøpe dyrere enn gull, og derfor forbeholdt Jomfru Marias kappe. Det ble laget ved å knuse en halvedelsten som praktisk talt bare fantes i gruvene i Badakhshan i dagens Afghanistan. Hvilken sten er det?",
+      "sv": "Under medeltiden och renässansen var det dyraste pigmentet en målare kunde köpa dyrare än guld, och därför förbehållet Jungfru Marias mantel. Det tillverkades genom att krossa en halvädelsten som praktiskt taget bara fanns i gruvorna i Badakhshan i dagens Afghanistan. Vilken sten är det?"
+    },
+    "answer": {
+      "nb": "Lapis lazuli",
+      "sv": "Lapis lazuli"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Pigmentet som ble laget av den heter ultramarin – «hinsides havet», fordi steinen kom sjøveien til Europa.",
+      "sv": "Pigmentet som gjordes av den heter ultramarin – «bortom havet», eftersom stenen kom sjövägen till Europa."
+    },
+    "funFact": {
+      "nb": "I 1826 vant franskmannen Jean-Baptiste Guimet en utlyst premie for å ha laget syntetisk ultramarin, og prisen på pigmentet stupte over natten.",
+      "sv": "År 1826 vann fransmannen Jean-Baptiste Guimet ett utlyst pris för att ha framställt syntetiskt ultramarin, och priset på pigmentet störtdök över en natt."
+    },
+    "source": "The National Gallery, London – pigment compendium; Société d'Encouragement pour l'Industrie Nationale (1824-utlysningen)"
+  },
+  {
+    "id": "blaa-v-02",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "design"
+    ],
+    "prompt": {
+      "nb": "I 2009 varmet en doktorgradsstudent ved Oregon State University opp en blanding av manganoksid og andre grunnstoffer i en ovn, og fikk ut et forbløffende sterkt blått pulver. Det ble det første nye uorganiske blåpigmentet på nesten to hundre år, og navnet er satt sammen av grunnstoffsymbolene. Hva heter pigmentet?",
+      "sv": "År 2009 värmde en doktorand vid Oregon State University upp en blandning av manganoxid och andra grundämnen i en ugn och fick ut ett förbluffande starkt blått pulver. Det blev det första nya oorganiska blåpigmentet på nästan tvåhundra år, och namnet är sammansatt av grundämnessymbolerna. Vad heter pigmentet?"
+    },
+    "answer": {
+      "nb": "YInMn-blått",
+      "sv": "YInMn-blått"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnstoffene er yttrium, indium og mangan.",
+      "sv": "Grundämnena är yttrium, indium och mangan."
+    },
+    "funFact": {
+      "nb": "Pigmentet reflekterer infrarødt lys godt, så maling laget med det holder overflater kjøligere i sol. Forskergruppen ble ledet av kjemikeren Mas Subramanian.",
+      "sv": "Pigmentet reflekterar infrarött ljus väl, så färg gjord med det håller ytor svalare i sol. Forskargruppen leddes av kemisten Mas Subramanian."
+    },
+    "source": "Oregon State University – Subramanian Group; Journal of the American Chemical Society (2009)"
+  },
+  {
+    "id": "blaa-v-03",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "George Gershwin rakk aldri å orkestrere «Rhapsody in Blue» selv før urframføringen i Aeolian Hall i februar 1924 – han leverte den som partitur for to klaverer. Paul Whitemans faste arrangør satte den for orkester på rekordtid, og senere også i den symfoniske versjonen vi hører i dag. Hva het han?",
+      "sv": "George Gershwin hann aldrig orkestrera «Rhapsody in Blue» själv före uruppförandet i Aeolian Hall i februari 1924 – han lämnade den som partitur för två pianon. Paul Whitemans fasta arrangör satte den för orkester på rekordtid, och senare även i den symfoniska version vi hör i dag. Vad hette han?"
+    },
+    "answer": "Ferde Grofé",
+    "answerKind": "person",
+    "person": {
+      "given": "Ferde",
+      "family": "Grofé"
+    },
+    "hint": {
+      "nb": "Han skrev senere sin egen «Grand Canyon Suite».",
+      "sv": "Han skrev senare sin egen «Grand Canyon Suite»."
+    },
+    "funFact": {
+      "nb": "Det berømte klarinettglissandoet i åpningen var opprinnelig skrevet som en skala. Whitemans klarinettist Ross Gorman gjorde det om til et glidende sug på en prøve, og Gershwin ba ham beholde det.",
+      "sv": "Det berömda klarinettglissandot i öppningen var ursprungligen skrivet som en skala. Whitemans klarinettist Ross Gorman gjorde om det till ett glidande sug på en repetition, och Gershwin bad honom behålla det."
+    },
+    "source": "Library of Congress – Gershwin Collection"
+  },
+  {
+    "id": "blaa-v-04",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Et dypblått vinterlandskap fra 1914, med snødekte fjell under en stjernehimmel, er kåret til Norges nasjonalmaleri og henger i Nasjonalmuseet. Kunstneren arbeidet med motivet i nesten femten år og laget flere versjoner. Hvem malte det?",
+      "sv": "Ett djupblått vinterlandskap från 1914, med snötäckta berg under en stjärnhimmel, har utsetts till Norges nationalmålning och hänger på Nasjonalmuseet. Konstnären arbetade med motivet i nästan femton år och gjorde flera versioner. Vem målade det?"
+    },
+    "answer": "Harald Sohlberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Harald",
+      "family": "Sohlberg"
+    },
+    "hint": {
+      "nb": "Bildet heter «Vinternatt i Rondane», og etternavnet begynner på S.",
+      "sv": "Målningen heter «Vinternatt i Rondane», och efternamnet börjar på S."
+    },
+    "funFact": {
+      "nb": "Han fikk ideen på en skitur i Rondane rundt århundreskiftet. Han er også kjent for «Fra Nordenfjeldske» og for bildene fra Røros, der han bodde noen år.",
+      "sv": "Han fick idén på en skidtur i Rondane kring sekelskiftet. Han är också känd för bilderna från Røros, där han bodde några år."
+    },
+    "source": "Nasjonalmuseet, Oslo – Harald Sohlberg, «Vinternatt i Rondane»"
+  },
+  {
+    "id": "blaa-v-05",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "transport",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Europavei 12 går fra Helsingfors over Vasa og Umeå og videre tvers over Kjølen til Mo i Rana. Den svensk-norske strekningen markedsføres under et eget turistnavn som spiller på alle innsjøene og fjordene den følger. Hva kalles veien?",
+      "sv": "Europaväg 12 går från Helsingfors över Vasa och Umeå och vidare tvärs över Kölen till Mo i Rana. Den svensk-norska sträckan marknadsförs under ett eget turistnamn som anspelar på alla sjöar och fjordar den följer. Vad kallas vägen?"
+    },
+    "answer": {
+      "nb": "Blå vägen",
+      "sv": "Blå vägen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er to ord på svensk, og det første er fargen.",
+      "sv": "Namnet är två ord, och det första är färgen."
+    },
+    "funFact": {
+      "nb": "Veien følger Umeälven store deler av veien gjennom Västerbotten og passerer Storuman og Tärnaby før den krysser grensen ved Umbukta.",
+      "sv": "Vägen följer Umeälven stora delar av sträckan genom Västerbotten och passerar Storuman och Tärnaby innan den korsar gränsen vid Umbukta."
+    },
+    "source": "Blå Vägen-föreningen; Trafikverket – E12"
+  },
+  {
+    "id": "blaa-v-06",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Blekksprut, hummer og dolkhaler har blått blod. Grunnen er at de ikke bruker jernholdig hemoglobin til å frakte oksygen, men et protein der kobber gjør jobben – og kobberkomplekset blir blått når det binder oksygen. Hva heter dette proteinet?",
+      "sv": "Bläckfisk, hummer och dolksvansar har blått blod. Orsaken är att de inte använder järnhaltigt hemoglobin för att frakta syre, utan ett protein där koppar gör jobbet – och kopparkomplexet blir blått när det binder syre. Vad heter detta protein?"
+    },
+    "answer": {
+      "nb": "Hemocyanin",
+      "sv": "Hemocyanin"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet inneholder det greske ordet for mørkeblå, som også har gitt navn til trykkefargen cyan.",
+      "sv": "Ordet innehåller det grekiska ordet för mörkblå, som också gett namn åt tryckfärgen cyan."
+    },
+    "funFact": {
+      "nb": "Blodet fra dolkhalen brukes til å lage LAL-testen, som legemiddelindustrien bruker for å avsløre bakterieforurensning i vaksiner og infusjonsvæsker.",
+      "sv": "Blodet från dolksvansen används för att göra LAL-testet, som läkemedelsindustrin använder för att avslöja bakteriell kontaminering i vacciner och infusionsvätskor."
+    },
+    "source": "Woods Hole Oceanographic Institution; U.S. Pharmacopeia – LAL-test"
+  },
+  {
+    "id": "blaa-v-07",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Den franske kunstneren malte monokrome lerreter i én eneste, intenst matt ultramarinfarge, og fikk i 1960 registrert selve bindemiddel-oppskriften i Frankrike for å beskytte den. Fargen bærer initialene hans. Hvem var han?",
+      "sv": "Den franske konstnären målade monokroma dukar i en enda, intensivt matt ultramarinfärg och lät 1960 registrera själva bindemedelsreceptet i Frankrike för att skydda det. Färgen bär hans initialer. Vem var han?"
+    },
+    "answer": "Yves Klein",
+    "answerKind": "person",
+    "person": {
+      "given": "Yves",
+      "family": "Klein"
+    },
+    "hint": {
+      "nb": "Fargen forkortes IKB, der de to siste bokstavene er initialene hans.",
+      "sv": "Färgen förkortas IKB, där de två sista bokstäverna är hans initialer."
+    },
+    "funFact": {
+      "nb": "Han døde bare 34 år gammel i 1962. Bindemidlet han brukte var en syntetisk harpiks som lot pigmentkornene stå ubundet på overflaten – derav den støvete, dype matte virkningen.",
+      "sv": "Han dog bara 34 år gammal 1962. Bindemedlet han använde var ett syntetiskt harts som lät pigmentkornen stå obundna på ytan – därav den dammiga, djupt matta verkan."
+    },
+    "source": "Yves Klein Archives; Centre Pompidou"
+  },
+  {
+    "id": "blaa-v-08",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "religion",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Organisasjonen med det blå korset i navnet kom til Norge i 1906 og driver i dag behandling og forebygging over hele landet. Den ble stiftet 29 år tidligere av presten Louis-Lucien Rochat, i en by som også huser Røde Kors. I hvilket land ble den grunnlagt?",
+      "sv": "Organisationen med det blå korset i namnet kom till Norge 1906 och driver i dag behandling och förebyggande över hela landet. Den grundades 29 år tidigare av prästen Louis-Lucien Rochat, i en stad som också hyser Röda Korset. I vilket land grundades den?"
+    },
+    "answer": {
+      "nb": "Sveits",
+      "sv": "Schweiz"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er Genève.",
+      "sv": "Staden är Genève."
+    },
+    "funFact": {
+      "nb": "Blå Kors er i dag en internasjonal føderasjon med medlemsorganisasjoner i mer enn 40 land, og er en av Norges største ideelle aktører på sitt felt.",
+      "sv": "Blå Korset är i dag en internationell federation med medlemsorganisationer i mer än 40 länder, och är en av Norges största ideella aktörer på sitt område."
+    },
+    "source": "Blå Kors Norge; International Federation of the Blue Cross"
+  },
+  {
+    "id": "blaa-v-09",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "okonomi",
+      "design"
+    ],
+    "prompt": {
+      "nb": "I 1979 lanserte svensk dagligvarehandel en lavprisserie der all emballasje var hvit med blå tekst og uten merkevarenavn – bare varens navn i klartekst. Serien ble et begrep i svensk språk og lever videre som betegnelse på det enkleste alternativet. Hva het den?",
+      "sv": "År 1979 lanserade svensk dagligvaruhandel en lågprisserie där all emballage var vit med blå text och utan varumärkesnamn – bara varans namn i klartext. Serien blev ett begrepp i svenska språket och lever vidare som beteckning på det enklaste alternativet. Vad hette den?"
+    },
+    "answer": {
+      "nb": "Blåvitt",
+      "sv": "Blåvitt"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av de to fargene på pakningen.",
+      "sv": "Namnet är sammansatt av de två färgerna på förpackningen."
+    },
+    "funFact": {
+      "nb": "Samme kallenavn brukes om fotballklubben IFK Göteborg, som spiller i blått og hvitt – to helt ulike svenske institusjoner med samme økenavn.",
+      "sv": "Samma smeknamn används om fotbollsklubben IFK Göteborg, som spelar i blått och vitt – två helt olika svenska institutioner med samma öknamn."
+    },
+    "source": "ICA-historien; Centrum för Näringslivshistoria"
+  },
+  {
+    "id": "blaa-v-10",
+    "category": "blaa",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I 1843 begynte en britisk botaniker å gi ut et verk om britiske alger der hvert eneste bilde var laget med cyanotypi – den blå kopieringsteknikken som senere ble brukt til blåkopier av byggetegninger. Verket regnes som verdens første bok illustrert med fotografiske bilder. Hvem laget det?",
+      "sv": "År 1843 började en brittisk botaniker ge ut ett verk om brittiska alger där varenda bild var gjord med cyanotypi – den blå kopieringstekniken som senare användes till blåkopior av byggritningar. Verket räknas som världens första bok illustrerad med fotografiska bilder. Vem gjorde det?"
+    },
+    "answer": "Anna Atkins",
+    "answerKind": "person",
+    "person": {
+      "given": "Anna",
+      "family": "Atkins"
+    },
+    "hint": {
+      "nb": "Hun var venn av John Herschel, som fant opp cyanotypien året før.",
+      "sv": "Hon var vän med John Herschel, som uppfann cyanotypin året innan."
+    },
+    "funFact": {
+      "nb": "Verket heter «Photographs of British Algae: Cyanotype Impressions». Hun la algene rett på det lysfølsomme papiret, så bildene er skyggebilder – ingen kamera var involvert.",
+      "sv": "Verket heter «Photographs of British Algae: Cyanotype Impressions». Hon lade algerna direkt på det ljuskänsliga papperet, så bilderna är skuggbilder – ingen kamera var inblandad."
+    },
+    "source": "The British Library; The New York Public Library – Anna Atkins Collection"
+  }
+]

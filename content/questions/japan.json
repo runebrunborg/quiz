@@ -1,0 +1,804 @@
+[
+  {
+    "id": "japan-l-01",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Den er 3 776 meter høy, ligger på grensen mellom prefekturene Shizuoka og Yamanashi og hadde sitt siste utbrudd vinteren 1707–08. Den nesten symmetriske kjeglen er avbildet på alt fra tresnitt til pengesedler, og klatresesongen varer bare noen sommeruker. Hvilket fjell?",
+      "sv": "Det är 3 776 meter högt, ligger på gränsen mellan prefekturerna Shizuoka och Yamanashi och hade sitt senaste utbrott vintern 1707–08. Den nästan symmetriska konen är avbildad på allt från träsnitt till sedlar, och klättersäsongen varar bara några sommarveckor. Vilket berg?"
+    },
+    "answer": "Fuji",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Katsushika Hokusai laget en berømt serie tresnitt med trettiseks utsikter mot dette fjellet.",
+      "sv": "Katsushika Hokusai gjorde en berömd serie träsnitt med trettiosex vyer mot detta berg."
+    },
+    "funFact": {
+      "nb": "Utbruddet i 1707 kalles Hōei-utbruddet og la aske over Edo, dagens Tokyo, over hundre kilometer unna. Fjellet står på Unescos verdensarvliste som kulturminne, ikke som naturminne.",
+      "sv": "Utbrottet 1707 kallas Hōei-eruptionen och lade aska över Edo, dagens Tokyo, över tio mil bort. Berget står på Unescos världsarvslista som kulturarv, inte som naturarv."
+    },
+    "source": "Japan Meteorological Agency; Unesco – «Fujisan, sacred place and source of artistic inspiration»"
+  },
+  {
+    "id": "japan-l-02",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "spill",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Selskapet ble stiftet i Kyoto i 1889 og lagde til å begynne med håndmalte spillkort av typen hanafuda. Først på 1970-tallet gikk det over til elektronisk underholdning, og i dag er det kjent for figurer som Mario og Zelda. Hva heter selskapet?",
+      "sv": "Företaget grundades i Kyoto 1889 och tillverkade till en början handmålade spelkort av typen hanafuda. Först på 1970-talet gick det över till elektronisk underhållning, och i dag är det känt för figurer som Mario och Zelda. Vad heter företaget?"
+    },
+    "answer": "Nintendo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnleggeren het Fusajiro Yamauchi, og selskapet står bak både Game Boy og Switch.",
+      "sv": "Grundaren hette Fusajiro Yamauchi, och företaget står bakom både Game Boy och Switch."
+    },
+    "funFact": {
+      "nb": "Hanafuda-kortene ble populære nettopp fordi Japan i 1882 forbød de fleste former for pengespill. Selskapet holdt til i bydelen Shimogyō i Kyoto.",
+      "sv": "Hanafuda-korten blev populära just för att Japan 1882 förbjöd de flesta former för hasardspel. Företaget höll till i stadsdelen Shimogyō i Kyoto."
+    },
+    "source": "Nintendo Co., Ltd. – selskapshistorikk"
+  },
+  {
+    "id": "japan-l-03",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Ordet er satt sammen av tegnene for «stukket» og «kropp», og begrepet oppsto i Muromachi-perioden. Retten består bare av råvaren selv, skåret i tynne skiver og servert uten ris, gjerne med soyasaus og wasabi til. Hva heter denne japanske retten?",
+      "sv": "Ordet är sammansatt av tecknen för «stucken» och «kropp», och begreppet uppstod under Muromachiperioden. Rätten består bara av råvaran själv, skuren i tunna skivor och serverad utan ris, gärna med sojasås och wasabi till. Vad heter denna japanska rätt?"
+    },
+    "answer": "Sashimi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den forveksles ofte med en annen japansk rett, men den andre defineres av eddikrisen – ikke av fisken.",
+      "sv": "Den förväxlas ofta med en annan japansk rätt, men den andra definieras av det ättiksyrade riset – inte av fisken."
+    },
+    "funFact": {
+      "nb": "Retten trenger ikke være fisk i det hele tatt: den lages også av kjøtt, av kylling og av grønnsaker. Muromachi-perioden varte fra 1336 til 1573.",
+      "sv": "Rätten behöver inte vara fisk alls: den görs också på kött, kyckling och grönsaker. Muromachiperioden varade från 1336 till 1573."
+    },
+    "source": "Encyclopaedia Britannica – sashimi; Japanese Culinary Academy"
+  },
+  {
+    "id": "japan-l-04",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Filmen hans fra 2001 om jenta Chihiro, som havner i et badehus for guder og ånder, ble i 2003 den første håndtegnede og ikke-engelskspråklige filmen som vant Oscar for beste animasjonsfilm. Hvem er regissøren, som var med på å grunnlegge Studio Ghibli?",
+      "sv": "Hans film från 2001 om flickan Chihiro, som hamnar i ett badhus för gudar och andar, blev 2003 den första handtecknade och icke-engelskspråkiga film som vann Oscar för bästa animerade film. Vem är regissören, som var med och grundade Studio Ghibli?"
+    },
+    "answer": "Hayao Miyazaki",
+    "answerKind": "person",
+    "person": {
+      "given": "Hayao",
+      "family": "Miyazaki"
+    },
+    "hint": {
+      "nb": "Han står også bak «Min nabo Totoro» og «Prinsesse Mononoke».",
+      "sv": "Han står också bakom «Min granne Totoro» och «Prinsessan Mononoke»."
+    },
+    "funFact": {
+      "nb": "Studio Ghibli ble grunnlagt i 1985 sammen med blant andre Isao Takahata og Toshio Suzuki. Navnet er hentet fra et italiensk fly og betyr en varm ørkenvind.",
+      "sv": "Studio Ghibli grundades 1985 tillsammans med bland andra Isao Takahata och Toshio Suzuki. Namnet är hämtat från ett italienskt flygplan och betyder en varm ökenvind."
+    },
+    "source": "Studio Ghibli; Academy of Motion Picture Arts and Sciences – 75th Academy Awards"
+  },
+  {
+    "id": "japan-l-05",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "transport",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Den første linjen åpnet 1. oktober 1964, få dager før sommer-OL i Tokyo, og bandt hovedstaden sammen med Nagoya og Osaka. På seksti år og over ti milliarder passasjerer har ingen omkommet i avsporing eller sammenstøt. Hva kalles disse togene?",
+      "sv": "Den första linjen öppnade den 1 oktober 1964, några dagar före sommar-OS i Tokyo, och band samman huvudstaden med Nagoya och Osaka. På sextio år och över tio miljarder passagerare har ingen omkommit i urspårning eller kollision. Vad kallas dessa tåg?"
+    },
+    "answer": "Shinkansen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet betyr «ny hovedlinje», og togene kjennes lett igjen på den lange, spisse nesen.",
+      "sv": "Ordet betyder «ny huvudlinje», och tågen känns lätt igen på den långa, spetsiga nosen."
+    },
+    "funFact": {
+      "nb": "Den første strekningen het Tōkaidō-linjen og var drøyt 550 kilometer lang. Systemet har hatt to avsporinger i passasjertrafikk, i 2004 under et jordskjelv og i 2013 i snøstorm, begge uten personskader.",
+      "sv": "Den första sträckan hette Tōkaidōlinjen och var drygt 550 kilometer lång. Systemet har haft två urspårningar i passagerartrafik, 2004 under en jordbävning och 2013 i snöstorm, båda utan personskador."
+    },
+    "source": "Central Japan Railway Company; Japan Railways Group"
+  },
+  {
+    "id": "japan-l-06",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Kanō Jigorō åpnet i 1882 en øvingssal han kalte Kōdōkan, i et buddhisttempel i Tokyo, med tolv matter på gulvet. Systemet bygde han på kast fra én gammel skole og hold og grep fra en annen, etter prinsippet størst mulig virkning med minst mulig kraft. Hvilken kampsport grunnla han?",
+      "sv": "Kanō Jigorō öppnade 1882 en träningssal han kallade Kōdōkan, i ett buddhisttempel i Tokyo, med tolv mattor på golvet. Systemet byggde han på kast från en gammal skola och grepp från en annan, enligt principen största möjliga verkan med minsta möjliga kraft. Vilken kampsport grundade han?"
+    },
+    "answer": "Judo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Utøverne bruker hvit drakt, gradene markeres med farget belte, og navnet betyr «den myke veien».",
+      "sv": "Utövarna bär vit dräkt, graderna markeras med färgat bälte, och namnet betyder «den mjuka vägen»."
+    },
+    "funFact": {
+      "nb": "Kanō ble i 1909 det første asiatiske medlemmet av Den internasjonale olympiske komité, og han ledet den japanske troppen i Stockholm i 1912. Selv var han skeptisk til å gjøre idretten til olympisk konkurransegren.",
+      "sv": "Kanō blev 1909 den första asiatiska ledamoten i Internationella olympiska kommittén, och han ledde den japanska truppen i Stockholm 1912. Själv var han skeptisk till att göra idrotten till olympisk tävlingsgren."
+    },
+    "source": "Kodokan Judo Institute; International Olympic Committee"
+  },
+  {
+    "id": "japan-l-07",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Vinterlekene i februar 1998 var de andre i Japan, og vertsbyen er den sørligste som noen gang har arrangert vinter-OL. Bjørn Dæhlie tok tre gull der, og snøbrett, curling og ishockey for kvinner var med for første gang. Hvilken by?",
+      "sv": "Vinterspelen i februari 1998 var de andra i Japan, och värdstaden är den sydligaste som någonsin arrangerat vinter-OS. Bjørn Dæhlie tog tre guld där, och snowboard, curling och damishockey var med för första gången. Vilken stad?"
+    },
+    "answer": "Nagano",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen har gitt navn til prefekturen den ligger i, og er kjent for det gamle tempelet Zenkō-ji.",
+      "sv": "Staden har gett namn åt prefekturen den ligger i, och är känd för det gamla templet Zenkō-ji."
+    },
+    "funFact": {
+      "nb": "Dæhlies gull kom på 10 kilometer klassisk, 5 mil fri og stafetten. Med åtte olympiske gull var han lenge den mest vinnende vinterolympieren.",
+      "sv": "Dæhlies guld kom på 10 kilometer klassiskt, 5 mil fritt och stafetten. Med åtta olympiska guld var han länge den mest framgångsrika vinterolympiern."
+    },
+    "source": "Den internasjonale olympiske komité – Nagano 1998"
+  },
+  {
+    "id": "japan-l-08",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "mat-og-drikke",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "På 1980-tallet reiste en norsk delegasjon under navnet «Prosjekt Japan» til Tokyo for å overbevise japanerne om at en oppdrettsfisk fra Nord-Atlanteren kunne spises rå. Gjennombruddet kom da et stort parti ble solgt billig til en japansk frossenvareprodusent. Hvilken fisk var det?",
+      "sv": "På 1980-talet reste en norsk delegation under namnet «Projekt Japan» till Tokyo för att övertyga japanerna om att en odlad fisk från Nordatlanten kunde ätas rå. Genombrottet kom när ett stort parti såldes billigt till en japansk producent av frysta livsmedel. Vilken fisk var det?"
+    },
+    "answer": {
+      "nb": "Laks",
+      "sv": "Lax"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fisken har rødt kjøtt og er i dag en av de aller vanligste sortene på sushibåndet.",
+      "sv": "Fisken har rött kött och är i dag en av de allra vanligaste sorterna på sushibandet."
+    },
+    "funFact": {
+      "nb": "Nordmannen Bjørn Eirik Olsen ledet framstøtet. Japanerne var skeptiske fordi stillehavsarten deres kan ha parasitter og tradisjonelt ble spist grillet, ikke rå.",
+      "sv": "Norrmannen Bjørn Eirik Olsen ledde satsningen. Japanerna var skeptiska eftersom deras stillahavsart kan ha parasiter och traditionellt åts grillad, inte rå."
+    },
+    "source": "NPR – «How The Desperate Norwegian Salmon Industry Created A Sushi Staple» (2015)"
+  },
+  {
+    "id": "japan-l-09",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "litteratur",
+      "film"
+    ],
+    "prompt": {
+      "nb": "I 1971 reiste to unge japanske animatører til Sverige for å få lov til å lage tegnefilmserie om en rødhåret jente med flettene rett ut, en apekatt og en hest. Den svenske forfatteren sa nei, og ideene ble brukt på en pandafilm i stedet. Hvilken bokfigur gjaldt det?",
+      "sv": "År 1971 reste två unga japanska animatörer till Sverige för att få tillstånd att göra en tecknad serie om en rödhårig flicka med flätorna rakt ut, en apa och en häst. Den svenska författaren sa nej, och idéerna användes till en pandafilm i stället. Vilken bokfigur gällde det?"
+    },
+    "answer": {
+      "nb": "Pippi Langstrømpe",
+      "sv": "Pippi Långstrump"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hun bor i Villa Villekulla og er verdens sterkeste jente.",
+      "sv": "Hon bor i Villa Villekulla och är världens starkaste flicka."
+    },
+    "funFact": {
+      "nb": "De to var Hayao Miyazaki og Isao Takahata. Ideene ble arbeidet om til «Panda! Go, Panda!» i 1972, filmen som la grunnlaget for karrierene deres.",
+      "sv": "De två var Hayao Miyazaki och Isao Takahata. Idéerna arbetades om till «Panda! Go, Panda!» 1972, filmen som lade grunden för deras karriärer."
+    },
+    "source": "Studio Ghibli; The Astrid Lindgren Company"
+  },
+  {
+    "id": "japan-l-10",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Under sommerlekene i Tokyo, som ble utsatt ett år til 2021, vant en svensk stavhopper født i Louisiana gull med 6,02 meter på første forsøk. Faren er amerikaner og moren svensk, og han konkurrerer for Sverige. Hvem er han?",
+      "sv": "Under sommarspelen i Tokyo, som sköts upp ett år till 2021, vann en svensk stavhoppare född i Louisiana guld med 6,02 meter på första försöket. Pappan är amerikan och mamman svensk, och han tävlar för Sverige. Vem är han?"
+    },
+    "answer": "Armand Duplantis",
+    "answerKind": "person",
+    "person": {
+      "given": "Armand",
+      "family": "Duplantis"
+    },
+    "hint": {
+      "nb": "Kallenavnet hans er Mondo, og etternavnet er fransk-klingende.",
+      "sv": "Smeknamnet är Mondo, och efternamnet är franskklingande."
+    },
+    "funFact": {
+      "nb": "Han vokste opp i Lafayette i Louisiana, der faren Greg – selv stavhopper – hadde bygget en hoppgrop i hagen.",
+      "sv": "Han växte upp i Lafayette i Louisiana, där pappan Greg – själv stavhoppare – hade byggt en hoppgrop på tomten."
+    },
+    "source": "Den internasjonale olympiske komité – Tokyo 2020; World Athletics"
+  },
+  {
+    "id": "japan-m-01",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Filmen fra 1954 varer i over tre timer og handler om en fattig landsby som leier inn sju herreløse krigere til å forsvare seg mot røvere. Seks år senere kjøpte et amerikansk selskap rettighetene og gjorde historien om til en western. Hvem regisserte originalen?",
+      "sv": "Filmen från 1954 varar i över tre timmar och handlar om en fattig by som hyr in sju herrelösa krigare för att försvara sig mot rövare. Sex år senare köpte ett amerikanskt bolag rättigheterna och gjorde om historien till en western. Vem regisserade originalet?"
+    },
+    "answer": "Akira Kurosawa",
+    "answerKind": "person",
+    "person": {
+      "given": "Akira",
+      "family": "Kurosawa"
+    },
+    "hint": {
+      "nb": "Hovedrollene i filmene hans ble ofte spilt av Toshiro Mifune, og etternavnet begynner på K.",
+      "sv": "Huvudrollerna i hans filmer spelades ofta av Toshiro Mifune, och efternamnet börjar på K."
+    },
+    "funFact": {
+      "nb": "Westernen ble «The Magnificent Seven» fra 1960. Regissøren hadde allerede vunnet gullløven i Venezia i 1951 for «Rashomon», den første japanske filmen som slo gjennom internasjonalt.",
+      "sv": "Westernfilmen blev «The Magnificent Seven» från 1960. Regissören hade redan vunnit Guldlejonet i Venedig 1951 för «Rashomon», den första japanska film som slog igenom internationellt."
+    },
+    "source": "Toho Co., Ltd.; La Biennale di Venezia – arkiv"
+  },
+  {
+    "id": "japan-m-02",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Sony lanserte i juli 1979 en kassettspiller uten opptaksfunksjon, modell TPS-L2, i blått og sølv. Ideen kom fra medgrunnleggeren Masaru Ibuka, som ville høre musikk på lange flyreiser. Selskapet regnet med 5 000 solgte i måneden, men solgte over 30 000 på to. Hva het produktet?",
+      "sv": "Sony lanserade i juli 1979 en kassettspelare utan inspelningsfunktion, modell TPS-L2, i blått och silver. Idén kom från medgrundaren Masaru Ibuka, som ville lyssna på musik under långa flygresor. Bolaget räknade med 5 000 sålda i månaden men sålde över 30 000 på två. Vad hette produkten?"
+    },
+    "answer": "Walkman",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er engelsk og satt sammen av to ord; det siste er «man».",
+      "sv": "Namnet är engelskt och sammansatt av två ord; det sista är «man»."
+    },
+    "funFact": {
+      "nb": "Prisen i Japan var rundt 33 000 yen. Navnet ble så innarbeidet at det lenge ble brukt som fellesbetegnelse på alle bærbare kassettspillere.",
+      "sv": "Priset i Japan var omkring 33 000 yen. Namnet blev så etablerat att det länge användes som samlingsbeteckning för alla bärbara kassettspelare."
+    },
+    "source": "Sony Group Corporation – produkthistorikk"
+  },
+  {
+    "id": "japan-m-03",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Konsernet vokste ut av en vevstolfabrikk i Aichi. Patentet på en automatisk vevstol ble i 1929 solgt til en britisk produsent, og pengene ble startkapital da grunnleggerens sønn ville lage biler. I 1937 ble bilvirksomheten skilt ut som eget selskap. Hvilket bilmerke?",
+      "sv": "Koncernen växte ur en vävstolsfabrik i Aichi. Patentet på en automatisk vävstol såldes 1929 till en brittisk tillverkare, och pengarna blev startkapital när grundarens son ville bygga bilar. År 1937 bröts bilverksamheten ut som ett eget bolag. Vilket bilmärke?"
+    },
+    "answer": "Toyota",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Familienavnet ble skrevet litt om da merkenavnet ble valgt, blant annet fordi den nye skrivemåten krevde åtte penselstrøk – et lykketall.",
+      "sv": "Familjenamnet skrevs om något när varumärkesnamnet valdes, bland annat för att den nya stavningen krävde åtta penseldrag – ett lyckotal."
+    },
+    "funFact": {
+      "nb": "Grunnleggeren het Sakichi Toyoda og sønnen Kiichiro. Vevstolselskapet finnes fortsatt, i dag under navnet Toyota Industries.",
+      "sv": "Grundaren hette Sakichi Toyoda och sonen Kiichiro. Vävstolsföretaget finns fortfarande kvar, i dag under namnet Toyota Industries."
+    },
+    "source": "Toyota Motor Corporation – «75 Years of Toyota»; Toyota Industries Corporation"
+  },
+  {
+    "id": "japan-m-04",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Japansk skrives med tre tegnsett om hverandre: kinesiske tegn, en avrundet stavelsesskrift for grammatiske endelser, og en kantet stavelsesskrift med 46 tegn i bruk. Den kantete brukes til lånord, lydord og til å framheve, omtrent som kursiv. Hva heter den?",
+      "sv": "Japanska skrivs med tre teckenuppsättningar om vartannat: kinesiska tecken, en rundad stavelseskrift för grammatiska ändelser, och en kantig stavelseskrift med 46 tecken i bruk. Den kantiga används för lånord, ljudord och för att framhäva, ungefär som kursiv. Vad heter den?"
+    },
+    "answer": "Katakana",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den avrundede søsterskriften heter hiragana, og begge ender på de samme fire bokstavene.",
+      "sv": "Den rundade systerskriften heter hiragana, och båda slutar på samma fyra bokstäver."
+    },
+    "funFact": {
+      "nb": "«Aisukurīmu» – iskrem – skrives med denne skriften, og det samme gjør firmanavn som Suzuki og Toyota og landnavn som Amerika.",
+      "sv": "«Aisukurīmu» – glass – skrivs med denna skrift, och det gör även företagsnamn som Suzuki och Toyota och landsnamn som Amerika."
+    },
+    "source": "The Japan Foundation; Encyclopaedia Britannica – Japanese writing system"
+  },
+  {
+    "id": "japan-m-05",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Romanen fra 1987 om studenten Toru Watanabe i Tokyo på slutten av 1960-tallet har japansk tittel «Noruwei no mori» og er oppkalt etter en Beatles-låt. Boken solgte i millioner og gjorde forfatteren til en stjerne han knapt orket å være. Hvem skrev den?",
+      "sv": "Romanen från 1987 om studenten Toru Watanabe i Tokyo i slutet av 1960-talet har den japanska titeln «Noruwei no mori» och är uppkallad efter en Beatleslåt. Boken sålde i miljoner och gjorde författaren till en stjärna han knappt stod ut med att vara. Vem skrev den?"
+    },
+    "answer": "Haruki Murakami",
+    "answerKind": "person",
+    "person": {
+      "given": "Haruki",
+      "family": "Murakami"
+    },
+    "hint": {
+      "nb": "Han har også skrevet «Kafka på stranden» og «Trekkoppfuglen», og drev jazzklubb i Tokyo før han ble forfatter.",
+      "sv": "Han har också skrivit «Kafka på stranden» och «Fågeln som vrider upp världen», och drev jazzklubb i Tokyo innan han blev författare."
+    },
+    "funFact": {
+      "nb": "Det japanske ordet «mori» betyr skog, ikke tre. Tittelen har derfor en litt annen klang på japansk enn i den engelske originalen.",
+      "sv": "Det japanska ordet «mori» betyder skog, inte trä. Titeln har därför en något annan klang på japanska än i det engelska originalet."
+    },
+    "source": "Kodansha; The Paris Review – «Haruki Murakami, The Art of Fiction No. 182»"
+  },
+  {
+    "id": "japan-m-06",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Under vinterlekene i Sapporo i 1972 bar han det norske flagget under åpningsseremonien, og på 20 kilometer skiskyting forsvarte han gullet han hadde vunnet i Grenoble fire år tidligere. Dermed ble han dobbelt olympisk mester i samme øvelse. Hvem var han?",
+      "sv": "Under vinterspelen i Sapporo 1972 bar han den norska flaggan vid invigningen, och på 20 kilometer skidskytte försvarade han guldet han vunnit i Grenoble fyra år tidigare. Därmed blev han dubbel olympisk mästare i samma gren. Vem var han?"
+    },
+    "answer": "Magnar Solberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Magnar",
+      "family": "Solberg"
+    },
+    "hint": {
+      "nb": "Etternavnet er et vanlig norsk gårds- og stedsnavn, og fornavnet begynner på M.",
+      "sv": "Efternamnet är ett vanligt norskt gårds- och ortnamn, och förnamnet börjar på M."
+    },
+    "funFact": {
+      "nb": "Skiskyting kom inn på det olympiske programmet i 1960, og 20 kilometeren var den eneste individuelle distansen helt til sprinten kom til i Lake Placid i 1980.",
+      "sv": "Skidskytte kom med på det olympiska programmet 1960, och 20 kilometer var den enda individuella distansen ända tills sprinten tillkom i Lake Placid 1980."
+    },
+    "source": "Den internasjonale olympiske komité – Sapporo 1972; Internasjonale skiskytterforbundet (IBU)"
+  },
+  {
+    "id": "japan-m-07",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "I lagkonkurransen i skihopp under OL på Lillehammer i 1994 ledet Japan stort før siste hopper. Han trengte bare 105 meter for å sikre gullet, men landet på rundt 97, og Tyskland gikk forbi. Fire år senere fikk han revansj på hjemmebane. Hvem er hopperen?",
+      "sv": "I lagtävlingen i backhoppning under OS i Lillehammer 1994 ledde Japan stort före sista hopparen. Han behövde bara 105 meter för att säkra guldet men landade på omkring 97, och Tyskland gick förbi. Fyra år senare fick han revansch på hemmaplan. Vem är hopparen?"
+    },
+    "answer": "Masahiko Harada",
+    "answerKind": "person",
+    "person": {
+      "given": "Masahiko",
+      "family": "Harada"
+    },
+    "hint": {
+      "nb": "Etternavnet begynner på H, og revansjhoppet hans målte hele 137 meter.",
+      "sv": "Efternamnet börjar på H, och revanschhoppet mätte hela 137 meter."
+    },
+    "funFact": {
+      "nb": "Fire år senere lå Japan på fjerdeplass etter hans første hopp på 79,5 meter. Så kom 137-meteren, og Kazuyoshi Funaki avsluttet med 125 meter og Japans første olympiske lag-gull i skihopp.",
+      "sv": "Fyra år senare låg Japan på fjärde plats efter hans första hopp på 79,5 meter. Sedan kom 137-metershoppet, och Kazuyoshi Funaki avslutade med 125 meter och Japans första olympiska lagguld i backhoppning."
+    },
+    "source": "Den internasjonale olympiske komité; Det internasjonale skiforbundet (FIS)"
+  },
+  {
+    "id": "japan-m-08",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "I 1899 grunnla forretningsmannen Oka Jūrō Japans første moderne hvalfangstselskap. Han hadde reist rundt i Europa og Nord-Amerika for å studere metoder, og mente ett bestemt land hadde det klart beste systemet. Selskapets første hval ble i 1900 skutt av en innleid skytter derfra. Hvilket land?",
+      "sv": "År 1899 grundade affärsmannen Oka Jūrō Japans första moderna valfångstbolag. Han hade rest runt i Europa och Nordamerika för att studera metoder och ansåg att ett bestämt land hade det klart bästa systemet. Bolagets första val sköts år 1900 av en inhyrd skytt därifrån. Vilket land?"
+    },
+    "answer": "Norge",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Oka besøkte blant annet Finnmark på studieturen, og skytteren het Morten Pedersen.",
+      "sv": "Oka besökte bland annat Finnmark på studieresan, och skytten hette Morten Pedersen."
+    },
+    "funFact": {
+      "nb": "Oka regnes som den moderne japanske hvalfangstens far og ble første leder av landets hvalfangstforening i 1908. Den store forskjellen fra forbildene var at japanerne først og fremst ville ha kjøttet, ikke oljen.",
+      "sv": "Oka räknas som den moderna japanska valfångstens fader och blev första ordförande i landets valfångstförening 1908. Den stora skillnaden mot förebilderna var att japanerna framför allt ville ha köttet, inte oljan."
+    },
+    "source": "Arne Kalland og Brian Moeran, «Japanese Whaling: End of an Era?» (1992)"
+  },
+  {
+    "id": "japan-m-09",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "film",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Byen Koriko i Studio Ghiblis film fra 1989 om heksejenta Kiki er tegnet etter fotografier Hayao Miyazaki tok i Stockholm og i en havneby på Gotland – en by med bevart middelaldersk ringmur og ruiner av gamle kirker. Hvilken by er det?",
+      "sv": "Staden Koriko i Studio Ghiblis film från 1989 om häxflickan Kiki är ritad efter fotografier Hayao Miyazaki tog i Stockholm och i en hamnstad på Gotland – en stad med bevarad medeltida ringmur och ruiner av gamla kyrkor. Vilken stad är det?"
+    },
+    "answer": "Visby",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen står på Unescos verdensarvliste som hansaby, og hver sommer fylles den av politikere i Almedalen.",
+      "sv": "Staden står på Unescos världsarvslista som hansestad, och varje sommar fylls den av politiker i Almedalen."
+    },
+    "funFact": {
+      "nb": "Filmen bygger på Eiko Kadonos roman fra 1985. Arkitekturen i Koriko er en blanding, med trekk også fra Amsterdam, Paris og San Francisco.",
+      "sv": "Filmen bygger på Eiko Kadonos roman från 1985. Arkitekturen i Koriko är en blandning, med drag också från Amsterdam, Paris och San Francisco."
+    },
+    "source": "Studio Ghibli; Unesco – «Hanseatic Town of Visby»"
+  },
+  {
+    "id": "japan-m-10",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "Det svenske kvinnelandslaget i fotball gikk ubeseiret gjennom sommerlekene i Tokyo og møtte til finale på stadion i Yokohama 6. august 2021. Kampen endte 1–1, og gullet ble avgjort med 3–2 i straffesparkkonkurranse. Hvilket land vant?",
+      "sv": "Det svenska damlandslaget i fotboll gick obesegrat genom sommarspelen i Tokyo och möttes till final på arenan i Yokohama den 6 augusti 2021. Matchen slutade 1–1, och guldet avgjordes med 3–2 i straffläggning. Vilket land vann?"
+    },
+    "answer": {
+      "nb": "Canada",
+      "sv": "Kanada"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det var landets første olympiske gull i fotball etter to strake bronser, og laget spiller i rødt.",
+      "sv": "Det var landets första olympiska guld i fotboll efter två raka brons, och laget spelar i rött."
+    },
+    "funFact": {
+      "nb": "Sverige tok dermed sølv for andre olympiade på rad etter tapet i finalen i Rio i 2016. USA slo Australia 4–3 om bronsen i Tokyo.",
+      "sv": "Sverige tog därmed silver för andra olympiaden i rad efter förlusten i finalen i Rio 2016. USA slog Australien 4–3 om bronset i Tokyo."
+    },
+    "source": "FIFA; Den internasjonale olympiske komité – Tokyo 2020"
+  },
+  {
+    "id": "japan-v-01",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Etter seieren i slaget ved Sekigahara i 1600 satt han med den reelle makten, og i 1603 utnevnte keiseren ham til shogun. Regjeringssetet la han til Edo, mens keiseren ble sittende i Kyoto. Slekten hans styrte landet helt til 1868. Hvem var han?",
+      "sv": "Efter segern i slaget vid Sekigahara år 1600 satt han med den reella makten, och 1603 utnämnde kejsaren honom till shogun. Regeringssätet lade han till Edo, medan kejsaren blev kvar i Kyoto. Hans ätt styrde landet ända till 1868. Vem var han?"
+    },
+    "answer": "Tokugawa Ieyasu",
+    "answerKind": "person",
+    "person": {
+      "given": "Ieyasu",
+      "family": "Tokugawa"
+    },
+    "hint": {
+      "nb": "Slektsnavnet ga navn til hele epoken, og han regnes som den siste av «rikets tre samlere», etter Oda Nobunaga og Toyotomi Hideyoshi.",
+      "sv": "Släktnamnet gav namn åt hela epoken, och han räknas som den siste av «rikets tre enare», efter Oda Nobunaga och Toyotomi Hideyoshi."
+    },
+    "funFact": {
+      "nb": "Han trakk seg formelt som shogun allerede i 1605, men beholdt den virkelige kontrollen til han døde i 1616. Edo byttet navn til Tokyo i 1868.",
+      "sv": "Han avgick formellt som shogun redan 1605 men behöll den verkliga kontrollen till sin död 1616. Edo bytte namn till Tokyo 1868."
+    },
+    "source": "The Metropolitan Museum of Art – Heilbrunn Timeline of Art History; Encyclopaedia Britannica"
+  },
+  {
+    "id": "japan-v-02",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "En hoffdame ved keiserhoffet i Heian-tidens Kyoto skrev tidlig på 1000-tallet en fortelling i 54 kapitler om en keisersønn og hans kjærlighetsliv, med rundt 400 personer og en handling som spenner over flere tiår. Verket kalles ofte verdens første roman. Hva heter det?",
+      "sv": "En hovdam vid kejsarhovet i Heiantidens Kyoto skrev i början av 1000-talet en berättelse i 54 kapitel om en kejsarson och hans kärleksliv, med omkring 400 personer och en handling som spänner över flera decennier. Verket kallas ofta världens första roman. Vad heter det?"
+    },
+    "answer": {
+      "nb": "Fortellingen om Genji",
+      "sv": "Berättelsen om Genji"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forfatteren er kjent som Murasaki Shikibu, og hovedpersonen kalles «den skinnende prinsen».",
+      "sv": "Författaren är känd som Murasaki Shikibu, och huvudpersonen kallas «den lysande prinsen»."
+    },
+    "funFact": {
+      "nb": "«Murasaki Shikibu» er ikke et virkelig navn: Shikibu viser til farens embete ved seremonidepartementet, mens Murasaki trolig er hentet fra en av kvinneskikkelsene i verket.",
+      "sv": "«Murasaki Shikibu» är inget verkligt namn: Shikibu syftar på faderns ämbete vid ceremonidepartementet, medan Murasaki troligen är hämtat från en av kvinnogestalterna i verket."
+    },
+    "source": "The Metropolitan Museum of Art; The British Library"
+  },
+  {
+    "id": "japan-v-03",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "arkitektur",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "I nordvestre Kyoto ligger et zen-tempel med en berømt tørrhage: bare grus, mose og femten steiner lagt i fem grupper. Fra verandaen er det umulig å se alle femten samtidig – minst én stein er alltid skjult bak en annen. Hva heter tempelet?",
+      "sv": "I nordvästra Kyoto ligger ett zentempel med en berömd torrträdgård: bara grus, mossa och femton stenar lagda i fem grupper. Från verandan är det omöjligt att se alla femton samtidigt – minst en sten är alltid dold bakom en annan. Vad heter templet?"
+    },
+    "answer": "Ryōan-ji",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr omtrent «dragefredens tempel», og endelsen -ji betyr nettopp tempel.",
+      "sv": "Namnet betyder ungefär «drakfredens tempel», och ändelsen -ji betyder just tempel."
+    },
+    "funFact": {
+      "nb": "Hagetypen kalles kare-sansui, «tørt fjell og vann», der raket grus antyder vann. Anlegget inngår i Unescos verdensarv over historiske minnesmerker i det gamle Kyoto.",
+      "sv": "Trädgårdstypen kallas kare-sansui, «torrt berg och vatten», där krattat grus antyder vatten. Anläggningen ingår i Unescos världsarv över historiska monument i det gamla Kyoto."
+    },
+    "source": "Unesco – «Historic Monuments of Ancient Kyoto»"
+  },
+  {
+    "id": "japan-v-04",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "spill",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Han begynte som vedlikeholdsingeniør ved samlebåndet hos Nintendo, fant opp den flate lommekonsollen Game & Watch og sto bak den håndholdte konsollen fra 1989 med grønnlig skjerm. Filosofien hans het «sidelengs tenkning med utgått teknologi». Hvem var han?",
+      "sv": "Han började som underhållsingenjör vid löpande bandet hos Nintendo, uppfann den platta fickkonsolen Game & Watch och stod bakom den handhållna konsolen från 1989 med grönaktig skärm. Hans filosofi hette «lateralt tänkande med utgången teknik». Vem var han?"
+    },
+    "answer": "Gunpei Yokoi",
+    "answerKind": "person",
+    "person": {
+      "given": "Gunpei",
+      "family": "Yokoi"
+    },
+    "hint": {
+      "nb": "Etternavnet begynner på Y, og han var også produsent for de første Metroid-spillene.",
+      "sv": "Efternamnet börjar på Y, och han var också producent för de första Metroid-spelen."
+    },
+    "funFact": {
+      "nb": "Poenget med filosofien var at billig, velprøvd teknologi satt sammen på nye måter slår dyre nyvinninger. Konsollen fra 1989 hadde svakere skjerm enn konkurrentene, men holdt langt lenger på batteriene.",
+      "sv": "Poängen med filosofin var att billig, beprövad teknik satt samman på nya sätt slår dyra nymodigheter. Konsolen från 1989 hade sämre skärm än konkurrenterna men höll långt längre på batterierna."
+    },
+    "source": "Nintendo Co., Ltd.; «Yokoi Gunpei Game House» (1997)"
+  },
+  {
+    "id": "japan-v-05",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "kongehus",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Da keiser Akihito abdiserte 30. april 2019 og sønnen Naruhito besteg tronen dagen etter, fikk Japan en ny æra. For første gang var navnet hentet fra japansk litteratur – diktsamlingen Man'yōshū fra 700-tallet – og ikke fra kinesiske klassikere. Hva heter æraen?",
+      "sv": "När kejsar Akihito abdikerade den 30 april 2019 och sonen Naruhito besteg tronen dagen därpå fick Japan en ny era. För första gången hämtades namnet ur japansk litteratur – diktsamlingen Man'yōshū från 700-talet – och inte ur kinesiska klassiker. Vad heter eran?"
+    },
+    "answer": "Reiwa",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet skrives med to tegn, og det siste er det samme «wa» som betyr harmoni eller fred.",
+      "sv": "Namnet skrivs med två tecken, och det sista är samma «wa» som betyder harmoni eller fred."
+    },
+    "funFact": {
+      "nb": "Japanske årstall regnes fortsatt etter æra, så 2019 var både år 31 i den forrige og år 1 i den nye. Akihito var den første japanske keiseren som abdiserte på over to hundre år.",
+      "sv": "Japanska årtal räknas fortfarande efter era, så 2019 var både år 31 i den förra och år 1 i den nya. Akihito var den förste japanske kejsaren som abdikerade på över tvåhundra år."
+    },
+    "source": "Japans regjering (Kantei) – kunngjøringen 1. april 2019; Imperial Household Agency"
+  },
+  {
+    "id": "japan-v-06",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Mens Amundsen og Scott kappedes om Sydpolen, sendte også Japan en ekspedisjon sørover, med skipet Kainan Maru. I januar 1912 lå det i Hvalbukta samtidig med «Fram», og to norske offiserer kom om bord på visitt. Hvem ledet den japanske ekspedisjonen?",
+      "sv": "Medan Amundsen och Scott tävlade om Sydpolen sände även Japan en expedition söderut, med fartyget Kainan Maru. I januari 1912 låg det i Valbukten samtidigt med «Fram», och två norska officerare kom ombord på visit. Vem ledde den japanska expeditionen?"
+    },
+    "answer": "Nobu Shirase",
+    "answerKind": "person",
+    "person": {
+      "given": "Nobu",
+      "family": "Shirase"
+    },
+    "hint": {
+      "nb": "Etternavnet begynner på S, og både en kystlinje og en isbre i Antarktis er oppkalt etter ham.",
+      "sv": "Efternamnet börjar på S, och både en kustlinje och en glaciär i Antarktis är uppkallade efter honom."
+    },
+    "funFact": {
+      "nb": "De to nordmennene om bord var Thorvald Nilsen og Kristian Prestrud. Den japanske sledepatruljen nådde 80 grader og 5 minutter sør før den snudde.",
+      "sv": "De två norrmännen ombord var Thorvald Nilsen och Kristian Prestrud. Den japanska slädpatrullen nådde 80 grader och 5 minuter syd innan den vände."
+    },
+    "source": "Scott Polar Research Institute; Frammuseet, Oslo"
+  },
+  {
+    "id": "japan-v-07",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "litteratur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Henrik Ibsen regnes som opphavet til det moderne japanske teateret, shingeki. I 1911 fikk skuespilleren Matsui Sumako sitt gjennombrudd i Tokyo i rollen som en kvinne som til slutt forlater mann og barn og går ut døren. Hvilket skuespill var det?",
+      "sv": "Henrik Ibsen räknas som upphovet till den moderna japanska teatern, shingeki. År 1911 fick skådespelaren Matsui Sumako sitt genombrott i Tokyo i rollen som en kvinna som till slut lämnar man och barn och går ut genom dörren. Vilken pjäs var det?"
+    },
+    "answer": {
+      "nb": "Et dukkehjem",
+      "sv": "Ett dockhem"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedpersonen heter Nora Helmer, og stykket hadde urpremiere på Det Kongelige Teater i København i 1879.",
+      "sv": "Huvudpersonen heter Nora Helmer, och pjäsen hade urpremiär på Det Kongelige Teater i Köpenhamn 1879."
+    },
+    "funFact": {
+      "nb": "Folkloristen Kunio Yanagita var med på å stifte et Ibsen-selskap i Tokyo allerede i 1903, og kritikeren Hōgetsu Shimamura erklærte en egen «Ibsen-tid» i japansk kulturliv.",
+      "sv": "Folkloristen Kunio Yanagita var med och bildade ett Ibsensällskap i Tokyo redan 1903, och kritikern Hōgetsu Shimamura utropade en egen «Ibsentid» i japanskt kulturliv."
+    },
+    "source": "Senter for Ibsen-studier, Universitetet i Oslo; Encyclopaedia Britannica"
+  },
+  {
+    "id": "japan-v-08",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Han var elev av Carl von Linné i Uppsala, reiste ut som kirurg for det nederlandske ostindiske kompaniet og fikk i 1775–76 bo på den vifteformede kunstøya Dejima utenfor Nagasaki. Der samlet han planter, og i 1784 ga han ut «Flora Japonica». Hvem var svensken?",
+      "sv": "Han var elev till Carl von Linné i Uppsala, reste ut som kirurg för det holländska ostindiska kompaniet och fick 1775–76 bo på den solfjäderformade konstgjorda ön Dejima utanför Nagasaki. Där samlade han växter, och 1784 gav han ut «Flora Japonica». Vem var svensken?"
+    },
+    "answer": "Carl Peter Thunberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl Peter",
+      "family": "Thunberg"
+    },
+    "hint": {
+      "nb": "Han kalles «den japanske Linné», og etternavnet hans går igjen i latinske plantenavn som ender på -thunbergii.",
+      "sv": "Han kallas «den japanske Linné», och hans efternamn återkommer i latinska växtnamn som slutar på -thunbergii."
+    },
+    "funFact": {
+      "nb": "Før Japan tilbrakte han tre år ved Kapp det gode håp og kalles også den sørafrikanske botanikkens far. Senere ble han professor i botanikk i Uppsala.",
+      "sv": "Före Japan tillbringade han tre år vid Godahoppsudden och kallas också den sydafrikanska botanikens fader. Senare blev han professor i botanik i Uppsala."
+    },
+    "source": "Uppsala universitet – Thunbergsamlingarna; Kungliga Vetenskapsakademien"
+  },
+  {
+    "id": "japan-v-09",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I 1968 gikk nobelprisen i litteratur for første gang til en japansk forfatter. Svenska Akademien framhevet fortellerkunsten hans, og forelesningen han holdt i Stockholm het «Japan, det vakre, og jeg». Blant romanene finnes «Yukiguni» og «Sembazuru». Hvem var han?",
+      "sv": "År 1968 gick nobelpriset i litteratur för första gången till en japansk författare. Svenska Akademien lyfte fram hans berättarkonst, och föreläsningen han höll i Stockholm hette «Japan, det vackra, och jag». Bland romanerna finns «Yukiguni» och «Sembazuru». Vem var han?"
+    },
+    "answer": "Yasunari Kawabata",
+    "answerKind": "person",
+    "person": {
+      "given": "Yasunari",
+      "family": "Kawabata"
+    },
+    "hint": {
+      "nb": "Etternavnet begynner på K, og han var mentor for den yngre forfatteren Yukio Mishima.",
+      "sv": "Efternamnet börjar på K, och han var mentor för den yngre författaren Yukio Mishima."
+    },
+    "funFact": {
+      "nb": "Den neste japanske litteraturprisvinneren var Kenzaburō Ōe i 1994. Ōe kalte bevisst sin egen forelesning «Japan, det tvetydige, og jeg» – et motstykke til forgjengerens.",
+      "sv": "Nästa japanska litteraturpristagare var Kenzaburō Ōe 1994. Ōe kallade medvetet sin egen föreläsning «Japan, det tvetydiga, och jag» – en motbild till företrädarens."
+    },
+    "source": "Nobelprize.org – The Nobel Prize in Literature 1968 og 1994"
+  },
+  {
+    "id": "japan-v-10",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "sport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Japan deltok i OL for aller første gang i Stockholm i 1912, med to utøvere. Den ene brøt maratonløpet i varmen, reiste hjem uten å si fra til noen, og ble stående som savnet i svenske papirer i femti år. I 1967 fullførte han endelig løpet. Hvem var han?",
+      "sv": "Japan deltog i OS för allra första gången i Stockholm 1912, med två deltagare. Den ene bröt maratonloppet i värmen, reste hem utan att säga till någon och stod kvar som försvunnen i svenska papper i femtio år. År 1967 fullbordade han äntligen loppet. Vem var han?"
+    },
+    "answer": "Shizo Kanakuri",
+    "answerKind": "person",
+    "person": {
+      "given": "Shizo",
+      "family": "Kanakuri"
+    },
+    "hint": {
+      "nb": "Etternavnet begynner på K, og han regnes som maratonløpingens far i Japan.",
+      "sv": "Efternamnet börjar på K, och han räknas som maratonlöpningens fader i Japan."
+    },
+    "funFact": {
+      "nb": "Da han krysset mållinjen i 1967, etter over 54 år, kommenterte han at det hadde vært en lang tur: underveis hadde han giftet seg, fått seks barn og ti barnebarn.",
+      "sv": "När han passerade mållinjen 1967, efter över 54 år, kommenterade han att det varit en lång resa: på vägen hade han gift sig, fått sex barn och tio barnbarn."
+    },
+    "source": "Den internasjonale olympiske komité – Stockholm 1912; Sveriges Olympiska Kommitté"
+  }
+]

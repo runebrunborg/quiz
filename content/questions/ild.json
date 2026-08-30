@@ -1,0 +1,779 @@
+[
+  {
+    "id": "ild-l-01",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Fastlands-Europas eneste aktive vulkan reiser seg 1281 meter sørøst for Napoli, og jorda rundt den er så fruktbar at folk har bodd tett inntil den i årtusener. I år 79 begravde et utbrudd byene Pompeii og Herculaneum under aske. Hvilket fjell er det?",
+      "sv": "Fastlandseuropas enda aktiva vulkan reser sig 1281 meter sydost om Neapel, och jorden runt den är så bördig att människor har bott tätt intill den i årtusenden. År 79 begravde ett utbrott städerna Pompeji och Herculaneum under aska. Vilket berg är det?"
+    },
+    "answer": {
+      "nb": "Vesuv",
+      "sv": "Vesuvius"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Utbrudd der en søyle av aske står rett til værs, kalles plinske – etter romeren som beskrev nettopp dette utbruddet i brev.",
+      "sv": "Utbrott där en pelare av aska står rakt upp kallas plinianska – efter romaren som beskrev just detta utbrott i brev."
+    },
+    "funFact": {
+      "nb": "Plinius den yngre skildret utbruddet i to brev til historikeren Tacitus. Vulkanen er en stratovulkan, bygd opp av vekslende lag av lava og aske, og har hatt mange utbrudd siden år 79.",
+      "sv": "Plinius den yngre skildrade utbrottet i två brev till historikern Tacitus. Vulkanen är en stratovulkan, uppbyggd av växlande lager av lava och aska, och har haft många utbrott sedan år 79."
+    },
+    "source": "Store norske leksikon – Vesuv; Encyclopaedia Britannica – Vesuvius"
+  },
+  {
+    "id": "ild-l-02",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Ifølge gresk mytologi var han titanen som stjal ilden fra gudene og ga den til menneskene. Straffen var å bli lenket til et fjell, der en ørn hakket i ham dag etter dag, helt til Herakles kom forbi og befridde ham. Hva het han?",
+      "sv": "Enligt grekisk mytologi var han titanen som stal elden från gudarna och gav den till människorna. Straffet var att bli fastkedjad vid ett berg, där en örn hackade i honom dag efter dag, tills Herakles kom förbi och befriade honom. Vad hette han?"
+    },
+    "answer": "Prometheus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr «den som tenker på forhånd», og han regnes som den klokeste av titanene.",
+      "sv": "Namnet betyder «den som tänker i förväg», och han räknas som den klokaste av titanerna."
+    },
+    "funFact": {
+      "nb": "Skrjabin skrev orkesterverket «Prometheus – Le Poème du feu» i 1910, med en egen fargeklaviatur i partituret. I flere versjoner av myten er det også Prometheus som former de første menneskene av leire.",
+      "sv": "Skrjabin skrev orkesterverket «Prometheus – Le Poème du feu» 1910, med ett eget färgklaviatur i partituret. I flera versioner av myten är det också Prometheus som formar de första människorna av lera."
+    },
+    "source": "Encyclopaedia Britannica – Prometheus; Store norske leksikon – Prometheus"
+  },
+  {
+    "id": "ild-l-03",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Noen måneder før hvert OL samles kvinner i antikke drakter blant ruinene av Heras tempel og tenner ilden med sollys som samles i et parabolspeil. Stedet er det samme som der de antikke lekene ble holdt. Hvilken gresk by er det?",
+      "sv": "Några månader före varje OS samlas kvinnor i antika dräkter bland ruinerna av Heras tempel och tänder elden med solljus som samlas i en parabolspegel. Platsen är densamma som där de antika spelen hölls. Vilken grekisk stad är det?"
+    },
+    "answer": "Olympia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger på halvøya Peloponnes i Vest-Hellas, og utgravningsfeltet står på Unescos verdensarvliste.",
+      "sv": "Staden ligger på halvön Peloponnesos i västra Grekland, och utgrävningsfältet står på Unescos världsarvslista."
+    },
+    "funFact": {
+      "nb": "Er det for overskyet til at speilet virker, brukes en reserveflamme som ble tent under generalprøven – slik det måtte gjøres i 2024. Kvinnene er kledd for å minne om de romerske vestalinnene.",
+      "sv": "Är det för molnigt för att spegeln ska fungera används en reservlåga som tändes under generalrepetitionen – som det fick göras 2024. Kvinnorna är klädda för att påminna om de romerska vestalerna."
+    },
+    "source": "Den internasjonale olympiske komité (IOC) – Olympic flame"
+  },
+  {
+    "id": "ild-l-04",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Krutt er en blanding av salpeter, svovel og trekull. Den eldste kjente kjemiske oppskriften ble nedskrevet på 1000-tallet, lenge før stoffet nådde Europa, og både fyrverkeriet og de første kruttvåpnene ble utviklet i samme land. Hvilket land er det?",
+      "sv": "Krut är en blandning av salpeter, svavel och träkol. Det äldsta kända kemiska receptet skrevs ned på 1000-talet, långt innan ämnet nådde Europa, och både fyrverkeriet och de första krutvapnen utvecklades i samma land. Vilket land är det?"
+    },
+    "answer": "Kina",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet for krutt på landets språk, huoyao, betyr «ildmedisin» – oppfinnelsen kom ut av alkymistenes laboratorier.",
+      "sv": "Ordet för krut på landets språk, huoyao, betyder «eldmedicin» – uppfinningen kom ur alkemisternas laboratorier."
+    },
+    "funFact": {
+      "nb": "Krutt regnes som oppfunnet mot slutten av Tang-dynastiet på 800-tallet. Smellene fra bambusrør fylt med krutt var lenge minst like viktige som lyset – lyden skulle skremme bort ulykke.",
+      "sv": "Krut räknas som uppfunnet mot slutet av Tangdynastin på 800-talet. Smällarna från bamburör fyllda med krut var länge minst lika viktiga som ljuset – ljudet skulle skrämma bort olycka."
+    },
+    "source": "Encyclopaedia Britannica – gunpowder"
+  },
+  {
+    "id": "ild-l-05",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "film"
+    ],
+    "prompt": {
+      "nb": "I Tolkiens roman fra 1937 har en drage tatt over dvergenes fjellrike Erebor og ligger på gullskatten deres. Til slutt treffer Bard Bueskytter med sin siste pil det ene stedet på buken som mangler skjold. Hva heter dragen?",
+      "sv": "I Tolkiens roman från 1937 har en drake tagit över dvärgarnas bergsrike Erebor och ligger på deras guldskatt. Till slut träffar Bard Bågskytt med sin sista pil det enda stället på buken som saknar sköld. Vad heter draken?"
+    },
+    "answer": "Smaug",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "En trost overhørte Bilbo fortelle om det bare stedet, og fløy til bueskytteren med opplysningen.",
+      "sv": "En trast hörde Bilbo berätta om det bara stället och flög till bågskytten med uppgiften."
+    },
+    "funFact": {
+      "nb": "Tolkien forklarte selv navnet som fortidsformen av det germanske verbet «smugan», «å presse seg gjennom et hull», og kalte det «en lav filologisk spøk». Dragen hadde da holdt fjellet i om lag 150 år.",
+      "sv": "Tolkien förklarade själv namnet som dåtidsformen av det germanska verbet «smugan», «att tränga sig genom ett hål», och kallade det «ett lågt filologiskt skämt». Draken hade då hållit berget i omkring 150 år."
+    },
+    "source": "J.R.R. Tolkien: «Hobbiten» (1937); Tolkiens brev nr. 25"
+  },
+  {
+    "id": "ild-l-06",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Branntrekanten er brannvesenets enkleste modell: en flamme trenger varme, brensel og ett element til. Fjernes ett av de tre, slokner ilden – det er derfor et lokk over en gryte kveler flammen. Hvilket stoff i lufta er det tredje?",
+      "sv": "Brandtriangeln är brandkårens enklaste modell: en låga behöver värme, bränsle och ett element till. Tas ett av de tre bort slocknar elden – det är därför ett lock över en gryta kväver lågan. Vilket ämne i luften är det tredje?"
+    },
+    "answer": {
+      "nb": "Oksygen",
+      "sv": "Syre"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stoffet utgjør omtrent 21 prosent av lufta og har grunnstoffsymbolet O.",
+      "sv": "Ämnet utgör omkring 21 procent av luften och har grundämnessymbolen O."
+    },
+    "funFact": {
+      "nb": "Utvider man modellen med en fjerde faktor, selve den kjemiske kjedereaksjonen, får man branntetraederet. Pulverapparater virker nettopp ved å bryte kjedereaksjonen i stedet for å fjerne varme eller luft.",
+      "sv": "Utvidgar man modellen med en fjärde faktor, själva den kemiska kedjereaktionen, får man brandtetraedern. Pulversläckare verkar just genom att bryta kedjereaktionen i stället för att ta bort värme eller luft."
+    },
+    "source": "National Fire Protection Association (NFPA) – fire triangle og fire tetrahedron"
+  },
+  {
+    "id": "ild-l-07",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Norge har tre nasjonale nødnumre, ett for hver nødetat. Politiet svarer på 112, som også er felles nødnummer i hele EU, og medisinsk nødhjelp har 113. Hvilket nummer ringer man når det brenner?",
+      "sv": "Norge har tre nationella nödnummer, ett för varje blåljusmyndighet. Polisen svarar på 112, som också är gemensamt nödnummer i hela EU, och medicinsk nödhjälp har 113. Vilket nummer ringer man när det brinner?"
+    },
+    "answer": "110",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er det laveste av de tre numrene.",
+      "sv": "Det är det lägsta av de tre numren."
+    },
+    "funFact": {
+      "nb": "Sverige har til sammenligning 112 som eneste nødnummer for alle etater. I Norge går de tre numrene til hver sin type nødsentral.",
+      "sv": "Sverige har i jämförelse 112 som enda nödnummer för alla myndigheter. I Norge går de tre numren till var sin typ av larmcentral."
+    },
+    "source": "Store norske leksikon – nødnummer"
+  },
+  {
+    "id": "ild-l-08",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Natt til 23. januar 1904 brant rundt 850 hus ned i en norsk trehusby mens stormen raste. Den tyske keiseren Wilhelm 2. sendte tre skip med forsyninger, og byen ble gjenreist i mur og jugendstil. Hvilken by er det?",
+      "sv": "Natten till den 23 januari 1904 brann omkring 850 hus ner i en norsk trästad medan stormen rasade. Den tyske kejsaren Wilhelm II skickade tre fartyg med förnödenheter, och staden återuppbyggdes i sten och jugendstil. Vilken stad är det?"
+    },
+    "answer": "Ålesund",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger på Sunnmøre, og den mest kjente utsikten er fra fjellet Aksla.",
+      "sv": "Staden ligger i Sunnmøre, och den mest kända utsikten är från berget Aksla."
+    },
+    "funFact": {
+      "nb": "Stortinget innførte murtvang innenfor bygrensen, og det meste var gjenreist i 1907. I dag ligger Jugendstilsenteret, Norges museum for art nouveau, midt i det gjenoppbygde sentrum.",
+      "sv": "Stortinget införde stenbyggnadstvång innanför stadsgränsen, och det mesta var återuppbyggt 1907. I dag ligger Jugendstilsenteret, Norges museum för art nouveau, mitt i det återuppbyggda centrumet."
+    },
+    "source": "Store norske leksikon – Ålesundsbrannen"
+  },
+  {
+    "id": "ild-l-09",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Siden 1966 har en svensk by reist en 13 meter høy julebukk av halm på torget når adventstiden begynner. Godt over halvparten av bukkene har gjennom årene endt som aske eller på annet vis blitt ødelagt. Hvilken by er det?",
+      "sv": "Sedan 1966 har en svensk stad rest en 13 meter hög julbock av halm på torget när adventstiden börjar. Långt över hälften av bockarna har genom åren slutat som aska eller på annat sätt blivit förstörda. Vilken stad är det?"
+    },
+    "answer": "Gävle",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger i Gästrikland ved Bottenhavet, og det latinske navnet på byen er blitt navnet på en kjent svensk kaffesort.",
+      "sv": "Staden ligger i Gästrikland vid Bottenhavet, och stadens latinska namn har blivit namnet på en känd svensk kaffesort."
+    },
+    "funFact": {
+      "nb": "Bukken står på Slottstorget og bygges i dag av lokale foreninger. Brannvesenet i byen bygde den selv i flere lange perioder, blant annet de fem første årene.",
+      "sv": "Bocken står på Slottstorget och byggs i dag av lokala föreningar. Brandkåren i staden byggde den själv under flera långa perioder, bland annat de fem första åren."
+    },
+    "source": "Gävle kommun – Gävlebocken"
+  },
+  {
+    "id": "ild-l-10",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "religion",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Om kvelden 30. april tenner svensker store bål, synger vårsanger i kor, og studentene i Uppsala og Lund tar på seg de hvite studentluene. Kvelden har navn etter en engelskfødt abbedisse fra 700-tallet. Hva heter kvelden?",
+      "sv": "På kvällen den 30 april tänder svenskar stora brasor, sjunger vårsånger i kör, och studenterna i Uppsala och Lund sätter på sig de vita studentmössorna. Kvällen har namn efter en engelskfödd abbedissa från 700-talet. Vad heter kvällen?"
+    },
+    "answer": {
+      "nb": "Valborgsmesseaften",
+      "sv": "Valborgsmässoafton"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Helgenens navn er også et vanlig svensk kvinnenavn, og dagen etter er første mai.",
+      "sv": "Helgonets namn är också ett vanligt svenskt kvinnonamn, och dagen efter är första maj."
+    },
+    "funFact": {
+      "nb": "Bålene har vært svensk skikk minst siden tidlig på 1700-tallet, opprinnelig for å skremme rovdyr når buskapen ble sluppet på beite. Helgenens minnedag ble 1. mai etter at relikviene hennes ble flyttet til Eichstätt i 870.",
+      "sv": "Brasorna har varit svensk sed åtminstone sedan tidigt 1700-tal, ursprungligen för att skrämma rovdjur när boskapen släpptes på bete. Helgonets minnesdag blev 1 maj sedan hennes reliker flyttats till Eichstätt år 870."
+    },
+    "source": "Nordiska museet – Valborgsmässoafton"
+  },
+  {
+    "id": "ild-m-01",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Utbruddet i 1815 er det kraftigste som er observert i historisk tid, og slynget rundt 100 kubikkilometer materiale ut i atmosfæren. Svovelsløret som ble liggende igjen ga Europa og Nord-Amerika «året uten sommer» året etter. Hvilket indonesisk fjell er det?",
+      "sv": "Utbrottet 1815 är det kraftigaste som observerats i historisk tid och slungade ut omkring 100 kubikkilometer material i atmosfären. Svavelslöjan som blev kvar gav Europa och Nordamerika «året utan sommar» året därpå. Vilket indonesiskt berg är det?"
+    },
+    "answer": "Tambora",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vulkanen ligger på øya Sumbawa i Små Sundaøyene, øst for Lombok.",
+      "sv": "Vulkanen ligger på ön Sumbawa i Små Sundaöarna, öster om Lombok."
+    },
+    "funFact": {
+      "nb": "Utbruddet er satt til 7 på vulkanenes eksplosivitetsskala. Den kalde og regnfulle sommeren 1816 holdt Mary Shelley innendørs ved Genèvesjøen, der hun begynte på «Frankenstein».",
+      "sv": "Utbrottet är satt till 7 på vulkanernas explosivitetsskala. Den kalla och regniga sommaren 1816 höll Mary Shelley inomhus vid Genèvesjön, där hon började på «Frankenstein»."
+    },
+    "source": "Smithsonian Institution, Global Volcanism Program – Tambora"
+  },
+  {
+    "id": "ild-m-02",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "mytologi",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "I Roma brant det en evig ild i et rundt tempel på Forum, passet av prestinner som siden er blitt selve bildet på plikttroskap. Ilden ble slokket og tent på nytt hver 1. mars, og at den sloknet ellers var et dårlig varsel. Hvilken gudinne?",
+      "sv": "I Rom brann en evig eld i ett runt tempel på Forum, skött av prästinnor som sedan blivit själva bilden av plikttrohet. Elden släcktes och tändes på nytt varje 1 mars, och att den slocknade i övrigt var ett dåligt omen. Vilken gudinna?"
+    },
+    "answer": "Vesta",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det greske motstykket heter Hestia, og begge rådde over arnen i huset.",
+      "sv": "Den grekiska motsvarigheten heter Hestia, och båda rådde över härden i huset."
+    },
+    "funFact": {
+      "nb": "Prestinnene kalles vestalinner etter henne. Ilden på arnen var vanskelig å skaffe i tidlig romersk tid, og derfor fikk gudinnen plass både i familiekulten og i statskulten.",
+      "sv": "Prästinnorna kallas vestaler efter henne. Elden på härden var svår att skaffa i tidig romersk tid, och därför fick gudinnan plats både i familjekulten och i statskulten."
+    },
+    "source": "Encyclopaedia Britannica – Vesta"
+  },
+  {
+    "id": "ild-m-03",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Da brannen i London herjet i september 1666, gikk over 80 sognekirker og den gamle katedralen tapt. Mannen som fikk oppdraget med å tegne den nye St Paul's Cathedral, tegnet også en lang rekke av de nye sognekirkene i byen. Hvem var han?",
+      "sv": "När branden i London härjade i september 1666 gick över 80 församlingskyrkor och den gamla katedralen förlorade. Mannen som fick uppdraget att rita den nya St Paul's Cathedral ritade också en lång rad av de nya församlingskyrkorna i staden. Vem var han?"
+    },
+    "answer": "Christopher Wren",
+    "answerKind": "person",
+    "person": {
+      "given": "Christopher",
+      "family": "Wren"
+    },
+    "hint": {
+      "nb": "Etternavnet hans er det engelske ordet for fuglen gjerdesmett.",
+      "sv": "Hans efternamn är det engelska ordet för fågeln gärdsmyg."
+    },
+    "funFact": {
+      "nb": "Før han ble arkitekt var han professor i astronomi i Oxford. Gravskriften hans i katedralen lyder «Lector, si monumentum requiris, circumspice» – «Leser, søker du hans minnesmerke, se deg omkring».",
+      "sv": "Innan han blev arkitekt var han professor i astronomi i Oxford. Hans gravskrift i katedralen lyder «Lector, si monumentum requiris, circumspice» – «Läsare, söker du hans minnesmärke, se dig omkring»."
+    },
+    "source": "St Paul's Cathedral; Encyclopaedia Britannica – Christopher Wren"
+  },
+  {
+    "id": "ild-m-04",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Ilden i seg selv dukket opp i olympisk sammenheng allerede i 1928, men å bære den fra Hellas til vertsbyen var en nyere idé. Den aller første fakkelstafetten gikk i 1936, over 3187 kilometer og med 3331 løpere på drøyt tolv dager. Hvilken by var mål?",
+      "sv": "Elden i sig dök upp i olympiskt sammanhang redan 1928, men att bära den från Grekland till värdstaden var en nyare idé. Den allra första facklöpningen gick 1936, över 3187 kilometer och med 3331 löpare på drygt tolv dagar. Vilken stad var mål?"
+    },
+    "answer": "Berlin",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sommerlekene det året ble holdt i Tyskland.",
+      "sv": "Sommarspelen det året hölls i Tyskland."
+    },
+    "funFact": {
+      "nb": "Ideen kom fra Carl Diem i arrangementskomiteen. Den aller første fakkeltenningen fant sted i Olympia 20. juli 1936, og selve ilden hadde da vært en del av lekene siden Amsterdam-OL i 1928.",
+      "sv": "Idén kom från Carl Diem i arrangörskommittén. Den allra första facktändningen ägde rum i Olympia den 20 juli 1936, och själva elden hade då varit en del av spelen sedan OS i Amsterdam 1928."
+    },
+    "source": "Den internasjonale olympiske komité (IOC) – the Olympic torch relay"
+  },
+  {
+    "id": "ild-m-05",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "mytologi",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I norrøn mytologi vokter en jotun den glødende verdenen Muspelheim med et flammende sverd, og ved ragnarok rir han fram og setter verden i brann. I 1963 vokste det opp en ny øy av havet sør for Island, og den fikk navn etter ham. Hva heter jotunen?",
+      "sv": "I fornnordisk mytologi vaktar en jätte den glödande världen Muspelheim med ett flammande svärd, och vid ragnarök rider han fram och sätter världen i brand. År 1963 växte en ny ö upp ur havet söder om Island och fick namn efter honom. Vad heter jätten?"
+    },
+    "answer": "Surt",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr «den svarte», og øya heter det samme med den islandske endelsen for «øy».",
+      "sv": "Namnet betyder «den svarte», och ön heter detsamma med den isländska ändelsen för «ö»."
+    },
+    "funFact": {
+      "nb": "Utbruddet som skapte øya Surtsey begynte 130 meter under havflaten og nådde overflaten 14. november 1963. Øya er fredet og bare åpen for forskere, og kom på Unescos verdensarvliste i 2008.",
+      "sv": "Utbrottet som skapade ön Surtsey började 130 meter under havsytan och nådde ytan den 14 november 1963. Ön är fridlyst och bara öppen för forskare, och kom med på Unescos världsarvslista 2008."
+    },
+    "source": "Store norske leksikon – Surt; UNESCO World Heritage Centre – Surtsey"
+  },
+  {
+    "id": "ild-m-06",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Romanen fra 1953 handler om brannmenn som ikke slokker branner, men brenner bøker, og om Guy Montag, som etter hvert begynner å tvile på jobben sin. Tittelen er temperaturen der papir tar fyr, oppgitt i fahrenheit. Hvem skrev boka?",
+      "sv": "Romanen från 1953 handlar om brandmän som inte släcker bränder utan bränner böcker, och om Guy Montag, som så småningom börjar tvivla på sitt jobb. Titeln är temperaturen där papper fattar eld, angiven i fahrenheit. Vem skrev boken?"
+    },
+    "answer": "Ray Bradbury",
+    "answerKind": "person",
+    "person": {
+      "given": "Ray",
+      "family": "Bradbury"
+    },
+    "hint": {
+      "nb": "Den amerikanske forfatteren står også bak novellesamlingen «The Martian Chronicles».",
+      "sv": "Den amerikanske författaren står också bakom novellsamlingen «The Martian Chronicles»."
+    },
+    "funFact": {
+      "nb": "Forfatteren ringte brannvesenet i Los Angeles for å spørre ved hvilken temperatur papir antenner, og fikk til svar 451 grader fahrenheit. Selv holdt han fast ved at boka først og fremst handler om fjernsyn som fortrenger lesing.",
+      "sv": "Författaren ringde brandkåren i Los Angeles för att fråga vid vilken temperatur papper antänds och fick till svar 451 grader Fahrenheit. Själv höll han fast vid att boken framför allt handlar om televisionen som tränger undan läsandet."
+    },
+    "source": "Ray Bradbury: «Fahrenheit 451» (Ballantine Books, 1953)"
+  },
+  {
+    "id": "ild-m-07",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Fjellet reiser seg om lag fem kilometer fra havbunnen, og den høyeste toppen heter Haakon VII Topp. Det er Norges eneste aktive vulkan, 2272 meter over havet, og regnes som verdens nordligste aktive vulkan. Siste utbrudd var i 1985. Hva heter fjellet?",
+      "sv": "Berget reser sig omkring fem kilometer från havsbotten, och den högsta toppen heter Haakon VII Topp. Det är Norges enda aktiva vulkan, 2272 meter över havet, och räknas som världens nordligaste aktiva vulkan. Senaste utbrottet var 1985. Vad heter berget?"
+    },
+    "answer": "Beerenberg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vulkanen dekker nordenden av øya Jan Mayen, og navnet er nederlandsk.",
+      "sv": "Vulkanen täcker norra delen av ön Jan Mayen, och namnet är nederländskt."
+    },
+    "funFact": {
+      "nb": "Vulkanen har hatt seks kjente utbrudd siden 1732. Utbruddet i 1985 varte i 30–40 timer og åpnet en sprekk på om lag én kilometer. I klarvær kan fjellet ses over hundre nautiske mil unna.",
+      "sv": "Vulkanen har haft sex kända utbrott sedan 1732. Utbrottet 1985 varade i 30–40 timmar och öppnade en spricka på ungefär en kilometer. I klart väder kan berget ses över hundra nautiska mil bort."
+    },
+    "source": "Store norske leksikon – Beerenberg"
+  },
+  {
+    "id": "ild-m-08",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Høsten 1889 la nesten 370 kvinnelige arbeidere ved to fyrstikkfabrikker utenfor Kristiania ned arbeidet etter at akkordlønna ble satt ned med over tjue prosent. En av landets mest kjente forfattere holdt to taler på massemøter til støtte for dem. Hvem var forfatteren?",
+      "sv": "Hösten 1889 lade nästan 370 kvinnliga arbetare vid två tändsticksfabriker utanför Kristiania ner arbetet sedan ackordslönen sänkts med över tjugo procent. En av landets mest kända författare höll två tal vid massmöten till stöd för dem. Vem var författaren?"
+    },
+    "answer": "Bjørnstjerne Bjørnson",
+    "answerKind": "person",
+    "person": {
+      "given": "Bjørnstjerne",
+      "family": "Bjørnson"
+    },
+    "hint": {
+      "nb": "Han skrev teksten til «Ja, vi elsker dette landet» og fikk Nobelprisen i litteratur i 1903.",
+      "sv": "Han skrev texten till «Ja, vi elsker dette landet» och fick Nobelpriset i litteratur 1903."
+    },
+    "funFact": {
+      "nb": "Streiken ved fabrikkene på Bryn og Grønvold endte uten at kravene ble innfridd, men lønna gikk opp fra januar 1890. Oppmerksomheten omkring streiken bidro til arbeidervernloven av 1892.",
+      "sv": "Strejken vid fabrikerna på Bryn och Grønvold slutade utan att kraven infriades, men lönen höjdes från januari 1890. Uppmärksamheten kring strejken bidrog till arbetarskyddslagen av 1892."
+    },
+    "source": "Store norske leksikon – fyrstikkarbeiderstreiken"
+  },
+  {
+    "id": "ild-m-09",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Gustaf Erik Pasch tok i 1844 patent på å flytte den farlige fosforen fra selve stikken over til strykflaten på esken. Brødrene Lundström videreutviklet ideen og bygde fabrikk i en svensk by som ble sentrum for verdens fyrstikkindustri. Hvilken by?",
+      "sv": "Gustaf Erik Pasch tog 1844 patent på att flytta det farliga fosforet från själva stickan över till plånet på asken. Bröderna Lundström vidareutvecklade idén och byggde fabrik i en svensk stad som blev centrum för världens tändsticksindustri. Vilken stad?"
+    },
+    "answer": "Jönköping",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger i sørenden av Vättern og har et eget fyrstikkmuseum i de gamle fabrikklokalene.",
+      "sv": "Staden ligger i södra änden av Vättern och har ett eget tändsticksmuseum i de gamla fabrikslokalerna."
+    },
+    "funFact": {
+      "nb": "Brødrene Johan Edvard og Carl Frans Lundström startet fabrikken rundt 1847, og alt i 1858 produserte den om lag 12 millioner esker i året. Virksomheten er en forløper for Swedish Match.",
+      "sv": "Bröderna Johan Edvard och Carl Frans Lundström startade fabriken omkring 1847, och redan 1858 producerade den ungefär 12 miljoner askar om året. Verksamheten är en föregångare till Swedish Match."
+    },
+    "source": "Tekniska museet, Stockholm – säkerhetständstickan"
+  },
+  {
+    "id": "ild-m-10",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Den 7. mai 1697 brant kongeborgen i Stockholm ned, og store deler av det svenske riksarkivet og det kongelige biblioteket gikk tapt – derfor er tidlig svensk historie vanskelig å dokumentere. Nicodemus Tessin den yngre tegnet et nytt slott på samme grunnmur. Hva het borgen?",
+      "sv": "Den 7 maj 1697 brann kungaborgen i Stockholm ner, och stora delar av det svenska riksarkivet och kungliga biblioteket gick förlorade – därför är tidig svensk historia svår att dokumentera. Nicodemus Tessin den yngre ritade ett nytt slott på samma grund. Vad hette borgen?"
+    },
+    "answer": "Tre Kronor",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er det samme som motivet i Sveriges riksvåpen og kallenavnet på det svenske herrelandslaget i ishockey.",
+      "sv": "Namnet är detsamma som motivet i Sveriges riksvapen och smeknamnet på det svenska herrlandslaget i ishockey."
+    },
+    "funFact": {
+      "nb": "Borgen skal ha blitt påbegynt av Birger Jarl på 1200-tallet og ble senere kongelig residens. Det nye Stockholms slott sto ferdig først i 1754, lenge etter at Tessin selv var død.",
+      "sv": "Borgen ska ha påbörjats av Birger jarl på 1200-talet och blev senare kunglig residens. Det nya Stockholms slott stod färdigt först 1754, långt efter att Tessin själv var död."
+    },
+    "source": "Kungliga slotten / Stockholms slott – Tre Kronor"
+  },
+  {
+    "id": "ild-v-01",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Sprekkeutbruddet som begynte 8. juni 1783 varte i åtte måneder og sendte omkring 14 kubikkilometer basaltlava ut over Sør-Island, fra en 25 kilometer lang rekke med minst 130 kratre. Tåkesløret som drev over Europa er oppkalt etter det. Hva heter sprekken?",
+      "sv": "Sprickutbrottet som började den 8 juni 1783 varade i åtta månader och sände omkring 14 kubikkilometer basaltlava ut över södra Island, från en 25 kilometer lång rad med minst 130 kratrar. Dimslöjan som drev över Europa är uppkallad efter det. Vad heter sprickan?"
+    },
+    "answer": "Laki",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kraterrekken ligger i Vatnajökull nasjonalpark, ikke langt fra Kirkjubæjarklaustur, og navnet har fire bokstaver.",
+      "sv": "Kraterraden ligger i Vatnajökulls nationalpark, inte långt från Kirkjubæjarklaustur, och namnet har fyra bokstäver."
+    },
+    "funFact": {
+      "nb": "Kraterrekken kalles på islandsk Lakagígar. Årene som fulgte kalles Móðuharðindin, «tåkeharde tider», og utbruddet regnes som en av de største lavastrømmene i historisk tid.",
+      "sv": "Kraterraden kallas på isländska Lakagígar. Åren som följde kallas Móðuharðindin, «dimhårda tider», och utbrottet räknas som en av de största lavaströmmarna i historisk tid."
+    },
+    "source": "Smithsonian Institution, Global Volcanism Program – Grímsvötn/Lakagígar"
+  },
+  {
+    "id": "ild-v-02",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "På 1700-tallet forklarte kjemikerne forbrenning med at brennbare stoffer inneholdt et eget, stofflignende prinsipp som ble frigjort når noe brant. Georg Ernst Stahl ga det navn rundt år 1700, men teorien falt da metaller viste seg å bli tyngre av å brenne. Hva het prinsippet?",
+      "sv": "På 1700-talet förklarade kemisterna förbränning med att brännbara ämnen innehöll en egen, ämnesliknande princip som frigjordes när något brann. Georg Ernst Stahl gav den namn omkring år 1700, men teorin föll när metaller visade sig bli tyngre av att brinna. Vad hette principen?"
+    },
+    "answer": "Flogiston",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet kommer av det greske for «brent», og teorien ble avlivet av Antoine Lavoisier.",
+      "sv": "Ordet kommer av det grekiska för «bränd», och teorin avlivades av Antoine Lavoisier."
+    },
+    "funFact": {
+      "nb": "Johann Joachim Becher kalte prinsippet «terra pinguis» i 1667, før Stahl døpte det om. Lavoisier viste med veiing i lukkede kar at forbrenning krever en gass med masse, og teorien var forlatt før år 1800.",
+      "sv": "Johann Joachim Becher kallade principen «terra pinguis» 1667, innan Stahl döpte om den. Lavoisier visade med vägning i slutna kärl att förbränning kräver en gas med massa, och teorin var övergiven före år 1800."
+    },
+    "source": "Encyclopaedia Britannica – phlogiston"
+  },
+  {
+    "id": "ild-v-03",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Bysantinerne forsvarte Konstantinopel med en brennende væske som ble sprøytet gjennom bronserør fra skipene, og som fortsatte å brenne på vannet. Oppskriften ble holdt så strengt hemmelig at ingen kjenner den i dag. Hva kalles dette våpenet?",
+      "sv": "Bysantinarna försvarade Konstantinopel med en brinnande vätska som sprutades genom bronsrör från fartygen och som fortsatte att brinna på vattnet. Receptet hölls så strängt hemligt att ingen känner till det i dag. Vad kallas detta vapen?"
+    },
+    "answer": {
+      "nb": "Gresk ild",
+      "sv": "Grekisk eld"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet peker mot folkeslaget vesteuropeerne forbandt bysantinerne med, ikke mot der stoffet faktisk ble laget.",
+      "sv": "Namnet pekar mot det folkslag västeuropéerna förknippade bysantinarna med, inte mot där ämnet faktiskt tillverkades."
+    },
+    "funFact": {
+      "nb": "Arkitekten Kallinikos fra Heliopolis får ofte æren for oppfinnelsen rundt år 672. Kunnskapen var delt opp mellom ulike håndverkere, slik at selv erobrede apparater ikke kunne etterlignes. Våpenet var i bruk til 1300-tallet.",
+      "sv": "Arkitekten Kallinikos från Heliopolis får ofta äran för uppfinningen omkring år 672. Kunskapen var uppdelad mellan olika hantverkare, så att inte ens erövrade apparater kunde efterliknas. Vapnet var i bruk till 1300-talet."
+    },
+    "source": "Encyclopaedia Britannica – Greek fire"
+  },
+  {
+    "id": "ild-v-04",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Midt i Karakumørkenen ligger et krater på 60–70 meter i tverrmål der naturgass har brent i flere tiår. Turistene kaller det «helvetes port», mens myndighetene har gitt det navnet «Karakums lysende». I hvilket land ligger krateret?",
+      "sv": "Mitt i Karakumöknen ligger en krater på 60–70 meter i diameter där naturgas har brunnit i flera decennier. Turisterna kallar den «helvetets port», medan myndigheterna har gett den namnet «Karakums lysande». I vilket land ligger kratern?"
+    },
+    "answer": "Turkmenistan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet er en tidligere sovjetrepublikk ved Kaspihavet, og hovedstaden heter Asjgabat.",
+      "sv": "Landet är en tidigare sovjetrepublik vid Kaspiska havet, och huvudstaden heter Asjgabat."
+    },
+    "funFact": {
+      "nb": "Krateret er rundt 30 meter dypt og ligger om lag 260 kilometer nord for hovedstaden. Nøyaktig når gassen tok fyr er uklart – arkivmaterialet er enten borte eller utilgjengelig.",
+      "sv": "Kratern är omkring 30 meter djup och ligger ungefär 260 kilometer norr om huvudstaden. Exakt när gasen antändes är oklart – arkivmaterialet är antingen borta eller otillgängligt."
+    },
+    "source": "Encyclopaedia Britannica – Darvaza gas crater"
+  },
+  {
+    "id": "ild-v-05",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "I denne religionen regnes ild og vann som redskaper for rituell renhet, og de høyeste helligdommene kalles Atash Behram, «seierens ild». Det finnes bare ni av dem i verden – åtte i India og én i Iran. Hvilken religion er det?",
+      "sv": "I denna religion räknas eld och vatten som redskap för rituell renhet, och de högsta helgedomarna kallas Atash Behram, «segerns eld». Det finns bara nio av dem i världen – åtta i Indien och en i Iran. Vilken religion är det?"
+    },
+    "answer": {
+      "nb": "Zoroastrisme",
+      "sv": "Zoroastrism"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Religionen oppsto i det gamle Persia, og tilhengerne i India kalles parsere.",
+      "sv": "Religionen uppstod i det gamla Persien, och anhängarna i Indien kallas parser."
+    },
+    "funFact": {
+      "nb": "Profeten er kjent som Zarathustra eller Zoroaster, og den høyeste guden heter Ahura Mazda. Åtte av de ni helligdommene ligger i India, i byene Udvada, Navsari, Surat og Mumbai.",
+      "sv": "Profeten är känd som Zarathustra eller Zoroaster, och den högsta guden heter Ahura Mazda. Åtta av de nio helgedomarna ligger i Indien, i städerna Udvada, Navsari, Surat och Mumbai."
+    },
+    "source": "Encyclopaedia Britannica – Zoroastrianism"
+  },
+  {
+    "id": "ild-v-06",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Countrylåten fra 1963 med de meksikanskinspirerte trompetene ble først spilt inn av Anita Carter året før, uten å slå an. Merle Kilgore skrev den sammen med en kvinne som noen år senere giftet seg med sangeren som gjorde låten til en verdensslager. Hvem var hun?",
+      "sv": "Countrylåten från 1963 med de mexikanskinspirerade trumpeterna spelades först in av Anita Carter året innan, utan att slå igenom. Merle Kilgore skrev den tillsammans med en kvinna som några år senare gifte sig med sångaren som gjorde låten till en världshit. Vem var hon?"
+    },
+    "answer": "June Carter",
+    "answerKind": "person",
+    "person": {
+      "given": "June",
+      "family": "Carter"
+    },
+    "hint": {
+      "nb": "Hun var storesøster til Anita, og ektemannen kalte seg «the Man in Black».",
+      "sv": "Hon var storasyster till Anita, och maken kallade sig «the Man in Black»."
+    },
+    "funFact": {
+      "nb": "Låten er «Ring of Fire». Johnny Cash fortalte at han hadde drømt at sangen skulle ha meksikanske horn, inspirert av Herb Alperts «The Lonely Bull» fra 1962. De to giftet seg i 1968.",
+      "sv": "Låten är «Ring of Fire». Johnny Cash berättade att han hade drömt att sången skulle ha mexikanska horn, inspirerad av Herb Alperts «The Lonely Bull» från 1962. De två gifte sig 1968."
+    },
+    "source": "Columbia Records – Johnny Cash: «Ring of Fire» (1963); Anita Carter: «Folk Songs Old and New» (1962)"
+  },
+  {
+    "id": "ild-v-07",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "arkitektur",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Brannen i 1955 tok omtrent halvparten av de gjenstående trehusene i Bergens gamle hanseatiske havnekvarter. Arkeologene fikk til gjengjeld grave i grunnen helt fram til 1979, og fant blant annet nesten 600 runeinnskrifter på tre. Hva heter kvartalet?",
+      "sv": "Branden 1955 tog ungefär hälften av de kvarvarande trähusen i Bergens gamla hanseatiska hamnkvarter. Arkeologerna fick i gengäld gräva i marken ända fram till 1979 och fann bland annat nästan 600 runinskrifter på trä. Vad heter kvarteret?"
+    },
+    "answer": "Bryggen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Området huset «Det tyske kontor» i hansatiden og står i dag på Unescos verdensarvliste.",
+      "sv": "Området hyste «Det tyska kontoret» under hansatiden och står i dag på Unescos världsarvslista."
+    },
+    "funFact": {
+      "nb": "Funnene ble grunnlaget for Bryggens Museum, som åpnet i 1976. Runeinnskriftene er stort sett hverdagslige: handelsnotater, beskjeder og hilsener. Husrekka foran ble bygd opp igjen etter en brann alt i 1702.",
+      "sv": "Fynden blev grunden för Bryggens Museum, som öppnade 1976. Runinskrifterna är mestadels vardagliga: handelsnoteringar, meddelanden och hälsningar. Husraden framför byggdes upp igen efter en brand redan 1702."
+    },
+    "source": "Store norske leksikon – Bryggen i Bergen"
+  },
+  {
+    "id": "ild-v-08",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Da Oslofeltet var vulkansk aktivt, rant lavaen utover Krokskogen og Vestfold. Bergarten som ble liggende igjen har lyse feltspatkrystaller formet som skjeve firkanter i en finkornet, gråfiolett til rødlig grunnmasse, og tilsvarer dypbergarten larvikitt. Hva heter den?",
+      "sv": "När Oslofältet var vulkaniskt aktivt rann lavan ut över Krokskogen och Vestfold. Bergarten som blev liggande kvar har ljusa fältspatkristaller formade som sneda fyrkanter i en finkornig, gråviolett till rödaktig grundmassa, och motsvarar djupbergarten larvikit. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Rombeporfyr",
+      "sv": "Rombporfyr"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av den geometriske formen på krystallene og et gresk ord for «purpurfarget stein».",
+      "sv": "Namnet är sammansatt av den geometriska formen på kristallerna och ett grekiskt ord för «purpurfärgad sten»."
+    },
+    "funFact": {
+      "nb": "Den tyske geologen Christian Leopold von Buch ga bergarten navn i 1810. Tilsvarende bergarter er senere funnet i Øst-Afrika og Antarktis, men de aller største lavamassene finnes i Oslofeltet.",
+      "sv": "Den tyske geologen Christian Leopold von Buch gav bergarten namn 1810. Motsvarande bergarter har senare hittats i Östafrika och Antarktis, men de allra största lavamassorna finns i Oslofältet."
+    },
+    "source": "Store norske leksikon – rombeporfyr"
+  },
+  {
+    "id": "ild-v-09",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Fyrlyktene langs kysten gikk på acetylengass, og i 1907 fant en svensk ingeniør opp en solventil som slokket flammen av seg selv om dagen og sparte enorme mengder gass. Fem år senere fikk han nobelprisen i fysikk for arbeidet. Hvem var han?",
+      "sv": "Fyrarna längs kusten gick på acetylengas, och 1907 uppfann en svensk ingenjör en solventil som släckte lågan av sig själv på dagen och sparade enorma mängder gas. Fem år senare fick han nobelpriset i fysik för arbetet. Vem var han?"
+    },
+    "answer": "Gustaf Dalén",
+    "answerKind": "person",
+    "person": {
+      "given": "Gustaf",
+      "family": "Dalén"
+    },
+    "hint": {
+      "nb": "Han ledet selskapet AGA, og oppfant senere komfyren som bærer selskapets navn.",
+      "sv": "Han ledde företaget AGA och uppfann senare spisen som bär företagets namn."
+    },
+    "funFact": {
+      "nb": "Prisen i 1912 ble gitt for oppfinnelsen av automatiske regulatorer til bruk sammen med gassakkumulatorer for belysning av fyr og bøyer. Solventilen bygger på at svarte og blanke metallstaver varmes ulikt av sollys og derfor utvider seg forskjellig.",
+      "sv": "Priset 1912 gavs för uppfinningen av automatiska regulatorer för användning tillsammans med gasackumulatorer för belysning av fyrar och bojar. Solventilen bygger på att svarta och blanka metallstavar värms olika av solljus och därför utvidgas olika."
+    },
+    "source": "Nobelprize.org – The Nobel Prize in Physics 1912"
+  },
+  {
+    "id": "ild-v-10",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Den 25. juni 1888 brant to svenske byer samme dag, i tørke og sterk vind. Den ene, en sagbruksby ved Bottenhavet, valgte å bygge sentrum opp igjen i stein og fikk tilnavnet Stenstaden. Hvilken by er det?",
+      "sv": "Den 25 juni 1888 brann två svenska städer samma dag, i torka och stark vind. Den ena, en sågverksstad vid Bottenhavet, valde att bygga upp centrum igen i sten och fick tillnamnet Stenstaden. Vilken stad är det?"
+    },
+    "answer": "Sundsvall",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den andre byen som brant samme dag var Umeå. Byen vi spør om er den største i landskapet Medelpad.",
+      "sv": "Den andra staden som brann samma dag var Umeå. Staden vi frågar om är den största i landskapet Medelpad."
+    },
+    "funFact": {
+      "nb": "Gnister fra en dampbåt regnes som den mest sannsynlige årsaken. Steinbyen ga så mye bedre brannsikkerhet at kommunen alt etter tre år argumenterte for lavere forsikringspremier – men sentrum ble samtidig dyrere å bo i.",
+      "sv": "Gnistor från en ångbåt räknas som den mest sannolika orsaken. Stenstaden gav så mycket bättre brandsäkerhet att kommunen redan efter tre år argumenterade för lägre försäkringspremier – men centrum blev samtidigt dyrare att bo i."
+    },
+    "source": "Sundsvalls museum – Sundsvallsbranden 1888"
+  }
+]

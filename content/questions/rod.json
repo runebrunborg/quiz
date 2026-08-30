@@ -1,0 +1,818 @@
+[
+  {
+    "id": "rod-l-01",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Fargen på overflaten skyldes jernforbindelser – i praksis rust – i støvet som dekker den. Romerne oppkalte den etter krigsguden sin, og de to bittesmå månene bærer navnene til følgesvennene hans, Phobos og Deimos. Hvilken planet er dette?",
+      "sv": "Färgen på ytan beror på järnföreningar – i praktiken rost – i dammet som täcker den. Romarna uppkallade den efter sin krigsgud, och de två pyttesmå månarna bär namnen på hans följeslagare, Phobos och Deimos. Vilken planet är detta?"
+    },
+    "answer": "Mars",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er den fjerde planeten fra sola, og på den ligger kjempevulkanen Olympus Mons.",
+      "sv": "Det är den fjärde planeten från solen, och på den ligger jättevulkanen Olympus Mons."
+    },
+    "funFact": {
+      "nb": "Fargen kommer særlig fra jern(III)oksid og mineralet goethitt. Navnene på månene betyr «panikk» og «redsel» – i gresk mytologi fulgte de faren sin, krigsguden Ares, ut i strid.",
+      "sv": "Färgen kommer särskilt från järn(III)oxid och mineralet goethit. Månarnas namn betyder «panik» och «fasa» – i grekisk mytologi följde de sin far, krigsguden Ares, ut i strid."
+    },
+    "source": "NASA Science – Mars; USGS Astrogeology Science Center"
+  },
+  {
+    "id": "rod-l-02",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Charles Perrault trykte eventyret allerede i 1697, men det var brødrene Grimm som i 1812 la til jegeren som spretter opp ulven og redder både jenta og bestemoren. Jenta er oppkalt etter et hodeplagg hun går med. Hva heter eventyret?",
+      "sv": "Charles Perrault tryckte sagan redan 1697, men det var bröderna Grimm som 1812 lade till jägaren som skär upp vargen och räddar både flickan och mormodern. Flickan är uppkallad efter en huvudbonad hon bär. Vad heter sagan?"
+    },
+    "answer": {
+      "nb": "Rødhette",
+      "sv": "Rödluvan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På fransk heter eventyret «Le Petit Chaperon rouge» – et chaperon er nettopp et hodeplagg.",
+      "sv": "På franska heter sagan «Le Petit Chaperon rouge» – ett chaperon är just en huvudbonad."
+    },
+    "funFact": {
+      "nb": "Hos Perrault kommer ingen redning: ulven eter jenta, og fortellingen ender med en moral rettet mot unge kvinner. Samlingen het «Histoires ou contes du temps passé».",
+      "sv": "Hos Perrault kommer ingen räddning: vargen äter upp flickan, och berättelsen slutar med en sensmoral riktad till unga kvinnor. Samlingen hette «Histoires ou contes du temps passé»."
+    },
+    "source": "Charles Perrault, «Histoires ou contes du temps passé» (1697); Brødrene Grimm, «Kinder- und Hausmärchen» (1812)"
+  },
+  {
+    "id": "rod-l-03",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "fotball",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Den engelske dommeren Ken Aston satt i kø i London og fikk ideen fra lyskrysset: gult betyr at man skal roe seg, den andre fargen at det er full stopp. Systemet ble tatt i bruk under fotball-VM i Mexico i 1970. Hva heter kortet som betyr utvisning?",
+      "sv": "Den engelske domaren Ken Aston satt i kö i London och fick idén från trafikljuset: gult betyder att man ska lugna sig, den andra färgen att det är tvärstopp. Systemet togs i bruk under fotbolls-VM i Mexiko 1970. Vad heter kortet som betyder utvisning?"
+    },
+    "answer": {
+      "nb": "Rødt kort",
+      "sv": "Rött kort"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bakgrunnen var VM-kvartfinalen i 1966 mellom England og Argentina, der verken spillere eller publikum forsto hva dommeren hadde bestemt.",
+      "sv": "Bakgrunden var VM-kvartsfinalen 1966 mellan England och Argentina, där varken spelare eller publik förstod vad domaren hade bestämt."
+    },
+    "funFact": {
+      "nb": "Ingen fikk marsjordre i 1970. Den første som ble utvist på denne måten i et VM var chileneren Carlos Caszely, i åpningskampen mot Vest-Tyskland i 1974.",
+      "sv": "Ingen fick marschorder 1970. Den förste som utvisades på detta sätt i ett VM var chilenaren Carlos Caszely, i öppningsmatchen mot Västtyskland 1974."
+    },
+    "source": "Ken Aston Referee Society; FIFA – historikk om dommerkortene"
+  },
+  {
+    "id": "rod-l-04",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "popkultur",
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Varehuskjeden Montgomery Ward ba i 1939 tekstforfatteren Robert L. May om en julefortelling de kunne dele ut gratis. Han diktet opp et reinsdyr som blir ledd av på grunn av nesen sin, og 2,4 millioner hefter gikk ut allerede første året. Hva heter reinsdyret?",
+      "sv": "Varuhuskedjan Montgomery Ward bad 1939 textförfattaren Robert L. May om en julberättelse de kunde dela ut gratis. Han hittade på en ren som blir utskrattad på grund av sin nos, och 2,4 miljoner häften delades ut redan första året. Vad heter renen?"
+    },
+    "answer": "Rudolf",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet begynner på R, og han får trekke sleden fordi han lyser opp i tåka.",
+      "sv": "Namnet börjar på R, och han får dra släden eftersom han lyser upp i dimman."
+    },
+    "funFact": {
+      "nb": "Mays svoger Johnny Marks laget sangen om ham, og Gene Autrys innspilling fra 1949 lå på førsteplass på den amerikanske hitlisten julen samme år.",
+      "sv": "Mays svåger Johnny Marks skrev sången om honom, och Gene Autrys inspelning från 1949 låg etta på den amerikanska hitlistan julen samma år."
+    },
+    "source": "Robert L. May, julehefte for Montgomery Ward (1939); Billboard-arkivet"
+  },
+  {
+    "id": "rod-l-05",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Dette havet skiller Afrika fra Den arabiske halvøy, er blant verdens salteste og varmeste, og er knyttet til Middelhavet gjennom Suezkanalen. Én forklaring på navnet er oppblomstringen av en rødlig blågrønnbakterie i overflatevannet. Hva heter havet?",
+      "sv": "Detta hav skiljer Afrika från Arabiska halvön, är bland världens saltaste och varmaste, och är förbundet med Medelhavet genom Suezkanalen. En förklaring till namnet är blomningen av en rödaktig blågrönbakterie i ytvattnet. Vad heter havet?"
+    },
+    "answer": {
+      "nb": "Rødehavet",
+      "sv": "Röda havet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I sør ligger sundet Bab-el-Mandeb, som fører videre ut i Adenbukta og Indiahavet.",
+      "sv": "I söder ligger sundet Bab-el-Mandeb, som leder vidare ut i Adenviken och Indiska oceanen."
+    },
+    "funFact": {
+      "nb": "Overflatetemperaturen ligger på rundt 26 grader i nord og 30 i sør. Bakterien som kan gi navnet mening heter Trichodesmium erythraeum.",
+      "sv": "Yttemperaturen ligger på omkring 26 grader i norr och 30 i söder. Bakterien som kan ge namnet mening heter Trichodesmium erythraeum."
+    },
+    "source": "Encyclopaedia Britannica – Red Sea; NOAA"
+  },
+  {
+    "id": "rod-l-06",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "Klubben ble stiftet i Bergen 26. september 1908, spiller i rødt fra trøye til bukse og har supportergruppen «Bataljonen». Den vant seriegull i 1961/62, 1963 og 2007, og hjemmebanen åpnet i 1919. Hva heter klubben?",
+      "sv": "Klubben grundades i Bergen den 26 september 1908, spelar i rött från tröja till byxor och har supportergruppen «Bataljonen». Den vann seriesegern 1961/62, 1963 och 2007, och hemmaarenan invigdes 1919. Vad heter klubben?"
+    },
+    "answer": "Brann",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det opprinnelige navnet var «Ski- og Fodboldklubben …», og navnet ble foreslått av Birger Gjestland.",
+      "sv": "Det ursprungliga namnet var «Ski- og Fodboldklubben …», och namnet föreslogs av Birger Gjestland."
+    },
+    "funFact": {
+      "nb": "Klubben har også vunnet cupen sju ganger – første gang i 1923 og sist i 2022. Hjemmebanen tar rundt 16 000 tilskuere.",
+      "sv": "Klubben har också vunnit cupen sju gånger – första gången 1923 och senast 2022. Hemmaarenan rymmer omkring 16 000 åskådare."
+    },
+    "source": "Store norske leksikon – Sportsklubben Brann"
+  },
+  {
+    "id": "rod-l-07",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Den lever over hele Norge, fra strandkanten til høyfjellet, og i eventyrene til Asbjørnsen og Moe heter den Mikkel og lurer både bjørnen og bonden. Fargen på pelsen har gitt den navnet den har på norsk. Hvilket dyr er det?",
+      "sv": "Den lever över hela Norge, från strandkanten till högfjället, och i Asbjørnsen och Moes sagor heter den Mikkel och lurar både björnen och bonden. Pälsens färg har gett den dess namn. Vilket djur är det?"
+    },
+    "answer": {
+      "nb": "Rødrev",
+      "sv": "Rödräv"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det vitenskapelige navnet er Vulpes vulpes, og arten er et av verdens mest utbredte landrovdyr.",
+      "sv": "Det vetenskapliga namnet är Vulpes vulpes, och arten är ett av världens mest spridda landlevande rovdjur."
+    },
+    "funFact": {
+      "nb": "Den finnes i hele landet med unntak av enkelte øyer. I fablene er den lureren som alltid går av med seieren, både mot bjørnen og mot mennesker.",
+      "sv": "Den finns i hela landet med undantag av vissa öar. I fablerna är den listtjuven som alltid går segrande ur striden, både mot björnen och mot människor."
+    },
+    "source": "Store norske leksikon – rev; Artsdatabanken"
+  },
+  {
+    "id": "rod-l-08",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Pigmentet i den klassiske svenske husmalingen er avfall fra en kobbergruve: forvitret berg som brennes til jernoksid. Kong Johan III lot male med det allerede i 1573, men først fra 1860-årene ble fargen vanlig på svenske landsbygdshus. I hvilken by ligger gruven?",
+      "sv": "Pigmentet i den klassiska svenska husfärgen är avfall från en koppargruva: vittrat berg som bränns till järnoxid. Kung Johan III lät måla med det redan 1573, men först från 1860-talet blev färgen vanlig på svenska landsbygdshus. I vilken stad ligger gruvan?"
+    },
+    "answer": "Falun",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger i Dalarna, og gruveområdet kom på Unescos verdensarvliste i 2001.",
+      "sv": "Staden ligger i Dalarna, och gruvområdet kom med på Unescos världsarvslista 2001."
+    },
+    "funFact": {
+      "nb": "Malingen inneholder også kobber og sink, som motvirker sopp. Jernokeren er gul i utgangspunktet og blir rød først etter brenning – jo lenger og varmere, desto mørkere.",
+      "sv": "Färgen innehåller också koppar och zink, som motverkar svamp. Järnockran är gul från början och blir röd först efter bränning – ju längre och hetare, desto mörkare."
+    },
+    "source": "Unesco – Mining Area of the Great Copper Mountain in Falun (2001); Riksantikvarieämbetet"
+  },
+  {
+    "id": "rod-l-09",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "design",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Trefigurene ble opprinnelig malt med jernoksidrødt og dekorert med blomsterranker i den svenske kurbits-stilen. På verdensutstillingen i New York i 1939 sto de utenfor den svenske paviljongen og ble over natten et nasjonalsymbol. Landsbyen Nusnäs i Mora lager dem fortsatt. Hva heter figurene?",
+      "sv": "Träfigurerna målades ursprungligen med järnoxidrött och dekorerades med blomsterrankor i den svenska kurbitsstilen. På världsutställningen i New York 1939 stod de utanför den svenska paviljongen och blev över en natt en nationalsymbol. Byn Nusnäs i Mora tillverkar dem fortfarande. Vad heter figurerna?"
+    },
+    "answer": {
+      "nb": "Dalahest",
+      "sv": "Dalahäst"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Figuren forestiller et husdyr, og navnet begynner med landskapet den kommer fra.",
+      "sv": "Figuren föreställer ett husdjur, och namnet börjar med landskapet den kommer från."
+    },
+    "funFact": {
+      "nb": "De var også utstilt på verdensutstillingen i Paris i 1937. Mønsteret males for hånd, så ingen to figurer blir helt like.",
+      "sv": "De visades också på världsutställningen i Paris 1937. Mönstret målas för hand, så inga två figurer blir riktigt lika."
+    },
+    "source": "Nordiska museet; Mora kommun – dalahästens historia"
+  },
+  {
+    "id": "rod-l-10",
+    "category": "rod",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "litteratur",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Vinteren 1941 fant Astrid Lindgrens datter Karin på navnet, og i 1945 kom den første boken ut på Rabén & Sjögren. Jenta har fregner, to stive fletter i en umiskjennelig farge, bor alene i Villa Villekulla og kan løfte en hest. Hva heter hun?",
+      "sv": "Vintern 1941 hittade Astrid Lindgrens dotter Karin på namnet, och 1945 kom den första boken ut på Rabén & Sjögren. Flickan har fräknar, två styva flätor i en omisskännlig färg, bor ensam i Villa Villekulla och kan lyfta en häst. Vad heter hon?"
+    },
+    "answer": {
+      "nb": "Pippi Langstrømpe",
+      "sv": "Pippi Långstrump"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Etternavnet er satt sammen av et plagg og et ord for lengde.",
+      "sv": "Efternamnet är sammansatt av ett plagg och ett ord för längd."
+    },
+    "funFact": {
+      "nb": "Apen hennes heter Herr Nilsson. Hesten får aldri noe navn i bøkene – det er først i filmene den blir kalt Lilla Gubben.",
+      "sv": "Apan heter Herr Nilsson. Hästen får aldrig något namn i böckerna – det är först i filmerna den kallas Lilla Gubben."
+    },
+    "source": "Astrid Lindgren Company; Rabén & Sjögren (1945)"
+  },
+  {
+    "id": "rod-m-01",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Plassen het lenge Pozjar, «brannplassen», og navnet den har i dag dukker først opp i kildene på 1660-tallet. Det russiske ordet betydde den gang «vakker», og ble først senere ordet for en farge. Hva kalles plassen i dag?",
+      "sv": "Platsen hette länge Pozjar, «brandplatsen», och namnet den har i dag dyker upp i källorna först på 1660-talet. Det ryska ordet betydde då «vacker» och blev först senare ordet för en färg. Vad kallas platsen i dag?"
+    },
+    "answer": {
+      "nb": "Den røde plass",
+      "sv": "Röda torget"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den ligger utenfor Kremls mur i Moskva, ved Vasilijkatedralen med de spiralmønstrede kuplene.",
+      "sv": "Den ligger utanför Kremls mur i Moskva, vid Vasilijkatedralen med de spiralmönstrade kupolerna."
+    },
+    "funFact": {
+      "nb": "Tsar Aleksej Mikhajlovitsj utvidet navnet til å gjelde hele området. Det moderne russiske ordet for «vakker», krasivaja, kommer av den samme roten.",
+      "sv": "Tsar Aleksej Michajlovitj utvidgade namnet till att gälla hela området. Det moderna ryska ordet för «vacker», krasivaja, kommer av samma rot."
+    },
+    "source": "Encyclopaedia Britannica – Red Square; Unesco – Kreml og Den røde plass, Moskva (1990)"
+  },
+  {
+    "id": "rod-m-02",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Bittesmå skjoldlus som lever på fikenkaktus ble høstet, tørket og knust til et fargestoff så kraftig at det farget kardinalkapper og britiske uniformer. Under spansk styre var det den nest mest verdifulle eksportvaren, bare slått av sølv. Fra hvilket land kom det?",
+      "sv": "Pyttesmå sköldlöss som lever på fikonkaktus skördades, torkades och krossades till ett färgämne så kraftigt att det färgade kardinalskåpor och brittiska uniformer. Under spanskt styre var det den näst mest värdefulla exportvaran, bara slagen av silver. Från vilket land kom det?"
+    },
+    "answer": "Mexico",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Monopolet tok slutt da landet ble selvstendig etter frigjøringskrigen i 1810–1821.",
+      "sv": "Monopolet tog slut när landet blev självständigt efter frihetskriget 1810–1821."
+    },
+    "funFact": {
+      "nb": "Fargestoffet heter karmin og bygger på karminsyre, som utgjør 17–24 prosent av vekten på de tørkede insektene. Det brukes fortsatt i mat og kosmetikk, med E-nummer 120.",
+      "sv": "Färgämnet heter karmin och bygger på karminsyra, som utgör 17–24 procent av de torkade insekternas vikt. Det används fortfarande i mat och kosmetika, med E-nummer 120."
+    },
+    "source": "Encyclopaedia Britannica – cochineal; EFSA – E 120 cochineal, carminic acid, carmines"
+  },
+  {
+    "id": "rod-m-03",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Han fikk 80 offisielle luftseire under første verdenskrig, flere enn noen annen flyger, og malte maskinene sine knallrøde. Jagergeskvadronen han ledet ble kalt «Det flygende sirkus» fordi flyene var så broket malt. Han falt ved Somme 21. april 1918. Hva het han?",
+      "sv": "Han fick 80 officiella luftsegrar under första världskriget, fler än någon annan flygare, och målade sina maskiner knallröda. Jaktgeschwadern han ledde kallades «Den flygande cirkusen» eftersom planen var så brokigt målade. Han stupade vid Somme den 21 april 1918. Vad hette han?"
+    },
+    "answer": "Manfred von Richthofen",
+    "answerKind": "person",
+    "person": {
+      "given": "Manfred",
+      "family": "von Richthofen"
+    },
+    "hint": {
+      "nb": "Tilnavnet hans kombinerer fargen med den tyske adelstittelen Freiherr, og han er mest forbundet med trippelvingen Fokker Dr.I.",
+      "sv": "Hans tillnamn kombinerar färgen med den tyska adelstiteln Freiherr, och han förknippas mest med trevingaren Fokker Dr.I."
+    },
+    "funFact": {
+      "nb": "Bare 19 av de 80 seirene kom i trippelvingen. Historikere mener i dag at det dødelige skuddet kom fra en maskingeværskytter på bakken, ikke fra flyet som først fikk æren.",
+      "sv": "Bara 19 av de 80 segrarna kom i trevingaren. Historiker menar i dag att det dödande skottet kom från en kulspruteskytt på marken, inte från planet som först fick äran."
+    },
+    "source": "Imperial War Museums; Royal Air Force Museum"
+  },
+  {
+    "id": "rod-m-04",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Dyret lever i bratte fjellskoger i Øst-Himalaya og Sørvest-Kina, spiser nesten bare bambus, og fikk sitt vitenskapelige navn av Frédéric Cuvier i 1825 – 44 år før den svarthvite navnebroren sin. Det er ikke i slekt med bjørn. Hva heter det?",
+      "sv": "Djuret lever i branta bergsskogar i östra Himalaya och sydvästra Kina, äter nästan bara bambu och fick sitt vetenskapliga namn av Frédéric Cuvier 1825 – 44 år före sin svartvita namne. Det är inte släkt med björnar. Vad heter det?"
+    },
+    "answer": {
+      "nb": "Rød panda",
+      "sv": "Röd panda"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det vitenskapelige navnet er Ailurus fulgens, og nærmeste slektninger er mårdyr, skunk og vaskebjørn.",
+      "sv": "Det vetenskapliga namnet är Ailurus fulgens, och närmaste släktingar är mårddjur, skunkar och tvättbjörnar."
+    },
+    "funFact": {
+      "nb": "Den spiser over halvannen kilo friske bambusblader i døgnet, selv om fordøyelsessystemet er bygget for kjøtt. Familien den tilhører, Ailuridae, har ingen andre nålevende arter.",
+      "sv": "Den äter över ett och ett halvt kilo färska bambublad per dygn, trots att matsmältningen är byggd för kött. Familjen den tillhör, Ailuridae, har inga andra nu levande arter."
+    },
+    "source": "IUCN Red List – Ailurus fulgens; Smithsonian's National Zoo"
+  },
+  {
+    "id": "rod-m-05",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Under en total måneformørkelse forsvinner ikke månen: den får en dyp kobberglød fordi sollyset brytes gjennom jordas atmosfære og de korte bølgelengdene spres bort underveis. Store vulkanutbrudd kan forsterke fargen. Hva kalles månen da, på folkemunne?",
+      "sv": "Under en total månförmörkelse försvinner inte månen: den får en djup kopparglöd eftersom solljuset bryts genom jordens atmosfär och de korta våglängderna sprids bort på vägen. Stora vulkanutbrott kan förstärka färgen. Vad kallas månen då, i folkmun?"
+    },
+    "answer": {
+      "nb": "Blodmåne",
+      "sv": "Blodmåne"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uttrykket er et sammensatt ord der første ledd er væsken som renner i årene våre.",
+      "sv": "Uttrycket är ett sammansatt ord där första ledet är vätskan som rinner i våra ådror."
+    },
+    "funFact": {
+      "nb": "Det er nøyaktig samme fysikk som gjør solnedganger røde: Rayleigh-spredning. Astronomer bruker helst den nøkterne betegnelsen total måneformørkelse.",
+      "sv": "Det är exakt samma fysik som gör solnedgångar röda: Rayleighspridning. Astronomer föredrar den nyktra beteckningen total månförmörkelse."
+    },
+    "source": "NASA – Lunar Eclipses; Royal Museums Greenwich"
+  },
+  {
+    "id": "rod-m-06",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "I januar 1892 skrev kunstneren ned minnet om en kveldstur på Ekebergåsen, der himmelen over Oslofjorden slo ut i flammende røde bånd. Året etter malte han motivet, og til sammen finnes fem versjoner i maleri, pastell og litografi. Hva heter bildet?",
+      "sv": "I januari 1892 skrev konstnären ned minnet av en kvällspromenad på Ekebergåsen, där himlen över Oslofjorden slog ut i flammande röda band. Året därpå målade han motivet, och sammanlagt finns fem versioner i måleri, pastell och litografi. Vad heter bilden?"
+    },
+    "answer": "Skrik",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den ene versjonen fra 1893 henger i Nasjonalmuseet, en annen i Munchmuseet. Tittelen er ett ord på fem bokstaver.",
+      "sv": "Den ena versionen från 1893 hänger på Nasjonalmuseet, en annan på Munchmuseet. Titeln är ett ord på fem bokstäver."
+    },
+    "funFact": {
+      "nb": "Pastellversjonen fra 1895 ble solgt for rundt 107 millioner dollar i 2012. Notatet om kveldsturen skrev Munch ned mens han oppholdt seg i Nice.",
+      "sv": "Pastellversionen från 1895 såldes för omkring 107 miljoner dollar 2012. Anteckningen om kvällspromenaden skrev Munch ned medan han vistades i Nice."
+    },
+    "source": "Nasjonalmuseet, Oslo; Munchmuseet – Edvard Munch"
+  },
+  {
+    "id": "rod-m-07",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Norges offisielle oversikt over truede arter kom sist ut i 2021 og vurderte 34 171 arter etter kategoriene til Verdens naturvernunion, fra livskraftig til regionalt utdødd. Hvilken institusjon i Trondheim står bak den?",
+      "sv": "Norges officiella översikt över hotade arter kom senast ut 2021 och bedömde 34 171 arter enligt Internationella naturvårdsunionens kategorier, från livskraftig till regionalt utdöd. Vilken institution i Trondheim står bakom den?"
+    },
+    "answer": "Artsdatabanken",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Institusjonen ble opprettet i 2005 og lager også en tilsvarende oversikt for naturtyper.",
+      "sv": "Institutionen inrättades 2005 och gör också en motsvarande översikt för naturtyper."
+    },
+    "funFact": {
+      "nb": "Kategoriene forkortes med engelske bokstavkoder: CR for kritisk truet, EN for sterkt truet og VU for sårbar. Utgaven fra 2021 ble lagt fram 24. november.",
+      "sv": "Kategorierna förkortas med engelska bokstavskoder: CR för akut hotad, EN för starkt hotad och VU för sårbar. Utgåvan från 2021 lades fram den 24 november."
+    },
+    "source": "Artsdatabanken – Norsk rødliste for arter 2021"
+  },
+  {
+    "id": "rod-m-08",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Jo Nesbøs roman fra 2000 er oppkalt etter en liten fugl med rødt bryst, og veksler mellom norske frontkjempere ved Leningrad under krigen og et nynazistisk miljø i Oslo på 1990-tallet. Hvilken etterforsker er hovedpersonen?",
+      "sv": "Jo Nesbøs roman från 2000 är uppkallad efter en liten fågel med rött bröst och växlar mellan norska frontkämpar vid Leningrad under kriget och en nynazistisk miljö i Oslo på 1990-talet. Vilken utredare är huvudperson?"
+    },
+    "answer": "Harry Hole",
+    "answerKind": "person",
+    "person": {
+      "given": "Harry",
+      "family": "Hole"
+    },
+    "hint": {
+      "nb": "Boken var den tredje i serien om denne etterforskeren i Oslo-politiet, som siden har fått langt flere bind.",
+      "sv": "Boken var den tredje i serien om denne utredare i Oslopolisen, som sedan har fått betydligt fler band."
+    },
+    "funFact": {
+      "nb": "Romanen ble i 2004 kåret til tidenes beste norske kriminalroman i en avstemning i regi av de norske bokklubbene. Serien startet med «Flaggermusmannen» i 1997.",
+      "sv": "Romanen utsågs 2004 till tidernas bästa norska kriminalroman i en omröstning i de norska bokklubbarnas regi. Serien inleddes med «Flaggermusmannen» 1997."
+    },
+    "source": "Jo Nesbø, «Rødstrupe» (Aschehoug, 2000); Bokklubbenes kåring 2004"
+  },
+  {
+    "id": "rod-m-09",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Romanen fra 1879 følger den unge Arvid Falk gjennom Stockholms embetsverk, presse og teater, og bohemene i boken samles i et rødmalt spiserom på Berns salonger. Verket regnes gjerne som den første moderne svenske romanen. Hvem skrev den?",
+      "sv": "Romanen från 1879 följer unge Arvid Falk genom Stockholms ämbetsverk, press och teater, och bohemerna i boken samlas i ett rödmålat matrum på Berns salonger. Verket räknas gärna som den första moderna svenska romanen. Vem skrev den?"
+    },
+    "answer": "August Strindberg",
+    "answerKind": "person",
+    "person": {
+      "given": "August",
+      "family": "Strindberg"
+    },
+    "hint": {
+      "nb": "Samme forfatter står bak skuespillene «Fröken Julie» og «Ett drömspel».",
+      "sv": "Samma författare står bakom pjäserna «Fröken Julie» och «Ett drömspel»."
+    },
+    "funFact": {
+      "nb": "Boken ble bedre mottatt i Danmark enn hjemme i Sverige, men gjorde forfatteren kjent i hele Norden. Berns salonger ble bygget i 1862–63 og ligger fortsatt ved Berzelii park.",
+      "sv": "Boken togs bättre emot i Danmark än hemma i Sverige, men gjorde författaren känd i hela Norden. Berns salonger byggdes 1862–63 och ligger fortfarande vid Berzelii park."
+    },
+    "source": "Litteraturbanken – August Strindberg, «Röda rummet» (1879); Kungliga biblioteket"
+  },
+  {
+    "id": "rod-m-10",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "popkultur",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "I 1881 illustrerte hun Viktor Rydbergs dikt «Tomten» og ga gårdsnissen hvitt skjegg og rød lue. Bildet slo an, og fra 1884 tegnet hun ham også med gavesekk – slik ble den svenske julenissen den vi kjenner i dag. Hvem var kunstneren?",
+      "sv": "År 1881 illustrerade hon Viktor Rydbergs dikt «Tomten» och gav gårdstomten vitt skägg och röd luva. Bilden slog an, och från 1884 tecknade hon honom också med klappsäck – så blev den svenska jultomten den vi känner i dag. Vem var konstnären?"
+    },
+    "answer": "Jenny Nyström",
+    "answerKind": "person",
+    "person": {
+      "given": "Jenny",
+      "family": "Nyström"
+    },
+    "hint": {
+      "nb": "Hun ble født i Kalmar i 1854 og brukte sin egen far som modell for figuren.",
+      "sv": "Hon föddes i Kalmar 1854 och använde sin egen far som modell för figuren."
+    },
+    "funFact": {
+      "nb": "Hun ble en av Sveriges mest produktive illustratører og tegnet julekort helt fram til hun døde i Stockholm i 1946. Hun avviste selv at figuren var kopiert fra amerikanske julekort.",
+      "sv": "Hon blev en av Sveriges mest produktiva illustratörer och tecknade julkort ända fram till sin död i Stockholm 1946. Hon avvisade själv att figuren var kopierad från amerikanska julkort."
+    },
+    "source": "Nordiska museet; Nationalmuseum, Stockholm"
+  },
+  {
+    "id": "rod-v-01",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Stjernen er den klart lyssterkeste i stjernebildet Skorpionen og en rød superkjempe med langsomt varierende lysstyrke. Det greske navnet betyr «rival av Ares» og viser til at fargen kan forveksles med krigsguden blant planetene. Hva heter stjernen?",
+      "sv": "Stjärnan är den klart ljusstarkaste i stjärnbilden Skorpionen och en röd superjätte med långsamt varierande ljusstyrka. Det grekiska namnet betyder «rival till Ares» och syftar på att färgen kan förväxlas med krigsguden bland planeterna. Vad heter stjärnan?"
+    },
+    "answer": "Antares",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er nummer femten på listen over de lyssterkeste stjernene på nattehimmelen, og Bayer-betegnelsen er Alfa Scorpii.",
+      "sv": "Den är nummer femton på listan över natthimlens ljusstarkaste stjärnor, och Bayerbeteckningen är Alfa Scorpii."
+    },
+    "funFact": {
+      "nb": "Spektralklassen er M1.5, og lysstyrken svinger mellom magnitude +0,6 og +1,6 fordi stjernen er en langsom, uregelmessig variabel.",
+      "sv": "Spektralklassen är M1.5, och ljusstyrkan pendlar mellan magnitud +0,6 och +1,6 eftersom stjärnan är en långsam, oregelbunden variabel."
+    },
+    "source": "European Southern Observatory; SIMBAD – Alpha Scorpii"
+  },
+  {
+    "id": "rod-v-02",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "kunst",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Pigmentet som dekker vegger i Villa dei Misteri i Pompeii, og som ga kinesisk lakkarbeid sin dype glød, lages av et knust mineral med formelen kvikksølvsulfid. Romerne brøt det i Almadén i Spania med fanger som arbeidskraft. Hva heter mineralet?",
+      "sv": "Pigmentet som täcker väggar i Villa dei Misteri i Pompeji, och som gav kinesiskt lackarbete dess djupa glöd, görs av ett krossat mineral med formeln kvicksilversulfid. Romarna bröt det i Almadén i Spanien med fångar som arbetskraft. Vad heter mineralet?"
+    },
+    "answer": {
+      "nb": "Sinnober",
+      "sv": "Cinnober"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det latinske navnet er cinnabaris, og malere kalte det ferdige pigmentet vermiljong.",
+      "sv": "Det latinska namnet är cinnabaris, och målare kallade det färdiga pigmentet vermiljon."
+    },
+    "funFact": {
+      "nb": "Arbeidet i gruvene var livsfarlig på grunn av kvikksølvdampen. I Kina er den eldste kjente bruken som pigment fra Yangshao-kulturen, 5000–4000 f.Kr.",
+      "sv": "Arbetet i gruvorna var livsfarligt på grund av kvicksilverångan. I Kina är den äldsta kända användningen som pigment från Yangshaokulturen, 5000–4000 f.Kr."
+    },
+    "source": "The National Gallery, London – pigment compendium; Parco Archeologico di Pompei"
+  },
+  {
+    "id": "rod-v-03",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "design",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Roten av planten krapp, Rubia tinctorum, ga i årtusener et sterkt rødt fargestoff som blant annet farget franske militæruniformer. I 1868 klarte Carl Graebe og Carl Liebermann å framstille det syntetisk – det første naturlige fargestoffet som ble kopiert i laboratoriet. Hva heter fargestoffet?",
+      "sv": "Roten av växten krapp, Rubia tinctorum, gav i årtusenden ett starkt rött färgämne som bland annat färgade franska militäruniformer. År 1868 lyckades Carl Graebe och Carl Liebermann framställa det syntetiskt – det första naturliga färgämnet som kopierades i laboratorium. Vad heter färgämnet?"
+    },
+    "answer": "Alizarin",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Året etter tok William Perkin patent på en billigere framstillingsmetode, og navnet lever videre i kunstnerfargen «crimson».",
+      "sv": "Året därpå tog William Perkin patent på en billigare framställningsmetod, och namnet lever vidare i konstnärsfärgen «crimson»."
+    },
+    "funFact": {
+      "nb": "Krapproten inneholder også fargestoffet purpurin. Den syntetiske framstillingen la den europeiske krappdyrkingen øde i løpet av 1870-årene.",
+      "sv": "Krapproten innehåller också färgämnet purpurin. Den syntetiska framställningen lade den europeiska krappodlingen öde under 1870-talet."
+    },
+    "source": "Science History Institute; The National Gallery, London – madder"
+  },
+  {
+    "id": "rod-v-04",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "arkitektur",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Huset i Bexleyheath sørøst for London ble tegnet av Philip Webb i 1859, sto ferdig året etter og har upusset tegl og bratt tegltak. Det regnes som et tidlig hovedverk i Arts and Crafts-bevegelsen. Hvem ble det bygget for?",
+      "sv": "Huset i Bexleyheath sydost om London ritades av Philip Webb 1859, stod färdigt året därpå och har oputsat tegel och brant tegeltak. Det räknas som ett tidigt huvudverk i Arts and Crafts-rörelsen. Vem byggdes det för?"
+    },
+    "answer": "William Morris",
+    "answerKind": "person",
+    "person": {
+      "given": "William",
+      "family": "Morris"
+    },
+    "hint": {
+      "nb": "Han er kjent for tapeter og tekstiler med tett planteornamentikk, og var en sentral skikkelse i britisk kunsthåndverk.",
+      "sv": "Han är känd för tapeter och textilier med tät växtornamentik, och var en central gestalt i brittiskt konsthantverk."
+    },
+    "funFact": {
+      "nb": "National Trust overtok eiendommen i 2003, etter at en anonym giver kjøpte den og ga den bort. Huset er i dag åpent for publikum.",
+      "sv": "National Trust tog över egendomen 2003, sedan en anonym givare köpt den och skänkt bort den. Huset är i dag öppet för allmänheten."
+    },
+    "source": "National Trust – Red House, Bexleyheath"
+  },
+  {
+    "id": "rod-v-05",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Sjøveisreglene krever at et fartøy under fart viser et grønt lys på den ene siden og et rødt på den andre, hver over en bue fra rett forut til 22,5 grader aktenfor tvers. Fly følger samme konvensjon på vingespissene. Hvilken side har det røde lyset?",
+      "sv": "Sjövägsreglerna kräver att ett fartyg under gång visar ett grönt ljus på den ena sidan och ett rött på den andra, vardera över en båge från rakt förut till 22,5 grader akter om tvärs. Flygplan följer samma konvention på vingspetsarna. Vilken sida har det röda ljuset?"
+    },
+    "answer": {
+      "nb": "Babord",
+      "sv": "Babord"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er lånt fra nedertysk, og det motsatte ordet henger sammen med at styreåren satt på den andre siden.",
+      "sv": "Ordet är lånat från lågtyska, och motsatsordet hänger ihop med att styråran satt på den andra sidan."
+    },
+    "funFact": {
+      "nb": "Konvensjonen for skip er om lag femti år eldre enn luftfarten, og flyene arvet den direkte: rødt på venstre vingespiss, grønt på høyre.",
+      "sv": "Konventionen för fartyg är ungefär femtio år äldre än luftfarten, och flygplanen ärvde den direkt: rött på vänster vingspets, grönt på höger."
+    },
+    "source": "IMO – COLREG 1972, regel 21 og 22; ICAO"
+  },
+  {
+    "id": "rod-v-06",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "vikingtid",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Han ble født i Rogaland omkring år 950, måtte forlate Island i tre år etter en drapssak, og brukte landflyktigheten på å utforske et land i vest som han ga et lokkende grønt navn. Sønnen seilte senere videre til Vinland. Hva het han?",
+      "sv": "Han föddes i Rogaland omkring år 950, tvingades lämna Island i tre år efter ett dråpsmål och använde landsflykten till att utforska ett land i väster som han gav ett lockande grönt namn. Sonen seglade senare vidare till Vinland. Vad hette han?"
+    },
+    "answer": {
+      "nb": "Eirik Raude",
+      "sv": "Erik Röde"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": {
+        "nb": "Eirik",
+        "sv": "Erik"
+      },
+      "family": {
+        "nb": "Raude",
+        "sv": "Röde"
+      }
+    },
+    "hint": {
+      "nb": "Tilnavnet skal komme av hår- og skjeggfargen, og sønnen het Leiv.",
+      "sv": "Tillnamnet lär komma av hår- och skäggfärgen, och sonen hette Leif."
+    },
+    "funFact": {
+      "nb": "Han grunnla den første varige norrøne bosetningen på Grønland omkring 985. Sagaene forteller at det grønne navnet var valgt for å lokke nybyggere.",
+      "sv": "Han grundade den första varaktiga nordiska bosättningen på Grönland omkring 985. Sagorna berättar att det gröna namnet valdes för att locka nybyggare."
+    },
+    "source": "«Eirik Raudes saga»; Store norske leksikon – Eirik Raude"
+  },
+  {
+    "id": "rod-v-07",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "En strekning på halvannen kilometer av E6 øst for Rognan i Saltdal fikk navnet sitt etter at et kors ble malt på en bergvegg der en jugoslavisk fange ble skutt i 1943. Hundrevis av fanger døde under arbeidet med veien. Hva kalles strekningen?",
+      "sv": "En sträcka på en och en halv kilometer av E6 öster om Rognan i Saltdal fick sitt namn efter att ett kors målades på en bergvägg där en jugoslavisk fånge sköts 1943. Hundratals fångar dog under arbetet med vägen. Vad kallas sträckan?"
+    },
+    "answer": {
+      "nb": "Blodveien",
+      "sv": "Blodvägen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ved Botn ligger en krigskirkegård, og i Rognan finnes et museum om fangeleirene i Saltdal.",
+      "sv": "Vid Botn ligger en krigskyrkogård, och i Rognan finns ett museum om fånglägren i Saltdal."
+    },
+    "funFact": {
+      "nb": "Navnet ble offisielt anerkjent 8. mai 1995, femti år etter frigjøringen. Fangen som ble skutt het Miloš Banjac.",
+      "sv": "Namnet erkändes officiellt den 8 maj 1995, femtio år efter befrielsen. Fången som sköts hette Miloš Banjac."
+    },
+    "source": "Store norske leksikon – Blodveien; Blodveimuseet, Rognan"
+  },
+  {
+    "id": "rod-v-08",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Rovfuglen med dypt kløftet stjert og rustrød fjærdrakt var nede i 30–50 hekkende par i Sverige på 1970-tallet, men var oppe i rundt 1 200 par i 2003. Den er landskapsfugl for Skåne. Hva heter fuglen?",
+      "sv": "Rovfågeln med djupt kluven stjärt och roströd fjäderdräkt var nere i 30–50 häckande par i Sverige på 1970-talet, men var uppe i omkring 1 200 par 2003. Den är landskapsfågel för Skåne. Vad heter fågeln?"
+    },
+    "answer": {
+      "nb": "Rød glente",
+      "sv": "Röd glada"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det vitenskapelige navnet er Milvus milvus, og det svenske navnet er et helt annet ord enn det norske.",
+      "sv": "Det vetenskapliga namnet är Milvus milvus, och det norska namnet är ett helt annat ord än det svenska."
+    },
+    "funFact": {
+      "nb": "Framgangen i Skåne regnes som en av Europas største suksesser for arten, mens den har gått tilbake i Spania, Frankrike og Tyskland.",
+      "sv": "Framgången i Skåne räknas som en av Europas största framgångar för arten, medan den har minskat i Spanien, Frankrike och Tyskland."
+    },
+    "source": "BirdLife Sverige; IUCN Red List – Milvus milvus"
+  },
+  {
+    "id": "rod-v-09",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Som nestleder i Svenska Röda Korset fra 1943 organiserte han våren 1945 en aksjon der hvitmalte busser med røde kors på siden hentet fanger ut av tyske konsentrasjonsleirer. Rundt 21 000 mennesker ble reddet. Hvem ledet aksjonen?",
+      "sv": "Som vice ordförande i Svenska Röda Korset från 1943 organiserade han våren 1945 en aktion där vitmålade bussar med röda kors på sidan hämtade fångar ur tyska koncentrationsläger. Omkring 21 000 människor räddades. Vem ledde aktionen?"
+    },
+    "answer": "Folke Bernadotte",
+    "answerKind": "person",
+    "person": {
+      "given": "Folke",
+      "family": "Bernadotte"
+    },
+    "hint": {
+      "nb": "Han var greve og i slekt med det svenske kongehuset – etternavnet er det samme som dynastiets.",
+      "sv": "Han var greve och släkt med det svenska kungahuset – efternamnet är detsamma som dynastins."
+    },
+    "funFact": {
+      "nb": "Bussene var malt hvite nettopp for ikke å bli forvekslet med militære kjøretøy. Blant de reddede var rundt 8 000 dansker og nordmenn og 5 911 polakker.",
+      "sv": "Bussarna var vitmålade just för att inte förväxlas med militära fordon. Bland de räddade fanns omkring 8 000 danskar och norrmän och 5 911 polacker."
+    },
+    "source": "Svenska Röda Korset; Forum för levande historia"
+  },
+  {
+    "id": "rod-v-10",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "mat-og-drikke",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I en svensk gruveby ble oksehuder brukt til tau i sjaktene på 1500- og 1600-tallet, og kjøttet som ble til overs, ble saltet, røkt og malt til pølse. I dag er den EU-beskyttet: minst 45 prosent kjøtt, og potetmel som eneste tillatte bindemiddel. Hva heter pølsen?",
+      "sv": "I en svensk gruvstad användes oxhudar till rep i schakten på 1500- och 1600-talen, och köttet som blev över saltades, röktes och maldes till korv. I dag är den EU-skyddad: minst 45 procent kött, och potatismjöl som enda tillåtna bindemedel. Vad heter korven?"
+    },
+    "answer": "Falukorv",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Gruvebyen er den samme som har gitt navn til den røde malingen på svenske hus.",
+      "sv": "Gruvstaden är densamma som gett namn åt den röda färgen på svenska hus."
+    },
+    "funFact": {
+      "nb": "Pølsen er forkokt og kan spises kald rett fra pakken. Oppskriften ble modernisert av slakteren Anders Olsson på slutten av 1800-tallet.",
+      "sv": "Korven är förkokt och kan ätas kall direkt ur förpackningen. Receptet moderniserades av slaktaren Anders Olsson i slutet av 1800-talet."
+    },
+    "source": "Livsmedelsverket; EU-ordningen for garantert tradisjonelt særpreg (GTS)"
+  }
+]

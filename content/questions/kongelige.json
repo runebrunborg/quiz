@@ -1,0 +1,666 @@
+[
+  {
+    "id": "kongelige-l-01",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["tv", "popkultur"],
+    "prompt": {
+      "nb": "Peter Morgan skapte denne Netflix-serien, som hadde premiere i november 2016 og gikk i seks sesonger. Tre ulike skuespillere spilte dronning Elizabeth II etter hvert som tiårene gikk, fra slutten av 1940-tallet og framover. Hva heter serien?",
+      "sv": "Peter Morgan skapade den här Netflix-serien, som hade premiär i november 2016 och gick i sex säsonger. Tre olika skådespelare spelade drottning Elizabeth II allt eftersom decennierna gick, från slutet av 1940-talet och framåt. Vad heter serien?"
+    },
+    "answer": "The Crown",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Serien er kjent for at hele rollegalleriet ble byttet ut annenhver sesong, slik at skuespillerne fulgte figurenes alder.",
+      "sv": "Serien är känd för att hela rollistan byttes ut varannan säsong, så att skådespelarna följde figurernas ålder."
+    },
+    "funFact": {
+      "nb": "Claire Foy spilte dronningen i sesong 1 og 2, Olivia Colman i sesong 3 og 4 og Imelda Staunton i de to siste. Den sjette sesongen kom i to deler høsten 2023.",
+      "sv": "Claire Foy spelade drottningen i säsong 1 och 2, Olivia Colman i säsong 3 och 4 och Imelda Staunton i de två sista. Den sjätte säsongen kom i två delar hösten 2023."
+    },
+    "source": "Netflix – seriesidene for «The Crown» (2016–2023)"
+  },
+  {
+    "id": "kongelige-l-02",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["arkitektur", "kongehus"],
+    "prompt": {
+      "nb": "Huset ble reist for en hertug i 1703 og rommer i dag 775 rom. Victoria var den første monarken som flyttet inn, i 1837, og balkongen ut mot The Mall er blitt selve stedet for kongelige vinkerunder. Hva heter palasset?",
+      "sv": "Huset uppfördes åt en hertig 1703 och rymmer i dag 775 rum. Victoria var den första monarken som flyttade in, 1837, och balkongen ut mot The Mall har blivit själva platsen för kungliga vinkanden. Vad heter palatset?"
+    },
+    "answer": "Buckingham Palace",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vaktskiftet utenfor porten er en av Londons store turistattraksjoner.",
+      "sv": "Vaktavlösningen utanför grinden är en av Londons stora turistattraktioner."
+    },
+    "funFact": {
+      "nb": "Av de 775 rommene er 19 statsrom, 52 kongelige soverom og 78 bad. Standarten på taket viser om monarken er til stede i huset.",
+      "sv": "Av de 775 rummen är 19 statsrum, 52 kungliga sovrum och 78 badrum. Standaret på taket visar om monarken är på plats i huset."
+    },
+    "source": "Royal Collection Trust – Buckingham Palace"
+  },
+  {
+    "id": "kongelige-l-03",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie", "politikk"],
+    "prompt": {
+      "nb": "Han var dansk prins og het Carl, men tok et gammelt norsk kongenavn da Stortinget valgte ham 18. november 1905. Året etter ble han kronet i Nidarosdomen, og han satt på tronen i 52 år, gjennom både okkupasjon og gjenoppbygging. Hvilken konge?",
+      "sv": "Han var dansk prins och hette Carl, men tog ett gammalt norskt kunganamn när Stortinget valde honom den 18 november 1905. Året därpå kröntes han i Nidarosdomen, och han satt på tronen i 52 år, genom både ockupation och återuppbyggnad. Vilken kung?"
+    },
+    "answer": { "nb": "Haakon 7", "sv": "Haakon VII" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet hadde ikke vært brukt av en norsk konge siden middelalderen, og oldebarnet hans bærer det i dag.",
+      "sv": "Namnet hade inte använts av en norsk kung sedan medeltiden, och hans barnbarnsbarn bär det i dag."
+    },
+    "funFact": {
+      "nb": "Folkeavstemningen i november 1905 ga nesten 80 prosent støtte til monarkiet. Under andre verdenskrig ledet han motstanden mot okkupasjonen fra London, og han døde i 1957, 85 år gammel.",
+      "sv": "Folkomröstningen i november 1905 gav nästan 80 procent stöd åt monarkin. Under andra världskriget ledde han motståndet mot ockupationen från London, och han dog 1957, 85 år gammal."
+    },
+    "source": "Store norske leksikon – Haakon 7; Kongehuset.no"
+  },
+  {
+    "id": "kongelige-l-04",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["historie", "religion"],
+    "prompt": {
+      "nb": "Den 6. juni 1523 valgte riksmøtet i Strängnäs ham til svensk konge, og han førte Sverige ut av Kalmarunionen. Han gjennomførte reformasjonen, la kirkegodset under kronen og fikk riket gjort arvelig i 1544. Hvilken konge?",
+      "sv": "Den 6 juni 1523 valde riksmötet i Strängnäs honom till svensk kung, och han förde Sverige ut ur Kalmarunionen. Han genomförde reformationen, lade kyrkogodset under kronan och fick riket gjort ärftligt 1544. Vilken kung?"
+    },
+    "answer": "Gustav Vasa",
+    "answerKind": "person",
+    "person": { "given": "Gustav", "family": "Vasa" },
+    "hint": {
+      "nb": "Datoen for kongevalget er i dag Sveriges nasjonaldag, og ætten hans styrte riket i drøyt 130 år.",
+      "sv": "Datumet för kungavalet är i dag Sveriges nationaldag, och hans ätt styrde riket i drygt 130 år."
+    },
+    "funFact": {
+      "nb": "Han døde i 1560 etter 37 år på tronen. Ætten hans satt på den svenske tronen helt til dronning Kristina abdiserte 6. juni 1654 – på dagen 131 år etter kongevalget i Strängnäs.",
+      "sv": "Han dog 1560 efter 37 år på tronen. Hans ätt satt på den svenska tronen ända tills drottning Kristina abdikerade den 6 juni 1654 – på dagen 131 år efter kungavalet i Strängnäs."
+    },
+    "source": "Store norske leksikon – Gustav 1 Vasa; Nationalencyklopedin"
+  },
+  {
+    "id": "kongelige-l-05",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["arkitektur", "historie"],
+    "prompt": {
+      "nb": "Han kalte seg Solkongen, flyttet hoffet ut av Paris til et jaktslott han bygde om til Europas mest kopierte praktanlegg, og satt på tronen i 72 år – lengst av alle kjente monarker. Hvilken fransk konge?",
+      "sv": "Han kallade sig Solkungen, flyttade hovet ut ur Paris till ett jaktslott som han byggde om till Europas mest kopierade praktanläggning, och satt på tronen i 72 år – längst av alla kända monarker. Vilken fransk kung?"
+    },
+    "answer": { "nb": "Ludvig 14", "sv": "Ludvig XIV" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Slottet han bygde ut ligger i Versailles, og han arvet tronen etter faren allerede som fireåring.",
+      "sv": "Slottet han byggde ut ligger i Versailles, och han ärvde tronen efter sin far redan som fyraåring."
+    },
+    "funFact": {
+      "nb": "Regjeringstiden varte 72 år og 110 dager, fra 1643 til 1715. Han overlevde både sønnen og sønnesønnen, og ble til slutt etterfulgt av oldebarnet sitt.",
+      "sv": "Regeringstiden varade 72 år och 110 dagar, från 1643 till 1715. Han överlevde både sin son och sin sonson, och efterträddes till slut av sitt barnbarnsbarn."
+    },
+    "source": "Château de Versailles; Store norske leksikon – Ludvig 14"
+  },
+  {
+    "id": "kongelige-l-06",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["film", "kongehus"],
+    "prompt": {
+      "nb": "Hun vant Oscar for beste kvinnelige hovedrolle i 1955 og spilte i tre Hitchcock-filmer, blant dem «Vindu mot bakgården». Året etter la hun karrieren på hylla, 26 år gammel, og giftet seg med fyrst Rainier 3 av Monaco. Hva het hun?",
+      "sv": "Hon vann Oscar för bästa kvinnliga huvudroll 1955 och spelade i tre Hitchcock-filmer, bland dem «Fönstret åt gården». Året därpå lade hon karriären på hyllan, 26 år gammal, och gifte sig med furst Rainier III av Monaco. Vad hette hon?"
+    },
+    "answer": "Grace Kelly",
+    "answerKind": "person",
+    "person": { "given": "Grace", "family": "Kelly" },
+    "hint": {
+      "nb": "Hun kom fra Philadelphia, og en berømt håndveske fra Hermès bærer navnet hennes.",
+      "sv": "Hon kom från Philadelphia, och en berömd handväska från Hermès bär hennes namn."
+    },
+    "funFact": {
+      "nb": "Oscaren fikk hun for «The Country Girl» fra 1954. Bryllupet i Monaco i april 1956 ble sendt på fjernsyn og fulgt av et enormt publikum på begge sider av Atlanteren.",
+      "sv": "Oscarn fick hon för «The Country Girl» från 1954. Bröllopet i Monaco i april 1956 sändes i tv och följdes av en enorm publik på båda sidor av Atlanten."
+    },
+    "source": "Academy of Motion Picture Arts and Sciences; Palais Princier de Monaco"
+  },
+  {
+    "id": "kongelige-l-07",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["geografi", "kongehus"],
+    "prompt": {
+      "nb": "De norske riksregaliene ble anskaffet i 1818 for Karl Johans egen regning. Siden 2006 har kongekrone, sverd og kroningskapper vært utstilt i Erkebispegården, like ved domkirken der Haakon 7 og dronning Maud ble kronet i 1906. I hvilken by?",
+      "sv": "De norska riksregalierna anskaffades 1818 för Karl Johans egen räkning. Sedan 2006 har kungakrona, svärd och kröningsmantlar visats i Erkebispegården, alldeles intill domkyrkan där Haakon VII och drottning Maud kröntes 1906. I vilken stad?"
+    },
+    "answer": "Trondheim",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ble grunnlagt av Olav Tryggvason og het i middelalderen Nidaros.",
+      "sv": "Staden grundades av Olav Tryggvason och hette under medeltiden Nidaros."
+    },
+    "funFact": {
+      "nb": "Kroningen i 1906 var den siste i Norge – kroningsparagrafen ble strøket av Grunnloven i 1908. Olav 5 i 1958 og Harald 5 og Sonja i 1991 ble i stedet signet, med regaliene lagt fram på alteret.",
+      "sv": "Kröningen 1906 var den sista i Norge – kröningsparagrafen ströks ur grundlagen 1908. Olav V 1958 och Harald V och Sonja 1991 signades i stället, med regalierna framlagda på altaret."
+    },
+    "source": "Store norske leksikon – riksregalier (Norge); Nidaros Domkirkes Restaureringsarbeider"
+  },
+  {
+    "id": "kongelige-l-08",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["sport", "historie"],
+    "prompt": {
+      "nb": "Skirennet går 90 kilometer fra Sälen til Mora i Dalarna og ble arrangert for første gang i 1922. Det minnes en flukt på ski vinteren 1520–21, da karer fra Mora hentet tilbake mannen som skulle bli konge. Hva heter rennet?",
+      "sv": "Skidloppet går 90 kilometer från Sälen till Mora i Dalarna och arrangerades för första gången 1922. Det minns en flykt på skidor vintern 1520–21, då karlar från Mora hämtade tillbaka mannen som skulle bli kung. Vad heter loppet?"
+    },
+    "answer": "Vasaloppet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer fra kongeætten som ble grunnlagt av mannen de hentet tilbake.",
+      "sv": "Namnet kommer från kungaätten som grundades av mannen de hämtade tillbaka."
+    },
+    "funFact": {
+      "nb": "Det aller første rennet i 1922 hadde 119 startende. Deltakerne går i motsatt retning av den historiske flukten, som gikk fra Mora mot Sälen.",
+      "sv": "Det allra första loppet 1922 hade 119 startande. Deltagarna åker i motsatt riktning mot den historiska flykten, som gick från Mora mot Sälen."
+    },
+    "source": "Vasaloppet – rennets historikk"
+  },
+  {
+    "id": "kongelige-l-09",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["kongehus", "politikk"],
+    "prompt": {
+      "nb": "Han ble britisk konge i januar 1936, men abdiserte allerede 10. desember samme år for å kunne gifte seg med amerikanske Wallis Simpson. Etterpå fikk han tittelen hertug av Windsor, og lillebroren måtte overta tronen. Hvilken konge?",
+      "sv": "Han blev brittisk kung i januari 1936 men abdikerade redan den 10 december samma år för att kunna gifta sig med amerikanska Wallis Simpson. Därefter fick han titeln hertig av Windsor, och lillebrodern fick överta tronen. Vilken kung?"
+    },
+    "answer": { "nb": "Edvard 8", "sv": "Edvard VIII" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han rakk bare 326 dager på tronen, og niesen hans ble senere dronning.",
+      "sv": "Han hann bara 326 dagar på tronen, och hans brorsdotter blev senare drottning."
+    },
+    "funFact": {
+      "nb": "Broren ble Georg 6, og hans datter Elizabeth ble dermed tronarving. Vielsen med Wallis Simpson fant sted på et slott i Frankrike i juni 1937.",
+      "sv": "Brodern blev Georg VI, och hans dotter Elizabeth blev därmed tronarvinge. Vigseln med Wallis Simpson ägde rum på ett slott i Frankrike i juni 1937."
+    },
+    "source": "The Royal Household – History of the Monarchy; Encyclopaedia Britannica"
+  },
+  {
+    "id": "kongelige-l-10",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["arkitektur", "kunst"],
+    "prompt": {
+      "nb": "Her har de britiske kronjuvelene vært vist fram for publikum siden 1669, bevoktet av vaktene som kalles beefeaters. Anlegget ble påbegynt av Vilhelm Erobreren og har vært både festning, fengsel og myntverk. Hva heter det?",
+      "sv": "Här har de brittiska kronjuvelerna visats för allmänheten sedan 1669, bevakade av vakterna som kallas beefeaters. Anläggningen påbörjades av Vilhelm Erövraren och har varit både fästning, fängelse och myntverk. Vad heter den?"
+    },
+    "answer": "Tower of London",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ravnene som holdes der, skal etter sagnet sikre at riket ikke faller.",
+      "sv": "Korparna som hålls där ska enligt sägnen se till att riket inte faller."
+    },
+    "funFact": {
+      "nb": "St. Edvards krone fra 1661 settes på monarkens hode under selve kroningen, mens den lettere Imperial State Crown bæres ut av Westminster Abbey. Diamanten Cullinan I på 530 karat sitter i kongesepteret.",
+      "sv": "Sankt Edvards krona från 1661 sätts på monarkens huvud under själva kröningen, medan den lättare Imperial State Crown bärs ut ur Westminster Abbey. Diamanten Cullinan I på 530 carat sitter i kungaspiran."
+    },
+    "source": "Historic Royal Palaces; Royal Collection Trust – The Crown Jewels"
+  },
+  {
+    "id": "kongelige-m-01",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["tv", "film"],
+    "prompt": {
+      "nb": "Han skrev filmen «The Queen» fra 2006 og teaterstykket «The Audience» fra 2013, begge om Elizabeth II, og senere en Netflix-serie i seks sesonger om det samme kongehuset. Han står også bak «Frost/Nixon». Hvilken britisk manusforfatter?",
+      "sv": "Han skrev filmen «The Queen» från 2006 och pjäsen «The Audience» från 2013, båda om Elizabeth II, och senare en Netflix-serie i sex säsonger om samma kungahus. Han ligger också bakom «Frost/Nixon». Vilken brittisk manusförfattare?"
+    },
+    "answer": "Peter Morgan",
+    "answerKind": "person",
+    "person": { "given": "Peter", "family": "Morgan" },
+    "hint": {
+      "nb": "Helen Mirren spilte dronningen både i filmen hans fra 2006 og i teaterstykket sju år senere.",
+      "sv": "Helen Mirren spelade drottningen både i hans film från 2006 och i pjäsen sju år senare."
+    },
+    "funFact": {
+      "nb": "Han var også med på å skrive «The Last King of Scotland» fra 2006. Netflix-serien hans gikk fra 2016 til 2023.",
+      "sv": "Han var också med och skrev «The Last King of Scotland» från 2006. Hans Netflix-serie gick från 2016 till 2023."
+    },
+    "source": "BAFTA; Netflix – «The Crown»"
+  },
+  {
+    "id": "kongelige-m-02",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["litteratur"],
+    "prompt": {
+      "nb": "I en av Shakespeares tragedier deler en aldrende konge riket mellom døtrene sine etter hvem som smigrer ham mest. De to eldste, Goneril og Regan, overgår hverandre i lovord, mens den yngste svarer nøkternt at hun elsker ham slik plikten tilsier – og blir gjort arveløs. Hva heter hun?",
+      "sv": "I en av Shakespeares tragedier delar en åldrande kung riket mellan sina döttrar efter vem som smickrar honom mest. De två äldsta, Goneril och Regan, överträffar varandra i lovord, medan den yngsta nyktert svarar att hon älskar honom som plikten bjuder – och görs arvlös. Vad heter hon?"
+    },
+    "answer": "Cordelia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hun blir likevel gift med kongen av Frankrike, som tar henne uten medgift.",
+      "sv": "Hon blir ändå gift med kungen av Frankrike, som tar henne utan hemgift."
+    },
+    "funFact": {
+      "nb": "Stykket er «Kong Lear», trolig skrevet rundt 1605. Det ender med at Lear bærer den døde datteren inn på scenen før han selv dør av sorg.",
+      "sv": "Pjäsen är «Kung Lear», troligen skriven omkring 1605. Den slutar med att Lear bär in den döda dottern på scenen innan han själv dör av sorg."
+    },
+    "source": "The Folger Shakespeare Library – «King Lear»"
+  },
+  {
+    "id": "kongelige-m-03",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["politikk", "kongehus"],
+    "prompt": {
+      "nb": "Da Haakon 7 ble valgt til norsk konge i 1905, tok han et valgspråk på tre ord. Olav 5 kunngjorde i statsråd i september 1957 at han gjorde det til sitt, og Harald 5 gjorde det samme ved tronskiftet i januar 1991. Hvordan lyder det?",
+      "sv": "När Haakon VII valdes till norsk kung 1905 tog han ett valspråk på tre ord. Olav V tillkännagav i statsråd i september 1957 att han gjorde det till sitt, och Harald V gjorde detsamma vid tronskiftet i januari 1991. Hur lyder det?"
+    },
+    "answer": "Alt for Norge",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordene sier hva kongen vier seg til, og de står blant annet på minnesmerker fra andre verdenskrig.",
+      "sv": "Orden säger vad kungen ägnar sig åt, och de står bland annat på minnesmärken från andra världskriget."
+    },
+    "funFact": {
+      "nb": "Valgspråket ble kunngjort da Stortinget valgte ham 18. november 1905, og har fulgt alle tre kongene i huset siden. Harald 5 kunngjorde sitt ved midnatt 17. januar 1991.",
+      "sv": "Valspråket tillkännagavs när Stortinget valde honom den 18 november 1905 och har följt alla tre kungarna i huset sedan dess. Harald V tillkännagav sitt vid midnatt den 17 januari 1991."
+    },
+    "source": "Store norske leksikon – Alt for Norge; Kongehuset.no"
+  },
+  {
+    "id": "kongelige-m-04",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["historie", "kongehus"],
+    "prompt": {
+      "nb": "Han var fransk marskalk under Napoleon og sønn av en jurist fra Pau, men ble i 1810 valgt til svensk tronfølger. Fra 1818 var han konge av både Sverige og Norge, og etterkommerne hans sitter på den svenske tronen ennå. Hvilket kongehus?",
+      "sv": "Han var fransk marskalk under Napoleon och son till en jurist från Pau, men valdes 1810 till svensk tronföljare. Från 1818 var han kung av både Sverige och Norge, och hans ättlingar sitter på den svenska tronen än i dag. Vilket kungahus?"
+    },
+    "answer": "Bernadotte",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Som konge kalte han seg Karl 14 Johan, og hovedgaten i Oslo er oppkalt etter ham.",
+      "sv": "Som kung kallade han sig Karl XIV Johan, och huvudgatan i Oslo är uppkallad efter honom."
+    },
+    "funFact": {
+      "nb": "Han het opprinnelig Jean-Baptiste Bernadotte og ble utnevnt til marskalk av Napoleon i 1804. Han ble konge 5. februar 1818 og satt på tronen til han døde i 1844.",
+      "sv": "Han hette ursprungligen Jean-Baptiste Bernadotte och utnämndes till marskalk av Napoleon 1804. Han blev kung den 5 februari 1818 och satt på tronen tills han dog 1844."
+    },
+    "source": "Kungahuset.se – Bernadotteätten; Store norske leksikon – Karl 14 Johan"
+  },
+  {
+    "id": "kongelige-m-05",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["historie", "politikk"],
+    "prompt": {
+      "nb": "Mikhail Fjodorovitsj ble valgt til tsar i 1613, etter en lang periode med tronstrid og uro. Slekten hans styrte Russland i drøyt 300 år, helt til Nikolaj 2 abdiserte under revolusjonen i 1917. Hva heter dynastiet?",
+      "sv": "Michail Fjodorovitj valdes till tsar 1613, efter en lång period av tronstrider och oro. Hans släkt styrde Ryssland i drygt 300 år, ända tills Nikolaj II abdikerade under revolutionen 1917. Vad heter dynastin?"
+    },
+    "answer": "Romanov",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Blant dynastiets mest kjente herskere er Peter den store og Katarina den store.",
+      "sv": "Bland dynastins mest kända härskare finns Peter den store och Katarina den stora."
+    },
+    "funFact": {
+      "nb": "Dynastiet satt ved makten i 304 år, fra 1613 til 1917. Peter den store grunnla St. Petersburg i 1703 og gjorde byen til rikets hovedstad.",
+      "sv": "Dynastin satt vid makten i 304 år, från 1613 till 1917. Peter den store grundade S:t Petersburg 1703 och gjorde staden till rikets huvudstad."
+    },
+    "source": "Store norske leksikon – Romanov"
+  },
+  {
+    "id": "kongelige-m-06",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["fotball", "sport"],
+    "prompt": {
+      "nb": "Klubben fra den spanske hovedstaden ble stiftet i 1902. I 1920 ga kong Alfonso 13 den rett til å kalle seg kongelig, og en krone ble lagt inn i klubbmerket. Den vant også de fem første europacupene for mesterlag, fra 1956 til 1960. Hvilken klubb?",
+      "sv": "Klubben från den spanska huvudstaden bildades 1902. År 1920 gav kung Alfonso XIII den rätt att kalla sig kunglig, och en krona lades in i klubbmärket. Den vann också de fem första Europacuperna för mästarlag, från 1956 till 1960. Vilken klubb?"
+    },
+    "answer": "Real Madrid",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hjemmebanen heter Santiago Bernabéu, og erkerivalen holder til i Barcelona.",
+      "sv": "Hemmaarenan heter Santiago Bernabéu, och ärkerivalen håller till i Barcelona."
+    },
+    "funFact": {
+      "nb": "Ordet «real» betyr «kongelig» på spansk. Flere spanske klubber har fått den samme tittelen, blant dem Real Sociedad og Real Betis.",
+      "sv": "Ordet «real» betyder «kunglig» på spanska. Flera spanska klubbar har fått samma titel, bland dem Real Sociedad och Real Betis."
+    },
+    "source": "Real Madrid CF – klubbhistorikk; UEFA"
+  },
+  {
+    "id": "kongelige-m-07",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["militaerhistorie", "religion"],
+    "prompt": {
+      "nb": "Han ble svensk konge i 1611, reformerte hæren grundig og gikk inn i trettiårskrigen på protestantisk side. Ved Lützen 6. november 1632 falt han mens han ledet et motangrep. Samtiden kalte ham «Løven fra Norden». Hvilken konge?",
+      "sv": "Han blev svensk kung 1611, reformerade hären grundligt och gick in i trettioåriga kriget på protestantisk sida. Vid Lützen den 6 november 1632 stupade han medan han ledde ett motanfall. Samtiden kallade honom «Lejonet från Norden». Vilken kung?"
+    },
+    "answer": { "nb": "Gustav 2 Adolf", "sv": "Gustav II Adolf" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dødsdagen hans markeres fortsatt i Sverige 6. november, med et eget bakverk.",
+      "sv": "Hans dödsdag uppmärksammas fortfarande i Sverige den 6 november, med ett eget bakverk."
+    },
+    "funFact": {
+      "nb": "Riksdagen ga ham i 1633 tilnavnet «den store». Datteren hans var bare fem år gammel da hun ble dronning etter ham.",
+      "sv": "Riksdagen gav honom 1633 tillnamnet «den store». Hans dotter var bara fem år gammal när hon blev drottning efter honom."
+    },
+    "source": "Store norske leksikon – Gustav 2 Adolf; Nationalencyklopedin"
+  },
+  {
+    "id": "kongelige-m-08",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["politikk", "kunst"],
+    "prompt": {
+      "nb": "Hun ble dronning i januar 1972 og abdiserte 14. januar 2024, på dagen 52 år senere, til fordel for sønnen Frederik 10. Ved siden av embetet har hun illustrert bøker, laget kirketekstiler og designet kostymer til film og ballett. Hvilken dronning?",
+      "sv": "Hon blev drottning i januari 1972 och abdikerade den 14 januari 2024, på dagen 52 år senare, till förmån för sonen Frederik X. Vid sidan av ämbetet har hon illustrerat böcker, gjort kyrkotextilier och formgett kostymer till film och balett. Vilken drottning?"
+    },
+    "answer": { "nb": "Margrethe 2", "sv": "Margrethe II" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hun er dansk, og faren het Frederik 9.",
+      "sv": "Hon är dansk, och hennes far hette Frederik IX."
+    },
+    "funFact": {
+      "nb": "Illustrasjonene hennes til den danske utgaven av Tolkiens ringtrilogi ble laget under pseudonymet Ingahild Grathmer. I 2023 fikk hun en dansk Robert-pris for kostymene i filmen «Ehrengard».",
+      "sv": "Hennes illustrationer till den danska utgåvan av Tolkiens ringtrilogi gjordes under pseudonymen Ingahild Grathmer. År 2023 fick hon ett danskt Robert-pris för kostymerna i filmen «Ehrengard»."
+    },
+    "source": "Kongehuset.dk; Det Danske Filmakademi – Robert-prisen"
+  },
+  {
+    "id": "kongelige-m-09",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["natur", "geografi"],
+    "prompt": {
+      "nb": "Vest for Isterdalen i Rauma, rett ved Trollstigen, reiser tre bratte topper seg med hvert sitt verdige navn: Bispen på 1462 meter, Dronninga på 1544 meter og en tredje som er den høyeste, 1614 meter. Hva heter den høyeste?",
+      "sv": "Väster om Isterdalen i Rauma, alldeles vid Trollstigen, reser sig tre branta toppar med var sitt värdiga namn: Bispen på 1462 meter, Dronninga på 1544 meter och en tredje som är den högsta, 1614 meter. Vad heter den högsta?"
+    },
+    "answer": "Kongen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er det mannlige motstykket til toppen på 1544 meter.",
+      "sv": "Namnet är den manliga motsvarigheten till toppen på 1544 meter."
+    },
+    "funFact": {
+      "nb": "De tre toppene kalles under ett Isterdalstindene. Dronninga ble første gang besteget i 1882 av Carl Christian Hall sammen med Matias Soggemoen og Erik Norahagen.",
+      "sv": "De tre topparna kallas gemensamt Isterdalstindene. Dronninga bestegs första gången 1882 av Carl Christian Hall tillsammans med Matias Soggemoen och Erik Norahagen."
+    },
+    "source": "Store norske leksikon – Kongen (fjell i Rauma), Dronninga, Bispen"
+  },
+  {
+    "id": "kongelige-m-10",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["politikk", "militaerhistorie"],
+    "prompt": {
+      "nb": "Ordenen ble stiftet av Edvard 3 rundt 1348 og er Storbritannias fornemste ridderorden. Den har høyst 24 riddere om gangen ved siden av kongefamilien, holder til i St. George's Chapel på Windsor og bærer valgspråket «Honi soit qui mal y pense». Hva heter den?",
+      "sv": "Orden stiftades av Edvard III omkring 1348 och är Storbritanniens förnämsta riddarorden. Den har högst 24 riddare åt gången vid sidan av kungafamiljen, håller till i St George's Chapel i Windsor och bär valspråket «Honi soit qui mal y pense». Vad heter den?"
+    },
+    "answer": { "nb": "Strømpebåndsordenen", "sv": "Strumpebandsorden" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av det plagget medlemmene bærer under venstre kne.",
+      "sv": "Namnet kommer av det plagg medlemmarna bär under vänster knä."
+    },
+    "funFact": {
+      "nb": "Valgspråket betyr omtrent «skam den som tenker ille om det». Historien om en hoffdame som mistet et plagg på et ball er trolig diktet opp lenge etterpå.",
+      "sv": "Valspråket betyder ungefär «skam den som tänker illa om det». Historien om en hovdam som tappade ett plagg på en bal är troligen påhittad långt senare."
+    },
+    "source": "The Royal Household – Order of the Garter; College of Arms"
+  },
+  {
+    "id": "kongelige-v-01",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["militaerhistorie", "religion"],
+    "prompt": {
+      "nb": "Etter to borgerkriger mot parlamentet ble han stilt for en domstol han nektet å anerkjenne, og halshugd utenfor Banqueting House i Whitehall 30. januar 1649. England var deretter republikk i elleve år. Hvilken konge?",
+      "sv": "Efter två inbördeskrig mot parlamentet ställdes han inför en domstol som han vägrade erkänna, och halshöggs utanför Banqueting House i Whitehall den 30 januari 1649. England var därefter republik i elva år. Vilken kung?"
+    },
+    "answer": { "nb": "Karl 1", "sv": "Karl I" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han var sønn av Jakob 1 og dansk-norske Anna, og hovedmotstanderen hans het Oliver Cromwell.",
+      "sv": "Han var son till Jakob I och dansk-norska Anna, och hans främste motståndare hette Oliver Cromwell."
+    },
+    "funFact": {
+      "nb": "Monarkiet ble gjenopprettet i 1660 med sønnen Karl 2 på tronen. Den engelske kirken gjorde 30. januar til fastedag til minne om ham.",
+      "sv": "Monarkin återupprättades 1660 med sonen Karl II på tronen. Engelska kyrkan gjorde den 30 januari till fastedag till minne av honom."
+    },
+    "source": "Store norske leksikon – Karl 1 av England og Skottland; Historic Royal Palaces – Banqueting House"
+  },
+  {
+    "id": "kongelige-v-02",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["militaerhistorie", "geografi"],
+    "prompt": {
+      "nb": "Han ble svensk konge i 1697 og førte den store nordiske krigen fra 1700, med felttog i Polen og Russland og flere år i eksil i Det osmanske riket. I 1718 falt han for en kule ved Fredriksten festning i Halden. Hvilken konge?",
+      "sv": "Han blev svensk kung 1697 och förde det stora nordiska kriget från 1700, med fälttåg i Polen och Ryssland och flera år i exil i Osmanska riket. År 1718 stupade han för en kula vid Fredrikstens fästning i Halden. Vilken kung?"
+    },
+    "answer": { "nb": "Karl 12", "sv": "Karl XII" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han var 36 år da han døde, og dødsdagen markeres fortsatt i Sverige 30. november.",
+      "sv": "Han var 36 år när han dog, och dödsdagen uppmärksammas fortfarande i Sverige den 30 november."
+    },
+    "funFact": {
+      "nb": "Om kulen kom fra festningen eller fra egne rekker er aldri avklart. Nyere ballistiske og topografiske undersøkelser har svekket attentatteoriene.",
+      "sv": "Om kulan kom från fästningen eller från de egna leden har aldrig klarlagts. Nyare ballistiska och topografiska undersökningar har försvagat attentatsteorierna."
+    },
+    "source": "Store norske leksikon – Karl 12; Fredriksten festning"
+  },
+  {
+    "id": "kongelige-v-03",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["arkitektur", "kunst"],
+    "prompt": {
+      "nb": "Oscar 1 lot dansken Johan Henrik Nebelong reise dette lystslottet på Bygdøy mellom 1847 og 1852, i engelskinspirert nygotikk med tårn og loggia. Det regnes som et hovedverk i norsk nasjonalromantikk. Hva heter det?",
+      "sv": "Oscar I lät dansken Johan Henrik Nebelong uppföra detta lustslott på Bygdøy mellan 1847 och 1852, i engelskinspirerad nygotik med torn och loggia. Det räknas som ett huvudverk i norsk nationalromantik. Vad heter det?"
+    },
+    "answer": "Oscarshall",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av byggherrens fornavn og et ord for sal.",
+      "sv": "Namnet är sammansatt av byggherrens förnamn och ett ord för sal."
+    },
+    "funFact": {
+      "nb": "Anlegget ligger ved Frognerkilen og var ment som lystslott og sommerbolig, ikke som fast residens. I dag er det åpent for publikum om sommeren.",
+      "sv": "Anläggningen ligger vid Frognerkilen och var tänkt som lustslott och sommarbostad, inte som fast residens. I dag är det öppet för allmänheten på sommaren."
+    },
+    "source": "Store norske leksikon – Oscarshall; Kongehuset.no"
+  },
+  {
+    "id": "kongelige-v-04",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["arkitektur", "religion"],
+    "prompt": {
+      "nb": "Filip 2 lot bygge dette svære anlegget nordvest for Madrid mellom 1563 og 1584 – kloster, kirke, bibliotek og kongebolig i ett, med et gravkammer der de fleste spanske monarker gjennom fem hundre år er stedt til hvile. Hva heter det?",
+      "sv": "Filip II lät bygga denna väldiga anläggning nordväst om Madrid mellan 1563 och 1584 – kloster, kyrka, bibliotek och kungabostad i ett, med en gravkammare där de flesta spanska monarker under fem hundra år är gravsatta. Vad heter den?"
+    },
+    "answer": "El Escorial",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Anlegget ligger ved foten av Sierra de Guadarrama, og stedet rundt det heter San Lorenzo.",
+      "sv": "Anläggningen ligger vid foten av Sierra de Guadarrama, och orten runt den heter San Lorenzo."
+    },
+    "funFact": {
+      "nb": "Kongepanteonet rommer 26 marmorsarkofager med konger og regjerende dronninger fra både den habsburgske og den bourbonske linjen. Anlegget står på UNESCOs verdensarvliste.",
+      "sv": "Kungapanteonet rymmer 26 marmorsarkofager med kungar och regerande drottningar från både den habsburgska och den bourbonska linjen. Anläggningen står på Unescos världsarvslista."
+    },
+    "source": "Patrimonio Nacional, Spania; UNESCO verdensarvliste"
+  },
+  {
+    "id": "kongelige-v-05",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["design", "dyr"],
+    "prompt": {
+      "nb": "Danmarks fornemste orden fikk sin nåværende form under Christian 5 i 1693. Ordenstegnet er et hvitemaljert dyr i gull med et lite rosa tårn på ryggen og en fører foran tårnet. Siden 1849 tildeles den nesten bare statsoverhoder og kongelige. Hva heter ordenen?",
+      "sv": "Danmarks förnämsta orden fick sin nuvarande form under Christian V 1693. Ordenstecknet är ett vitemaljerat djur i guld med ett litet rosa torn på ryggen och en förare framför tornet. Sedan 1849 tilldelas den nästan bara statschefer och kungligheter. Vad heter orden?"
+    },
+    "answer": { "nb": "Elefantordenen", "sv": "Elefantorden" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dyret bærer et tårn på ryggen, slik krigselefanter ble avbildet i middelalderen.",
+      "sv": "Djuret bär ett torn på ryggen, så som krigselefanter avbildades under medeltiden."
+    },
+    "funFact": {
+      "nb": "Ordenens historie føres tilbake til 1400-tallet, men den ble innstiftet i sin nåværende form 1. desember 1693. Selve ordenstegnet er om lag fem centimeter høyt.",
+      "sv": "Ordens historia förs tillbaka till 1400-talet, men den instiftades i sin nuvarande form den 1 december 1693. Själva ordenstecknet är omkring fem centimeter högt."
+    },
+    "source": "Kongehuset.dk – Kongelige ordener; Ordenskapitlet, Danmark"
+  },
+  {
+    "id": "kongelige-v-06",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["religion", "kunst"],
+    "prompt": {
+      "nb": "Hun ble svensk regent som femåring i 1632, ble oppdratt nærmest som en prins og fylte hoffet med lærde og kunstnere. I 1654 abdiserte hun til fordel for fetteren, konverterte til katolisismen og slo seg ned i Roma. Hva het hun?",
+      "sv": "Hon blev svensk regent som femåring 1632, uppfostrades närmast som en prins och fyllde hovet med lärda och konstnärer. År 1654 abdikerade hon till förmån för sin kusin, konverterade till katolicismen och slog sig ned i Rom. Vad hette hon?"
+    },
+    "answer": { "nb": "Dronning Kristina", "sv": "Drottning Kristina" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "René Descartes ble hentet til hoffet hennes i Stockholm og døde der vinteren 1650.",
+      "sv": "René Descartes hämtades till hennes hov i Stockholm och dog där vintern 1650."
+    },
+    "funFact": {
+      "nb": "Hun abdiserte 6. juni 1654, konverterte i Brussel julaften samme år og tok navnet Kristina Alexandra. Hun er gravlagt i grottene under Peterskirken – en av svært få kvinner som har fått den plassen.",
+      "sv": "Hon abdikerade den 6 juni 1654, konverterade i Bryssel på julafton samma år och tog namnet Kristina Alexandra. Hon är begravd i grottorna under Peterskyrkan – en av mycket få kvinnor som fått den platsen."
+    },
+    "source": "Nationalencyklopedin – Kristina; Store norske leksikon"
+  },
+  {
+    "id": "kongelige-v-07",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["religion", "militaerhistorie"],
+    "prompt": {
+      "nb": "I Bergen på 1160-tallet salvet og kronet erkebiskop Øystein Erlendsson en gutt som ikke var kongesønn, men dattersønn av en konge. Det var den første kroningen av en konge i Norden, og samtidig kom landets første tronfølgelov. Hvem ble kronet?",
+      "sv": "I Bergen på 1160-talet smorde och krönte ärkebiskop Øystein Erlendsson en pojke som inte var kungason, utan dotterson till en kung. Det var den första kröningen av en kung i Norden, och samtidigt kom landets första tronföljdslag. Vem kröntes?"
+    },
+    "answer": "Magnus Erlingsson",
+    "answerKind": "person",
+    "person": { "given": "Magnus", "family": "Erlingsson" },
+    "hint": {
+      "nb": "Faren het Erling Skakke og styrte i praksis riket på hans vegne.",
+      "sv": "Fadern hette Erling Skakke och styrde i praktiken riket för hans räkning."
+    },
+    "funFact": {
+      "nb": "Tronfølgeloven av 1163 slo fast enekongedømme og krav om ektefødsel, og ga biskopene en ledende rolle ved kongevalg. Han druknet i slaget ved Fimreite i Sogn 15. juni 1184, mot Sverre Sigurdsson.",
+      "sv": "Tronföljdslagen från 1163 slog fast enkungadöme och krav på äktenskaplig börd, och gav biskoparna en ledande roll vid kungaval. Han drunknade i slaget vid Fimreite i Sogn den 15 juni 1184, mot Sverre Sigurdsson."
+    },
+    "source": "Store norske leksikon – Magnus 5 Erlingsson"
+  },
+  {
+    "id": "kongelige-v-08",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["litteratur", "vitenskap"],
+    "prompt": {
+      "nb": "«Min hest, min hest, mitt kongerike for en hest!» roper han i Shakespeares stykke, rett før han faller i slaget ved Bosworth i 1485 – den siste engelske kongen som døde i kamp. Hvem er han?",
+      "sv": "«Min häst, min häst, mitt kungarike för en häst!» ropar han i Shakespeares pjäs, strax innan han stupar i slaget vid Bosworth 1485 – den siste engelske kung som dog i strid. Vem är han?"
+    },
+    "answer": { "nb": "Rikard 3", "sv": "Rikard III" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skjelettet hans ble funnet under en parkeringsplass i Leicester i 2012.",
+      "sv": "Hans skelett hittades under en parkeringsplats i Leicester 2012."
+    },
+    "funFact": {
+      "nb": "Levningene ble identifisert blant annet med mitokondrie-DNA fra etterkommere av søsteren hans, og gravlagt på nytt i Leicester Cathedral i mars 2015. Stykket åpner med replikken «Now is the winter of our discontent».",
+      "sv": "Kvarlevorna identifierades bland annat med mitokondrie-DNA från ättlingar till hans syster, och gravsattes på nytt i Leicester Cathedral i mars 2015. Pjäsen inleds med repliken «Now is the winter of our discontent»."
+    },
+    "source": "University of Leicester – Greyfriars-prosjektet; The Folger Shakespeare Library"
+  },
+  {
+    "id": "kongelige-v-09",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["geografi", "okonomi"],
+    "prompt": {
+      "nb": "Landet er verdens eneste gjenværende storhertugdømme, med et areal på under 2 600 kvadratkilometer og under en million innbyggere. Det ble helt selvstendig i 1890, da personalunionen med Nederland tok slutt. Hvilket land?",
+      "sv": "Landet är världens enda kvarvarande storhertigdöme, med en yta på under 2 600 kvadratkilometer och under en miljon invånare. Det blev helt självständigt 1890, när personalunionen med Nederländerna upphörde. Vilket land?"
+    },
+    "answer": { "nb": "Luxembourg", "sv": "Luxemburg" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedstaden heter det samme som landet, og de gamle bydelene og festningsverkene der står på UNESCOs verdensarvliste.",
+      "sv": "Huvudstaden heter samma sak som landet, och de gamla stadsdelarna och befästningarna där står på Unescos världsarvslista."
+    },
+    "funFact": {
+      "nb": "Statsoverhodet har tittelen storhertug. Personalunionen tok slutt fordi den nederlandske tronen gikk til en kvinne, mens tronfølgen her fulgte mannslinjen.",
+      "sv": "Statschefen har titeln storhertig. Personalunionen upphörde eftersom den nederländska tronen gick till en kvinna, medan tronföljden här följde manslinjen."
+    },
+    "source": "Store norske leksikon – Luxembourg; UNESCO verdensarvliste"
+  },
+  {
+    "id": "kongelige-v-10",
+    "category": "kongelige",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["arkitektur", "musikk"],
+    "prompt": {
+      "nb": "Lovisa Ulrika lot Carl Fredrik Adelcrantz bygge det i 1766, etter at forgjengeren brant fire år tidligere. Vognmaskineriet, bølgemaskinen og tordenmaskinen fra 1700-tallet virker fortsatt, etter at bygget sto glemt til Agne Beijer fant det igjen i 1921. Hva heter teateret?",
+      "sv": "Lovisa Ulrika lät Carl Fredrik Adelcrantz bygga det 1766, sedan föregångaren brunnit fyra år tidigare. Vagnmaskineriet, vågmaskinen och åskmaskinen från 1700-talet fungerar än, efter att byggnaden stått glömd tills Agne Beijer återfann den 1921. Vad heter teatern?"
+    },
+    "answer": "Drottningholms slottsteater",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Teateret ligger i parken ved den svenske kongefamiliens residens utenfor Stockholm.",
+      "sv": "Teatern ligger i parken vid den svenska kungafamiljens residens utanför Stockholm."
+    },
+    "funFact": {
+      "nb": "Det åpnet igjen 19. august 1922. Slottet, parken og teateret ble ført opp på UNESCOs verdensarvliste i 1991, og det spilles barokkopera der hver sommer.",
+      "sv": "Den öppnade igen den 19 augusti 1922. Slottet, parken och teatern fördes upp på Unescos världsarvslista 1991, och det spelas barockopera där varje sommar."
+    },
+    "source": "Drottningholms Slottsteater; UNESCO verdensarvliste"
+  }
+]

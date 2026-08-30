@@ -1,0 +1,770 @@
+[
+  {
+    "id": "drikke-l-01",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Da kronprins Ludwig av Bayern giftet seg med prinsesse Therese i oktober 1810, ble byens innbyggere invitert til hesteveddeløp og folkefest på en eng utenfor bymuren. Engen bærer fortsatt brudens navn, og festen gjentas hvert år som verdens største ølfestival. I hvilken by feires den?",
+      "sv": "När kronprins Ludvig av Bayern gifte sig med prinsessan Therese i oktober 1810 bjöds stadens invånare på hästkapplöpning och folkfest på en äng utanför stadsmuren. Ängen bär fortfarande brudens namn, och festen upprepas varje år som världens största ölfest. I vilken stad firas den?"
+    },
+    "answer": "München",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er hovedstad i delstaten Bayern og ligger ved elva Isar.",
+      "sv": "Staden är huvudstad i delstaten Bayern och ligger vid floden Isar."
+    },
+    "funFact": {
+      "nb": "Engen fikk navnet Theresienwiese etter bruden, og festen kalles i dagligtale bare «Wiesn». Den aller første feiringen i 1810 var i hovedsak et hesteveddeløp.",
+      "sv": "Ängen fick namnet Theresienwiese efter bruden, och festen kallas i dagligt tal bara «Wiesn». Den allra första festen 1810 var i huvudsak en hästkapplöpning."
+    },
+    "source": "Wikipedia (engelsk) – «Oktoberfest»"
+  },
+  {
+    "id": "drikke-l-02",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "I Johannesevangeliets andre kapittel slipper vinen opp midt under et bryllup i Galilea. Jesus ber tjenerne fylle steinkarene med vann, og kjøkemesteren undrer seg over at den beste vinen ble spart til sist. Evangelisten kaller det det første tegnet. I hvilken landsby skjer dette?",
+      "sv": "I Johannesevangeliets andra kapitel tar vinet slut mitt under ett bröllop i Galileen. Jesus ber tjänarna fylla stenkärlen med vatten, och köksmästaren förvånas över att det bästa vinet sparats till sist. Evangelisten kallar det det första tecknet. I vilken by sker detta?"
+    },
+    "answer": "Kana",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fortellingen leses ofte i vielser, og landsbyens navn brukes gjerne som navn på selve underet.",
+      "sv": "Berättelsen läses ofta vid vigslar, och byns namn används gärna som namn på själva undret."
+    },
+    "funFact": {
+      "nb": "Beretningen finnes bare hos Johannes. Arkeologene er uenige om hvilken landsby i Galilea som er den rette – Kafr Kanna og Khirbet Qana er de to kandidatene.",
+      "sv": "Berättelsen finns bara hos Johannes. Arkeologerna är oense om vilken by i Galileen som är den rätta – Kafr Kanna och Khirbet Qana är de två kandidaterna."
+    },
+    "source": "Johannesevangeliet 2; Wikipedia (engelsk) – «Marriage at Cana»"
+  },
+  {
+    "id": "drikke-l-03",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Middelalderens klosterbryggere oppdaget at blomsterkonglene fra en slyngplante i hampefamilien gjorde ølet både beskere og mye mer holdbart. Planten regnes i dag som en av ølets fire hovedingredienser, sammen med vann, malt og gjær. Hvilken plante er det snakk om?",
+      "sv": "Medeltidens klosterbryggare upptäckte att blomkottarna från en slingerväxt i hampfamiljen gjorde ölet både beskare och mycket hållbarare. Växten räknas i dag som en av ölets fyra huvudingredienser, tillsammans med vatten, malt och jäst. Vilken växt handlar det om?"
+    },
+    "answer": "Humle",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Rankene klatrer opp snorer i høye stativ, og konglene høstes på sensommeren.",
+      "sv": "Rankorna klättrar upp längs snören i höga ställningar, och kottarna skördas på sensommaren."
+    },
+    "funFact": {
+      "nb": "Planten heter Humulus lupulus og hører til familien Cannabaceae, samme familie som hamp. Det er de hunnlige blomsterkonglene som brukes, og de virker også konserverende ved å hemme bakterier.",
+      "sv": "Växten heter Humulus lupulus och hör till familjen Cannabaceae, samma familj som hampa. Det är de honliga blomkottarna som används, och de verkar också konserverande genom att hämma bakterier."
+    },
+    "source": "Wikipedia (engelsk) – «Hops»"
+  },
+  {
+    "id": "drikke-l-04",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Omtrent 16 mil øst for Paris ligger et kjølig dyrkingsområde med Reims og Épernay som handelssentre. Området er delt i fem underdistrikter, og navnet er så strengt vernet i EU-retten at musserende vin fra andre steder ikke får bruke det. Hva heter området?",
+      "sv": "Ungefär 16 mil öster om Paris ligger ett svalt odlingsområde med Reims och Épernay som handelscentrum. Området är indelat i fem distrikt, och namnet är så strängt skyddat i EU-rätten att mousserande vin från andra håll inte får använda det. Vad heter området?"
+    },
+    "answer": "Champagne",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Blant underdistriktene finner vi Montagne de Reims og Vallée de la Marne.",
+      "sv": "Bland distrikten finns Montagne de Reims och Vallée de la Marne."
+    },
+    "funFact": {
+      "nb": "Bransjeorganet CIVC ble opprettet i 1941 og våker over reglene. Området er dessuten det eneste i Frankrike som slipper å skrive «appellation d'origine contrôlée» på etiketten.",
+      "sv": "Branschorganet CIVC inrättades 1941 och vakar över reglerna. Området är dessutom det enda i Frankrike som slipper skriva «appellation d'origine contrôlée» på etiketten."
+    },
+    "source": "Comité Champagne (CIVC); Wikipedia (engelsk) – «Champagne (wine region)»"
+  },
+  {
+    "id": "drikke-l-05",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Nyttårsaften 1759 undertegnet en irsk brygger en leiekontrakt på 9 000 år for et nedlagt bryggeri ved St James's Gate i Dublin, til 45 pund i året. Den mørke stouten derfra bærer fortsatt familienavnet hans. Hvilket bryggeri er dette?",
+      "sv": "På nyårsaftonen 1759 undertecknade en irländsk bryggare ett arrendekontrakt på 9 000 år för ett nedlagt bryggeri vid St James's Gate i Dublin, för 45 pund om året. Den mörka stouten därifrån bär fortfarande hans familjenamn. Vilket bryggeri är det?"
+    },
+    "answer": "Guinness",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Familienavnet står også på verdens mest kjente rekordbok.",
+      "sv": "Familjenamnet står också på världens mest kända rekordbok."
+    },
+    "funFact": {
+      "nb": "Bryggeriet kjøpte senere tomta, så den lange leiekontrakten er for lengst uten betydning. Rekordboken ble til etter at direktøren Hugh Beaver i 1951 kranglet om hvilket fuglevilt som er Europas raskeste; første utgave kom i 1955.",
+      "sv": "Bryggeriet köpte senare tomten, så det långa arrendet saknar sedan länge betydelse. Rekordboken kom till efter att direktören Hugh Beaver 1951 tvistade om vilket fågelvilt som är Europas snabbaste; första upplagan kom 1955."
+    },
+    "source": "Wikipedia (engelsk) – «Guinness Brewery» og «Guinness World Records»"
+  },
+  {
+    "id": "drikke-l-06",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mytologi",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Romerne knyttet ham til sin egen Liber Pater, og fra rundt 205 f.Kr. smeltet skikkelsene sammen. Grekerne kalte ham Dionysos, og han rådde over vinranke, fruktbarhet og teater. Hva het vinguden hos romerne?",
+      "sv": "Romarna knöt honom till sin egen Liber Pater, och från omkring 205 f.Kr. smälte gestalterna samman. Grekerna kallade honom Dionysos, och han rådde över vinranka, fruktbarhet och teater. Vad hette vinguden hos romarna?"
+    },
+    "answer": "Bacchus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Caravaggio malte ham som en ung mann med vinranke i håret, og navnet lever videre i ordet «bakkanal».",
+      "sv": "Caravaggio målade honom som en ung man med vinranka i håret, och namnet lever vidare i ordet «backanal»."
+    },
+    "funFact": {
+      "nb": "Ordet «bakkanal» om en støyende fest kommer av festene til hans ære. Caravaggios versjon av guden fra 1590-årene henger i Uffizi i Firenze.",
+      "sv": "Ordet «backanal» om en högljudd fest kommer av festerna till hans ära. Caravaggios version av guden från 1590-talet hänger på Uffizierna i Florens."
+    },
+    "source": "Wikipedia (engelsk) – «Bacchus»"
+  },
+  {
+    "id": "drikke-l-07",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Etter folkeavstemningen i 1919 innførte Norge forbud mot brennevin og sterkvin. For å ta private fortjenestemotiver ut av alkoholsalget opprettet myndighetene i 1922 et statlig selskap som fikk enerett på utsalg. Hva heter dette selskapet?",
+      "sv": "Efter folkomröstningen 1919 införde Norge förbud mot brännvin och starkvin. För att ta bort privata vinstmotiv ur alkoholförsäljningen inrättade myndigheterna 1922 ett statligt bolag med ensamrätt på butiksförsäljning. Vad heter bolaget?"
+    },
+    "answer": "Vinmonopolet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I dagligtale sier nordmenn bare «polet».",
+      "sv": "I dagligt tal säger norrmännen bara «polet»."
+    },
+    "funFact": {
+      "nb": "Selskapet ble stiftet 30. november 1922 og kom i drift året etter. Eneretten til import og engrossalg falt bort i 1996 på grunn av EØS-avtalen, mens eneretten til detaljsalg består.",
+      "sv": "Bolaget stiftades den 30 november 1922 och kom i drift året därpå. Ensamrätten till import och grossistförsäljning föll bort 1996 på grund av EES-avtalet, medan ensamrätten till detaljhandeln består."
+    },
+    "source": "Store norske leksikon – «Vinmonopolet» og «Brennevinsforbudet»"
+  },
+  {
+    "id": "drikke-l-08",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Tromsø ligger nesten 70 grader nord, og likevel ble det startet et ølbryggeri i byen i 1877. Bedriften har lenge kalt seg verdens nordligste bryggeri, og navnet er etternavnet til familien som grunnla den. Hva heter bryggeriet?",
+      "sv": "Tromsø ligger nästan 70 grader nord, och ändå startades ett ölbryggeri i staden 1877. Företaget har länge kallat sig världens nordligaste bryggeri, och namnet är efternamnet på familjen som grundade det. Vad heter bryggeriet?"
+    },
+    "answer": "Mack",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er kort og enstavet, og står på etiketten til pilsneren som drikkes i hele Nord-Norge.",
+      "sv": "Namnet är kort och enstavigt, och står på etiketten till pilsnern som dricks i hela Nordnorge."
+    },
+    "funFact": {
+      "nb": "Grunnleggeren Ludwig Mack var bryggerieier og lokalpolitiker i Tromsø. Store norske leksikon omtaler fortsatt bedriften som verdens nordligste bryggeri.",
+      "sv": "Grundaren Ludwig Mack var bryggeriägare och lokalpolitiker i Tromsø. Store norske leksikon omtalar fortfarande företaget som världens nordligaste bryggeri."
+    },
+    "source": "Store norske leksikon – «Macks Ølbryggeri AS» og «Ludwig Mack»"
+  },
+  {
+    "id": "drikke-l-09",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "politikk",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "I 1955 ble de mange regionale svenske utsalgsselskapene slått sammen til ett, og rasjoneringsboken som hadde styrt kjøpene siden 1919, ble avskaffet. Selskapet har fortsatt enerett på detaljsalg av vin, sprit og sterkøl i Sverige. Hva heter det?",
+      "sv": "År 1955 slogs de många regionala svenska bolagen samman till ett, och ransoneringsboken som styrt inköpen sedan 1919 avskaffades. Bolaget har fortfarande ensamrätt på detaljhandel med vin, sprit och starköl i Sverige. Vad heter det?"
+    },
+    "answer": "Systembolaget",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Svensker sier gjerne bare «bolaget» eller «systemet».",
+      "sv": "Svenskar säger gärna bara «bolaget» eller «systemet»."
+    },
+    "funFact": {
+      "nb": "Fram til 1955 var kjøpene rasjonert per husholdning, og tildelingen avhang av kjønn, inntekt og sosial status. Etter sammenslåingen kunne svenskene handle fritt i butikkene.",
+      "sv": "Fram till 1955 var inköpen ransonerade per hushåll, och tilldelningen berodde på kön, inkomst och social ställning. Efter sammanslagningen kunde svenskarna handla fritt i butikerna."
+    },
+    "source": "Wikipedia (engelsk) – «Systembolaget»"
+  },
+  {
+    "id": "drikke-l-10",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Et bryggeri grunnlagt i Göteborg i 1828 vokste til å bli et av Sveriges største, og den lyse lageren det lanserte i 1959, ble en klassiker i svenske butikker. Bryggeriet bærer etternavnet til grunnleggeren Johan Albrecht. Hvilket navn er det?",
+      "sv": "Ett bryggeri som grundades i Göteborg 1828 växte till ett av Sveriges största, och den ljusa lagern det lanserade 1959 blev en klassiker i svenska butiker. Bryggeriet bär efternamnet på grundaren Johan Albrecht. Vilket namn är det?"
+    },
+    "answer": "Pripps",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den lyse lageren fra 1959 har fått navn etter en farge.",
+      "sv": "Den ljusa lagern från 1959 har fått namn efter en färg."
+    },
+    "funFact": {
+      "nb": "Lageren «Pripps Blå» kom på markedet i 1959. Den svenske staten ble majoritetseier i bryggeriet i 1974.",
+      "sv": "Lagern «Pripps Blå» kom ut på marknaden 1959. Svenska staten blev majoritetsägare i bryggeriet 1974."
+    },
+    "source": "Wikipedia (engelsk) – «Pripps»"
+  },
+  {
+    "id": "drikke-m-01",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "politikk",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Hertug Vilhelm 4. av Bayern fastsatte i 1516 at øl bare måtte lages av bygg, humle og vann. Gjæren manglet på listen, rett og slett fordi ingen ennå visste hva den var. Hva kalles dette påbudet, som fortsatt brukes i markedsføringen av tysk øl?",
+      "sv": "Hertig Vilhelm IV av Bayern fastställde 1516 att öl bara fick göras av korn, humle och vatten. Jästen saknades på listan, helt enkelt för att ingen ännu visste vad den var. Vad kallas detta påbud, som fortfarande används i marknadsföringen av tyskt öl?"
+    },
+    "answer": "Reinheitsgebot",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Påbudet er kjent under sitt tyske navn, som betyr omtrent «renhetspåbud».",
+      "sv": "Påbudet är känt under sitt tyska namn, som betyder ungefär «renhetspåbud»."
+    },
+    "funFact": {
+      "nb": "Gjær kom først inn i teksten etter at gjæringens biologi ble forstått på 1800-tallet. Bryggerne brukte den hele tiden, men regnet den som en del av prosessen og ikke som en ingrediens.",
+      "sv": "Jäst kom in i texten först efter att jäsningens biologi förstods på 1800-talet. Bryggarna använde den hela tiden, men räknade den som en del av processen och inte som en ingrediens."
+    },
+    "source": "Wikipedia (engelsk) – «Reinheitsgebot»"
+  },
+  {
+    "id": "drikke-m-02",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "I 1842 hentet borgerne i en bøhmisk by inn den bayerske bryggeren Josef Groll. Med lokalt vann, lyst malt og undergjær brygget han 5. oktober det året en gyllen, klar lager som siden har gitt navn til en hel ølstil. Hvilken by var det?",
+      "sv": "År 1842 kallade borgarna i en böhmisk stad in den bayerske bryggaren Josef Groll. Med lokalt vatten, ljus malt och underjäst bryggde han den 5 oktober samma år en gyllene, klar lager som sedan gett namn åt en hel ölstil. Vilken stad var det?"
+    },
+    "answer": "Plzeň (Pilsen)",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger vest i dagens Tsjekkia og er også kjent for Škoda-fabrikkene.",
+      "sv": "Staden ligger i västra Tjeckien och är också känd för Škoda-fabrikerna."
+    },
+    "funFact": {
+      "nb": "Bryggeriet het den gang Bürger-Brauerei, og ølet ble kjent som Pilsner Urquell – «urkilden». Den lyse lagerstilen spredte seg over hele verden i løpet av få tiår.",
+      "sv": "Bryggeriet hette då Bürger-Brauerei, och ölet blev känt som Pilsner Urquell – «urkällan». Den ljusa lagerstilen spred sig över hela världen på bara några decennier."
+    },
+    "source": "Wikipedia (engelsk) – «Pilsner»"
+  },
+  {
+    "id": "drikke-m-03",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "religion",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Benediktinermunken var kjellermester ved klosteret Hautvillers i Champagne fra 1668 til han døde i 1715. Han blandet druer fra flere marker og skjerpet kravene til høstingen – men forsøkte faktisk å hindre at vinen gjæret om igjen i flasken. Hvem var han?",
+      "sv": "Benediktinmunken var källarmästare vid klostret Hautvillers i Champagne från 1668 till sin död 1715. Han blandade druvor från flera marker och skärpte kraven på skörden – men försökte faktiskt hindra att vinet jäste om i flaskan. Vem var han?"
+    },
+    "answer": "Pierre Pérignon",
+    "answerKind": "person",
+    "person": {
+      "given": "Pierre",
+      "family": "Pérignon"
+    },
+    "hint": {
+      "nb": "Han tituleres «Dom», og navnet står i dag på en berømt prestisjechampagne.",
+      "sv": "Han tituleras «Dom», och namnet står i dag på en berömd prestigechampagne."
+    },
+    "funFact": {
+      "nb": "Han oppfant ikke den musserende champagnen, og det berømte utropet om å «drikke stjerner» dukket først opp i reklame på slutten av 1800-tallet. Historien om at han var blind, stemmer heller ikke.",
+      "sv": "Han uppfann inte den mousserande champagnen, och det berömda utropet om att «dricka stjärnor» dök upp först i reklam i slutet av 1800-talet. Historien om att han var blind stämmer inte heller."
+    },
+    "source": "Wikipedia (engelsk) – «Dom Pérignon (monk)»"
+  },
+  {
+    "id": "drikke-m-04",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Vinene fra kjerneområdet mellom Firenze og Siena må domineres av druen sangiovese. På flaskehalsen sitter et lite merke som viser at produsenten er medlem av det lokale produsentkonsortiet, og merket forestiller et dyr. Hvilket dyr er det?",
+      "sv": "Vinerna från kärnområdet mellan Florens och Siena måste domineras av druvan sangiovese. På flaskhalsen sitter ett litet märke som visar att producenten är medlem i det lokala producentkonsortiet, och märket föreställer ett djur. Vilket djur är det?"
+    },
+    "answer": {
+      "nb": "En svart hane",
+      "sv": "En svart tupp"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Merket er kjent under det italienske navnet «Gallo Nero».",
+      "sv": "Märket är känt under det italienska namnet «Gallo Nero»."
+    },
+    "funFact": {
+      "nb": "«Gallo Nero» er merkevaren til Consorzio Vino Chianti Classico og finnes bare på flasker fra det avgrensede kjerneområdet i Toscana – ikke på chianti fra de ytre distriktene.",
+      "sv": "«Gallo Nero» är varumärket för Consorzio Vino Chianti Classico och finns bara på flaskor från det avgränsade kärnområdet i Toscana – inte på chianti från de yttre distrikten."
+    },
+    "source": "Wikipedia (engelsk) – «Chianti»; Consorzio Vino Chianti Classico"
+  },
+  {
+    "id": "drikke-m-05",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "En streng reformgren av cistercienserordenen, stiftet i 1664 og oppkalt etter et fransk kloster, brygger fortsatt øl innenfor klostermurene. Siden 1997 har en egen merkeordning skilt disse ølene fra kommersielle etterlikninger. Hva kalles øl fra slike klostre?",
+      "sv": "En sträng reformgren av cistercienserorden, grundad 1664 och uppkallad efter ett franskt kloster, brygger fortfarande öl innanför klostermurarna. Sedan 1997 har en egen märkning skilt dessa öl från kommersiella efterlikningar. Vad kallas öl från sådana kloster?"
+    },
+    "answer": {
+      "nb": "Trappistøl",
+      "sv": "Trappistöl"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Flest slike bryggerier ligger i Belgia; Chimay, Orval og Westmalle er blant navnene.",
+      "sv": "Flest sådana bryggerier ligger i Belgien; Chimay, Orval och Westmalle är några av namnen."
+    },
+    "funFact": {
+      "nb": "Merket «Authentic Trappist Product» ble innført i 1997. Reglene krever at ølet brygges innenfor klostermurene av munkene selv eller under deres tilsyn, og at overskuddet går til klosterdrift og veldedighet.",
+      "sv": "Märket «Authentic Trappist Product» infördes 1997. Reglerna kräver att ölet bryggs innanför klostermurarna av munkarna själva eller under deras tillsyn, och att överskottet går till klosterdrift och välgörenhet."
+    },
+    "source": "International Trappist Association; Wikipedia (engelsk) – «Trappist beer»"
+  },
+  {
+    "id": "drikke-m-06",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sprak",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Etter måltidet i antikkens Hellas la mennene seg til bords, blandet vinen med vann i et stort kar kalt krater og drev med musikk, gåter og filosofisk ordskifte. Både Platon og Xenofon skrev dialoger med navnet. Hvilket ord, som i dag betyr fagkonferanse, kommer av «å drikke sammen»?",
+      "sv": "Efter måltiden i antikens Grekland lade sig männen till bords, blandade vinet med vatten i ett stort kärl kallat krater och ägnade sig åt musik, gåtor och filosofiskt samtal. Både Platon och Xenofon skrev dialoger med namnet. Vilket ord, som i dag betyder fackkonferens, kommer av «att dricka tillsammans»?"
+    },
+    "answer": "Symposium",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er gresk og brukes i dag mest om vitenskapelige møter.",
+      "sv": "Ordet är grekiskt och används i dag mest om vetenskapliga möten."
+    },
+    "funFact": {
+      "nb": "Ordet kommer av sympínein, «å drikke sammen». En «symposiark» ledet selskapet og bestemte hvor mye vann vinen skulle blandes med – ublandet vin regnet grekerne som barbarisk.",
+      "sv": "Ordet kommer av sympínein, «att dricka tillsammans». En «symposiark» ledde sällskapet och bestämde hur mycket vatten vinet skulle blandas med – oblandat vin ansåg grekerna vara barbariskt."
+    },
+    "source": "Wikipedia (engelsk) – «Symposium (ancient Greece)»"
+  },
+  {
+    "id": "drikke-m-07",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "To brødre fra Krødsherad startet i 1876 sitt eget bryggeri i Kristiania sammen med konsul Axel Heiberg. Formuen gikk blant annet til å finansiere Otto Sverdrups polarferd, og en øy i det canadiske polararkipelet bærer navnet til den ene av dem. Hvilket bryggeri?",
+      "sv": "Två bröder från Krødsherad startade 1876 ett eget bryggeri i Kristiania tillsammans med konsuln Axel Heiberg. Förmögenheten gick bland annat till att finansiera Otto Sverdrups polarfärd, och en ö i den kanadensiska polararkipelagen bär den enes namn. Vilket bryggeri?"
+    },
+    "answer": "Ringnes",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Brødrene het Amund og Ellef, og bryggeriet bærer navnet på storgården de kom fra.",
+      "sv": "Bröderna hette Amund och Ellef, och bryggeriet bär namnet på storgården de kom från."
+    },
+    "funFact": {
+      "nb": "Amund styrte det tekniske, Ellef det forretningsmessige. Brødrene støttet også Fridtjof Nansens ferd i 1893–1896, og Otto Sverdrups ekspedisjon i 1898–1902 satte navnet deres på øyer i Nord-Canada.",
+      "sv": "Amund skötte det tekniska, Ellef det affärsmässiga. Bröderna stödde också Fridtjof Nansens färd 1893–1896, och Otto Sverdrups expedition 1898–1902 satte deras namn på öar i norra Kanada."
+    },
+    "source": "Store norske leksikon – «Ringnes AS» og «Ellef Ringnes»"
+  },
+  {
+    "id": "drikke-m-08",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Norges eldste bryggeri ble grunnlagt i Drammen i 1834. Familien som senere ga det navnet sitt, kjøpte eiendommen i 1860, og femte generasjon driver det fortsatt. Det er i dag landets største bryggeri med helnorsk eierskap. Hva heter bryggeriet?",
+      "sv": "Norges äldsta bryggeri grundades i Drammen 1834. Familjen som senare gav det sitt namn köpte fastigheten 1860, och femte generationen driver det ännu. Det är i dag landets största bryggeri med helnorskt ägande. Vad heter bryggeriet?"
+    },
+    "answer": "Aass",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet skrives med dobbel a og er etternavnet til eierfamilien.",
+      "sv": "Namnet skrivs med dubbelt a och är efternamnet på ägarfamiljen."
+    },
+    "funFact": {
+      "nb": "Poul Lauritz Aass kjøpte eiendommen i 1860 og ble eneeier i 1866. Bryggeriet lager også Lundetangen pilsner etter oppskriften fra det nedlagte bryggeriet i Skien.",
+      "sv": "Poul Lauritz Aass köpte fastigheten 1860 och blev ensam ägare 1866. Bryggeriet gör också Lundetangen pilsner efter receptet från det nedlagda bryggeriet i Skien."
+    },
+    "source": "Store norske leksikon – «Aass Bryggeri»"
+  },
+  {
+    "id": "drikke-m-09",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "politikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fra 1919 til 1955 måtte svenske husholdninger ha en liten bok som ble stemplet ved hvert kjøp av brennevin. Hvor mye man fikk kjøpe, avhang av kjønn, inntekt, formue og sosial status. Hva het denne boken på svensk?",
+      "sv": "Från 1919 till 1955 måste svenska hushåll ha en liten bok som stämplades vid varje köp av brännvin. Hur mycket man fick köpa berodde på kön, inkomst, förmögenhet och social ställning. Vad hette denna bok?"
+    },
+    "answer": "Motboken",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av et kort ord for «mot» og ordet «bok», og systemet den hørte til, bærer navnet til legen som utformet det.",
+      "sv": "Namnet är sammansatt av ett kort ord för «mot» och ordet «bok», och systemet den hörde till bär namnet på läkaren som utformade det."
+    },
+    "funFact": {
+      "nb": "Boken ble avskaffet i 1955, samtidig som de regionale utsalgsselskapene ble slått sammen. Finland hadde en tilsvarende ordning fra 1944 til 1970.",
+      "sv": "Boken avskaffades 1955, samtidigt som de regionala bolagen slogs samman. Finland hade en motsvarande ordning från 1944 till 1970."
+    },
+    "source": "Wikipedia (engelsk) – «Bratt System» og «Systembolaget»"
+  },
+  {
+    "id": "drikke-m-10",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Kong Johan 3. lot på 1500-tallet anlegge en kongelig hage i Stockholm, der man blant annet dyrket planten som gir øl bitterhet og holdbarhet. I dag er området en av byens kjente parker, og Kungliga biblioteket ligger midt i den. Hva heter parken?",
+      "sv": "Kung Johan III lät på 1500-talet anlägga en kunglig trädgård i Stockholm, där man bland annat odlade växten som ger ölet beska och hållbarhet. I dag är området en av stadens kända parker, och Kungliga biblioteket ligger mitt i den. Vad heter parken?"
+    },
+    "answer": "Humlegården",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Parken ligger på Östermalm, og navnet forteller hva som en gang ble dyrket der.",
+      "sv": "Parken ligger på Östermalm, och namnet berättar vad som en gång odlades där."
+    },
+    "funFact": {
+      "nb": "Hagen ble opprinnelig anlagt som kongelig fruktehage. I dag står det statuer i parken av blant andre Carl von Linné.",
+      "sv": "Trädgården anlades ursprungligen som kunglig fruktträdgård. I dag står det statyer i parken av bland andra Carl von Linné."
+    },
+    "source": "Wikipedia (engelsk) – «Humlegården»"
+  },
+  {
+    "id": "drikke-v-01",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "mat-og-drikke",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "24. mai 1976 arrangerte en britisk vinhandler i Paris en blindsmaking der franske toppviner ble stilt mot lite kjente viner fra Napa Valley. Elleve franske dommere kåret amerikanerne til vinnere i begge klasser. Hvem sto bak smakingen?",
+      "sv": "Den 24 maj 1976 arrangerade en brittisk vinhandlare i Paris en blindprovning där franska toppviner ställdes mot föga kända viner från Napa Valley. Elva franska domare utsåg amerikanerna till vinnare i båda klasserna. Vem låg bakom provningen?"
+    },
+    "answer": "Steven Spurrier",
+    "answerKind": "person",
+    "person": {
+      "given": "Steven",
+      "family": "Spurrier"
+    },
+    "hint": {
+      "nb": "Han drev vinhandel og vinskole i Paris, og smakingen markerte USAs 200-årsjubileum.",
+      "sv": "Han drev vinhandel och vinskola i Paris, och provningen uppmärksammade USA:s 200-årsjubileum."
+    },
+    "funFact": {
+      "nb": "Arrangementet er kjent som «the Judgment of Paris». Det ble gjennomført sammen med Patricia Gallagher, og resultatet fikk stor betydning for californisk vin.",
+      "sv": "Evenemanget är känt som «the Judgment of Paris». Det genomfördes tillsammans med Patricia Gallagher, och resultatet fick stor betydelse för kalifornisk vin."
+    },
+    "source": "Wikipedia (engelsk) – «Judgment of Paris (wine)»"
+  },
+  {
+    "id": "drikke-v-02",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "mytologi",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "En mesopotamisk gudinne hadde ansvaret for bryggingen og var brygger ved guden Enlils hoff. En gammelbabylonsk hymne til henne beskriver framgangsmåten steg for steg, blant annet brødet bappir, og regnes som en av våre eldste beskrivelser av ølbrygging. Hva het gudinnen?",
+      "sv": "En mesopotamisk gudinna hade ansvaret för bryggandet och var bryggare vid guden Enlils hov. En fornbabylonisk hymn till henne beskriver tillvägagångssättet steg för steg, bland annat brödet bappir, och räknas som en av våra äldsta beskrivningar av ölbryggning. Vad hette gudinnan?"
+    },
+    "answer": "Ninkasi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet begynner på N, og hun ble dyrket i byer som Nippur, Uruk og Umma.",
+      "sv": "Namnet börjar på N, och hon dyrkades i städer som Nippur, Uruk och Umma."
+    },
+    "funFact": {
+      "nb": "Hymnen er kjent fra leirtavler fra gammelbabylonsk tid. Forskere mener beskrivelsen delvis er poetisk: administrative tekster nevner bare bygg og emmer som råstoff i praksis.",
+      "sv": "Hymnen är känd från lertavlor från fornbabylonisk tid. Forskare menar att beskrivningen delvis är poetisk: administrativa texter nämner bara korn och emmer som råvara i praktiken."
+    },
+    "source": "Wikipedia (engelsk) – «Ninkasi»"
+  },
+  {
+    "id": "drikke-v-03",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Carlsbergs forskningslaboratorium i København ble opprettet for å løse bryggeriets problemer med gjæring og surhet. I 1909 innførte kjemikeren Søren Peter Lauritz Sørensen der en måleskala som i dag brukes i alt fra jordprøver til hudkremer. Hvilken skala er det?",
+      "sv": "Carlsbergs forskningslaboratorium i Köpenhamn inrättades för att lösa bryggeriets problem med jäsning och surhet. År 1909 införde kemisten Søren Peter Lauritz Sørensen där en mätskala som i dag används i allt från jordprover till hudkrämer. Vilken skala är det?"
+    },
+    "answer": {
+      "nb": "pH-skalaen",
+      "sv": "pH-skalan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skalaen går fra 0 til 14, og 7 regnes som nøytralt.",
+      "sv": "Skalan går från 0 till 14, och 7 räknas som neutralt."
+    },
+    "funFact": {
+      "nb": "Sørensen skrev først symbolet med en prikk og gikk over til dagens form i 1924. Ved samme laboratorium isolerte Emil Christian Hansen i 1883 den første rendyrkede ølgjæren, som fikk navnet Saccharomyces carlsbergensis.",
+      "sv": "Sørensen skrev först symbolen med en punkt och gick över till dagens form 1924. Vid samma laboratorium isolerade Emil Christian Hansen 1883 den första renodlade öljästen, som fick namnet Saccharomyces carlsbergensis."
+    },
+    "source": "Wikipedia (engelsk) – «pH» og «Emil Christian Hansen»"
+  },
+  {
+    "id": "drikke-v-04",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "kunst",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Fra og med årgangen 1945 har en av de mest berømte eiendommene i Bordeaux latt en ny kunstner lage etiketten hvert år; Dalí, Miró, Bacon og Hockney er blant dem. I 1973 ble eiendommen som den eneste noensinne forfremmet i klassifiseringen fra 1855. Hvilken eiendom?",
+      "sv": "Från och med årgången 1945 har en av Bordeaux mest berömda egendomar låtit en ny konstnär göra etiketten varje år; Dalí, Miró, Bacon och Hockney är några av dem. År 1973 blev egendomen den enda som någonsin befordrats i klassificeringen från 1855. Vilken egendom?"
+    },
+    "answer": "Château Mouton Rothschild",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Eieren, baron Philippe, kalte utelatelsen i 1855 en uhyrlig urett. Etiketten for 1973 var laget av Picasso.",
+      "sv": "Ägaren, baron Philippe, kallade uteslutningen 1855 en oerhörd orättvisa. Etiketten för 1973 gjordes av Picasso."
+    },
+    "funFact": {
+      "nb": "Skikken ble fast fra 1946, etter suksessen med seiersetiketten for årgangen 1945. Etiketten for 1993, laget av Balthus, ble avvist av amerikanske myndigheter.",
+      "sv": "Seden blev fast från 1946, efter framgången med segeretiketten för årgången 1945. Etiketten för 1993, gjord av Balthus, avvisades av amerikanska myndigheter."
+    },
+    "source": "Wikipedia (engelsk) – «Château Mouton Rothschild» og «Bordeaux Wine Official Classification of 1855»"
+  },
+  {
+    "id": "drikke-v-05",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Fra 1863 begynte franske vinmarker å visne. Årsaken var et lite insekt fra Nord-Amerika som suger på røttene, og som i løpet av få tiår nesten utslettet europeisk vindyrking. Sprøytemidler nyttet ikke. Hva ble den varige løsningen?",
+      "sv": "Från 1863 började franska vingårdar vissna. Orsaken var en liten insekt från Nordamerika som suger på rötterna och som på några decennier nästan utplånade den europeiska vinodlingen. Bekämpningsmedel hjälpte inte. Vad blev den bestående lösningen?"
+    },
+    "answer": {
+      "nb": "Amerikanske grunnstammer",
+      "sv": "Amerikanska grundstammar"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Løsningen kom fra gartnerkniven: den europeiske sorten ble beholdt over jorden, mens noe annet fikk stå for røttene.",
+      "sv": "Lösningen kom från trädgårdskniven: den europeiska sorten behölls ovan jord, medan något annat fick svara för rötterna."
+    },
+    "funFact": {
+      "nb": "Insektet heter Daktulosphaira vitifoliae, kjent som phylloxera. Gjenoppbyggingen ble kalt «reconstitution», og i dag er nesten alle europeiske vinstokker podet på røtter fra amerikanske arter.",
+      "sv": "Insekten heter Daktulosphaira vitifoliae, känd som phylloxera. Återuppbyggnaden kallades «reconstitution», och i dag är nästan alla europeiska vinstockar ympade på rötter från amerikanska arter."
+    },
+    "source": "Wikipedia (engelsk) – «Great French Wine Blight»"
+  },
+  {
+    "id": "drikke-v-06",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "sprak",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "På norske gårder tok bryggerne vare på gjæren fra brygg til brygg ved å tørke den på en trestokk eller en krans av tre. Slike gjærkulturer tåler uvanlig høye temperaturer, opp mot 38 grader, og har fått internasjonal oppmerksomhet. Hva kalles denne norske gårdsgjæren?",
+      "sv": "På norska gårdar tog bryggarna vara på jästen från brygd till brygd genom att torka den på en trästock eller en krans av trä. Sådana jästkulturer tål ovanligt höga temperaturer, upp mot 38 grader, och har fått internationell uppmärksamhet. Vad kallas denna norska gårdsjäst?"
+    },
+    "answer": "Kveik",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er et norsk dialektord for gjær, og bryggere over hele verden bruker nå det samme ordet.",
+      "sv": "Ordet är ett norskt dialektord för jäst, och bryggare över hela världen använder nu samma ord."
+    },
+    "funFact": {
+      "nb": "Kveik er av gjærsopparten Saccharomyces cerevisiae, men kan også inneholde melkesyrebakterier. Redskapene het gjærstokk og gjærkrans, og ulike stammer gir preg av frukt, appelsin og krydder.",
+      "sv": "Kveik är av jästsvamparten Saccharomyces cerevisiae, men kan också innehålla mjölksyrabakterier. Redskapen kallades gjærstokk och gjærkrans, och olika stammar ger prägel av frukt, apelsin och kryddor."
+    },
+    "source": "Store norske leksikon – «kveik», «gjærstokk» og «gjærkrans»"
+  },
+  {
+    "id": "drikke-v-07",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "politikk",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Da Norge innførte forbud mot brennevin og sterkvin etter avstemningen i 1919, svarte Spania og Portugal med å true med skyhøy toll på en norsk eksportvare. Presset førte til at forbudet mot sterkvin ble opphevet allerede i 1923. Hvilken vare gjaldt det?",
+      "sv": "När Norge införde förbud mot brännvin och starkvin efter omröstningen 1919 svarade Spanien och Portugal med att hota med skyhög tull på en norsk exportvara. Trycket ledde till att starkvinsförbudet upphävdes redan 1923. Vilken vara gällde det?"
+    },
+    "answer": "Klippfisk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Norge måtte i praksis kjøpe vin for å få selge fisk, og de viktigste markedene lå nettopp i Sør-Europa.",
+      "sv": "Norge måste i praktiken köpa vin för att få sälja fisk, och de viktigaste marknaderna låg just i Sydeuropa."
+    },
+    "funFact": {
+      "nb": "Hele brennevinsforbudet falt etter folkeavstemningen i 1926, der 55,7 prosent stemte mot å videreføre det, og det ble formelt opphevet i 1927.",
+      "sv": "Hela brännvinsförbudet föll efter folkomröstningen 1926, där 55,7 procent röstade mot att behålla det, och det upphävdes formellt 1927."
+    },
+    "source": "Store norske leksikon – «Brennevinsforbudet»"
+  },
+  {
+    "id": "drikke-v-08",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "religion",
+      "vikingtid"
+    ],
+    "prompt": {
+      "nb": "Olav Tryggvason påla rundt år 1000 kornbøndene å brygge øl til jul, og plikten ble skrevet inn i en av landskapslovene på 1100-tallet: bonden skulle brygge til Kristi fødsel, og forsømmelse kunne straffes med bøter og i ytterste fall landsforvisning. Hvilken lov?",
+      "sv": "Olav Tryggvason ålade omkring år 1000 sädesbönderna att brygga öl till jul, och plikten skrevs in i en av landskapslagarna på 1100-talet: bonden skulle brygga till Kristi födelse, och försummelse kunde straffas med böter och i yttersta fall landsförvisning. Vilken lag?"
+    },
+    "answer": {
+      "nb": "Gulatingsloven",
+      "sv": "Gulatingslagen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Loven gjaldt Vestlandet og har navn etter tingstedet der den ble vedtatt.",
+      "sv": "Lagen gällde Vestlandet och har namn efter tingsplatsen där den antogs."
+    },
+    "funFact": {
+      "nb": "Tradisjonen med juleøl går tilbake til førkristen tid og midtvinterblotet. Etter loven kunne gjentatt forsømmelse i ytterste konsekvens koste bonden gården.",
+      "sv": "Traditionen med julöl går tillbaka till förkristen tid och midvinterblotet. Enligt lagen kunde upprepad försummelse i yttersta fall kosta bonden gården."
+    },
+    "source": "Store norske leksikon – «juleøl»"
+  },
+  {
+    "id": "drikke-v-09",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "På 1860-tallet fikk en svensk by en ordning der salget av brennevin ble lagt til et selskap med sterkt begrenset utbytte, slik at overskuddet i stedet gikk til byens biblioteker, museer og parker. Modellen ble kjent under byens navn og spredte seg helt til Skottland. Hvilken by?",
+      "sv": "På 1860-talet fick en svensk stad en ordning där försäljningen av brännvin lades hos ett bolag med starkt begränsad utdelning, så att överskottet i stället gick till stadens bibliotek, museer och parker. Modellen blev känd under stadens namn och spred sig ända till Skottland. Vilken stad?"
+    },
+    "answer": "Göteborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er Sveriges nest største og ligger på vestkysten.",
+      "sv": "Staden är Sveriges näst största och ligger på västkusten."
+    },
+    "funFact": {
+      "nb": "Aksjonærene fikk høyst fem prosent avkastning, og resten gikk til allmennyttige formål. I utsalgene var verken kreditt, spill eller underholdning tillatt – ikke engang domino.",
+      "sv": "Aktieägarna fick högst fem procents avkastning, och resten gick till allmännyttiga ändamål. I utskänkningsställena var varken kredit, spel eller underhållning tillåtet – inte ens domino."
+    },
+    "source": "Wikipedia (engelsk) – «Gothenburg system»"
+  },
+  {
+    "id": "drikke-v-10",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Som skolegutt i 1819 stiftet han sammen med fem klassekamerater trolig Sveriges første avholdsforening. Presten og litteraturhistorikeren ble senere den fremste taleren for den svenske nykterhetsrörelsen, og foreningen han grunnla i Västerstad, fikk 1 600 medlemmer på tre år. Hvem var han?",
+      "sv": "Som skolpojke 1819 grundade han tillsammans med fem klasskamrater troligen Sveriges första nykterhetsförening. Prästen och litteraturhistorikern blev senare den främste talaren för den svenska nykterhetsrörelsen, och föreningen han grundade i Västerstad fick 1 600 medlemmar på tre år. Vem var han?"
+    },
+    "answer": "Peter Wieselgren",
+    "answerKind": "person",
+    "person": {
+      "given": "Peter",
+      "family": "Wieselgren"
+    },
+    "hint": {
+      "nb": "Han var prest i Skåne og ble domprost i en av Sveriges største byer i 1857; etternavnet slutter på «-gren».",
+      "sv": "Han var präst i Skåne och blev domprost i en av Sveriges största städer 1857; efternamnet slutar på «-gren»."
+    },
+    "funFact": {
+      "nb": "Han var ikke absolutist: foreningen tillot måtehold med gjærede drikker. Ved siden av prestegjerningen var han bibliotekar, arkivar og litteraturhistoriker.",
+      "sv": "Han var ingen absolutist: föreningen tillät måttlighet med jästa drycker. Vid sidan av prästgärningen var han bibliotekarie, arkivarie och litteraturhistoriker."
+    },
+    "source": "Wikipedia (engelsk) – «Peter Wieselgren»"
+  }
+]

@@ -1,0 +1,795 @@
+[
+  {
+    "id": "rovdyr-l-01",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Verdens største landlevende rovdyr jakter fra havisen i Arktis, og i Norge finnes det bare på Svalbard. Ringsel er den viktigste føden, og under den lyse pelsen er huden helt svart. Hvilket dyr er dette?",
+      "sv": "Världens största landlevande rovdjur jagar från havsisen i Arktis, och i Norge finns det bara på Svalbard. Vikaresäl är den viktigaste födan, och under den ljusa pälsen är huden helt svart. Vilket djur är detta?"
+    },
+    "answer": {
+      "nb": "Isbjørn",
+      "sv": "Isbjörn"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det vitenskapelige navnet er Ursus maritimus – «havbjørnen».",
+      "sv": "Det vetenskapliga namnet är Ursus maritimus – «havsbjörnen»."
+    },
+    "funFact": {
+      "nb": "Hårene i pelsen er gjennomsiktige og hule, ikke hvite; det er lysbrytningen som gjør at dyret ser lyst ut. Et tykt fettlag under huden isolerer og gir oppdrift i vannet.",
+      "sv": "Håren i pälsen är genomskinliga och ihåliga, inte vita; det är ljusbrytningen som gör att djuret ser ljust ut. Ett tjockt fettlager under huden isolerar och ger flytkraft i vattnet."
+    },
+    "source": "Store norske leksikon – «isbjørn»; Norsk Polarinstitutt"
+  },
+  {
+    "id": "rovdyr-l-02",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Kroppen er bygget som en sprinters: lang og smidig, med lite hode og en lang hale som fungerer som balansestang. I korte spurter kan farten overstige hundre kilometer i timen. Hvilket afrikansk kattedyr er verdens raskeste landpattedyr?",
+      "sv": "Kroppen är byggd som en sprinters: lång och smidig, med litet huvud och en lång svans som fungerar som balansstång. I korta spurter kan farten överstiga hundra kilometer i timmen. Vilket afrikanskt kattdjur är världens snabbaste landdäggdjur?"
+    },
+    "answer": "Gepard",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Til forskjell fra de fleste andre store kattedyr jakter den om dagen.",
+      "sv": "Till skillnad från de flesta andra stora kattdjur jagar den på dagen."
+    },
+    "funFact": {
+      "nb": "Den brøler ikke slik løven gjør. Arten fantes tidligere også i Asia, men de aller fleste dyrene lever i dag i det sørlige Afrika.",
+      "sv": "Den ryter inte som lejonet gör. Arten fanns tidigare även i Asien, men de allra flesta djuren lever i dag i södra Afrika."
+    },
+    "source": "Store norske leksikon – «gepard»"
+  },
+  {
+    "id": "rovdyr-l-03",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Disneys tegnefilm fra 1994 følger en løveunge som flykter hjemmefra etter at faren Mufasa blir drept av onkelen Scar, og som til slutt vender tilbake for å ta tronen. Hva heter løveungen?",
+      "sv": "Disneys tecknade film från 1994 följer en lejonunge som flyr hemifrån efter att pappan Mufasa dödats av farbrodern Scar, och som till slut vänder tillbaka för att ta tronen. Vad heter lejonungen?"
+    },
+    "answer": "Simba",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er swahili og betyr rett og slett «løve».",
+      "sv": "Namnet är swahili och betyder helt enkelt «lejon»."
+    },
+    "funFact": {
+      "nb": "Flere navn og uttrykk i filmen er swahili: «rafiki» betyr venn, og «hakuna matata» betyr omtrent «ingen problemer». Historien blir ofte sammenlignet med Shakespeares «Hamlet», og ble musikal på Broadway i 1997.",
+      "sv": "Flera namn och uttryck i filmen är swahili: «rafiki» betyder vän, och «hakuna matata» betyder ungefär «inga problem». Historien jämförs ofta med Shakespeares «Hamlet», och blev musikal på Broadway 1997."
+    },
+    "source": "Walt Disney Animation Studios – «The Lion King» (1994)"
+  },
+  {
+    "id": "rovdyr-l-04",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "design",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "En fransk tennisspiller fikk på 1920-tallet et krypdyrkallenavn av amerikansk presse, etter et veddemål om en koffert i krokodilleskinn. Han lot brodere dyret på blazeren sin, og i 1933 ble det logo for klesmerket han startet. Hva heter merket?",
+      "sv": "En fransk tennisspelare fick på 1920-talet ett kräldjursöknamn av amerikansk press, efter ett vad om en resväska i krokodilskinn. Han lät brodera djuret på sin blazer, och 1933 blev det logotyp för klädmärket han startade. Vad heter märket?"
+    },
+    "answer": "Lacoste",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Spilleren var en av Frankrikes «fire musketerer» og vant Wimbledon både i 1925 og 1928. Etternavnet hans ble merkenavnet.",
+      "sv": "Spelaren var en av Frankrikes «fyra musketörer» och vann Wimbledon både 1925 och 1928. Hans efternamn blev märkesnamnet."
+    },
+    "funFact": {
+      "nb": "Pikéskjorten med det lille grønne krypdyret på brystet regnes som en av de første merkelogoene som ble plassert synlig utenpå et klesplagg.",
+      "sv": "Pikétröjan med det lilla gröna kräldjuret på bröstet räknas som en av de första märkeslogotyperna som placerades synligt utanpå ett klädesplagg."
+    },
+    "source": "Lacoste – merkets historikk; International Tennis Hall of Fame"
+  },
+  {
+    "id": "rovdyr-l-05",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Filmen fra 1975 om en hvithai som terroriserer badegjestene ved den oppdiktede kystbyen Amity skapte begrepet sommerblockbuster. De mekaniske haiene streiket stadig, så publikum fikk se lite av selve dyret. Hvem regisserte filmen?",
+      "sv": "Filmen från 1975 om en vithaj som terroriserar badgästerna vid den påhittade kuststaden Amity skapade begreppet sommarblockbuster. De mekaniska hajarna strejkade ständigt, så publiken fick se lite av själva djuret. Vem regisserade filmen?"
+    },
+    "answer": "Steven Spielberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Steven",
+      "family": "Spielberg"
+    },
+    "hint": {
+      "nb": "Han var 27 år under innspillingen og regisserte senere «E.T.» og «Schindlers liste».",
+      "sv": "Han var 27 år under inspelningen och regisserade senare «E.T.» och «Schindlers lista»."
+    },
+    "funFact": {
+      "nb": "Haimodellene fikk kallenavnet «Bruce» etter regissørens advokat. Filmen vant tre Oscar-statuetter, blant annet for John Williams' musikk.",
+      "sv": "Hajmodellerna fick smeknamnet «Bruce» efter regissörens advokat. Filmen vann tre Oscarsstatyetter, bland annat för John Williams musik."
+    },
+    "source": "Universal Pictures – «Jaws» (1975); Academy of Motion Picture Arts and Sciences"
+  },
+  {
+    "id": "rovdyr-l-06",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Emblemet til Apollo 11 viste en rovfugl som lander på månen med en olivengren i klørne, og månelandingsfartøyet fikk navn etter den samme fuglen. Neil Armstrong brukte navnet da han meldte hjem at de var nede, 20. juli 1969. Hva het fartøyet?",
+      "sv": "Apollo 11:s emblem visade en rovfågel som landar på månen med en olivkvist i klorna, och månlandaren fick namn efter samma fågel. Neil Armstrong använde namnet när han meddelade hem att de var nere, den 20 juli 1969. Vad hette farkosten?"
+    },
+    "answer": "Eagle",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kommandomodulen som ventet i bane rundt månen het «Columbia».",
+      "sv": "Kommandomodulen som väntade i omloppsbana runt månen hette «Columbia»."
+    },
+    "funFact": {
+      "nb": "Fuglen på emblemet er en hvithodeørn, samme fugl som i USAs riksvåpen. Den øvre delen av fartøyet ble forlatt i bane rundt månen etter oppstigningen.",
+      "sv": "Fågeln på emblemet är en vithövdad havsörn, samma fågel som i USA:s riksvapen. Farkostens övre del lämnades i omloppsbana runt månen efter uppstigningen."
+    },
+    "source": "NASA – Apollo 11 Mission Overview"
+  },
+  {
+    "id": "rovdyr-l-07",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Det største medlemmet av mårfamilien i Norge holder til i fjellet langs grensen mot Sverige og Finland. Det er både jeger og åtseleter, og det vitenskapelige navnet betyr «fråtseren». Hvilket rovdyr er dette?",
+      "sv": "Den största medlemmen av mårddjursfamiljen i Norge håller till i fjällen längs gränsen mot Sverige och Finland. Den är både jägare och asätare, och det vetenskapliga namnet betyder «frossaren». Vilket rovdjur är detta?"
+    },
+    "answer": {
+      "nb": "Jerv",
+      "sv": "Järv"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er ett av de fire store rovdyrene i Norge, sammen med bjørn, ulv og gaupe.",
+      "sv": "Den är ett av de fyra stora rovdjuren i Norge, tillsammans med björn, varg och lodjur."
+    },
+    "funFact": {
+      "nb": "Hannene kan bli rundt 18 kilo. Kraftige kjever gjør at dyret knuser bein, og det kan ta byttedyr langt større enn seg selv, som rein og sau.",
+      "sv": "Hanarna kan bli omkring 18 kilo. Kraftiga käkar gör att djuret krossar ben, och det kan ta byten långt större än sig självt, som ren och får."
+    },
+    "source": "Store norske leksikon – «jerv»; Rovdata"
+  },
+  {
+    "id": "rovdyr-l-08",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "Norges riksvåpen er blant Europas eldste og viser en gullkronet løve på rød bunn. Kong Eirik Magnusson ga i 1280 løven både krone og et redskap i forlabbene, for å knytte den til Olav den hellige. Hvilket redskap holder løven?",
+      "sv": "Norges riksvapen är bland Europas äldsta och visar ett guldkrönt lejon på röd botten. Kung Erik Magnusson gav 1280 lejonet både krona och ett redskap i framtassarna, för att knyta det till Olav den helige. Vilket redskap håller lejonet?"
+    },
+    "answer": {
+      "nb": "En øks",
+      "sv": "En yxa"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Redskapet er samtidig helgenkongens eget symbol, og brukes ellers til å hugge ved.",
+      "sv": "Redskapet är samtidigt helgonkungens eget symbol, och används annars till att hugga ved."
+    },
+    "funFact": {
+      "nb": "Øksa er av sølv med gyllent skaft. Meningen var å vise at kongen styrte som representant for Olav den hellige, «Norges evige konge». Samme motiv går igjen i det norske kongeflagget.",
+      "sv": "Yxan är av silver med gyllene skaft. Meningen var att visa att kungen styrde som representant för Olav den helige, «Norges eviga kung». Samma motiv går igen i den norska kungaflaggan."
+    },
+    "source": "Store norske leksikon – «Norges riksvåpen»"
+  },
+  {
+    "id": "rovdyr-l-09",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "popkultur",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Rune Andréasson skapte i 1966 en svensk tegneseriebjørn som blir verdens sterkeste av bestemorens spesialhonning, og som helst løser konflikter med snillhet. Fra 1973 kom han i eget blad, sammen med vennene Lille Skutt og Skalman. Hva heter bjørnen?",
+      "sv": "Rune Andréasson skapade 1966 en svensk seriebjörn som blir världens starkaste av farmors specialhonung, och som helst löser konflikter med snällhet. Från 1973 kom han i egen tidning, tillsammans med vännerna Lille Skutt och Skalman. Vad heter björnen?"
+    },
+    "answer": "Bamse",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Honningen kalles dunderhonung på svensk.",
+      "sv": "Honungen kallas dunderhonung."
+    },
+    "funFact": {
+      "nb": "Serien begynte som korte tv-filmer og en søndagsstripe i 1966 og fikk eget tegneserieblad i 1973. Skalman er en skilpadde som finner opp alt fra tidsmaskiner til romskip.",
+      "sv": "Serien började som korta tv-filmer och en söndagsstripp 1966 och fick egen serietidning 1973. Skalman är en sköldpadda som uppfinner allt från tidsmaskiner till rymdskepp."
+    },
+    "source": "Rune Andréasson, «Bamse»; Egmont Publishing"
+  },
+  {
+    "id": "rovdyr-l-10",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Astrid Lindgrens bok fra 1973 handler om to brødre som møtes igjen i landet Nangijala etter døden, og som kjemper mot tyrannen Tengil og dragen Katla. Boka er oversatt til over førti språk. Hva heter den?",
+      "sv": "Astrid Lindgrens bok från 1973 handlar om två bröder som möts igen i landet Nangijala efter döden, och som kämpar mot tyrannen Tengil och draken Katla. Boken är översatt till över fyrtio språk. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Brødrene Løvehjerte",
+      "sv": "Bröderna Lejonhjärta"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Guttene heter Karl og Jonatan, og familienavnet deres viser til et stort kattedyr.",
+      "sv": "Pojkarna heter Karl och Jonatan, och deras familjenamn syftar på ett stort kattdjur."
+    },
+    "funFact": {
+      "nb": "Etter Nangijala venter enda et land, Nangilima. Boka ble film allerede i 1977, med Staffan Götestam og Lars Söderdahl i hovedrollene.",
+      "sv": "Efter Nangijala väntar ännu ett land, Nangilima. Boken filmatiserades redan 1977, med Staffan Götestam och Lars Söderdahl i huvudrollerna."
+    },
+    "source": "Astrid Lindgren, «Bröderna Lejonhjärta» (1973); The Astrid Lindgren Company"
+  },
+  {
+    "id": "rovdyr-m-01",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Verdens største nålevende krypdyr lever i mangrovesumper og elvedeltaer fra India og Sørøst-Asia til Nord-Australia, og svømmer gjerne langt til havs mellom øyer. Det største sikkert målte eksemplaret var over seks meter langt. Hvilken art er dette?",
+      "sv": "Världens största nu levande kräldjur lever i mangroveträsk och flodmynningar från Indien och Sydostasien till norra Australien, och simmar gärna långt ut till havs mellan öar. Det största säkert uppmätta exemplaret var över sex meter långt. Vilken art är detta?"
+    },
+    "answer": {
+      "nb": "Saltvannskrokodille",
+      "sv": "Saltvattenskrokodil"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det vitenskapelige navnet er Crocodylus porosus, og australierne kaller den «saltie».",
+      "sv": "Det vetenskapliga namnet är Crocodylus porosus, och australierna kallar den «saltie»."
+    },
+    "funFact": {
+      "nb": "Et dyr felt i Papua Ny-Guinea i 1979 hadde et skinn med hode som målte 6,2 meter tørket; levende er dyret anslått til rundt 6,3 meter.",
+      "sv": "Ett djur som fälldes i Papua Nya Guinea 1979 hade ett skinn med huvud som mätte 6,2 meter torkat; levande beräknas djuret ha varit omkring 6,3 meter."
+    },
+    "source": "IUCN Crocodile Specialist Group; Encyclopaedia Britannica – «saltwater crocodile»"
+  },
+  {
+    "id": "rovdyr-m-02",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "mytologi",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I norrøn mytologi var Loke far til tre uhyrer. Æsene fikk bundet det ene med den magiske lenken Gleipne, som dvergene smidde av seks umulige ting. Guden Ty måtte legge hånden sin i gapet som pant, og mistet den. Hvilket uhyre var det?",
+      "sv": "I nordisk mytologi var Loke far till tre vidunder. Asarna fick det ena bundet med den magiska kedjan Gleipner, som dvärgarna smidde av sex omöjliga ting. Guden Tyr fick lägga sin hand i gapet som pant, och miste den. Vilket vidunder var det?"
+    },
+    "answer": "Fenrisulven",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ved ragnarok slipper det løs og sluker Odin.",
+      "sv": "Vid ragnarök slipper det loss och slukar Oden."
+    },
+    "funFact": {
+      "nb": "De seks tingene var fjellets røtter, kvinneskjegg, bjørnens sener, fiskens pust, fuglenes spytt og lyden av kattepoter. Odins sønn Vidar hevner faren ved å rive gapet i stykker.",
+      "sv": "De sex tingen var bergets rötter, kvinnoskägg, björnens senor, fiskens andedräkt, fåglarnas spott och ljudet av kattassar. Odens son Vidar hämnas fadern genom att slita gapet i stycken."
+    },
+    "source": "Snorres Edda («Gylfaginning»); Store norske leksikon – «Fenrisulven»"
+  },
+  {
+    "id": "rovdyr-m-03",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "film",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Da Loew's kjøpte opp Goldwyn Pictures i 1924, fulgte både en brølende løve og et latinsk motto med på kjøpet. Siden har løven i den pyntede rammen åpnet selskapets filmer, med mottoet på et bånd rundt. Hva lyder mottoet?",
+      "sv": "När Loew's köpte upp Goldwyn Pictures 1924 följde både ett rytande lejon och ett latinskt motto med på köpet. Sedan dess har lejonet i den prydda ramen öppnat bolagets filmer, med mottot på ett band runt om. Vad lyder mottot?"
+    },
+    "answer": "Ars gratia artis",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tre latinske ord som betyr «kunst for kunstens skyld».",
+      "sv": "Tre latinska ord som betyder «konst för konstens skull»."
+    },
+    "funFact": {
+      "nb": "Flere ulike løver er blitt filmet til vignetten gjennom årene; den mest kjente heter Leo. Selskapet er Metro-Goldwyn-Mayer.",
+      "sv": "Flera olika lejon har filmats till vinjetten genom åren; det mest kända heter Leo. Bolaget är Metro-Goldwyn-Mayer."
+    },
+    "source": "Metro-Goldwyn-Mayer – selskapshistorikk"
+  },
+  {
+    "id": "rovdyr-m-04",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den jakter andre fugler i lufta og regnes som verdens raskeste dyr når den stuper mot byttet. I Nord-Europa var arten nær utryddet på 1960- og 70-tallet, fordi sprøytemiddelet DDT gjorde eggeskallene så tynne at de knuste. Hvilken rovfugl?",
+      "sv": "Den jagar andra fåglar i luften och räknas som världens snabbaste djur när den störtdyker mot bytet. I Nordeuropa var arten nära utrotad på 1960- och 70-talen, eftersom bekämpningsmedlet DDT gjorde äggskalen så tunna att de krossades. Vilken rovfågel?"
+    },
+    "answer": {
+      "nb": "Vandrefalk",
+      "sv": "Pilgrimsfalk"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den hekker på bratte klippehyller, og i nyere tid også på høyhus og broer inne i storbyer.",
+      "sv": "Den häckar på branta klipphyllor, och på senare tid även på höghus och broar inne i storstäder."
+    },
+    "funFact": {
+      "nb": "Det vitenskapelige navnet Falco peregrinus betyr omtrent «pilegrimsfalken». Etter at DDT ble forbudt, tok bestandene seg opp igjen mange steder.",
+      "sv": "Det vetenskapliga namnet Falco peregrinus betyder ungefär «pilgrimsfalken». Efter att DDT förbjöds återhämtade sig bestånden på många håll."
+    },
+    "source": "BirdLife International; Store norske leksikon – «vandrefalk»"
+  },
+  {
+    "id": "rovdyr-m-05",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "fotball",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Fotballandslaget deres kalles «de utemmelige løvene». I 1990 ble de det første afrikanske laget i en VM-kvartfinale, etter at 38 år gamle Roger Milla scoret to ganger i ekstraomgangene mot Colombia. Hvilket land er dette?",
+      "sv": "Deras fotbollslandslag kallas «de okuvliga lejonen». År 1990 blev de det första afrikanska laget i en VM-kvartsfinal, sedan 38-årige Roger Milla gjort två mål i förlängningen mot Colombia. Vilket land är detta?"
+    },
+    "answer": "Kamerun",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet har vunnet Afrikamesterskapet fem ganger og grenser til Nigeria og Tsjad.",
+      "sv": "Landet har vunnit afrikanska mästerskapet fem gånger och gränsar till Nigeria och Tchad."
+    },
+    "funFact": {
+      "nb": "I åpningskampen i 1990 slo de regjerende verdensmester Argentina 1–0. Kvartfinalen mot England endte 2–3 etter ekstraomganger.",
+      "sv": "I öppningsmatchen 1990 slog de regerande världsmästaren Argentina 1–0. Kvartsfinalen mot England slutade 2–3 efter förlängning."
+    },
+    "source": "FIFA – VM 1990; Confédération Africaine de Football"
+  },
+  {
+    "id": "rovdyr-m-06",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Joy Adamson og mannen hennes, viltoppsynsmann i Kenya, tok hånd om en foreldreløs løveunge og lærte henne senere å klare seg selv i det fri. Boka Joy skrev om det i 1960 ble en verdenssuksess. Hva het løvinnen?",
+      "sv": "Joy Adamson och hennes man, viltvårdare i Kenya, tog hand om en föräldralös lejonunge och lärde henne senare att klara sig själv i det fria. Boken Joy skrev om det 1960 blev en världssuccé. Vad hette lejonhonan?"
+    },
+    "answer": "Elsa",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Boka heter «Born Free», og filmen med samme navn kom i 1966.",
+      "sv": "Boken heter «Born Free», och filmen med samma namn kom 1966."
+    },
+    "funFact": {
+      "nb": "Ekteparet Adamson ble sentrale skikkelser i internasjonalt naturvern, og navnet på boka lever videre i stiftelsen Born Free Foundation.",
+      "sv": "Paret Adamson blev centrala gestalter i internationellt naturskydd, och bokens namn lever vidare i stiftelsen Born Free Foundation."
+    },
+    "source": "Joy Adamson, «Born Free» (1960); Born Free Foundation"
+  },
+  {
+    "id": "rovdyr-m-07",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Norges største rovfugl har et vingespenn på godt over to meter og en kort, kileformet hale. Arten var nær utryddet her i landet, men ble fredet i 1968, og Norge huset lenge storparten av den vesteuropeiske bestanden. Hvilken fugl?",
+      "sv": "Norges största rovfågel har ett vingspann på långt över två meter och en kort, kilformad stjärt. Arten var nära utrotad i landet men fridlystes 1968, och Norge hyste länge merparten av det västeuropeiska beståndet. Vilken fågel?"
+    },
+    "answer": {
+      "nb": "Havørn",
+      "sv": "Havsörn"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den lever langs kysten og tar mest fisk. Voksne fugler har gult nebb og hvit hale.",
+      "sv": "Den lever längs kusten och tar mest fisk. Vuxna fåglar har gul näbb och vit stjärt."
+    },
+    "funFact": {
+      "nb": "I 1975 regnet man med at rundt 400 av om lag 500 vesteuropeiske par holdt til i Norge. Vingespennet oppgis til 200–240 centimeter.",
+      "sv": "År 1975 räknade man med att omkring 400 av cirka 500 västeuropeiska par fanns i Norge. Vingspannet anges till 200–240 centimeter."
+    },
+    "source": "Store norske leksikon – «havørn»"
+  },
+  {
+    "id": "rovdyr-m-08",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Sveriges eneste viltlevende kattedyr har lange svarte dusker på ørene, kraftig kinnskjegg og en kort hale med svart tupp. Store, behårede poter bærer det oppe i dyp snø, og rådyr er det vanligste byttedyret. Hvilket dyr er dette?",
+      "sv": "Sveriges enda vilt levande kattdjur har långa svarta tofsar på öronen, kraftiga polisonger och en kort svans med svart spets. Stora, håriga tassar bär det uppe i djup snö, och rådjur är det vanligaste bytet. Vilket djur är detta?"
+    },
+    "answer": {
+      "nb": "Gaupe",
+      "sv": "Lodjur"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er ett av de fire store rovdyrene i Skandinavia, sammen med bjørn, ulv og jerv.",
+      "sv": "Det är ett av de fyra stora rovdjuren i Skandinavien, tillsammans med björn, varg och järv."
+    },
+    "funFact": {
+      "nb": "Halen er bare 19–23 centimeter lang. Dyret sniker seg innpå byttet og setter inn et kort, kraftig angrep, og arten er utbredt fra Vest-Europa til Sibir.",
+      "sv": "Svansen är bara 19–23 centimeter lång. Djuret smyger sig inpå bytet och sätter in ett kort, kraftigt angrepp, och arten är utbredd från Västeuropa till Sibirien."
+    },
+    "source": "Store norske leksikon – «gaupe»; Naturvårdsverket"
+  },
+  {
+    "id": "rovdyr-m-09",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Sveriges folkeskolelærerforening bestilte i 1902 en geografibok til skolen. Forfatteren leverte i stedet et eventyr om en liten gutt som flyr over landet på ryggen av en gås, jaget av reven Smirre. Sju år senere ble hun den første kvinnen som fikk nobelprisen i litteratur. Hvem var hun?",
+      "sv": "Sveriges allmänna folkskollärarförening beställde 1902 en geografibok till skolan. Författaren levererade i stället en saga om en liten pojke som flyger över landet på ryggen av en gås, jagad av räven Smirre. Sju år senare blev hon den första kvinnan som fick nobelpriset i litteratur. Vem var hon?"
+    },
+    "answer": "Selma Lagerlöf",
+    "answerKind": "person",
+    "person": {
+      "given": "Selma",
+      "family": "Lagerlöf"
+    },
+    "hint": {
+      "nb": "Hun vokste opp på Mårbacka i Värmland og skrev også «Gösta Berlings saga».",
+      "sv": "Hon växte upp på Mårbacka i Värmland och skrev också «Gösta Berlings saga»."
+    },
+    "funFact": {
+      "nb": "Boka heter «Nils Holgerssons underbara resa genom Sverige» og kom i to bind i 1906 og 1907. Hun brukte tre år på å sette seg inn i dyre- og fuglelivet før hun skrev.",
+      "sv": "Boken heter «Nils Holgerssons underbara resa genom Sverige» och kom i två band 1906 och 1907. Hon ägnade tre år åt att sätta sig in i djur- och fågellivet innan hon skrev."
+    },
+    "source": "Selma Lagerlöf, «Nils Holgerssons underbara resa genom Sverige» (1906–1907); Nobel Prize Outreach"
+  },
+  {
+    "id": "rovdyr-m-10",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Polske soldater kjøpte i 1942 en ung syrisk brunbjørn av en gutt i Iran. Bjørnen ble formelt tatt opp i 22. forsyningskompani og fulgte avdelingen til Italia, der han bar ammunisjonskasser under slaget om Monte Cassino. Hva het bjørnen?",
+      "sv": "Polska soldater köpte 1942 en ung syrisk brunbjörn av en pojke i Iran. Björnen togs formellt upp i 22:a underhållskompaniet och följde förbandet till Italien, där han bar ammunitionslådor under slaget om Monte Cassino. Vad hette björnen?"
+    },
+    "answer": "Wojtek",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er polsk og uttales omtrent «vojtek». Han endte sine dager i dyreparken i Edinburgh.",
+      "sv": "Namnet är polskt och uttalas ungefär «vojtek». Han slutade sina dagar i djurparken i Edinburgh."
+    },
+    "funFact": {
+      "nb": "Han ble forfremmet til korporal, og kompaniet tok en bjørn som bærer en granat inn i emblemet sitt. Etter demobiliseringen i november 1947 kom han til Edinburgh Zoo, der han levde til 1963.",
+      "sv": "Han befordrades till korpral, och kompaniet tog in en björn som bär en granat i sitt emblem. Efter demobiliseringen i november 1947 kom han till Edinburgh Zoo, där han levde till 1963."
+    },
+    "source": "Imperial War Museums; Edinburgh Zoo – Wojtek the Soldier Bear"
+  },
+  {
+    "id": "rovdyr-v-01",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "En DNA-studie av nesten tusen katter, publisert i Science i 2007, viste at alle verdens tamkatter stammer fra én og samme ville art, som knyttet seg til mennesker i Det nære østen for rundt ti tusen år siden. Hvilken art er stamfaren?",
+      "sv": "En DNA-studie av nästan tusen katter, publicerad i Science 2007, visade att alla världens tamkatter härstammar från en och samma vilda art, som knöt an till människor i Främre Orienten för omkring tiotusen år sedan. Vilken art är stamfadern?"
+    },
+    "answer": {
+      "nb": "Den afrikanske villkatten",
+      "sv": "Den afrikanska vildkatten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det vitenskapelige navnet er Felis lybica, og arten lever fortsatt i Afrika og Sørvest-Asia.",
+      "sv": "Det vetenskapliga namnet är Felis lybica, och arten lever fortfarande i Afrika och Sydvästasien."
+    },
+    "funFact": {
+      "nb": "Kattene knyttet seg trolig til mennesker fordi kornlagrene i de første jordbrukssamfunnene trakk til seg mus. Studien anslo at arten skilte lag med den europeiske villkatten for over 170 000 år siden.",
+      "sv": "Katterna knöt sannolikt an till människor eftersom sädesförråden i de första jordbrukssamhällena drog till sig möss. Studien beräknade att arten skildes från den europeiska vildkatten för över 170 000 år sedan."
+    },
+    "source": "Driscoll m.fl., Science (2007); IUCN Red List – Felis lybica"
+  },
+  {
+    "id": "rovdyr-v-02",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Willem Barentsz og mannskapet hans traff i 1596 på et svømmende rovdyr ved en øy i Barentshavet, og ga øya navn etter dyret. Den er den sørligste av Svalbards øyer og er i dag naturreservat. Hva heter øya?",
+      "sv": "Willem Barentsz och hans besättning stötte 1596 på ett simmande rovdjur vid en ö i Barents hav, och gav ön namn efter djuret. Den är den sydligaste av Svalbards öar och är i dag naturreservat. Vad heter ön?"
+    },
+    "answer": {
+      "nb": "Bjørnøya",
+      "sv": "Björnön"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det nederlandske navnet var Beeren Eiland, og på øya ligger en bemannet meteorologisk stasjon.",
+      "sv": "Det nederländska namnet var Beeren Eiland, och på ön ligger en bemannad meteorologisk station."
+    },
+    "funFact": {
+      "nb": "Øya ligger på 74 grader nord, er om lag 178 kvadratkilometer stor og har ingen fast bosetting utenom bemanningen på værstasjonen.",
+      "sv": "Ön ligger på 74 grader nord, är omkring 178 kvadratkilometer stor och har ingen fast bosättning utöver bemanningen på väderstationen."
+    },
+    "source": "Store norske leksikon – «Bjørnøya»; Norsk Polarinstitutt"
+  },
+  {
+    "id": "rovdyr-v-03",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "vitenskap",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Ulven fikk det vitenskapelige navnet Canis lupus i tiende utgave av et svensk verk, trykt i Stockholm i 1758. Nettopp den utgaven regnes som selve utgangspunktet for all zoologisk navngiving. Hva heter verket?",
+      "sv": "Vargen fick det vetenskapliga namnet Canis lupus i tionde upplagan av ett svenskt verk, tryckt i Stockholm 1758. Just den upplagan räknas som själva utgångspunkten för all zoologisk namngivning. Vad heter verket?"
+    },
+    "answer": "Systema Naturae",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forfatteren var Carl von Linné, og tittelen er latin for «naturens system».",
+      "sv": "Författaren var Carl von Linné, och titeln är latin för «naturens system»."
+    },
+    "funFact": {
+      "nb": "Første utgave kom i 1735 og var bare noen få store folioark. I tiende utgave brukte Linné for første gang tonavnssystemet konsekvent på dyr, slik han hadde gjort for planter i 1753.",
+      "sv": "Första upplagan kom 1735 och var bara några få stora folioark. I tionde upplagan använde Linné för första gången tvånamnssystemet konsekvent på djur, så som han gjort för växter 1753."
+    },
+    "source": "Carl von Linné, «Systema Naturae», 10. utgave (1758); International Commission on Zoological Nomenclature"
+  },
+  {
+    "id": "rovdyr-v-04",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Forskere daterte i 2016 linsene i øynene til en stor, langsom hai i Nord-Atlanteren ved hjelp av radiokarbon, og fant at ingen andre kjente virveldyr blir eldre. Kjøttet er giftig ferskt, men islendingene gjærer det og kaller retten hákarl. Hvilken hai er dette?",
+      "sv": "Forskare daterade 2016 linserna i ögonen på en stor, långsam haj i Nordatlanten med hjälp av radiokol, och fann att inga andra kända ryggradsdjur blir äldre. Köttet är giftigt färskt, men islänningarna jäser det och kallar rätten hákarl. Vilken haj är detta?"
+    },
+    "answer": {
+      "nb": "Håkjerring",
+      "sv": "Håkäring"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den lever i kaldt, dypt vann og går også langt inn i norske fjorder.",
+      "sv": "Den lever i kallt, djupt vatten och går även långt in i norska fjordar."
+    },
+    "funFact": {
+      "nb": "Studien til Julius Nielsen og kolleger anslo levealderen til minst 272 år, og det eldste undersøkte dyret til nærmere 400 år – med stor usikkerhet. Arten kalles også grønlandshai.",
+      "sv": "Julius Nielsens och kollegornas studie beräknade livslängden till minst 272 år, och det äldsta undersökta djuret till närmare 400 år – med stor osäkerhet. Arten kallas även grönlandshaj."
+    },
+    "source": "Nielsen m.fl., Science (2016); Havforskningsinstituttet"
+  },
+  {
+    "id": "rovdyr-v-05",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "mytologi",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "I egyptisk religion var hun datter av solguden Ra og ble framstilt som en kvinne med løvehode. Hun var både krigsgudinne og legekunstens gudinne: hun kunne sende pest over menneskene, men også bes om å ta den bort igjen. Hva het hun?",
+      "sv": "I egyptisk religion var hon dotter till solguden Ra och framställdes som en kvinna med lejonhuvud. Hon var både krigsgudinna och läkekonstens gudinna: hon kunde sända pest över människorna, men kunde också bes att ta bort den igen. Vad hette hon?"
+    },
+    "answer": "Sekhmet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet begynner på S, og ørkenens hete vind ble omtalt som pusten hennes.",
+      "sv": "Namnet börjar på S, och öknens heta vind omtalades som hennes andedräkt."
+    },
+    "funFact": {
+      "nb": "Hun ble kalt «Ras øye». Arkeologer har gravd fram et stort antall statuer av henne med løvehode og kvinnekropp, mange knyttet til Amenhotep IIIs tempelanlegg i Theben.",
+      "sv": "Hon kallades «Ras öga». Arkeologer har grävt fram ett stort antal statyer av henne med lejonhuvud och kvinnokropp, många knutna till Amenhotep III:s tempelanläggning i Thebe."
+    },
+    "source": "The British Museum; Encyclopaedia Britannica – «Sekhmet»"
+  },
+  {
+    "id": "rovdyr-v-06",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "politikk",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "De fem landene med isbjørnbestand undertegnet 15. november 1973 en avtale som forbød det meste av fangsten og forpliktet dem til å verne leveområdene. Avtalen er oppkalt etter byen der den ble undertegnet. Hvilken by er det?",
+      "sv": "De fem länderna med isbjörnsbestånd undertecknade den 15 november 1973 ett avtal som förbjöd det mesta av jakten och förpliktade dem att skydda livsmiljöerna. Avtalet är uppkallat efter staden där det undertecknades. Vilken stad är det?"
+    },
+    "answer": "Oslo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landene var Canada, Danmark, Norge, Sovjetunionen og USA – og byen ligger i ett av dem.",
+      "sv": "Länderna var Kanada, Danmark, Norge, Sovjetunionen och USA – och staden ligger i ett av dem."
+    },
+    "funFact": {
+      "nb": "Avtalen regnes som en av de tidlige suksessene i internasjonalt artsvern. Samme år ble isbjørnen totalfredet på Svalbard.",
+      "sv": "Avtalet räknas som en av de tidiga framgångarna inom internationellt artskydd. Samma år totalfredades isbjörnen på Svalbard."
+    },
+    "source": "Agreement on the Conservation of Polar Bears (Oslo, 1973); Norsk Polarinstitutt"
+  },
+  {
+    "id": "rovdyr-v-07",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "kunst",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1731 fikk kong Fredrik I av Sverige en løve i gave fra deyen av Alger. Da dyret døde, ble det stoppet ut av noen som tydeligvis aldri hadde sett en levende løve, og resultatet er blitt et yndet fotomotiv. På hvilket svensk slott står det?",
+      "sv": "År 1731 fick kung Fredrik I av Sverige ett lejon i gåva av dejen av Alger. När djuret dog stoppades det upp av någon som tydligen aldrig hade sett ett levande lejon, och resultatet har blivit ett omtyckt fotomotiv. På vilket svenskt slott står det?"
+    },
+    "answer": {
+      "nb": "Gripsholm slott",
+      "sv": "Gripsholms slott"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Slottet ligger i Mariefred ved Mälaren og huser Statens porträttsamling.",
+      "sv": "Slottet ligger i Mariefred vid Mälaren och hyser Statens porträttsamling."
+    },
+    "funFact": {
+      "nb": "Løven har vidåpne øyne og et nærmest menneskelig glis. En forklaring som er blitt foreslått, er at den bare var ment å ses fra siden.",
+      "sv": "Lejonet har vidöppna ögon och ett närmast mänskligt flin. En förklaring som har föreslagits är att det bara var tänkt att ses från sidan."
+    },
+    "source": "Statens fastighetsverk – Gripsholms slott"
+  },
+  {
+    "id": "rovdyr-v-08",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "vikingtid",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Snorre forteller om krigere som kunne bli gale og rasende i strid, bite i skjoldkanten og hyle som hunder. Navnet på dem er satt sammen av det norrøne ordet for skjorte og et ord som enten betyr «bjørn» eller «bar». Hva kalles slike krigere?",
+      "sv": "Snorre berättar om krigare som kunde bli galna och rasande i strid, bita i sköldkanten och yla som hundar. Namnet på dem är sammansatt av det fornnordiska ordet för skjorta och ett ord som antingen betyder «björn» eller «bar». Vad kallas sådana krigare?"
+    },
+    "answer": {
+      "nb": "Berserker",
+      "sv": "Bärsärkar"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "En beslektet gruppe kalles ulvhedner – krigere i ulveskinn.",
+      "sv": "En besläktad grupp kallas ulvhednar – krigare i vargskinn."
+    },
+    "funFact": {
+      "nb": "Om ordet betyr «bjørneskjorte» eller «bar skjorte» er omstridt: enten en kriger i bjørneskinn, eller en som kjempet uten brynje. Uttrykket «å gå berserk» stammer herfra.",
+      "sv": "Om ordet betyder «björnskjorta» eller «bar skjorta» är omtvistat: antingen en krigare i björnskinn, eller en som stred utan brynja. Uttrycket «att gå bärsärk» kommer härifrån."
+    },
+    "source": "Store norske leksikon – «berserk»; Snorre Sturlason, «Ynglingesagaen»"
+  },
+  {
+    "id": "rovdyr-v-09",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I asfaltgropene ved Rancho La Brea midt i Los Angeles er det gravd fram flere hundre eksemplarer av et utdødd kattedyr med enorme hoggtenner. Slektsnavnet er gresk og betyr omtrent «knivtann». Hva heter slekten?",
+      "sv": "I asfaltgroparna vid Rancho La Brea mitt i Los Angeles har flera hundra exemplar av ett utdött kattdjur med enorma huggtänder grävts fram. Släktnamnet är grekiskt och betyder ungefär «knivtand». Vad heter släktet?"
+    },
+    "answer": "Smilodon",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Til tross for kallenavnet «sabeltanntiger» er dyret ikke nær beslektet med tigeren.",
+      "sv": "Trots smeknamnet «sabeltandad tiger» är djuret inte nära besläktat med tigern."
+    },
+    "funFact": {
+      "nb": "Dyret døde ut mot slutten av pleistocen, for om lag ti tusen år siden, sammen med mange andre store pattedyr. Underfamilien det hørte til skilte lag med de nålevende kattene tidlig i kattefamiliens historie.",
+      "sv": "Djuret dog ut mot slutet av pleistocen, för omkring tiotusen år sedan, tillsammans med många andra stora däggdjur. Underfamiljen det tillhörde skildes från de nu levande katterna tidigt i kattdjurens historia."
+    },
+    "source": "La Brea Tar Pits and Museum, Los Angeles; Encyclopaedia Britannica – «Smilodon»"
+  },
+  {
+    "id": "rovdyr-v-10",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "religion",
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "De fire evangelistene har hvert sitt symbol i kristen kunst: et menneske, en okse, en ørn og en bevinget løve. Den bevingede løven er samtidig byvåpen for Venezia, der evangelisten skal ligge begravet. Hvilken evangelist er det?",
+      "sv": "De fyra evangelisterna har var sin symbol i kristen konst: en människa, en oxe, en örn och ett bevingat lejon. Det bevingade lejonet är samtidigt Venedigs stadsvapen, där evangelisten sägs ligga begravd. Vilken evangelist är det?"
+    },
+    "answer": "Markus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Evangeliet hans regnes av de fleste forskere som det eldste av de fire.",
+      "sv": "Hans evangelium räknas av de flesta forskare som det äldsta av de fyra."
+    },
+    "funFact": {
+      "nb": "Ifølge tradisjonen ble evangelistens levninger hentet fra Alexandria til Venezia i 828. Boken løven holder, bærer ordene «Pax tibi Marce, evangelista meus» – «fred være med deg, Markus, min evangelist».",
+      "sv": "Enligt traditionen hämtades evangelistens kvarlevor från Alexandria till Venedig 828. Boken lejonet håller bär orden «Pax tibi Marce, evangelista meus» – «frid vare med dig, Markus, min evangelist»."
+    },
+    "source": "Basilica di San Marco, Venezia; Encyclopaedia Britannica – «Saint Mark»"
+  }
+]

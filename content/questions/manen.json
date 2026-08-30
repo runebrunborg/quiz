@@ -1,0 +1,805 @@
+[
+  {
+    "id": "manen-l-01",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Ferden startet fra Florida 16. juli 1969, og fire dager senere satte landingsfartøyet Eagle seg ned i Stillhetens hav. Michael Collins ble igjen i bane rundt månen mens to menn gikk ut på overflaten. Hvem av dem satte foten ned først?",
+      "sv": "Färden startade från Florida den 16 juli 1969, och fyra dagar senare landade månlandaren Eagle i Stillhetens hav. Michael Collins blev kvar i omloppsbana runt månen medan två män gick ut på ytan. Vem av dem satte ner foten först?"
+    },
+    "answer": "Neil Armstrong",
+    "answerKind": "person",
+    "person": {
+      "given": "Neil",
+      "family": "Armstrong"
+    },
+    "hint": {
+      "nb": "Etternavnet begynner på A, og han var utdannet flyingeniør og testpilot før han ble astronaut.",
+      "sv": "Efternamnet börjar på A, och han var utbildad flygingenjör och testpilot innan han blev astronaut."
+    },
+    "funFact": {
+      "nb": "NASA gjengir sitatet som «That's one small step for [a] man, one giant leap for mankind». Fotsporene fra ferden kan bli stående svært lenge, for det finnes verken vind eller vann på månen som kan viske dem ut.",
+      "sv": "NASA återger citatet som «That's one small step for [a] man, one giant leap for mankind». Fotspåren från färden kan stå kvar mycket länge, för det finns varken vind eller vatten på månen som kan sudda ut dem."
+    },
+    "source": "NASA – Apollo 11 mission page"
+  },
+  {
+    "id": "manen-l-02",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Det er en kosmisk tilfeldighet at den vesle månen og den enorme sola ser omtrent like store ut fra jorden. Derfor kan månen ved nymåne av og til dekke solskiven fullstendig, slik at det blir mørkt midt på dagen. Hva kalles dette fenomenet?",
+      "sv": "Det är en kosmisk tillfällighet att den lilla månen och den enorma solen ser ungefär lika stora ut från jorden. Därför kan månen vid nymåne ibland täcka solskivan helt, så att det blir mörkt mitt på dagen. Vad kallas detta fenomen?"
+    },
+    "answer": {
+      "nb": "Solformørkelse",
+      "sv": "Solförmörkelse"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Motstykket inntreffer ved fullmåne, når det er jordens skygge som faller på månen.",
+      "sv": "Motstycket inträffar vid fullmåne, när det är jordens skugga som faller på månen."
+    },
+    "funFact": {
+      "nb": "Fenomenet krever nymåne, mens en måneformørkelse krever fullmåne. At det ikke skjer hver måned, skyldes at månebanen ligger litt på skrå i forhold til jordens bane rundt sola.",
+      "sv": "Fenomenet kräver nymåne, medan en månförmörkelse kräver fullmåne. Att det inte sker varje månad beror på att månbanan ligger något snett i förhållande till jordens bana runt solen."
+    },
+    "source": "NASA Science – Eclipses"
+  },
+  {
+    "id": "manen-l-03",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk",
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Bart Howard skrev låten i 1954, den gang under en helt annen tittel. Ti år senere spilte en amerikansk sanger den inn i en swingende storbandversjon, og nettopp den innspillingen ble spilt av på kassettspiller om bord i Apollo 10 og Apollo 11. Hvem sang den?",
+      "sv": "Bart Howard skrev låten 1954, då under en helt annan titel. Tio år senare spelade en amerikansk sångare in den i en swingande storbandsversion, och just den inspelningen spelades upp på kassettspelare ombord på Apollo 10 och Apollo 11. Vem sjöng den?"
+    },
+    "answer": "Frank Sinatra",
+    "answerKind": "person",
+    "person": {
+      "given": "Frank",
+      "family": "Sinatra"
+    },
+    "hint": {
+      "nb": "Han ble kalt «The Voice» og vokste opp i Hoboken i New Jersey.",
+      "sv": "Han kallades «The Voice» och växte upp i Hoboken i New Jersey."
+    },
+    "funFact": {
+      "nb": "Låten heter «Fly Me to the Moon», men het opprinnelig «In Other Words» og fikk ikke den kjente tittelen før på 1960-tallet. Kassettspilleren om bord var en liten Sony TC-50.",
+      "sv": "Låten heter «Fly Me to the Moon» men hette ursprungligen «In Other Words» och fick inte den kända titeln förrän på 1960-talet. Kassettspelaren ombord var en liten Sony TC-50."
+    },
+    "source": "NASA – Apollo-oppdragene; Bart Howard, «In Other Words» (1954)"
+  },
+  {
+    "id": "manen-l-04",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "film"
+    ],
+    "prompt": {
+      "nb": "Fartøyet ble skutt opp 11. april 1970 med Jim Lovell, Jack Swigert og Fred Haise om bord. På vei mot månen sviktet oksygenforsyningen, landingen ble avlyst, og mannskapet måtte bruke landingsfartøyet som livbåt. Alle tre kom hjem 17. april. Hvilket oppdrag var dette?",
+      "sv": "Farkosten sköts upp den 11 april 1970 med Jim Lovell, Jack Swigert och Fred Haise ombord. På väg mot månen svek syreförsörjningen, landningen ställdes in och besättningen fick använda månlandaren som livbåt. Alla tre kom hem den 17 april. Vilket uppdrag var detta?"
+    },
+    "answer": "Apollo 13",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tallet i navnet er det samme som mange hoteller hopper over når de nummererer etasjene.",
+      "sv": "Talet i namnet är detsamma som många hotell hoppar över när de numrerar våningarna."
+    },
+    "funFact": {
+      "nb": "Meldingen til bakken lød «Houston, we've had a problem». NASA omtaler ferden som en vellykket fiasko: landingen ble aldri noe av, men redningsoperasjonen ble et av romfartens store øyeblikk. Ron Howards film fra 1995 gjorde historien kjent for et nytt publikum.",
+      "sv": "Meddelandet till marken löd «Houston, we've had a problem». NASA kallar färden ett lyckat misslyckande: landningen blev aldrig av, men räddningsoperationen blev ett av rymdfartens stora ögonblick. Ron Howards film från 1995 gjorde historien känd för en ny publik."
+    },
+    "source": "NASA – Apollo 13"
+  },
+  {
+    "id": "manen-l-05",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Kalenderen har tolv måneder og følger utelukkende månens faser, uten skuddmåneder som holder tritt med sola. Derfor begynner fastemåneden ramadan omtrent elleve dager tidligere for hvert år og vandrer gjennom alle årstider i løpet av rundt 33 år. Hvilken religion bruker denne kalenderen?",
+      "sv": "Kalendern har tolv månader och följer uteslutande månens faser, utan skottmånader som håller jämna steg med solen. Därför börjar fastemånaden ramadan ungefär elva dagar tidigare för varje år och vandrar genom alla årstider på omkring 33 år. Vilken religion använder denna kalender?"
+    },
+    "answer": {
+      "nb": "Islam",
+      "sv": "Islam"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kalenderen kalles hijri-kalenderen og teller år fra utvandringen til Medina i år 622.",
+      "sv": "Kalendern kallas hijri-kalendern och räknar år från utvandringen till Medina år 622."
+    },
+    "funFact": {
+      "nb": "Året har 354 eller 355 dager, altså rundt elleve færre enn solåret. Nye måneder begynner tradisjonelt når den tynne nymånesigden blir observert på himmelen.",
+      "sv": "Året har 354 eller 355 dagar, alltså omkring elva färre än solåret. Nya månader börjar traditionellt när den tunna nymånskäran observeras på himlen."
+    },
+    "source": "Encyclopaedia Britannica – «Islamic calendar»"
+  },
+  {
+    "id": "manen-l-06",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "popkultur",
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "I gamle folkesagn kunne mennesker forvandles til rovdyr på mange vis – med et belte, en salve eller en forbannelse. At forvandlingen utløses av fullmåne, er derimot en oppfinnelse fra filmene på 1900-tallet. Hvilket fabelvesen er det snakk om?",
+      "sv": "I gamla folksägner kunde människor förvandlas till rovdjur på många sätt – med ett bälte, en salva eller en förbannelse. Att förvandlingen utlöses av fullmåne är däremot en uppfinning från filmerna på 1900-talet. Vilket sagoväsen handlar det om?"
+    },
+    "answer": "Varulv",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det greske ordet for fenomenet er lykantropi, av ordet for ulv.",
+      "sv": "Det grekiska ordet för fenomenet är lykantropi, av ordet för varg."
+    },
+    "funFact": {
+      "nb": "Historiske kilder nevner ikke fullmånen som utløser i det hele tatt. Det var Hollywood-filmene om ulvemannen på 1940-tallet som gjorde fullmånen til en fast del av myten.",
+      "sv": "Historiska källor nämner inte fullmånen som utlösare över huvud taget. Det var Hollywoodfilmerna om varulvsmannen på 1940-talet som gjorde fullmånen till en fast del av myten."
+    },
+    "source": "Encyclopaedia Britannica – «werewolf»; Universal Pictures, «The Wolf Man» (1941)"
+  },
+  {
+    "id": "manen-l-07",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Fire ganger i døgnet presses enorme vannmasser gjennom et tre kilometer langt sund i Bodø kommune i Nordland, og strømmen regnes som en av verdens sterkeste malstrømmer. Den er kraftigst ved ny- og fullmåne, når forskjellen mellom flo og fjære er størst. Hva heter sundet?",
+      "sv": "Fyra gånger i dygnet pressas enorma vattenmassor genom ett tre kilometer långt sund i Bodø kommun i Nordland, och strömmen räknas som en av världens starkaste malströmmar. Den är kraftigast vid ny- och fullmåne, när skillnaden mellan flod och ebb är störst. Vad heter sundet?"
+    },
+    "answer": "Saltstraumen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Strømmen går mellom Saltfjorden og Skjerstadfjorden.",
+      "sv": "Strömmen går mellan Saltfjorden och Skjerstadfjorden."
+    },
+    "funFact": {
+      "nb": "Middelhastigheten ligger rundt sju knop, og retningen snur fire ganger i døgnet – i takt med tidevannet, som i hovedsak styres av månen.",
+      "sv": "Medelhastigheten ligger kring sju knop, och riktningen vänder fyra gånger i dygnet – i takt med tidvattnet, som i huvudsak styrs av månen."
+    },
+    "source": "Store norske leksikon – Saltstraumen"
+  },
+  {
+    "id": "manen-l-08",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "I sommernattsbildene sine lar han gjerne månens speilbilde stå som en rett, gul søyle ned i vannet. Museet som forvalter arven hans, beskriver refleksen i «Sommernatt. Stemmen» fra 1896 som et gult utropstegn. Hvilken norsk maler er dette?",
+      "sv": "I sina sommarnattsbilder låter han gärna månens spegelbild stå som en rak, gul pelare ner i vattnet. Museet som förvaltar hans arv beskriver reflexen i «Sommarnatt. Rösten» från 1896 som ett gult utropstecken. Vilken norsk målare är detta?"
+    },
+    "answer": "Edvard Munch",
+    "answerKind": "person",
+    "person": {
+      "given": "Edvard",
+      "family": "Munch"
+    },
+    "hint": {
+      "nb": "Han står også bak «Skrik» og dekorasjonene i Universitetets aula i Oslo.",
+      "sv": "Han står också bakom «Skriet» och dekorationerna i universitetets aula i Oslo."
+    },
+    "funFact": {
+      "nb": "Månesøylen går igjen i en lang rekke av bildene hans og er blitt et av de mest gjenkjennelige grepene i norsk kunst. Museet som bærer navnet hans, flyttet inn i nytt bygg i Bjørvika i Oslo i 2021.",
+      "sv": "Månpelaren återkommer i en lång rad av hans bilder och har blivit ett av de mest igenkännliga greppen i norsk konst. Museet som bär hans namn flyttade in i en ny byggnad i Bjørvika i Oslo 2021."
+    },
+    "source": "MUNCH (Munchmuseet), Oslo – «Sommernatt. Stemmen» (1896)"
+  },
+  {
+    "id": "manen-l-09",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "sprak",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Svensk har et eget ord for den glitrende stripen månen tegner på vannflaten når den står lavt. Strindberg brukte ordet i «I havsbandet» fra 1890, og Svenska Akademiens ordbok har det med. Hvilket ord er det?",
+      "sv": "Svenskan har ett eget ord för den glittrande strimma som månen tecknar på vattenytan när den står lågt. Strindberg använde ordet i «I havsbandet» från 1890, och Svenska Akademiens ordbok har med det. Vilket ord är det?"
+    },
+    "answer": "Mångata",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er satt sammen av himmellegemet og et svensk ord for gate.",
+      "sv": "Ordet är sammansatt av himlakroppen och ett ord för gata."
+    },
+    "funFact": {
+      "nb": "Ordet er blitt en yndling i lister over såkalt uoversettelige ord. Norsk har ikke noe tilsvarende innarbeidet ord, men fenomenet er det samme: måneskinnet brytes i småbølgene og legger seg som en stripe rett mot den som ser.",
+      "sv": "Ordet har blivit en favorit i listor över så kallade oöversättliga ord. Norskan har inget motsvarande inarbetat ord, men fenomenet är detsamma: månskenet bryts i småvågorna och lägger sig som en strimma rakt mot betraktaren."
+    },
+    "source": "Svenska Akademiens ordbok (SAOB) – «mångata»; August Strindberg, «I havsbandet» (1890)"
+  },
+  {
+    "id": "manen-l-10",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "arkitektur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Verdens største permanente modell av solsystemet er bygget i målestokk 1:20 000 000 og strekker seg gjennom store deler av Sverige. Jordkloden står ved Naturhistoriska riksmuseet, med en 18 centimeter stor måne like ved. Hvilken bygning i Stockholm spiller rollen som sola?",
+      "sv": "Världens största permanenta modell av solsystemet är byggd i skala 1:20 000 000 och sträcker sig genom stora delar av Sverige. Jordklotet står vid Naturhistoriska riksmuseet, med en 18 centimeter stor måne alldeles intill. Vilken byggnad i Stockholm spelar rollen som solen?"
+    },
+    "answer": "Globen (Avicii Arena)",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bygningen er en av verdens største kuleformede bygninger, 110 meter i diameter.",
+      "sv": "Byggnaden är en av världens största klotformade byggnader, 110 meter i diameter."
+    },
+    "funFact": {
+      "nb": "Modellen er ikke samlet på ett sted: de ytre delene av solsystemet er plassert nordover i landet, langt fra hovedstaden. Avstanden fra sola til jorden i modellen er rundt 7,6 kilometer.",
+      "sv": "Modellen är inte samlad på ett ställe: de yttre delarna av solsystemet är placerade norrut i landet, långt från huvudstaden. Avståndet från solen till jorden i modellen är omkring 7,6 kilometer."
+    },
+    "source": "Sweden Solar System; Naturhistoriska riksmuseet, Stockholm"
+  },
+  {
+    "id": "manen-m-01",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Apollo 17 dro fra jorden 7. desember 1972 og ble den siste ferden der mennesker gikk på månen. Sjefen for ferden klatret opp stigen sist av de to som hadde vært nede på overflaten, og ingen har satt fot der siden. Hvem var han?",
+      "sv": "Apollo 17 lämnade jorden den 7 december 1972 och blev den sista färden där människor gick på månen. Färdens befälhavare klättrade upp för stegen sist av de två som varit nere på ytan, och ingen har satt sin fot där sedan dess. Vem var han?"
+    },
+    "answer": "Eugene Cernan",
+    "answerKind": "person",
+    "person": {
+      "given": "Eugene",
+      "family": "Cernan"
+    },
+    "hint": {
+      "nb": "Han gikk under kallenavnet Gene og hadde tidligere vært med på Apollo 10.",
+      "sv": "Han gick under smeknamnet Gene och hade tidigare varit med på Apollo 10."
+    },
+    "funFact": {
+      "nb": "Med på ferden var også Harrison Schmitt, den eneste utdannede naturviteren som har gått på månen. Til sammen har tolv mennesker vært nede på overflaten.",
+      "sv": "Med på färden var också Harrison Schmitt, den ende utbildade naturvetare som gått på månen. Sammanlagt har tolv människor varit nere på ytan."
+    },
+    "source": "NASA – Apollo 17"
+  },
+  {
+    "id": "manen-m-02",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "film",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Filmen fra 1902 varer et kvarters tid og viser en romkapsel som lander rett i øyet på et menneskelignende ansikt der oppe – et av filmhistoriens mest gjenbrukte bilder. Regissøren var tryllekunstner før han ble filmskaper. Hvem laget filmen?",
+      "sv": "Filmen från 1902 varar en kvart och visar en rymdkapsel som landar rakt i ögat på ett människoliknande ansikte där uppe – en av filmhistoriens mest återanvända bilder. Regissören var trollkonstnär innan han blev filmskapare. Vem gjorde filmen?"
+    },
+    "answer": "Georges Méliès",
+    "answerKind": "person",
+    "person": {
+      "given": "Georges",
+      "family": "Méliès"
+    },
+    "hint": {
+      "nb": "Han var franskmann, drev et teater for illusjoner i Paris og bygde et av verdens første filmstudioer i glass.",
+      "sv": "Han var fransman, drev en illusionsteater i Paris och byggde ett av världens första filmstudior i glas."
+    },
+    "funFact": {
+      "nb": "Filmen heter «Le Voyage dans la Lune». Han hentet stoff både fra Jules Vernes romaner og fra H.G. Wells' «The First Men in the Moon» fra 1901.",
+      "sv": "Filmen heter «Le Voyage dans la Lune». Han hämtade stoff både från Jules Vernes romaner och från H.G. Wells «The First Men in the Moon» från 1901."
+    },
+    "source": "Cinémathèque française; «Le Voyage dans la Lune» (1902)"
+  },
+  {
+    "id": "manen-m-03",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Den er større enn planeten Merkur og den eneste månen i solsystemet som har sitt eget magnetfelt, noe som gir nordlys rundt polene. Den går i bane rundt solsystemets største planet. Hvilken måne er det?",
+      "sv": "Den är större än planeten Merkurius och den enda månen i solsystemet som har ett eget magnetfält, vilket ger norrsken kring polerna. Den går i omloppsbana runt solsystemets största planet. Vilken måne är det?"
+    },
+    "answer": "Ganymedes",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er en av de fire store månene Galileo Galilei oppdaget i 1610, og har navn etter en ung mann i gresk mytologi.",
+      "sv": "Den är en av de fyra stora månar som Galileo Galilei upptäckte 1610, och har namn efter en ung man i grekisk mytologi."
+    },
+    "funFact": {
+      "nb": "Magnetfeltet skapes trolig av en kjerne av flytende jern. Under isskorpen ligger etter alt å dømme et saltvannshav med mer vann enn alle jordens hav til sammen.",
+      "sv": "Magnetfältet skapas troligen av en kärna av flytande järn. Under isskorpan ligger med all sannolikhet ett salthav med mer vatten än alla jordens hav tillsammans."
+    },
+    "source": "NASA Science – Ganymede"
+  },
+  {
+    "id": "manen-m-04",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "religion",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Datoen flytter seg fra år til år fordi den er bundet til månen: høytiden faller på den første søndagen etter den første fullmånen på eller etter 21. mars. Derfor kan den komme så tidlig som i slutten av mars og så sent som i slutten av april. Hvilken kristen høytid er det?",
+      "sv": "Datumet flyttar sig från år till år eftersom det är bundet till månen: högtiden infaller den första söndagen efter den första fullmånen på eller efter den 21 mars. Därför kan den komma så tidigt som i slutet av mars och så sent som i slutet av april. Vilken kristen högtid är det?"
+    },
+    "answer": {
+      "nb": "Påske",
+      "sv": "Påsk"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Høytiden ligger tett opptil den jødiske pesach, og det norske navnet kommer av nettopp det hebraiske ordet.",
+      "sv": "Högtiden ligger tätt intill den judiska pesach, och det svenska namnet kommer av just det hebreiska ordet."
+    },
+    "funFact": {
+      "nb": "Regnestykket kalles computus og bruker en kirkelig fullmåne beregnet i tabeller, ikke den astronomiske. Derfor kan kirkens fullmåne avvike et døgn eller to fra den man ser på himmelen.",
+      "sv": "Uträkningen kallas computus och använder en kyrklig fullmåne beräknad i tabeller, inte den astronomiska. Därför kan kyrkans fullmåne avvika ett eller två dygn från den man ser på himlen."
+    },
+    "source": "Encyclopaedia Britannica – «Easter»; computus paschalis"
+  },
+  {
+    "id": "manen-m-05",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "mat-og-drikke",
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Den kinesiske høstfesten feires den 15. dagen i den åttende måneden i den tradisjonelle kalenderen, altså midt i en fullmåne. Da spises et rundt, tungt bakverk fylt med lotusfrø- eller bønnepasta, som deles i små biter rundt bordet. Hva heter bakverket?",
+      "sv": "Den kinesiska höstfesten firas den 15 dagen i den åttonde månaden i den traditionella kalendern, alltså mitt i en fullmåne. Då äts ett runt, tungt bakverk fyllt med lotusfrö- eller bönpasta, som delas i små bitar runt bordet. Vad heter bakverket?"
+    },
+    "answer": {
+      "nb": "Månekaker",
+      "sv": "Månkakor"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av himmellegemet festen handler om, og et ord for bakverk.",
+      "sv": "Namnet är sammansatt av himlakroppen som festen handlar om, och ett ord för bakverk."
+    },
+    "funFact": {
+      "nb": "Festen bygger på legenden om Chang'e, månegudinnen som drakk udødelighetens eliksir og steg opp til månen. Bakverket er gjerne preget med skrifttegn eller mønster i overflaten.",
+      "sv": "Festen bygger på legenden om Chang'e, mångudinnan som drack odödlighetens elixir och steg upp till månen. Bakverket är ofta präglat med skrivtecken eller mönster på ytan."
+    },
+    "source": "Encyclopaedia Britannica – «Mid-Autumn Festival»"
+  },
+  {
+    "id": "manen-m-06",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I romanen fra 1865 skyter en klubb av amerikanske kanonentusiaster tre menn mot himmelen fra en gigantisk kanon støpt ned i bakken ved Tampa i Florida. Nesten hundre år senere skjøt USA virkelige astronauter opp fra samme delstat. Hvem skrev romanen?",
+      "sv": "I romanen från 1865 skjuter en klubb av amerikanska kanonentusiaster tre män mot himlen från en gigantisk kanon gjuten ner i marken vid Tampa i Florida. Nästan hundra år senare sköt USA upp verkliga astronauter från samma delstat. Vem skrev romanen?"
+    },
+    "answer": "Jules Verne",
+    "answerKind": "person",
+    "person": {
+      "given": "Jules",
+      "family": "Verne"
+    },
+    "hint": {
+      "nb": "Franskmannen skrev også «Jorden rundt på 80 dager» og «En verdensomseiling under havet».",
+      "sv": "Fransmannen skrev också «Jorden runt på 80 dagar» och «En världsomsegling under havet»."
+    },
+    "funFact": {
+      "nb": "Kanonen heter Columbiad i boka. Forfatteren regnet ut ferden ned til minste detalj – originaltittelen lover en direkte overfart på 97 timer og 20 minutter.",
+      "sv": "Kanonen heter Columbiad i boken. Författaren räknade ut färden in i minsta detalj – originaltiteln lovar en direkt överfart på 97 timmar och 20 minuter."
+    },
+    "source": "Jules Verne, «De la Terre à la Lune» (1865); Bibliothèque nationale de France"
+  },
+  {
+    "id": "manen-m-07",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "romfart",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "18. august 1962 gikk den første forskningsraketten til værs fra et nytt skytefelt ytterst i Vesterålen. Raketten het Ferdinand 1, nådde 102 kilometers høyde og målte forholdene i ionosfæren. Hva heter øya som ga navn til skytefeltet?",
+      "sv": "Den 18 augusti 1962 gick den första forskningsraketen till väders från ett nytt uppskjutningsfält ytterst i Vesterålen. Raketen hette Ferdinand 1, nådde 102 kilometers höjd och mätte förhållandena i jonosfären. Vad heter ön som gav namn åt fältet?"
+    },
+    "answer": "Andøya",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øya er den nordligste i Vesterålen og ligger i Nordland fylke.",
+      "sv": "Ön är den nordligaste i Vesterålen och ligger i Nordland fylke."
+    },
+    "funFact": {
+      "nb": "Navnet Ferdinand ble hentet fra barneboka om den fredelige oksen. Forskerne ville understreke at virksomheten var fredelig, midt under den kalde krigen.",
+      "sv": "Namnet Ferdinand hämtades från barnboken om den fredlige tjuren. Forskarna ville understryka att verksamheten var fredlig, mitt under kalla kriget."
+    },
+    "source": "Andøya Space – historikk"
+  },
+  {
+    "id": "manen-m-08",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "I norrøn mytologi kjører søsknene Sol og Måne hver sin vogn over himmelen, og farten skyldes at de blir jaget av hver sin ulv. Skoll løper etter sola. Hva heter ulven som jager broren hennes?",
+      "sv": "I nordisk mytologi kör syskonen Sol och Måne var sin vagn över himlen, och farten beror på att de jagas av var sin varg. Skoll springer efter solen. Vad heter vargen som jagar hennes bror?"
+    },
+    "answer": "Hate",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ulven kalles også Månegarm, som betyr noe slikt som månehunden.",
+      "sv": "Vargen kallas också Månegarm, som betyder ungefär månhunden."
+    },
+    "funFact": {
+      "nb": "Ved ragnarok tar ulvene igjen byttet sitt: Skoll sluker sola, og Hate sluker månen. Ifølge kildene er begge avkom av en gyger som holder til i Jernskogen i øst.",
+      "sv": "Vid ragnarök hinner vargarna ifatt sitt byte: Skoll slukar solen och Hate slukar månen. Enligt källorna är båda avkomma till en jättinna som håller till i Järnskogen i öster."
+    },
+    "source": "Store norske leksikon – Skoll og Hate; Snorre-Edda, Gylfaginning"
+  },
+  {
+    "id": "manen-m-09",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "historie",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Månens mest iøynefallende krater, med lyse stråler som strekker seg opptil 1500 kilometer utover, bærer navnet til en astronom som bygde observatoriet Uraniborg på øya Ven i Øresund. Øya var dansk den gang, men er svensk i dag. Hvem er krateret oppkalt etter?",
+      "sv": "Månens mest iögonfallande krater, med ljusa strålar som sträcker sig upp till 1500 kilometer utåt, bär namnet på en astronom som byggde observatoriet Uraniborg på ön Ven i Öresund. Ön var dansk då, men är svensk i dag. Vem är kratern uppkallad efter?"
+    },
+    "answer": "Tycho Brahe",
+    "answerKind": "person",
+    "person": {
+      "given": "Tycho",
+      "family": "Brahe"
+    },
+    "hint": {
+      "nb": "Han var dansk, levde fra 1546 til 1601 og var kjent for uvanlig nøyaktige observasjoner – gjort helt uten kikkert.",
+      "sv": "Han var dansk, levde från 1546 till 1601 och var känd för ovanligt noggranna observationer – gjorda helt utan kikare."
+    },
+    "funFact": {
+      "nb": "Krateret er om lag 85 kilometer bredt og bare rundt hundre millioner år gammelt, altså ungt i månesammenheng. Ven ble svensk med freden i Roskilde i 1658.",
+      "sv": "Kratern är omkring 85 kilometer bred och bara cirka hundra miljoner år gammal, alltså ung i månsammanhang. Ven blev svenskt med freden i Roskilde 1658."
+    },
+    "source": "IAU/USGS Gazetteer of Planetary Nomenclature; NASA Lunar Reconnaissance Orbiter"
+  },
+  {
+    "id": "manen-m-10",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Bildene fra Apollo-ferdene ble tatt med spesialbygde kameraer fra en produsent i Göteborg. NASA begynte å bruke dem i 1962 etter tips fra astronauten Walter Schirra, og kamerahusene ble latt igjen på overflaten for å spare vekt – bare filmmagasinene kom hjem. Hvilket merke er det?",
+      "sv": "Bilderna från Apollofärderna togs med specialbyggda kameror från en tillverkare i Göteborg. NASA började använda dem 1962 efter tips från astronauten Walter Schirra, och kamerahusen lämnades kvar på ytan för att spara vikt – bara filmmagasinen kom hem. Vilket märke är det?"
+    },
+    "answer": "Hasselblad",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Merket bærer etternavnet til familien som grunnla firmaet.",
+      "sv": "Märket bär efternamnet på familjen som grundade firman."
+    },
+    "funFact": {
+      "nb": "Kameraet som var med ned på overflaten under Apollo 11, var et sølvfarget Hasselblad Data Camera med et Zeiss Biogon-objektiv på 60 millimeter, festet på brystet til astronauten. Et titalls kamerahus står fortsatt igjen der oppe.",
+      "sv": "Kameran som var med ner på ytan under Apollo 11 var en silverfärgad Hasselblad Data Camera med ett Zeiss Biogon-objektiv på 60 millimeter, fäst på astronautens bröst. Ett tiotal kamerahus står fortfarande kvar däruppe."
+    },
+    "source": "Hasselblad – «Hasselblad in Space»; NASA"
+  },
+  {
+    "id": "manen-v-01",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Av de tolv som har gått på månen, var elleve testpiloter. Den tolvte var geolog, tatt opp i NASAs aller første kull av forskerastronauter i 1965, og han fikk plass på den siste ferden i desember 1972. Hvem var han?",
+      "sv": "Av de tolv som gått på månen var elva testpiloter. Den tolfte var geolog, antagen i NASA:s allra första kull av forskarastronauter 1965, och han fick plats på den sista färden i december 1972. Vem var han?"
+    },
+    "answer": "Harrison Schmitt",
+    "answerKind": "person",
+    "person": {
+      "given": "Harrison",
+      "family": "Schmitt"
+    },
+    "hint": {
+      "nb": "Etter romfartskarrieren ble han senator for New Mexico fra 1977 til 1983.",
+      "sv": "Efter rymdkarriären blev han senator för New Mexico från 1977 till 1983."
+    },
+    "funFact": {
+      "nb": "Sammen med Eugene Cernan samlet han inn over hundre kilo stein og jord i Taurus-Littrow-dalen. Prøvene derfra hører fortsatt til de mest studerte materialene i solsystemet.",
+      "sv": "Tillsammans med Eugene Cernan samlade han in över hundra kilo sten och jord i Taurus-Littrow-dalen. Proverna därifrån hör fortfarande till de mest studerade materialen i solsystemet."
+    },
+    "source": "NASA – Apollo 17; NASA Astronaut Bio: Harrison H. Schmitt"
+  },
+  {
+    "id": "manen-v-02",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "3. februar 1966 satte en sovjetisk sonde seg mykt ned i Oceanus Procellarum og sendte de aller første bildene tatt fra selve overflaten. Den avkreftet dermed frykten for at støvlaget kunne være så løst at et fartøy ville synke ned i det. Hva het sonden?",
+      "sv": "Den 3 februari 1966 landade en sovjetisk sond mjukt i Oceanus Procellarum och skickade de allra första bilderna tagna från själva ytan. Den avfärdade därmed farhågan att dammlagret kunde vara så löst att en farkost skulle sjunka ner i det. Vad hette sonden?"
+    },
+    "answer": "Luna 9",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er det latinske ordet for månen, etterfulgt av et ettsifret tall.",
+      "sv": "Namnet är det latinska ordet för månen, följt av en ensiffrig siffra."
+    },
+    "funFact": {
+      "nb": "Sonden sendte ni bilder, blant dem fem panoramaer, fordelt på sju radioøkter på til sammen over åtte timer. Den ble skutt opp fra jorden bare tre døgn før landingen.",
+      "sv": "Sonden skickade nio bilder, däribland fem panoraman, fördelade på sju radiopass på sammanlagt över åtta timmar. Den sköts upp från jorden bara tre dygn före landningen."
+    },
+    "source": "NASA/NSSDC – Luna 9"
+  },
+  {
+    "id": "manen-v-03",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den rådende teorien om månens opprinnelse er at en protoplanet på størrelse med Mars traff den unge jorden for rundt 4,5 milliarder år siden, og at månen ble bygget opp av restene. Kollisjonslegemet har navn etter titaniden som i gresk mytologi var mor til månegudinnen Selene. Hva heter det?",
+      "sv": "Den rådande teorin om månens ursprung är att en protoplanet stor som Mars träffade den unga jorden för omkring 4,5 miljarder år sedan, och att månen byggdes upp av resterna. Kollisionskroppen har namn efter den titanid som i grekisk mytologi var mor till mångudinnan Selene. Vad heter den?"
+    },
+    "answer": "Theia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er gresk og tilhører en titanide, søster og hustru til Hyperion.",
+      "sv": "Namnet är grekiskt och tillhör en titanid, syster och hustru till Hyperion."
+    },
+    "funFact": {
+      "nb": "Teorien forklarer blant annet hvorfor månen har en påfallende liten jernkjerne: mesteparten av jernet hadde allerede sunket ned i jordens indre da smellet kom.",
+      "sv": "Teorin förklarar bland annat varför månen har en påfallande liten järnkärna: större delen av järnet hade redan sjunkit ner i jordens inre när smällen kom."
+    },
+    "source": "NASA Science – Moon formation; Lunar and Planetary Institute"
+  },
+  {
+    "id": "manen-v-04",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "14. januar 2005 landet en europeisk sonde på Saturns største måne – den eneste månen i solsystemet med en tett atmosfære. Det er fortsatt den fjerneste landingen mennesker har fått til. Sonden har navn etter nederlenderen som oppdaget månen i 1655. Hva heter sonden?",
+      "sv": "Den 14 januari 2005 landade en europeisk sond på Saturnus största måne – den enda månen i solsystemet med en tät atmosfär. Det är fortfarande den mest avlägsna landning människor lyckats med. Sonden har namn efter nederländaren som upptäckte månen 1655. Vad heter sonden?"
+    },
+    "answer": "Huygens",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet deles med en nederlandsk astronom og fysiker som også formulerte en bølgeteori for lys.",
+      "sv": "Namnet delas med en nederländsk astronom och fysiker som också formulerade en vågteori för ljus."
+    },
+    "funFact": {
+      "nb": "Sonden var bygget av ESA og fikk skyss til Saturn med NASAs Cassini. Månen heter Titan og har innsjøer og elver av flytende metan og etan.",
+      "sv": "Sonden var byggd av ESA och fick skjuts till Saturnus med NASA:s Cassini. Månen heter Titan och har sjöar och floder av flytande metan och etan."
+    },
+    "source": "ESA – Cassini-Huygens; NASA Science – Titan"
+  },
+  {
+    "id": "manen-v-05",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "popkultur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Forestillingen om at ferdene til månen ble filmet i et studio, fikk sin første utbredte form i en bok utgitt på eget forlag i 1976. Forfatteren hadde arbeidet som teknisk skribent hos rakettmotorprodusenten Rocketdyne, men hadde ingen teknisk utdanning. Hvem skrev boka?",
+      "sv": "Föreställningen om att färderna till månen filmades i en studio fick sin första spridda form i en bok utgiven på eget förlag 1976. Författaren hade arbetat som teknisk skribent hos raketmotortillverkaren Rocketdyne, men hade ingen teknisk utbildning. Vem skrev boken?"
+    },
+    "answer": "Bill Kaysing",
+    "answerKind": "person",
+    "person": {
+      "given": "Bill",
+      "family": "Kaysing"
+    },
+    "hint": {
+      "nb": "Fornavnet er kortformen av William, og etternavnet begynner på K.",
+      "sv": "Förnamnet är kortformen av William, och efternamnet börjar på K."
+    },
+    "funFact": {
+      "nb": "Boka het «We Never Went to the Moon». Blant motbevisene er speilene Apollo-mannskapene satte igjen: observatorier flere steder i verden sender fortsatt laserpulser mot dem og måler avstanden til månen med centimeters nøyaktighet.",
+      "sv": "Boken hette «We Never Went to the Moon». Bland motbevisen finns speglarna som Apollobesättningarna lämnade kvar: observatorier på flera håll i världen skickar fortfarande laserpulser mot dem och mäter avståndet till månen med centimeters noggrannhet."
+    },
+    "source": "Bill Kaysing, «We Never Went to the Moon» (1976); NASA – Lunar Laser Ranging"
+  },
+  {
+    "id": "manen-v-06",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Beethoven kalte selv klaversonaten sin fra 1801 for «Sonata quasi una fantasia». Kallenavnet den er kjent under i dag, kom først i 1832, fra en tysk dikter og musikkritiker som sammenlignet førstesatsen med lys over vann. Hvem var han?",
+      "sv": "Beethoven kallade själv sin pianosonat från 1801 för «Sonata quasi una fantasia». Smeknamnet den är känd under i dag kom först 1832, från en tysk diktare och musikkritiker som jämförde första satsen med ljus över vatten. Vem var han?"
+    },
+    "answer": "Ludwig Rellstab",
+    "answerKind": "person",
+    "person": {
+      "given": "Ludwig",
+      "family": "Rellstab"
+    },
+    "hint": {
+      "nb": "Han hadde samme fornavn som komponisten, og etternavnet begynner på R.",
+      "sv": "Han hade samma förnamn som tonsättaren, och efternamnet börjar på R."
+    },
+    "funFact": {
+      "nb": "Sonaten er opus 27 nummer 2, i ciss-moll. Kallenavnet dukket opp fem år etter komponistens død og festet seg raskt i både tysk og engelsk musikklitteratur.",
+      "sv": "Sonaten är opus 27 nummer 2, i ciss-moll. Smeknamnet dök upp fem år efter tonsättarens död och fastnade snabbt i både tysk och engelsk musiklitteratur."
+    },
+    "source": "Beethoven-Haus Bonn; Ludwig Rellstab (1832)"
+  },
+  {
+    "id": "manen-v-07",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "tv",
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Kvelden og natten 20. juli 1969 satt en norsk sivilingeniør og romfartsekspert i NRKs studio og forklarte seerne hva som foregikk der ute. Han ble stemmen nordmenn forbandt med romfart i flere tiår, og hadde blant annet intervjuet Jurij Gagarin. Hvem var han?",
+      "sv": "Kvällen och natten den 20 juli 1969 satt en norsk civilingenjör och rymdexpert i NRK:s studio och förklarade för tittarna vad som pågick där ute. Han blev rösten norrmännen förknippade med rymdfart i flera decennier och hade bland annat intervjuat Jurij Gagarin. Vem var han?"
+    },
+    "answer": "Erik Tandberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Erik",
+      "family": "Tandberg"
+    },
+    "hint": {
+      "nb": "Etternavnet deles med en kjent norsk radio- og TV-fabrikk.",
+      "sv": "Efternamnet delas med en känd norsk radio- och tv-fabrik."
+    },
+    "funFact": {
+      "nb": "Han var utdannet sivilingeniør og offiser i Luftforsvaret, og møtte og intervjuet senere hele mannskapet fra Apollo 11. Han levde fra 1932 til 2020.",
+      "sv": "Han var utbildad civilingenjör och officer i flygvapnet, och mötte och intervjuade senare hela besättningen från Apollo 11. Han levde från 1932 till 2020."
+    },
+    "source": "Store norske leksikon – Erik Tandberg; NRK"
+  },
+  {
+    "id": "manen-v-08",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "litteratur",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Tidevannet fyller og tømmer Vestfjorden to ganger i døgnet, og mellom Lofotodden og den vesle øya Mosken skaper det en malstrøm som Petter Dass, Edgar Allan Poe, Herman Melville og Jules Verne alle har skrevet om. Hva heter strømmen?",
+      "sv": "Tidvattnet fyller och tömmer Vestfjorden två gånger i dygnet, och mellan Lofotodden och den lilla ön Mosken skapar det en malström som Petter Dass, Edgar Allan Poe, Herman Melville och Jules Verne alla har skrivit om. Vad heter strömmen?"
+    },
+    "answer": "Moskstraumen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Strømmen ligger helt sør i Lofoten, ved Moskenesøya.",
+      "sv": "Strömmen ligger längst söderut i Lofoten, vid Moskenesøya."
+    },
+    "funFact": {
+      "nb": "Poes novelle heter «A Descent into the Maelström». Store norske leksikon påpeker at forfatterne bygde på eldre kilder som overdrev strømmens kraft betydelig. Nivåforskjellen mellom vannet på hver side kan bli opptil 40 centimeter.",
+      "sv": "Poes novell heter «A Descent into the Maelström». Store norske leksikon påpekar att författarna byggde på äldre källor som betydligt överdrev strömmens kraft. Nivåskillnaden mellan vattnet på var sida kan bli upp till 40 centimeter."
+    },
+    "source": "Store norske leksikon – Moskstraumen"
+  },
+  {
+    "id": "manen-v-09",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Et lite krater på grensen mellom Oceanus Procellarum og Mare Imbrium bærer navnet til en svensk fysiker fra Uppsala, en av spektroskopiens grunnleggere. Han kartla sollyset, og en lengdeenhet på ti milliarddels meter er oppkalt etter ham. Hvem er han?",
+      "sv": "En liten krater på gränsen mellan Oceanus Procellarum och Mare Imbrium bär namnet på en svensk fysiker från Uppsala, en av spektroskopins grundare. Han kartlade solljuset, och en längdenhet på tio miljarddels meter är uppkallad efter honom. Vem är han?"
+    },
+    "answer": "Anders Jonas Ångström",
+    "answerKind": "person",
+    "person": {
+      "given": "Anders Jonas",
+      "family": "Ångström"
+    },
+    "hint": {
+      "nb": "Enheten brukes til å måle bølgelengder for lys og avstander mellom atomer i krystaller.",
+      "sv": "Enheten används för att mäta våglängder för ljus och avstånd mellan atomer i kristaller."
+    },
+    "funFact": {
+      "nb": "Han levde fra 1814 til 1874, viste at solatmosfæren inneholder hydrogen og ga i 1868 ut et grundig kart over solspekteret. Krateret på månen er under ti kilometer bredt.",
+      "sv": "Han levde från 1814 till 1874, visade att solatmosfären innehåller väte och gav 1868 ut en grundlig karta över solspektrumet. Kratern på månen är under tio kilometer bred."
+    },
+    "source": "IAU/USGS Gazetteer of Planetary Nomenclature; Uppsala universitet"
+  },
+  {
+    "id": "manen-v-10",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "romfart",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Fire mil øst for Kiruna, godt nord for polarsirkelen, ligger en oppskytingsbase som den europeiske romforskningsorganisasjonen ESRO bygde i 1964. Den første raketten gikk til værs i november 1966, og Rymdbolaget overtok driften i 1972. Hva heter basen?",
+      "sv": "Fyra mil öster om Kiruna, en bra bit norr om polcirkeln, ligger en uppskjutningsbas som den europeiska rymdforskningsorganisationen ESRO byggde 1964. Den första raketen gick till väders i november 1966, och Rymdbolaget tog över driften 1972. Vad heter basen?"
+    },
+    "answer": "Esrange",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av forkortelsen for organisasjonen som bygde stedet, og det engelske ordet for skytefelt.",
+      "sv": "Namnet är sammansatt av förkortningen för organisationen som byggde platsen och det engelska ordet för skjutfält."
+    },
+    "funFact": {
+      "nb": "Beliggenheten ble valgt fordi rakettene kan lande i ubebygd fjellterreng og hentes inn igjen. Basen brukes både til høydeforskningsraketter og til slipp av store forskningsballonger.",
+      "sv": "Läget valdes eftersom raketerna kan landa i obebyggd fjällterräng och hämtas in igen. Basen används både till höjdforskningsraketer och till uppsläpp av stora forskningsballonger."
+    },
+    "source": "Swedish Space Corporation (SSC) – Esrange Space Center"
+  }
+]
