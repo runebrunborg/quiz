@@ -1,0 +1,667 @@
+[
+  {
+    "id": "kaffe-l-11",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["teknologi", "okonomi"],
+    "prompt": {
+      "nb": "I 1932 fikk en fransk-italiensk bank i Sveits i oppdrag å finne en løsning på Brasils enorme kaffeoverskudd etter børskrakket i 1929. Kjemikeren Max Morgenthaler løste det ved å tørke flytende kaffe med en sprøytetørkingsmetode, og i 1938 kom produktet i handelen under et navn satt sammen av produsentens navn og det franske ordet for kaffe. Hvilket pulverkaffemerke?",
+      "sv": "År 1932 fick en fransk-italiensk bank i Schweiz i uppdrag att hitta en lösning på Brasiliens enorma kaffeöverskott efter börskraschen 1929. Kemisten Max Morgenthaler löste det genom att torka flytande kaffe med en spraytorkningsmetod, och 1938 kom produkten i handeln under ett namn som var en sammanslagning av tillverkarens namn och det franska ordet för kaffe. Vilket snabbkaffemärke?"
+    },
+    "answer": "Nescafé",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Produsenten er en sveitsisk næringsmiddelgigant, og navnet er en sammentrekning av selskapsnavnet og «café».",
+      "sv": "Tillverkaren är en schweizisk livsmedelsjätte, och namnet är en sammandragning av företagsnamnet och «café»."
+    },
+    "funFact": {
+      "nb": "Banken het Sudameris og tok initiativet fordi Brasil satt på enorme kaffelagre etter Wall Street-krakket. Morgenthalers team brukte flere år på å utvikle sprøytetørkingen før lanseringen 1. april 1938.",
+      "sv": "Banken hette Sudameris och tog initiativet eftersom Brasilien satt på enorma kaffelager efter Wall Street-kraschen. Morgenthalers team lade flera år på att utveckla spraytorkningen innan lanseringen den 1 april 1938."
+    },
+    "source": "Wikipedia (engelsk) – «Nescafé»"
+  },
+  {
+    "id": "kaffe-l-12",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["mat-og-drikke", "okonomi"],
+    "prompt": {
+      "nb": "Dette kaffemerket selges i norske dagligvarebutikker og brennes i regi av et handelshus som ble grunnlagt i 1866. Selskapet ble senere en del av landets største dagligvarekonsern, og navnet på kaffen er samtidig et av de vanligste guttenavnene i Norge. Hvilket merke?",
+      "sv": "Detta kaffemärke säljs i norska dagligvarubutiker och rostas av ett handelshus som grundades 1866. Företaget blev senare en del av landets största dagligvarukoncern, och kaffets namn är samtidigt ett av de vanligaste pojknamnen i Norge. Vilket märke?"
+    },
+    "answer": "Ali",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er kort, og eies i dag av samme konsern som brenneriet Solberg & Hansen.",
+      "sv": "Namnet är kort, och ägs i dag av samma koncern som rosteriet Solberg & Hansen."
+    },
+    "funFact": {
+      "nb": "Handelshuset Joh. Johannson ble i 2000 en del av NorgesGruppen, som i dag produserer kaffen sammen med søstermerket Evergood. Navnet kommer opprinnelig fra arabisk og betyr «opphøyd».",
+      "sv": "Handelshuset Joh. Johannson blev år 2000 en del av NorgesGruppen, som i dag producerar kaffet tillsammans med systermärket Evergood. Namnet kommer ursprungligen från arabiskan och betyder «upphöjd»."
+    },
+    "source": "Store norske leksikon – «NorgesGruppen»; snl.no – «Ali» (navn)"
+  },
+  {
+    "id": "kaffe-l-13",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["sprak", "mat-og-drikke"],
+    "prompt": {
+      "nb": "I gamle norske oppskrifter dukker det stadig opp et mål oppkalt etter noe de fleste har stående i kjøkkenskapet: det tilsvarer omtrent halvannen desiliter, eller ti spiseskjeer. Hva heter dette gamle måleordet, som rett og slett er navnet på en vanlig drikkebeholder?",
+      "sv": "I gamla norska recept dyker det ständigt upp ett mått uppkallat efter något de flesta har stående i köksskåpet: det motsvarar omkring en och en halv deciliter, eller tio matskedar. Vad heter detta gamla måttordet, som helt enkelt är namnet på en vanlig dryckesbehållare?"
+    },
+    "answer": "Kaffekopp",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Beholderen rommer mindre enn en vanlig tekopp.",
+      "sv": "Behållaren rymmer mindre än en vanlig tekopp."
+    },
+    "funFact": {
+      "nb": "Som mål er én kaffekopp definert til 1,5 desiliter, mens én tekopp er noe større. Slike gamle husholdningsmål brukes fortsatt i eldre norske kokebøker.",
+      "sv": "Som mått är en kaffekopp definierad till 1,5 deciliter, medan en tekopp är något större. Sådana gamla hushållsmått används fortfarande i äldre norska kokböcker."
+    },
+    "source": "Store norske leksikon – «kaffekopp»"
+  },
+  {
+    "id": "kaffe-l-14",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["popkultur", "mat-og-drikke"],
+    "prompt": {
+      "nb": "Siden 1999 har svenskene hatt en egen dag viet til den mest kjente kanelbaksten, feiret 4. oktober hvert år og tett vevd sammen med den daglige kaffepausen. Hva kalles denne dagen?",
+      "sv": "Sedan 1999 har svenskarna en egen dag tillägnad det mest kända kanelbakverket, firad den 4 oktober varje år och tätt sammanflätad med den dagliga fikapausen. Vad kallas denna dag?"
+    },
+    "answer": "Kanelbullens dag",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet på dagen er rett fram: det er bakverket pluss ordet for «dagen».",
+      "sv": "Namnet på dagen är rakt på sak: det är bakverket plus ordet «dagen»."
+    },
+    "funFact": {
+      "nb": "Dagen er en av flere svenske temadager viet enkeltprodukter, og bakverket spises nesten alltid sammen med en kopp kaffe som del av fikaen.",
+      "sv": "Dagen är en av flera svenska temadagar tillägnade enskilda produkter, och bakverket äts nästan alltid tillsammans med en kopp kaffe som en del av fikat."
+    },
+    "source": "Wikipedia (engelsk) – «Cinnamon roll»"
+  },
+  {
+    "id": "kaffe-l-15",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "I 1906 startet tre brødre et kaffeforetak i Karlstad som fortsatt eies av samme familie, nå i tredje og fjerde generasjon. Fram til 2012 het selskapet noe med en fargenyanse i navnet, før det ble kortet ned til rett og slett etternavnet deres. Hvilket merke?",
+      "sv": "År 1906 startade tre bröder ett kaffeföretag i Karlstad som fortfarande ägs av samma familj, nu i tredje och fjärde generationen. Fram till 2012 hette bolaget något med en färgnyans i namnet, innan det kortades ner till helt enkelt deras efternamn. Vilket märke?"
+    },
+    "answer": "Löfbergs",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fargen som forsvant fra navnet, var lilla.",
+      "sv": "Färgen som försvann ur namnet var lila."
+    },
+    "funFact": {
+      "nb": "Grunnleggerne het Josef, Anders og John Löfberg, og selskapet het lenge Löfbergs Lila før tillegget ble fjernet i 2012.",
+      "sv": "Grundarna hette Josef, Anders och John Löfberg, och bolaget hette länge Löfbergs Lila innan tillägget togs bort 2012."
+    },
+    "source": "Wikipedia (engelsk) – «Löfbergs»"
+  },
+  {
+    "id": "kaffe-l-16",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["historie", "mat-og-drikke"],
+    "prompt": {
+      "nb": "En kokk ved en flybåtterminal i Irland tilsatte whisky i kaffekoppene til noen frosne passasjerer en vinterkveld i 1942 eller 1943. Skikken krysset Atlanteren via en amerikansk reisejournalist og havnet på menyen ved en kafé i San Francisco fra 10. november 1952. Hvilken kaffedrikk?",
+      "sv": "En kock vid en flygbåtsterminal på Irland tillsatte whisky i kaffekopparna åt några frusna passagerare en vinterkväll 1942 eller 1943. Seden korsade Atlanten via en amerikansk resejournalist och hamnade på menyn på ett kafé i San Francisco från den 10 november 1952. Vilken kaffedryck?"
+    },
+    "answer": "Irish coffee",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Drikken serveres varm, med pisket krem flytende på toppen.",
+      "sv": "Drycken serveras varm, med vispgrädde flytande på ytan."
+    },
+    "funFact": {
+      "nb": "Kokken het Joe Sheridan og jobbet ved Foynes flybåtterminal. Journalisten Stanton Delaplane fikk drikken innført på Buena Vista Cafe, og Sheridan flyttet selv dit noen år senere.",
+      "sv": "Kocken hette Joe Sheridan och jobbade vid Foynes flygbåtsterminal. Journalisten Stanton Delaplane fick drycken infört på Buena Vista Cafe, och Sheridan flyttade själv dit några år senare."
+    },
+    "source": "Wikipedia (engelsk) – «Irish coffee»"
+  },
+  {
+    "id": "kaffe-l-17",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["historie", "sprak"],
+    "prompt": {
+      "nb": "Skikken med en fast avbrekk fra jobben for å drikke noe varmt har vært en del av arbeidslivet lenge, men det var en amerikansk bransjeorganisasjon for kaffeimportører som i 1952 lanserte en reklamekampanje med oppfordringen «Give yourself a Coffee-Break». Kampanjen gjorde selve uttrykket kjent verden over. Hva kalles denne faste arbeidspausen?",
+      "sv": "Seden med ett fast avbrott från jobbet för att dricka något varmt har varit en del av arbetslivet länge, men det var en amerikansk branschorganisation för kaffeimportörer som 1952 lanserade en reklamkampanj med uppmaningen «Give yourself a Coffee-Break». Kampanjen gjorde själva uttrycket känt över hela världen. Vad kallas denna fasta arbetspaus?"
+    },
+    "answer": { "nb": "Kaffepause", "sv": "Kaffepaus" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er ganske enkelt en sammensetning av drikken og selve avbrekket.",
+      "sv": "Ordet är helt enkelt en sammansättning av drycken och själva avbrottet."
+    },
+    "funFact": {
+      "nb": "Bransjeorganisasjonen het Pan-American Coffee Bureau. Alt i 1902 hadde amerikanske bedrifter som Larkin Soap Company innført faste slike pauser for de ansatte.",
+      "sv": "Branschorganisationen hette Pan-American Coffee Bureau. Redan 1902 hade amerikanska företag som Larkin Soap Company infört fasta sådana pauser för de anställda."
+    },
+    "source": "Wikipedia (engelsk) – «Coffee break»"
+  },
+  {
+    "id": "kaffe-l-18",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie", "teknologi"],
+    "prompt": {
+      "nb": "I 1959 åpnet Norges aller første espressobar – ikke i en vanlig kafé, men inne i et av Oslos mest kjente varemagasiner. Stedet er fortsatt et begrep i norsk handelshistorie, selv om driften har endret seg mye siden den gang. Hvilket varemagasin?",
+      "sv": "År 1959 öppnade Norges allra första espressobar – inte på ett vanligt kafé, utan inne i ett av Oslos mest kända varuhus. Platsen är fortfarande ett begrepp i norsk handelshistoria, även om verksamheten har förändrats mycket sedan dess. Vilket varuhus?"
+    },
+    "answer": "Steen & Strøm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet består av to etternavn forbundet med en «&».",
+      "sv": "Namnet består av två efternamn förbundna med ett «&»."
+    },
+    "funFact": {
+      "nb": "Espressobaren åpnet i varemagasinets lokaler i 1959, lenge før espresso og cappuccino ble hverdagsord i Norge.",
+      "sv": "Espressobaren öppnade i varuhusets lokaler 1959, långt innan espresso och cappuccino blev vardagsord i Norge."
+    },
+    "source": "Store norske leksikon – «kafé»"
+  },
+  {
+    "id": "kaffe-l-19",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["musikk"],
+    "prompt": {
+      "nb": "En dansk vise fra 1972, skrevet av Benny Andersen, ble en kjempehit i både Danmark og Norge og har i Danmark til og med vært nevnt som mulig ny nasjonalsang. Tittelen har en parentes som lover at kaffen snart er klar. Hva heter visen?",
+      "sv": "En dansk sång från 1972, skriven av Benny Andersen, blev en jättehit i både Danmark och Norge och har i Danmark till och med nämnts som möjlig ny nationalsång. Titeln har en parentes som lovar att kaffet snart är klart. Vad heter sången?"
+    },
+    "answer": "Svantes lykkelige dag",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Undertittelen er «Om lidt er kaffen klar».",
+      "sv": "Undertiteln är «Om lidt er kaffen klar»."
+    },
+    "funFact": {
+      "nb": "Sangen er skrevet av den danske forfatteren og musikeren Benny Andersen i 1972, og har siden blitt fremført av mange ulike artister i både Danmark og Norge.",
+      "sv": "Sången är skriven av den danske författaren och musikern Benny Andersen 1972, och har sedan dess framförts av många olika artister i både Danmark och Norge."
+    },
+    "source": "Store norske leksikon – «Musikk i Danmark»"
+  },
+  {
+    "id": "kaffe-l-20",
+    "category": "kaffe",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "I år 2000 ble verdens aller første mesterskap i baristakunst arrangert i Monte Carlo, og vinneren kom fra Norge. Han startet dermed en periode der skandinaviske baristaer dominerte konkurransen i flere år framover. Hvem vant?",
+      "sv": "År 2000 arrangerades världens allra första mästerskap i baristakonst i Monte Carlo, och vinnaren kom från Norge. Han inledde därmed en period då skandinaviska baristor dominerade tävlingen i flera år framöver. Vem vann?"
+    },
+    "answer": "Robert Thoresen",
+    "answerKind": "person",
+    "person": { "given": "Robert", "family": "Thoresen" },
+    "hint": {
+      "nb": "Han er ikke den eneste nordmannen som senere skulle vinne samme mesterskap.",
+      "sv": "Han är inte den enda norrmannen som senare skulle vinna samma mästerskap."
+    },
+    "funFact": {
+      "nb": "Fire år senere, i 2004, vant også Tim Wendelboe det samme mesterskapet. De første syv årene av konkurransen ble dominert av danske og norske baristaer.",
+      "sv": "Fyra år senare, 2004, vann även Tim Wendelboe samma mästerskap. De första sju åren av tävlingen dominerades av danska och norska baristor."
+    },
+    "source": "World Barista Championship – offisiell vinnerliste"
+  },
+  {
+    "id": "kaffe-m-11",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["mat-og-drikke", "sprak"],
+    "prompt": {
+      "nb": "I Sverige finnes det en drikk der en mynt legges i bunnen av koppen: kaffe helles i til mynten forsvinner, så tilsettes brennevin til den kommer til syne igjen, og slik fortsetter man til koppen er full. Hva kalles denne svenske drikken?",
+      "sv": "I Sverige finns det en dryck där ett mynt läggs i botten av koppen: kaffe hälls i tills myntet försvinner, sedan tillsätts brännvin tills det syns igen, och så fortsätter man tills koppen är full. Vad kallas denna svenska dryck?"
+    },
+    "answer": "Kaffekask",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den norske søsterdrikken med samme myntmetode heter karsk.",
+      "sv": "Den norska syskondrycken med samma myntmetod heter karsk."
+    },
+    "funFact": {
+      "nb": "Metoden med mynten er nesten identisk med den som brukes til norsk karsk, men navnet og drikketradisjonen regnes som en egen svensk skikk.",
+      "sv": "Myntmetoden är nästan identisk med den som används för norsk karsk, men namnet och dryckestraditionen räknas som en egen svensk sed."
+    },
+    "source": "Wiktionary (engelsk) – «kaffekask»"
+  },
+  {
+    "id": "kaffe-m-12",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["okonomi", "popkultur"],
+    "prompt": {
+      "nb": "For å skille sitt opphav fra billigere blandingskaffe skapte en nasjonal kaffeprodusentforening i Colombia i 1958 en skjeggete bondekarakter med muldyret Conchita ved sin side. Figuren ble tegnet av det amerikanske reklamebyrået Doyle Dane Bernbach og er siden blitt selve symbolet på ekte colombiansk kaffe. Hva heter denne fiktive kaffebonden?",
+      "sv": "För att skilja sitt ursprung från billigare blandkaffe skapade en nationell kaffeproducentförening i Colombia 1958 en skäggig bondkaraktär med mulåsnan Conchita vid sin sida. Figuren tecknades av den amerikanska reklambyrån Doyle Dane Bernbach och har sedan dess blivit själva symbolen för äkta colombianskt kaffe. Vad heter denna fiktiva kaffebonde?"
+    },
+    "answer": "Juan Valdez",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er svært vanlig i spansktalende land, og figuren har vært spilt av flere ulike skuespillere opp gjennom årene.",
+      "sv": "Namnet är mycket vanligt i spansktalande länder, och figuren har spelats av flera olika skådespelare genom åren."
+    },
+    "funFact": {
+      "nb": "Skaperen var reklamebyråets grunnlegger William Bernbach. Rollen er spilt av flere skuespillere, blant dem José F. Duval og Carlos Sánchez, som hadde rollen i hele 37 år.",
+      "sv": "Skaparen var reklambyråns grundare William Bernbach. Rollen har spelats av flera skådespelare, bland dem José F. Duval och Carlos Sánchez, som hade rollen i hela 37 år."
+    },
+    "source": "Wikipedia (engelsk) – «Juan Valdez»"
+  },
+  {
+    "id": "kaffe-m-13",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["historie", "geografi"],
+    "prompt": {
+      "nb": "Den 29. desember 1720 åpnet et kaffeserveringssted med to enkle rom under buegangene ved Markusplassen i Venezia. Det regnes som den eldste kaffeserveringen i kontinuerlig drift i Italia, og har hatt gjester som Goethe og Casanova. Hva heter stedet, oppkalt etter sin første eier?",
+      "sv": "Den 29 december 1720 öppnade ett kaffeställe med två enkla rum under arkaderna vid Markusplatsen i Venedig. Det räknas som det äldsta kaffestället i kontinuerlig drift i Italien, och har haft gäster som Goethe och Casanova. Vad heter stället, uppkallat efter sin förste ägare?"
+    },
+    "answer": "Caffè Florian",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stedet var lenge det eneste kaffeserveringsstedet i Venezia som slapp inn kvinnelige gjester.",
+      "sv": "Stället var länge det enda kaffestället i Venedig som släppte in kvinnliga gäster."
+    },
+    "funFact": {
+      "nb": "Stedet het opprinnelig «Alla Venezia Trionfante» og fikk siden navn etter grunnleggeren Floriano Francesconi. Under revolusjonen i 1848 fungerte lokalet en periode som feltsykehus for sårede patrioter.",
+      "sv": "Stället hette ursprungligen «Alla Venezia Trionfante» och fick sedan namn efter grundaren Floriano Francesconi. Under revolutionen 1848 fungerade lokalen en period som fältsjukhus för sårade patrioter."
+    },
+    "source": "Wikipedia (engelsk) – «Caffè Florian»"
+  },
+  {
+    "id": "kaffe-m-14",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["geografi", "okonomi"],
+    "prompt": {
+      "nb": "Franske misjonærer skal ha tatt med seg de første kaffeplantene til dette landet i 1857, og de første plantasjene kom i gang mot slutten av 1880-tallet. I dag er landet verdens nest største kaffeprodusent, med robusta som den klart viktigste sorten. Hvilket land?",
+      "sv": "Franska missionärer ska ha tagit med sig de första kaffeplantorna till detta land 1857, och de första plantagerna kom igång mot slutet av 1880-talet. I dag är landet världens näst största kaffeproducent, med robusta som den klart viktigaste sorten. Vilket land?"
+    },
+    "answer": "Vietnam",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet ligger i Sørøst-Asia og var tidligere en del av Fransk Indokina.",
+      "sv": "Landet ligger i Sydostasien och var tidigare en del av Franska Indokina."
+    },
+    "funFact": {
+      "nb": "De første kommersielle plantasjene ble anlagt i provinsene Ninh Bình og Quảng Bình i 1888. I dag utgjør robusta hele 97 prosent av landets kaffeproduksjon.",
+      "sv": "De första kommersiella plantagerna anlades i provinserna Ninh Bình och Quảng Bình 1888. I dag utgör robusta hela 97 procent av landets kaffeproduktion."
+    },
+    "source": "Wikipedia (engelsk) – «Coffee production in Vietnam»"
+  },
+  {
+    "id": "kaffe-m-15",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["geografi", "natur"],
+    "prompt": {
+      "nb": "En amerikansk prest tok med kaffeplanter fra brasilianske stiklinger til en øy i Stillehavet i 1828, og plantet dem i et distrikt som siden har gitt navn til en av verdens mest kjente kaffesorter. Hvilken kaffe?",
+      "sv": "En amerikansk präst tog med kaffeplantor från brasilianska sticklingar till en ö i Stilla havet 1828, och planterade dem i ett distrikt som sedan har gett namn åt ett av världens mest kända kaffeslag. Vilket kaffe?"
+    },
+    "answer": { "nb": "Kona-kaffe", "sv": "Kona-kaffe" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øya er Hawaiis «storøy», Big Island, og distriktet ligger på solsiden av vulkanene.",
+      "sv": "Ön är Hawaiis «storö», Big Island, och distriktet ligger på solsidan av vulkanerna."
+    },
+    "funFact": {
+      "nb": "Presten het Samuel Ruggles. Distriktet på Big Island har siden blitt kjent for en av verdens dyreste og mest ettertraktede kaffetyper.",
+      "sv": "Prästen hette Samuel Ruggles. Distriktet på Big Island har sedan blivit känt för ett av världens dyraste och mest eftertraktade kaffeslag."
+    },
+    "source": "Wikipedia (engelsk) – «Kona coffee»"
+  },
+  {
+    "id": "kaffe-m-16",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["historie", "popkultur"],
+    "prompt": {
+      "nb": "På 1980-tallet kom en ny type serveringssted til Oslo, inspirert av kontinental kaffekultur. Én av de første åpnet i 1984 og er fortsatt i drift, med et navn hentet fra en avsluttende situasjon i sjakk. Hva heter dette kaféet?",
+      "sv": "På 1980-talet kom en ny typ av serveringsställe till Oslo, inspirerad av kontinental kaffekultur. Ett av de första öppnade 1984 och är fortfarande i drift, med ett namn hämtat från en avslutande situation i schack. Vad heter detta kaféet?"
+    },
+    "answer": "Café Sjakk Matt",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kaféet ligger i Oslo sentrum og regnes som en pioner innen den kontinentale kafébølgen i byen.",
+      "sv": "Kaféet ligger i centrala Oslo och räknas som en pionjär inom den kontinentala kaférörelsen i staden."
+    },
+    "funFact": {
+      "nb": "Kaféet var del av det som gjerne kalles «kafé med c»-bølgen i Oslo på 1980-tallet, sammen med blant annet Teatergaten Café.",
+      "sv": "Kaféet var en del av det som ofta kallas «café med c»-vågen i Oslo på 1980-talet, tillsammans med bland annat Teatergaten Café."
+    },
+    "source": "Store norske leksikon – «kafé»"
+  },
+  {
+    "id": "kaffe-m-17",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["historie", "sprak"],
+    "prompt": {
+      "nb": "8. september 1901 åpnet Bondeungdomslaget et serveringssted i Øvre Slottsgate i Oslo, med et navn som rett og slett betyr «kaffestue» på nynorsk. På det meste fantes det rundt 130 slike steder over hele landet, drevet av mållags- og ungdomslagsbevegelsen. Hva ble serveringsstedene kalt?",
+      "sv": "Den 8 september 1901 öppnade Bondeungdomslaget ett serveringsställe på Øvre Slottsgate i Oslo, med ett namn som helt enkelt betyder «kaffestuga» på nynorska. Som mest fanns det omkring 130 sådana ställen över hela landet, drivna av språk- och ungdomsrörelsen. Vad kallades serveringsställena?"
+    },
+    "answer": "Kaffistova",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er i bestemt form entall av et ord som ligner det norske ordet for kaffe.",
+      "sv": "Namnet är i bestämd form singular av ett ord som liknar det norska ordet för kaffe."
+    },
+    "funFact": {
+      "nb": "Det aller første stedet åpnet i regi av Bondeungdomslaget, en del av en bølge av kaféer knyttet til mållagsbevegelsen. I dag er det bare BUL Oslos servering som fortsatt eies av en av de opprinnelige organisasjonene, selv om navnet henger igjen på flere andre serveringssteder.",
+      "sv": "Det allra första stället öppnade i regi av Bondeungdomslaget, en del av en våg av kaféer knutna till språkrörelsen. I dag är det bara BUL Oslos servering som fortfarande ägs av en av de ursprungliga organisationerna, även om namnet lever kvar på flera andra serveringsställen."
+    },
+    "source": "Store norske leksikon – «kaffistove»"
+  },
+  {
+    "id": "kaffe-m-18",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["design", "teknologi"],
+    "prompt": {
+      "nb": "Et norsk keramikkfirma fra Sandnes-området, grunnlagt i 1941, samarbeidet med en kjent norsk baristamester om utformingen av en kaffeservise ment å optimalisere smaksopplevelsen. Servicen vant en internasjonal designpris i 2016. Hvilket merke?",
+      "sv": "Ett norskt keramikföretag från Sandnes-området, grundat 1941, samarbetade med en känd norsk baristamästare om utformningen av en kaffeservis avsedd att optimera smakupplevelsen. Servisen vann ett internationellt designpris 2016. Vilket märke?"
+    },
+    "answer": "Figgjo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Baristaen det samarbeides med, er den samme som vant verdensmesterskapet i 2004.",
+      "sv": "Baristan man samarbetade med är samma person som vann världsmästerskapet 2004."
+    },
+    "funFact": {
+      "nb": "Selskapet ble grunnlagt av Harald Lima og Sigurd Figved. Designeren Kristin Hærnes Ihlen stod bak formen på servicen «Figgjo Oslo», som fikk hedrende omtale i den internasjonale designprisen Red Dot i 2016.",
+      "sv": "Företaget grundades av Harald Lima och Sigurd Figved. Designern Kristin Hærnes Ihlen stod bakom formen på servisen «Figgjo Oslo», som fick hedrande omnämnande i det internationella designpriset Red Dot 2016."
+    },
+    "source": "Store norske leksikon – «Figgjo»"
+  },
+  {
+    "id": "kaffe-m-19",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["historie", "geografi"],
+    "prompt": {
+      "nb": "I 1685 ankom den første dokumenterte kaffeforsendelsen til Sverige, til en havneby på vestkysten. Kaffen ble i starten regnet som medisin og solgt gjennom apotek, lenge før den ble allemannseie. Hvilken by tok imot forsendelsen?",
+      "sv": "År 1685 anlände den första dokumenterade kaffeförsändelsen till Sverige, till en hamnstad på västkusten. Kaffet räknades till en början som medicin och såldes genom apotek, långt innan det blev var mans egendom. Vilken stad tog emot försändelsen?"
+    },
+    "answer": "Göteborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er i dag også Sveriges største kaffehavn, ved siden av Gävle.",
+      "sv": "Staden är i dag också Sveriges största kaffehamn, jämte Gävle."
+    },
+    "funFact": {
+      "nb": "Nesten 30 år tidligere, i 1657, hadde den svenske diplomaten Claes Rålamb selv smakt kaffe under et oppdrag i Konstantinopel. Kaffen forble en sjelden luksusvare i flere tiår etter forsendelsen i 1685.",
+      "sv": "Nästan 30 år tidigare, 1657, hade den svenske diplomaten Claes Rålamb själv smakat kaffe under ett uppdrag i Konstantinopel. Kaffet förblev en sällsynt lyxvara i flera decennier efter försändelsen 1685."
+    },
+    "source": "Wikipedia (engelsk) – «Coffee in Sweden»"
+  },
+  {
+    "id": "kaffe-m-20",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["transport", "historie"],
+    "prompt": {
+      "nb": "Ombord på skip i eldre tider var forsyningene begrenset, og sjøfolk kunne finne på å koke kaffe for andre eller tredje gang på den samme grruten for å spare på forrådet. Hva kalles denne sjømannsskikken på norsk?",
+      "sv": "Ombord på skepp i äldre tider var förråden begränsade, och sjömän kunde koka kaffe för andra eller tredje gången på samma sump för att spara på förrådet. Vad kallas denna sjömanssed på norska?"
+    },
+    "answer": "Kaffeklaring",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet inneholder også betydningen «å gjøre klar» eller «å rense».",
+      "sv": "Ordet innehåller också betydelsen «att göra klar» eller «att rena»."
+    },
+    "funFact": {
+      "nb": "Praksisen var en økonomisk nødvendighet på skuter der forsyningene måtte vare lenge. Uttrykket er dokumentert i Store norske leksikon under sjøfartshistorie.",
+      "sv": "Praktiken var en ekonomisk nödvändighet på skutor där förråden måste räcka länge. Uttrycket är dokumenterat i Store norske leksikon under sjöfartshistoria."
+    },
+    "source": "Store norske leksikon – «kaffeklaring»"
+  },
+  {
+    "id": "kaffe-v-11",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["natur", "dyr"],
+    "prompt": {
+      "nb": "En asiatisk palmesivett spiser kaffebær, fordøyer fruktkjøttet, og de hele bønnene samles opp igjen etter å ha passert fordøyelsessystemet dens. Prosessen gir en kaffe fra Indonesia som ofte omtales som en av verdens dyreste. Hva kalles denne kaffen?",
+      "sv": "En asiatisk palmmård äter kaffebär, smälter fruktköttet, och de hela bönorna samlas upp igen efter att ha passerat matsmältningssystemet dess. Processen ger ett kaffe från Indonesien som ofta kallas ett av världens dyraste. Vad kallas detta kaffe?"
+    },
+    "answer": "Kopi luwak",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er indonesisk og forteller egentlig bare hvilket dyr kaffen er hentet fra.",
+      "sv": "Namnet är indonesiskt och berättar egentligen bara vilket djur kaffet är hämtat från."
+    },
+    "funFact": {
+      "nb": "Dyret heter luwak på indonesisk og er en palmesivett. Bønnene endrer smak gjennom en gjæringsprosess i dyrets tarmsystem, noe som har gitt kaffen tilnavnet «kaffeverdenens hellige gral».",
+      "sv": "Djuret heter luwak på indonesiska och är en palmmård. Bönorna ändrar smak genom en jäsningsprocess i djurets tarmsystem, vilket har gett kaffet smeknamnet «kaffevärldens heliga gral»."
+    },
+    "source": "Wikipedia (engelsk) – «Kopi luwak»"
+  },
+  {
+    "id": "kaffe-v-12",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["historie", "mat-og-drikke"],
+    "prompt": {
+      "nb": "Ifølge den mest kjente historien oppfant en representant for et sveitsisk pulverkaffemerke denne iskalde drikken ved et uhell under en internasjonal messe i Thessaloniki i 1957, fordi han ikke fant varmt vann. Nyere kilder tyder på at drikken faktisk fantes allerede noen år tidligere, så historien regnes som omstridt. Hvilken drikk?",
+      "sv": "Enligt den mest kända historien uppfann en representant för ett schweiziskt snabbkaffemärke denna iskalla drycken av misstag under en internationell mässa i Thessaloniki 1957, eftersom han inte hittade varmt vatten. Nyare källor tyder på att drycken faktiskt fanns redan några år tidigare, så historien räknas som omstridd. Vilken dryck?"
+    },
+    "answer": "Frappé",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Drikken lages ved å riste pulverkaffe med kaldt vann og is, og er svært populær i Hellas.",
+      "sv": "Drycken görs genom att skaka snabbkaffe med kallt vatten och is, och är mycket populär i Grekland."
+    },
+    "funFact": {
+      "nb": "Mannen het Dimitris Vakondios og jobbet for Nescafé. Reklame fra 1951 og en gresk film fra samme år tyder på at drikken var kjent før hans påståtte oppdagelse i 1957.",
+      "sv": "Mannen hette Dimitris Vakondios och jobbade för Nescafé. Reklam från 1951 och en grekisk film från samma år tyder på att drycken var känd innan hans påstådda upptäckt 1957."
+    },
+    "source": "Wikipedia (engelsk) – «Frappé coffee»"
+  },
+  {
+    "id": "kaffe-v-13",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["design", "kunst"],
+    "prompt": {
+      "nb": "I januar 1928 begynte en kvinne å tegne utkast til te- og kaffeserviser for en norsk porselensfabrikk i Telemark, etter en kort prøveperiode alt i desember året før. Hun regnes som en av Norges aller første profesjonelle industridesignere, i en tid da funksjonalismen nådde Norden. Hvem var hun?",
+      "sv": "I januari 1928 började en kvinna teckna utkast till te- och kaffeserviser för en norsk porslinsfabrik i Telemark, efter en kort provperiod redan i december året innan. Hon räknas som en av Norges allra första professionella industridesigners, i en tid då funktionalismen nådde Norden. Vem var hon?"
+    },
+    "answer": "Nora Gulbrandsen",
+    "answerKind": "person",
+    "person": { "given": "Nora", "family": "Gulbrandsen" },
+    "hint": {
+      "nb": "Fabrikken ligger i byen som har gitt navn til hele bedriften: Porsgrunds Porselænsfabrik.",
+      "sv": "Fabriken ligger i staden som har gett namn åt hela företaget: Porsgrunds Porselænsfabrik."
+    },
+    "funFact": {
+      "nb": "Karrieren hennes falt sammen med at funksjonalismen for alvor nådde Norden, og hun regnes som en pioner blant norske industridesignere.",
+      "sv": "Karriären hennes sammanföll med att funktionalismen på allvar nådde Norden, och hon räknas som en pionjär bland norska industridesigners."
+    },
+    "source": "Store norske leksikon – «Nora Gulbrandsen»"
+  },
+  {
+    "id": "kaffe-v-14",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["okonomi", "historie"],
+    "prompt": {
+      "nb": "I 1971 ble et av Sveriges eldste kaffemerker, etter 120 år på samme families hender, solgt til et amerikansk næringsmiddelkonsern som senere ble en del av Mondelez International. Salget innledet flere tiår med skiftende internasjonalt eierskap for det svenske merket. Hvilket amerikansk selskap kjøpte det opp?",
+      "sv": "År 1971 såldes ett av Sveriges äldsta kaffemärken, efter 120 år i samma familjs ägo, till en amerikansk livsmedelskoncern som senare blev en del av Mondelez International. Försäljningen inledde flera decennier med skiftande internationellt ägande för det svenska märket. Vilket amerikanskt bolag köpte det?"
+    },
+    "answer": "General Foods",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapsnavnet er en generisk beskrivelse av bransjen det opererte i: mat, rett og slett.",
+      "sv": "Bolagsnamnet är en generisk beskrivning av branschen det verkade i: mat, helt enkelt."
+    },
+    "funFact": {
+      "nb": "Det svenske merket het Gevalia, grunnlagt i Gävle i 1853. I dag deles rettighetene mellom Kraft Heinz i Nord-Amerika og JDE Peet's i resten av verden.",
+      "sv": "Det svenska märket hette Gevalia, grundat i Gävle 1853. I dag delas rättigheterna mellan Kraft Heinz i Nordamerika och JDE Peet's i resten av världen."
+    },
+    "source": "Wikipedia (engelsk) – «Gevalia»"
+  },
+  {
+    "id": "kaffe-v-15",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie", "sprak"],
+    "prompt": {
+      "nb": "I 1657 var en svensk diplomat på oppdrag i Konstantinopel og skrev senere ned sitt møte med en «kokt drikk av bønner», inntatt varm. Han regnes som den første svensken som skriftlig omtalte kaffe. Hvem var han?",
+      "sv": "År 1657 var en svensk diplomat på uppdrag i Konstantinopel och skrev senare ner sitt möte med en «kokt dryck av bönor», intagen varm. Han räknas som den förste svensken som skriftligen omtalade kaffe. Vem var han?"
+    },
+    "answer": "Claes Rålamb",
+    "answerKind": "person",
+    "person": { "given": "Claes", "family": "Rålamb" },
+    "hint": {
+      "nb": "Han tilhørte en gammel svensk adelsslekt, og reisen til Konstantinopel var et diplomatisk oppdrag for den svenske kronen.",
+      "sv": "Han tillhörde en gammal svensk adelsätt, och resan till Konstantinopel var ett diplomatiskt uppdrag för den svenska kronan."
+    },
+    "funFact": {
+      "nb": "Han beskrev drikken som en «kokt drikk av bønner» i sine reisenotater. Det skulle likevel gå nesten 30 år før den første dokumenterte kaffeforsendelsen kom til Sverige, i 1685.",
+      "sv": "Han beskrev drycken som en «kokt dryck av bönor» i sina reseanteckningar. Det skulle ändå dröja nästan 30 år innan den första dokumenterade kaffeförsändelsen kom till Sverige, 1685."
+    },
+    "source": "Wikipedia (engelsk) – «Coffee in Sweden»"
+  },
+  {
+    "id": "kaffe-v-16",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["historie", "religion"],
+    "prompt": {
+      "nb": "En seiglivet legende forteller at en polsk offiser fikk kaffesekker etter beleiringen av Wien i 1683 og åpnet byens første kaffehus. Moderne forskning peker i stedet på en armensk forretningsmann som skal ha åpnet det virkelige første kaffehuset to år senere. Hva het denne mannen?",
+      "sv": "En seglivad legend berättar att en polsk officer fick kaffesäckar efter belägringen av Wien 1683 och öppnade stadens första kaffehus. Modern forskning pekar i stället på en armenisk affärsman som ska ha öppnat det verkliga första kaffehuset två år senare. Vad hette denne man?"
+    },
+    "answer": "Johannes Theodat",
+    "answerKind": "person",
+    "person": { "given": "Johannes", "family": "Theodat" },
+    "hint": {
+      "nb": "Han er også kjent under det italienske navnet Johannes Diodato.",
+      "sv": "Han är också känd under det italienska namnet Johannes Diodato."
+    },
+    "funFact": {
+      "nb": "Legenden om den polske offiseren Jerzy Franciszek Kulczycki henger fortsatt ved i wienske kaffehus, men historikere har vist at han ikke åpnet det første. Wiens kaffehuskultur ble for øvrig ført opp på UNESCOs liste over immateriell kulturarv i 2011.",
+      "sv": "Legenden om den polske officeren Jerzy Franciszek Kulczycki lever fortfarande kvar i Wiens kaffehus, men historiker har visat att han inte öppnade det första. Wiens kaffehuskultur fördes för övrigt upp på UNESCOs lista över immateriellt kulturarv 2011."
+    },
+    "source": "Wikipedia (engelsk) – «Viennese coffee house»"
+  },
+  {
+    "id": "kaffe-v-17",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["historie", "natur"],
+    "prompt": {
+      "nb": "I 1616 skaffet en nederlandsk kjøpmann kaffeplanter fra Mokka i Jemen og fikk dem plantet i en botanisk hage i Amsterdam. Hendelsen fikk lite oppmerksomhet den gang, men skulle få stor betydning: nederlenderne begynte snart å dyrke kaffe i egne kolonier i Asia. Hvem var kjøpmannen?",
+      "sv": "År 1616 skaffade en nederländsk köpman kaffeplantor från Mocha i Jemen och lät plantera dem i en botanisk trädgård i Amsterdam. Händelsen fick föga uppmärksamhet då, men skulle få stor betydelse: nederländarna började snart odla kaffe i egna kolonier i Asien. Vem var köpmannen?"
+    },
+    "answer": "Pieter van den Broecke",
+    "answerKind": "person",
+    "person": { "given": "Pieter", "family": "van den Broecke" },
+    "hint": {
+      "nb": "Han var en kjent reisende og handelsmann i det nederlandske Ostindiske Kompani.",
+      "sv": "Han var en känd resande och handelsman i det nederländska Ostindiska kompaniet."
+    },
+    "funFact": {
+      "nb": "Fra 1658 dyrket nederlenderne kaffe på Ceylon, og fra begynnelsen av 1700-tallet ble Java kompaniets viktigste kaffekilde, i sterk konkurranse med den jemenittiske kaffen fra Mokka.",
+      "sv": "Från 1658 odlade nederländarna kaffe på Ceylon, och från början av 1700-talet blev Java kompaniets viktigaste kaffekälla, i stark konkurrens med det jemenitiska kaffet från Mocha."
+    },
+    "source": "Wikipedia (engelsk) – «History of coffee»"
+  },
+  {
+    "id": "kaffe-v-18",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["historie", "mat-og-drikke"],
+    "prompt": {
+      "nb": "I 1856 åpnet et av Trondheims første kaféer, et konditori som fortsatt nevnes som et tidlig eksempel på kaffekultur i byen, sentralt plassert i det som da var en viktig handelsby ved Nidelva. Hva het dette konditoriet, oppkalt etter grunnleggeren?",
+      "sv": "År 1856 öppnade ett av Trondheims första kaféer, ett konditori som fortfarande nämns som ett tidigt exempel på kaffekultur i staden, centralt beläget i vad som då var en viktig handelsstad vid Nidälven. Vad hette detta konditori, uppkallat efter grundaren?"
+    },
+    "answer": "Erichsens konditori",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnleggeren het Erichsen.",
+      "sv": "Grundaren hette Erichsen."
+    },
+    "funFact": {
+      "nb": "Konditoriet er nevnt i Store norske leksikons oversikt over tidlige norske kafeer, sammen med tilsvarende pionerer i Bergen og Stavanger.",
+      "sv": "Konditoriet nämns i Store norske leksikons översikt över tidiga norska kaféer, tillsammans med motsvarande pionjärer i Bergen och Stavanger."
+    },
+    "source": "Store norske leksikon – «kafé»"
+  },
+  {
+    "id": "kaffe-v-19",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["historie", "arkitektur"],
+    "prompt": {
+      "nb": "På begynnelsen av 1860-tallet åpnet en av Bergens tidlige kaféer, med et navn som viser til byens handelsbørs. Hva het dette serveringsstedet?",
+      "sv": "I början av 1860-talet öppnade ett av Bergens tidiga kaféer, med ett namn som anspelar på stadens handelsbörs. Vad hette detta serveringsställe?"
+    },
+    "answer": "Børscafeen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er en sammensetning av «børs» og det franske ordet for kafé.",
+      "sv": "Namnet är en sammansättning av «börs» och det franska ordet för kafé."
+    },
+    "funFact": {
+      "nb": "Bergen fikk sine første kaféer omtrent samtidig med at lignende steder dukket opp i Trondheim og Oslo, som del av en gryende norsk kaffekultur på 1800-tallet.",
+      "sv": "Bergen fick sina första kaféer ungefär samtidigt som liknande ställen dök upp i Trondheim och Oslo, som en del av en gryende norsk kaffekultur på 1800-talet."
+    },
+    "source": "Store norske leksikon – «kafé»"
+  },
+  {
+    "id": "kaffe-v-20",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["historie", "arkitektur"],
+    "prompt": {
+      "nb": "I 1895 åpnet en av Stavangers tidlige kaffeserveringer, oppkalt etter et vanntårn som fortsatt er et kjent landemerke i byen. Hva het kaféet?",
+      "sv": "År 1895 öppnade en av Stavangers tidiga kaffeserveringar, uppkallad efter ett vattentorn som fortfarande är ett känt landmärke i staden. Vad hette kaféet?"
+    },
+    "answer": "Vålandstårnets Café",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tårnet ligger i bydelen Våland, rett sør for sentrum.",
+      "sv": "Tornet ligger i stadsdelen Våland, strax söder om centrum."
+    },
+    "funFact": {
+      "nb": "Kaféet var blant de tidligste serveringsstedene i Stavanger og er nevnt i Store norske leksikons oversikt over norsk kaféhistorie, sammen med tilsvarende pionerer i Trondheim og Bergen.",
+      "sv": "Kaféet var bland de tidigaste serveringsställena i Stavanger och nämns i Store norske leksikons översikt över norsk kaféhistoria, tillsammans med motsvarande pionjärer i Trondheim och Bergen."
+    },
+    "source": "Store norske leksikon – «kafé»"
+  }
+]

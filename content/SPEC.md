@@ -108,3 +108,28 @@ karakter.
 
 Alt annet er som før: samme struktur, samme krav til kilder, og svarene må ikke
 kollidere med dem som allerede finnes i temaets originalfil – les den først.
+
+---
+
+## Kilder som faktisk lar seg hente
+
+Nettmiljøet der spørsmålene skrives er begrenset. Erfaring så langt:
+
+* **Virker:** `snl.no` — både oppslag (`https://snl.no/<emne>`) og søk
+  (`https://snl.no/api/v1/search?query=...`). Store norske leksikon har god
+  dekning også av svenske emner, og er den mest pålitelige kilden her.
+* **Virker:** `en.wikipedia.org`, samt institusjoners, museers og bedrifters
+  egne sider.
+* **Virker ikke:** `no.wikipedia.org` og `sv.wikipedia.org` er «cache-only» og
+  kan ikke hentes. `WebSearch` gir HTTP 403. Wikidata, runeberg.org og
+  Riksarkivet er sperret av utgående brannmur.
+
+**Konsekvens for den svenske kvoten.** Flere skrivere har bommet på de fire
+svenske spørsmålene per nivå fordi de valgte emner som bare finnes på svensk
+Wikipedia. Løsningen er ikke å droppe kvoten, men å velge svenske emner som er
+kjente nok til å stå i Store norske leksikon eller på engelsk Wikipedia: ABBA,
+IKEA, Vasaloppet, Systembolaget, Nobel, Astrid Lindgren, Ingmar Bergman, Volvo,
+Saab, Zlatan, Greta Garbo, Carl von Linné, Alfred Nobel, Stockholms slott,
+Gustav Vasa, Dalahästen, Midsommar, Lucia, Pippi, Emil i Lönneberga, Björn Borg,
+Sveriges kungahus, Skansen, Vasaskipet. Sjekk kilden *før* du bestemmer deg for
+spørsmålet, ikke etter.

@@ -4,7 +4,16 @@ import type { Difficulty, Region } from '../../shared/types'
 import { langForRegion } from '../../shared/types'
 import { CategoryCard } from '../components/CategoryCard'
 import { Segmented } from '../components/Segmented'
-import { ALL_QUESTIONS, CATEGORIES, CATEGORY_BY_ID, POOL_TARGET, poolFor, QUESTIONS_PER_ROUND } from '../lib/content'
+import {
+  ALL_QUESTIONS,
+  CATEGORIES,
+  CATEGORY_BY_ID,
+  makeRng,
+  POOL_TARGET,
+  poolFor,
+  QUESTIONS_PER_ROUND,
+  shuffle,
+} from '../lib/content'
 import { loadPrefs, savePrefs } from '../lib/storage'
 import { DIFFICULTY_LABELS, REGION_HELP, REGION_LABELS } from '../lib/ui'
 import { t } from '../../shared/types'
@@ -15,6 +24,13 @@ export default function StartScreen() {
   const [difficulty, setDifficulty] = useState<Difficulty>(saved.difficulty)
   const [region, setRegion] = useState<Region>(saved.region)
   const [category, setCategory] = useState<string | null>(saved.category)
+
+  // Ny rekkefølge hver gang skjermen åpnes, så det ikke alltid er Blå som møter
+  // deg først. Rekkefølgen ligger fast mens du står på siden.
+  const shuffledCategories = useMemo(
+    () => shuffle(CATEGORIES, makeRng(`${Date.now()}-${Math.random()}`)),
+    [],
+  )
 
   const lang = langForRegion(region)
   const selected = category ? CATEGORY_BY_ID.get(category) : undefined
@@ -74,7 +90,7 @@ export default function StartScreen() {
         <div className="setup__row">
           <span className="setup__label">Tema</span>
           <div className="cat-grid">
-            {CATEGORIES.map((c) => (
+            {shuffledCategories.map((c) => (
               <CategoryCard
                 key={c.id}
                 category={c}
