@@ -68,6 +68,6 @@ echo "==> Deployer"
 npx --yes wrangler deploy
 
 echo
-echo "Ferdig. Adressen staar i linjen over (Deployed themequiz ...)."
-echo "Eget domene: Cloudflare-dashbordet -> Workers & Pages -> themequiz"
+echo "Ferdig. Adressen staar i linjen over (Deployed quiz ...)."
+echo "Eget domene: Cloudflare-dashbordet -> Workers & Pages -> quiz"
 echo "-> Settings -> Domains & Routes -> Add custom domain."
