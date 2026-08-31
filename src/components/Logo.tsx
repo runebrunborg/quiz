@@ -6,7 +6,8 @@
  * Fargene og animasjonen ligger i base.css og slås av under prefers-reduced-motion.
  */
 type LogoProps = {
-  /** Kantlengde på merket i piksler. */
+  /** Kantlengde på selve merket i piksler — viewBox er beskåret til tegnet,
+   *  så det er ingen usynlig luft rundt. Avstanden styres av `gap` i `.brand`. */
   size?: number
   /** Tegn ordmerket «ThemeQuiz» ved siden av merket. */
   withWordmark?: boolean
@@ -14,13 +15,13 @@ type LogoProps = {
   still?: boolean
 }
 
-export default function Logo({ size = 30, withWordmark = false, still = false }: LogoProps) {
+export default function Logo({ size = 24, withWordmark = false, still = false }: LogoProps) {
   const mark = (
     <svg
       className={still ? 'tq-mark tq-mark--still' : 'tq-mark'}
       width={size}
       height={size}
-      viewBox="0 0 64 64"
+      viewBox="7.5 5.5 46 46"
       aria-hidden="true"
       focusable="false"
     >

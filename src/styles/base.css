@@ -124,7 +124,9 @@ a {
 .brand {
   display: flex;
   align-items: center;
-  gap: var(--sp-2);
+  /* 6px, utenfor 4/8-skalaen med vilje: halen på Q-en lener seg mot ordmerket,
+     så en ren token-verdi blir enten optisk for trang eller for løs. */
+  gap: 6px;
   text-decoration: none;
   color: var(--text);
   font-family: var(--font-display);
@@ -135,7 +137,7 @@ a {
    Bevegelsen er to lag som overlapper. Ved innlasting tegner ringen seg selv
    fra toppen med stroke-dashoffset, og halen slaar ut etterpaa med et lite
    oversving. Parallelt gaar en fargesyklus som aldri stopper: ringen vandrer
-   gjennom de fire temafargene paa 16 s, halen fire sekunder forskjoevet, saa
+   gjennom de fire temafargene paa 48 s, halen tolv sekunder forskjoevet, saa
    de to aldri viser samme farge. Fargesyklusen starter paa rosa og lilla,
    som er nettopp fargene opptegningen bruker, saa overgangen er soemloes.
    Draw-animasjonen roerer stroke-dashoffset, fargesyklusen roerer stroke -
@@ -159,13 +161,13 @@ a {
 .tq-mark:not(.tq-mark--still) .tq-ring {
   animation:
     tq-draw 0.95s cubic-bezier(0.65, 0, 0.35, 1) 0.1s both,
-    tq-tema 16s linear infinite;
+    tq-tema 48s linear infinite;
 }
 
 .tq-mark:not(.tq-mark--still) .tq-tail {
   animation:
     tq-draw-tail 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) 0.85s both,
-    tq-tema 16s linear -4s infinite;
+    tq-tema 48s linear -12s infinite;
 }
 
 @keyframes tq-draw {

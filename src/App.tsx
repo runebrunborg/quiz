@@ -30,7 +30,7 @@ export default function App() {
       <header className="topbar">
         <div className="topbar__inner">
           <NavLink to="/" className="brand" aria-label="Theme Quiz">
-            <Logo size={30} withWordmark />
+            <Logo size={24} withWordmark />
           </NavLink>
           <nav className="nav">
             {NAV.map((item) => (
