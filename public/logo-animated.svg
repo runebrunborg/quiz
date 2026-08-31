@@ -1,28 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" role="img" aria-label="Theme Quiz">
   <style>
-    .blade { transform-box: view-box; transform-origin: 32px 50px; }
-    .blade rect { transform-box: view-box; transform-origin: 32px 50px; }
-    .b1 { animation: fan1 .8s cubic-bezier(.34,1.56,.64,1) both; }
-    .b2 { animation: fan2 .8s cubic-bezier(.34,1.56,.64,1) .06s both; }
-    .b3 { animation: fan3 .8s cubic-bezier(.34,1.56,.64,1) .12s both; }
-    .b4 { animation: fan4 .8s cubic-bezier(.34,1.56,.64,1) .18s both; }
-    .b1 rect { animation: sway 4.6s ease-in-out 1.0s infinite alternate; }
-    .b2 rect { animation: sway 5.0s ease-in-out 1.15s infinite alternate; }
-    .b3 rect { animation: sway 4.8s ease-in-out 1.3s infinite alternate; }
-    .b4 rect { animation: sway 5.2s ease-in-out 1.45s infinite alternate; }
-    @keyframes fan1 { from { transform: rotate(2deg); opacity: 0 } to { transform: rotate(-48deg); opacity: 1 } }
-    @keyframes fan2 { from { transform: rotate(2deg); opacity: 0 } to { transform: rotate(-16deg); opacity: 1 } }
-    @keyframes fan3 { from { transform: rotate(2deg); opacity: 0 } to { transform: rotate(16deg); opacity: 1 } }
-    @keyframes fan4 { from { transform: rotate(2deg); opacity: 0 } to { transform: rotate(48deg); opacity: 1 } }
-    @keyframes sway { from { transform: rotate(-3.5deg) } to { transform: rotate(3.5deg) } }
+    .ring { stroke: #ff2d8e; stroke-dasharray: 107;
+            animation: draw .95s cubic-bezier(.65,0,.35,1) .1s both, tema 16s linear infinite; }
+    .tail { stroke: #8e44d8; stroke-dasharray: 21.3;
+            animation: draw-tail .4s cubic-bezier(.34,1.56,.64,1) .85s both, tema 16s linear -4s infinite; }
+    @keyframes draw { from { stroke-dashoffset: 107 } to { stroke-dashoffset: 0 } }
+    @keyframes draw-tail { from { stroke-dashoffset: 21.3 } to { stroke-dashoffset: 0 } }
+    @keyframes tema {
+      0%   { stroke: #ff2d8e }
+      25%  { stroke: #8e44d8 }
+      50%  { stroke: #3ad6e0 }
+      75%  { stroke: #ffc94d }
+      100% { stroke: #ff2d8e }
+    }
     @media (prefers-reduced-motion: reduce) {
-      .blade, .blade rect { animation: none !important; }
-      .b1 { transform: rotate(-48deg) } .b2 { transform: rotate(-16deg) }
-      .b3 { transform: rotate(16deg) }  .b4 { transform: rotate(48deg) }
+      .ring, .tail { animation: none; stroke-dashoffset: 0 }
     }
   </style>
-  <g class="blade b1"><rect x="26.5" y="14" width="11" height="34" rx="5.5" fill="#ffc94d"/></g>
-  <g class="blade b2"><rect x="26.5" y="14" width="11" height="34" rx="5.5" fill="#ff2d8e"/></g>
-  <g class="blade b3"><rect x="26.5" y="14" width="11" height="34" rx="5.5" fill="#8e44d8"/></g>
-  <g class="blade b4"><rect x="26.5" y="14" width="11" height="34" rx="5.5" fill="#3ad6e0"/></g>
+  <circle class="ring" cx="29" cy="27" r="17" fill="none" stroke-width="9" transform="rotate(-90 29 27)"/>
+  <path class="tail" d="M34 32 L49 47" fill="none" stroke-width="9" stroke-linecap="round"/>
 </svg>

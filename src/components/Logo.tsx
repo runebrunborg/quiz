@@ -1,14 +1,16 @@
 /**
- * Theme Quiz-merket: fire blad som vifter seg ut fra ett punkt, ett per temafarge.
- * Bladene henter farge fra designtokens, så merket følger paletten automatisk.
- * Animasjonen ligger i base.css og slås av under prefers-reduced-motion.
+ * Theme Quiz-merket: Q-en — ringen og halen som krysser den.
+ * Ved innlasting tegner ringen seg selv fra toppen, så slår halen ut. Deretter
+ * vandrer begge gjennom de fire temafargene, halen fire sekunder forskjøvet, så
+ * de aldri viser samme farge samtidig.
+ * Fargene og animasjonen ligger i base.css og slås av under prefers-reduced-motion.
  */
 type LogoProps = {
   /** Kantlengde på merket i piksler. */
   size?: number
   /** Tegn ordmerket «ThemeQuiz» ved siden av merket. */
   withWordmark?: boolean
-  /** Slå av vifte- og pustebevegelsen (f.eks. i en tett liste). */
+  /** Slå av opptegning og fargesyklus (f.eks. i en tett liste). */
   still?: boolean
 }
 
@@ -22,18 +24,23 @@ export default function Logo({ size = 30, withWordmark = false, still = false }:
       aria-hidden="true"
       focusable="false"
     >
-      <g className="tq-blade tq-blade--1">
-        <rect x="26.5" y="14" width="11" height="34" rx="5.5" />
-      </g>
-      <g className="tq-blade tq-blade--2">
-        <rect x="26.5" y="14" width="11" height="34" rx="5.5" />
-      </g>
-      <g className="tq-blade tq-blade--3">
-        <rect x="26.5" y="14" width="11" height="34" rx="5.5" />
-      </g>
-      <g className="tq-blade tq-blade--4">
-        <rect x="26.5" y="14" width="11" height="34" rx="5.5" />
-      </g>
+      {/* Rotert -90° slik at opptegningen starter på toppen av ringen. */}
+      <circle
+        className="tq-ring"
+        cx="29"
+        cy="27"
+        r="17"
+        fill="none"
+        strokeWidth="9"
+        transform="rotate(-90 29 27)"
+      />
+      <path
+        className="tq-tail"
+        d="M34 32 L49 47"
+        fill="none"
+        strokeWidth="9"
+        strokeLinecap="round"
+      />
     </svg>
   )
 

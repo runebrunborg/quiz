@@ -131,64 +131,75 @@ a {
   white-space: nowrap;
 }
 
-/* -- Merket: fire blad som vifter seg ut fra ett punkt --------------------
-   Ett blad per temafarge. Bladene farges fra tokens, så merket følger
-   paletten. Bevegelsen er to lag: en utvifting ved innlasting og en langsom
-   pust som aldri stopper. Begge slås av under prefers-reduced-motion. */
+/* -- Merket: Q-en, ringen og halen som krysser den ------------------------
+   Bevegelsen er to lag som overlapper. Ved innlasting tegner ringen seg selv
+   fra toppen med stroke-dashoffset, og halen slaar ut etterpaa med et lite
+   oversving. Parallelt gaar en fargesyklus som aldri stopper: ringen vandrer
+   gjennom de fire temafargene paa 16 s, halen fire sekunder forskjoevet, saa
+   de to aldri viser samme farge. Fargesyklusen starter paa rosa og lilla,
+   som er nettopp fargene opptegningen bruker, saa overgangen er soemloes.
+   Draw-animasjonen roerer stroke-dashoffset, fargesyklusen roerer stroke -
+   ulike egenskaper, saa de kan kjoere samtidig paa samme element. */
 .tq-mark {
   flex: none;
   overflow: visible;
   transition: transform var(--dur) var(--ease);
 }
 
-.tq-blade {
-  transform-box: view-box;
-  transform-origin: 32px 50px;
+.tq-ring {
+  stroke: var(--pink-500);
+  stroke-dasharray: 107;
 }
 
-.tq-blade rect {
-  transform-box: view-box;
-  transform-origin: 32px 50px;
+.tq-tail {
+  stroke: var(--violet-500);
+  stroke-dasharray: 21.3;
 }
 
-.tq-blade--1 rect { fill: var(--amber-400); }
-.tq-blade--2 rect { fill: var(--pink-500); }
-.tq-blade--3 rect { fill: var(--violet-500); }
-.tq-blade--4 rect { fill: var(--cyan-400); }
+.tq-mark:not(.tq-mark--still) .tq-ring {
+  animation:
+    tq-draw 0.95s cubic-bezier(0.65, 0, 0.35, 1) 0.1s both,
+    tq-tema 16s linear infinite;
+}
 
-.tq-mark:not(.tq-mark--still) .tq-blade--1 { animation: tq-fan-1 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) both; }
-.tq-mark:not(.tq-mark--still) .tq-blade--2 { animation: tq-fan-2 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) 0.06s both; }
-.tq-mark:not(.tq-mark--still) .tq-blade--3 { animation: tq-fan-3 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) 0.12s both; }
-.tq-mark:not(.tq-mark--still) .tq-blade--4 { animation: tq-fan-4 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) 0.18s both; }
+.tq-mark:not(.tq-mark--still) .tq-tail {
+  animation:
+    tq-draw-tail 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) 0.85s both,
+    tq-tema 16s linear -4s infinite;
+}
 
-.tq-mark:not(.tq-mark--still) .tq-blade--1 rect { animation: tq-sway 4.6s ease-in-out 1s infinite alternate; }
-.tq-mark:not(.tq-mark--still) .tq-blade--2 rect { animation: tq-sway 5s ease-in-out 1.15s infinite alternate; }
-.tq-mark:not(.tq-mark--still) .tq-blade--3 rect { animation: tq-sway 4.8s ease-in-out 1.3s infinite alternate; }
-.tq-mark:not(.tq-mark--still) .tq-blade--4 rect { animation: tq-sway 5.2s ease-in-out 1.45s infinite alternate; }
+@keyframes tq-draw {
+  from { stroke-dashoffset: 107; }
+  to { stroke-dashoffset: 0; }
+}
 
-/* Uten animasjon står bladene i endeposisjon. */
-.tq-mark--still .tq-blade--1 { transform: rotate(-48deg); }
-.tq-mark--still .tq-blade--2 { transform: rotate(-16deg); }
-.tq-mark--still .tq-blade--3 { transform: rotate(16deg); }
-.tq-mark--still .tq-blade--4 { transform: rotate(48deg); }
+@keyframes tq-draw-tail {
+  from { stroke-dashoffset: 21.3; }
+  to { stroke-dashoffset: 0; }
+}
 
-@keyframes tq-fan-1 { from { transform: rotate(2deg); opacity: 0; } to { transform: rotate(-48deg); opacity: 1; } }
-@keyframes tq-fan-2 { from { transform: rotate(2deg); opacity: 0; } to { transform: rotate(-16deg); opacity: 1; } }
-@keyframes tq-fan-3 { from { transform: rotate(2deg); opacity: 0; } to { transform: rotate(16deg); opacity: 1; } }
-@keyframes tq-fan-4 { from { transform: rotate(2deg); opacity: 0; } to { transform: rotate(48deg); opacity: 1; } }
-@keyframes tq-sway { from { transform: rotate(-3.5deg); } to { transform: rotate(3.5deg); } }
+@keyframes tq-tema {
+  0% { stroke: var(--pink-500); }
+  25% { stroke: var(--violet-500); }
+  50% { stroke: var(--cyan-400); }
+  75% { stroke: var(--amber-400); }
+  100% { stroke: var(--pink-500); }
+}
+
+/* Uten animasjon staar merket ferdig tegnet i rosa og lilla. */
+.tq-mark--still .tq-ring,
+.tq-mark--still .tq-tail {
+  stroke-dashoffset: 0;
+}
 
 @media (prefers-reduced-motion: reduce) {
-  .tq-mark .tq-blade,
-  .tq-mark .tq-blade rect {
+  .tq-mark .tq-ring,
+  .tq-mark .tq-tail {
     animation: none !important;
+    stroke-dashoffset: 0;
   }
-
-  .tq-mark .tq-blade--1 { transform: rotate(-48deg); }
-  .tq-mark .tq-blade--2 { transform: rotate(-16deg); }
-  .tq-mark .tq-blade--3 { transform: rotate(16deg); }
-  .tq-mark .tq-blade--4 { transform: rotate(48deg); }
 }
+
 
 /* -- Ordmerket: Theme lett, Quiz tungt, satt inntil hverandre ------------- */
 .tq-word {
@@ -211,7 +222,7 @@ a {
 
 .brand:hover .tq-mark,
 .brand:focus-visible .tq-mark {
-  transform: scale(1.09) rotate(-5deg);
+  transform: scale(1.08);
 }
 
 .brand:hover .tq-word__a {
