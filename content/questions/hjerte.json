@@ -32,26 +32,24 @@
     "difficulty": "lett",
     "origin": "int",
     "topics": [
-      "medisin"
+      "medisin",
+      "teknologi"
     ],
     "prompt": {
-      "nb": "Organet er en muskel på størrelse med en knyttneve, slår rundt 100 000 ganger i døgnet og pumper omtrent 7000 liter blod gjennom kroppen hver dag. Hvilket organ er det?",
-      "sv": "Organet är en muskel stor som en knytnäve, slår omkring 100 000 gånger per dygn och pumpar ungefär 7000 liter blod genom kroppen varje dag. Vilket organ är det?"
+      "nb": "Hjertet slår rundt 100 000 ganger i døgnet, og hvert slag starter med et elektrisk signal fra en liten knute av celler øverst i høyre forkammer. Hvilken undersøkelse, kjent under en forkortelse på tre bokstaver, tegner disse signalene som kurver?",
+      "sv": "Hjärtat slår omkring 100 000 gånger per dygn, och varje slag börjar med en elektrisk signal från en liten knut av celler högst upp i högra förmaket. Vilken undersökning, känd under en förkortning på tre bokstäver, ritar dessa signaler som kurvor?"
     },
-    "answer": {
-      "nb": "hjertet",
-      "sv": "hjärtat"
-    },
+    "answer": "EKG",
     "answerKind": "annet",
     "hint": {
-      "nb": "Sitter litt til venstre i brystet.",
-      "sv": "Sitter lite till vänster i bröstet."
+      "nb": "Forkortelsen ender på G.",
+      "sv": "Förkortningen slutar på G."
     },
     "funFact": {
-      "nb": "Muskelen begynner å slå omtrent fire uker etter befruktningen, lenge før den er ferdig utviklet.",
-      "sv": "Muskeln börjar slå ungefär fyra veckor efter befruktningen, långt innan den är färdigutvecklad."
+      "nb": "Nederlenderen Willem Einthoven fikk nobelprisen i medisin i 1924 for metoden; hans første apparat veide 270 kilo og krevde fem personer å betjene.",
+      "sv": "Nederländaren Willem Einthoven fick nobelpriset i medicin 1924 för metoden; hans första apparat vägde 270 kilo och krävde fem personer för att skötas."
     },
-    "source": "Store norske leksikon – hjertet"
+    "source": "Store norske leksikon – elektrokardiografi"
   },
   {
     "id": "hjerte-l-03",

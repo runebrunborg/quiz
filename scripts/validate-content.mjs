@@ -26,6 +26,56 @@ const DIFFICULTIES = new Set(['lett', 'medium', 'vanskelig'])
 const REGIONS = new Set(['no', 'se', 'int'])
 const DIFF_INITIAL = { lett: 'l', medium: 'm', vanskelig: 'v' }
 
+/**
+ * Ankerordet for hvert tema, med oversettelser og nære varianter. Svaret på et
+ * spørsmål skal aldri VÆRE ankerordet – da er koblingen null og spørsmålet
+ * besvarer seg selv. Sammensetninger og egennavn som inneholder ordet er greit
+ * («Saltstraumen», «Blåhval», «Golden Gate-broen») – det er det bare ordet
+ * alene, på et hvilket som helst språk, som er forbudt.
+ */
+const ANCHORS = {
+  blaa: ['blå', 'blått', 'blue', 'blau', 'bleu'],
+  rod: ['rød', 'rødt', 'röd', 'rött', 'red', 'rot', 'rouge'],
+  gull: ['gull', 'gullet', 'guld', 'guldet', 'gold', 'aurum'],
+  vikinger: ['viking', 'vikingen', 'vikinger', 'vikingene', 'vikingar', 'vikingarna', 'vikings'],
+  japan: ['japan', 'nippon', 'nihon'],
+  manen: ['måne', 'månen', 'moon', 'the moon', 'luna', 'mond', 'lune'],
+  kaffe: ['kaffe', 'kaffen', 'coffee', 'café', 'kaffi'],
+  kongelige: ['kongelig', 'kongelige', 'kunglig', 'kungliga', 'royal', 'royals'],
+  fjell: ['fjell', 'fjellet', 'fjäll', 'fjället', 'mountain', 'berg', 'berget', 'montagne'],
+  havet: ['hav', 'havet', 'sea', 'the sea', 'ocean', 'mer', 'meer'],
+  ild: ['ild', 'ilden', 'eld', 'elden', 'fire', 'feuer', 'feu'],
+  rovdyr: ['rovdyr', 'rovdyret', 'rovdjur', 'rovdjuret', 'predator'],
+  drikke: ['drikke', 'drikk', 'dryck', 'drink'],
+  tog: ['tog', 'toget', 'tåg', 'tåget', 'train', 'zug'],
+  nobel: ['nobel', 'nobelpris', 'nobelprisen', 'nobelpriset'],
+  sjokolade: ['sjokolade', 'sjokoladen', 'choklad', 'chokladen', 'chocolate', 'chocolat', 'schokolade'],
+  vinter: ['vinter', 'vinteren', 'vintern', 'winter', 'hiver'],
+  fugler: ['fugl', 'fuglen', 'fugler', 'fuglene', 'fågel', 'fågeln', 'fåglar', 'bird', 'birds', 'vogel', 'oiseau'],
+  broer: ['bro', 'broen', 'bru', 'brua', 'bron', 'broar', 'broer', 'bridge', 'brücke', 'pont'],
+  tid: ['tid', 'tiden', 'time', 'zeit', 'temps', 'tempus'],
+  storm: ['storm', 'stormen', 'oväder', 'ovädret', 'uvær', 'uværet', 'tempest'],
+  salt: ['salt', 'saltet', 'saltets', 'sal', 'sel', 'salz'],
+  hjerte: ['hjerte', 'hjertet', 'hjärta', 'hjärtat', 'heart', 'the heart', 'herz', 'coeur', 'cœur', 'cor'],
+}
+
+/**
+ * Formene er skrevet ut med vilje, ikke generert. Genererte bøyninger tar
+ * egennavn som tilfeldigvis ligner – «Salten» er et distrikt i Nordland, ikke
+ * bestemt form av krydderet.
+ */
+function isAnchorWord(answer, category) {
+  const base = (category ?? '').replace(/-\d+$/, '')
+  const anchors = ANCHORS[base]
+  if (!anchors) return false
+  const a = answer
+    .toLowerCase()
+    .normalize('NFC')
+    .replace(/[^\p{L}\p{N} ]/gu, '')
+    .trim()
+  return anchors.includes(a)
+}
+
 const errors = []
 const warnings = []
 const seenIds = new Map()
@@ -136,6 +186,14 @@ for (const file of files) {
         const answerNb = text(q.answer, 'nb').toLowerCase()
         if (answerNb.length > 3 && text(q.prompt, 'nb').toLowerCase().includes(answerNb)) {
           errors.push(`${where}: svaret står i spørsmålsteksten`)
+        }
+      }
+
+      // Svaret skal ikke være selve ankerordet – heller ikke oversatt.
+      for (const lang of ['nb', 'sv']) {
+        if (isAnchorWord(text(q.answer, lang), q.category)) {
+          errors.push(`${where}: svaret er selve ankerordet for temaet ("${text(q.answer, lang)}")`)
+          break
         }
       }
     }

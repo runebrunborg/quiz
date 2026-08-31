@@ -486,27 +486,24 @@
     "difficulty": "medium",
     "origin": "int",
     "topics": [
-      "vitenskap",
-      "mat-og-drikke"
+      "medisin",
+      "dyr"
     ],
     "prompt": {
-      "nb": "Denne sjokoladetypen inneholder kakaosmør, sukker og melk, men ingen kakaomasse eller kakaopulver – derfor mangler den den brune fargen. Nestlé regnes som først ute med å selge den kommersielt, under navnet Galak i 1936. Hva slags sjokolade er dette?",
-      "sv": "Denna chokladtyp innehåller kakaosmör, socker och mjölk, men ingen kakaomassa eller kakaopulver – därför saknar den den bruna färgen. Nestlé räknas som först med att sälja den kommersiellt, under namnet Galak år 1936. Vilken sorts choklad är detta?"
+      "nb": "Kakao inneholder et stoff i samme kjemiske familie som koffein. Mennesker bryter det ned på noen timer, mens hunder bruker mange ganger så lang tid – derfor kan noen få hundre gram mørk sjokolade forgifte en liten hund. Hvilket stoff?",
+      "sv": "Kakao innehåller ett ämne i samma kemiska familj som koffein. Människor bryter ner det på några timmar, medan hundar behöver många gånger så lång tid – därför kan några hundra gram mörk choklad förgifta en liten hund. Vilket ämne?"
     },
-    "answer": {
-      "nb": "Hvit sjokolade",
-      "sv": "Vit choklad"
-    },
+    "answer": "teobromin",
     "answerKind": "annet",
     "hint": {
-      "nb": "I Storbritannia selges samme produkt under navnet Milkybar.",
-      "sv": "I Storbritannien säljs samma produkt under namnet Milkybar."
+      "nb": "Navnet kommer av kakaotreets slektsnavn, Theobroma.",
+      "sv": "Namnet kommer av kakaoträdets släktnamn, Theobroma."
     },
     "funFact": {
-      "nb": "Selve betegnelsen dukket først opp i tidsskriftet Scientific American i 1917, nesten tjue år før Nestlés produkt kom i handelen.",
-      "sv": "Själva beteckningen dök först upp i tidskriften Scientific American 1917, nästan tjugo år innan Nestlés produkt kom i handeln."
+      "nb": "Slektsnavnet Theobroma betyr «gudenes føde», et navn Carl von Linné ga treet i 1753.",
+      "sv": "Släktnamnet Theobroma betyder «gudarnas föda», ett namn Carl von Linné gav trädet 1753."
     },
-    "source": "Wikipedia – White chocolate"
+    "source": "Store norske leksikon – teobromin"
   },
   {
     "id": "sjokolade-m-10",
@@ -514,24 +511,28 @@
     "difficulty": "medium",
     "origin": "int",
     "topics": [
-      "film",
-      "litteratur"
+      "litteratur",
+      "film"
     ],
     "prompt": {
-      "nb": "Denne filmen fra 2000 er basert på en roman av Joanne Harris og handler om en kvinne som åpner en sjokoladebutikk i en fransk landsby under fasten. Filmen fikk fem Oscar-nominasjoner, blant dem beste kvinnelige hovedrolle til Juliette Binoche. Hva heter filmen?",
-      "sv": "Denna film från 2000 bygger på en roman av Joanne Harris och handlar om en kvinna som öppnar en chokladbutik i en fransk by under fastan. Filmen fick fem Oscarsnomineringar, bland dem bästa kvinnliga huvudroll till Juliette Binoche. Vad heter filmen?"
+      "nb": "Filmen fra 2000, med Juliette Binoche som åpner en konfektbutikk i en fransk landsby midt under fasten, bygger på en roman fra 1999. Boka ble nominert til Whitbread-prisen. Hvilken britisk forfatter skrev den?",
+      "sv": "Filmen från 2000, med Juliette Binoche som öppnar en konfektbutik i en fransk by mitt under fastan, bygger på en roman från 1999. Boken nominerades till Whitbreadpriset. Vilken brittisk författare skrev den?"
     },
-    "answer": "Chocolat",
-    "answerKind": "annet",
+    "answer": "Joanne Harris",
+    "answerKind": "person",
     "hint": {
-      "nb": "I birollene finner vi blant andre Judi Dench og Johnny Depp.",
-      "sv": "I biroller finner vi bland andra Judi Dench och Johnny Depp."
+      "nb": "Etternavnet er et vanlig britisk navn.",
+      "sv": "Efternamnet är ett vanligt brittiskt namn."
     },
     "funFact": {
-      "nb": "Filmen ble regissert av svenske Lasse Hallström. Den fiktive landsbyen i filmen heter Lansquenet-sous-Tannes.",
-      "sv": "Filmen regisserades av svenske Lasse Hallström. Den fiktiva byn i filmen heter Lansquenet-sous-Tannes."
+      "nb": "Forfatteren er halvt fransk, vokste opp over en godteributikk i Yorkshire, og var lærer i tolv år før gjennombruddet.",
+      "sv": "Författaren är till hälften fransk, växte upp ovanför en godisbutik i Yorkshire och var lärare i tolv år före genombrottet."
     },
-    "source": "Wikipedia – Chocolat (2000 film)"
+    "source": "Store norske leksikon – Joanne Harris",
+    "person": {
+      "given": "Joanne",
+      "family": "Harris"
+    }
   },
   {
     "id": "sjokolade-v-01",

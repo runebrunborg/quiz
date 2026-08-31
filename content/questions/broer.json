@@ -4,12 +4,18 @@
     "category": "broer",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["transport", "design"],
+    "topics": [
+      "transport",
+      "design"
+    ],
     "prompt": {
       "nb": "Den rustrøde hengebroen inn til San Francisco Bay sto ferdig i 1937 og var verdens lengste hengebro helt til 1964. Marinen ville male den i sort og gult, men arkitekten valgte en helt annen farge. Hvilken bro er dette?",
       "sv": "Den rostbruna hängbron in i San Francisco Bay stod klar 1937 och var världens längsta hängbro fram till 1964. Flottan ville måla den svart och gul, men arkitekten valde en helt annan färg. Vilken bro är detta?"
     },
-    "answer": { "nb": "Golden Gate-broen", "sv": "Golden Gate-bron" },
+    "answer": {
+      "nb": "Golden Gate-broen",
+      "sv": "Golden Gate-bron"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Broen forbinder San Francisco med Marin County, og fargen kalles international orange.",
@@ -26,7 +32,10 @@
     "category": "broer",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["arkitektur", "historie"],
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne broen i London åpnet i 1894 og har to tårn forbundet med gangbaner høyt over Themsen. Midtpartiet kan heves for å slippe skip gjennom, og broen blir stadig forvekslet med en mer kjent nabo lenger opp i elva. Hvilken bro er dette?",
       "sv": "Denna bro i London öppnade 1894 och har två torn förbundna med gångbroar högt över Themsen. Mittpartiet kan höjas för att släppa igenom fartyg, och bron förväxlas ständigt med en mer känd granne längre upp i floden. Vilken bro är detta?"
@@ -48,12 +57,18 @@
     "category": "broer",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["geografi", "transport"],
+    "topics": [
+      "geografi",
+      "transport"
+    ],
     "prompt": {
       "nb": "Denne kombinerte bro- og tunnelforbindelsen åpnet i 2000 og knytter Malmø sammen med København, med en kunstig øy kalt Peberholm underveis. Hvilken forbindelse over sundet er dette?",
       "sv": "Denna kombinerade bro- och tunnelförbindelse öppnade år 2000 och knyter samman Malmö med Köpenhamn, med en konstgjord ö kallad Peberholm på vägen. Vilken förbindelse över sundet är detta?"
     },
-    "answer": { "nb": "Øresundsbroen", "sv": "Öresundsbron" },
+    "answer": {
+      "nb": "Øresundsbroen",
+      "sv": "Öresundsbron"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Den går over sundet som skiller Sjælland fra Skåne.",
@@ -70,34 +85,43 @@
     "category": "broer",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["spill"],
+    "topics": [
+      "geografi",
+      "historie"
+    ],
     "prompt": {
-      "nb": "Dette kortspillet spilles med en vanlig kortstokk på 52 kort, av fire spillere fordelt på to lag som sitter overfor hverandre. Det stammer fra det eldre spillet whist. Hvilket kortspill er dette?",
-      "sv": "Detta kortspel spelas med en vanlig kortlek på 52 kort, av fyra spelare fördelade på två lag som sitter mitt emot varandra. Det härstammar från det äldre spelet whist. Vilket kortspel är detta?"
+      "nb": "To broer over Bosporos knytter Europa og Asia sammen innenfor grensene til én og samme by, som dermed ligger i to verdensdeler. Byen het tidligere Konstantinopel. Hva heter den i dag?",
+      "sv": "Två broar över Bosporen knyter samman Europa och Asien inom gränserna för en och samma stad, som därmed ligger i två världsdelar. Staden hette tidigare Konstantinopel. Vad heter den i dag?"
     },
-    "answer": "Bridge",
+    "answer": "Istanbul",
     "answerKind": "annet",
     "hint": {
-      "nb": "Navnet er det samme som ordet for en konstruksjon som krysser en elv eller et sund.",
-      "sv": "Namnet är detsamma som ordet för en konstruktion som korsar en älv eller ett sund."
+      "nb": "Landets største by, men ikke hovedstaden.",
+      "sv": "Landets största stad, men inte huvudstaden."
     },
     "funFact": {
-      "nb": "Moderne bridge, kalt kontraktbridge, fikk sitt regelverk i 1925, og siden har spillet vært så dominerende at «bridge» nesten alltid betyr nettopp denne varianten.",
-      "sv": "Modern bridge, kallad kontraktbridge, fick sitt regelverk 1925, och sedan dess har spelet varit så dominerande att «bridge» nästan alltid syftar på just den varianten."
+      "nb": "Navnet kommer trolig av gresk «eis tin polin» – «til byen» – som var slik lokalbefolkningen omtalte reisen dit.",
+      "sv": "Namnet kommer troligen av grekiskans «eis tin polin» – «till staden» – som var så lokalbefolkningen talade om resan dit."
     },
-    "source": "Wikipedia – Contract bridge"
+    "source": "Store norske leksikon – Istanbul"
   },
   {
     "id": "broer-l-05",
     "category": "broer",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["litteratur", "mytologi"],
+    "topics": [
+      "litteratur",
+      "mytologi"
+    ],
     "prompt": {
       "nb": "I det norske folkeeventyret må tre geitebukker krysse en bro for å komme seg til gode beitemarker, men et sultent troll bor akkurat under. Eventyret ble samlet av Asbjørnsen og Moe på 1840-tallet. Hva heter bukkene i eventyret?",
       "sv": "I den norska folksagan måste tre bockar korsa en bro för att nå bättre betesmarker, men ett hungrigt troll bor precis under. Sagan samlades in av Asbjørnsen och Moe på 1840-talet. Vad heter bockarna i sagan?"
     },
-    "answer": { "nb": "Bukkene Bruse", "sv": "Bockarna Bruse" },
+    "answer": {
+      "nb": "Bukkene Bruse",
+      "sv": "Bockarna Bruse"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Den minste og den mellomste bukken lurer trollet ved å si at neste bukk er større og feitere.",
@@ -114,7 +138,10 @@
     "category": "broer",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["mytologi", "vikingtid"],
+    "topics": [
+      "mytologi",
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "I norrøn mytologi er dette en brennende bro som forbinder menneskenes verden med gudenes rike Åsgard. Guden Heimdall vokter den mot fjelljotner. Hva heter broen?",
       "sv": "I fornnordisk mytologi är detta en brinnande bro som förbinder människornas värld med gudarnas rike Asgård. Guden Heimdall vaktar den mot bergsjättar. Vad heter bron?"
@@ -136,29 +163,38 @@
     "category": "broer",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["tv"],
+    "topics": [
+      "geografi",
+      "tv"
+    ],
     "prompt": {
-      "nb": "Denne svensk-danske TV-serien fra 2011 starter med at et lik blir funnet nøyaktig på riksgrensen, midt på en bro mellom Malmø og København. Hva heter serien?",
-      "sv": "Denna svensk-danska tv-serie från 2011 börjar med att ett lik hittas exakt på riksgränsen, mitt på en bro mellan Malmö och Köpenhamn. Vad heter serien?"
+      "nb": "Den svensk-danske TV-serien fra 2011 åpner med et lik plassert nøyaktig på riksgrensen, midt ute på forbindelsen mellom Malmø og nabolandets hovedstad. Hvilken hovedstad ligger i den andre enden?",
+      "sv": "Den svensk-danska tv-serien från 2011 öppnar med ett lik placerat exakt på riksgränsen, mitt ute på förbindelsen mellan Malmö och grannlandets huvudstad. Vilken huvudstad ligger i andra änden?"
     },
-    "answer": { "nb": "Broen", "sv": "Bron" },
+    "answer": {
+      "nb": "København",
+      "sv": "Köpenhamn"
+    },
     "answerKind": "annet",
     "hint": {
-      "nb": "Hovedpersonen er den svenske etterforskeren Saga Norén, spilt av Sofia Helin.",
-      "sv": "Huvudpersonen är den svenska utredaren Saga Norén, spelad av Sofia Helin."
+      "nb": "Danmarks største by.",
+      "sv": "Danmarks största stad."
     },
     "funFact": {
-      "nb": "Overkroppen i liket tilhørte en svensk politiker, underkroppen en dansk prostituert – et bilde på seriens tospråklige, grenseoverskridende premiss. Serien er solgt til over hundre land.",
-      "sv": "Överkroppen i liket tillhörde en svensk politiker, underkroppen en dansk prostituerad – en bild för seriens tvåspråkiga, gränsöverskridande premiss. Serien har sålts till över hundra länder."
+      "nb": "Forbindelsen er bare bro på den svenske halvdelen; den danske delen går i tunnel, med en kunstig øy kalt Peberholm imellom.",
+      "sv": "Förbindelsen är bro bara på den svenska halvan; den danska delen går i tunnel, med en konstgjord ö kallad Pepparholm emellan."
     },
-    "source": "Wikipedia – The Bridge (2011 TV series)"
+    "source": "Store norske leksikon – Øresundsforbindelsen"
   },
   {
     "id": "broer-l-08",
     "category": "broer",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["arkitektur", "historie"],
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne steinbroen over elven Arno i Firenze er kledd med butikker på begge sider og var lenge fylt med slaktere, før storhertug Cosimo I i 1565 bestemte at bare gullsmeder fikk holde til der. Hvilken bro er dette?",
       "sv": "Denna stenbro över floden Arno i Florens är kantad med butiker på båda sidor och var länge full av slaktare, innan storhertig Cosimo I 1565 bestämde att bara guldsmeder fick hålla till där. Vilken bro är detta?"
@@ -180,7 +216,10 @@
     "category": "broer",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["geografi", "transport"],
+    "topics": [
+      "geografi",
+      "transport"
+    ],
     "prompt": {
       "nb": "Denne hengebroen åpnet i 2013 og krysser Eidfjorden, en arm av Hardangerfjorden. Med et hovedspenn på 1310 meter er det den lengste hengebroen i Norge. Hvilken bro er dette?",
       "sv": "Denna hängbro öppnade 2013 och korsar Eidfjorden, en arm av Hardangerfjorden. Med ett huvudspann på 1310 meter är det Norges längsta hängbro. Vilken bro är detta?"
@@ -202,12 +241,18 @@
     "category": "broer",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["arkitektur", "geografi"],
+    "topics": [
+      "arkitektur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Denne hengebroen i Japan åpnet i 1998 og forbinder byen Kobe med øya Awaji. Hovedspennet på nesten 2000 meter var verdens lengste da broen sto ferdig. Hvilken bro er dette?",
       "sv": "Denna hängbro i Japan öppnade 1998 och förbinder staden Kobe med ön Awaji. Huvudspannet på nästan 2000 meter var världens längsta när bron stod klar. Vilken bro är detta?"
     },
-    "answer": { "nb": "Akashi Kaikyō-broen", "sv": "Akashi Kaikyō-bron" },
+    "answer": {
+      "nb": "Akashi Kaikyō-broen",
+      "sv": "Akashi Kaikyō-bron"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Broen krysser Akashisundet og kalles på engelsk også Pearl Bridge, etter lysshowet om kvelden.",
@@ -224,12 +269,18 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["teknologi", "historie"],
+    "topics": [
+      "teknologi",
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne hengebroen i den amerikanske delstaten Washington åpnet i juli 1940 og fikk kallenavnet «Galloping Gertie» fordi den bølget kraftig i vind. Fire måneder senere rev vinden den i stykker. Hvilken bro er dette?",
       "sv": "Denna hängbro i den amerikanska delstaten Washington öppnade i juli 1940 och fick smeknamnet «Galloping Gertie» eftersom den vågade kraftigt i vind. Fyra månader senare slet vinden sönder den. Vilken bro är detta?"
     },
-    "answer": { "nb": "Tacoma Narrows-broen", "sv": "Tacoma Narrows-bron" },
+    "answer": {
+      "nb": "Tacoma Narrows-broen",
+      "sv": "Tacoma Narrows-bron"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Broen falt sammen 7. november 1940, og det eneste dødsofferet var en cocker spaniel som satt fast i en bil.",
@@ -246,7 +297,10 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["teknologi", "geografi"],
+    "topics": [
+      "teknologi",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Denne skråstagbroen i Trøndelag åpnet i 1991 og er den eneste veiforbindelsen over Trondheimsfjorden. Med et hovedspenn på 530 meter var den verdens lengste skråstagbro da den sto ferdig. Hvilken bro er dette?",
       "sv": "Denna snedkabelbro i Trøndelag öppnade 1991 och är den enda vägförbindelsen över Trondheimsfjorden. Med ett huvudspann på 530 meter var den världens längsta snedkabelbro när den stod klar. Vilken bro är detta?"
@@ -268,12 +322,17 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
       "nb": "Denne hengebroen i Danmark åpnet for veitrafikk i 1998 og forbinder øyene Sjælland og Fyn over Storebælt. Med et hovedspenn på 1624 meter var den verdens nest lengste hengebro da den åpnet – bare slått av en bro i Japan noen måneder tidligere. Hvilken bro er dette?",
       "sv": "Denna hängbro i Danmark öppnade för vägtrafik 1998 och förbinder öarna Själland och Fyn över Stora Bält. Med ett huvudspann på 1624 meter var den världens näst längsta hängbro när den öppnade – bara slagen av en bro i Japan några månader tidigare. Vilken bro är detta?"
     },
-    "answer": { "nb": "Storebæltsbroen", "sv": "Stora Bältbron" },
+    "answer": {
+      "nb": "Storebæltsbroen",
+      "sv": "Stora Bältbron"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Forbindelsen har en søsterbro lenger vest, en lavere bjelkebro mellom Sprogø og Fyn.",
@@ -290,12 +349,18 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["historie", "arkitektur"],
+    "topics": [
+      "historie",
+      "arkitektur"
+    ],
     "prompt": {
       "nb": "Da denne steinbroen over Canal Grande i Venezia skulle bygges på 1580-tallet, ble forslag fra store navn som Michelangelo og Palladio avvist til fordel for en enklere løsning fra Antonio da Ponte. Hvilken bro er dette?",
       "sv": "När denna stenbro över Canal Grande i Venedig skulle byggas på 1580-talet förkastades förslag från stora namn som Michelangelo och Palladio till förmån för en enklare lösning från Antonio da Ponte. Vilken bro är detta?"
     },
-    "answer": { "nb": "Rialtobroen", "sv": "Rialtobron" },
+    "answer": {
+      "nb": "Rialtobroen",
+      "sv": "Rialtobron"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Det er den eldste av de fire broene over Canal Grande, og den er også nevnt i Shakespeares «Kjøpmannen i Venedig».",
@@ -312,7 +377,10 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["historie", "vitenskap"],
+    "topics": [
+      "historie",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Denne romerske akvedukten i Sør-Frankrike er bygget i tre etasjer med buer og fraktet vann fra kilder ved Uzès til byen Nîmes. Fallet er på bare 1:3000, og blokkene er kuttet så nøyaktig at de holder sammen uten mørtel. Hva heter konstruksjonen?",
       "sv": "Denna romerska akvedukt i södra Frankrike är byggd i tre våningar med valv och forslade vatten från källor vid Uzès till staden Nîmes. Fallet är bara 1:3000, och blocken är huggna så exakt att de håller ihop utan murbruk. Vad heter konstruktionen?"
@@ -334,12 +402,18 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["film", "litteratur"],
+    "topics": [
+      "film",
+      "litteratur"
+    ],
     "prompt": {
       "nb": "Denne krigsfilmen fra 1957, regissert av David Lean, bygger på en roman av Pierre Boulle og skildrer allierte krigsfanger som tvinges til å bygge en jernbanebro i Thailand under andre verdenskrig. Hva heter filmen?",
       "sv": "Denna krigsfilm från 1957, regisserad av David Lean, bygger på en roman av Pierre Boulle och skildrar allierade krigsfångar som tvingas bygga en järnvägsbro i Thailand under andra världskriget. Vad heter filmen?"
     },
-    "answer": { "nb": "Broen over elven Kwai", "sv": "Bron över floden Kwai" },
+    "answer": {
+      "nb": "Broen over elven Kwai",
+      "sv": "Bron över floden Kwai"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Filmen er løst basert på byggingen av Burma-jernbanen, og den virkelige broen lå ved Kanchanaburi.",
@@ -356,7 +430,10 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["teknologi", "transport"],
+    "topics": [
+      "teknologi",
+      "transport"
+    ],
     "prompt": {
       "nb": "Denne broen nord for Bergen åpnet i 1994 og består av en skråstagdel og en flytende pontongdel over Salhusfjorden. Da den sto ferdig, hadde flytedelen verdens lengste fritt bærende spenn i sidevind. Hvilken bro er dette?",
       "sv": "Denna bro norr om Bergen öppnade 1994 och består av en snedkabeldel och en flytande pontondel över Salhusfjorden. När den stod klar hade flytdelen världens längsta fritt bärande spann i sidled. Vilken bro är detta?"
@@ -378,14 +455,20 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["spill", "historie"],
+    "topics": [
+      "spill",
+      "historie"
+    ],
     "prompt": {
       "nb": "Om bord på skipet SS Finland i 1925 satt en velstående amerikansk seiler og finpusset et nytt poengsystem for et kortspill – en endring som gjorde at spillet fortrengte forgjengeren og ble den formen vi kjenner i dag. Hvem var mannen?",
       "sv": "Ombord på fartyget SS Finland 1925 satt en förmögen amerikansk seglare och finslipade ett nytt poängsystem för ett kortspel – en förändring som gjorde att spelet trängde undan föregångaren och blev den form vi känner i dag. Vem var mannen?"
     },
     "answer": "Harold Vanderbilt",
     "answerKind": "person",
-    "person": { "given": "Harold", "family": "Vanderbilt" },
+    "person": {
+      "given": "Harold",
+      "family": "Vanderbilt"
+    },
     "hint": {
       "nb": "Han vant også Americas Cup i seiling tre ganger, sist i 1937.",
       "sv": "Han vann också America's Cup i segling tre gånger, senast 1937."
@@ -401,7 +484,9 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
       "nb": "En natt i januar 1980 kolliderte et lasteskip i tett tåke med en bropilar utenfor den svenske vestkysten. Broen falt sammen, og åtte mennesker mistet livet i biler som havnet i sjøen. En ny skråstagbro sto klar allerede året etter. Hva heter broen?",
       "sv": "En natt i januari 1980 kolliderade ett lastfartyg i tät dimma med en bropelare utanför den svenska västkusten. Bron rasade, och åtta personer omkom i bilar som hamnade i havet. En ny snedkabelbro stod klar redan året efter. Vad heter bron?"
@@ -423,7 +508,9 @@
     "category": "broer",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["geografi"],
+    "topics": [
+      "geografi"
+    ],
     "prompt": {
       "nb": "Denne 6072 meter lange broen åpnet i 1972 og forbinder byen Kalmar på det svenske fastlandet med en øy i Østersjøen. Da den sto ferdig, var den Europas lengste bro. Hvilken bro er dette?",
       "sv": "Denna 6072 meter långa bro öppnade 1972 och förbinder Kalmar på det svenska fastlandet med en ö i Östersjön. När den stod klar var den Europas längsta bro. Vilken bro är detta?"
@@ -445,14 +532,19 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["teknologi"],
+    "topics": [
+      "teknologi"
+    ],
     "prompt": {
       "nb": "Da hovedingeniøren for denne New York-broen ble alvorlig syk av trykkfallssyke under byggingen, tok hans kone over den daglige ledelsen av byggeplassen i elleve år og satte seg grundig inn i matematikk og brostatikk. Hva het hun?",
       "sv": "När huvudingenjören för denna bro i New York blev svårt sjuk av tryckfallssjuka under bygget, tog hans hustru över den dagliga ledningen av byggplatsen i elva år och satte sig grundligt in i matematik och brostatik. Vad hette hon?"
     },
     "answer": "Emily Warren Roebling",
     "answerKind": "person",
-    "person": { "given": "Emily", "family": "Roebling" },
+    "person": {
+      "given": "Emily",
+      "family": "Roebling"
+    },
     "hint": {
       "nb": "Broen er kjent for sine to steinpyloner og ble opprinnelig tegnet av svigerfaren hennes, som døde av stivkrampe før byggingen startet.",
       "sv": "Bron är känd för sina två stenpyloner och ritades ursprungligen av hennes svärfar, som dog av stelkramp innan bygget startade."
@@ -468,12 +560,17 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["design"],
+    "topics": [
+      "design"
+    ],
     "prompt": {
       "nb": "Denne skråstagbroen i Sør-Frankrike åpnet i 2004 og har en pylon på 343 meter – høyere enn Eiffeltårnet. Den ble tegnet av ingeniøren Michel Virlogeux og arkitekten Norman Foster. Hvilken bro er dette?",
       "sv": "Denna snedkabelbro i södra Frankrike öppnade 2004 och har en pylon på 343 meter – högre än Eiffeltornet. Den ritades av ingenjören Michel Virlogeux och arkitekten Norman Foster. Vilken bro är detta?"
     },
-    "answer": { "nb": "Millau-viadukten", "sv": "Millau-viadukten" },
+    "answer": {
+      "nb": "Millau-viadukten",
+      "sv": "Millau-viadukten"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Broen krysser dalen der elven Tarn renner, nær byen Millau.",
@@ -490,14 +587,19 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["kunst"],
+    "topics": [
+      "kunst"
+    ],
     "prompt": {
       "nb": "I 1996 fant denne norske kunstneren en 500 år gammel skisse av Leonardo da Vinci til en bro over Gullhornet i Istanbul, og fikk overtalt Statens vegvesen til å bygge en forminsket utgave over E18 ved Ås. Hvem var kunstneren?",
       "sv": "År 1996 hittade denna norska konstnär en 500 år gammal skiss av Leonardo da Vinci till en bro över Gyllene hornet i Istanbul, och övertalade den norska vägmyndigheten att bygga en förminskad version över E18 vid Ås. Vem var konstnären?"
     },
     "answer": "Vebjørn Sand",
     "answerKind": "person",
-    "person": { "given": "Vebjørn", "family": "Sand" },
+    "person": {
+      "given": "Vebjørn",
+      "family": "Sand"
+    },
     "hint": {
       "nb": "Han sammenlignet oppdagelsen med å finne en uspilt symfoni av Mozart.",
       "sv": "Han jämförde upptäckten med att hitta en ospelad symfoni av Mozart."
@@ -513,7 +615,9 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["kunst"],
+    "topics": [
+      "kunst"
+    ],
     "prompt": {
       "nb": "I hagen sin bygde denne franske maleren en japanskinspirert bro over en dam med vannliljer, og malte motivet igjen og igjen i et tiår som fikk navnet hans vannliljeperiode. Hvor lå denne hagen?",
       "sv": "I sin trädgård byggde den franske målaren en japaninspirerad bro över en damm med näckrosor, och målade motivet om och om igen under ett decennium som kallades hans näckrosperiod. Var låg denna trädgård?"
@@ -535,14 +639,19 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["teknologi"],
+    "topics": [
+      "teknologi"
+    ],
     "prompt": {
       "nb": "En viadukt i Genova, oppkalt etter ingeniøren som tegnet den, kollapset i august 2018 under et kraftig regnvær og krevde 43 menneskeliv. Hva het ingeniøren?",
       "sv": "En viadukt i Genua, uppkallad efter ingenjören som ritade den, kollapsade i augusti 2018 under ett kraftigt regnoväder och krävde 43 människoliv. Vad hette ingenjören?"
     },
     "answer": "Riccardo Morandi",
     "answerKind": "person",
-    "person": { "given": "Riccardo", "family": "Morandi" },
+    "person": {
+      "given": "Riccardo",
+      "family": "Morandi"
+    },
     "hint": {
       "nb": "Broen var en skråstagbro, offisielt kalt Polcevera-viadukten, og kollapsen skyldtes blant annet korrosjon i de innvendige stålkablene.",
       "sv": "Bron var en snedkabelbro, officiellt kallad Polceveraviadukten, och kollapsen berodde bland annat på korrosion i de invändiga stålkablarna."
@@ -558,7 +667,9 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["musikk"],
+    "topics": [
+      "musikk"
+    ],
     "prompt": {
       "nb": "Denne sangen fra 1970 var inspirert av gospelsangeren Claude Jeters frase «I'll be your bridge over deep water» og vant fem Grammy-priser, blant dem årets sang. Hva heter sangen?",
       "sv": "Denna låt från 1970 var inspirerad av gospelsångaren Claude Jeters fras «I'll be your bridge over deep water» och vann fem Grammy-priser, däribland årets låt. Vad heter låten?"
@@ -580,12 +691,17 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "Uttrykket for å gjøre noe så avgjørende at det ikke lenger er mulig å snu, er dokumentert på engelsk fra rundt 1860 og spiller på en gammel krigstaktikk: å ødelegge forbindelsen bak seg for å gjøre retrett umulig. Hvilket norsk uttrykk, med et ord for en veiforbindelse, er dette?",
       "sv": "Uttrycket för att göra något så avgörande att det inte längre går att vända om är belagt på engelska från omkring 1860 och anspelar på en gammal krigstaktik: att förstöra förbindelsen bakom sig för att göra reträtt omöjlig. Vilket svenskt uttryck, med ett ord för en vägförbindelse, är detta?"
     },
-    "answer": { "nb": "Å brenne sine broer", "sv": "Att bränna sina broar" },
+    "answer": {
+      "nb": "Å brenne sine broer",
+      "sv": "Att bränna sina broar"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Verbet i uttrykket handler om ild.",
@@ -602,7 +718,9 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["teknologi"],
+    "topics": [
+      "teknologi"
+    ],
     "prompt": {
       "nb": "I 1781 åpnet verdens første store bro støpt i jern for trafikk, over elven Severn i Shropshire i England. Navnet på broen ble også navnet på stedet som vokste frem rundt den. Hva heter stedet?",
       "sv": "År 1781 öppnades världens första stora bro gjuten i järn för trafik, över floden Severn i Shropshire i England. Namnet på bron blev också namnet på platsen som växte fram runt den. Vad heter platsen?"
@@ -624,7 +742,9 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["geografi"],
+    "topics": [
+      "geografi"
+    ],
     "prompt": {
       "nb": "Denne betongbuebroen over Ångermanälven i Sverige åpnet i 1943 og hadde da verdens største spenn i betong av denne typen – en rekord som sto til 1964. I 1997 ble den avløst av en ny bro like ved. Hvilken bro er dette?",
       "sv": "Denna betongbågbro över Ångermanälven i Sverige öppnade 1943 och hade då världens största spann i betong av denna typ – ett rekord som höll till 1964. År 1997 avlöstes den av en ny bro alldeles intill. Vilken bro är detta?"
@@ -646,14 +766,19 @@
     "category": "broer",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["tv"],
+    "topics": [
+      "tv"
+    ],
     "prompt": {
       "nb": "Denne svenske manusforfatteren skapte TV-serien der et lik ble funnet nøyaktig på riksgrensen på en bro mellom Malmø og København, en idé som senere ble solgt til remaker i USA og på tvers av Kanalen. Hvem er han?",
       "sv": "Denna svenske manusförfattare skapade tv-serien där ett lik hittades exakt på riksgränsen på en bro mellan Malmö och Köpenhamn, en idé som senare såldes till remaker i USA och på andra sidan Kanalen. Vem är han?"
     },
     "answer": "Hans Rosenfeldt",
     "answerKind": "person",
-    "person": { "given": "Hans", "family": "Rosenfeldt" },
+    "person": {
+      "given": "Hans",
+      "family": "Rosenfeldt"
+    },
     "hint": {
       "nb": "Serien heter «Bron/Broen» og hadde Sofia Helin i hovedrollen som Saga Norén.",
       "sv": "Serien heter «Bron/Broen» och hade Sofia Helin i huvudrollen som Saga Norén."

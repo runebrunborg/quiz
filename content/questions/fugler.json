@@ -4,7 +4,9 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["dyr"],
+    "topics": [
+      "dyr"
+    ],
     "prompt": {
       "nb": "Denne flygeudyktige duefuglen fantes bare på øya Mauritius i Indiahavet. Etter at sjøfolk og innførte dyr som rotter og griser kom til øya, ble den utryddet på under hundre år – siste sikre observasjon var i 1662. Hvilken fugl er dette?",
       "sv": "Denna flygoförmögna duvfågel fanns bara på ön Mauritius i Indiska oceanen. Efter att sjömän och införda djur som råttor och grisar kommit till ön utrotades den på mindre än hundra år – senaste säkra observationen var 1662. Vilken fågel är detta?"
@@ -26,7 +28,9 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["dyr"],
+    "topics": [
+      "dyr"
+    ],
     "prompt": {
       "nb": "Den kunne ikke fly, levde av fisk langs Nord-Atlanterens kyster og ble jaktet hardt for fjær og dun. De to siste individene ble drept på øya Eldey utenfor Island i 1844. Hvilken utdødd fugl er dette, hvis norrøne navn betyr «spydfugl»?",
       "sv": "Den kunde inte flyga, levde av fisk längs Nordatlantens kuster och jagades hårt för fjädrar och dun. De två sista individerna dödades på ön Eldey utanför Island 1844. Vilken utdöd fågel är detta, vars fornnordiska namn betyder «spjutfågel»?"
@@ -51,7 +55,10 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["mytologi", "religion"],
+    "topics": [
+      "mytologi",
+      "religion"
+    ],
     "prompt": {
       "nb": "I gresk og senere egyptisk mytologi brenner denne fuglen opp mot slutten av livet, for så å stå opp igjen fra sin egen aske som en ny, ung fugl. Historien har gjort navnet til et fast uttrykk for gjenoppstandelse. Hvilken mytisk fugl er dette?",
       "sv": "I grekisk och senare egyptisk mytologi brinner denna fågel upp mot slutet av livet, för att sedan resa sig igen ur sin egen aska som en ny, ung fågel. Historien har gjort namnet till ett fast uttryck för återuppståndelse. Vilken mytisk fågel är detta?"
@@ -76,7 +83,9 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["mytologi"],
+    "topics": [
+      "mytologi"
+    ],
     "prompt": {
       "nb": "Hver morgen sender guden Odin ut disse to ravnene for å fly over hele verden, og hver kveld setter de seg på skuldrene hans og hvisker nyheter i øret hans. Navnene betyr «tanke» og «minne». Hva heter ravnene?",
       "sv": "Varje morgon skickar guden Oden ut dessa två korpar för att flyga över hela världen, och varje kväll sätter de sig på hans axlar och viskar nyheter i hans öra. Namnen betyder «tanke» och «minne». Vad heter korparna?"
@@ -101,7 +110,9 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["litteratur"],
+    "topics": [
+      "litteratur"
+    ],
     "prompt": {
       "nb": "H.C. Andersens eventyr fra 1843 handler om en fugleunge som blir mobbet for å være annerledes og stygg, helt til den ved et vann oppdager sitt eget speilbilde. Hva slags fugl viser det seg at den egentlig er?",
       "sv": "H.C. Andersens saga från 1843 handlar om en fågelunge som blir mobbad för att vara annorlunda och ful, ända tills den vid ett vatten upptäcker sin egen spegelbild. Vilken fågel visar det sig att den egentligen är?"
@@ -126,7 +137,9 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["natur"],
+    "topics": [
+      "natur"
+    ],
     "prompt": {
       "nb": "Denne lille, mørke fuglen kan svømme og til og med gå under vann på bunnen av kalde fosser og bekker for å finne insektlarver, og synger gjerne midt på vinteren. Den ble valgt til Norges nasjonalfugl i 1963. Hvilken fugl er dette?",
       "sv": "Denna lilla, mörka fågeln kan simma och till och med gå under vatten på botten av kalla forsar och bäckar för att hitta insektslarver, och sjunger gärna mitt i vintern. Den utsågs till Norges nationalfågel 1963. Vilken fågel är detta?"
@@ -151,7 +164,9 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["natur"],
+    "topics": [
+      "natur"
+    ],
     "prompt": {
       "nb": "Denne svartfjærede sangfuglen med gul nebb er en av de mest tallrike hagefuglene i Norden, kjent for sin klare og melodiske sang tidlig om morgenen. Den er kåret til Sveriges nasjonalfugl. Hvilken fugl er dette?",
       "sv": "Denna svartfjädrade sångfågeln med gul näbb är en av de talrikaste trädgårdsfåglarna i Norden, känd för sin klara och melodiska sång tidigt på morgonen. Den är utsedd till Sveriges nationalfågel. Vilken fågel är detta?"
@@ -176,7 +191,9 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["dyr"],
+    "topics": [
+      "dyr"
+    ],
     "prompt": {
       "nb": "Når denne fuglen stuper etter et bytte i luften, kan den nå hastigheter opp mot 300 kilometer i timen, noe som gjør den til det raskeste dyret på jorden. Hvilken rovfugl er dette?",
       "sv": "När denna fågel störtdyker efter ett byte i luften kan den nå hastigheter upp mot 300 kilometer i timmen, vilket gör den till det snabbaste djuret på jorden. Vilken rovfågel är detta?"
@@ -201,7 +218,10 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["design", "popkultur"],
+    "topics": [
+      "design",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Da Twitter i 2010 og 2012 fornyet logoen sin til den enkle, blå fuglesilhuetten mange kjenner, fikk maskoten et gutteaktig navn – etter en berømt amerikansk basketballspiller. Hva het fuglen?",
       "sv": "När Twitter 2010 och 2012 förnyade sin logotyp till den enkla, blå fågelsiluett många känner igen, fick maskoten ett pojknamn – efter en berömd amerikansk basketspelare. Vad hette fågeln?"
@@ -223,7 +243,10 @@
     "category": "fugler",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["natur", "historie"],
+    "topics": [
+      "natur",
+      "historie"
+    ],
     "prompt": {
       "nb": "På 1700-tallet hekket rundt 5000 par av denne store, hvite fuglen i Sverige. En telling i 1917 fant bare 25 par igjen, og det siste hekkeparet ga opp rundt 1955. Senere er arten satt ut på nytt. Hvilken fugl er dette?",
       "sv": "På 1700-talet häckade omkring 5000 par av denna stora, vita fågeln i Sverige. En räkning 1917 hittade bara 25 par kvar, och det sista häckande paret gav upp omkring 1955. Senare har arten återinförts. Vilken fågel är detta?"
@@ -248,7 +271,9 @@
     "category": "fugler",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Da naturforskeren besøkte Galápagosøyene i 1835, la han merke til at nebbformen hos en gruppe småfugler varierte kraftig fra øy til øy, tilpasset ulik føde. Observasjonen ble senere et sentralt eksempel i utviklingslæren hans. Hva kalles denne fuglegruppen i dag?",
       "sv": "När naturforskaren besökte Galápagosöarna 1835 lade han märke till att näbbformen hos en grupp småfåglar varierade kraftigt från ö till ö, anpassad efter olika föda. Observationen blev senare ett centralt exempel i hans utvecklingslära. Vad kallas denna fågelgrupp i dag?"
@@ -273,7 +298,9 @@
     "category": "fugler",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["litteratur"],
+    "topics": [
+      "litteratur"
+    ],
     "prompt": {
       "nb": "I dette diktet fra 1845 blir en sørgende mann besøkt av en svart fugl som gjentar det samme ene ordet – «Nevermore» – som svar på alle spørsmålene hans om den tapte kjærligheten Lenore. Hvem skrev diktet «Ravnen»?",
       "sv": "I denna dikt från 1845 besöks en sörjande man av en svart fågel som upprepar samma enda ord – «Nevermore» – som svar på alla hans frågor om den förlorade kärleken Lenore. Vem skrev dikten «Korpen»?"
@@ -299,7 +326,9 @@
     "category": "fugler",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["film"],
+    "topics": [
+      "film"
+    ],
     "prompt": {
       "nb": "I denne skrekkfilmen fra 1963, løst basert på en novelle av Daphne du Maurier, blir en liten kystby i California plutselig og uforklarlig angrepet av stadig flere fugleflokker. Hvem regisserte filmen?",
       "sv": "I denna skräckfilm från 1963, löst baserad på en novell av Daphne du Maurier, blir en liten kuststad i Kalifornien plötsligt och oförklarligt attackerad av allt fler fågelflockar. Vem regisserade filmen?"
@@ -325,7 +354,10 @@
     "category": "fugler",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["natur", "geografi"],
+    "topics": [
+      "natur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Med et fuglefjell på 294 meter er denne øya utenfor Herøy på Sunnmøre Norges sørligste store hekkeplass for sjøfugl, og over 240 fuglearter er observert her. Hva heter øya?",
       "sv": "Med ett fågelberg på 294 meter är denna ö utanför Herøy på Sunnmøre Norges sydligaste stora häckningsplats för sjöfågel, och över 240 fågelarter har observerats här. Vad heter ön?"
@@ -347,7 +379,10 @@
     "category": "fugler",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["natur", "geografi"],
+    "topics": [
+      "natur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Denne kalksteinsøya i Østersjøen utenfor Gotland huser en av Østersjøens største kolonier av lomvi og alke, og ble naturreservat allerede i 1888 – verdens nest eldste, etter Yellowstone. Hva heter øya?",
       "sv": "Denna kalkstensö i Östersjön utanför Gotland hyser en av Östersjöns största kolonier av sillgrissla och tordmule, och blev naturreservat redan 1888 – världens näst äldsta, efter Yellowstone. Vad heter ön?"
@@ -369,7 +404,9 @@
     "category": "fugler",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["kunst"],
+    "topics": [
+      "kunst"
+    ],
     "prompt": {
       "nb": "Mellom 1827 og 1838 ga denne naturforskeren og kunstneren ut et praktverk med fugler i naturlig størrelse, malt i alle mulige kroppsstillinger for å få plass på de enorme platene. Hvem laget «Birds of America»?",
       "sv": "Mellan 1827 och 1838 gav denna naturforskare och konstnär ut ett praktverk med fåglar i naturlig storlek, målade i alla möjliga kroppsställningar för att få plats på de enorma plattorna. Vem gjorde «Birds of America»?"
@@ -394,30 +431,38 @@
     "id": "fugler-m-07",
     "category": "fugler",
     "difficulty": "medium",
-    "origin": "no",
-    "topics": ["sprak"],
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "sprak"
+    ],
     "prompt": {
-      "nb": "Et gammelt norsk ordtak minner om at det man alt har i hånden, er tryggere enn et løfte om noe mer et annet sted: «Én ___ i hånden er bedre enn ti på taket». Hvilket ord mangler?",
-      "sv": "Ett gammalt norskt ordspråk påminner om att det man redan har i handen är säkrare än ett löfte om något mer någon annanstans: «Én ___ i hånden er bedre enn ti på taket». Vilket ord saknas?"
+      "nb": "Ordtaket om at én fugl i hånden er bedre enn ti på taket handler om å foretrekke det sikre framfor det usikre. Hvilket begrep bruker økonomer om den samme tilbøyeligheten, når noen velger trygg avkastning framfor en større, men usikker gevinst?",
+      "sv": "Ordspråket om att en fågel i handen är bättre än tio i skogen handlar om att föredra det säkra framför det osäkra. Vilket begrepp använder ekonomer om samma benägenhet, när någon väljer trygg avkastning framför en större men osäker vinst?"
     },
-    "answer": "Fugl",
+    "answer": {
+      "nb": "risikoaversjon",
+      "sv": "riskaversion"
+    },
     "answerKind": "annet",
     "hint": {
-      "nb": "Ordtaket har paralleller på mange språk, blant annet det engelske «a bird in the hand».",
-      "sv": "Ordspråket har paralleller på många språk, bland annat det engelska «a bird in the hand»."
+      "nb": "Ordet setter sammen faren og det å vende seg bort fra den.",
+      "sv": "Ordet sätter samman faran och att vända sig bort från den."
     },
     "funFact": {
-      "nb": "Ordtaket er ført opp i Det Norske Akademis ordbok med forklaringen: det sikre man har, er bedre enn en usikker utsikt til noe mer.",
-      "sv": "Ordspråket är upptaget i Det Norske Akademis ordbok med förklaringen: det säkra man har är bättre än en osäker utsikt till något mer."
+      "nb": "Daniel Kahneman og Amos Tversky viste at folk føler et tap omtrent dobbelt så sterkt som en tilsvarende gevinst – det kalles tapsaversjon, og er en nær slektning.",
+      "sv": "Daniel Kahneman och Amos Tversky visade att människor känner en förlust ungefär dubbelt så starkt som en motsvarande vinst – det kallas förlustaversion och är en nära släkting."
     },
-    "source": "Det Norske Akademis ordbok (naob.no) – «fugl»"
+    "source": "Store norske leksikon – risikoaversjon"
   },
   {
     "id": "fugler-m-08",
     "category": "fugler",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "I tiende utgave av «Systema Naturae» i 1758 ga denne svenske naturforskeren alle kjente dyr, inkludert fuglene, et fast to-delt latinsk navn – systemet vi fortsatt bruker i dag. Hvem var han?",
       "sv": "I tionde upplagan av «Systema Naturae» 1758 gav denne svenske naturforskaren alla kända djur, inklusive fåglarna, ett fast tvådelat latinskt namn – systemet vi fortfarande använder i dag. Vem var han?"
@@ -443,7 +488,9 @@
     "category": "fugler",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["natur"],
+    "topics": [
+      "natur"
+    ],
     "prompt": {
       "nb": "Denne terna hekker i Arktis om sommeren og flyr så helt til iskanten i Antarktis for å oppleve enda en sommer der, en tur-retur-reise på rundt 90 000 kilometer i året. Hvilken fugl har dermed det lengste kjente trekket i dyreverdenen?",
       "sv": "Denna tärna häckar i Arktis om sommaren och flyger sedan hela vägen till iskanten i Antarktis för att uppleva ännu en sommar där, en tur-och-retur-resa på omkring 90 000 kilometer om året. Vilken fågel har därmed den längsta kända flyttningen i djurvärlden?"
@@ -468,7 +515,9 @@
     "category": "fugler",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "I over 30 år trente psykologen Irene Pepperberg en afrikansk gråpapegøye til å bruke over hundre ord meningsfullt, kjenne igjen former og farger, og til og med forstå begrepet null. Hva het denne uvanlig kloke papegøyen?",
       "sv": "Under mer än 30 år tränade psykologen Irene Pepperberg en afrikansk grå papegoja att använda över hundra ord meningsfullt, känna igen former och färger, och till och med förstå begreppet noll. Vad hette denna ovanligt kloka papegoja?"
@@ -490,7 +539,9 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne nordamerikanske duefuglen fantes trolig i flere milliarder individer på 1800-tallet, med flokker så tette at de kunne formørke himmelen i timevis. Massiv jakt utryddet den likevel, og siste individ, «Martha», døde i en dyrehage i Cincinnati 1. september 1914. Hvilken fugl er dette?",
       "sv": "Denna nordamerikanska duvfågel fanns troligen i flera miljarder individer på 1800-talet, med flockar så täta att de kunde förmörka himlen i timmar. Massiv jakt utrotade den ändå, och sista individen, «Martha», dog i en djurpark i Cincinnati 1 september 1914. Vilken fågel är detta?"
@@ -515,7 +566,9 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["dyr"],
+    "topics": [
+      "dyr"
+    ],
     "prompt": {
       "nb": "På øya Værøy i Lofoten ble en egen hunderase avlet fram i flere hundre år for å krype inn i trange fjellsprekker og hente ut lundefugl og egg. Rasen har uvanlig bevegelige ledd og seks fullt utviklede tær på hver fot. Hva heter rasen?",
       "sv": "På ön Værøy i Lofoten avlades en egen hundras fram under flera hundra år för att krypa in i trånga bergssprickor och hämta ut lunnefågel och ägg. Rasen har ovanligt rörliga leder och sex fullt utvecklade tår på varje fot. Vad heter rasen?"
@@ -537,7 +590,10 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["historie", "politikk"],
+    "topics": [
+      "historie",
+      "politikk"
+    ],
     "prompt": {
       "nb": "Da den amerikanske Kontinentalkongressen 20. juni 1782 vedtok utformingen av riksseglet, valgte sekretær Charles Thomson en nordamerikansk rovfugl som holder olivengren og piler i klørne. Hvilken fugl endte opp som USAs riksfugl?",
       "sv": "När den amerikanska kontinentalkongressen den 20 juni 1782 antog utformningen av riksvapnet valde sekreterare Charles Thomson en nordamerikansk rovfågel som håller olivkvist och pilar i klorna. Vilken fågel blev USA:s riksfågel?"
@@ -562,7 +618,10 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["litteratur", "geografi"],
+    "topics": [
+      "litteratur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "I 1902 fikk denne svenske forfatteren i oppdrag å skrive en geografilesebok for folkeskolen. Resultatet ble en roman om gutten Nils, som krymper og flyr over hele Sverige på ryggen til villgåsen Akka fra Kebnekaise. Hvem skrev boken, utgitt 1906–1907?",
       "sv": "År 1902 fick denna svenska författare i uppdrag att skriva en geografilärobok för folkskolan. Resultatet blev en roman om pojken Nils, som krymper och flyger över hela Sverige på ryggen av vildgåsen Akka från Kebnekaise. Vem skrev boken, utgiven 1906–1907?"
@@ -588,7 +647,9 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Siden 1973 har et forskerpar fulgt finkebestanden på en bitteliten, ubebodd Galápagos-øy år etter år, og målt hvordan nebbstørrelsen skifter fra generasjon til generasjon etter tørkeår og våte år. Studien viste at naturlig utvalg kan skje på bare et par år. Hva heter øya?",
       "sv": "Sedan 1973 har ett forskarpar följt finkbeståndet på en bitte liten, obebodd Galápagos-ö år efter år, och mätt hur näbbstorleken skiftar från generation till generation efter torrår och våta år. Studien visade att naturligt urval kan ske på bara ett par år. Vad heter ön?"
@@ -610,7 +671,9 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "I 1869, bare 27 år gammel, ga denne zoologen ut «Norges Fugle», et grunnleggende verk som beskrev over 50 fuglearter som var nye for Norge. Han ble senere direktør for Zoologisk museum i Kristiania. Hvem var han?",
       "sv": "År 1869, bara 27 år gammal, gav denne zoologen ut «Norges Fugle», ett grundläggande verk som beskrev över 50 fågelarter som var nya för Norge. Han blev senare direktör för Zoologiska museet i Kristiania. Vem var han?"
@@ -636,7 +699,10 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["dyr", "vitenskap"],
+    "topics": [
+      "dyr",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Fugler mangler stemmebånd av pattedyrtypen, men har i stedet et eget lydorgan nederst i luftrøret, der den deler seg mot lungene. Fordi muskler på hver side kan styres uavhengig av hverandre, kan enkelte sangfugler lage to toner samtidig. Hva heter organet?",
       "sv": "Fåglar saknar stämband av däggdjurstyp, men har i stället ett eget ljudorgan längst ner i luftstrupen, där den delar sig mot lungorna. Eftersom muskler på varje sida kan styras oberoende av varandra kan vissa sångfåglar göra två toner samtidigt. Vad heter organet?"
@@ -658,7 +724,10 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["historie", "militaerhistorie"],
+    "topics": [
+      "historie",
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "I oktober 1918 var en amerikansk bataljon omringet i Argonne-skogen i Frankrike og ble ved et uhell beskutt av eget artilleri. En brevdue fløy 40 kilometer gjennom fiendtlig ild på under 25 minutter med en beskjed som fikk ilden til å stanse. Hva het duen?",
       "sv": "I oktober 1918 var en amerikansk bataljon omringad i Argonneskogen i Frankrike och blev av misstag beskjuten av egen artilleri. En brevduva flög 40 kilometer genom fientlig eld på under 25 minuter med ett meddelande som fick elden att upphöra. Vad hette duvan?"
@@ -680,7 +749,10 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["dyr", "vitenskap"],
+    "topics": [
+      "dyr",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Denne fuktighetsbrune fuglen lever i mørke huler i Sør-Amerika og Karibia, spiser bare fett frukt om natten, og navigerer i mørket ved å sende ut klikkelyder som et ekko av – i likhet med flaggermus. Alexander von Humboldt beskrev den etter et hulebesøk i Venezuela i 1799. Hvilken fugl er dette?",
       "sv": "Denna gulbruna fågeln lever i mörka grottor i Sydamerika och Karibien, äter bara fet frukt om natten, och navigerar i mörkret genom att sända ut klickljud som den ekopejlar med – i likhet med fladdermöss. Alexander von Humboldt beskrev den efter ett grottbesök i Venezuela 1799. Vilken fågel är detta?"
@@ -702,7 +774,9 @@
     "category": "fugler",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne svenske zoologen ga i perioden 1820–1853 ut praktverket «Skandinavisk fauna», og var i mange år professor i Lund. Den britiske fuglekjenneren William Yarrell brukte ham som rådgiver om svenske fuglearter til sitt eget standardverk. Hvem var han?",
       "sv": "Denne svenske zoologen gav under perioden 1820–1853 ut praktverket «Skandinavisk fauna», och var under många år professor i Lund. Den brittiske fågelkännaren William Yarrell använde honom som rådgivare om svenska fågelarter till sitt eget standardverk. Vem var han?"

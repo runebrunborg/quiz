@@ -33,24 +33,27 @@
     "difficulty": "lett",
     "origin": "int",
     "topics": [
-      "sprak",
-      "historie"
+      "teknologi",
+      "mat-og-drikke"
     ],
     "prompt": {
-      "nb": "Uttrykket skal gå tilbake til Plinius den eldre, som anbefalte et hvitt krystallinsk krydder som ledd i en motgift. I dag sier vi at et tvilsomt utsagn bør tas med en klype av nettopp dette. Hvilket krydder?",
-      "sv": "Uttrycket lär gå tillbaka till Plinius den äldre, som rekommenderade en vit kristallin krydda som del av ett motgift. I dag säger vi att ett tvivelaktigt påstående bör tas med en nypa av just detta. Vilken krydda?"
+      "nb": "Fram til midten av 1900-tallet måtte all mat som skulle holde seg bevares på andre måter: salting, røyking, tørking eller nedlegging i lake. Hvilket hvitt kjøkkenapparat, allemannseie i norske hjem fra 1950-tallet, gjorde disse metodene overflødige i dagliglivet?",
+      "sv": "Fram till mitten av 1900-talet måste all mat som skulle hålla bevaras på andra sätt: saltning, rökning, torkning eller inläggning i lag. Vilken vit köksapparat, var mans egendom i svenska hem från 1950-talet, gjorde dessa metoder överflödiga i vardagen?"
     },
-    "answer": "salt",
+    "answer": {
+      "nb": "kjøleskapet",
+      "sv": "kylskåpet"
+    },
     "answerKind": "annet",
     "hint": {
-      "nb": "Står på ethvert middagsbord.",
-      "sv": "Står på varje middagsbord."
+      "nb": "Står på hvert eneste kjøkken.",
+      "sv": "Står i varje kök."
     },
     "funFact": {
-      "nb": "Plinius' motgift skulle inntas fastende og besto blant annet av valnøtter, fiken og vinrute.",
-      "sv": "Plinius motgift skulle intas fastande och bestod bland annat av valnötter, fikon och vinruta."
+      "nb": "De første husholdningsmodellene brukte ammoniakk eller svoveldioksid som kjølemiddel, og lekkasjer var livsfarlige – det var derfor freon ble tatt i bruk.",
+      "sv": "De första hushållsmodellerna använde ammoniak eller svaveldioxid som köldmedium, och läckor var livsfarliga – därför började man använda freon."
     },
-    "source": "Plinius den eldre – «Naturalis Historia»"
+    "source": "Store norske leksikon – kjøleskap"
   },
   {
     "id": "salt-l-03",
