@@ -204,7 +204,7 @@ function AuthPanel({ onDone }: { onDone: (p: Profile) => void }) {
               </div>
               <p className="setup__note">
                 Brukes bare til å sammenligne aldersgrupper og land i statistikken. Du kan la begge stå tomme, og
-                endre eller fjerne dem når som helst. Aldersgrensen for Theme Quiz er 13 år.
+                endre eller fjerne dem når som helst. Aldersgrensen for LinnieQuiz er 13 år.
               </p>
             </div>
 

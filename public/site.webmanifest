@@ -1,6 +1,6 @@
 {
-  "name": "Theme Quiz",
-  "short_name": "ThemeQuiz",
+  "name": "LinnieQuiz",
+  "short_name": "LinnieQuiz",
   "description": "Temabasert quiz på norsk og svensk med hint, fun facts og statistikk over tid.",
   "lang": "no",
   "start_url": "/",

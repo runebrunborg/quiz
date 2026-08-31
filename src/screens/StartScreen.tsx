@@ -49,7 +49,7 @@ export default function StartScreen() {
   return (
     <>
       <div className="page-head">
-        <p className="eyebrow">Theme Quiz</p>
+        <p className="eyebrow">LinnieQuiz</p>
         <h1>Ti spørsmål. Ett tema.</h1>
         <p>
           Velg et tema, et nivå og et utgangspunkt. Alle ti spørsmålene vises samtidig – ta hint når du står fast,

@@ -1,5 +1,5 @@
 /**
- * Theme Quiz – Cloudflare Worker.
+ * LinnieQuiz – Cloudflare Worker.
  *
  * Serverer frontend-bygget og et JSON-API på /api for kontoer, synkronisering
  * av resultater, statistikk, venner og toppliste.
@@ -84,7 +84,7 @@ function validateBirthYear(raw: unknown): { ok: true; value: number | null } | {
   if (!Number.isInteger(year)) return { ok: false, error: 'Fødselsår må være et årstall' }
   const newest = new Date().getUTCFullYear() - MAX_AGE_ISH
   if (year < MIN_YEAR || year > newest) {
-    return { ok: false, error: `Fødselsår må være mellom ${MIN_YEAR} og ${newest}. Aldersgrensen for Theme Quiz er ${MAX_AGE_ISH} år.` }
+    return { ok: false, error: `Fødselsår må være mellom ${MIN_YEAR} og ${newest}. Aldersgrensen for LinnieQuiz er ${MAX_AGE_ISH} år.` }
   }
   return { ok: true, value: year }
 }

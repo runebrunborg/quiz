@@ -1,4 +1,4 @@
-# Slik skrives et spørsmål til Theme Quiz
+# Slik skrives et spørsmål til LinnieQuiz
 
 Denne filen er kontrakten for innholdsbanken. `content/questions/blaa.json` er
 fasitmalen – les den før du skriver noe nytt.

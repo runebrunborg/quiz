@@ -29,7 +29,7 @@ export default function App() {
     <div className="app">
       <header className="topbar">
         <div className="topbar__inner">
-          <NavLink to="/" className="brand" aria-label="Theme Quiz">
+          <NavLink to="/" className="brand" aria-label="LinnieQuiz">
             <Logo size={24} withWordmark />
           </NavLink>
           <nav className="nav">

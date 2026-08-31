@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Setter opp Theme Quiz paa Cloudflare: logger inn, oppretter D1-databasen,
+# Setter opp LinnieQuiz paa Cloudflare: logger inn, oppretter D1-databasen,
 # skriver database_id inn i wrangler.jsonc, kjoerer migrasjonen og deployer.
 # Trygg aa kjoere flere ganger. Holdt i ren ASCII fordi macOS' bash 3.2
 # behandler enkelte flerbyte-tegn som del av variabelnavn.
