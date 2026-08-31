@@ -1,0 +1,678 @@
+[
+  {
+    "id": "drikke-l-11",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie", "geografi"],
+    "prompt": {
+      "nb": "Da grunnleggeren Waldemar Stoud Platou startet dette bryggeriet i Bergen i 1891, la han grunnlaget for et av byens mest kjente ølmerker. Over hundre år senere fusjonerte det med Borg Bryggerier i Sarpsborg og dannet et av landets største bryggeriselskaper. Hvilket bryggeri?",
+      "sv": "När grundaren Waldemar Stoud Platou startade detta bryggeri i Bergen 1891 lade han grunden till ett av stadens mest kända ölmärken. Över hundra år senare gick det samman med Borg Bryggerier i Sarpsborg och bildade ett av landets största bryggeriföretag. Vilket bryggeri?"
+    },
+    "answer": "Hansa",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bryggeriet holder til i Bergen, og fusjonen i 1997 skapte et selskap med to byer i navnet.",
+      "sv": "Bryggeriet ligger i Bergen, och fusionen 1997 skapade ett bolag med två städer i namnet."
+    },
+    "funFact": {
+      "nb": "Fusjonen med Borg Bryggerier i 1997 skapte Hansa Borg Bryggerier, som i dag har produksjon både i Bergen og Sarpsborg.",
+      "sv": "Fusionen med Borg Bryggerier 1997 skapade Hansa Borg Bryggerier, som i dag har produktion både i Bergen och Sarpsborg."
+    },
+    "source": "Store norske leksikon – bryggeri"
+  },
+  {
+    "id": "drikke-l-12",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["kunst", "religion"],
+    "prompt": {
+      "nb": "Kvelden før han ble korsfestet, samlet han disiplene sine til et måltid der brødet ble delt og vinen ble sendt rundt med ordene «dette er mitt blod». Måltidet er siden avbildet utallige ganger, mest berømt av Leonardo da Vinci på 1490-tallet. Hva kalles dette måltidet?",
+      "sv": "Kvällen innan han korsfästes samlade han sina lärjungar till en måltid där brödet delades och vinet skickades runt med orden «detta är mitt blod». Måltiden har sedan avbildats otaliga gånger, mest berömt av Leonardo da Vinci på 1490-talet. Vad kallas denna måltid?"
+    },
+    "answer": {
+      "nb": "Nattverden",
+      "sv": "Nattvarden"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Leonardo da Vincis versjon er malt på veggen i klosterspisesalen ved Santa Maria delle Grazie i Milano.",
+      "sv": "Leonardo da Vincis version är målad på väggen i klosterrefektoriet vid Santa Maria delle Grazie i Milano."
+    },
+    "funFact": {
+      "nb": "Måltidet har gitt navn til sakramentet som fortsatt feires i kristne kirker verden over, med brød og vin som sentrale elementer.",
+      "sv": "Måltiden har gett namn åt sakramentet som fortfarande firas i kristna kyrkor världen över, med bröd och vin som centrala inslag."
+    },
+    "source": "Wikipedia (engelsk) – The Last Supper"
+  },
+  {
+    "id": "drikke-l-13",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["historie", "okonomi"],
+    "prompt": {
+      "nb": "En dansk brygger med stor interesse for vitenskap grunnla i 1847 et bryggeri på en høyde utenfor København. Han oppkalte det etter sønnen sin Carl og selve høyden anlegget lå på. Hvilket bryggeri?",
+      "sv": "En dansk bryggare med stort intresse för vetenskap grundade 1847 ett bryggeri på en höjd utanför Köpenhamn. Han uppkallade det efter sin son Carl och själva höjden anläggningen låg på. Vilket bryggeri?"
+    },
+    "answer": "Carlsberg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnleggeren het J.C. Jacobsen, og bryggeriets forskningslaboratorium ble senere verdenskjent.",
+      "sv": "Grundaren hette J.C. Jacobsen, och bryggeriets forskningslaboratorium blev senare världskänt."
+    },
+    "funFact": {
+      "nb": "Navnet er en sammensetning av sønnens navn Carl og «berg», ordet for høyden bryggeriet ble bygget på. Den første bryggingen fant sted 10. november 1847.",
+      "sv": "Namnet är en sammansättning av sonens namn Carl och «berg», ordet för höjden bryggeriet byggdes på. Den första bryggningen ägde rum den 10 november 1847."
+    },
+    "source": "Wikipedia (engelsk) – Carlsberg Group"
+  },
+  {
+    "id": "drikke-l-14",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["mat-og-drikke"],
+    "prompt": {
+      "nb": "Ordet kommer av det svenske uttrykket for «glødet vin», kjent allerede fra tidlig på 1600-tallet. Drikken varmes med kanel, kardemomme og nellik, og ble på 1800-tallet en fast del av den nordiske julefeiringen. Hva heter denne krydrede, varme vindrikken?",
+      "sv": "Ordet kommer av det svenska uttrycket för «glödat vin», känt redan från tidigt 1600-tal. Drycken värms med kanel, kardemumma och kryddnejlika, och blev på 1800-talet en fast del av det nordiska julfirandet. Vad heter denna kryddade, varma vindrycken?"
+    },
+    "answer": "Glögg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den serveres gjerne med mandler, rosiner og pepperkaker ved siden av.",
+      "sv": "Den serveras gärna med mandel, russin och pepparkakor vid sidan om."
+    },
+    "funFact": {
+      "nb": "Opprinnelig var drikken en krydret vin som ble drukket av budbringere og postbud som reiste i kulden til hest eller på ski.",
+      "sv": "Ursprungligen var drycken ett kryddat vin som dracks av budbärare och brevbärare som reste i kylan till häst eller på skidor."
+    },
+    "source": "Wikipedia (engelsk) – Glögg"
+  },
+  {
+    "id": "drikke-l-15",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "En dansk brygger kjøpte i 1923 et lite bryggeri i Grängesberg i Dalarna. Sønnen hans tok over driften i 1950, og familien ga etter hvert navnet sitt til et av Sveriges tre store bryggeriselskaper fra 1900-tallet. Hvilket selskap?",
+      "sv": "En dansk bryggare köpte 1923 ett litet bryggeri i Grängesberg i Dalarna. Hans son tog över driften 1950, och familjen gav så småningom sitt namn åt ett av Sveriges tre stora bryggeriföretag från 1900-talet. Vilket företag?"
+    },
+    "answer": "Spendrups",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Etternavnet er dansk av opprinnelse, selv om selskapet i dag regnes som svensk gjennom og gjennom.",
+      "sv": "Efternamnet är danskt till ursprunget, även om företaget i dag räknas som svenskt rakt igenom."
+    },
+    "funFact": {
+      "nb": "Sammen med Pripps og Falcon var dette en av de tre dominerende aktørene som vokste fram i svensk bryggerinæring gjennom 1900-tallet.",
+      "sv": "Tillsammans med Pripps och Falcon var detta en av de tre dominerande aktörerna som växte fram i svensk bryggerinäring under 1900-talet."
+    },
+    "source": "Wikipedia (engelsk) – Spendrups"
+  },
+  {
+    "id": "drikke-l-16",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["mat-og-drikke"],
+    "prompt": {
+      "nb": "Gjennom store deler av 1900-tallet var det svenske ølmarkedet dominert av tre store selskaper som oppsto gjennom sammenslåinger: Pripps, Spendrups og et tredje, oppkalt etter en rovfugl. Hvilket selskap er det tredje?",
+      "sv": "Under stora delar av 1900-talet dominerades den svenska ölmarknaden av tre stora företag som uppstod genom sammanslagningar: Pripps, Spendrups och ett tredje, uppkallat efter en rovfågel. Vilket är det tredje företaget?"
+    },
+    "answer": "Falcon",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er engelsk for jaktfalk, en fugl som også pryder etiketten.",
+      "sv": "Namnet är engelska för jaktfalk, en fågel som också pryder etiketten."
+    },
+    "funFact": {
+      "nb": "De tre selskapene sto lenge for det meste av det svenske ølsalget, før et lite bryggerioppsving fra slutten av 1980-tallet – med blant andre Stockholm-bryggeriet Nils Oscar i spissen – brakte mer variasjon til markedet.",
+      "sv": "De tre företagen stod länge för det mesta av den svenska ölförsäljningen, innan ett litet bryggeriuppsving från slutet av 1980-talet – med bland andra Stockholmsbryggeriet Nils Oscar i spetsen – gav marknaden mer variation."
+    },
+    "source": "Wikipedia (engelsk) – Beer in Sweden"
+  },
+  {
+    "id": "drikke-l-17",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["vikingtid", "geografi"],
+    "prompt": {
+      "nb": "Da Leiv Eiriksson og mannskapet hans utforsket kysten lenger vest omkring år 1000, fant den tyskfødte Tyrkir noe som fikk dem til å navngi det nyoppdagede landet. Ifølge sagaene vokste det ville druer der. Hva kalte nordboerne dette landområdet, som trolig lå et sted i dagens Canada?",
+      "sv": "När Leif Eriksson och hans besättning utforskade kusten längre västerut omkring år 1000 fann den tyskfödde Tyrkir något som fick dem att namnge det nyupptäckta landet. Enligt sagorna växte det vilda druvor där. Vad kallade nordborna detta landområde, som troligen låg någonstans i dagens Kanada?"
+    },
+    "answer": "Vinland",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av ordet for drikken druene brukes til, og ordet for land.",
+      "sv": "Namnet är sammansatt av ordet för drycken druvorna används till, och ordet för land."
+    },
+    "funFact": {
+      "nb": "Både Grønlendingesagaen og Eirik Raudes saga forteller om villvinen som ga landet navnet sitt, og arkeologiske funn ved L'Anse aux Meadows på Newfoundland bekrefter at nordboerne faktisk var der.",
+      "sv": "Både Grönländingasagan och Erik den rödes saga berättar om vildvinet som gav landet dess namn, och arkeologiska fynd vid L'Anse aux Meadows på Newfoundland bekräftar att nordborna verkligen var där."
+    },
+    "source": "Wikipedia (engelsk) – Vinland"
+  },
+  {
+    "id": "drikke-l-18",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["vikingtid"],
+    "prompt": {
+      "nb": "Ved gilder og fester i vikingtiden ble mjød og øl drukket av utskårne dyrehorn i stedet for krus. I norrøn diktning drakk til og med gudene av dem – i et kjent dikt tømmer Tor et horn han ikke vet strekker seg helt til havet. Hva kalles et slikt drikkekar?",
+      "sv": "Vid gillen och fester under vikingatiden dracks mjöd och öl ur snidade djurhorn i stället för krus. I fornnordisk diktning drack till och med gudarna ur dem – i en känd dikt tömmer Tor ett horn han inte vet sträcker sig ända till havet. Vad kallas ett sådant dryckeskärl?"
+    },
+    "answer": {
+      "nb": "Drikkehorn",
+      "sv": "Dryckeshorn"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Karet er laget av et hult horn fra okse eller bøffel, gjerne med beslag av metall i enden.",
+      "sv": "Kärlet är gjort av ett ihåligt horn från oxe eller buffel, ofta med metallbeslag i änden."
+    },
+    "funFact": {
+      "nb": "Funn av rike metallbeslag i graver, blant annet ved det berømte skipsgravfunnet Sutton Hoo i England, viser at slike kar var langt mer utbredt enn de bevarte hornene alene tyder på.",
+      "sv": "Fynd av rika metallbeslag i gravar, bland annat vid det berömda skeppsgravfyndet Sutton Hoo i England, visar att sådana kärl var betydligt vanligare än de bevarade hornen ensamma antyder."
+    },
+    "source": "Wikipedia (engelsk) – Drinking horn"
+  },
+  {
+    "id": "drikke-l-19",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["vitenskap", "religion"],
+    "prompt": {
+      "nb": "Middelalderens cisterciensermunker ved klosteret Pontigny dyrket denne drueseten i Chablis-distriktet i Burgund allerede på 1100-tallet. Moderne DNA-analyser viser at den oppsto som en krysning mellom druene pinot noir og gouais blanc. Hvilken drue, i dag en av verdens mest plantede hvitvinsdruer?",
+      "sv": "Medeltidens cisterciensermunkar vid klostret Pontigny odlade denna druvsort i Chablis-distriktet i Bourgogne redan på 1100-talet. Moderna DNA-analyser visar att den uppstod som en korsning mellan druvorna pinot noir och gouais blanc. Vilken druva, i dag en av världens mest planterade vita vindruvor?"
+    },
+    "answer": "Chardonnay",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Druen gir både fyldige, fatlagrede hvitviner og finpusset musserende vin i Champagne.",
+      "sv": "Druvan ger både fylliga, fatlagrade vita viner och finslipat mousserande vin i Champagne."
+    },
+    "funFact": {
+      "nb": "Krysningen skjedde trolig ved at romerne førte druesorten gouais blanc med seg fra dagens Kroatia, der den vokste side om side med de edlere pinot-druene i Øst-Frankrike.",
+      "sv": "Korsningen skedde troligen genom att romarna förde druvsorten gouais blanc med sig från dagens Kroatien, där den växte sida vid sida med de ädlare pinot-druvorna i östra Frankrike."
+    },
+    "source": "Wikipedia (engelsk) – Chardonnay"
+  },
+  {
+    "id": "drikke-l-20",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["litteratur"],
+    "prompt": {
+      "nb": "To nordmenn startet i januar 2002 et lite bryggeri i Grimstad og hentet navnet fra et Henrik Ibsen-dikt om en ensom, forbrytersk skipper. Diktlinjen beskriver en avsidesliggende, bar holme. Hvilket bryggeri, i dag kjent langt utenfor Norges grenser?",
+      "sv": "Två norrmän startade i januari 2002 ett litet bryggeri i Grimstad och hämtade namnet från en dikt av Henrik Ibsen om en ensam, brottslig skeppare. Diktraden beskriver en avsides belägen, kal holme. Vilket bryggeri, i dag känt långt utanför Norges gränser?"
+    },
+    "answer": "Nøgne Ø",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr bokstavelig «naken øy», og diktet det er hentet fra heter «Terje Vigen».",
+      "sv": "Namnet betyder bokstavligen «naken ö», och dikten det är hämtat från heter «Terje Vigen»."
+    },
+    "funFact": {
+      "nb": "Bryggeriet havnet på ølnettstedet RateBeers liste over verdens hundre beste bryggerier de fleste årene fra 2006, og vokste fra rundt 300 hektoliter i 2003 til atskillig mer et drøyt tiår senere.",
+      "sv": "Bryggeriet hamnade på ölsajten RateBeers lista över världens hundra bästa bryggerier de flesta åren från 2006, och växte från omkring 300 hektoliter 2003 till betydligt mer drygt ett decennium senare."
+    },
+    "source": "Wikipedia (engelsk) – Nøgne Ø"
+  },
+  {
+    "id": "drikke-m-11",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["sprak", "religion"],
+    "prompt": {
+      "nb": "Da han forklarte hvorfor disiplene hans ikke fastet slik andre fromme gjorde, brukte han et bilde med drikke og lærsekker: fylles gamle skinnsekker med ny drikke, sprekker de. Lignelsen fra Matteusevangeliet har gitt opphav til et kjent uttrykk vi bruker i dag om å presentere noe gammelt som om det var helt nytt. Hvilket uttrykk?",
+      "sv": "När han förklarade varför hans lärjungar inte fastade som andra fromma gjorde, använde han en bild med dryck och läderskinn: fylls gamla vinsäckar med ny dryck, spricker de. Liknelsen från Matteusevangeliet har gett upphov till ett känt uttryck vi använder i dag om att presentera något gammalt som om det vore helt nytt. Vilket uttryck?"
+    },
+    "answer": {
+      "nb": "Gammel vin på nye flasker",
+      "sv": "Gammalt vin i nya flaskor"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uttrykket brukes gjerne nedsettende om noe som markedsføres som en nyvinning, men i realiteten bare er en velkjent idé pakket inn på nytt.",
+      "sv": "Uttrycket används gärna nedsättande om något som marknadsförs som en nyhet, men i själva verket bara är en välkänd idé ompaketerad."
+    },
+    "funFact": {
+      "nb": "Det bibelske opphavet finnes i Matteus 9,17, der advarselen egentlig går motsatt vei: ny vin skal ikke helles i gamle skinnsekker, siden gjæringen ville sprenge dem.",
+      "sv": "Det bibliska ursprunget finns i Matteus 9:17, där varningen egentligen går åt motsatt håll: nytt vin ska inte hällas i gamla vinsäckar, eftersom jäsningen skulle spränga dem."
+    },
+    "source": "Bibelen, Matteus 9,17; Wikipedia (engelsk) – New wine into old wineskins"
+  },
+  {
+    "id": "drikke-m-12",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["geografi", "mat-og-drikke"],
+    "prompt": {
+      "nb": "Vinen kommer fra Douro-dalen i det nordlige Portugal, men gjæringen stanses og vinen lagres i kjellere på den andre siden av elven, i byen Vila Nova de Gaia. Sent på 1600-tallet fikk vintypen navn etter en helt annen by – den byen varene faktisk ble skipet ut fra. Hvilken vin?",
+      "sv": "Vinet kommer från Douro-dalen i norra Portugal, men jäsningen stoppas och vinet lagras i källare på andra sidan floden, i staden Vila Nova de Gaia. Sent på 1600-talet fick vintypen namn efter en helt annan stad – den stad varorna faktiskt skeppades ut från. Vilket vin?"
+    },
+    "answer": "Portvin",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vinen forsterkes med brennevin midt i gjæringen, noe som gir den høyt sukkerinnhold og høy alkoholprosent.",
+      "sv": "Vinet förstärks med sprit mitt under jäsningen, vilket ger det högt sockerinnehåll och hög alkoholhalt."
+    },
+    "funFact": {
+      "nb": "Byen vinen er oppkalt etter, Porto, ligger ved munningen av elven Douro, mens selve lagringen historisk måtte skje i Vila Nova de Gaia på den andre elvebredden.",
+      "sv": "Staden vinet är uppkallat efter, Porto, ligger vid mynningen av floden Douro, medan själva lagringen historiskt var tvungen att ske i Vila Nova de Gaia på andra sidan floden."
+    },
+    "source": "Wikipedia (engelsk) – Port wine"
+  },
+  {
+    "id": "drikke-m-13",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["geografi", "okonomi"],
+    "prompt": {
+      "nb": "I samme småby i Småland som ga verden Pippi Langstrømpe og Emil i Lønneberget, ligger et familieeid bryggeri grunnlagt i 1856. Byen er i dag mest kjent for opplevelsesparken viet forfatteren som ble født der. Hvilket bryggeri?",
+      "sv": "I samma småstad i Småland som gav världen Pippi Långstrump och Emil i Lönneberga ligger ett familjeägt bryggeri grundat 1856. Staden är i dag mest känd för upplevelseparken tillägnad författaren som föddes där. Vilket bryggeri?"
+    },
+    "answer": "Åbro",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen heter Vimmerby, og forfatteren er Astrid Lindgren.",
+      "sv": "Staden heter Vimmerby, och författaren är Astrid Lindgren."
+    },
+    "funFact": {
+      "nb": "Bryggeriet er fortsatt et av Sveriges få større familieeide bryggerier, og har vært det siden grunnleggelsen på 1800-tallet.",
+      "sv": "Bryggeriet är fortfarande ett av Sveriges få större familjeägda bryggerier, och har varit det sedan grundandet på 1800-talet."
+    },
+    "source": "Store norske leksikon – Vimmerby"
+  },
+  {
+    "id": "drikke-m-14",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["design"],
+    "prompt": {
+      "nb": "Anlegget på gården Mo i Jevnaker ble grunnlagt i 1762 som produksjonssted for et Oslo-selskaps glassvarer, og regnes som en av Norges eldste industribedrifter i sammenhengende drift. Der lages i dag alt fra hverdagslige glass til eksklusivt kunstglass, blant annet vinglass. Hvilket glassverk?",
+      "sv": "Anläggningen på gården Mo i Jevnaker grundades 1762 som tillverkningsplats för ett Oslo-företags glasvaror, och räknas som ett av Norges äldsta industriföretag i sammanhängande drift. Där tillverkas i dag allt från vardagsglas till exklusivt konstglas, bland annat vinglas. Vilket glasbruk?"
+    },
+    "answer": "Hadeland Glassverk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stedet ligger ved Randsfjorden, og flere kjente norske glasskunstnere, blant dem Willy Johansson, har jobbet der.",
+      "sv": "Platsen ligger vid Randsfjorden, och flera kända norska glaskonstnärer, bland dem Willy Johansson, har arbetat där."
+    },
+    "funFact": {
+      "nb": "Glassverket ble opprinnelig etablert for Christiania Glasmagasin, et Oslo-selskap som fortsatt i dag distribuerer produktene.",
+      "sv": "Glasbruket etablerades ursprungligen för Christiania Glasmagasin, ett Oslo-företag som fortfarande i dag distribuerar produkterna."
+    },
+    "source": "Store norske leksikon – Hadeland Glassverk"
+  },
+  {
+    "id": "drikke-m-15",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["design"],
+    "prompt": {
+      "nb": "Stedet som ga navn til dette svenske glassverket ligger i Kalmar län og har vært synonymt med svensk krystall siden 1889. Verket startet med teknisk glass og medisinflasker, men ble etter hvert kjent for kunstferdig krystall, deriblant vinglass. Produksjonen på stedet ble lagt ned i 2012. Hvilket glassverk?",
+      "sv": "Orten som gav namn åt detta svenska glasbruk ligger i Kalmar län och har varit synonymt med svensk kristall sedan 1889. Bruket startade med tekniskt glas och medicinflaskor, men blev efter hand känt för konstfärdig kristall, däribland vinglas. Produktionen på orten lades ner 2012. Vilket glasbruk?"
+    },
+    "answer": "Orrefors",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er også navnet på selve tettstedet, i Nybro kommune.",
+      "sv": "Namnet är också namnet på själva tätorten, i Nybro kommun."
+    },
+    "funFact": {
+      "nb": "Selv om produksjonen på det opprinnelige stedet opphørte i 2012, lever merkenavnet videre som et av de mest kjente i svensk glasshistorie.",
+      "sv": "Även om produktionen på den ursprungliga orten upphörde 2012, lever varumärket vidare som ett av de mest kända i svensk glashistoria."
+    },
+    "source": "Wikipedia (engelsk) – Orrefors"
+  },
+  {
+    "id": "drikke-m-16",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Grunnlagt i Trondheim i 1856, fikk dette bryggeriet navnet sitt fra grunnleggerens initialer og etternavn: Erich Christian Dahl. Bryggeriet ble raskt en sentral del av byens liv, og navnet lever fortsatt videre i Trøndelags ølkultur. Hvilket bryggeri?",
+      "sv": "Grundat i Trondheim 1856 fick detta bryggeri sitt namn efter grundarens initialer och efternamn: Erich Christian Dahl. Bryggeriet blev snabbt en central del av stadens liv, och namnet lever fortfarande kvar i Trøndelags ölkultur. Vilket bryggeri?"
+    },
+    "answer": "E.C. Dahls",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet skrives gjerne med to forbokstaver foran etternavnet.",
+      "sv": "Namnet skrivs oftast med två förbokstäver framför efternamnet."
+    },
+    "funFact": {
+      "nb": "Bryggeriet er senere blitt en del av et større bryggerikonsern, men navnet og pilsneren derfra lever videre som en lokal institusjon i Trondheim.",
+      "sv": "Bryggeriet har senare blivit en del av en större bryggerikoncern, men namnet och pilsnern därifrån lever kvar som en lokal institution i Trondheim."
+    },
+    "source": "Store norske leksikon – bryggeri"
+  },
+  {
+    "id": "drikke-m-17",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["kunst"],
+    "prompt": {
+      "nb": "To offiserer fra Karl 12. sin hær grunnla i 1742 et glassverk i de dype skogene i Småland. Stedet der glassverket lå, fikk siden navn etter selve verket, og man laget tidlig både vindusglass og drikkeglass der. Hvilket glassverk, i dag et av Sveriges eldste?",
+      "sv": "Två officerare från Karl XII:s armé grundade 1742 ett glasbruk i de djupa skogarna i Småland. Orten där glasbruket låg fick sedan namn efter själva bruket, och man tillverkade tidigt både fönsterglas och dricksglas där. Vilket glasbruk, i dag ett av Sveriges äldsta?"
+    },
+    "answer": "Kosta",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De to grunnleggerne het Anders Koskull og Georg Bogislaus Staël von Holstein.",
+      "sv": "De två grundarna hette Anders Koskull och Georg Bogislaus Staël von Holstein."
+    },
+    "funFact": {
+      "nb": "Glassverket ligger i det området i Småland som i dag kalles «Glasriket», kjent for sin tette konsentrasjon av glassverk.",
+      "sv": "Glasbruket ligger i det område i Småland som i dag kallas «Glasriket», känt för sin täta koncentration av glasbruk."
+    },
+    "source": "Wikipedia (engelsk) – Kosta Boda"
+  },
+  {
+    "id": "drikke-m-18",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["religion", "historie"],
+    "prompt": {
+      "nb": "Ifølge Store norske leksikon er dette bayerske bryggeriet verdens eldste i sammenhengende drift, med ølproduksjon helt tilbake til år 1040. Anlegget var opprinnelig et benediktinerkloster, og eies i dag av den tyske delstaten Bayern. Hvilket bryggeri?",
+      "sv": "Enligt Store norske leksikon är detta bayerska bryggeriet världens äldsta i sammanhängande drift, med ölproduktion ända sedan år 1040. Anläggningen var ursprungligen ett benediktinerkloster, och ägs i dag av den tyska delstaten Bayern. Vilket bryggeri?"
+    },
+    "answer": "Weihenstephan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bryggeriet ligger ved Freising nord for München, og klosteret ble oppløst i 1803.",
+      "sv": "Bryggeriet ligger vid Freising norr om München, och klostret upplöstes 1803."
+    },
+    "funFact": {
+      "nb": "Bryggingen fortsatte selv etter at klosteret ble sekularisert i 1803, og eiendommen gikk da over til den bayerske staten.",
+      "sv": "Bryggningen fortsatte även efter att klostret sekulariserades 1803, och egendomen övergick då till den bayerska staten."
+    },
+    "source": "Store norske leksikon – bryggeri; Wikipedia (engelsk) – Weihenstephan Brewery"
+  },
+  {
+    "id": "drikke-m-19",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "Under navnet «Sandefjord Bryggeri og Mineralvandfabrik» startet dette bryggeriet i 1899, og har vært i sammenhengende drift siden. I dag er det kjent for en rimelig pilsner som gjerne koster mindre enn konkurrentenes i dagligvarebutikken. Hvilket bryggeri?",
+      "sv": "Under namnet «Sandefjord Bryggeri og Mineralvandfabrik» startade detta bryggeri 1899, och har varit i sammanhängande drift sedan dess. I dag är det känt för en prisvärd pilsner som ofta kostar mindre än konkurrenternas i mataffären. Vilket bryggeri?"
+    },
+    "answer": "Grans",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bryggeriet ligger i Sandefjord, og flaggskipsproduktet er en rimelig pilsner med et enkelt navn.",
+      "sv": "Bryggeriet ligger i Sandefjord, och flaggskeppsprodukten är en prisvärd pilsner med ett enkelt namn."
+    },
+    "funFact": {
+      "nb": "Bryggeriet har bygget seg en nisje som et rimeligere alternativ til de store merkene, med lav pris som viktigste konkurransefortrinn.",
+      "sv": "Bryggeriet har byggt sig en nisch som ett billigare alternativ till de stora märkena, med lågt pris som viktigaste konkurrensfördel."
+    },
+    "source": "Store norske leksikon – bryggeri"
+  },
+  {
+    "id": "drikke-m-20",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["mat-og-drikke"],
+    "prompt": {
+      "nb": "Denne italienske musserende vinen har navn etter en liten landsby ved Trieste, i den andre enden av landet fra der vinen faktisk produseres i dag – rundt 150 kilometer unna, i Veneto og Friuli-Venezia Giulia. Druen bar opprinnelig samme navn som vinen, men fikk i 2009 et offisielt nytt navn. Hvilken musserende vin?",
+      "sv": "Detta italienska mousserande vinet har namn efter en liten by vid Trieste, i helt andra änden av landet från där vinet faktiskt produceras i dag – omkring 15 mil bort, i Veneto och Friuli-Venezia Giulia. Druvan bar ursprungligen samma namn som vinet, men fick 2009 ett officiellt nytt namn. Vilket mousserande vin?"
+    },
+    "answer": "Prosecco",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det nye navnet på druen er Glera.",
+      "sv": "Det nya namnet på druvan är Glera."
+    },
+    "funFact": {
+      "nb": "Navnebyttet på druen i 2009 skjedde delvis for å beskytte vinnavnet juridisk som en geografisk opprinnelsesbetegnelse, ikke bare som et druenavn.",
+      "sv": "Namnbytet på druvan 2009 skedde delvis för att juridiskt skydda vinnamnet som en geografisk ursprungsbeteckning, inte bara som ett druvnamn."
+    },
+    "source": "Wikipedia (engelsk) – Prosecco"
+  },
+  {
+    "id": "drikke-v-11",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["mytologi", "vikingtid"],
+    "prompt": {
+      "nb": "Etter en krig mellom to gudeslekter spyttet alle gudene i et kar for å besegle freden, og av spyttet skapte de en klok skikkelse. Da dverger drepte skikkelsen og blandet blodet med honning, oppsto en mjød som gjorde den som drakk til skald eller vismann. Hva het skikkelsen mjøden ble laget av?",
+      "sv": "Efter ett krig mellan två gudasläkter spottade alla gudarna i ett kärl för att besegla freden, och av spottet skapade de en klok varelse. När dvärgar dödade varelsen och blandade blodet med honung, uppstod en mjöd som gjorde den som drack till skald eller vis man. Vad hette varelsen mjöden gjordes av?"
+    },
+    "answer": "Kvasir",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Mjøden endte til slutt hos jotnen Suttung, før Odin lurte til seg den i skikkelse av ørn.",
+      "sv": "Mjöden hamnade till slut hos jätten Suttung, innan Oden lurade till sig den i skepnad av örn."
+    },
+    "funFact": {
+      "nb": "Odin forførte Suttungs datter Gunnlød for å få drikke av mjøden, forvandlet seg deretter til ørn og fløy hjem til Åsgard med den i kroppen.",
+      "sv": "Oden förförde Suttungs dotter Gunnlöd för att få dricka av mjöden, förvandlade sig sedan till en örn och flög hem till Åsgård med den i kroppen."
+    },
+    "source": "Wikipedia (engelsk) – Mead of poetry"
+  },
+  {
+    "id": "drikke-v-12",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["vitenskap", "sprak"],
+    "prompt": {
+      "nb": "Da den svenske botanikeren ga alle kjente planter et latinsk to-delt navn i sitt storverk fra 1753, fikk den vanlige vindruen et artsnavn som bokstavelig betyr «vinbærende». Hvilket latinske artsnavn brukes fortsatt om druen som gir oss vin?",
+      "sv": "När den svenske botanikern gav alla kända växter ett latinskt tvådelat namn i sitt storverk från 1753, fick den vanliga vindruvan ett artnamn som bokstavligen betyder «vinbärande». Vilket latinskt artnamn används fortfarande om druvan som ger oss vin?"
+    },
+    "answer": "Vitis vinifera",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Botanikeren er Carl von Linné, og verket heter Species Plantarum.",
+      "sv": "Botanikern är Carl von Linné, och verket heter Species Plantarum."
+    },
+    "funFact": {
+      "nb": "Linné klassifiserte over 7300 plantearter i Species Plantarum, utgitt i to bind i 1753, og la dermed grunnlaget for det systemet som fortsatt brukes til å navngi alle levende arter.",
+      "sv": "Linné klassificerade över 7300 växtarter i Species Plantarum, utgivet i två volymer 1753, och lade därmed grunden för det system som fortfarande används för att namnge alla levande arter."
+    },
+    "source": "Wikipedia (engelsk) – Carl Linnaeus; Species Plantarum"
+  },
+  {
+    "id": "drikke-v-13",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["geografi", "sprak"],
+    "prompt": {
+      "nb": "Det engelske navnet på denne spanske hetvinen er en forengelsking av en by i Andalucía, uttalt omtrent «Sjerisj» på arabisk under morisk tid. Både det spanske og det engelske navnet på vinen stammer fra denne uttalen. Hvilken hetvin?",
+      "sv": "Det engelska namnet på detta spanska starkvinet är en förengelskning av en stad i Andalusien, uttalad ungefär «Sjerisj» på arabiska under morisk tid. Både det spanska och det engelska namnet på vinet härstammar från detta uttal. Vilket starkvin?"
+    },
+    "answer": "Sherry",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen selv heter i dag Jerez de la Frontera, kjent for sine hvite druer og sitt solera-lagringssystem.",
+      "sv": "Staden själv heter i dag Jerez de la Frontera, känd för sina vita druvor och sitt solera-lagringssystem."
+    },
+    "funFact": {
+      "nb": "Under det moriske styret ble byen kalt Sherish, en arabisk gjengivelse av det opprinnelige navnet, og både «Jerez» og det engelske vinnavnet kan spores tilbake til denne formen.",
+      "sv": "Under det moriska styret kallades staden Sherish, en arabisk återgivning av det ursprungliga namnet, och både «Jerez» och det engelska vinnamnet kan spåras tillbaka till denna form."
+    },
+    "source": "Wikipedia (engelsk) – Sherry"
+  },
+  {
+    "id": "drikke-v-14",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["litteratur", "musikk"],
+    "prompt": {
+      "nb": "Denne stockholmske dikteren og visesangeren fra 1700-tallet fremførte selv sine viser til cittertoner, og samlingen «Fredmans epistlar» tegner i rokokkospråk et bilde av byens vertshusliv, ofte med vinguden Bacchus som bakteppe. Kong Gustav 3. kalte ham en mesterlig improvisator. Hvem var dikteren?",
+      "sv": "Denna Stockholmspoet och visdiktare från 1700-talet framförde själv sina visor till citterackord, och samlingen «Fredmans epistlar» tecknar i rokokospråk en bild av stadens värdshusliv, ofta med vinguden Backus som fond. Kung Gustav III kallade honom en mästerlig improvisatör. Vem var diktaren?"
+    },
+    "answer": "Carl Michael Bellman",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl Michael",
+      "family": "Bellman"
+    },
+    "hint": {
+      "nb": "Han levde fra 1740 til 1795, og en av visene hans het «Gubben Noak».",
+      "sv": "Han levde 1740–1795, och en av hans visor hette «Gubben Noak»."
+    },
+    "funFact": {
+      "nb": "Visene hans kombinerte en streng, dekorativ rokokkoform med et jordnært persongalleri av vertshusgjester, og de fremføres og gjendiktes fortsatt over hele verden.",
+      "sv": "Hans visor kombinerade en sträng, dekorativ rokokoform med ett jordnära persongalleri av värdshusgäster, och de framförs och tolkas fortfarande över hela världen."
+    },
+    "source": "Wikipedia (engelsk) – Carl Michael Bellman"
+  },
+  {
+    "id": "drikke-v-15",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Den eldste kjente skriftlige referansen til denne drueseten finnes i et regnskap fra 13. mars 1435, der en tysk greve betalte 22 shilling for vinstokker til vingården sin. Regionen regnskapet stammer fra, Rheingau langs Rhinen, regnes fortsatt som et av druens fremste hjemsteder. Hvilken drue?",
+      "sv": "Den äldsta kända skriftliga referensen till denna druvsort finns i en räkenskap från den 13 mars 1435, där en tysk greve betalade 22 shilling för vinstockar till sin vingård. Regionen räkenskapen kommer från, Rheingau längs Rhen, räknas fortfarande som en av druvans främsta hemvister. Vilken druva?"
+    },
+    "answer": "Riesling",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Druen gir gjerne syrlige, aromatiske hvitviner og trives spesielt godt på skiferjord langs elver.",
+      "sv": "Druvan ger ofta syrliga, aromatiska vita viner och trivs särskilt bra på skifferjord längs floder."
+    },
+    "funFact": {
+      "nb": "Greven het Johann 4. av Katzenelnbogen, og notatet i regnskapsboken hans i Rüsselsheim er det eldste kjente dokumentet som nevner druenavnet.",
+      "sv": "Greven hette Johann IV av Katzenelnbogen, och anteckningen i hans räkenskapsbok i Rüsselsheim är det äldsta kända dokumentet som nämner druvnamnet."
+    },
+    "source": "Wikipedia (engelsk) – Riesling"
+  },
+  {
+    "id": "drikke-v-16",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["mytologi", "vikingtid"],
+    "prompt": {
+      "nb": "En jotun som bodde ved havet, holdt gjestebud for gudene, men manglet et kar stort nok til å brygge øl til dem alle. Løsningen var å hente en kjempekjele fra jotnen Hymir, en ekspedisjon Tor og Ty måtte gjennomføre for å skaffe nok øl til gildet. Hvem var vertskapet – havjotnen som til slutt fikk brygget ølet sitt?",
+      "sv": "En jätte som bodde vid havet höll gästabud för gudarna, men saknade ett kärl stort nog att brygga öl åt dem alla. Lösningen var att hämta en jättekittel från jätten Hymer, en expedition Tor och Tyr fick genomföra för att skaffa nog öl till gillet. Vem var värden – havsjätten som till slut fick sitt öl bryggt?"
+    },
+    "answer": {
+      "nb": "Ægir",
+      "sv": "Ägir"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Diktet som forteller historien heter Hymiskvida, oppkalt etter jotnen som eide kjelen.",
+      "sv": "Dikten som berättar historien heter Hymiskvida, uppkallad efter jätten som ägde kitteln."
+    },
+    "funFact": {
+      "nb": "Ifølge diktet var vertens eget ølkar altfor lite, og hele reisen etter Hymirs kjempekjele var nødvendig bare for at han skulle kunne holde et skikkelig ølgilde for gudene.",
+      "sv": "Enligt dikten var värdens eget ölkärl alldeles för litet, och hela resan efter Hymers jättekittel var nödvändig bara för att han skulle kunna hålla ett ordentligt ölgille för gudarna."
+    },
+    "source": "Wikipedia (engelsk) – Hymiskviða"
+  },
+  {
+    "id": "drikke-v-17",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["okonomi", "mat-og-drikke"],
+    "prompt": {
+      "nb": "Dette svenske bryggeriet startet i 1996 som et lite nabolagsbryggeri på Kungsholmen i Stockholm, lenge før håndverksøl ble noe folk flest kjente til. I 2015 ble det først i Sverige med å lansere en alkoholfri øl fra et rendyrket håndverksbryggeri. Hvilket bryggeri?",
+      "sv": "Detta svenska bryggeri startade 1996 som ett litet kvartersbryggeri på Kungsholmen i Stockholm, långt innan hantverksöl blev något gemene man kände till. År 2015 blev det först i Sverige med att lansera en alkoholfri öl från ett renodlat hantverksbryggeri. Vilket bryggeri?"
+    },
+    "answer": "Nils Oscar",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bryggeriet flyttet etter hvert fra Stockholm og endte til slutt i Nyköping.",
+      "sv": "Bryggeriet flyttade så småningom från Stockholm och hamnade till slut i Nyköping."
+    },
+    "funFact": {
+      "nb": "Bryggeriet var blant pionerene da svenske mikrobryggerier for alvor tok av fra slutten av 1980-tallet og utover 1990-tallet.",
+      "sv": "Bryggeriet var bland pionjärerna när svenska mikrobryggerier på allvar tog fart från slutet av 1980-talet och in på 1990-talet."
+    },
+    "source": "Wikipedia (engelsk) – Nils Oscar Brewery; Beer in Sweden"
+  },
+  {
+    "id": "drikke-v-18",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["politikk", "historie"],
+    "prompt": {
+      "nb": "Etter tysk forbilde innførte dette landet i 1912 en egen renhetslov for øl. Loven overlevde uendret helt til 1994, da EØS-avtalen tvang landet til å oppheve den – og ifølge Store norske leksikon skal det ha vært det aller siste landet i verden til å avskaffe en slik lov. Hvilket land er dette?",
+      "sv": "Efter tyskt föredöme införde detta land 1912 en egen renhetslag för öl. Lagen levde oförändrad kvar ända till 1994, då EES-avtalet tvingade landet att upphäva den – och enligt Store norske leksikon ska det ha varit det allra sista landet i världen att avskaffa en sådan lag. Vilket land är detta?"
+    },
+    "answer": "Norge",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet er det samme som opprettet et statlig utsalgsmonopol for vin i 1922.",
+      "sv": "Landet är detsamma som inrättade ett statligt försäljningsmonopol för vin 1922."
+    },
+    "funFact": {
+      "nb": "Loven fulgte i praksis samme prinsipp som det tyske forbildet fra 1516, og krevde at øl bare skulle lages av bygg, humle, gjær og vann.",
+      "sv": "Lagen följde i praktiken samma princip som den tyska förlagan från 1516, och krävde att öl bara skulle göras av korn, humle, jäst och vatten."
+    },
+    "source": "Store norske leksikon – øl"
+  },
+  {
+    "id": "drikke-v-19",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["religion", "mat-og-drikke"],
+    "prompt": {
+      "nb": "Et trappistkloster nær Antwerpen i Belgia utviklet i 1856 en mørk, søtlig ølstil som fikk navn etter et tall, og skapte på 1930-tallet en lysere, sterkere stil oppkalt etter et enda høyere tall. Begge stilnavnene brukes fortsatt over hele ølverdenen. Hvilket kloster?",
+      "sv": "Ett trappistkloster nära Antwerpen i Belgien utvecklade 1856 en mörk, sötaktig ölstil som fick namn efter ett tal, och skapade på 1930-talet en ljusare, starkare stil uppkallad efter ett ännu högre tal. Båda stilnamnen används fortfarande över hela ölvärlden. Vilket kloster?"
+    },
+    "answer": "Westmalle",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stilnavnene er henholdsvis dubbel og tripel.",
+      "sv": "Stilnamnen är dubbel respektive tripel."
+    },
+    "funFact": {
+      "nb": "Den aller første dokumenterte trappistbryggingen skjedde likevel enda tidligere, ved klosteret La Trappe i Soligny i Frankrike, som hadde eget bryggeri allerede i 1685.",
+      "sv": "Den allra första dokumenterade trappistbryggningen skedde ändå ännu tidigare, vid klostret La Trappe i Soligny i Frankrike, som hade eget bryggeri redan 1685."
+    },
+    "source": "Wikipedia (engelsk) – Trappist beer"
+  },
+  {
+    "id": "drikke-v-20",
+    "category": "drikke",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Under sin andre Arktis-ekspedisjon (1898–1902) oppkalte den norske polfareren Otto Sverdrup en øy i den kanadiske øygruppen etter en av sine viktigste sponsorer – en Oslo-brygger fra en kjent norsk ølfamilie. Hvilken øy bærer i dag navnet til denne bryggeren?",
+      "sv": "Under sin andra Arktisexpedition (1898–1902) uppkallade den norske polarforskaren Otto Sverdrup en ö i den kanadensiska ögruppen efter en av sina viktigaste sponsorer – en Oslobryggare från en känd norsk ölfamilj. Vilken ö bär i dag namnet efter denna bryggare?"
+    },
+    "answer": "Ellef Ringnes Island",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øya ligger i den kanadiske arktiske øygruppen, og sponsoren delte etternavn med et kjent norsk øl.",
+      "sv": "Ön ligger i den kanadensiska arktiska ögruppen, och sponsorn delade efternamn med ett känt norskt öl."
+    },
+    "funFact": {
+      "nb": "Sverdrup krevde selv øygruppen, som i dag kalles Sverdrupøyene, for Norge under samme ekspedisjon.",
+      "sv": "Sverdrup gjorde själv anspråk på ögruppen, som i dag kallas Sverdrupöarna, för Norge under samma expedition."
+    },
+    "source": "Wikipedia (engelsk) – Ellef Ringnes Island"
+  }
+]

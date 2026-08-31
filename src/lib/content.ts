@@ -63,15 +63,29 @@ export function categoriesWithContent(): Category[] {
 export { CATEGORIES, CATEGORY_BY_ID }
 
 /**
- * Vekting av spørsmål mot valgt utgangspunkt. Regionvalget er ikke et filter:
- * velger du norsk får du flest norske spørsmål, men fortsatt svenske og
- * internasjonale innslag. Så lenge en pulje er nøyaktig 10 spørsmål stor blir
- * alle brukt – vektingen slår inn først når banken fylles på.
+ * Sammensetningen av en runde, gitt valgt utgangspunkt.
+ *
+ * Dette er kvoter, ikke et filter: velger du norsk får du flest norske
+ * referanser, men fortsatt svenske og internasjonale spørsmål – slik det står
+ * beskrevet i appen. Rene vekter viste seg for svake i praksis; med en pulje på
+ * tjue og ti spørsmål i en runde endte norsk og svensk opp med å dele åtte av
+ * ti. Eksplisitte kvoter gir den forskjellen mellom utgangspunktene som er hele
+ * poenget med regionvalget.
+ *
+ * Mangler en gruppe spørsmål, fylles plassene fra de andre gruppene, så en
+ * halvfylt pulje aldri gir en kortere runde.
  */
-const WEIGHTS: Record<Region, Record<Region, number>> = {
-  no: { no: 3.0, se: 1.3, int: 2.0 },
-  se: { no: 1.3, se: 3.0, int: 2.0 },
-  int: { no: 1.2, se: 1.2, int: 3.0 },
+const QUOTAS: Record<Region, Record<Region, number>> = {
+  no: { no: 5, se: 2, int: 3 },
+  se: { no: 2, se: 5, int: 3 },
+  int: { no: 2, se: 2, int: 6 },
+}
+
+/** Rekkefølgen plassene fylles i når en gruppe er for liten. */
+const FALLBACK_ORDER: Record<Region, Region[]> = {
+  no: ['int', 'se'],
+  se: ['int', 'no'],
+  int: ['no', 'se'],
 }
 
 /** Deterministisk pseudo-tilfeldig tallgenerator, så en økt kan gjenskapes fra sin id. */
@@ -98,19 +112,34 @@ export function pickQuestions(
   count = QUESTIONS_PER_ROUND,
 ): Question[] {
   const pool = poolFor(category, difficulty)
-  if (pool.length <= count) return shuffle(pool, makeRng(seed))
+  // Utgangspunktet er en del av frøet. Uten det stokkes gruppene likt for alle
+  // tre valgene, og den norske runden blir bare den svenske med to spørsmål
+  // byttet ut. Med det i frøet trekkes hver region uavhengig.
+  const rng = makeRng(`${seed}|${region}`)
+  if (pool.length <= count) return shuffle(pool, rng)
 
-  const rng = makeRng(seed)
-  // Vektet utvalg uten tilbakelegging (Efraimidis–Spirakis).
-  const scored = pool.map((q) => {
-    const w = WEIGHTS[region][q.origin]
-    return { q, key: Math.pow(rng(), 1 / w) }
-  })
-  scored.sort((a, b) => b.key - a.key)
-  return shuffle(
-    scored.slice(0, count).map((s) => s.q),
-    rng,
-  )
+  // Stokk hver herkomstgruppe for seg, og plukk fra toppen etter kvote.
+  const groups: Record<Region, Question[]> = {
+    no: shuffle(pool.filter((q) => q.origin === 'no'), rng),
+    se: shuffle(pool.filter((q) => q.origin === 'se'), rng),
+    int: shuffle(pool.filter((q) => q.origin === 'int'), rng),
+  }
+
+  const quota = QUOTAS[region]
+  const chosen: Question[] = []
+  const wanted = ([region, ...FALLBACK_ORDER[region]] as Region[])
+
+  for (const origin of wanted) {
+    chosen.push(...groups[origin].splice(0, Math.min(quota[origin], count - chosen.length)))
+  }
+
+  // Fyll opp om en gruppe var for liten. Egen herkomst først, så de andre.
+  for (const origin of wanted) {
+    if (chosen.length >= count) break
+    chosen.push(...groups[origin].splice(0, count - chosen.length))
+  }
+
+  return shuffle(chosen, rng)
 }
 
 export function shuffle<T>(items: T[], rng: () => number): T[] {

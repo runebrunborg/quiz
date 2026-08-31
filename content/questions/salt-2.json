@@ -1,0 +1,673 @@
+[
+  {
+    "id": "salt-l-11",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["mat-og-drikke", "historie"],
+    "prompt": {
+      "nb": "Fåreribbe saltes, tørkes og ofte røykes i flere uker før den dampes over bjørkepinner til jul. Retten har sterkest tradisjon på Vestlandet, der rundt tre av fire spiser den julaften, og er dokumentert helt tilbake til 1700-tallet. Hva heter denne norske juletradisjonen?",
+      "sv": "Fårrevben saltas, torkas och ofta röks i flera veckor innan de ångas över björkpinnar till jul. Rätten har starkast tradition på norska västkusten, där ungefär tre av fyra äter den på julafton, och är belagd ända sedan 1700-talet. Vad heter denna norska jultraditionen?"
+    },
+    "answer": "pinnekjøtt",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer enten av tørkepinnene eller av selve ribbeina.",
+      "sv": "Namnet kommer antingen av torkpinnarna eller av själva revbenen."
+    },
+    "funFact": {
+      "nb": "Skikken med å tilsette salt ble først vanlig på 1600- og 1700-tallet, da importert salt ble billigere. Før den tid ble kjøttet ofte bare tørket i den kalde, tørre vinterlufta.",
+      "sv": "Seden att tillsätta salt blev vanlig först på 1600- och 1700-talet, när importerat salt blev billigare. Tidigare torkades köttet ofta bara i den kalla, torra vinterluften."
+    },
+    "source": "Store norske leksikon – pinnekjøtt; spekemat"
+  },
+  {
+    "id": "salt-l-12",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["popkultur"],
+    "prompt": {
+      "nb": "Navnet er en forkortelse for det tidligere firmanavnet «Old London Wasa». Selskapets mest kjente produkt er en gul pose med sprø strimler dekket av grove saltkrystaller – en fast ingrediens på svenske festbord. Hvilket svensk snacksselskap står bak salta pinnar?",
+      "sv": "Namnet är en förkortning av det tidigare företagsnamnet «Old London Wasa». Företagets mest kända produkt är en gul påse med krispiga strimlor täckta av grova saltkristaller – en fast ingrediens på svenska festbord. Vilket svenskt snacksföretag ligger bakom salta pinnar?"
+    },
+    "answer": "OLW",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bokstavene er en forkortelse, ikke et vanlig ord.",
+      "sv": "Bokstäverna är en förkortning, inte ett vanligt ord."
+    },
+    "funFact": {
+      "nb": "Ifølge produktinformasjonen består snacksen av hvetemel, rapsolje, salt og havsalt (1,3 %), pluss malt fra bygg.",
+      "sv": "Enligt produktinformationen består snacksen av vetemjöl, rapsolja, salt och havssalt (1,3 %), plus malt från korn."
+    },
+    "source": "OLW – produktside for Salta Pinnar; Wikipedia – OLW"
+  },
+  {
+    "id": "salt-l-13",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["geografi", "religion"],
+    "prompt": {
+      "nb": "Byen ble grunnlagt i 1847 av mormonske nybyggere under ledelse av Brigham Young, som søkte et sted langt unna forfølgelse. Den ligger ved bredden av en innsjø så salt at nesten ingenting kan drukne i den. Hvilken amerikanske delstatshovedstad?",
+      "sv": "Staden grundades 1847 av mormonska nybyggare under ledning av Brigham Young, som sökte en plats långt från förföljelse. Den ligger vid stranden av en sjö så salt att nästan ingenting kan drunkna i den. Vilken amerikansk delstatshuvudstad?"
+    },
+    "answer": "Salt Lake City",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet inneholder både krydderet og vannet det ligger ved.",
+      "sv": "Namnet innehåller både kryddan och vattnet den ligger vid."
+    },
+    "funFact": {
+      "nb": "Byen het opprinnelig «Great Salt Lake City», men «Great» ble strøket fra navnet i 1868.",
+      "sv": "Staden hette ursprungligen «Great Salt Lake City», men «Great» ströks ur namnet 1868."
+    },
+    "source": "Wikipedia – Salt Lake City"
+  },
+  {
+    "id": "salt-l-14",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie", "okonomi"],
+    "prompt": {
+      "nb": "Fra rundt 1850 var denne byen på Nordmøre Norges største eksportør av saltet og tørket torsk, og feirer i dag handelen med en egen festival der man konkurrerer om å lage best mulig gryterett av varen. Hvilken by?",
+      "sv": "Från omkring 1850 var denna stad på Nordmøre Norges största exportör av saltad och torkad torsk, och firar i dag handeln med en egen festival där man tävlar om att laga bästa möjliga gryta av varan. Vilken stad?"
+    },
+    "answer": "Kristiansund",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ikke å forveksle med byen lenger sør som heter nesten det samme.",
+      "sv": "Inte att förväxla med staden längre söderut som heter nästan likadant."
+    },
+    "funFact": {
+      "nb": "Klippfiskmuseet holder til i det gamle produksjonslokalet Milnbrygga, og forteller om varens over 250 år lange historie.",
+      "sv": "Klippfiskmuseet finns i den gamla produktionslokalen Milnbrygga och berättar om varans mer än 250-åriga historia."
+    },
+    "source": "Store norske leksikon – Kristiansund"
+  },
+  {
+    "id": "salt-l-15",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["litteratur", "tv"],
+    "prompt": {
+      "nb": "Astrid Lindgren skrev i 1964 om familien Melkerson som tilbringer somrene på en oppdiktet øy i Stockholms skjærgård, med et navn som bokstavelig betyr en fugl og et krydder. Innspillingen ble gjort på den virkelige øya Norröra. Hva heter den oppdiktede øya?",
+      "sv": "Astrid Lindgren skrev 1964 om familjen Melkerson som tillbringar somrarna på en påhittad ö i Stockholms skärgård, med ett namn som bokstavligen betyder en fågel och en krydda. Inspelningen gjordes på den verkliga ön Norröra. Vad heter den påhittade ön?"
+    },
+    "answer": "Saltkråkan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Andre ledd i navnet er en svart fugl kjent for å være pratsom.",
+      "sv": "Andra ledet i namnet är en svart fågel känd för att vara pratsam."
+    },
+    "funFact": {
+      "nb": "Serien har vist seg på svensk TV hver sommer i over 60 år, og er dermed blitt en fast del av den svenske sommeren.",
+      "sv": "Serien har visats på svensk tv varje sommar i över 60 år, och har därmed blivit en fast del av den svenska sommaren."
+    },
+    "source": "Wikipedia – Vi på Saltkråkan"
+  },
+  {
+    "id": "salt-l-16",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["design", "popkultur"],
+    "prompt": {
+      "nb": "Logoen viser en jente med paraply som lar saltet renne fritt selv i regnvær, og har vært uendret i grunntrekk siden 1914. Slagordet lyder «When it rains, it pours». Hvilket amerikanske saltmerke?",
+      "sv": "Logotypen visar en flicka med paraply som låter saltet rinna fritt även i regnväder, och har varit oförändrad i grunddragen sedan 1914. Sloganen lyder «When it rains, it pours». Vilket amerikanskt saltmärke?"
+    },
+    "answer": "Morton Salt",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er et vanlig engelsk etternavn.",
+      "sv": "Namnet är ett vanligt engelskt efternamn."
+    },
+    "funFact": {
+      "nb": "Jenta på logoen har blitt tegnet om sju ganger siden starten, og ble i 2014 den første kvinnelige figuren på Advertising Week Walk of Fame.",
+      "sv": "Flickan på logotypen har ritats om sju gånger sedan starten, och blev 2014 den första kvinnliga figuren på Advertising Week Walk of Fame."
+    },
+    "source": "Wikipedia – Morton Salt"
+  },
+  {
+    "id": "salt-l-17",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["mat-og-drikke"],
+    "prompt": {
+      "nb": "Den salte, røkte torskerognpastaen produseres i Finneidfjord i Nordland og er en klassiker på det norske frokostbordet. Selskapet bak ble formelt stiftet i 1997. Hvilket merke?",
+      "sv": "Den salta, rökta torskrognspastan tillverkas i Finneidfjord i Nordland och är en klassiker på det norska frukostbordet. Företaget bakom grundades formellt 1997. Vilket märke?"
+    },
+    "answer": "Mills",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Et kort engelsk ord, samme som en type fabrikkbygning.",
+      "sv": "Ett kort engelskt ord, detsamma som en typ av fabriksbyggnad."
+    },
+    "funFact": {
+      "nb": "Selskapet lager også margarin og majones i Fredrikstad, og ble opprinnelig eid av Agra Industrier.",
+      "sv": "Företaget tillverkar även margarin och majonnäs i Fredrikstad, och ägdes ursprungligen av Agra Industrier."
+    },
+    "source": "Store norske leksikon – Mills"
+  },
+  {
+    "id": "salt-l-18",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi", "natur"],
+    "prompt": {
+      "nb": "Vannet langs den svenske østkysten er så tynt av salt at man nesten kan kalle det ferskvann, fordi hundrevis av elver renner ut i et hav med bare et smalt, grunt sund mot Nordsjøen. Hvilket hav?",
+      "sv": "Vattnet längs den svenska östkusten är så tunt på salt att man nästan kan kalla det sötvatten, eftersom hundratals älvar mynnar ut i ett hav med bara ett smalt, grunt sund mot Nordsjön. Vilket hav?"
+    },
+    "answer": {
+      "nb": "Østersjøen",
+      "sv": "Östersjön"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ligger mellom Sverige, Baltikum, Polen og Danmark.",
+      "sv": "Ligger mellan Sverige, Baltikum, Polen och Danmark."
+    },
+    "funFact": {
+      "nb": "Saltinnholdet varierer fra rundt 0,9 prosent nær Danmark til bare 0,3 prosent innerst i Bottenviken – mot 3,5 prosent i verdenshavene ellers.",
+      "sv": "Salthalten varierar från omkring 0,9 procent nära Danmark till bara 0,3 procent längst in i Bottenviken – mot 3,5 procent i världshaven i övrigt."
+    },
+    "source": "Wikipedia – Baltic Sea"
+  },
+  {
+    "id": "salt-l-19",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["religion", "sprak"],
+    "prompt": {
+      "nb": "I Bergprekenen sammenligner han disiplene sine med noe som bevarer mat og gir smak, men som er ubrukelig hvis det mister kraften – i dag brukes uttrykket om et menneske som er hederlig og uunnværlig godt. Hvilket kjent bibelsk uttrykk finner vi i Matteus 5:13?",
+      "sv": "I bergspredikan jämför han sina lärjungar med något som bevarar mat och ger smak, men som är oanvändbart om det förlorar sin kraft – i dag används uttrycket om en människa som är hederlig och omistligt god. Vilket känt bibliskt uttryck hittar vi i Matteus 5:13?"
+    },
+    "answer": "jordens salt",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uttrykket består av to ord: en eiendomsform av planeten vi bor på, og selve krydderet.",
+      "sv": "Uttrycket består av två ord: en genitivform av planeten vi bor på, och själva kryddan."
+    },
+    "funFact": {
+      "nb": "Setningen fortsetter: «Men om saltet mister sin kraft, hva skal det da saltes med?» – et retorisk spørsmål om noe som ikke lenger tjener sin hensikt.",
+      "sv": "Meningen fortsätter: «Men om saltet mister sin sälta, vad skall det då saltas med?» – en retorisk fråga om något som inte längre tjänar sitt syfte."
+    },
+    "source": "Bibelen – Matteus 5:13"
+  },
+  {
+    "id": "salt-l-20",
+    "category": "salt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Barack Obama velges til USAs første afroamerikanske president, investeringsbanken Lehman Brothers går konkurs og utløser en global finanskrise, Beijing arrangerer sommer-OL, og Apple åpner sin App Store. Det nye Operahuset i Oslo åpner med kongelig gjestebesøk fra Danmark og Finland, CERN setter i gang Large Hadron Collider, «The Dark Knight» blir årets mest sette film, skateboardstjernen Sky Brown fødes, og skuespilleren Paul Newman dør. Hvilket år?",
+      "sv": "Barack Obama väljs till USA:s första afroamerikanska president, investeringsbanken Lehman Brothers går i konkurs och utlöser en global finanskris, Peking arrangerar sommar-OS, och Apple öppnar sin App Store. Den nya Operan i Oslo öppnar med kungligt besök från Danmark och Finland, CERN startar Large Hadron Collider, «The Dark Knight» blir årets mest sedda film, skateboardstjärnan Sky Brown föds, och skådespelaren Paul Newman dör. Vilket år?"
+    },
+    "answer": "2008",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sent på 2000-tallet.",
+      "sv": "Sent 2000-tal."
+    },
+    "funFact": {
+      "nb": "Det norske arkitektkontoret Snøhetta vant en internasjonal konkurranse med 350 bidrag om å tegne operabygget.",
+      "sv": "Den norska arkitektbyrån Snøhetta vann en internationell tävling med 350 bidrag om att rita operabyggnaden."
+    },
+    "source": "Wikipedia – 2008; Oslo Opera House"
+  },
+  {
+    "id": "salt-m-11",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["mat-og-drikke"],
+    "prompt": {
+      "nb": "Hele fårelår saltes og lufttørkes i flere måneder til kjøttet kan skjæres i tynne skiver og spises rått, uten noen form for varmebehandling. Retten har sterkest tradisjon på Vestlandet. Hva heter denne spekematen?",
+      "sv": "Hela fårlår saltas och lufttorkas i flera månader tills köttet kan skäras i tunna skivor och ätas rått, utan någon form av värmebehandling. Rätten har starkast tradition på norska västkusten. Vad heter denna torkade köttprodukten?"
+    },
+    "answer": "fenalår",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Norges svar på den italienske skinken prosciutto.",
+      "sv": "Norges svar på den italienska skinkan prosciutto."
+    },
+    "funFact": {
+      "nb": "Fordi kjøttet spises rått, må salting og tørking følge strenge krav til temperatur og fuktighet for å være trygt å spise.",
+      "sv": "Eftersom köttet äts rått måste saltning och torkning följa strikta krav på temperatur och fuktighet för att vara säkert att äta."
+    },
+    "source": "Store norske leksikon – spekemat"
+  },
+  {
+    "id": "salt-m-12",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["okonomi", "natur"],
+    "prompt": {
+      "nb": "Kystlandskapet ble avskoget på 1800-tallet fordi den blomstrende sildenæringen trengte tønnestaver til den saltede fisken og ved til å koke sildeolje. Den store sildeperioden varte fra 1747 til 1809. Hvilket svensk kystlandskap?",
+      "sv": "Kustlandskapet skövlades på skog under 1800-talet eftersom den blomstrande sillnäringen behövde virke till tunnstavar för den saltade fisken och ved för att koka sillolja. Den stora sillperioden varade från 1747 till 1809. Vilket svenskt kustlandskap?"
+    },
+    "answer": "Bohuslän",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grenser til Norge i nord og har Göteborg like sør for seg.",
+      "sv": "Gränsar till Norge i norr och har Göteborg strax söder om sig."
+    },
+    "funFact": {
+      "nb": "Det karrige, nakne kystlandskapet man ser i Bohuslän i dag, er et direkte resultat av skogshogsten fra denne perioden.",
+      "sv": "Det karga, nakna kustlandskapet man ser i Bohuslän i dag är ett direkt resultat av skogsavverkningen från denna period."
+    },
+    "source": "Wikipedia – Bohuslän"
+  },
+  {
+    "id": "salt-m-13",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["geografi", "historie"],
+    "prompt": {
+      "nb": "Byens navn betyr bokstavelig «saltby», og rikdommen kom fra tollavgifter på lektere som fraktet krydderet nedover elven Salzach fra utvinningsstedene i fjellene. Rikdommen ga byen politisk makt gjennom hele middelalderen. Hvilken østerrikske by, i dag mest kjent som Mozarts fødeby?",
+      "sv": "Stadens namn betyder bokstavligen «saltstad», och rikedomen kom från tullavgifter på pråmar som fraktade kryddan nedför floden Salzach från utvinningsplatserna i bergen. Rikedomen gav staden politisk makt genom hela medeltiden. Vilken österrikisk stad, i dag mest känd som Mozarts födelsestad?"
+    },
+    "answer": "Salzburg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Andre halvdel av navnet er samme endelse som i Hamburg og Strasbourg.",
+      "sv": "Andra halvan av namnet är samma ändelse som i Hamburg och Strasbourg."
+    },
+    "funFact": {
+      "nb": "Navnet ble første gang brukt på tysk i år 739, lenge før byen ble erkebispesete i 798.",
+      "sv": "Namnet användes första gången på tyska år 739, långt innan staden blev ärkebiskopssäte 798."
+    },
+    "source": "Wikipedia – Salzburg"
+  },
+  {
+    "id": "salt-m-14",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "Byen fikk sin første betydning på 1700-tallet som fiskehavn med sildesalting som viktigste næring, og industrien vokste videre utover på 1800-tallet da sildeinnsiget ble mer regelmessig. Hvilken by på Haugalandet?",
+      "sv": "Staden fick sin första betydelse på 1700-talet som fiskehamn med sillsaltning som viktigaste näring, och industrin växte vidare under 1800-talet när sillinvandringen blev mer regelbunden. Vilken stad på Haugalandet?"
+    },
+    "answer": "Haugesund",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ligger ved den nordlige innseilingen til Karmsundet.",
+      "sv": "Ligger vid den norra infarten till Karmsundet."
+    },
+    "funFact": {
+      "nb": "Byen gikk fra å være en enkel fiskehavn til et av Vestlandets viktigste sildesentre i løpet av 1800-tallet.",
+      "sv": "Staden gick från att vara en enkel fiskehamn till ett av västkustens viktigaste sillcentrum under 1800-talet."
+    },
+    "source": "Store norske leksikon – Haugesund"
+  },
+  {
+    "id": "salt-m-15",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Denne saltvannsbukten møter ferskvannet fra Mälaren midt i Stockholm, og de to vannmassene skilles av slusen ved Slussen, bygget av ingeniøren Nils Ericson på 1800-tallet. Hva heter saltvannsbukten?",
+      "sv": "Denna saltvattensvik möter sötvattnet från Mälaren mitt i Stockholm, och de två vattenmassorna skiljs åt av slussen vid Slussen, byggd av ingenjören Nils Ericson på 1800-talet. Vad heter saltvattensviken?"
+    },
+    "answer": "Saltsjön",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet forteller akkurat hva slags vann det er.",
+      "sv": "Namnet berättar precis vilket slags vatten det är."
+    },
+    "funFact": {
+      "nb": "Systemet lot båter gå mellom det salte Østersjøen og det ferske Mälaren uten å blande vannmassene.",
+      "sv": "Systemet lät båtar gå mellan det salta Östersjön och det söta Mälaren utan att blanda vattenmassorna."
+    },
+    "source": "Store norske leksikon – Stockholm; Slussen"
+  },
+  {
+    "id": "salt-m-16",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "Det latinske navnet betyr «steinsalt», fordi krystallene så ut til å vokse fram på veggene i fjøs og kjellere. Stoffet ble uunnværlig som ingrediens i svartkrutt, og i middelalderen samlet egne oppsamlere nitrogenrik jord fra husdyrrom for å utvinne det. Hvilket kjemisk stoff, kaliumnitrat?",
+      "sv": "Det latinska namnet betyder «stensalt», eftersom kristallerna tycktes växa fram på väggarna i ladugårdar och källare. Ämnet blev oumbärligt som ingrediens i svartkrut, och under medeltiden samlade särskilda insamlare kväverik jord från djurstallar för att utvinna det. Vilket kemiskt ämne, kaliumnitrat?"
+    },
+    "answer": "salpeter",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Norsk og svensk bruker samme ord som det tyske «Salpeter».",
+      "sv": "Svenska och norska använder samma ord som det tyska «Salpeter»."
+    },
+    "funFact": {
+      "nb": "Stoffet er kjemisk sett et salt, på linje med bordsalt, selv om det smaker og oppfører seg helt annerledes.",
+      "sv": "Ämnet är kemiskt sett ett salt, i klass med bordssalt, även om det smakar och beter sig helt annorlunda."
+    },
+    "source": "Store norske leksikon – salpeter"
+  },
+  {
+    "id": "salt-m-17",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["vitenskap", "historie"],
+    "prompt": {
+      "nb": "To norske oppfinnere utviklet en metode for å fange nitrogen fra luften ved hjelp av en elektrisk lysbue, og produktet – et salt kalt Norgesalpeter – ble solgt som kunstgjødsel over hele verden. Metoden ble grunnlaget for et industriselskap etablert i 1905. Hvilket selskap?",
+      "sv": "Två norska uppfinnare utvecklade en metod för att fånga in kväve från luften med hjälp av en elektrisk ljusbåge, och produkten – ett salt som kallades Norgesalpeter – såldes som konstgödsel över hela världen. Metoden blev grunden för ett industriföretag som grundades 1905. Vilket företag?"
+    },
+    "answer": "Norsk Hydro",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Et av Norges eldste og største industriselskaper, fortsatt børsnotert i dag.",
+      "sv": "Ett av Norges äldsta och största industriföretag, fortfarande börsnoterat i dag."
+    },
+    "funFact": {
+      "nb": "Oppfinnerne var fysikeren Kristian Birkeland og ingeniøren Sam Eyde. Metoden deres ble faset ut på 1920-tallet til fordel for den mer effektive Haber-Bosch-prosessen.",
+      "sv": "Uppfinnarna var fysikern Kristian Birkeland och ingenjören Sam Eyde. Deras metod fasades ut på 1920-talet till förmån för den mer effektiva Haber-Bosch-processen."
+    },
+    "source": "Store norske leksikon – Birkeland-Eyde-prosessen"
+  },
+  {
+    "id": "salt-m-18",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["historie", "natur"],
+    "prompt": {
+      "nb": "Orlogsskipet sank etter bare 1300 meter på jomfruturen i 1628 og ble hevet 333 år senere, uvanlig godt bevart. Grunnen var at Østersjøens lave saltinnhold holder unna en marin skipsorm som normalt ødelegger sunket trevirke raskt. Hvilket svensk skip?",
+      "sv": "Örlogsskeppet sjönk efter bara 1300 meter på jungfruresan 1628 och bärgades 333 år senare, ovanligt väl bevarat. Anledningen var att Östersjöns låga salthalt håller borta en marin pålmask som normalt förstör sjunket trävirke snabbt. Vilket svenskt skepp?"
+    },
+    "answer": "Vasa",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Har gitt navn til et av Stockholms mest besøkte museer.",
+      "sv": "Har gett namn åt ett av Stockholms mest besökta museer."
+    },
+    "funFact": {
+      "nb": "Skipet ble funnet i 1956 av amatørarkeologen Anders Franzén, som lette systematisk etter vraket i flere år.",
+      "sv": "Skeppet hittades 1956 av amatörarkeologen Anders Franzén, som systematiskt letat efter vraket i flera år."
+    },
+    "source": "Wikipedia – Vasa (ship)"
+  },
+  {
+    "id": "salt-m-19",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["mat-og-drikke", "popkultur"],
+    "prompt": {
+      "nb": "Den salte lakrispastillen ble oppkalt etter en norsk operasanger hvis portrett prydet den originale innpakningen. Produsenten er samme fabrikk i Trondheim som lager Troika og Japp. Hva heter pastillen?",
+      "sv": "Den salta lakritspastillen döptes efter en norsk operasångare vars porträtt pryddes den ursprungliga förpackningen. Tillverkaren är samma fabrik i Trondheim som gör Troika och Japp. Vad heter pastillen?"
+    },
+    "answer": "IFA",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bokstavene er operasangerens initialer.",
+      "sv": "Bokstäverna är operasångarens initialer."
+    },
+    "funFact": {
+      "nb": "Operasangeren het Ivar Frithjof Andresen og var en kjent norsk bassanger på begynnelsen av 1900-tallet.",
+      "sv": "Operasångaren hette Ivar Frithjof Andresen och var en känd norsk bassångare i början av 1900-talet."
+    },
+    "source": "Store norske leksikon – Nidar; IFA"
+  },
+  {
+    "id": "salt-m-20",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Human Genome Project kunngjør i april at hele det menneskelige genomet er kartlagt, mens USA-ledede styrker invaderer Irak i mars samme år. Sverige stemmer nei til å innføre euro i en folkeavstemning, og SARS-epidemien ebber ut etter å ha spredd seg fra Kina. Skype lanseres, Concorde tar sin siste kommersielle flygning, og «Ringenes Herre: Atter en konge» har premiere. Fotballstjernen Jude Bellingham fødes, og countrylegenden Johnny Cash dør. Hvilket år?",
+      "sv": "Human Genome Project meddelar i april att hela det mänskliga genomet är kartlagt, medan USA-ledda styrkor invaderar Irak i mars samma år. Sverige röstar nej till att införa euron i en folkomröstning, och SARS-epidemin klingar av efter att ha spridit sig från Kina. Skype lanseras, Concorde gör sin sista kommersiella flygning, och «Sagan om ringen: Konungens återkomst» har premiär. Fotbollsstjärnan Jude Bellingham föds, och countrylegenden Johnny Cash dör. Vilket år?"
+    },
+    "answer": "2003",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tidlig 2000-tall, fire år etter årtusenskiftet.",
+      "sv": "Tidigt 2000-tal, fyra år efter millennieskiftet."
+    },
+    "funFact": {
+      "nb": "Sverige skulle ha innført euro senest 1. januar 2006 dersom folkeavstemningen hadde endt med ja.",
+      "sv": "Sverige skulle ha infört euron senast den 1 januari 2006 om folkomröstningen hade slutat med ja."
+    },
+    "source": "Wikipedia – 2003; Swedish euro referendum 2003"
+  },
+  {
+    "id": "salt-v-11",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["geografi", "transport"],
+    "prompt": {
+      "nb": "Saltsletten i Utah er rester av en forhistorisk innsjø og inneholder anslagsvis 147 millioner tonn salt. Den flate, harde overflaten har siden 1914 vært arena for forsøk på å sette landeveis fartsrekord. Hvilken saltslette?",
+      "sv": "Saltslätten i Utah är rester av en förhistorisk sjö och innehåller uppskattningsvis 147 miljoner ton salt. Den platta, hårda ytan har sedan 1914 varit arena för försök att sätta landsvägens fartrekord. Vilken saltslätt?"
+    },
+    "answer": "Bonneville Salt Flats",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ligger vest for Great Salt Lake, som saltsletten er rester av.",
+      "sv": "Ligger väster om Great Salt Lake, som saltslätten är rester av."
+    },
+    "funFact": {
+      "nb": "Rekorden for hjuldrevne kjøretøy ble satt der i 2018, med en fart på rundt 722 km/t (449 mph).",
+      "sv": "Rekordet för hjuldrivna fordon sattes där 2018, med en fart på omkring 722 km/h (449 mph)."
+    },
+    "source": "Wikipedia – Bonneville Salt Flats"
+  },
+  {
+    "id": "salt-v-12",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["mat-og-drikke", "okonomi"],
+    "prompt": {
+      "nb": "Den ikoniske svenske kaviartuben med den blå og gule etiketten kommer fra et selskap som opprinnelig ble grunnlagt i 1838 – ikke i Sverige, men i en norsk by kjent for sin Hansabrygge. Selskapet flyttet til Stockholm på 1850-tallet. Hvilken norsk by?",
+      "sv": "Den ikoniska svenska kaviartuben med den blå och gula etiketten kommer från ett företag som ursprungligen grundades 1838 – inte i Sverige, utan i en norsk stad känd för sin Hansabrygga. Företaget flyttade till Stockholm på 1850-talet. Vilken norsk stad?"
+    },
+    "answer": "Bergen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen har et av Norges mest fotograferte UNESCO-steder.",
+      "sv": "Staden har en av Norges mest fotograferade Unesco-platser."
+    },
+    "funFact": {
+      "nb": "Selskapet, i dag kalt Abba Seafood, har ingenting med popgruppen å gjøre og har siden 1995 vært en del av det norske Orkla-konsernet.",
+      "sv": "Företaget, i dag kallat Abba Seafood, har inget med popgruppen att göra och har sedan 1995 varit en del av den norska Orkla-koncernen."
+    },
+    "source": "Wikipedia – Abba Seafood"
+  },
+  {
+    "id": "salt-v-13",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["historie", "geografi"],
+    "prompt": {
+      "nb": "Den østerrikske landsbyen ga navn til en hel europeisk jernalderkultur fordi saltgruvene i fjellet over har vært i drift siden bronsealderen. Gruvene bevarte tekstiler og lær så godt at arkeologen Johann Georg Ramsauer fant over tusen graver der på 1800-tallet. Hvilken landsby?",
+      "sv": "Den österrikiska byn gav namn åt en hel europeisk järnålderskultur eftersom saltgruvorna i berget ovanför har varit i drift sedan bronsåldern. Gruvorna bevarade textilier och läder så väl att arkeologen Johann Georg Ramsauer fann över tusen gravar där på 1800-talet. Vilken by?"
+    },
+    "answer": "Hallstatt",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byens navn brukes også om jernalderkulturen som er oppkalt etter funnene her.",
+      "sv": "Stadens namn används även om järnålderskulturen som är uppkallad efter fynden här."
+    },
+    "funFact": {
+      "nb": "Gruvene regnes som verdens eldste fremdeles i drift, med 21 ulike nivåer i fjellet.",
+      "sv": "Gruvorna räknas som världens äldsta fortfarande i drift, med 21 olika nivåer i berget."
+    },
+    "source": "Wikipedia – Hallstatt"
+  },
+  {
+    "id": "salt-v-14",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["mat-og-drikke"],
+    "prompt": {
+      "nb": "Opprinnelig handlet denne norske konserveringsmetoden bare om tørking i kald, tørr vinterluft – salting ble først vanlig da importert salt ble rimeligere på 1600- og 1700-tallet. Proteinene i kjøttet brytes ned slik at bakterier ikke får tilgang på vann. Hva heter denne fellesbetegnelsen på rått, konservert kjøtt?",
+      "sv": "Ursprungligen handlade denna norska konserveringsmetoden bara om torkning i kall, torr vinterluft – saltning blev vanligt först när importerat salt blev billigare på 1600- och 1700-talet. Proteinerna i köttet bryts ned så att bakterier inte får tillgång till vatten. Vad heter denna samlingsbeteckning för rått, konserverat kött?"
+    },
+    "answer": "spekemat",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Paraplybegrepet dekker blant annet fenalår, spekeskinke og spekepølse.",
+      "sv": "Paraplybegreppet täcker bland annat fenalår, spekeskinka och spekekorv."
+    },
+    "funFact": {
+      "nb": "Etter andre verdenskrig konsentrerte landbrukspolitikken sau på Vestlandet og gris på Østlandet, noe som fortsatt preger hvilken spekemat som er mest tradisjonell hvor.",
+      "sv": "Efter andra världskriget koncentrerade jordbrukspolitiken får till västra Norge och gris till östra Norge, vilket fortfarande präglar vilken slags spekemat som är mest traditionell var."
+    },
+    "source": "Store norske leksikon – spekemat"
+  },
+  {
+    "id": "salt-v-15",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie", "okonomi"],
+    "prompt": {
+      "nb": "Hansabyen på Gotland var på 1300-tallet en sentral markedsplass for Østersjøens sildefiskerier, med salt importert framfor alt fra Lüneburg i Tyskland til å konservere fangsten. Hvilken svensk by, i dag kjent for sine bevarte middelaldermurer?",
+      "sv": "Hansastaden på Gotland var på 1300-talet en central marknadsplats för Östersjöns sillfiske, med salt importerat framför allt från Lüneburg i Tyskland för att konservera fångsten. Vilken svensk stad, i dag känd för sina bevarade medeltidsmurar?"
+    },
+    "answer": "Visby",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedstad på Gotland, kjent for «Medeltidsveckan» hver sommer.",
+      "sv": "Huvudstad på Gotland, känd för Medeltidsveckan varje sommar."
+    },
+    "funFact": {
+      "nb": "Visbys ringmur, en av Nord-Europas best bevarte middelaldermurer, er i dag på UNESCOs verdensarvliste sammen med resten av byen.",
+      "sv": "Visbys ringmur, en av Nordeuropas bäst bevarade medeltidsmurar, finns i dag på Unescos världsarvslista tillsammans med resten av staden."
+    },
+    "source": "Wikipedia – Lüneburg; Visby"
+  },
+  {
+    "id": "salt-v-16",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "På en halvøy utenfor Tønsberg kokte man sjøvann til salt i mer enn hundre år på 1700- og 1800-tallet, i et av svært få forsøk på egen norsk saltproduksjon i stor skala. Familien Tschudi drev også brenneri og osteproduksjon på samme sted. Hva het saltverket?",
+      "sv": "På en halvö utanför Tønsberg kokade man havsvatten till salt i mer än hundra år under 1700- och 1800-talet, i ett av mycket få försök till egen norsk saltproduktion i stor skala. Familjen Tschudi drev även bränneri och ostproduktion på samma plats. Vad hette saltverket?"
+    },
+    "answer": "Vallø Saltverk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stedet heter det samme som saltverket, minus siste ord.",
+      "sv": "Platsen heter detsamma som saltverket, minus sista ordet."
+    },
+    "funFact": {
+      "nb": "Til tross for driften dekket verket aldri hele Norges behov for salt – det meste måtte fortsatt importeres.",
+      "sv": "Trots driften täckte verket aldrig hela Norges behov av salt – det mesta fick fortfarande importeras."
+    },
+    "source": "Store norske leksikon – Vallø saltverk"
+  },
+  {
+    "id": "salt-v-17",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["okonomi", "historie"],
+    "prompt": {
+      "nb": "Fra 1300-tallet krevde den franske staten at alle innbyggere over åtte år måtte kjøpe en minstemengde av en bestemt vare hvert år, med enorme regionale prisforskjeller – i 1784 kostet varen tjue ganger så mye i Berry som i Bretagne. Ordningen bidro til folks raseri før revolusjonen i 1789. Hva het denne franske avgiften?",
+      "sv": "Från 1300-talet krävde den franska staten att alla invånare över åtta år skulle köpa en minimimängd av en viss vara varje år, med enorma regionala prisskillnader – 1784 kostade varan tjugo gånger så mycket i Berry som i Bretagne. Ordningen bidrog till folkets raseri inför revolutionen 1789. Vad hette denna franska avgiften?"
+    },
+    "answer": "gabelle",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Varen var samme krydder alle husholdninger måtte ha på bordet.",
+      "sv": "Varan var samma krydda alla hushåll var tvungna att ha på bordet."
+    },
+    "funFact": {
+      "nb": "Skatten ble midlertidig avskaffet under revolusjonen, men gjeninnført av Napoleon og besto helt til den ble avviklet på 1940-tallet.",
+      "sv": "Skatten avskaffades tillfälligt under revolutionen, men återinfördes av Napoleon och bestod ända till den avvecklades på 1940-talet."
+    },
+    "source": "Wikipedia – Gabelle"
+  },
+  {
+    "id": "salt-v-18",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "Kjemikeren, født i Stralsund i det som da var svensk Pommern, oppdaget i 1774 en gulgrønn, illeluktende gass ved å varme opp brunstein med saltsyre. Humphry Davy ga senere gassen navnet klor – det ene av de to grunnstoffene i vanlig bordsalt. Hvem var kjemikeren?",
+      "sv": "Kemisten, född i Stralsund i det som då var svenska Pommern, upptäckte 1774 en gulgrön, illaluktande gas genom att värma pyrolusit med saltsyra. Humphry Davy gav senare gasen namnet klor – det ena av de två grundämnena i vanligt bordssalt. Vem var kemisten?"
+    },
+    "answer": "Carl Wilhelm Scheele",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl Wilhelm",
+      "family": "Scheele"
+    },
+    "hint": {
+      "nb": "Kalles «Hard-luck Scheele» fordi andre ofte fikk æren for oppdagelsene hans.",
+      "sv": "Kallas «Hard-luck Scheele» eftersom andra ofta fick äran för hans upptäckter."
+    },
+    "funFact": {
+      "nb": "Han oppdaget trolig også oksygen rundt 1771, før både Priestley og Lavoisier publiserte sine funn – men fikk lenge ikke æren for det.",
+      "sv": "Han upptäckte troligen även syre omkring 1771, före både Priestley och Lavoisier publicerade sina fynd – men fick länge inte äran för det."
+    },
+    "source": "Wikipedia – Carl Wilhelm Scheele"
+  },
+  {
+    "id": "salt-v-19",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["historie", "religion"],
+    "prompt": {
+      "nb": "Under den britiske blokaden av Norge, rundt 1809, forsøkte denne kjente legpredikanten å etablere saltverk i Sør- og Vest-Norge for å gjøre landet mindre avhengig av importert salt. Han er bedre kjent for å ha reist rundt og forkynt et personlig, arbeidsomt kristenliv. Hvem var mannen?",
+      "sv": "Under den brittiska blockaden av Norge, kring 1809, försökte denna kända lekmannapredikant etablera saltverk i södra och västra Norge för att göra landet mindre beroende av importerat salt. Han är mer känd för att ha rest runt och predikat ett personligt, arbetsamt kristet liv. Vem var mannen?"
+    },
+    "answer": "Hans Nielsen Hauge",
+    "answerKind": "person",
+    "person": {
+      "given": "Hans Nielsen",
+      "family": "Hauge"
+    },
+    "hint": {
+      "nb": "Bevegelsen han startet kalles haugianismen.",
+      "sv": "Rörelsen han startade kallas haugianismen."
+    },
+    "funFact": {
+      "nb": "Han ble grepet flere ganger for sin religiøse virksomhet og satt fengslet i mange år, anklaget for å bryte konventikkelplakaten som forbød religiøse møter uten prestens godkjenning.",
+      "sv": "Han greps flera gånger för sin religiösa verksamhet och satt fängslad i många år, anklagad för att bryta mot konventikelplakatet som förbjöd religiösa möten utan prästens godkännande."
+    },
+    "source": "Store norske leksikon – Hans Nielsen Hauge; saltutvinning"
+  },
+  {
+    "id": "salt-v-20",
+    "category": "salt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["historie", "okonomi"],
+    "prompt": {
+      "nb": "Ifølge legenden oppdaget en jeger saltkildene da han så et villsvin bade i saltvann. Byens saltmonopol gjorde den uunnværlig for Hansaforbundet, som brukte varen til å salte sild fanget i Østersjøen og langs Norge. Gruvedriften varte i nesten tusen år, helt til den ble lagt ned i 1980. Hvilken tyske by?",
+      "sv": "Enligt legenden upptäckte en jägare saltkällorna när han såg ett vildsvin bada i saltvatten. Stadens saltmonopol gjorde den oumbärlig för Hansan, som använde varan för att salta sill fångad i Östersjön och längs Norge. Gruvdriften varade i nästan tusen år, ända tills den lades ned 1980. Vilken tysk stad?"
+    },
+    "answer": "Lüneburg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ligger sør for Hamburg og har gitt navn til en berømt hei.",
+      "sv": "Ligger söder om Hamburg och har gett namn åt en berömd hed."
+    },
+    "funFact": {
+      "nb": "Saltkanalen Stecknitz, åpnet i 1398, gjorde det mulig å frakte saltet videre til Lübeck med lektere.",
+      "sv": "Saltkanalen Stecknitz, öppnad 1398, gjorde det möjligt att frakta saltet vidare till Lübeck med pråmar."
+    },
+    "source": "Wikipedia – Lüneburg"
+  }
+]

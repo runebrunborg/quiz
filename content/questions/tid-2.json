@@ -1,0 +1,781 @@
+[
+  {
+    "id": "tid-l-11",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "mytologi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Ukedagene på norsk kommer i stor grad fra norrøn mytologi, og denne dagen er oppkalt direkte etter en av de mektigste gudene i Åsgard – kjent for hammeren sin og for å skape torden når han kjørte over himmelen i vognen sin. Hvilken norrøn gud har gitt navn til torsdag?",
+      "sv": "Veckodagarna på svenska härstammar till stor del från nordisk mytologi, och just denna dag är uppkallad direkt efter en av de mäktigaste gudarna i Asgård – känd för sin hammare och för att skapa åska när han körde över himlen i sin vagn. Vilken nordisk gud har gett namn åt torsdag?"
+    },
+    "answer": "Tor",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Guden er sønn av Odin, og hammeren hans kalles Mjølner.",
+      "sv": "Guden är son till Oden, och hans hammare heter Mjölner."
+    },
+    "funFact": {
+      "nb": "Navnet er trolig en direkte oversettelse av det latinske «dies Jovis», Jupiters dag. Romerne knyttet sin tordengud Jupiter til dagen, og germanske folk satte inn sin egen tordengud, Tor, i stedet.",
+      "sv": "Namnet är troligen en direkt översättning av det latinska «dies Jovis», Jupiters dag. Romarna knöt sin åskgud Jupiter till dagen, och germanska folk satte in sin egen åskgud, Tor, i stället."
+    },
+    "source": "Store norske leksikon – «Torsdag»"
+  },
+  {
+    "id": "tid-l-12",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "I svensk arbeidsliv er en fast pause for kaffe og kanelbolle på formiddagen og ettermiddagen så innarbeidet at mange ansettelsesavtaler nevner den eksplisitt, og pausen regnes som en sosial institusjon i seg selv, ikke bare en kopp kaffe. Hva kalles denne svenske pausetradisjonen?",
+      "sv": "I det svenska arbetslivet är en fast paus för kaffe och kanelbulle på förmiddagen och eftermiddagen så inarbetad att många anställningsavtal nämner den uttryckligen, och pausen räknas som en social institution i sig, inte bara en kopp kaffe. Vad kallas denna svenska paustradition?"
+    },
+    "answer": "Fika",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet skal opprinnelig komme fra en omkasting av stavelsene i det svenske ordet for kaffe.",
+      "sv": "Ordet sägs ursprungligen komma från en omkastning av stavelserna i det svenska ordet för kaffe."
+    },
+    "funFact": {
+      "nb": "Skikken har spredt seg langt utenfor Sverige de siste årene, og kafeer inspirert av tradisjonen har åpnet i byer verden over. Mange arbeidsgivere ser pausen som god for både trivsel og produktivitet.",
+      "sv": "Seden har spridit sig långt utanför Sverige de senaste åren, och kaféer inspirerade av traditionen har öppnat i städer världen över. Många arbetsgivare ser pausen som bra för både trivsel och produktivitet."
+    },
+    "source": "Wikipedia – «Fika (Sweden)»"
+  },
+  {
+    "id": "tid-l-13",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Nord for polarsirkelen opplever man om sommeren netter der sola aldri synker under horisonten, og på steder som Tromsø og Longyearbyen kan dette vare i flere måneder sammenhengende. Hva kalles dette naturfenomenet, der klokka i praksis mister sin betydning for lys og mørke?",
+      "sv": "Norr om polcirkeln upplever man sommartid nätter då solen aldrig sjunker under horisonten, och på platser som Tromsø och Longyearbyen kan detta vara i flera månader i sträck. Vad kallas detta naturfenomen, där klockan i praktiken förlorar sin betydelse för ljus och mörker?"
+    },
+    "answer": "Midnattssol",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det motsatte fenomenet om vinteren, med tilsvarende permanent mørke, kalles mørketid.",
+      "sv": "Det motsatta fenomenet på vintern, med motsvarande permanenta mörker, kallas polarnatt eller mörkertid."
+    },
+    "funFact": {
+      "nb": "Fenomenet skyldes jordaksens helning: innenfor polarsirkelen om sommeren kommer sola aldri lavt nok til å gå ned. Atmosfærens lysbrytning gjør at grensen i praksis strekker seg rundt 90 kilometer lenger ut enn selve polarsirkelen.",
+      "sv": "Fenomenet beror på jordaxelns lutning: innanför polcirkeln på sommaren kommer solen aldrig tillräckligt lågt för att gå ner. Atmosfärens ljusbrytning gör att gränsen i praktiken sträcker sig omkring 90 kilometer längre ut än själva polcirkeln."
+    },
+    "source": "Store norske leksikon – «Midnattssol»"
+  },
+  {
+    "id": "tid-l-14",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Den svenske sommerhøytiden markerer sommersolverv og regnes av mange som den nest viktigste høytiden i landet, rett etter jul – med dans rundt en pyntet stang, jordbær, sild og nypoteter. Kvelden faller på en fredag mellom 19. og 25. juni. Hva heter denne kvelden?",
+      "sv": "Den svenska sommarhögtiden infaller vid sommarsolståndet och räknas av många som landets näst viktigaste högtid, direkt efter julen – med dans kring en klädd stång, jordgubbar, sill och färskpotatis. Kvällen infaller en fredag mellan 19 och 25 juni. Vad heter denna afton?"
+    },
+    "answer": "Midsommarafton",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stangen det danses rundt, kalles gjerne midsommarstång, og mange pynter seg med blomsterkranser i håret.",
+      "sv": "Stången man dansar kring kallas midsommarstång, och många bär blomsterkransar i håret."
+    },
+    "funFact": {
+      "nb": "Feiringen står så sentralt i svensk kultur at store deler av landet i praksis tar fri allerede fra ettermiddagen. Skikken med stangen og dansen stammer fra gamle fruktbarhetsriter knyttet til sommersolverv.",
+      "sv": "Firandet står så centralt i svensk kultur att stora delar av landet i praktiken tar ledigt redan från eftermiddagen. Seden med stången och dansen härstammar från gamla fruktbarhetsriter kopplade till sommarsolståndet."
+    },
+    "source": "Wikipedia – «Midsummer»"
+  },
+  {
+    "id": "tid-l-15",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Han regnes som Norges fremste skildrer av bondelivet på 1800-tallet og malte i 1848, sammen med Hans Gude, det nasjonalromantiske praktverket «Brudeferd i Hardanger». Etter studier i København og Düsseldorf viet han store deler av karrieren til norske bygdefolks liv og skikker. Hvilken norsk maler er dette?",
+      "sv": "Han räknas som Norges främsta skildrare av bondelivet på 1800-talet och målade 1848, tillsammans med Hans Gude, det nationalromantiska praktverket «Brudeferd i Hardanger» (Brudfärden i Hardanger). Efter studier i Köpenhamn och Düsseldorf ägnade han stora delar av karriären åt det norska allmogelivet och dess seder. Vilken norsk målare är detta?"
+    },
+    "answer": "Adolph Tidemand",
+    "answerKind": "person",
+    "person": {
+      "given": "Adolph",
+      "family": "Tidemand"
+    },
+    "hint": {
+      "nb": "Etternavnet hans begynner med de tre samme bokstavene som selve temaordet for denne runden, og han samarbeidet også med Hans Gude om malerier av båter på norske vassdrag.",
+      "sv": "Efternamnet hans börjar med samma tre bokstäver som själva temaordet för denna runda, och han samarbetade också med Hans Gude om målningar med båtar på norska vattendrag."
+    },
+    "funFact": {
+      "nb": "Tidemand studerte opprinnelig for å bli historiemaler, men etter reiser i norske bygder på 1840-tallet fant han sitt kall i folkelivsskildringer. Yngre malere kritiserte ham senere for å idealisere bondelivet i stedet for å vise det slik det faktisk var.",
+      "sv": "Tidemand studerade ursprungligen för att bli historiemålare, men efter resor i norska bygder på 1840-talet fann han sin kallelse i folklivsskildringar. Yngre målare kritiserade honom senare för att idealisera bondelivet i stället för att visa det som det faktiskt var."
+    },
+    "source": "Store norske leksikon – «Adolph Tidemand»"
+  },
+  {
+    "id": "tid-l-16",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Natten før 24. juni tennes det tradisjonelt bål mange steder i Norge, en skikk som skal ha røtter i førkristne fruktbarhetsritualer knyttet til årstidsskiftet. Kjente eksempler er bålet på St. Hanshaugen i Oslo og det spektakulære tårnbålet på Slinningsodden i Ålesund. Hva kalles denne kvelden?",
+      "sv": "Natten före den 24 juni tänds traditionellt bål på många håll i Norge, en sed som ska ha rötter i förkristna fruktbarhetsriter knutna till årstidsskiftet. Kända exempel är brasan på St. Hanshaugen i Oslo och det spektakulära tornbålet på Slinningsodden i Ålesund. Vad kallas denna kväll?"
+    },
+    "answer": {
+      "nb": "Sankthansaften",
+      "sv": "Sankthansafton"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kvelden markerer også fødselsdagen til døperen Johannes, og kalles også jonsok.",
+      "sv": "Kvällen markerar också Johannes döparens födelsedag, och kallas på norska även jonsok."
+    },
+    "funFact": {
+      "nb": "Skikken har vært i tilbakegang som offisiell høytid – den ble fjernet som fridag allerede i 1770 – men bål-tradisjonen lever fortsatt sterkt i store deler av landet.",
+      "sv": "Seden har varit på tillbakagång som officiell högtid – den togs bort som ledig dag redan 1770 – men bål-traditionen lever fortfarande starkt i stora delar av landet."
+    },
+    "source": "Store norske leksikon – «Sankthans»"
+  },
+  {
+    "id": "tid-l-17",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Kvelden før 1. mai er oppkalt etter en engelsk-tysk helgen fra 700-tallet, men i Sverige er den i dag mest kjent for bål som markerer overgangen fra vinter til sommer. Ifølge folketroen var dette også natten heksene angivelig samlet seg. Hva heter denne kvelden?",
+      "sv": "Kvällen före 1 maj är uppkallad efter en engelsk-tysk helgon från 700-talet, men i Sverige är den i dag mest känd för brasor som firar övergången från vinter till sommar. Enligt folktron var detta även natten då häxorna sades samlas. Vad heter denna kväll?"
+    },
+    "answer": {
+      "nb": "Valborgsmesseaften",
+      "sv": "Valborgsmässoafton"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Helgenen het Valborg (Walpurga), og navnet på kvelden er dannet av hennes navn pluss ordet for en kirkelig minnedag.",
+      "sv": "Helgonet hette Valborg (Walpurga), och namnet på kvällen är bildat av hennes namn plus ordet för en kyrklig minnesdag (mässa)."
+    },
+    "funFact": {
+      "nb": "Skikken med bål denne kvelden er dokumentert både i Tyskland og i deler av Norden, og henger sammen med gamle forestillinger om at hekser var spesielt aktive akkurat denne natten.",
+      "sv": "Seden med brasor denna kväll är dokumenterad både i Tyskland och i delar av Norden, och hänger samman med gamla föreställningar om att häxor var extra aktiva just denna natt."
+    },
+    "source": "Store norske leksikon – «30. april»; «Valborg – helgen»"
+  },
+  {
+    "id": "tid-l-18",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Datoen for denne tirsdagen regnes ikke etter kalenderen, men bakover fra påske – det er dagen før askeonsdag og starten på fasten, og navnet henger sammen med den gamle skikken å spise fet, næringsrik mat før den lange fasteperioden. I Sverige forbindes dagen særlig med semlor. Hva kalles denne tirsdagen?",
+      "sv": "Datumet för denna tisdag räknas inte efter kalendern, utan bakåt från påsken – det är dagen före askonsdagen och fastans början, och namnet hänger samman med den gamla seden att äta fet, närande mat innan den långa fasteperioden. I Sverige förknippas dagen särskilt med semlor. Vad kallas denna tisdag?"
+    },
+    "answer": {
+      "nb": "Feitetirsdag",
+      "sv": "Fettisdagen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På engelsk heter dagen «Shrove Tuesday» eller «Mardi Gras» (fransk for «fet tirsdag»).",
+      "sv": "På engelska heter dagen «Shrove Tuesday» eller «Mardi Gras» (franska för «fet tisdag»)."
+    },
+    "funFact": {
+      "nb": "Siden datoen beregnes ut fra påsken, som selv følger månekalenderen, kan denne tirsdagen falle hvor som helst fra begynnelsen av februar til begynnelsen av mars.",
+      "sv": "Eftersom datumet beräknas utifrån påsken, som själv följer månkalendern, kan denna tisdag infalla när som helst från början av februari till början av mars."
+    },
+    "source": "Store norske leksikon – «Fetetirsdag»"
+  },
+  {
+    "id": "tid-l-19",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Siden 1947 har en gruppe atomforskere holdt et symbolsk ur der avstanden til midnatt skal vise hvor nær verden er en global katastrofe – jo kortere til midnatt, jo farligere vurderes verdenssituasjonen. I januar 2020 ble viseren flyttet nærmere enn noen gang tidligere, til 1 minutt og 40 sekunder på tolv. Hva kalles dette symbolske uret?",
+      "sv": "Sedan 1947 har en grupp atomforskare hållit ett symboliskt ur där avståndet till midnatt ska visa hur nära världen är en global katastrof – ju kortare tid till midnatt, desto farligare bedöms världsläget. I januari 2020 flyttades visaren närmare än någonsin tidigare, till 1 minut och 40 sekunder i tolv. Vad kallas detta symboliska ur?"
+    },
+    "answer": {
+      "nb": "Dommedagsklokken",
+      "sv": "Domedagsklockan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uret forvaltes av tidsskriftet Bulletin of the Atomic Scientists, grunnlagt av forskere fra Manhattan-prosjektet.",
+      "sv": "Uret förvaltas av tidskriften Bulletin of the Atomic Scientists, grundad av forskare från Manhattanprojektet."
+    },
+    "funFact": {
+      "nb": "Da uret ble lansert i 1947, sto viseren på sju minutter på tolv. Vurderingene har siden endret seg mange ganger og speiler blant annet atomvåpentrusler og klimaendringer, ikke bare én enkelt hendelse.",
+      "sv": "När uret lanserades 1947 stod visaren på sju minuter i tolv. Bedömningarna har sedan dess ändrats många gånger och speglar bland annat kärnvapenhot och klimatförändringar, inte bara en enskild händelse."
+    },
+    "source": "Bulletin of the Atomic Scientists; Wikipedia – «Doomsday Clock»"
+  },
+  {
+    "id": "tid-l-20",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Romfergen Atlantis lander for siste gang og avslutter NASAs romfergeprogram. Sør-Sudan blir egen stat etter folkeavstemning. Et jordskjelv og en tsunami rammer Japan og utløser atomulykken i Fukushima. Apple lanserer iPad 2. Amerikanske styrker dreper al-Qaida-lederen Osama bin Laden i Pakistan. Prins William gifter seg med Kate Middleton i Westminster Abbey. Adele gir ut albumet «21». Den svenske kronprinsessens datter Estelle fødes. Apple-grunnlegger Steve Jobs dør. Hvilket år?",
+      "sv": "Rymdfärjan Atlantis landar för sista gången och avslutar NASA:s rymdfärjeprogram. Sydsudan blir egen stat efter folkomröstning. En jordbävning och en tsunami drabbar Japan och utlöser kärnkraftsolyckan i Fukushima. Apple lanserar iPad 2. Amerikanska styrkor dödar al-Qaidas ledare Usama bin Ladin. Prins William gifter sig med Kate Middleton i Westminster Abbey. Adele ger ut albumet «21». Den svenska kronprinsessans dotter Estelle föds. Apples grundare Steve Jobs dör. Vilket år?"
+    },
+    "answer": "2011",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tiåret er 2010-tallet, og romfergeprogrammet ble avsluttet dette året.",
+      "sv": "Decenniet är 2010-talet, och rymdfärjeprogrammet avslutades detta år."
+    },
+    "funFact": {
+      "nb": "Fukushima-ulykken regnes som den nest alvorligste atomulykken i historien etter Tsjernobyl. Steve Jobs' bortgang kom bare noen uker etter at han hadde trukket seg som Apples toppsjef.",
+      "sv": "Fukushimaolyckan räknas som den näst allvarligaste kärnkraftsolyckan i historien efter Tjernobyl. Steve Jobs bortgång kom bara några veckor efter att han avgått som Apples vd."
+    },
+    "source": "NASA – STS-135; FN – Sør-Sudans uavhengighet; IAEA – Fukushima; Sveriges kungahus; The Royal Family"
+  },
+  {
+    "id": "tid-m-11",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "arkitektur",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Norges tyngste kirkeklokke er støpt i bronse med en diameter på 168 centimeter og en vekt på 2,8 tonn – større enn storklokken i Kongsberg kirke. Den nåværende klokken ble levert av landets eneste gjenværende klokkestøperi i 1964. I hvilken katedral henger denne klokken?",
+      "sv": "Norges tyngsta kyrkklocka är gjuten i brons med en diameter på 168 centimeter och en vikt på 2,8 ton – större än storklockan i Kongsbergs kyrka. Den nuvarande klockan levererades av landets enda kvarvarande klockgjuteri 1964. I vilken katedral hänger denna klocka?"
+    },
+    "answer": "Nidarosdomen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Katedralen ligger i Trondheim og er bygget over graven til Olav den hellige.",
+      "sv": "Katedralen ligger i Trondheim och är byggd över graven till Olav den helige."
+    },
+    "funFact": {
+      "nb": "Klokkestøperiet som leverte klokken, Olsen Nauen i Tønsberg, er Norges eneste gjenværende bedrift i sitt slag og har støpt kirkeklokker siden 1844.",
+      "sv": "Klockgjuteriet som levererade klockan, Olsen Nauen i Tønsberg, är Norges enda kvarvarande företag i sitt slag och har gjutit kyrkklockor sedan 1844."
+    },
+    "source": "Store norske leksikon – «Kirkeklokker»; «Klokkestøperi»"
+  },
+  {
+    "id": "tid-m-12",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Norge praktiserte en ordning med å stille klokka en time fram om våren og tilbake om høsten allerede under første verdenskrig i 1916, avviklet den, gjeninnførte den under okkupasjonen, prøvde den på nytt i årene 1959–1965 under sterk strid, og landet den til slutt permanent fra 1980. Hva kalles denne ordningen?",
+      "sv": "Norge tillämpade redan under första världskriget, 1916, en ordning där klockan ställs fram en timme på våren och tillbaka på hösten, avskaffade den, återinförde den under ockupationen, provade den igen 1959–1965 under stark strid, och landade till slut permanent i ordningen från 1980. Vad kallas denna ordning?"
+    },
+    "answer": {
+      "nb": "Sommertid",
+      "sv": "Sommartid"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordningen henger sammen med et forsøk på å utnytte dagslyset bedre, og EU harmoniserte start- og sluttdatoene fra 1996.",
+      "sv": "Ordningen hänger samman med ett försök att utnyttja dagsljuset bättre, och EU harmoniserade start- och slutdatumen från 1996."
+    },
+    "funFact": {
+      "nb": "Under den tyske okkupasjonen holdt Norge ordningen gående også gjennom vintermånedene i 1940–1942, trolig for å følge samme klokkeslett som Berlin.",
+      "sv": "Under den tyska ockupationen höll Norge ordningen igång även under vintermånaderna 1940–1942, troligen för att följa samma klockslag som Berlin."
+    },
+    "source": "Store norske leksikon – «Sommertid»"
+  },
+  {
+    "id": "tid-m-13",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Løypa til dette svenske langrennsrittet, fra Sälen til Mora, går i motsatt retning av flukten en svensk adelsmann tok på ski i 1520–21, på rømmen fra danske styrker. Løpet har gått av stabelen så godt som hvert år siden 1922 og er blant verdens største skirenn, med over 15 000 deltakere i massestarten. Hvilket løp er dette?",
+      "sv": "Banan för detta svenska längdskidlopp, från Sälen till Mora, går i motsatt riktning mot den flykt en svensk adelsman gjorde på skidor 1520–21, på flykt undan danska styrkor. Loppet har gått av stapeln så gott som varje år sedan 1922 och är ett av världens största skidlopp, med över 15 000 deltagare i masstarten. Vilket lopp är detta?"
+    },
+    "answer": "Vasaloppet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Adelsmannen ble senere Sveriges konge, og har gitt navn til hele løpet.",
+      "sv": "Adelsmannen blev senare Sveriges kung, och har gett namn åt hela loppet."
+    },
+    "funFact": {
+      "nb": "Opprinnelig var løpet kun for menn; kvinner fikk delta fra 1981 og fikk sin egen klasse fra 1997. I 2021 og 2022 ble nye løyperekorder satt av norske skiløpere i både menn- og kvinneklassen.",
+      "sv": "Ursprungligen var loppet enbart för män; kvinnor fick delta från 1981 och fick en egen klass 1997. Under 2021 och 2022 sattes nya banrekord av norska skidåkare i både herr- och damklassen."
+    },
+    "source": "Store norske leksikon – «Vasaloppet»"
+  },
+  {
+    "id": "tid-m-14",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "mytologi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Denne midtukedagen er oppkalt etter den norrøne hovedguden selv, mens engelsk «Wednesday» og nederlandsk «Woensdag» i stedet oversatte det latinske «Merkurs dag». Tysk «Mittwoch» gikk en tredje vei og valgte et helt nøytralt ord for midt i uken. Hvilken norrøn gud har gitt navn til den skandinaviske utgaven av denne dagen?",
+      "sv": "Denna mittveckodag är uppkallad efter den fornnordiska högguden själv, medan engelskans «Wednesday» och nederländskans «Woensdag» i stället översatte det latinska «Merkurius dag». Tyskans «Mittwoch» gick en tredje väg och valde ett helt neutralt ord för mitten av veckan. Vilken fornnordisk gud har gett namn åt den skandinaviska varianten av denna dag?"
+    },
+    "answer": "Odin",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han er kjent som gudenes far i norrøn mytologi, og rir den åttebente hesten Sleipner.",
+      "sv": "Han är känd som gudarnas fader i fornnordisk mytologi, och rider den åttabenta hästen Sleipner."
+    },
+    "funFact": {
+      "nb": "Navnet stammer fra norrønt «Óðinsdagr», Odins dag. At navnet overlevde kristningen i Norden, i motsetning til i Tyskland, er uvanlig blant vestgermanske språk.",
+      "sv": "Namnet härstammar från fornnordiskans «Óðinsdagr», Odens dag. Att namnet överlevde kristnandet i Norden, till skillnad från i Tyskland, är ovanligt bland västgermanska språk."
+    },
+    "source": "Store norske leksikon – «Onsdag»"
+  },
+  {
+    "id": "tid-m-15",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Klokken 04:50 en søndag morgen i september 1967 stanset all trafikk i hele Sverige i ti minutter, før alle kjøretøy klokken 05:00 rullet videre på den andre siden av veien. Rundt 350 000 trafikkskilt måtte byttes ut i forkant, og en folkeavstemning i 1955 hadde vist et solid flertall mot akkurat denne endringen. Hva kalles denne dagen?",
+      "sv": "Klockan 04:50 en söndagsmorgon i september 1967 stannade all trafik i hela Sverige i tio minuter, innan alla fordon klockan 05:00 rullade vidare på andra sidan vägen. Omkring 350 000 vägmärken behövde bytas ut i förväg, och en folkomröstning 1955 hade visat en stadig majoritet mot just denna förändring. Vad kallas denna dag?"
+    },
+    "answer": "Dagen H",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bokstaven H står for «Högertrafik», altså høyretrafikk.",
+      "sv": "Bokstaven H står för «Högertrafik», alltså högertrafik."
+    },
+    "funFact": {
+      "nb": "Endringen kom fordi over 90 prosent av bilene i Sverige allerede var venstrestyrte, mens landet kjørte i venstre kjørefelt – en upraktisk kombinasjon når alle naboland kjørte til høyre.",
+      "sv": "Ändringen kom eftersom över 90 procent av bilarna i Sverige redan var vänsterstyrda, medan landet körde i vänsterkörfält – en opraktisk kombination när alla grannländer körde till höger."
+    },
+    "source": "Wikipedia – «Dagen H»"
+  },
+  {
+    "id": "tid-m-16",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Sporet åpner med en kakofoni av tikkende klokker og ringende vekkerklokker, lyder som ble spilt inn separat i en antikvitetsbutikk. Låten er det fjerde sporet på et britisk rockealbum fra 1973 og handler om hvor fort livet glir forbi mens man venter på at noe skal skje. Hvilken sang er dette?",
+      "sv": "Spåret inleds med en kakofoni av tickande klockor och ringande väckarklockor, ljud som spelades in separat i en antikvitetsaffär. Låten är det fjärde spåret på ett brittiskt rockalbum från 1973 och handlar om hur snabbt livet glider förbi medan man väntar på att något ska hända. Vilken låt är detta?"
+    },
+    "answer": "Time",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Albumet er «The Dark Side of the Moon», og trommeslager Nick Mason har et eget trommesolo med rototomer i denne låten.",
+      "sv": "Albumet är «The Dark Side of the Moon», och trummisen Nick Mason har ett eget trumsolo med rototomtrummor i denna låt."
+    },
+    "funFact": {
+      "nb": "Tekstforfatter Roger Waters skal ha fått ideen etter å ha innsett, i slutten av tjueårene, at han ikke lenger forberedte seg på livet, men var midt oppe i det.",
+      "sv": "Textförfattaren Roger Waters ska ha fått idén efter att ha insett, i slutet av tjugoårsåldern, att han inte längre förberedde sig för livet, utan befann sig mitt i det."
+    },
+    "source": "Wikipedia – «Time (Pink Floyd song)»"
+  },
+  {
+    "id": "tid-m-17",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Denne norske juristen og Venstre-politikeren satt i regjeringen i over 40 år, var statsminister to ganger (1902–1903 og 1921–1923), og opptrådte som aktor i riksrettssaken mot statsråd Selmer i 1884. Som stortingsrepresentant sto han også bak forslaget som endelig ga Norge én felles klokke i 1895. Hvem var han?",
+      "sv": "Denna norska juristen och Venstre-politikern satt i regeringen i över 40 år, var statsminister två gånger (1902–1903 och 1921–1923), och agerade åklagare i riksrättsmålet mot statsrådet Selmer 1884. Som riksdagsledamot låg han också bakom förslaget som slutligen gav Norge en gemensam klocka 1895. Vem var han?"
+    },
+    "answer": "Otto Blehr",
+    "answerKind": "person",
+    "person": {
+      "given": "Otto",
+      "family": "Blehr"
+    },
+    "hint": {
+      "nb": "Han støttet også Norges løsrivelse fra Sverige i 1905, og satt som stiftamtmann i Kristiania i årene etterpå.",
+      "sv": "Han stödde också Norges upplösning av unionen med Sverige 1905, och satt som stiftamtman i Kristiania åren därefter."
+    },
+    "funFact": {
+      "nb": "Forslagene om en felles norsk tidssone hadde blitt avvist enstemmig i Stortinget så sent som i 1887. Bare åtte år senere gikk Blehrs forslag om GMT+1 gjennom med nesten ingen motstand.",
+      "sv": "Förslagen om en gemensam norsk tidszon hade avvisats enhälligt i Stortinget så sent som 1887. Bara åtta år senare gick Blehrs förslag om GMT+1 igenom med nästan inget motstånd."
+    },
+    "source": "Store norske leksikon – «Otto Blehr»; «Normaltid»"
+  },
+  {
+    "id": "tid-m-18",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "politikk",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Fra rundt 1990 begynte et sammensatt norsk ord å dukke opp i familiepolitisk debatt, og partiet Arbeiderpartiet brukte det allerede i partiprogrammet sitt i 1992 for å beskrive presset småbarnsforeldre kjenner mellom jobb og hjemmeliv. Den amerikanske sosiologen Arlie Russell Hochschilds bok fra 1997 fikk nettopp dette ordet som norsk tittel. Hvilket ord er dette?",
+      "sv": "Från omkring 1990 började ett sammansatt norskt ord dyka upp i familjepolitisk debatt, och partiet Arbeiderpartiet använde det redan i sitt partiprogram 1992 för att beskriva pressen småbarnsföräldrar känner mellan jobb och hemliv. Den amerikanska sociologen Arlie Russell Hochschilds bok från 1997 fick just detta ord som norsk titel. Vilket ord är detta?"
+    },
+    "answer": {
+      "nb": "Tidsklemma",
+      "sv": "Tidsklämma"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er en sammensetning av «tid» og et ord for å bli presset fra flere kanter samtidig.",
+      "sv": "Ordet är en sammansättning av «tid» och ett ord för att bli pressad från flera håll samtidigt."
+    },
+    "funFact": {
+      "nb": "Debatten om presset mellom arbeidsliv og familieliv har siden den gang vært et tilbakevendende tema i norsk likestillings- og familiepolitikk.",
+      "sv": "Debatten om pressen mellan arbetsliv och familjeliv har sedan dess varit ett återkommande tema i norsk jämställdhets- och familjepolitik."
+    },
+    "source": "Store norske leksikon – «Tidsklemme»"
+  },
+  {
+    "id": "tid-m-19",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "I denne svenske gruppens siste single før den lange pausen på 1980-tallet skildrer fortelleren, punkt for punkt, en helt ordinær dag – bussen, jobben, tv-kvelden – slik hun tror den må ha vært dagen før hun møtte en mann som skulle forandre alt. Hvilken sang fra 1982 er dette?",
+      "sv": "I denna svenska grupps sista singel innan den långa pausen på 1980-talet skildrar berättaren, punkt för punkt, en helt vanlig dag – bussen, jobbet, tv-kvällen – som hon tror att den måste ha varit dagen innan hon träffade en man som skulle förändra allt. Vilken låt från 1982 är detta?"
+    },
+    "answer": "The Day Before You Came",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Gruppen er de samme fire som sto bak «Waterloo» og «Dancing Queen», og dette ble deres siste single før den lange pausen som fulgte.",
+      "sv": "Gruppen är samma fyra som låg bakom «Waterloo» och «Dancing Queen», och detta blev deras sista singel före den långa paus som följde."
+    },
+    "funFact": {
+      "nb": "Låten er uvanlig for gruppen ved at den nesten utelukkende består av vers uten refreng, og fortelleren bruker gjennomgående usikre formuleringer som «jeg må ha» og «jeg er ganske sikker på» om sin egen hverdag.",
+      "sv": "Låten är ovanlig för gruppen genom att den nästan uteslutande består av verser utan refräng, och berättaren använder genomgående osäkra formuleringar som «jag måste ha» och «jag är ganska säker på» om sin egen vardag."
+    },
+    "source": "Wikipedia – «The Day Before You Came»"
+  },
+  {
+    "id": "tid-m-20",
+    "category": "tid",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Et bibelsk visdomsskrift slår i sitt tredje kapittel fast at alt har sin tid – å plante og å høste, å le og å gråte. Nesten ordrett ble denne teksten i 1965 en nummer én-hit på Billboard Hot 100, fremført av en amerikansk folkrock-gruppe. Hvilket bibelsk skrift er dette hentet fra?",
+      "sv": "En biblisk vishetsskrift slår i sitt tredje kapitel fast att allt har sin tid – att plantera och att skörda, att skratta och att gråta. Nästan ordagrant blev denna text 1965 en förstaplacering på Billboard Hot 100, framförd av en amerikansk folkrockgrupp. Vilken biblisk skrift är detta hämtat från?"
+    },
+    "answer": {
+      "nb": "Forkynneren",
+      "sv": "Predikaren"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Gruppen var The Byrds, og sangen heter «Turn! Turn! Turn!», opprinnelig skrevet av Pete Seeger.",
+      "sv": "Gruppen var The Byrds, och låten heter «Turn! Turn! Turn!», ursprungligen skriven av Pete Seeger."
+    },
+    "funFact": {
+      "nb": "Skriftet tilhører Det gamle testamentets visdomslitteratur og er på hebraisk kjent som Kohelet. Sangteksten følger de første åtte versene i kapittel 3 nesten ord for ord.",
+      "sv": "Skriften tillhör Gamla testamentets vishetslitteratur och är på hebreiska känd som Kohelet. Sångtexten följer de första åtta verserna i kapitel 3 nästan ord för ord."
+    },
+    "source": "Britannica; Wikipedia – «Ecclesiastes»; «Turn! Turn! Turn!»"
+  },
+  {
+    "id": "tid-v-11",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Norges eneste gjenværende klokkestøperi, grunnlagt i Tønsberg i 1844, har levert storklokken til Oslo domkirke i 1859 og en ny klokke til Nidarosdomen i 1964. I 1909 støpte de også en tro kopi av et amerikansk symbol, som i dag henger ved Akershus festning. Hvilket amerikansk klokkesymbol er dette en kopi av?",
+      "sv": "Norges enda kvarvarande klockgjuteri, grundat i Tønsberg 1844, har levererat storklockan till Oslo domkyrka 1859 och en ny klocka till Nidarosdomen 1964. År 1909 göt de även en trogen kopia av en amerikansk symbol, som i dag hänger vid Akershus fästning. Vilken amerikansk klocksymbol är detta en kopia av?"
+    },
+    "answer": {
+      "nb": "Frihetsklokken",
+      "sv": "Frihetsklockan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Originalen henger i Philadelphia og er et symbol på USAs uavhengighet – den har også en kjent sprekk i bronsen.",
+      "sv": "Originalet hänger i Philadelphia och är en symbol för USA:s självständighet – det har även en känd spricka i bronsen."
+    },
+    "funFact": {
+      "nb": "Klokkestøperiet heter Olsen Nauen og er oppkalt etter grunnleggerfamilien. Bedriften er fortsatt i drift og er den eneste av sitt slag i Norge i dag.",
+      "sv": "Klockgjuteriet heter Olsen Nauen och är uppkallat efter grundarfamiljen. Företaget är fortfarande i drift och är det enda av sitt slag i Norge i dag."
+    },
+    "source": "Store norske leksikon – «Klokkestøperi»"
+  },
+  {
+    "id": "tid-v-12",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "I denne svenske filmen fra 1957 kjører en aldrende professor gjennom Sverige for å motta et æresdoktorat, mens drømme- og minnesekvenser stadig bryter inn og tvinger ham til å konfrontere sitt eget liv og sin nærmende død. Filmen regnes som et av regissørens største mesterverk. Hvilken film er dette?",
+      "sv": "I denna svenska film från 1957 kör en åldrande professor genom Sverige för att motta ett hedersdoktorat, medan dröm- och minnessekvenser ständigt bryter in och tvingar honom att konfrontera sitt eget liv och sin annalkande död. Filmen räknas som ett av regissörens största mästerverk. Vilken film är detta?"
+    },
+    "answer": "Smultronstället",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Regissøren er Ingmar Bergman, og filmens engelske tittel oversettes som «ville jordbær».",
+      "sv": "Regissören är Ingmar Bergman, och filmens engelska titel är «Wild Strawberries»."
+    },
+    "funFact": {
+      "nb": "Deler av drømmesekvensene ble filmet i morgengry i Gamla stan i Stockholm for å få et riktig uvirkelig lys.",
+      "sv": "Delar av drömsekvenserna filmades i gryningen i Gamla stan i Stockholm för att få ett riktigt overkligt ljus."
+    },
+    "source": "Wikipedia – «Wild Strawberries (film)»"
+  },
+  {
+    "id": "tid-v-13",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Denne årlige utgivelsen, beregnet av Universitetet i Oslos institutt for teoretisk astrofysikk, kom første gang ut i 1643 og regnes som Norges aller første trykte bok. Fram til 1804 dominerte danske utgaver det norske markedet, med ett unntak i 1678. Hva heter denne publikasjonen?",
+      "sv": "Denna årliga utgivning, beräknad av Oslo universitets institution för teoretisk astrofysik, kom ut första gången 1643 och räknas som Norges allra första tryckta bok. Fram till 1804 dominerade danska utgåvor den norska marknaden, med ett undantag 1678. Vad heter denna publikation?"
+    },
+    "answer": "Almanakk for Norge",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Boken var, sammen med Bibelen og salmeboken, en av de mest utbredte bøkene i Norge i tidligere århundrer.",
+      "sv": "Boken var, tillsammans med Bibeln och psalmboken, en av de mest spridda böckerna i Norge under tidigare århundraden."
+    },
+    "funFact": {
+      "nb": "En nynorsk utgave har vært tilgjengelig siden 1912, og Universitetet i Oslo hadde enerett på utgivelsen helt fram til 1987.",
+      "sv": "En nynorsk utgåva har funnits tillgänglig sedan 1912, och Oslo universitet hade ensamrätt på utgivningen ända fram till 1987."
+    },
+    "source": "Store norske leksikon – «Almanakk»"
+  },
+  {
+    "id": "tid-v-14",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "sprak",
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Mens de fleste ukedager på norsk stammer fra norrøne gudenavn, skiller denne dagen seg fullstendig ut: det norrøne opphavet, «laugardagr», har ingenting med guder å gjøre, men henger sammen med en helt annen, langt mer hverdagslig aktivitet knyttet til renslighet. Hva betyr egentlig navnet på denne ukedagen opprinnelig?",
+      "sv": "Medan de flesta veckodagarna på svenska härstammar från fornnordiska gudanamn, sticker denna dag helt ut: det fornnordiska ursprunget, «laugardagr», har inget med gudar att göra, utan hänger samman med en helt annan, betydligt mer vardaglig aktivitet kopplad till renlighet. Vad betyder egentligen namnet på denna veckodag ursprungligen?"
+    },
+    "answer": {
+      "nb": "Vaskedag",
+      "sv": "Tvättdag"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet «laug» betyr bad eller vaskevann, og skikken skal ifølge en teori henge sammen med kirkelige renselsesskikker i middelalderen.",
+      "sv": "Ordet «laug» betyder bad eller tvättvatten, och seden ska enligt en teori hänga samman med kyrkliga reningsseder under medeltiden."
+    },
+    "funFact": {
+      "nb": "Språkforskeren Didrik Arup Seip mente navnet ikke bare handlet om å vaske seg etter endt arbeidsuke, men om religiøst motiverte renselsesritualer.",
+      "sv": "Språkforskaren Didrik Arup Seip menade att namnet inte bara handlade om att tvätta sig efter avslutad arbetsvecka, utan om religiöst motiverade reningsritualer."
+    },
+    "source": "Store norske leksikon – «Lørdag»"
+  },
+  {
+    "id": "tid-v-15",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "tv",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Hvert nyttårsaften siden 1897 har et dikt av den engelske poeten Alfred Tennyson blitt resitert på friluftsmuseet Skansen i Stockholm, i svensk oversettelse av Edvard Fredin. Fra 1977 har SVT sendt opplesningen direkte, og tradisjonen har overlevd generasjoner av skuespillere. Hva heter denne svenske nyttårstradisjonen?",
+      "sv": "Varje nyårsafton sedan 1897 har en dikt av den engelske poeten Alfred Tennyson recitertats på friluftsmuseet Skansen i Stockholm, i svensk översättning av Edvard Fredin. Sedan 1977 har SVT sänt uppläsningen direkt, och traditionen har överlevt generationer av skådespelare. Vad heter denna svenska nyårstradition?"
+    },
+    "answer": "Nyårsklockan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tennysons originaldikt heter «Ring Out, Wild Bells», og handler om klokker som ringer ut det gamle året.",
+      "sv": "Tennysons originaldikt heter «Ring Out, Wild Bells», och handlar om klockor som ringer ut det gamla året."
+    },
+    "funFact": {
+      "nb": "Den første til å fremføre diktet var skuespilleren Anders de Wahl i 1897, en tradisjon han holdt i live helt til sin død i 1956. Selv bilprodusenten Volvo har referert til diktet i en nyttårsreklame i 2016.",
+      "sv": "Den förste att framföra dikten var skådespelaren Anders de Wahl 1897, en tradition han höll vid liv ända till sin död 1956. Till och med biltillverkaren Volvo har refererat till dikten i en nyårsreklam 2016."
+    },
+    "source": "Wikipedia – «Ring Out, Wild Bells»"
+  },
+  {
+    "id": "tid-v-16",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "okonomi",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Etter flere tiår med fagforeningskamp – der arbeidsuken i svensk industri hadde krympet fra 64 timer i 1885 til 55 timer i 1919 – vedtok Sverige i august 1919 en lov som skulle tre i kraft nyttårsdag 1920. Loven ga navn til selve reformen, oppkalt etter et bestemt antall timer per arbeidsdag. Hva kalles denne reformen?",
+      "sv": "Efter flera decennier av fackföreningskamp – där arbetsveckan inom svensk industri hade krympt från 64 timmar 1885 till 55 timmar 1919 – antog Sverige i augusti 1919 en lag som skulle träda i kraft nyårsdagen 1920. Lagen gav namn åt själva reformen, uppkallad efter ett bestämt antal timmar per arbetsdag. Vad kallas denna reform?"
+    },
+    "answer": {
+      "nb": "Åttetimersdagen",
+      "sv": "Åttatimmarsdagen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tallet i navnet er det samme som antall timer i en vanlig arbeidsdag i store deler av verden i dag.",
+      "sv": "Talet i namnet är detsamma som antalet timmar i en vanlig arbetsdag i stora delar av världen i dag."
+    },
+    "funFact": {
+      "nb": "Danmark innførte en tilsvarende lov bare ni måneder tidligere, i mai 1919, mens Finland hadde vedtatt sin utgave allerede i 1917 etter en generalstreik.",
+      "sv": "Danmark införde en motsvarande lag bara nio månader tidigare, i maj 1919, medan Finland hade antagit sin variant redan 1917 efter en generalstrejk."
+    },
+    "source": "Wikipedia – «Eight-hour day»"
+  },
+  {
+    "id": "tid-v-17",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "religion",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Ifølge gammel norsk folketro var natten før 13. desember den lengste og mørkeste i året – ifølge den julianske kalenderen falt vintersolvervet nettopp på denne datoen. Natten er oppkalt etter en fryktet kvinneskikkelse, Lussi, som skal ha jaget rundt og straffet dem som ikke var ferdige med juleforberedelsene. Hva kalles denne natten?",
+      "sv": "Enligt gammal norsk folktro var natten före den 13 december den längsta och mörkaste på året – enligt den julianska kalendern inföll vintersolståndet just detta datum. Natten är uppkallad efter en fruktad kvinnogestalt, Lussi, som ska ha jagat runt och straffat dem som inte var klara med julförberedelserna. Vad kallas denna natt?"
+    },
+    "answer": "Lussinatten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Datoen er den samme som i dag feires som luciadagen, men den folkelige skikkelsen Lussi er en helt annen figur enn den hvitkledde Lucia.",
+      "sv": "Datumet är detsamma som i dag firas som luciadagen, men den folkliga gestalten Lussi är en helt annan figur än den vitklädda Lucia."
+    },
+    "funFact": {
+      "nb": "Den moderne, høytidelige luciafeiringen med hvitkledde jenter og lys oppsto først på 1900-tallet, lenge etter at forestillingene om Lussi og hennes fryktede natt hadde oppstått.",
+      "sv": "Det moderna, högtidliga luciafirandet med vitklädda flickor och ljus uppstod först på 1900-talet, långt efter att föreställningarna om Lussi och hennes fruktade natt hade uppstått."
+    },
+    "source": "Store norske leksikon – «Luciadagen»"
+  },
+  {
+    "id": "tid-v-18",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Sveriges nasjonale institutt for mål og vekt drifter i dag landets offisielle tidsstandard, distribuert via satellitt og internett, og tilbyr også en egen taleklokketjeneste på telefon. Instituttet har det konstitusjonelle ansvaret for alle SI-enheter i landet, tid inkludert. Hvilket institutt er dette?",
+      "sv": "Sveriges nationella institut för mått och vikt driver i dag landets officiella tidsstandard, som distribueras via satellit och internet, och erbjuder även en egen taltjänst för klockslag på telefon. Institutet har det konstitutionella ansvaret för alla SI-enheter i landet, tid inkluderat. Vilket institut är detta?"
+    },
+    "answer": "RISE",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortelsen står for Research Institutes of Sweden, og instituttet er dermed den svenske motparten til det norske Justervesenet.",
+      "sv": "Förkortningen står för Research Institutes of Sweden, och institutet är därmed den svenska motsvarigheten till norska Justervesenet."
+    },
+    "funFact": {
+      "nb": "Blant tjenestene instituttet tilbyr, er også selveste Fröken Ur – den talende klokken svensker har kunnet ringe siden 1934.",
+      "sv": "Bland tjänsterna institutet erbjuder finns också själva Fröken Ur – den talande klockan svenskar har kunnat ringa sedan 1934."
+    },
+    "source": "RISE – «Time and Frequency»"
+  },
+  {
+    "id": "tid-v-19",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I 1676 la en dansk astronom fram en observasjon fra Paris-observatoriet: tiden mellom formørkelsene til Jupiters måne Io så ut til å variere med jordas avstand til Jupiter. Løsningen hans var revolusjonerende – lyset måtte bruke tid på å bevege seg gjennom rommet, ikke være øyeblikkelig. Hvem var astronomen bak denne første målingen av lysets hastighet?",
+      "sv": "År 1676 lade en dansk astronom fram en observation från Parisobservatoriet: tiden mellan förmörkelserna av Jupiters måne Io tycktes variera med jordens avstånd till Jupiter. Hans lösning var revolutionerande – ljuset måste ta tid på sig för att röra sig genom rymden, inte vara ögonblickligt. Vem var astronomen bakom denna första mätning av ljusets hastighet?"
+    },
+    "answer": "Ole Rømer",
+    "answerKind": "person",
+    "person": {
+      "given": "Ole",
+      "family": "Rømer"
+    },
+    "hint": {
+      "nb": "Han arbeidet sammen med den italiensk-franske astronomen Giovanni Cassini, og anslo at lyset brukte 10–11 minutter på avstanden som tilsvarer jordas baneradius.",
+      "sv": "Han arbetade tillsammans med den italiensk-franska astronomen Giovanni Cassini, och uppskattade att ljuset tog 10–11 minuter för avståndet som motsvarar jordens banradie."
+    },
+    "funFact": {
+      "nb": "Rømers anslag for lyshastigheten var lavere enn dagens aksepterte verdi, men han var den første som viste empirisk at lys faktisk bruker tid på å bevege seg, snarere enn å være momentant.",
+      "sv": "Rømers uppskattning av ljushastigheten var lägre än dagens accepterade värde, men han var den förste som visade empiriskt att ljus faktiskt tar tid på sig att röra sig, snarare än att vara momentant."
+    },
+    "source": "Wikipedia – «Ole Rømer»"
+  },
+  {
+    "id": "tid-v-20",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "religion",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I bok elleve av sitt selvbiografiske hovedverk fra rundt år 400 grublet en kirkefader fra Nord-Afrika over selve tidens natur, og konkluderte at fortid og fremtid egentlig bare finnes i sinnet – som henholdsvis minne og forventning. Hans tanker om tid har senere inspirert filosofer som Edmund Husserl og Ludwig Wittgenstein. Hvem var kirkefaderen?",
+      "sv": "I bok elva av sitt självbiografiska huvudverk från omkring år 400 grubblade en kyrkofader från Nordafrika över själva tidens natur, och drog slutsatsen att det förflutna och framtiden egentligen bara finns i sinnet – som minne respektive förväntan. Hans tankar om tid har senare inspirerat filosofer som Edmund Husserl och Ludwig Wittgenstein. Vem var kyrkofadern?"
+    },
+    "answer": {
+      "nb": "Augustin",
+      "sv": "Augustinus"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Verket heter «Bekjennelser», og forfatteren ble senere biskop av Hippo i dagens Algerie.",
+      "sv": "Verket heter «Bekännelser», och författaren blev senare biskop av Hippo i dagens Algeriet."
+    },
+    "funFact": {
+      "nb": "Utover minne og forventning regnet han også med en tredje «tid», nåtiden av det nåværende, altså ren oppmerksomhet mot det som skjer akkurat nå.",
+      "sv": "Utöver minne och förväntan räknade han också med en tredje «tid», nuet av det närvarande, alltså ren uppmärksamhet på det som händer just nu."
+    },
+    "source": "Wikipedia – «Confessions (Augustine)»"
+  }
+]

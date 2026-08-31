@@ -46,10 +46,12 @@ Workeren serverer både API-et og frontend-bygget fra samme domene, så det er �
   farger. Ingen bildefiler, alt er vektorgrafikk.
 * **Vanskelighetsgrad** – `lett`, `medium`, `vanskelig`. Hvert tema har ti
   spørsmål på hvert nivå.
-* **Utgangspunkt** – norsk, svensk eller internasjonalt. Dette er en *vekting*,
-  ikke et filter: velger du norsk får du flest norske referanser, men fortsatt
-  svenske og internasjonale spørsmål. Norsk og internasjonalt spilles på norsk,
-  svensk spilles på svenska.
+* **Utgangspunkt** – norsk, svensk eller internasjonalt. Dette er *kvoter*, ikke
+  et filter: velger du norsk blir fem av ti spørsmål norskforankrede, to
+  svenske og tre internasjonale. Norsk og internasjonalt spilles på norsk,
+  svensk spilles på svenska. En norsk og en svensk runde av samme tema og nivå
+  deler i snitt fire og en halv av ti spørsmål – mål det med
+  `npm run content:regions`.
 * **Hint** – ett tekstlig hint per spørsmål, og ett bokstavhint. Er svaret en
   person, kan du velge om du vil ha første bokstav i fornavn eller etternavn;
   ellers får du første bokstav i svaret. Bokstavhintet viser også ordlengden.
@@ -99,12 +101,13 @@ spilt en stund, følger historikken på enheten med.
 
 ## Spørsmålsbanken
 
-600 spørsmål: 20 temaer × 3 nivåer × 10 spørsmål. Én JSON-fil per tema under
+1380 spørsmål: 23 temaer × 3 nivåer × 20 spørsmål. Hver runde trekker ti fra puljen. Én JSON-fil per tema under
 `content/questions/`.
 
 ```bash
 npm run content:status      # hva finnes, hva mangler
 npm run content:validate    # struktur, id-er, tags, duplikater, begge språk
+npm run content:regions     # hva regionvalget faktisk gjør med sammensetningen
 ```
 
 `content/SPEC.md` er kontrakten for hvordan et spørsmål skrives, og

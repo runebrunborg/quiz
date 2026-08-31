@@ -181,11 +181,13 @@ for (const file of files) {
       } else {
         seenAnswers.set(key, q.id)
       }
-      // Svaret skal ikke stå i klartekst i spørsmålet.
+      // Svaret skal ikke stå i klartekst i spørsmålet – på noen av språkene.
       if (isL10n(q?.prompt)) {
-        const answerNb = text(q.answer, 'nb').toLowerCase()
-        if (answerNb.length > 3 && text(q.prompt, 'nb').toLowerCase().includes(answerNb)) {
-          errors.push(`${where}: svaret står i spørsmålsteksten`)
+        for (const lang of ['nb', 'sv']) {
+          const answer = text(q.answer, lang).toLowerCase()
+          if (answer.length > 3 && text(q.prompt, lang).toLowerCase().includes(answer)) {
+            errors.push(`${where}: svaret står i ${lang}-spørsmålsteksten`)
+          }
         }
       }
 

@@ -133,3 +133,33 @@ Saab, Zlatan, Greta Garbo, Carl von Linné, Alfred Nobel, Stockholms slott,
 Gustav Vasa, Dalahästen, Midsommar, Lucia, Pippi, Emil i Lönneberga, Björn Borg,
 Sveriges kungahus, Skansen, Vasaskipet. Sjekk kilden *før* du bestemmer deg for
 spørsmålet, ikke etter.
+
+---
+
+## Hvordan regionvalget virker i praksis
+
+Sammensetningen av en runde er **kvoter**, ikke vekter, og ligger i `QUOTAS` i
+`src/lib/content.ts`:
+
+| Valgt utgangspunkt | norske | svenske | internasjonale |
+|---|---|---|---|
+| Norsk | 5 | 2 | 3 |
+| Svensk | 2 | 5 | 3 |
+| Internasjonalt | 2 | 2 | 6 |
+
+Rene vekter ble prøvd først og var for svake: med tjue spørsmål i puljen og ti i
+en runde delte den norske og den svenske runden åtte av ti spørsmål. Med kvoter
+og et regionavhengig trekningsfrø deler de rundt fire og en halv, og
+herkomstfordelingen treffer tabellen over.
+
+Kjør `npm run content:regions` for å måle det etter at du har fylt på banken.
+Derfor betyr regionmiksen i påfyllet noe: mangler et tema svenske spørsmål, blir
+plassene fylt fra de andre gruppene, og svensk utgangspunkt mister sin karakter.
+
+## Tone i årstallspørsmål
+
+Hendelseslisten i et årstallspørsmål skal kunne leses høyt i et lystig lag.
+Naturkatastrofer og kriger kan stå der som nøktern historie når året krever det,
+men nasjonale traumer skal ikke brukes som lette poeng – 22. juli hører ikke
+hjemme mellom en iPad-lansering og et Adele-album. Velg en annen hendelse fra
+samme år.

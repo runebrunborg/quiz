@@ -1,0 +1,662 @@
+[
+  {
+    "id": "broer-l-11",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["medisin"],
+    "prompt": {
+      "nb": "Har du mistet én eller flere tenner på rad, kan tannlegen lage en fast erstatning som festes til de naturlige nabotennene og dekker tomrommet mellom dem – i motsetning til en løs protese tas den ikke ut om natten. Hva kalles denne tannerstatningen?",
+      "sv": "Har du förlorat en eller flera tänder i rad kan tandläkaren göra en fast ersättning som fästs vid de naturliga granntänderna och täcker det tomma utrymmet mellan dem – till skillnad från en lös protes tas den inte ut på natten. Vad kallas denna tandersättning?"
+    },
+    "answer": { "nb": "Tannbro", "sv": "Tandbro" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den sementeres fast til «pilartenner» på hver side av hullet, og et tannimplantat kan også brukes som pilar.",
+      "sv": "Den cementeras fast vid «pilartänder» på var sida om hålet, och ett tandimplantat kan också användas som pelare."
+    },
+    "funFact": {
+      "nb": "Ordet beskriver løsningen presist: den «bygger bro» over tomrommet der tenner mangler, med en fast konstruksjon i stedet for en avtagbar protese.",
+      "sv": "Ordet beskriver lösningen precist: den «bygger bro» över det tomrum där tänder saknas, med en fast konstruktion i stället för en avtagbar protes."
+    },
+    "source": "Store medisinske leksikon – tannbro/broprotese"
+  },
+  {
+    "id": "broer-l-12",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["geografi", "arkitektur"],
+    "prompt": {
+      "nb": "Denne buebroen i Australia sto ferdig i 1932 og har fått kallenavnet «The Coathanger» på grunn av fasongen. Under åpningsseremonien red en mann uventet frem til fots og kappet snoren med sabelen sin før ordføreren rakk å gjøre det offisielt. Hvilken bro er dette?",
+      "sv": "Denna bågbro i Australien stod klar 1932 och har fått smeknamnet «The Coathanger» på grund av formen. Under invigningsceremonin red en man oväntat fram till fots och skar av bandet med sin sabel innan borgmästaren hann göra det officiellt. Vilken bro är detta?"
+    },
+    "answer": { "nb": "Sydney Harbour-broen", "sv": "Sydney Harbour-bron" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen forbinder Sydneys sentrum med nordsiden av havnebukta og bærer både biler, tog, sykler og fotgjengere.",
+      "sv": "Bron förbinder centrala Sydney med norra sidan av hamnviken och bär både bilar, tåg, cyklister och fotgängare."
+    },
+    "funFact": {
+      "nb": "Mannen med sabelen het Francis de Groot og tilhørte en høyreradikal gruppe som mente en kongelig, ikke en politiker, burde få æren av å åpne broen. Han ble arrestert, men snoren måtte klippes på nytt.",
+      "sv": "Mannen med sabeln hette Francis de Groot och tillhörde en högerradikal grupp som ansåg att en kunglig person, inte en politiker, borde få äran av att öppna bron. Han greps, men bandet fick klippas på nytt."
+    },
+    "source": "Wikipedia – Sydney Harbour Bridge"
+  },
+  {
+    "id": "broer-l-13",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["musikk", "historie"],
+    "prompt": {
+      "nb": "I denne norske sangleken danner to barn en bue med armene mens de andre går i tog under og synger, før broen plutselig «faller ned» og fanger en av dem. Melodien bygger på en italiensk dans fra 1500-tallet, og lignende leker finnes i mange land. Hva heter leken?",
+      "sv": "I denna norska sångleken bildar två barn en båge med armarna medan de andra går i tåg under och sjunger, innan bron plötsligt «faller ner» och fångar en av dem. Melodin bygger på en italiensk dans från 1500-talet, och liknande lekar finns i många länder. Vad heter leken?"
+    },
+    "answer": "Bro, bro brille",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tittelen gjentar selve ankerordet i denne quizen to ganger etter hverandre.",
+      "sv": "Titeln upprepar själva ankarordet i den här frågesporten två gånger i rad."
+    },
+    "funFact": {
+      "nb": "Den engelske søsterversjonen er «London Bridge Is Falling Down», den tyske heter «Fallende Brücke», og i Sør-Korea finnes en beslektet lek kalt «Dong dong dongdaemun».",
+      "sv": "Den engelska systervarianten är «London Bridge Is Falling Down», den tyska heter «Fallende Brücke», och i Sydkorea finns en besläktad lek som kallas «Dong dong dongdaemun»."
+    },
+    "source": "Store norske leksikon – Bro, bro brille"
+  },
+  {
+    "id": "broer-l-14",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["musikk", "historie"],
+    "prompt": {
+      "nb": "Den svenske utgaven av den samme gamle sangleken har nesten identisk melodi og regler som den norske, men et litt annet siste ord i tittelen. To barn former en portal med armene, og et av barna som går under, blir til slutt fanget. Hva heter den svenske versjonen?",
+      "sv": "Den svenska varianten av samma gamla sånglek har nästan identisk melodi och regler som den norska, men ett lite annat sista ord i titeln. Två barn bildar en portal med armarna, och ett av barnen som går under fångas till slut. Vad heter den svenska versionen?"
+    },
+    "answer": "Bro, bro breja",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Også her gjentas ankerordet vårt to ganger på rad, akkurat som i den norske tittelen.",
+      "sv": "Även här upprepas vårt ankarord två gånger i rad, precis som i den norska titeln."
+    },
+    "funFact": {
+      "nb": "Melodien i disse sangleikene stammer fra bergamaskaen, en livlig italiensk folkedans som ble kjent i Europa på 1700-tallet, selv om selve melodien er dokumentert allerede på 1500-tallet.",
+      "sv": "Melodin i dessa sånglekar härstammar från bergamaskan, en livlig italiensk folkdans som blev känd i Europa på 1700-talet, även om själva melodin är belagd redan på 1500-talet."
+    },
+    "source": "Store norske leksikon – Bro, bro brille"
+  },
+  {
+    "id": "broer-l-15",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["geografi", "arkitektur"],
+    "prompt": {
+      "nb": "Denne broen over Tromsøysundet sto ferdig i 1960 og var da den lengste broen i Nord-Europa. Sammen med Ishavskatedralen og fjellet Tromsdalstinden i bakgrunnen danner den et av Nord-Norges mest fotograferte utsiktsmotiv. Hvilken bro er dette?",
+      "sv": "Denna bro över Tromsøsundet stod klar 1960 och var då den längsta bron i Nordeuropa. Tillsammans med Ishavskatedralen och berget Tromsdalstinden i bakgrunden bildar den ett av Nordnorges mest fotograferade utsiktsmotiv. Vilken bro är detta?"
+    },
+    "answer": "Tromsøbrua",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen forbinder byøya Tromsøya med fastlandet i Tromsdalen, og fikk selskap av en undersjøisk tunnel på 1990-tallet.",
+      "sv": "Bron förbinder stadsön Tromsøya med fastlandet i Tromsdalen, och fick sällskap av en undervattenstunnel på 1990-talet."
+    },
+    "funFact": {
+      "nb": "Broen ble fredet av Riksantikvaren i 2000 og var det første fritt frembygde brokonstruksjon av sitt slag som ble bygget i Norge.",
+      "sv": "Bron blev skyddad av norska Riksantikvaren år 2000 och var den första broanläggningen av sitt slag som byggdes i Norge."
+    },
+    "source": "Wikipedia – Tromsø Bridge"
+  },
+  {
+    "id": "broer-l-16",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi", "arkitektur"],
+    "prompt": {
+      "nb": "Denne buebroen i Stockholm sto ferdig i 1935 og forbinder bydelene Kungsholmen og Södermalm over vannet Riddarfjärden. Broen var Sveriges første store bro med sveiset stålkonstruksjon og er i dag et yndet utsiktspunkt over Gamla stan. Hvilken bro er dette?",
+      "sv": "Denna bågbro i Stockholm stod klar 1935 och förbinder stadsdelarna Kungsholmen och Södermalm över vattnet Riddarfjärden. Bron var Sveriges första större bro med svetsad stålkonstruktion och är i dag en älskad utsiktsplats över Gamla stan. Vilken bro är detta?"
+    },
+    "answer": "Västerbron",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen brukes hvert år som fin utsiktsplass når Stockholm Marathon passerer under, og når nyttårsrakettene skytes opp over byen.",
+      "sv": "Bron används varje år som fin utsiktsplats när Stockholm Marathon passerar under, och när nyårsraketerna skjuts upp över staden."
+    },
+    "funFact": {
+      "nb": "Allerede året etter åpningen kjørte over 12 000 biler daglig over broen, og den løste et alvorlig trafikkproblem mellom byens vestlige og sørlige deler.",
+      "sv": "Redan året efter invigningen körde över 12 000 bilar dagligen över bron, och den löste ett allvarligt trafikproblem mellan stadens västra och södra delar."
+    },
+    "source": "Wikipedia – Västerbron"
+  },
+  {
+    "id": "broer-l-17",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["geografi", "transport"],
+    "prompt": {
+      "nb": "Denne bueformede broen over Iddefjorden sto ferdig i 2005 og fører E6 mellom Halden i Norge og Strömstad i Sverige. Den erstattet en eldre bro fra 1946, som fortsatt står ved siden av og brukes til lokaltrafikk. Hvilken bro er dette?",
+      "sv": "Denna bågformade bron över Iddefjorden stod klar 2005 och för E6 mellan Strömstad i Sverige och Halden i Norge. Den ersatte en äldre bro från 1946, som fortfarande står bredvid och används för lokaltrafik. Vilken bro är detta?"
+    },
+    "answer": { "nb": "Svinesundsbroen", "sv": "Svinesundsbron" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broens toppunkt ligger nesten 92 meter over fjorden, mens selve kjørebanen ligger drøye 61 meter over vannet.",
+      "sv": "Brons topp ligger nästan 92 meter över fjorden, medan själva körbanan ligger drygt 61 meter över vattnet."
+    },
+    "funFact": {
+      "nb": "Den gamle broen fra 1946 ble skadet av lynnedslag allerede i byggeperioden under andre verdenskrig, da eksplosiver på anlegget tok fyr. I dag er den forbeholdt kjøretøy under 3500 kilo.",
+      "sv": "Den gamla bron från 1946 skadades av ett blixtnedslag redan under byggtiden under andra världskriget, då sprängämnen på bygget fattade eld. I dag är den förbehållen fordon under 3500 kilo."
+    },
+    "source": "Wikipedia – Svinesund Bridge"
+  },
+  {
+    "id": "broer-l-18",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi", "arkitektur"],
+    "prompt": {
+      "nb": "Denne hengebroen krysser Ångermanälven i Sverige og sto ferdig i 1997. Den er en del av veien gjennom Höga Kusten, et kystlandskap som står på UNESCOs verdensarvliste på grunn av den kraftige landhevingen etter siste istid. Hvilken bro er dette?",
+      "sv": "Denna hängbro korsar Ångermanälven i Sverige och stod klar 1997. Den är en del av vägen genom Höga Kusten, ett kustlandskap som finns på UNESCOs världsarvslista på grund av den kraftiga landhöjningen efter senaste istiden. Vilken bro är detta?"
+    },
+    "answer": { "nb": "Höga Kustenbroen", "sv": "Höga Kustenbron" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen ligger mellom kommunene Härnösand og Kramfors i Ångermanland, langt nord i Sverige.",
+      "sv": "Bron ligger mellan kommunerna Härnösand och Kramfors i Ångermanland, långt norrut i Sverige."
+    },
+    "funFact": {
+      "nb": "Landet i området har hevet seg så mye siden siste istid at gamle strandlinjer i dag ligger over 280 meter over havet – en av de kraftigste landhevingene i verden.",
+      "sv": "Landet i området har höjt sig så mycket sedan senaste istiden att gamla strandlinjer i dag ligger över 280 meter över havet – en av de kraftigaste landhöjningarna i världen."
+    },
+    "source": "Wikipedia – High Coast Bridge; UNESCO World Heritage – High Coast / Kvarken Archipelago"
+  },
+  {
+    "id": "broer-l-19",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi", "historie"],
+    "prompt": {
+      "nb": "Denne bydelen er Stockholms eldste, grunnlagt som en befestet handelsplass på 1200-tallet. De middelalderske smugene og brosteinsbelagte gatene gjør den til byens mest besøkte turistmål, med slottet og Storkyrkan som naboer. Hvilken bydel er dette?",
+      "sv": "Denna stadsdel är Stockholms äldsta, grundad som en befäst handelsplats på 1200-talet. De medeltida gränderna och kullerstensbelagda gatorna gör den till stadens mest besökta turistmål, med slottet och Storkyrkan som grannar. Vilken stadsdel är detta?"
+    },
+    "answer": "Gamla stan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr rett og slett «den gamle byen», og den ligger på øya Stadsholmen.",
+      "sv": "Namnet betyder helt enkelt «den gamla staden», och den ligger på ön Stadsholmen."
+    },
+    "funFact": {
+      "nb": "Etter en bybrann i 1625 ble den vestlige delen av bydelen bygget opp igjen med et mer rettvinklet gatenett, mens resten beholdt den middelalderske, uregelmessige strukturen.",
+      "sv": "Efter en stadsbrand 1625 byggdes den västra delen av stadsdelen upp igen med ett mer rätvinkligt gatunät, medan resten behöll den medeltida, oregelbundna strukturen."
+    },
+    "source": "Wikipedia – Gamla stan"
+  },
+  {
+    "id": "broer-l-20",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Den internasjonale romstasjonen får sin første faste besetning om bord. Vladimir Putin blir innsatt som Russlands president. Frykten for at datasystemer verden over skal kollapse ved årtusenskiftet, dominerer nyhetsbildet i januar. Sony lanserer PlayStation 2. Ubåten Kursk synker i Barentshavet med hele mannskapet om bord. Øresundsbroen åpner mellom Danmark og Sverige. Filmen «Gladiator» har premiere. Erling Braut Haaland blir født i England. Skuespilleren Alec Guinness dør. Hvilket år?",
+      "sv": "Internationella rymdstationen får sin första fasta besättning ombord. Vladimir Putin installeras som Rysslands president. Rädslan för att datasystem världen över ska kollapsa vid millennieskiftet dominerar nyhetsbilden i januari. Sony lanserar PlayStation 2. Ubåten Kursk sjunker i Barents hav med hela besättningen ombord. Öresundsbron öppnar mellan Danmark och Sverige. Filmen «Gladiator» har premiär. Erling Braut Haaland föds i England. Skådespelaren Alec Guinness dör. Vilket år?"
+    },
+    "answer": "2000",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tusenårsskiftet er nettopp passert, og samme sommer arrangerer Sydney de olympiske sommerlekene.",
+      "sv": "Millennieskiftet har precis passerat, och samma sommar arrangerar Sydney de olympiska sommarspelen."
+    },
+    "funFact": {
+      "nb": "«Gladiator» vant fem Oscar-priser, deriblant beste film – den første filmen som vant hovedprisen uten å vinne noen pris for regi eller manus.",
+      "sv": "«Gladiator» vann fem Oscars, däribland bästa film – den första filmen som vann huvudpriset utan att vinna något pris för regi eller manus."
+    },
+    "source": "Store norske leksikon – årstall 2000; Wikipedia – 73rd Academy Awards"
+  },
+  {
+    "id": "broer-m-11",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["arkitektur", "historie"],
+    "prompt": {
+      "nb": "Denne røde trebroen over Nidelva i Trondheim sto ferdig i 1861 og kalles «Lykkens portal», etter de to portallignende tårnene som opprinnelig huset heisemekanismen for seilbåttrafikk. Den forbinder Midtbyen med Bakklandet og er i dag stengt for biltrafikk. Hvilken bro er dette?",
+      "sv": "Denna röda trädbro över Nidälven i Trondheim stod klar 1861 och kallas «Lyckans portal», efter de två portalliknande tornen som ursprungligen härbärgerade en hissmekanism för segelbåtstrafik. Den förbinder Midtbyen med Bakklandet och är i dag stängd för biltrafik. Vilken bro är detta?"
+    },
+    "answer": "Gamle Bybro",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den erstattet en eldre bro fra byplanleggeren Cicignons ombygging av Trondheim på 1680-tallet.",
+      "sv": "Den ersatte en äldre bro från stadsplaneraren Cicignons ombyggnad av Trondheim på 1680-talet."
+    },
+    "funFact": {
+      "nb": "Heisemekanismen ble tatt ut av bruk da broen ble utvidet i 1967 for å tåle mer trafikk, og broen er i dag fredet som en del av Norges kulturminneplan for veier og bruer.",
+      "sv": "Hissmekanismen togs ur bruk när bron byggdes ut 1967 för att klara mer trafik, och bron är i dag skyddad som en del av Norges kulturminnesplan för vägar och broar."
+    },
+    "source": "Wikipedia – Gamle Bybro"
+  },
+  {
+    "id": "broer-m-12",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["geografi", "transport"],
+    "prompt": {
+      "nb": "Denne hengebroen nord for Bergen sto ferdig i 1992 og var da Norges lengste hengebro – en rekord den holdt til Hardangerbrua åpnet i 2013. Bjelken ble malt blå for å understreke det monumentale utseendet til broen. Hvilken bro er dette?",
+      "sv": "Denna hängbro norr om Bergen stod klar 1992 och var då Norges längsta hängbro – ett rekord den höll tills Hardangerbrua öppnade 2013. Balken målades blå för att understryka broens monumentala utseende. Vilken bro är detta?"
+    },
+    "answer": "Askøybrua",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen krysser Byfjorden og knytter øykommunen Askøy til fastlandet ved Bergen.",
+      "sv": "Bron korsar Byfjorden och förbinder öaskommunen Askøy med fastlandet vid Bergen."
+    },
+    "funFact": {
+      "nb": "Byggingen startet i 1989, og broen inngår i dag i fylkesvei 562 som en tofelts veibro.",
+      "sv": "Bygget startade 1989, och bron ingår i dag i länsväg 562 som en tvåfilig vägbro."
+    },
+    "source": "Store norske leksikon – Askøybrua"
+  },
+  {
+    "id": "broer-m-13",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["arkitektur", "geografi"],
+    "prompt": {
+      "nb": "Denne skråstagbroen på Helgelandskysten sto ferdig i 1991 og krysser Leirfjorden mellom Sandnessjøen og Leinesodden, med to tårn på henholdsvis 127 og 138 meter. I 2010 kåret fagbladet Teknisk Ukeblad den til Norges vakreste bro. Hvilken bro er dette?",
+      "sv": "Denna snedkabelbro på Helgelandskusten stod klar 1991 och korsar Leirfjorden mellan Sandnessjøen och Leinesodden, med två torn på 127 respektive 138 meter. År 2010 utsåg fackpublikationen Teknisk Ukeblad den till Norges vackraste bro. Vilken bro är detta?"
+    },
+    "answer": "Helgelandsbrua",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen inngår i Kystriksveien, fylkesvei 17, langs Helgelandskysten i Nordland.",
+      "sv": "Bron ingår i Kystriksveien, länsväg 17, längs Helgelandskusten i Nordland."
+    },
+    "funFact": {
+      "nb": "De to tårnene har ulik høyde fordi terrenget og fjordbunnen på hver side av Leirfjorden er forskjellig, noe som gir broen dens karakteristiske asymmetriske silhuett.",
+      "sv": "De två tornen har olika höjd eftersom terrängen och fjordbotten på var sida om Leirfjorden skiljer sig åt, vilket ger bron dess karakteristiska asymmetriska siluett."
+    },
+    "source": "Wikipedia – Helgeland Bridge"
+  },
+  {
+    "id": "broer-m-14",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["sport", "historie"],
+    "prompt": {
+      "nb": "Dette veidekket av hoggen stein, tradisjonelt satt i sand i rektangulære eller kvadratiske mønstre, er det samme som gjør det beryktede sykkelrittet Paris–Roubaix i Frankrike så fryktet at det kalles «Helvetet i Nord». Hva kalles denne typen steindekke, med et ord som inneholder selve ankerordet i denne quizen?",
+      "sv": "Detta gatubeläggning av huggen sten, traditionellt lagd i sand i rektangulära eller kvadratiska mönster, är samma sak som gör det beryktade cykelloppet Paris–Roubaix i Frankrike så fruktat att det kallas «Helvetet i Norr». Vad kallas denna typen av stenbeläggning, med ett ord som innehåller själva ankarordet i den här frågesporten?"
+    },
+    "answer": { "nb": "Brostein", "sv": "Kullersten" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Belegget brukes tradisjonelt på veier, gater, fortau og plasser i eldre bykjerner.",
+      "sv": "Beläggningen används traditionellt på vägar, gator, trottoarer och platser i äldre stadskärnor."
+    },
+    "funFact": {
+      "nb": "Rytterne i Paris–Roubaix kjører over rundt femti slike partier med brostein i løpet av rittet, og de humpete strekningene har ødelagt både sykler og rittets utfall for mange favoritter opp gjennom historien.",
+      "sv": "Ryttarna i Paris–Roubaix kör över omkring femtio sådana partier med kullersten under loppet, och de guppiga sträckorna har förstört både cyklar och loppets utgång för många favoriter genom historien."
+    },
+    "source": "Store norske leksikon – brostein"
+  },
+  {
+    "id": "broer-m-15",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["geografi", "sport"],
+    "prompt": {
+      "nb": "Denne hengebroen i Göteborg sto ferdig i 1966 og har to pyloner på 107 meter, som gjør den til et av byens mest kjente landemerker. I 1993 ble broen malt grønn i forbindelse med friidretts-VM som ble arrangert i byen to år senere. Hvilken bro er dette?",
+      "sv": "Denna hängbro i Göteborg stod klar 1966 och har två pyloner på 107 meter, vilket gör den till ett av stadens mest kända landmärken. År 1993 målades bron grön inför friidrotts-VM som arrangerades i staden två år senare. Vilken bro är detta?"
+    },
+    "answer": "Älvsborgsbron",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen krysser Göta älv og er oppkalt etter middelalderfestningen Älvsborg, hvis ruiner ligger i nærheten.",
+      "sv": "Bron korsar Göta älv och är uppkallad efter medeltidsfästningen Älvsborg, vars ruiner ligger i närheten."
+    },
+    "funFact": {
+      "nb": "Til den grønne fargeleggingen gikk det med rundt 36 000 liter maling, og broen har senere fungert som mållinje for den havseilende kappløpsregattaen Volvo Ocean Race.",
+      "sv": "Till den gröna målningen åtgick omkring 36 000 liter färg, och bron har senare fungerat som mållinje för den havsseglande kapplöpningsregattan Volvo Ocean Race."
+    },
+    "source": "Wikipedia – Älvsborg Bridge"
+  },
+  {
+    "id": "broer-m-16",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["transport", "geografi"],
+    "prompt": {
+      "nb": "Denne veibroen gjennom sentrale Stockholm sto ferdig i to etapper, i 1959 og 1967, og forbinder bydelene Norrmalm og Södermalm. Den går rett over en strekning av Stockholms tunnelbane og har opptil 130 000 kjøretøy om dagen. Hvilken bro er dette?",
+      "sv": "Denna vägbro genom centrala Stockholm stod klar i två etapper, 1959 och 1967, och förbinder stadsdelarna Norrmalm och Södermalm. Den går rakt över en sträcka av Stockholms tunnelbana och har upp till 130 000 fordon om dagen. Vilken bro är detta?"
+    },
+    "answer": "Centralbron",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen består av to viadukter og krysser blant annet en kanal og en øy i sentrum av byen.",
+      "sv": "Bron består av två viadukter och korsar bland annat en kanal och en ö mitt i staden."
+    },
+    "funFact": {
+      "nb": "Tunnelbanestrekningen broen krysser over, åpnet allerede i 1957, to år før den sørlige delen av selve broen sto klar.",
+      "sv": "Tunnelbanesträckan som bron korsar över öppnade redan 1957, två år innan den södra delen av själva bron stod klar."
+    },
+    "source": "Wikipedia – Centralbron"
+  },
+  {
+    "id": "broer-m-17",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["mytologi", "arkitektur"],
+    "prompt": {
+      "nb": "Denne broen i Stockholm sto ferdig i 1897, samme år som verdensutstillingen i byen, og fører til øya Djurgården. Fire steinsøyler med norrøne guder – Heimdall med gjallarhornet, Frøya med falk, Frigg og Tor med hammeren – vokter overgangen. Hvilken bro er dette?",
+      "sv": "Denna bro i Stockholm stod klar 1897, samma år som världsutställningen i staden, och leder till ön Djurgården. Fyra stenpelare med fornnordiska gudar – Heimdall med gjallarhornet, Freja med falk, Frigg och Tor med hammaren – vaktar övergången. Vilken bro är detta?"
+    },
+    "answer": "Djurgårdsbron",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen forlenger boulevarden Narvavägen på Östermalm og fører videre til Skansen og Gröna Lund.",
+      "sv": "Bron förlänger boulevarden Narvavägen på Östermalm och leder vidare till Skansen och Gröna Lund."
+    },
+    "funFact": {
+      "nb": "Gudestatuene ble skulptert av Rolf Adlersparre, mens de dekorative smijernsrekkverkene med stiliserte planter ble tegnet av arkitekten Erik Josephson.",
+      "sv": "Gudastatyerna skulpterades av Rolf Adlersparre, medan de dekorativa smidesräckena med stiliserade växter ritades av arkitekten Erik Josephson."
+    },
+    "source": "Wikipedia – Djurgårdsbron"
+  },
+  {
+    "id": "broer-m-18",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["geografi", "teknologi"],
+    "prompt": {
+      "nb": "Denne skråstagbroen i Bohuslän sto ferdig i år 2000 og har pyloner på hele 149 meter. Den krysser Sunningesundet som del av en ny E6-trasé forbi Uddevalla, men is som løsner fra kablene om vinteren har vist seg å være et vedvarende problem. Hvilken bro er dette?",
+      "sv": "Denna snedkabelbro i Bohuslän stod klar år 2000 och har pyloner på hela 149 meter. Den korsar Sunningesundet som en del av en ny E6-sträckning förbi Uddevalla, men is som lossnar från kablarna vintertid har visat sig vara ett ihållande problem. Vilken bro är detta?"
+    },
+    "answer": "Uddevallabron",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen forkortet reiseveien langs E6 med nesten 13 kilometer sammenlignet med den gamle traseen gjennom byen.",
+      "sv": "Bron förkortade resvägen längs E6 med nästan 13 kilometer jämfört med den gamla sträckningen genom staden."
+    },
+    "funFact": {
+      "nb": "Ingeniørene har testet elektrisk oppvarming av kablene for å hindre isdannelse, siden nedfallende is fra de høye pylonene kan treffe biler på veibanen under.",
+      "sv": "Ingenjörerna har testat elektrisk uppvärmning av kablarna för att förhindra isbildning, eftersom nedfallande is från de höga pylonerna kan träffa bilar på körbanan nedanför."
+    },
+    "source": "Wikipedia – Uddevalla Bridge"
+  },
+  {
+    "id": "broer-m-19",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["film", "militaerhistorie"],
+    "prompt": {
+      "nb": "Denne krigsfilmen fra 1977, regissert av Richard Attenborough og bygget på Cornelius Ryans bok om et mislykket alliert luftlandingsangrep i Nederland høsten 1944, fikk tittelen sin fra en advarsel om at planen strakk seg for langt. Hvilken film er dette?",
+      "sv": "Denna krigsfilm från 1977, regisserad av Richard Attenborough och baserad på Cornelius Ryans bok om ett misslyckat allierat luftlandsättningsangrepp i Nederländerna hösten 1944, fick sin titel från en varning om att planen sträckte sig för långt. Vilken film är detta?"
+    },
+    "answer": "A Bridge Too Far",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Operasjonen filmen skildrer, het Market Garden og skulle sikre broer inn i Tyskland, blant annet ved Arnhem.",
+      "sv": "Operationen filmen skildrar hette Market Garden och skulle säkra broar in i Tyskland, bland annat vid Arnhem."
+    },
+    "funFact": {
+      "nb": "Filmen samlet et av tidenes mest stjernespekkede ensembler, med blant andre Sean Connery, Michael Caine, Anthony Hopkins, Robert Redford og Laurence Olivier på rollelisten.",
+      "sv": "Filmen samlade ett av tidernas mest stjärnspäckade ensembler, med bland andra Sean Connery, Michael Caine, Anthony Hopkins, Robert Redford och Laurence Olivier på rollistan."
+    },
+    "source": "Wikipedia – A Bridge Too Far (film)"
+  },
+  {
+    "id": "broer-m-20",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["historie", "militaerhistorie"],
+    "prompt": {
+      "nb": "Denne osmanske steinbroen i Bosnia sto ferdig i 1566 etter ni års byggetid, men ble skutt i stykker under Bosnia-krigen i november 1993. En ny bro etter de gamle tegningene sto klar i 2004, med støtte fra blant annet UNESCO. Hvilken bro er dette, i byen Mostar?",
+      "sv": "Denna osmanska stenbro i Bosnien stod klar 1566 efter nio års byggtid, men sköts i bitar under Bosnienkriget i november 1993. En ny bro efter de gamla ritningarna stod klar 2004, med stöd från bland annat UNESCO. Vilken bro är detta, i staden Mostar?"
+    },
+    "answer": "Stari Most",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr rett og slett «den gamle broen» på bosnisk, og den krysser elven Neretva.",
+      "sv": "Namnet betyder helt enkelt «den gamla bron» på bosniska, och den korsar floden Neretva."
+    },
+    "funFact": {
+      "nb": "Broen ble opprinnelig bestilt av sultan Suleiman den store og tegnet av arkitekten Mimar Hajrudin. I dag er både broen og den gamle bydelen rundt den ført opp på UNESCOs verdensarvliste.",
+      "sv": "Bron beställdes ursprungligen av sultan Suleiman den store och ritades av arkitekten Mimar Hajrudin. I dag finns både bron och den gamla stadsdelen runt den upptagna på UNESCOs världsarvslista."
+    },
+    "source": "Wikipedia – Stari Most"
+  },
+  {
+    "id": "broer-v-11",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["geografi", "transport"],
+    "prompt": {
+      "nb": "Denne hengebroen sto ferdig i år 2000 og er en del av Trekantsambandet, som knytter øykommunen Stord sammen med resten av Sunnhordland via den lille øya Føyno. Hovedspennet er på 677 meter, og totallengden er over én kilometer. Hvilken bro er dette?",
+      "sv": "Denna hängbro stod klar år 2000 och är en del av Trekantsambandet, som förbinder öaskommunen Stord med resten av Sunnhordland via den lilla ön Føyno. Huvudspannet är 677 meter, och den totala längden är över en kilometer. Vilken bro är detta?"
+    },
+    "answer": "Stordabrua",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen krysser Digernessundet, og navnet er rett og slett øya den fører til.",
+      "sv": "Bron korsar Digernessundet, och namnet är helt enkelt ön den leder till."
+    },
+    "funFact": {
+      "nb": "Trekantsambandet, som Stordabrua er en del av, knytter sammen hele tre kommuner med bro og undersjøisk tunnel og gjorde ferjefri reise mulig i regionen for første gang.",
+      "sv": "Trekantsambandet, som Stordabrua är en del av, förbinder hela tre kommuner med bro och undervattenstunnel och möjliggjorde för första gången färjefri resa i regionen."
+    },
+    "source": "Store norske leksikon – Stordabrua"
+  },
+  {
+    "id": "broer-v-12",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["geografi", "teknologi"],
+    "prompt": {
+      "nb": "Denne hengebroen krysser Rombaksfjorden ved Narvik og sto ferdig i desember 2018, bygget av det kinesiske selskapet Sichuan Road and Bridge Group. Med et hovedspenn på over 1500 meter er den blant Norges lengste hengebroer og forkorter kjøreturen mot Bjerkvik med 17 kilometer. Hvilken bro er dette?",
+      "sv": "Denna hängbro korsar Rombaksfjorden vid Narvik och stod klar i december 2018, byggd av det kinesiska bolaget Sichuan Road and Bridge Group. Med ett huvudspann på över 1500 meter hör den till Norges längsta hängbroar och förkortar bilresan mot Bjerkvik med 17 kilometer. Vilken bro är detta?"
+    },
+    "answer": "Hålogalandsbrua",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen ligger nord for polarsirkelen og inngår i E6 mellom Narvik og Bjerkvik.",
+      "sv": "Bron ligger norr om polcirkeln och ingår i E6 mellan Narvik och Bjerkvik."
+    },
+    "funFact": {
+      "nb": "Byggeprosjektet, som pågikk fra 2013 til 2018, omfattet også nesten fem kilometer ny vei, to mindre tunneler og en egen skredsikringstunnel.",
+      "sv": "Byggprojektet, som pågick från 2013 till 2018, omfattade även nästan fem kilometer ny väg, två mindre tunnlar och en egen skredskyddstunnel."
+    },
+    "source": "Wikipedia – Hålogaland Bridge"
+  },
+  {
+    "id": "broer-v-13",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["teknologi", "transport"],
+    "prompt": {
+      "nb": "Denne broen over Gudbrandsdalslågen, bygget i limtre og stål, sto ferdig i 2012, men kollapset uventet drøye ti år senere, i august 2022. Årsaken var svikt i en skjøt mellom trevirket og stålet i en av skråstagene. Ingen personer omkom. Hvilken bro er dette?",
+      "sv": "Denna bro över Gudbrandsdalslågen, byggd i limträ och stål, stod klar 2012 men kollapsade oväntat drygt tio år senare, i augusti 2022. Orsaken var ett brott i en skarv mellan trävirket och stålet i en av snedstagen. Ingen person omkom. Vilken bro är detta?"
+    },
+    "answer": "Tretten bru",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen ligger i Øyer kommune i Gudbrandsdalen og var en del av E6.",
+      "sv": "Bron ligger i Øyer kommun i Gudbrandsdalen och var en del av E6."
+    },
+    "funFact": {
+      "nb": "Kollapsen fikk stor oppmerksomhet i norske medier og satte søkelyset på hvordan norske bruer med uvanlige materialkombinasjoner blir inspisert og fulgt opp over tid.",
+      "sv": "Kollapsen fick stor uppmärksamhet i norska medier och riktade strålkastarljuset mot hur norska broar med ovanliga materialkombinationer inspekteras och följs upp över tid."
+    },
+    "source": "Store norske leksikon – Tretten bru; Statens vegvesen, granskningsrapport"
+  },
+  {
+    "id": "broer-v-14",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Denne svenske kommunen ligger nordvest for Stockholm, nesten omkranset av Mälaren, og har navnet sitt fra landskapet den ligger i og et lite tettsted som rett og slett heter det samme som ankerordet i denne quizen. Administrasjonssenteret er Kungsängen. Hvilken kommune er dette?",
+      "sv": "Denna svenska kommun ligger nordväst om Stockholm, nästan omgärdad av Mälaren, och har sitt namn efter landskapet den ligger i och en liten tätort som helt enkelt heter samma sak som ankarordet i den här frågesporten. Kommunhuvudorten är Kungsängen. Vilken kommun är detta?"
+    },
+    "answer": "Upplands-Bro",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kommunen består blant annet av tettstedene Kungsängen, Bro og Brunna.",
+      "sv": "Kommunen består bland annat av tätorterna Kungsängen, Bro och Brunna."
+    },
+    "funFact": {
+      "nb": "På halvøya Stäksön i kommunen ligger ruinene av Almare-Stäket, en middelaldersk borg som tilhørte erkebiskopen i Uppsala.",
+      "sv": "På halvön Stäksön i kommunen ligger ruinerna av Almare-Stäket, en medeltida borg som tillhörde ärkebiskopen i Uppsala."
+    },
+    "source": "Store norske leksikon – Upplands-Bro"
+  },
+  {
+    "id": "broer-v-15",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie", "arkitektur"],
+    "prompt": {
+      "nb": "Denne broen i Stockholm ble bygget i to etapper og sto helt ferdig i 1806, tegnet av stadsarkitekt Erik Palmstedt i nyklassisistisk stil. Den erstattet to eldre trebroer og forbinder den kongelige slottet med Gustav Adolfs torg, forbi Riksdagshuset. Hvilken bro er dette?",
+      "sv": "Denna bro i Stockholm byggdes i två etapper och stod helt klar 1806, ritad av stadsarkitekten Erik Palmstedt i nyklassicistisk stil. Den ersatte två äldre träbroar och förbinder Kungliga slottet med Gustav Adolfs torg, förbi Riksdagshuset. Vilken bro är detta?"
+    },
+    "answer": "Norrbro",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen krysser Norrström og var i sin tid Stockholms bredeste bro, med separate fortau for gående.",
+      "sv": "Bron korsar Norrström och var på sin tid Stockholms bredaste bro, med separata trottoarer för gående."
+    },
+    "funFact": {
+      "nb": "Grunnarbeidet ble løst med en nyskapende metode utviklet av byggmester Jonas Lidströmer, der en vannfylt lekter ble brukt til å senke ferdige fundamenter på plass.",
+      "sv": "Grundarbetet löstes med en nyskapande metod utvecklad av byggmästaren Jonas Lidströmer, där en vattenfylld pråm användes för att sänka färdiga fundament på plats."
+    },
+    "source": "Wikipedia – Norrbro"
+  },
+  {
+    "id": "broer-v-16",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["teknologi", "geografi"],
+    "prompt": {
+      "nb": "På 1860-tallet lot ingeniøren Nils Ericson bygge en kanal i Dalsland der kanalbåter krysser rett over en foss i en hevet jernrenne, mens et veianlegg passerer i dalen nedenfor. Selve rennen er drøye 100 meter lang. Hva heter denne akvedukten, oppkalt etter stedet den ligger?",
+      "sv": "På 1860-talet lät ingenjören Nils Ericson bygga en kanal i Dalsland där kanalbåtar korsar rakt över ett fall i en upphöjd järnränna, medan en väganläggning passerar i dalen nedanför. Själva rännan är drygt 100 meter lång. Vad heter denna akvedukt, uppkallad efter platsen den ligger på?"
+    },
+    "answer": "Håverudakvedukten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Konstruksjonen er en del av Dalslands kanal, og synet av båter som glir gjennom luften over dalen, er blitt en stor turistattraksjon.",
+      "sv": "Konstruktionen är en del av Dalslands kanal, och synen av båtar som glider fram i luften över dalen har blivit en stor turistattraktion."
+    },
+    "funFact": {
+      "nb": "Nils Ericson var bror av oppfinneren John Ericsson, mest kjent for å ha konstruert skipspropellen og det pansrede krigsskipet USS Monitor i den amerikanske borgerkrigen.",
+      "sv": "Nils Ericson var bror till uppfinnaren John Ericsson, mest känd för att ha konstruerat skeppspropellern och det pansrade krigsfartyget USS Monitor under det amerikanska inbördeskriget."
+    },
+    "source": "Wikipedia – Dalsland Canal; Store norske leksikon – Nils Ericson"
+  },
+  {
+    "id": "broer-v-17",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["vikingtid", "historie"],
+    "prompt": {
+      "nb": "I Vallentuna utenfor Stockholm forteller en runeinnskrift fra vikingtiden om mannen Jarlabanke, som lot bygge en «bro» – i praksis en veifylling over myrlendt grunn – for sin sjels skyld, og reiste minnesteinene mens han selv fortsatt levde. Hva kalles denne typen eldgamle minnesteiner med innhugget skrift?",
+      "sv": "I Vallentuna utanför Stockholm berättar en runinskrift från vikingatiden om mannen Jarlabanke, som lät bygga en «bro» – i praktiken en vägbank över myrmark – för sin själs skull, och reste minnesstenarna medan han själv fortfarande levde. Vad kallas denna typen av uråldriga minnesstenar med inhuggen skrift?"
+    },
+    "answer": { "nb": "Runestein", "sv": "Runsten" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Å bekoste en «bro» for de reisendes skyld ble sett på som en fromhetsgjerning i overgangen mellom norrøn tro og kristendom.",
+      "sv": "Att bekosta en «bro» för de resandes skull sågs som en fromhetsgärning i övergången mellan fornnordisk tro och kristendom."
+    },
+    "funFact": {
+      "nb": "Lignende innskrifter finnes flere steder i Sverige – i Jämtland skryter en runestein av at reiseren både bygde en bro og kristnet landskapet, og i Södermanland reiste en kvinne ved navn Sigrid en bro til minne om sin avdøde mann.",
+      "sv": "Liknande inskrifter finns på flera platser i Sverige – i Jämtland skryter en runsten om att resaren både byggde en bro och kristnade landskapet, och i Södermanland reste en kvinna vid namn Sigrid en bro till minne av sin avlidne man."
+    },
+    "source": "Wikipedia – Runestone (Jarlabanke Bridge)"
+  },
+  {
+    "id": "broer-v-18",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["teknologi", "historie"],
+    "prompt": {
+      "nb": "Da denne broen over Ohio-elven i USA plutselig falt sammen i desember 1967 og tok 46 menneskeliv, viste granskningen at hele kollapsen skyldtes én eneste liten sprekk i én øyebolt, dannet av slitasje og korrosjon. Ulykken førte til at USA innførte nasjonale krav til brotilsyn. Hvilken bro er dette?",
+      "sv": "När denna bro över Ohiofloden i USA plötsligt rasade i december 1967 och krävde 46 människoliv, visade granskningen att hela kollapsen berodde på en enda liten spricka i en enda ögonbult, orsakad av slitage och korrosion. Olyckan ledde till att USA införde nationella krav på brotillsyn. Vilken bro är detta?"
+    },
+    "answer": "Silver Bridge",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broen forbandt byene Point Pleasant i West Virginia og Gallipolis i Ohio.",
+      "sv": "Bron förband städerna Point Pleasant i West Virginia och Gallipolis i Ohio."
+    },
+    "funFact": {
+      "nb": "Sprekken som forårsaket kollapsen, var bare rundt 2,5 millimeter dyp da bruddet skjedde. Ulykken regnes i dag som en av de viktigste enkelthendelsene i moderne brosikkerhetshistorie.",
+      "sv": "Sprickan som orsakade kollapsen var bara omkring 2,5 millimeter djup när brottet inträffade. Olyckan räknas i dag som en av de viktigaste enskilda händelserna i modern brosäkerhetshistoria."
+    },
+    "source": "Wikipedia – Silver Bridge"
+  },
+  {
+    "id": "broer-v-19",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["mytologi", "vikingtid"],
+    "prompt": {
+      "nb": "I norrøn mytologi må guden Hermod ri i ni netter gjennom mørke daler for å nå denne gullbelagte broen over elven Gjøll, på vei for å hente den drepte guden Balder tilbake fra dødsriket Hel. En jotunkvinne som vokter overgangen, forteller ham at Balder allerede har rid over. Hva heter broen?",
+      "sv": "I fornnordisk mytologi måste guden Hermod rida i nio nätter genom mörka dalar för att nå denna guldbelagda bro över floden Gjöll, på väg för att hämta den dräpte guden Balder tillbaka från dödsriket Hel. En jättekvinna som vaktar övergången berättar att Balder redan har ridit över. Vad heter bron?"
+    },
+    "answer": "Gjallarbrú",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er avledet av elven den krysser, og fortellingen finnes i Snorres Edda.",
+      "sv": "Namnet är avlett av floden den korsar, och berättelsen finns i Snorres Edda."
+    },
+    "funFact": {
+      "nb": "Ifølge fortellingen dundrer broen mer under én rytter til hest enn under fem lag med døde som red over dagen før – jotunkvinnen bruker nettopp det til å avsløre at Hermod fortsatt er i live.",
+      "sv": "Enligt berättelsen dundrar bron mer under en enda ryttare till häst än under fem skaror döda som red över dagen innan – jättekvinnan använder just detta för att avslöja att Hermod fortfarande är vid liv."
+    },
+    "source": "Snorre Sturlason, Snorre-Edda (Gylfaginning); Wikipedia – Gjallarbrú"
+  },
+  {
+    "id": "broer-v-20",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["religion", "sprak"],
+    "prompt": {
+      "nb": "Den øverste religiøse tittelen i det gamle Roma – en tittel paven fortsatt bærer i dag – betyr ifølge en gammel, om enn omdiskutert, tolkning bokstavelig talt «den store brobyggeren», satt sammen av de latinske ordene for bro og for å gjøre. Hvilken tittel er dette?",
+      "sv": "Den högsta religiösa titeln i antikens Rom – en titel påven fortfarande bär i dag – betyder enligt en gammal, om än omdiskuterad, tolkning bokstavligen «den store brobyggaren», sammansatt av de latinska orden för bro och för att göra. Vilken titel är detta?"
+    },
+    "answer": "Pontifex Maximus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Allerede den romerske forfatteren Plutark stilte spørsmål ved denne forklaringen, siden ordet fantes før Roma i det hele tatt hadde broer.",
+      "sv": "Redan den romerske författaren Plutarchos ifrågasatte denna förklaring, eftersom ordet fanns innan Rom ens hade broar."
+    },
+    "funFact": {
+      "nb": "Fordi etymologien er usikker, har språkforskere også foreslått at ordet i stedet stammer fra etruskisk, eller fra latinske ord for offerhandling eller for prosesjonsledere.",
+      "sv": "Eftersom etymologin är osäker har språkforskare även föreslagit att ordet i stället härstammar från etruskiskan, eller från latinska ord för offerhandling eller för processionsledare."
+    },
+    "source": "Wikipedia – Pontifex maximus"
+  }
+]

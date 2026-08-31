@@ -1,0 +1,662 @@
+[
+  {
+    "id": "fugler-l-11",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["dyr"],
+    "prompt": {
+      "nb": "På den værharde øya Røst i Lofoten hekker en av Norges største kolonier av denne fargerike sjøfuglen, kjent for sitt oransje nebb og sin klossete gange på land. Den lever mesteparten av året på åpent hav. Hvilken fugl er dette?",
+      "sv": "På den väderbitna ön Røst i Lofoten häckar en av Norges största kolonier av denna färgglada sjöfågel, känd för sin orangea näbb och sin klumpiga gång på land. Den lever större delen av året ute på öppet hav. Vilken fågel är detta?"
+    },
+    "answer": { "nb": "Lunde", "sv": "Lunnefågel" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den kalles gjerne «havets klovn» på grunn av det fargerike nebbet, og graver reirganger i jorda med klørne.",
+      "sv": "Den kallas ofta «havets clown» på grund av den färgglada näbben, och gräver bohålor i jorden med klorna."
+    },
+    "funFact": {
+      "nb": "Utenfor hekketiden tilbringer fuglen all sin tid på havet, ofte langt fra land, og kommer bare i land for å hekke i tette kolonier i bergsprekker og selvgravde huler.",
+      "sv": "Utanför häckningstiden tillbringar fågeln all sin tid på havet, ofta långt från land, och kommer bara i land för att häcka i täta kolonier i bergssprickor och självgrävda hålor."
+    },
+    "source": "Store norske leksikon – lunde"
+  },
+  {
+    "id": "fugler-l-12",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["dyr"],
+    "prompt": {
+      "nb": "Denne fjellhønsefuglen bytter drakt to ganger i året: brun og flekkete om sommeren, snøhvit om vinteren, som kamuflasje mot rovdyr. Jakt på arten er en av de mest utbredte jaktformene i Norge. Hvilken fugl er dette?",
+      "sv": "Denna fjällhönsfågel byter dräkt två gånger om året: brun och spräcklig på sommaren, snövit på vintern, som kamouflage mot rovdjur. Jakt på arten är en av de mest utbredda jaktformerna i Norge. Vilken fågel är detta?"
+    },
+    "answer": { "nb": "Rype", "sv": "Ripa" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vinterdrakten er så hvit at fuglen nesten er usynlig i snøen, bortsett fra de svarte halefjærene.",
+      "sv": "Vinterdräkten är så vit att fågeln nästan är osynlig i snön, bortsett från de svarta stjärtfjädrarna."
+    },
+    "funFact": {
+      "nb": "Norge har to arter: fjellrype i høyfjellet og lirype i lavereliggende bjørkeskog og myr. Begge er et vanlig innslag på julebordet mange steder i landet.",
+      "sv": "Norge har två arter: fjällripa i högfjället och dalripa i lägre björkskog och myrmark. Båda är vanliga inslag i den norska jakttraditionen."
+    },
+    "source": "Store norske leksikon – ryper"
+  },
+  {
+    "id": "fugler-l-13",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["litteratur"],
+    "prompt": {
+      "nb": "I dette skuespillet fra 1884 holder familien Ekdal en skadeskutt fugl som kjæledyr på loftet, som et slags plaster på såret etter tapte drømmer og et mislykket liv. Fuglen gir også stykket tittelen. Hvilket Ibsen-skuespill er dette?",
+      "sv": "I detta skådespel från 1884 håller familjen Ekdal en skadeskjuten fågel som husdjur på vinden, som en sorts tröst för förlorade drömmar och ett misslyckat liv. Fågeln ger också pjäsen dess titel. Vilket Ibsen-skådespel är detta?"
+    },
+    "answer": "Vildanden",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stykket regnes som et av Ibsens mest symboltunge, og handler mye om løgnens nødvendighet for å kunne leve et tålelig liv.",
+      "sv": "Pjäsen räknas som ett av Ibsens mest symboltyngda verk, och handlar mycket om lögnens nödvändighet för att kunna leva ett drägligt liv."
+    },
+    "funFact": {
+      "nb": "Stykket hadde urpremiere i Bergen i januar 1885. Anden i familien Ekdals loftsrom har blitt stående som et av norsk litteraturs mest kjente symboler.",
+      "sv": "Pjäsen hade urpremiär i Bergen i januari 1885. Anden på familjen Ekdals vind har blivit stående som en av den norska litteraturens mest kända symboler."
+    },
+    "source": "Wikipedia – The Wild Duck (Henrik Ibsen, 1884)"
+  },
+  {
+    "id": "fugler-l-14",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "Når nordmenn aner at noe er galt eller mistenkelig, bruker de et gammelt uttrykk om en bestemt art som skal befinne seg «i mosen». Ingen tror i dag at arten bokstavelig talt bor i myra, men uttrykket lever videre. Hvilken fugl sikter uttrykket til?",
+      "sv": "När norrmän anar att något är fel eller misstänkt använder de ett gammalt uttryck om en viss art som ska befinna sig «i mosen» (mossen). I dag tror ingen att arten bokstavligen bor i myren, men uttrycket lever kvar. Vilken fågel syftar uttrycket på?"
+    },
+    "answer": { "nb": "Ugle", "sv": "Uggla" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er samme fugl som er kjent som symbol på visdom i gresk mytologi.",
+      "sv": "Det är samma fågel som är känd som visdomens symbol i grekisk mytologi."
+    },
+    "funFact": {
+      "nb": "Uttrykket «det er ugler i mosen» er ført opp i Det Norske Akademis ordbok, og brukes når man mistenker at noe skjules eller ikke stemmer.",
+      "sv": "Samma uttryck finns även i svenskan, «ana ugglor i mossen», och används när man misstänker att något inte stämmer eller döljs."
+    },
+    "source": "Det Norske Akademis ordbok (naob.no) – «ugle»"
+  },
+  {
+    "id": "fugler-l-15",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Hver vår samler tusenvis av denne store, gråfargede trekkfuglen seg ved en innsjø i Västergötland for å raste og danse i timevis før de flyr videre, et skue som trekker store menneskemengder. Hvilken fugl er dette?",
+      "sv": "Varje vår samlas tusentals av denna stora, gråfärgade flyttfågeln vid en sjö i Västergötland för att rasta och dansa i timmar innan de flyger vidare, ett skådespel som lockar stora folkmassor. Vilken fågel är detta?"
+    },
+    "answer": { "nb": "Trane", "sv": "Trana" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Innsjøen heter Hornborgasjön, og fenomenet kalles gjerne «tranedansen».",
+      "sv": "Sjön heter Hornborgasjön, och fenomenet kallas ofta «tranedansen»."
+    },
+    "funFact": {
+      "nb": "Dansen er en del av parringsspillet: fuglene hopper, brer ut vingene og bukker for hverandre. Om høsten trekker de videre sørover mot Spania og Nord-Afrika.",
+      "sv": "Dansen är en del av parningsspelet: fåglarna hoppar, breder ut vingarna och bugar för varandra. På hösten drar de vidare söderut mot Spanien och Nordafrika."
+    },
+    "source": "Wikipedia – Common crane; Hornborgasjön"
+  },
+  {
+    "id": "fugler-l-16",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Denne svenske kystbyen i Ångermanland fikk navn etter en 1700-tallslandshøvding med et rovfuglaktig etternavn, og er i dag kjent som fødeby for en rekke NHL-spillere, blant dem tvillingene Sedin. Hvilken by, hvis navn bokstavelig inneholder ordet for «ørn»?",
+      "sv": "Denna svenska kuststad i Ångermanland fick sitt namn efter en landshövding på 1700-talet med ett rovfågelaktigt efternamn, och är i dag känd som födelsestad för flera NHL-spelare, bland dem tvillingarna Sedin. Vilken stad, vars namn bokstavligen innehåller ordet för «örn»?"
+    },
+    "answer": "Örnsköldsvik",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landshøvdingens etternavn betyr «ørneskjold», og byen ligger ved en vik.",
+      "sv": "Landshövdingens efternamn betyder «örnsköld», och staden ligger vid en vik."
+    },
+    "funFact": {
+      "nb": "Byen ble oppkalt etter Per Abraham Örnsköld, landshøvding i Västernorrlands län 1762–1769. I dag er den også kjent som hjembyen til ishockeyklubben Modo Hockey.",
+      "sv": "Staden uppkallades efter Per Abraham Örnsköld, landshövding i Västernorrlands län 1762–1769. I dag är den också känd som hemstad för ishockeyklubben Modo Hockey."
+    },
+    "source": "Wikipedia – Örnsköldsvik"
+  },
+  {
+    "id": "fugler-l-17",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["musikk"],
+    "prompt": {
+      "nb": "I 1977 ga dette svenske popbandet ut sangen «Eagle», inspirert av Richard Bachs fortelling om en flygende måke og samtidig ment som en hyllest til det amerikanske rockebandet med samme fuglenavn. Hvilket svensk band?",
+      "sv": "1977 gav detta svenska popband ut låten «Eagle», inspirerad av Richard Bachs berättelse om en flygande mås och samtidigt tänkt som en hyllning till det amerikanska rockbandet med samma fågelnamn. Vilket svenskt band?"
+    },
+    "answer": "ABBA",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bandet besto av to par, og navnet er dannet av forbokstavene i medlemmenes fornavn.",
+      "sv": "Bandet bestod av två par, och namnet bildas av begynnelsebokstäverna i medlemmarnas förnamn."
+    },
+    "funFact": {
+      "nb": "Sangen er hentet fra albumet «ABBA: The Album», og teksten handler om en lengsel etter frihet og å kunne fly bort fra alt.",
+      "sv": "Låten kommer från albumet «ABBA: The Album», och texten handlar om en längtan efter frihet och att kunna flyga bort från allt."
+    },
+    "source": "Wikipedia – Eagle (ABBA song)"
+  },
+  {
+    "id": "fugler-l-18",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["teknologi"],
+    "prompt": {
+      "nb": "Det svenske forsvarsselskapet Saab lot i sin tid publikum stemme fram navnet på sitt nye kampfly, og valget falt på et mytologisk vesen med ørnehode, vinger og løvekropp – samme skapning som allerede pryder Saabs logo. Hva heter flyet?",
+      "sv": "Det svenska försvarsföretaget Saab lät en gång allmänheten rösta fram namnet på sitt nya stridsflygplan, och valet föll på en mytologisk varelse med örnhuvud, vingar och lejonkropp – samma väsen som redan pryder Saabs logotyp. Vad heter planet?"
+    },
+    "answer": "Gripen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr rett og slett «griff» på svensk.",
+      "sv": "Namnet betyder helt enkelt «grip» eller «griff»."
+    },
+    "funFact": {
+      "nb": "Det fulle navnet er JAS 39 Gripen, der JAS står for jakt, attack og spaning – de tre rollene flyet er bygget for å fylle.",
+      "sv": "Det fulla namnet är JAS 39 Gripen, där JAS står för jakt, attack och spaning – de tre roller planet är byggt för att fylla."
+    },
+    "source": "Wikipedia – Saab JAS 39 Gripen"
+  },
+  {
+    "id": "fugler-l-19",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["spill"],
+    "prompt": {
+      "nb": "I 2009 lanserte det finske spillselskapet Rovio et mobilspill der spilleren bruker en slynge til å skyte sinte fugler mot grisenes byggverk for å hevne stjålne egg. I 2016 kom det også en animert kinofilm om de samme fuglene. Hvilket spill?",
+      "sv": "År 2009 lanserade det finska spelbolaget Rovio ett mobilspel där spelaren använder en slangbella för att skjuta arga fåglar mot grisarnas byggnadsverk för att hämnas stulna ägg. År 2016 kom även en animerad biofilm om samma fåglar. Vilket spel?"
+    },
+    "answer": "Angry Birds",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fuglene har ingen fungerende vinger, og må derfor slynges av gårde med en slags trebasert slynge.",
+      "sv": "Fåglarna har inga fungerande vingar, och måste därför slungas i väg med en slangbella."
+    },
+    "funFact": {
+      "nb": "Spillet ble en av historiens mest nedlastede mobilapper, og gjorde det lille selskapet Rovio verdenskjent nesten over natten.",
+      "sv": "Spelet blev en av historiens mest nedladdade mobilappar, och gjorde det lilla bolaget Rovio världskänt nästan över en natt."
+    },
+    "source": "Wikipedia – Angry Birds"
+  },
+  {
+    "id": "fugler-l-20",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "Allerede antikkens grekere trodde at en bestemt hvit fugl sang vakrest rett før den døde – en oppfatning uten rot i virkeligheten, men som har gitt oss et fast uttrykk for en kunstners eller idrettsutøvers siste, avsluttende opptreden. Hvilket sammensatt ord er dette?",
+      "sv": "Redan antikens greker trodde att en viss vit fågel sjöng som allra vackrast strax innan den dog – en föreställning utan verklighetsförankring, men som har gett oss ett fast uttryck för en konstnärs eller idrottares sista, avslutande framträdande. Vilket sammansatt ord är detta?"
+    },
+    "answer": { "nb": "Svanesang", "sv": "Svanesång" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uttrykket brukes ofte om en kunstners siste plate, konsert eller forestilling før pensjonisttilværelsen eller døden.",
+      "sv": "Uttrycket används ofta om en konstnärs sista skiva, konsert eller föreställning före pensioneringen eller döden."
+    },
+    "funFact": {
+      "nb": "Den greske filosofen Aristoteles skrev at fuglen «synger mest ved nærheten av døden», og også Platon og Ovid nevnte troen i sine verker.",
+      "sv": "Den grekiske filosofen Aristoteles skrev att fågeln «sjunger mest vid dödens närhet», och även Platon och Ovidius nämnde föreställningen i sina verk."
+    },
+    "source": "Wikipedia – Swan song"
+  },
+  {
+    "id": "fugler-m-11",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["dyr"],
+    "prompt": {
+      "nb": "Med et vingespenn på opptil 2,3 meter er dette en av Norges største rovfugler, og arten hekker helst i bratte fjellsider i høyereliggende strøk over hele landet. Hvilken fugl er dette?",
+      "sv": "Med ett vingspann på upp till 2,3 meter är detta en av Norges största rovfåglar, och arten häckar helst i branta bergssluttningar i högre belägna trakter över hela landet. Vilken fågel är detta?"
+    },
+    "answer": { "nb": "Kongeørn", "sv": "Kungsörn" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fuglen er også Mexicos nasjonalsymbol, avbildet på landets flagg mens den fortærer en slange.",
+      "sv": "Fågeln är även Mexikos nationalsymbol, avbildad på landets flagga medan den förtär en orm."
+    },
+    "funFact": {
+      "nb": "Par av arten kan bruke samme reir i mange år på rad, og bygger stadig videre på det slik at det til slutt kan bli svært stort og tungt.",
+      "sv": "Par av arten kan använda samma bo i många år i följd, och bygger ständigt vidare på det så att det till slut kan bli mycket stort och tungt."
+    },
+    "source": "Wikipedia – Golden eagle"
+  },
+  {
+    "id": "fugler-m-12",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "På den sørligste spissen av øya Öland i Sverige ligger en av verdens eldste fuglestasjoner, bygget rett etter andre verdenskrig. Den har den lengste sammenhengende serien av systematiske fugleobservasjoner i verden. Hva heter stedet?",
+      "sv": "På den sydligaste udden av ön Öland i Sverige ligger en av världens äldsta fågelstationer, byggd strax efter andra världskriget. Den har den längsta sammanhängande serien av systematiska fågelobservationer i världen. Vad heter platsen?"
+    },
+    "answer": "Ottenby",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stasjonen ligger ved fyret Långe Jan, og er et viktig knutepunkt for fugler som trekker til og fra Arktis.",
+      "sv": "Stationen ligger vid fyren Långe Jan, och är en viktig knutpunkt för fåglar som flyttar till och från Arktis."
+    },
+    "funFact": {
+      "nb": "Byggingen startet i september 1945, og stasjonen sto ferdig i mars 1946. Siden den gang har forskerne ringmerket over en million fugler her.",
+      "sv": "Byggandet startade i september 1945, och stationen stod klar i mars 1946. Sedan dess har forskarna ringmärkt över en miljon fåglar här."
+    },
+    "source": "Wikipedia – Ottenby Bird Observatory"
+  },
+  {
+    "id": "fugler-m-13",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["litteratur"],
+    "prompt": {
+      "nb": "Den norske krimforfatteren Jo Nesbøs tredje bok om etterforskeren Harry Hole, utgitt i 2000, har fått tittelen sin fra en liten sangfugl med rødlig bryst. Boken regnes som gjennombruddet i serien og er oversatt til en rekke språk. Hvilken fugl gir boken navn?",
+      "sv": "Den norske deckarförfattaren Jo Nesbøs tredje bok om utredaren Harry Hole, utgiven år 2000, har fått sin titel från en liten sångfågel med rödaktigt bröst. Boken räknas som genombrottet i serien och är översatt till en rad språk. Vilken fågel ger boken dess namn?"
+    },
+    "answer": { "nb": "Rødstrupe", "sv": "Rödhake" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fuglen er en av Europas mest kjente hagefugler, og ofte avbildet på julekort.",
+      "sv": "Fågeln är en av Europas mest kända trädgårdsfåglar, och avbildas ofta på julkort."
+    },
+    "funFact": {
+      "nb": "En annen bok i samme serie, «Snømannen», ble i 2017 filmatisert i Hollywood med Michael Fassbender i hovedrollen.",
+      "sv": "En annan bok i samma serie, «Snömannen», filmatiserades 2017 i Hollywood med Michael Fassbender i huvudrollen."
+    },
+    "source": "Wikipedia – The Redbreast (Jo Nesbø)"
+  },
+  {
+    "id": "fugler-m-14",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["popkultur"],
+    "prompt": {
+      "nb": "Hver julaften siden 1960 har svenske TV-seere samlet seg om ettermiddagen for å se et amerikansk Disney-julespesial oppkalt etter en kjekk, men lettirritert and med sjømannslue – i sin storhetstid fulgt av over halvparten av Sveriges befolkning. Hvilken and er dette?",
+      "sv": "Varje julafton sedan 1960 har svenska tv-tittare samlats på eftermiddagen för att se en amerikansk Disney-julspecial uppkallad efter en käck men lättretlig anka med sjömanslue – som mest följd av mer än hälften av Sveriges befolkning. Vilken anka är detta?"
+    },
+    "answer": { "nb": "Donald Duck", "sv": "Kalle Anka" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Programmet vises fortsatt på SVT1 24. desember, og svenskene har vist seg svært beskyttende hver gang kanalen har prøvd å endre på innholdet.",
+      "sv": "Programmet visas fortfarande på SVT1 den 24 december, och svenskarna har visat sig mycket skyddande varje gång kanalen har försökt ändra innehållet."
+    },
+    "funFact": {
+      "nb": "Skikken er så innarbeidet at svenskene har protestert kraftig hver gang TV-kanalen har forsøkt å klippe bort innslag eller endre sendetidspunktet.",
+      "sv": "Traditionen är så inarbetad att svenskarna har protesterat kraftigt varje gång tv-kanalen har försökt klippa bort inslag eller ändra sändningstiden."
+    },
+    "source": "Wikipedia – From All of Us to All of You"
+  },
+  {
+    "id": "fugler-m-15",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Denne norske foreningen ble stiftet i 1957 under navnet Norsk Ornitologisk Forening, med mål om å studere fugler og verne naturen. Foreningen organiserer blant annet årlige fugletellinger og gir ut tidsskriftet Vår Fuglefauna. Hva heter foreningen i dag?",
+      "sv": "Denna norska förening grundades 1957 under namnet Norsk Ornitologisk Forening, med målet att studera fåglar och skydda naturen. Föreningen organiserar bland annat årliga fågelräkningar och ger ut tidskriften Vår Fuglefauna. Vad heter föreningen i dag?"
+    },
+    "answer": "BirdLife Norge",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Foreningen skiftet navn for å bli en tydeligere del av et internasjonalt fuglevernnettverk.",
+      "sv": "Föreningen bytte namn för att bli en tydligare del av ett internationellt fågelskyddsnätverk."
+    },
+    "funFact": {
+      "nb": "Organisasjonen er den norske partneren i det internasjonale nettverket BirdLife International, som har søsterorganisasjoner i de fleste land i verden.",
+      "sv": "Organisationen är den norska partnern i det internationella nätverket BirdLife International, som har systerorganisationer i de flesta länder i världen."
+    },
+    "source": "Store norske leksikon – Norsk Ornitologisk Forening"
+  },
+  {
+    "id": "fugler-m-16",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "På Skånes sørvestspiss samles mange av Skandinavias trekkfugler før de flyr videre sørover, ofte via et fem kilometer langt rev som stikker ut i havet. Fuglestasjonen her har ringmerket over én million fugler siden starten. Hvilket sted er dette?",
+      "sv": "På Skånes sydvästspets samlas många av Skandinaviens flyttfåglar innan de flyger vidare söderut, ofta via ett fem kilometer långt rev som sticker ut i havet. Fågelstationen här har ringmärkt över en miljon fåglar sedan starten. Vilket ställe är detta?"
+    },
+    "answer": "Falsterbo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Halvøya ligger like ved Öresund, og er et yndet sted for fugleinteresserte om høsten.",
+      "sv": "Halvön ligger alldeles vid Öresund, och är en omtyckt plats för fågelintresserade på hösten."
+    },
+    "funFact": {
+      "nb": "Fordi mange fugler helst unngår å fly over åpent hav, samler både småfugler og rovfugler seg her i store mengder før de til slutt krysser Østersjøen eller flyr videre langs kysten.",
+      "sv": "Eftersom många fåglar helst undviker att flyga över öppet hav samlas både småfåglar och rovfåglar här i stora mängder innan de till slut korsar Östersjön eller flyger vidare längs kusten."
+    },
+    "source": "Wikipedia – Falsterbo Bird Observatory"
+  },
+  {
+    "id": "fugler-m-17",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Kvinnene på Vega-øyene utenfor Helgeland har i generasjoner bygget smårom av tang og drivved der denne dunkledde sjøfuglen kan hekke i fred, for siden å høste det myke dunet fra reirene på en bærekraftig måte. Tradisjonen er en av grunnene til at øygruppa ble UNESCO-verdensarv i 2004. Hvilken fugl er dette?",
+      "sv": "Kvinnorna på Vega-öarna utanför Helgeland har i generationer byggt små bon av tång och drivved där denna dunklädda sjöfågeln kan häcka i fred, för att sedan skörda det mjuka dunet från bona på ett hållbart sätt. Traditionen är en av anledningarna till att ögruppen blev världsarv av Unesco 2004. Vilken fågel är detta?"
+    },
+    "answer": { "nb": "Ærfugl", "sv": "Ejder" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dunet fra denne fuglen er blant de varmeste og mest verdifulle naturmaterialene som finnes, og brukes fortsatt i dyre dyner.",
+      "sv": "Dunet från denna fågel är bland de varmaste och mest värdefulla naturmaterial som finns, och används fortfarande i dyra täcken."
+    },
+    "funFact": {
+      "nb": "Praksisen har foregått i så lang tid at UNESCO trekker den fram som et eksempel på hvordan mennesker og natur kan leve i gjensidig nytte over generasjoner.",
+      "sv": "Bruket har pågått så länge att Unesco lyfter fram det som ett exempel på hur människor och natur kan leva i ömsesidig nytta över generationer."
+    },
+    "source": "UNESCO World Heritage – Vega Archipelago"
+  },
+  {
+    "id": "fugler-m-18",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["tv"],
+    "prompt": {
+      "nb": "Denne åtte fot og to tommer høye, gule figuren har vært en av hovedpersonene i et amerikansk barne-TV-program siden 1969, og har gjennom årene hevdet å være både en lærke, en gullkondor og en kanarifugl. Hvem er dette?",
+      "sv": "Denna åtta fot och två tum höga, gula figuren har varit en av huvudpersonerna i ett amerikanskt barn-TV-program sedan 1969, och har genom åren påstått sig vara både en lärka, en guldkondor och en kanariefågel. Vem är detta?"
+    },
+    "answer": "Big Bird",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Figuren spilles av en skuespiller inni en enorm fjærkledd drakt, i det amerikanske forbildet til Sesam stasjon.",
+      "sv": "Figuren spelas av en skådespelare inuti en enorm fjäderklädd dräkt, i den amerikanska förlagan till svenska Sesam."
+    },
+    "funFact": {
+      "nb": "Andre figurer i programmet, som den grinete Oscar, kaller ham gjerne en kalkun for å erte ham, men ingen har noensinne avgjort hvilken fugleart han egentlig skal forestille.",
+      "sv": "Andra figurer i programmet, som den sura Oscar, kallar honom gärna en kalkon för att reta honom, men ingen har någonsin fastställt vilken fågelart han egentligen ska föreställa."
+    },
+    "source": "Wikipedia – Big Bird"
+  },
+  {
+    "id": "fugler-m-19",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "Vitenskapen som studerer fugler – deres atferd, anatomi, systematikk og bestander – har et eget navn avledet fra gresk, satt sammen av ordene for «fugl» og «lære». Hva heter dette fagfeltet?",
+      "sv": "Vetenskapen som studerar fåglar – deras beteende, anatomi, systematik och bestånd – har ett eget namn härlett från grekiska, sammansatt av orden för «fågel» och «lära». Vad heter detta ämnesområde?"
+    },
+    "answer": "Ornitologi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forstavelsen kommer fra det greske ordet for fugl, «ornis».",
+      "sv": "Förledet kommer från det grekiska ordet för fågel, «ornis»."
+    },
+    "funFact": {
+      "nb": "En som driver med fugletitting på fritiden kalles gjerne en amatørornitolog, mens de som forsker på fugler profesjonelt ofte jobber ved universiteter eller naturhistoriske museer.",
+      "sv": "Den som ägnar sig åt fågelskådning på fritiden kallas ofta amatörornitolog, medan de som forskar om fåglar professionellt ofta arbetar vid universitet eller naturhistoriska museer."
+    },
+    "source": "Bokmålsordboka – «ornitologi»"
+  },
+  {
+    "id": "fugler-m-20",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "En komet krasjer i Jupiter for astronomers øyne. Nelson Mandela blir Sør-Afrikas president. Kanaltunnelen mellom England og Frankrike åpner. Sony lanserer PlayStation i Japan. En amerikansk fotballstjerne arresteres etter en TV-sendt biljakt. Svenskene sier ja til EU-medlemskap i en folkeavstemning. Disneys løvefilm har en pratsom hornfugl blant birollene. En kanadisk popstjerne bak låten «Baby» blir født. Nirvana-vokalisten dør i Seattle. Hvilket år?",
+      "sv": "En komet kraschar in i Jupiter inför astronomernas ögon. Nelson Mandela blir Sydafrikas president. Kanaltunneln mellan England och Frankrike öppnar. Sony lanserar PlayStation i Japan. En amerikansk fotbollsstjärna grips efter en tv-sänd biljakt. Svenskarna röstar ja till EU-medlemskap i en folkomröstning. Disneys lejonfilm har en pratglad hornfågel bland biroller. En kanadensisk popstjärna bakom låten «Baby» föds. Nirvana-sångaren dör i Seattle. Vilket år?"
+    },
+    "answer": "1994",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tiåret er 1990-tallet – samme år som Sverige avgjorde sitt forhold til EU ved folkeavstemning.",
+      "sv": "Årtiondet är 1990-talet – samma år som Sverige avgjorde sin relation till EU genom folkomröstning."
+    },
+    "funFact": {
+      "nb": "Kollisjonen mellom kometen Shoemaker-Levy 9 og Jupiter var den første direkte observasjonen av et sammenstøt mellom to himmellegemer i vårt solsystem, fulgt av teleskoper over hele verden.",
+      "sv": "Kollisionen mellan kometen Shoemaker-Levy 9 och Jupiter var den första direkta observationen av en sammanstötning mellan två himlakroppar i vårt solsystem, följd av teleskop över hela världen."
+    },
+    "source": "Wikipedia – 1994; NASA – Comet Shoemaker-Levy 9"
+  },
+  {
+    "id": "fugler-v-11",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["dyr"],
+    "prompt": {
+      "nb": "Om våren samler hannen av denne store, svarte skogshønsefuglen seg med andre hanner på faste spillplasser i skogen ved daggry, der han brer ut halen som en vifte og lager underlige knepre- og klikkelyder for å tiltrekke hunner. Hvilken fugl, Europas største hønsefugl?",
+      "sv": "Om våren samlas hanen av denna stora, svarta skogshönsfågeln med andra hanar på fasta spelplatser i skogen i gryningen, där han breder ut stjärten som en solfjäder och gör märkliga knäppande och klickande läten för att locka honor. Vilken fågel, Europas största hönsfågel?"
+    },
+    "answer": { "nb": "Storfugl", "sv": "Tjäder" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hannen kalles tiur og hunnen røy.",
+      "sv": "Hanen kallas tjädertupp och honan tjäderhöna."
+    },
+    "funFact": {
+      "nb": "Spillet, som kalles tiurleik, kan vare i flere uker hver vår, og de samme spillplassene brukes ofte i generasjoner.",
+      "sv": "Spelet, som kallas tjäderspel, kan pågå i flera veckor varje vår, och samma spelplatser används ofta i generationer."
+    },
+    "source": "Wikipedia – Western capercaillie"
+  },
+  {
+    "id": "fugler-v-12",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Denne svart-hvite vadefuglen med lang, oransjerød nebb er blant de aller første trekkfuglene som kommer tilbake til norskekysten om våren, gjerne allerede i slutten av februar sør i landet. Hvilken fugl er dette?",
+      "sv": "Denna svartvita vadarfågel med lång, orangeröd näbb är bland de allra första flyttfåglarna som återvänder till norska kusten om våren, ofta redan i slutet av februari i landets södra delar. Vilken fågel är detta?"
+    },
+    "answer": { "nb": "Tjeld", "sv": "Strandskata" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den lever av skjell og bløtdyr, som den plukker fra fjæra med det kraftige nebbet.",
+      "sv": "Den lever av musslor och blötdjur, som den plockar från stranden med den kraftiga näbben."
+    },
+    "funFact": {
+      "nb": "Innerst i Trondheimsfjorden overvintrer et lite antall hvert år, det eneste stedet i Norge der arten ikke helt forsvinner om vinteren.",
+      "sv": "Innerst i Trondheimsfjorden övervintrar ett litet antal varje år, den enda platsen i Norge där arten inte helt försvinner om vintern."
+    },
+    "source": "Store norske leksikon – tjeld"
+  },
+  {
+    "id": "fugler-v-13",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Denne lille byen i Jönköpings län har en langbeint vadefugl som heraldisk symbol i sitt kommunevåpen – nettopp den fuglen navnet på byen begynner med. Hvilken by?",
+      "sv": "Denna lilla stad i Jönköpings län har en långbent vadarfågel som heraldiskt symbol i sitt kommunvapen – just den fågel som stadens namn börjar med. Vilken stad?"
+    },
+    "answer": "Tranås",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger i Småland, ikke langt fra slottet Gripenberg.",
+      "sv": "Staden ligger i Småland, inte långt från slottet Gripenberg."
+    },
+    "funFact": {
+      "nb": "Fuglen på våpenskjoldet er en trane, samme fugl som hvert år samler seg i tusentall lenger vest i Västergötland for å danse før våren.",
+      "sv": "Fågeln på vapnet är en trana, samma fågel som varje år samlas i tusental längre västerut i Västergötland för att dansa inför våren."
+    },
+    "source": "Wikipedia – Tranås"
+  },
+  {
+    "id": "fugler-v-14",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["dyr"],
+    "prompt": {
+      "nb": "Med et vingespenn på opptil nesten to meter er dette Europas største ugleart, og finnes i skog og fjellterreng i Norge, Sverige og Finland. Fuglen er kjent for sine kraftige, oransjegule øyne og karakteristiske «ører» av fjær på hodet. Hvilken ugle?",
+      "sv": "Med ett vingspann på upp till nästan två meter är detta Europas största uggleart, och finns i skog och bergstrakter i Norge, Sverige och Finland. Fågeln är känd för sina kraftiga, orangegula ögon och karakteristiska «öron» av fjädrar på huvudet. Vilken uggla?"
+    },
+    "answer": { "nb": "Hubro", "sv": "Berguv" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er nattaktiv og kan ta byttedyr like store som andre rovfugler og små pattedyr.",
+      "sv": "Den är nattaktiv och kan ta byten lika stora som andra rovfåglar och små däggdjur."
+    },
+    "funFact": {
+      "nb": "Ropet er en dyp, langtrekkende «uhu» som kan høres flere kilometer unna på en stille natt.",
+      "sv": "Ropet är ett djupt, långdraget «uhu» som kan höras flera kilometer bort en tyst natt."
+    },
+    "source": "Wikipedia – Eurasian eagle-owl"
+  },
+  {
+    "id": "fugler-v-15",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "I Hinlopenstredet på Svalbard stuper en dramatisk basaltvegg rett ned i havet. Den er hjem for en av Arktis' største fuglekolonier, der tettpakkede rader av alkefugler hekker på smale hyller i fjellsiden. Hva heter fjellet?",
+      "sv": "I Hinlopensundet på Svalbard störtar en dramatisk basaltvägg rakt ner i havet. Den är hem för en av Arktis största fågelkolonier, där tätt packade rader av alkfåglar häckar på smala hyllor i bergssidan. Vad heter berget?"
+    },
+    "answer": "Alkefjellet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet forteller nøyaktig hva slags fugler som hekker der i tusentall.",
+      "sv": "Namnet talar om exakt vilken sorts fåglar som häckar där i tusental."
+    },
+    "funFact": {
+      "nb": "Den viktigste arten er polarlomvi, en liten, pingvinlignende alkefugl som dykker etter fisk og kan holde pusten i flere minutter under vann.",
+      "sv": "Den viktigaste arten är en spetsbergsgrissla, en liten, pingvinliknande alkfågel som dyker efter fisk och kan hålla andan i flera minuter under vatten."
+    },
+    "source": "Store norske leksikon – Alkefjellet"
+  },
+  {
+    "id": "fugler-v-16",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Denne svenske fugleforeningen ble stiftet i 1945, drøyt ti år før sin norske søsterorganisasjon, og driver blant annet det nettbaserte rapporteringssystemet Artportalen, der fugleinteresserte over hele Sverige registrerer observasjonene sine. Hva heter foreningen i dag?",
+      "sv": "Denna svenska fågelförening grundades 1945, drygt tio år före sin norska systerorganisation, och driver bland annat det webbaserade rapporteringssystemet Artportalen, där fågelintresserade i hela Sverige registrerar sina observationer. Vad heter föreningen i dag?"
+    },
+    "answer": "BirdLife Sverige",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Foreningen het tidligere Sveriges Ornitologiska Förening, forkortet SOF.",
+      "sv": "Föreningen hette tidigare Sveriges Ornitologiska Förening, förkortat SOF."
+    },
+    "funFact": {
+      "nb": "Dataene fra Artportalen brukes i dag også i forskning og naturforvaltning. Foreningen gir dessuten ut tidsskriftene Vår Fågelvärld og Fågelvännen.",
+      "sv": "Uppgifterna från Artportalen används i dag även i forskning och naturvård. Föreningen ger dessutom ut tidskrifterna Vår Fågelvärld och Fågelvännen."
+    },
+    "source": "Wikipedia – BirdLife Sverige"
+  },
+  {
+    "id": "fugler-v-17",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["natur"],
+    "prompt": {
+      "nb": "Denne øde øya lengst sør på Svalbard er navngitt etter isbjørn, ikke etter fugl, men er likevel hjem for noen av den nordlige halvkules største sjøfuglkolonier, med alkefugler, krykkjer og havhester tett i tett i fjellveggene. Hvilken øy?",
+      "sv": "Denna öde ö längst söderut på Svalbard är uppkallad efter isbjörn, inte efter fågel, men är ändå hem för några av norra halvklotets största sjöfågelkolonier, med alkfåglar, tretåiga måsar och stormfåglar tätt packade i bergväggarna. Vilken ö?"
+    },
+    "answer": { "nb": "Bjørnøya", "sv": "Björnön" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øya ligger omtrent midtveis mellom Norge og Svalbards hovedøy, og gir navn til et velkjent farvann.",
+      "sv": "Ön ligger ungefär halvvägs mellan Norge och Svalbards huvudö, och ger namn åt ett välkänt farvatten."
+    },
+    "funFact": {
+      "nb": "Den tykke fugleguanoen har over tusenvis av år bygget opp unike torvavleiringer på toppen av øya, datert til rundt 8700 år gamle, som har gjort at planter kan vokse i et ellers karrig arktisk landskap.",
+      "sv": "Den tjocka fågelguanon har under tusentals år byggt upp unika torvavlagringar på toppen av ön, daterade till omkring 8700 år, vilket har gjort att växter kan växa i ett annars kargt arktiskt landskap."
+    },
+    "source": "Store norske leksikon – Bjørnøya"
+  },
+  {
+    "id": "fugler-v-18",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["litteratur"],
+    "prompt": {
+      "nb": "I Selma Lagerlöfs roman lar den tamme, hvite gåsen på gården seg rive med og flyr av gårde sammen med Akkas ville flokk, med gutten Nils klamret fast til halsen sin. Hva heter denne gåsen?",
+      "sv": "I Selma Lagerlöfs roman låter den tama, vita gåsen på gården sig ryckas med och flyger i väg tillsammans med Akkas vilda flock, med pojken Nils fastklamrad vid halsen. Vad heter denna gås?"
+    },
+    "answer": "Mårten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er nettopp denne gåsens flukt som gjør at Nils selv blir dratt med opp i luften og ut på det store eventyret.",
+      "sv": "Det är just denna gås flykt som gör att Nils själv dras med upp i luften och ut på det stora äventyret."
+    },
+    "funFact": {
+      "nb": "Gåsen er egentlig en tamgås som vanligvis ikke kan fly langt, men lar seg rive med av lengselen etter frihet når villgjessene passerer gården hans.",
+      "sv": "Gåsen är egentligen en tamgås som annars inte kan flyga långt, men rycks med av längtan efter frihet när vildgässen passerar hans gård."
+    },
+    "source": "Wikipedia – The Wonderful Adventures of Nils"
+  },
+  {
+    "id": "fugler-v-19",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "Denne langvingede havfuglens engelske navn kommer, via portugisisk, av et arabisk ord for pelikan – og ble senere påvirket av det latinske ordet for «hvit». Verdens eldste kjente viltlevende fugl er en hunn av arten, kalt Wisdom, ringmerket på Midway-atollet i 1956. I 2024, over 70 år gammel, la hun egg på nytt. Hvilken fugleart er dette?",
+      "sv": "Denna långvingade havsfågelns engelska namn kommer, via portugisiska, från ett arabiskt ord för pelikan – och påverkades senare av det latinska ordet för «vit». Världens äldsta kända vildlevande fågel är en hona av arten, kallad Wisdom, ringmärkt på Midway-atollen 1956. År 2024, över 70 år gammal, lade hon återigen ägg. Vilken fågelart är detta?"
+    },
+    "answer": "Albatross",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Arten er kjent for å kunne sveve i timevis over havet nesten uten å bevege vingene.",
+      "sv": "Arten är känd för att kunna sväva i timmar över havet nästan utan att röra vingarna."
+    },
+    "funFact": {
+      "nb": "Det arabiske opphavsordet var opprinnelig knyttet til pelikaner, men navnet endte opp med å bli brukt om denne fuglen i stedet, muligens påvirket av dens overveiende hvite fjærdrakt.",
+      "sv": "Det arabiska ursprungsordet var från början kopplat till pelikaner, men namnet kom i stället att användas om denna fågel, möjligen påverkat av dess övervägande vita fjäderdräkt."
+    },
+    "source": "Wikipedia – Albatross (etymology); Wikipedia – Wisdom (albatross)"
+  },
+  {
+    "id": "fugler-v-20",
+    "category": "fugler",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["teknologi"],
+    "prompt": {
+      "nb": "Da japanske ingeniører på 1990-tallet skulle gjøre et høyhastighetstog stillere og mer strømlinjeformet, studerte de nebbet til denne fiskespisende fuglen, som stuper nesten lydløst ned i vann etter bytte. Den nye tognesen på Shinkansen-serien ble formet etter nebbet. Hvilken fugl?",
+      "sv": "När japanska ingenjörer på 1990-talet skulle göra ett höghastighetståg tystare och mer strömlinjeformat studerade de näbben hos denna fiskätande fågel, som störtdyker nästan ljudlöst ner i vatten efter byte. Den nya tågnosen på Shinkansen-serien formades efter näbben. Vilken fågel?"
+    },
+    "answer": { "nb": "Isfugl", "sv": "Kungsfiskare" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fuglen er liten, men iøynefallende blågrønn og oransje, og sitter gjerne på utkikk ved bekker og dammer.",
+      "sv": "Fågeln är liten, men påfallande blågrön och orange, och sitter ofta på utkik vid bäckar och dammar."
+    },
+    "funFact": {
+      "nb": "Det nye togdesignet reduserte både luftmotstanden og den høye smellelyden toget tidligere laget når det kom ut av tunneler i høy fart.",
+      "sv": "Den nya tågdesignen minskade både luftmotståndet och den höga smäll tåget tidigare orsakade när det kom ut ur tunnlar i hög fart."
+    },
+    "source": "Wikipedia – Biomimetics (Shinkansen 500 series)"
+  }
+]

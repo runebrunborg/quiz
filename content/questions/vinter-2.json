@@ -4,7 +4,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Norge var vertskap for sitt aller første vinter-OL i 1952, det første mesterskapet av sitt slag som ble arrangert i en europeisk hovedstad. Skøyteøvelsene gikk ved Bislett stadion, mens de alpine grenene måtte legges til fjellet utenfor selve byen. Hvilken by var dette?",
       "sv": "Norge var värd för sitt allra första vinter-OS 1952, det första mästerskapet i sitt slag som arrangerades i en europeisk huvudstad. Skridskotävlingarna hölls vid Bislett stadion, medan de alpina grenarna fick förläggas till bergen utanför själva staden. Vilken stad var detta?"
@@ -26,7 +28,10 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["sport", "geografi"],
+    "topics": [
+      "sport",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Skiteknikken der utøveren senker det ene kneet og dreier med hoftene i en bue, er oppkalt etter et fylke i Sør-Norge der teknikken oppstod på 1800-tallet, med en skiløper fra bygda Morgedal som ofte trekkes fram som den første til å vise den fram i konkurranse. Hvilket fylke har gitt navn til teknikken?",
       "sv": "Skidtekniken där åkaren böjer det ena knäet och svänger med höfterna i en båge är uppkallad efter ett fylke i södra Norge där tekniken uppstod på 1800-talet, med en skidåkare från byn Morgedal som ofta lyfts fram som den förste att visa upp den i tävling. Vilket fylke har gett namn åt tekniken?"
@@ -48,7 +53,10 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["tv", "popkultur"],
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Denne norske julekalenderen fra 1979 følger en skomaker og gjestene i butikken hans i adventstiden, og er siden sendt i reprise på NRK utallige ganger. En parodiversjon med flerkulturelt Oslo-miljø kom i 2006. Hva heter julekalenderen?",
       "sv": "Denna norska julkalender från 1979 följer en skomakare och gästerna i hans butik under advent, och har sedan dess sänts i repris på NRK otaliga gånger. En parodiversion med en mångkulturell Oslo-miljö kom 2006. Vad heter julkalendern?"
@@ -70,7 +78,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
       "nb": "For bedre grep på is er det i Norge lov å bruke dekk med små metallpigger i mønsteret fra dagen etter andre påskedag og fram til slutten av oktober, i nord en kortere periode. Hvilken dekktype er dette?",
       "sv": "För bättre grepp på is är det i Norge tillåtet att använda däck med små metallpiggar i mönstret från dagen efter annandag påsk fram till slutet av oktober, i norr en kortare period. Vilken däcktyp är detta?"
@@ -95,10 +105,12 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["mat-og-drikke"],
+    "topics": [
+      "mat-og-drikke"
+    ],
     "prompt": {
       "nb": "Denne svenske julebuffeen serveres gjerne i fem til sju runder – fra sild og gravlaks, via juleskinke og prinsepølser, til en risgrøt med en gjemt mandel. Restauranter tilbyr den fra tidlig desember, og mange arbeidsplasser holder sin egen utgave allerede i november. Hva heter denne buffeen?",
-      "sv": "Detta svenska julbord serveras gärna i fem till sju rundor – från sill och gravlax, via julskinka och prinskorv, till en risgrynsgröt med en gömd mandel. Restauranger bjuder på det från tidig december, och många arbetsplatser håller sin egen variant redan i november. Vad heter denna bufté?"
+      "sv": "Detta svenska högtidsbord serveras gärna i fem till sju rundor – från sill och gravlax, via julskinka och prinskorv, till en risgrynsgröt med en gömd mandel. Restauranger bjuder på det från tidig december, och många arbetsplatser håller sin egen variant redan i november. Vad heter denna bufté?"
     },
     "answer": {
       "nb": "Julebord",
@@ -120,7 +132,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Det svenske landslaget i ishockey har siden 1938 spilt med et emblem hentet fra landets riksvåpen på brystet, og fikk raskt et kallenavn etter nettopp dette symbolet. Hva er lagets kallenavn?",
       "sv": "Det svenska landslaget i ishockey har sedan 1938 spelat med en symbol hämtad från landets riksvapen på bröstet, och fick snabbt ett smeknamn efter just denna symbol. Vad är lagets smeknamn?"
@@ -142,7 +156,10 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["tv", "popkultur"],
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Hver julaften klokken fem over tre samler millioner av svensker seg foran TV-en for å se et times langt utvalg av Disney-tegnefilmer, en tradisjon som har gått på SVT hver eneste jul siden 1960. Hva heter dette TV-programmet, oppkalt etter en av tegnefilmfigurene?",
       "sv": "Varje julafton klockan fem över tre samlas miljontals svenskar framför TV:n för att se en timslång samling Disney-tecknat, en tradition som sänts på SVT varje jul sedan 1960. Vad heter detta TV-program, uppkallat efter en av de tecknade figurerna?"
@@ -164,7 +181,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["mat-og-drikke"],
+    "topics": [
+      "mat-og-drikke"
+    ],
     "prompt": {
       "nb": "Denne varme, krydrede vindrikken med nellik, kanel og kardemomme har svenske røtter som går minst tilbake til 1500-tallet, og serveres gjerne med mandler, rosiner og pepperkaker ved juletider. Hva heter drikken?",
       "sv": "Denna varma, kryddade vindryck med nejlika, kanel och kardemumma har svenska rötter som går minst tillbaka till 1500-talet, och serveras gärna med mandel, russin och pepparkakor vid jultider. Vad heter drycken?"
@@ -189,7 +208,10 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["natur", "vitenskap"],
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Denne enorme isblokken har brukket løs fra en isbre eller iskappe og flyter fritt i havet, og regnes først som dette når den er over 15 meter lang. Et slikt objekt sendte «Titanic» til bunns i 1912. Hva kalles slike flytende isblokker?",
       "sv": "Detta enorma isblocket har brutit loss från en glaciär eller ishylla och flyter fritt i havet, och räknas först som detta när det är över 15 meter långt. Ett sådant objekt sände «Titanic» till botten 1912. Vad kallas sådana flytande isblock?"
@@ -214,7 +236,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["mytologi"],
+    "topics": [
+      "mytologi"
+    ],
     "prompt": {
       "nb": "I folketroen i Himalaya lever et hårete, menneskelignende vesen høyt til fjells, ofte kalt «det avskyelige snømennesket» i vestlig litteratur og film. Ingen vitenskapelig bekreftet spor er noensinne funnet. Hva heter dette mytiske vesenet?",
       "sv": "I folktron i Himalaya lever en hårig, människoliknande varelse högt uppe i bergen, ofta kallad «den avskyvärda snömannen» i västerländsk litteratur och film. Inga vetenskapligt bekräftade spår har någonsin hittats. Vad heter denna mytiska varelsen?"
@@ -236,7 +260,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["sport", "film"],
+    "topics": [
+      "sport",
+      "film"
+    ],
     "prompt": {
       "nb": "Denne norske kunstløperen vant OL-gull tre ganger på rad i 1928, 1932 og 1936, og ti verdensmesterskap på rad før hun la opp som amatør. Deretter ble hun en av Hollywoods mest lønnsomme filmstjerner på 1930- og 40-tallet. Hvem var hun?",
       "sv": "Denna norska konståkerskan vann OS-guld tre gånger i rad 1928, 1932 och 1936, och tio världsmästerskap i rad innan hon lade av som amatör. Därefter blev hon en av Hollywoods mest lönsamma filmstjärnor på 1930- och 40-talet. Vem var hon?"
@@ -262,7 +289,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["sport", "historie"],
+    "topics": [
+      "sport",
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne skiløperen fra Morgedal i Telemark laget på 1800-tallet skibindinger og skikanter som gjorde det mulig å svinge og hoppe kontrollert, og vant det første norske mesterskapet i skiing i 1868. I 1884 emigrerte han til USA, der han skal ha hatt et par ski stående utenfor døra resten av livet. Hvem var han?",
       "sv": "Denna skidåkare från Morgedal i Telemark tillverkade på 1800-talet skidbindningar och skidor med sidokurvor som gjorde det möjligt att svänga och hoppa kontrollerat, och vann den första norska skidmästerskapstävlingen 1868. År 1884 emigrerade han till USA, där han lär ha haft ett par skidor stående utanför dörren resten av livet. Vem var han?"
@@ -288,7 +318,9 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["militaerhistorie"],
+    "topics": [
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "Kampene om denne isfrie malmhavnen i Nordland våren 1940 var lenge den eneste aktive landkrigen i Europa, kjempet i dyp snø og bratt fjellterreng. Norske styrker var de eneste som var fullt utstyrt med ski, mens franske og polske styrker slet i kulden. Hvilken by var dette?",
       "sv": "Striderna om denna isfria malmhamn i Nordland våren 1940 var länge det enda aktiva markkriget i Europa, utkämpat i djup snö och brant bergsterräng. Norska styrkor var de enda som var fullt utrustade med skidor, medan franska och polska styrkor kämpade i kylan. Vilken stad var detta?"
@@ -310,7 +342,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["mytologi", "vikingtid"],
+    "topics": [
+      "mytologi",
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "I norrøn mytologi går verden mot undergangen gjennom tre vintre på rad, uten en eneste sommer imellom, fylt av kulde og kriger. Uttrykket brukes fortsatt i Norden om en spesielt hard vinter. Hvilket sammensatt norrønt ord, som bokstavelig betyr «mektig vinter», er dette varselet?",
       "sv": "I fornnordisk mytologi går världen mot sin undergång genom tre vintrar i rad, utan en enda sommar emellan, fyllda av köld och krig. Uttrycket används fortfarande i Norden om en särskilt hård vinter. Vilket sammansatt fornnordiskt ord, som bokstavligen betyder «mäktig vinter», är detta varsel?"
@@ -332,7 +367,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["militaerhistorie", "historie"],
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
     "prompt": {
       "nb": "Under vinterkrigen mellom Finland og Sovjetunionen stilte det offisielt nøytrale nabolandet i vest likevel opp med et frivillig korps på over 8000 mann, som kjempet under finsk kommando ved Salla-fronten vinteren 1940. Hvilket land sendte dette korpset?",
       "sv": "Under vinterkriget mellan Finland och Sovjetunionen ställde det officiellt neutrala grannlandet i väster ändå upp med en frivilligkår på över 8000 man, som stred under finskt befäl vid Sallafronten vintern 1940. Vilket land skickade denna kår?"
@@ -354,7 +392,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["transport", "teknologi"],
+    "topics": [
+      "transport",
+      "teknologi"
+    ],
     "prompt": {
       "nb": "Hver vinter fylles denne lille kommunen i Lappland med ingeniører fra internasjonale bilprodusenter, som tester vinterdekk og kjøretøy på den islagte innsjøen Hornavan og omkringliggende veier. Subarktisk klima gir pålitelig kulde og snø år etter år. Hvilken kommune er dette?",
       "sv": "Varje vinter fylls denna lilla kommun i Lappland med ingenjörer från internationella biltillverkare, som testar vinterdäck och fordon på den isbelagda sjön Hornavan och omkringliggande vägar. Subarktiskt klimat ger pålitlig kyla och snö år efter år. Vilken kommun är detta?"
@@ -376,7 +417,9 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Denne isidretten spilles med ball i stedet for puck, på en bane like stor som en fotballbane, med elleve spillere på hvert lag. Sverige og Russland har lenge vært de klart sterkeste nasjonene, og sporten regnes som en forløper til ishockey. Hvilken idrett er dette?",
       "sv": "Denna issport spelas med boll i stället för puck, på en bana lika stor som en fotbollsplan, med elva spelare i varje lag. Sverige och Ryssland har länge varit de klart starkaste nationerna, och sporten räknas som en föregångare till ishockey. Vilken sport är detta?"
@@ -398,10 +441,12 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
       "nb": "Denne enkle vinterkjelken har et sete montert på to lange, fjærende metallmeier, og styres ved at føreren står bakpå den ene meien og dytter fra med den andre foten. Den ble første gang omtalt i en nord-svensk avis rundt 1870, og moderne fabrikkversjoner kom fra Sverige i 1909. Hva kalles kjøretøyet?",
-      "sv": "Denna enkla vinterslädtyp har ett säte monterat på två långa, fjädrande metallmedar, och styrs genom att föraren står bakpå den ena meden och sparkar fart med den andra foten. Den omtalades första gången i en nordsvensk tidning omkring 1870, och moderna fabrikstillverkade versioner kom från Sverige 1909. Vad kallas fordonet?"
+      "sv": "Denna enkla vinterslädtyp har ett säte monterat på två långa, fjädrande metallmedar, och styrs genom att föraren står bakpå den ena meden och trycker fram fordonet med den andra foten. Den omtalades första gången i en nordsvensk tidning omkring 1870, och moderna fabrikstillverkade versioner kom från Sverige 1909. Vad kallas fordonet?"
     },
     "answer": "Spark",
     "answerKind": "annet",
@@ -420,7 +465,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["sport", "dyr"],
+    "topics": [
+      "sport",
+      "dyr"
+    ],
     "prompt": {
       "nb": "Dette hundekjøreløpet går over rundt 1600 kilometer fra Anchorage til Nome i Alaska, oppkalt etter en gammel postrute. Løpet ble arrangert for første gang i 1973 med 34 spann, og tar fortsatt over en uke å fullføre selv for de raskeste. Hva heter løpet?",
       "sv": "Detta hundspannslopp går över omkring 1600 kilometer från Anchorage till Nome i Alaska, uppkallat efter en gammal postrutt. Loppet arrangerades första gången 1973 med 34 spann, och tar fortfarande över en vecka att fullfölja även för de snabbaste. Vad heter loppet?"
@@ -442,7 +490,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["litteratur", "film"],
+    "topics": [
+      "litteratur",
+      "film"
+    ],
     "prompt": {
       "nb": "Denne britiske tegnefilmen fra 1982, uten annen dialog enn én sang, følger en gutt og en animert vinterskikkelse han har bygget utenfor huset sitt, og som en magisk natt blir levende og flyr med ham over hustak og landskap. Filmen bygger på en bildebok fra 1978 av Raymond Briggs og vises tradisjonelt på TV i Storbritannia hver jul. Hva heter filmen?",
       "sv": "Denna brittiska tecknade film från 1982, utan annan dialog än en sång, följer en pojke och en animerad vintergestalt han har byggt utanför sitt hus, och som en magisk natt blir levande och flyger med honom över hustak och landskap. Filmen bygger på en bilderbok från 1978 av Raymond Briggs och visas traditionellt på TV i Storbritannien varje jul. Vad heter filmen?"
@@ -467,7 +518,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["militaerhistorie"],
+    "topics": [
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "Natten mellom 27. og 28. februar 1943 klatret et lite norsk sabotørlag ned i en isbelagt kløft, krysset en elv og klatret opp igjen for å unngå vaktene ved dette tungtvannsanlegget i Telemark. Alle ni mennene overlevde, fem av dem rakk å gå 322 kilometer på ski til Sverige etterpå. Hvem ledet aksjonen?",
       "sv": "Natten mellan 27 och 28 februari 1943 klättrade ett litet norskt sabotörlag ner i en isbelagd klyfta, korsade en älv och klättrade upp igen för att undvika vakterna vid denna tungvattenanläggning i Telemark. Alla nio männen överlevde, fem av dem hann gå 322 kilometer på skidor till Sverige efteråt. Vem ledde aktionen?"
@@ -493,7 +546,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Denne norske hopperen vant OL-gull i skihopping i både 1932 og 1936, og ble dermed den første til å vinne gullet to ganger på rad. Hele seksten år senere, i 1948, tok han sølv i samme øvelse, som den første til å ta medalje i skihopping ved tre ulike OL. Hvem var han?",
       "sv": "Denna norska backhopparen vann OS-guld i backhoppning både 1932 och 1936, och blev därmed den förste att vinna guldet två gånger i rad. Hela sexton år senare, 1948, tog han silver i samma gren, som den förste att ta medalj i backhoppning vid tre olika OS. Vem var han?"
@@ -519,7 +574,10 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["natur", "geografi"],
+    "topics": [
+      "natur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Nord for polarsirkelen forsvinner sola helt under horisonten i deler av vinteren, en periode som varer rundt to måneder i Tromsø og enda lenger på Svalbard. Fullt mørkt blir det likevel sjelden, takket være skumringslys og kunstig belysning. Hva kalles denne årstidsbestemte perioden med sol under horisonten?",
       "sv": "Norr om polcirkeln försvinner solen helt under horisonten under delar av vintern, en period som varar omkring två månader i Tromsø och ännu längre på Svalbard. Helt mörkt blir det ändå sällan, tack vare skymningsljus och konstgjord belysning. Vad kallas denna årstidsbundna period med sol under horisonten?"
@@ -541,7 +599,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["litteratur"],
+    "topics": [
+      "litteratur"
+    ],
     "prompt": {
       "nb": "I denne norske romanen fra 1963 forsvinner elleve år gamle Unn inne i et islott skapt av en frossen foss, og forlater vennen Siss i dyp sorg og stillhet. Forfatteren fikk Nordisk råds litteraturpris for boken året etter utgivelsen. Hvem skrev romanen?",
       "sv": "I denna norska romanen från 1963 försvinner elvaåriga Unn inne i ett isslott skapat av ett fruset vattenfall, och lämnar väninnan Siss i djup sorg och tystnad. Författaren fick Nordiska rådets litteraturpris för boken året efter utgivningen. Vem skrev romanen?"
@@ -567,7 +627,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Denne svenske astronomen ved Uppsala universitet foreslo i 1742 en ny temperaturskala, men i hans opprinnelige versjon var det kokepunktet som fikk verdien null og frysepunktet som fikk hundre – stikk motsatt av i dag. Skalaen ble snudd om etter hans død, angivelig av Carl von Linné. Hvem var mannen skalaen er oppkalt etter?",
       "sv": "Denna svenska astronomen vid Uppsala universitet föreslog 1742 en ny temperaturskala, men i hans ursprungliga version var det kokpunkten som fick värdet noll och fryspunkten som fick hundra – precis tvärtom mot i dag. Skalan vändes om efter hans död, enligt uppgift av Carl von Linné. Vem var mannen skalan är uppkallad efter?"
@@ -593,7 +655,10 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["militaerhistorie", "kongehus"],
+    "topics": [
+      "militaerhistorie",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Vinteren 1708–1709 regnes som en av de hardeste i Europas historie på 500 år. Midt i denne kulden marsjerte denne svenske kongen med hæren sin sørover mot Ukraina etter å ha gitt opp planen om å innta Moskva, og led et knusende nederlag mot russerne ved Poltava sommeren 1709. Hvem var kongen?",
       "sv": "Vintern 1708–1709 räknas som en av de hårdaste i Europas historia på 500 år. Mitt i denna kyla marscherade denna svenska kungen med sin armé söderut mot Ukraina efter att ha gett upp planen att inta Moskva, och led ett förkrossande nederlag mot ryssarna vid Poltava sommaren 1709. Vem var kungen?"
@@ -615,7 +680,10 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["dyr", "natur"],
+    "topics": [
+      "dyr",
+      "natur"
+    ],
     "prompt": {
       "nb": "Dette flokkdyret er grunnlaget for en gammel driftsform i Sápmi, den samiske regionen som strekker seg gjennom Nord-Sverige, der flokkene flyttes mellom sommer- og vinterbeite. Om vinteren graver dyret seg gjennom hardpakket snø med hovene for å nå den grålige laven det lever av når annen mat er knapp – en teknikk som kalles «cratering». Hvilket dyr er dette?",
       "sv": "Detta flockdjur är grunden för en gammal driftsform i Sápmi, den samiska regionen som sträcker sig genom norra Sverige, där flockarna flyttas mellan sommar- och vinterbete. Om vintern gräver djuret sig genom hårdpackad snö med hovarna för att nå den gråa laven det livnär sig på när annan föda är knapp – en teknik som kallas «cratering». Vilket djur är detta?"
@@ -640,7 +708,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "Skipet hans, «Antarctic», ble knust av pakkis og sank i februar 1903 mens det forsøkte å hente denne svenske ekspedisjonslederen etter en vitenskapelig vinter ved Antarktis-halvøya. Mannskapet overlevde i et hastig bygget steinhus på Paulet Island til de ble reddet av et argentinsk marinefartøy samme år. Hvem ledet den svenske ekspedisjonen?",
       "sv": "Hans skepp, «Antarctic», krossades av packis och sjönk i februari 1903 medan det försökte hämta denne svenske expeditionsledaren efter en vetenskaplig vinter vid Antarktiska halvön. Besättningen överlevde i en hastigt byggd stenkoja på Paulet Island tills de räddades av ett argentinskt marinfartyg samma år. Vem ledde den svenska expeditionen?"
@@ -666,7 +736,10 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["natur", "historie"],
+    "topics": [
+      "natur",
+      "historie"
+    ],
     "prompt": {
       "nb": "Vinteren 1708–1709 var trolig den kaldeste i Europa på 500 år. I Frankrike fulgte en hungersnød som skal ha kostet rundt 600 000 liv, og hendelsen regnes òg som en medvirkende årsak til at mange tyske «palatinere» utvandret. Hva kalles denne ekstreme kuldeperioden i historiebøkene?",
       "sv": "Vintern 1708–1709 var troligen den kallaste i Europa på 500 år. I Frankrike följde en hungersnöd som ska ha kostat omkring 600 000 liv, och händelsen räknas även som en bidragande orsak till att många tyska «pfalzare» utvandrade. Vad kallas denna extrema köldperiod i historieböckerna?"
@@ -691,7 +764,10 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["musikk", "litteratur"],
+    "topics": [
+      "musikk",
+      "litteratur"
+    ],
     "prompt": {
       "nb": "Diktet «Snow had fallen, snow on snow» åpner denne julesalmen, skrevet av en britisk dikter og først trykket i et amerikansk magasin i 1872. Komponisten Gustav Holst satte senere en kjent melodi til teksten. Hva heter salmen?",
       "sv": "Dikten «Snow had fallen, snow on snow» inleder denna julpsalm, skriven av en brittisk poet och först tryckt i en amerikansk tidskrift 1872. Tonsättaren Gustav Holst satte senare en känd melodi till texten. Vad heter psalmen?"

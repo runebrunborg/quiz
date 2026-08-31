@@ -1,0 +1,791 @@
+[
+  {
+    "id": "storm-l-11",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Natt til 1. januar 1992 traff et ekstremt kraftig uvær Nordvestlandet, rev tak av hus og skapte krise i strømnettet. Store norske leksikon omtaler den som den kraftigste orkanen som har rammet Norge på 200 år. Hva kalles uværet, oppkalt etter tidspunktet det inntraff?",
+      "sv": "Natten till 1 januari 1992 drabbade ett extremt kraftigt oväder nordvästra Norge, ryckte tak av hus och skapte kris i elnätet. Store norske leksikon beskriver den som den kraftigaste orkan som drabbat Norge på 200 år. Vad kallas ovädret, uppkallat efter tidpunkten det inträffade?"
+    },
+    "answer": {
+      "nb": "Nyttårsorkanen",
+      "sv": "Nyårsorkanen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet forteller hvilken høytid som nettopp var over.",
+      "sv": "Namnet avslöjar vilken högtid som just var över."
+    },
+    "funFact": {
+      "nb": "Omkring 29 000 bygninger ble skadet, med en samlet kostnad på rundt 1,3 milliarder kroner – uten at selve uværet direkte krevde menneskeliv.",
+      "sv": "Omkring 29 000 byggnader skadades, till en sammanlagd kostnad av ungefär 1,3 miljarder norska kronor – utan att själva ovädret direkt krävde människoliv."
+    },
+    "source": "Store norske leksikon – Nyttårsorkanen 1992"
+  },
+  {
+    "id": "storm-l-12",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Tjenesten drives i fellesskap av NRK og en statlig fagetat for vær, og er blitt selve stedet nordmenn sjekker før de skal ut i mulig storm eller uvær. Navnet er bare to bokstaver langt. Hvilken norsk værtjeneste?",
+      "sv": "Tjänsten drivs gemensamt av NRK och en statlig meteorologisk myndighet, och är den plats norrmän kollar innan de ska ut i möjligt oväder eller storm. Namnet är bara två bokstäver långt. Vilken norsk vädertjänst?"
+    },
+    "answer": "Yr",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Nettadressen er yr.no.",
+      "sv": "Webbadressen är yr.no."
+    },
+    "funFact": {
+      "nb": "Tjenesten har vært svært populær langt utenfor Norges grenser, og regnes som en av verdens mest besøkte værtjenester på nett.",
+      "sv": "Tjänsten har varit mycket populär långt utanför Norges gränser, och räknas som en av världens mest besökta vädertjänster på nätet."
+    },
+    "source": "Yr (NRK/Meteorologisk institutt) – om tjenesten"
+  },
+  {
+    "id": "storm-l-13",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Denne norske etaten gir kraftige uvær som stormer og orkaner et navn i alfabetisk rekkefølge – annenhver gang et kvinnenavn og et mannsnavn – og sender ut fargekodede farevarsler når uværet nærmer seg kysten. Hvilken etat?",
+      "sv": "Denna norska myndighet ger kraftiga oväder som stormar och orkaner ett namn i alfabetisk ordning – varannan gång ett kvinnonamn och ett mansnamn – och skickar ut färgkodade vädervarningar när ovädret närmar sig kusten. Vilken myndighet?"
+    },
+    "answer": "Meteorologisk institutt",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortes MET, og har ansvaret for de offisielle værmeldingene i Norge.",
+      "sv": "Förkortas MET, och ansvarar för de officiella väderprognoserna i Norge."
+    },
+    "funFact": {
+      "nb": "Praksisen med å navngi kraftige uvær ble innført for at folk lettere skal huske og snakke om dem, og brukes i dag i hele Norden.",
+      "sv": "Metoden att namnge kraftiga oväder infördes för att människor lättare ska minnas och prata om dem, och används i dag i hela Norden."
+    },
+    "source": "Meteorologisk institutt – om varsling og navngiving av uvær"
+  },
+  {
+    "id": "storm-l-14",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Den 8. januar 2005 feide et kraftig lavtrykk inn over Sør-Sverige med vindkast opp mot 165 kilometer i timen. Over 75 millioner kubikkmeter skog blåste over ende på én natt – mer enn Sverige normalt hogger på et helt år. Hvilken storm, oppkalt med et kvinnenavn, var dette?",
+      "sv": "Den 8 januari 2005 svepte ett kraftigt lågtryck in över södra Sverige med vindbyar på uppemot 165 kilometer i timmen. Över 75 miljoner kubikmeter skog blåste omkull på en enda natt – mer än vad Sverige normalt avverkar på ett helt år. Vilken storm, uppkallad med ett kvinnonamn, var detta?"
+    },
+    "answer": "Gudrun",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tømmeret som falt, gjorde Sverige til verdens største trelasteksportør en periode etterpå.",
+      "sv": "Timret som föll gjorde Sverige till världens största trävaruexportör en period efteråt."
+    },
+    "funFact": {
+      "nb": "Omtrent 415 000 svenske husstander mistet strømmen, og noen områder var uten strøm i flere uker etter uværet.",
+      "sv": "Omkring 415 000 svenska hushåll blev strömlösa, och vissa områden var utan ström i flera veckor efter ovädret."
+    },
+    "source": "Wikipedia (engelsk) – Cyclone Gudrun"
+  },
+  {
+    "id": "storm-l-15",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Han flisespikker et lik i en trekvist i «Fargo», spiller skurk i «Armageddon» og prest i «Constantine». Fødenavnet hans var faktisk Peter Storm, men på skuespillerskolen delte han navn med en eldre elev og måtte finne på noe nytt. Hvilken svensk skuespiller?",
+      "sv": "Han flisar ett lik i en flismaskin i «Fargo», spelar skurk i «Armageddon» och präst i «Constantine». Hans födelsenamn var faktiskt Peter Storm, men på skådespelarskolan delade han namn med en äldre elev och fick hitta på något nytt. Vilken svensk skådespelare?"
+    },
+    "answer": "Peter Stormare",
+    "answerKind": "person",
+    "person": {
+      "given": "Peter",
+      "family": "Stormare"
+    },
+    "hint": {
+      "nb": "Etternavnet betyr omtrent «han som stormer» på svensk.",
+      "sv": "Efternamnet betyder ungefär «den som stormar» på svenska."
+    },
+    "funFact": {
+      "nb": "Før han landet på Stormare, vurderte han «Retep Mrots» – «Peter Storm» baklengs.",
+      "sv": "Innan han landade på Stormare övervägde han «Retep Mrots» – «Peter Storm» baklänges."
+    },
+    "source": "Wikipedia – Peter Stormare"
+  },
+  {
+    "id": "storm-l-16",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "En jente fra Kansas og hunden hennes blir løftet opp av en kraftig virvelstorm og satt ned i et fargerikt eventyrland med sangglade innbyggere, en ond heks og en trollmann bak et forheng. Hvilken amerikanske filmklassiker fra 1939 er dette?",
+      "sv": "En flicka från Kansas och hennes hund lyfts upp av en kraftig virvelstorm och sätts ner i ett färgglatt sagoland med sångglada invånare, en ond häxa och en trollkarl bakom ett förhänge. Vilken amerikansk filmklassiker från 1939 är detta?"
+    },
+    "answer": {
+      "nb": "Trollmannen fra Oz",
+      "sv": "Trollkarlen från Oz"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hun har på seg et par røde sko med magiske krefter.",
+      "sv": "Hon har ett par röda skor med magiska krafter."
+    },
+    "funFact": {
+      "nb": "Tornadoen i filmen ble skapt med en ti meter lang strømpe av musselin som roterte foran kameraet, og regnes som et av de mest kjente spesialeffekttriksene fra klassisk Hollywood.",
+      "sv": "Tornadon i filmen skapades med en tio meter lång strumpa av muslin som roterade framför kameran, och räknas som ett av de mest kända specialeffekttricken från klassisk Hollywood."
+    },
+    "source": "Warner Bros. – The Wizard of Oz (1939)"
+  },
+  {
+    "id": "storm-l-17",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Hun het opprinnelig Ororo Munroe, dukket først opp i en tegneserie i 1975, og kan styre vind, regn og lyn med tankekraften. Halle Berry spilte henne på kino fra 2000 til 2014. Hvilken superheltinne i X-Men har et værfenomen som kodenavn?",
+      "sv": "Hon hette ursprungligen Ororo Munroe, dök först upp i en serietidning 1975, och kan styra vind, regn och blixtar med tankekraft. Halle Berry spelade henne på bio från 2000 till 2014. Vilken superhjältinna i X-Men har ett väderfenomen som kodnamn?"
+    },
+    "answer": "Storm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kodenavnet hennes er selve uværet.",
+      "sv": "Kodnamnet hennes är själva ovädret."
+    },
+    "funFact": {
+      "nb": "I tegneseriene regnes hun som en av de kraftigste mutantene i hele Marvel-universet, og har flere ganger vært leder for X-Men.",
+      "sv": "I serierna räknas hon som en av de mäktigaste mutanterna i hela Marvel-universumet, och har flera gånger varit ledare för X-Men."
+    },
+    "source": "Marvel Comics – Storm (Ororo Munroe)"
+  },
+  {
+    "id": "storm-l-18",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "I januar 2022 rev en kraftig vinterstorm fasadeplater av det 190 meter høye, spiralformede vartegnet i Malmø, og veltet to byggekraner i byen. Hvilket kjent tårn ble skadet?",
+      "sv": "I januari 2022 rev en kraftig vinterstorm fasadplattor från det 190 meter höga, spiralformade landmärket i Malmö, och välte två byggkranar i staden. Vilket känt torn skadades?"
+    },
+    "answer": "Turning Torso",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bygningen er tegnet av den spanske arkitekten Santiago Calatrava og vrir seg 90 grader fra bunn til topp.",
+      "sv": "Byggnaden är ritad av den spanske arkitekten Santiago Calatrava och vrider sig 90 grader från botten till toppen."
+    },
+    "funFact": {
+      "nb": "Stormen, som fikk navnet Malik, etterlot rundt 40 000 svenske husstander uten strøm, men krevde ingen menneskeliv i Sverige.",
+      "sv": "Stormen, som fick namnet Malik, lämnade omkring 40 000 svenska hushåll utan ström, men krävde inga människoliv i Sverige."
+    },
+    "source": "Wikipedia – Storm Malik"
+  },
+  {
+    "id": "storm-l-19",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "mat-og-drikke",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Selskapet fra Trångsviken i Jämtland begynte å lage kjøkkenutstyr i 1925, og utviklet i 1951 et vindtett kokeapparat som fortsatt selges i millionvis av eksemplarer verden over. På norsk kalles denne typen apparat rett og slett et stormkjøkken. Hvilket svensk merke?",
+      "sv": "Företaget från Trångsviken i Jämtland började tillverka köksredskap 1925, och utvecklade 1951 en vindtät kokapparat som fortfarande säljs i miljontals exemplar över hela världen. På norska kallas den här typen av apparat helt enkelt ett stormkök. Vilket svenskt märke?"
+    },
+    "answer": "Trangia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er hentet direkte fra hjembygda til grunnleggerne.",
+      "sv": "Namnet är hämtat direkt från grundarnas hemby."
+    },
+    "funFact": {
+      "nb": "Vindskjermen rundt brenneren er selve poenget: den lar flammen brenne jevnt selv i sterk vind på fjellet.",
+      "sv": "Vindskyddet runt brännaren är själva poängen: det låter lågan brinna jämnt även i stark vind på fjället."
+    },
+    "source": "Wikipedia – Trangia"
+  },
+  {
+    "id": "storm-l-20",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "transport",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Havstykket utenfor denne halvøya på Nordvestlandet er så værhardt at Stortinget i 2021 vedtok å bygge verdens første fullskala skipstunnel gjennom fjellet, slik at skip kan unngå å krysse det i uvær. Hvilket havstykke?",
+      "sv": "Havsområdet utanför denna halvö i nordvästra Norge är så väderhårt att Stortinget 2021 beslutade att bygga världens första fullskaliga skeppstunnel genom berget, så att fartyg kan undvika att korsa det i oväder. Vilket havsområde?"
+    },
+    "answer": "Stadhavet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det ligger ved halvøya Stad, mellom Moldefjorden og Kjødepollen.",
+      "sv": "Det ligger vid halvön Stad, mellan Moldefjorden och Kjødepollen."
+    },
+    "funFact": {
+      "nb": "Tunnelplanene hadde vært diskutert i rundt 50 år før Stortinget endelig sa ja, og tunnelen skal ta skip på opptil 33 meters seilingshøyde.",
+      "sv": "Tunnelplanerna hade diskuterats i omkring 50 år innan Stortinget äntligen sa ja, och tunneln ska ta fartyg med upp till 33 meters seglingshöjd."
+    },
+    "source": "Store norske leksikon – Stad skipstunnel"
+  },
+  {
+    "id": "storm-m-11",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Ved denne fyrstasjonen på Vågsøy, en av Norges mest værharde plasser, ble det i januar 2016 målt et vindkast på 61,7 meter i sekundet under et uvær som fikk navnet Tor. Hvilket fyr, med samme navn som den lokale kommunen på den tiden?",
+      "sv": "Vid denna fyrstation på Vågsøy, en av Norges mest väderhårda platser, uppmättes i januari 2016 en vindby på 61,7 meter per sekund under ett oväder som fick namnet Tor. Vilken fyr, med samma namn som den lokala kommunen vid den tiden?"
+    },
+    "answer": "Kråkenes fyr",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er også et rovfuglslekt-ord – kråke pluss endelsen -nes.",
+      "sv": "Namnet innehåller ordet för en svart fågel – kråka plus ändelsen -nes."
+    },
+    "funFact": {
+      "nb": "Stormen fikk et navn som tilfeldigvis også er navnet på den norrøne tordenguden, noe som passet godt til et av de kraftigste vindkastene som er målt her i landet.",
+      "sv": "Stormen fick ett namn som av en slump också är namnet på den fornnordiska åskguden, vilket passade bra för en av de kraftigaste vindbyar som uppmätts i landet."
+    },
+    "source": "Store norske leksikon – Kråkenes fyr"
+  },
+  {
+    "id": "storm-m-12",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Hun jobbet som værmelder på TV 2 fra 1992 til 1997, før hun samme år startet et værvarslingsselskap med et navn som er selve ankerordet i denne quizen. I 2010 byttet selskapet navn til StormGeo. Hvilken norsk meteorolog?",
+      "sv": "Hon arbetade som väderpresentatör på TV 2 mellan 1992 och 1997, innan hon samma år startade ett väderprognosföretag med ett namn som är just ankarordet i det här quizet. År 2010 bytte företaget namn till StormGeo. Vilken norsk meteorolog?"
+    },
+    "answer": "Siri Kalvig",
+    "answerKind": "person",
+    "person": {
+      "given": "Siri",
+      "family": "Kalvig"
+    },
+    "hint": {
+      "nb": "Selskapet het opprinnelig Storm Weather Center.",
+      "sv": "Företaget hette ursprungligen Storm Weather Center."
+    },
+    "funFact": {
+      "nb": "Hun har senere hatt en doktorgrad om fornybar energi til havs, og leder i dag det statlige klimainvesteringsselskapet Nysnø.",
+      "sv": "Hon har senare doktorerat om förnybar energi till havs, och leder i dag det statliga klimatinvesteringsbolaget Nysnø."
+    },
+    "source": "Store norske leksikon – Siri Kalvig"
+  },
+  {
+    "id": "storm-m-13",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I femte akt av dette skuespillet fra 1867 blåser det opp til storm langs norskekysten, og hovedpersonen overlever skipbruddet på bekostning av mannskapet, som etterlater seg koner og barn. Hvilket skuespill av Henrik Ibsen?",
+      "sv": "I femte akten av denna pjäs från 1867 blåser det upp till storm längs norska kusten, och huvudpersonen överlever skeppsbrottet på bekostnad av besättningen, som lämnar efter sig hustrur och barn. Vilken pjäs av Henrik Ibsen?"
+    },
+    "answer": "Peer Gynt",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tittelpersonen har også møtt Dovregubben og Bøygen tidligere i stykket.",
+      "sv": "Titelpersonen har också mött Dovregubben och Bøygen tidigare i pjäsen."
+    },
+    "funFact": {
+      "nb": "En mystisk, ukjent passasjer dukker opp under stormen og ber om å få liket til Peer når han dør – en av stykkets mest gåtefulle scener.",
+      "sv": "En mystisk, okänd passagerare dyker upp under stormen och ber om att få Peers kropp när han dör – en av pjäsens mest gåtfulla scener."
+    },
+    "source": "Store norske leksikon – Peer Gynt"
+  },
+  {
+    "id": "storm-m-14",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Romsonden Mars Climate Orbiter går tapt på vei inn i bane, euroen innføres som valuta i elleve europeiske land, verdens befolkning passerer seks milliarder mennesker, fildelingstjenesten Napster lanseres, orkanene Lothar og Martin rammer Frankrike med to dagers mellomrom, stormen Anatol herjer Danmark og Sør-Sverige, «Star Wars: Episode I» har kinopremiere, Lil Nas X blir født og Stanley Kubrick dør. Hvilket år inntraff disse hendelsene?",
+      "sv": "Rymdsonden Mars Climate Orbiter går förlorad på väg in i omloppsbana, euron införs som valuta i elva europeiska länder, jordens befolkning passerar sex miljarder människor, fildelningstjänsten Napster lanseras, orkanerna Lothar och Martin drabbar Frankrike med två dagars mellanrum, stormen Anatol härjar Danmark och södra Sverige, «Star Wars: Episod I» har biopremiär, Lil Nas X föds och Stanley Kubrick dör. Vilket år inträffade detta?"
+    },
+    "answer": "1999",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Slutten av 1990-tallet.",
+      "sv": "Slutet av 1990-talet."
+    },
+    "funFact": {
+      "nb": "Lothar og Martin til sammen etterlot rundt 3,4 millioner franske husstander uten strøm, og feide ned en firedel av landets høyspentlinjer.",
+      "sv": "Lothar och Martin lämnade tillsammans omkring 3,4 miljoner franska hushåll utan ström, och fällde en fjärdedel av landets högspänningsledningar."
+    },
+    "source": "Store norske leksikon – 1999; Wikipedia – Mars Climate Orbiter, Lothar and Martin, Anatol (storm)"
+  },
+  {
+    "id": "storm-m-15",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "litteratur",
+      "film"
+    ],
+    "prompt": {
+      "nb": "I denne romanen fra 1981 blir hovedpersonen født akkurat idet et voldsomt tordenvær kløyver røverborgen Mattisborgen i to med et lynnedslag. Forfatteren er Astrid Lindgren, og historien er siden blitt både spillefilm og en prisbelønt japansk animeserie. Hvilken roman?",
+      "sv": "I denna roman från 1981 föds huvudpersonen precis när ett våldsamt åskväder klyver rövarborgen Mattisborgen i två med ett blixtnedslag. Författaren är Astrid Lindgren, och historien har sedan blivit både långfilm och en prisbelönt japansk animeserie. Vilken roman?"
+    },
+    "answer": {
+      "nb": "Ronja Røverdatter",
+      "sv": "Ronja Rövardotter"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedpersonen er datter av røverhøvdingen Mattis.",
+      "sv": "Huvudpersonen är dotter till rövarhövdingen Mattis."
+    },
+    "funFact": {
+      "nb": "Historien er også filmatisert flere ganger, blant annet som en anime-tv-serie i regi av Gorō Miyazaki i 2014.",
+      "sv": "Historien har också filmatiserats flera gånger, bland annat som en anime-tv-serie regisserad av Gorō Miyazaki 2014."
+    },
+    "source": "Wikipedia – Ronia, the Robber's Daughter"
+  },
+  {
+    "id": "storm-m-16",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Vinteren 2007 rammet en kraftig vinterstorm Sør-Vest-Sverige, med vindkast på opp mot 140 kilometer i timen. I Tyskland fikk den navnet Hanno, men i Sverige et kort, svensk guttenavn på tre bokstaver. Hvilket?",
+      "sv": "Vintern 2007 drabbade en kraftig vinterstorm sydvästra Sverige, med vindbyar på uppemot 140 kilometer i timmen. I Tyskland fick den namnet Hanno, men i Sverige ett kort, svenskt pojknamn på tre bokstäver. Vilket?"
+    },
+    "answer": "Per",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Et av de aller vanligste norske og svenske guttenavnene.",
+      "sv": "Ett av de allra vanligaste svenska pojknamnen."
+    },
+    "funFact": {
+      "nb": "Europeiske stormer får ofte to ulike navn samtidig, fordi flere lands værinstitutter navngir det samme uværet hver for seg.",
+      "sv": "Europeiska stormar får ofta två olika namn samtidigt, eftersom flera länders väderinstitut namnger samma oväder var för sig."
+    },
+    "source": "Wikipedia – List of European windstorms"
+  },
+  {
+    "id": "storm-m-17",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "tv"
+    ],
+    "prompt": {
+      "nb": "Han var værpresentatør i svensk allmennkringkasting fra 1988 til 2008, og gikk senere inn i politikken for Miljöpartiet – i 2019 ble han innvalgt i EU-parlamentet. Hvilken svensk meteorolog og tidligere TV-profil?",
+      "sv": "Han var väderpresentatör i svensk public service från 1988 till 2008, och gick senare in i politiken för Miljöpartiet – 2019 valdes han in i EU-parlamentet. Vilken svensk meteorolog och tidigare tv-profil?"
+    },
+    "answer": "Pär Holmgren",
+    "answerKind": "person",
+    "person": {
+      "given": "Pär",
+      "family": "Holmgren"
+    },
+    "hint": {
+      "nb": "Han jobbet i tjue år for kanalen SVT.",
+      "sv": "Han arbetade i tjugo år för kanalen SVT."
+    },
+    "funFact": {
+      "nb": "Før TV-karrieren tjenestegjorde han også i det svenske flyvåpenet.",
+      "sv": "Före tv-karriären tjänstgjorde han även inom svenska flygvapnet."
+    },
+    "source": "Wikipedia – Pär Holmgren"
+  },
+  {
+    "id": "storm-m-18",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Den østerrikske komponisten ga sin sjette symfoni undertittelen «Pastorale», og lot det fjerde av fem satser skildre et voldsomt tordenvær med pauketorden og fløytelyn, før finalen bringer solskinn og takknemlighet tilbake. Hvilken komponist?",
+      "sv": "Den österrikiska kompositören gav sin sjätte symfoni undertiteln «Pastoral», och lät den fjärde av fem satser skildra ett våldsamt åskväder med pukåska och flöjtblixtar, innan finalen för tillbaka solsken och tacksamhet. Vilken kompositör?"
+    },
+    "answer": "Ludwig van Beethoven",
+    "answerKind": "person",
+    "person": {
+      "given": "Ludwig",
+      "family": "van Beethoven"
+    },
+    "hint": {
+      "nb": "Han var faktisk tysk, ikke østerriksk av fødsel, men virket i Wien.",
+      "sv": "Han var egentligen tysk till börden, men verkade i Wien."
+    },
+    "funFact": {
+      "nb": "Beethoven var nesten helt døv da han fullførte symfonien i 1808, men hadde fortsatt en dyp kjærlighet til naturen han skildret.",
+      "sv": "Beethoven var nästan helt döv när han färdigställde symfonin 1808, men hade fortfarande en djup kärlek till naturen han skildrade."
+    },
+    "source": "Wikipedia – Symphony No. 6 (Beethoven)"
+  },
+  {
+    "id": "storm-m-19",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Skalaen ble utviklet i 1971 av en amerikansk bygningsingeniør og en meteorolog, og deler tropiske orkaner inn i fem kategorier etter vindstyrke. Kategori 5, den kraftigste, starter ved vedvarende vind på 252 kilometer i timen. Hvilken skala?",
+      "sv": "Skalan utvecklades 1971 av en amerikansk civilingenjör och en meteorolog, och delar in tropiska orkaner i fem kategorier efter vindstyrka. Kategori 5, den kraftigaste, börjar vid en varaktig vind på 252 kilometer i timmen.Vilken skala?"
+    },
+    "answer": {
+      "nb": "Saffir-Simpson-skalaen",
+      "sv": "Saffir–Simpson-skalan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av etternavnene til de to opphavsmennene.",
+      "sv": "Namnet är sammansatt av de två upphovsmännens efternamn."
+    },
+    "funFact": {
+      "nb": "Skalaen har ingen øvre grense for kategori 5 – det finnes altså ingen offisiell kategori 6, uansett hvor sterk vinden blir.",
+      "sv": "Skalan har ingen övre gräns för kategori 5 – det finns alltså ingen officiell kategori 6, oavsett hur stark vinden blir."
+    },
+    "source": "Wikipedia – Saffir–Simpson scale"
+  },
+  {
+    "id": "storm-m-20",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "sprak",
+      "spill"
+    ],
+    "prompt": {
+      "nb": "Det svenske ordet for den høyeste tittelen i sjakk – tildelt av verdensforbundet FIDE – er satt sammen av «stor» og «mester». Ved en språklig tilfeldighet begynner ordet dermed med bokstavene s-t-o-r-m. Hvilket ord?",
+      "sv": "Det svenska ordet för den högsta titeln i schack – tilldelad av världsförbundet FIDE – är sammansatt av «stor» och «mästare». Genom en språklig slump börjar ordet därmed med bokstäverna s-t-o-r-m. Vilket ord?"
+    },
+    "answer": {
+      "nb": "stormästare",
+      "sv": "stormästare"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den norske storebror-varianten av ordet er «stormester», bygget på nøyaktig samme måte.",
+      "sv": "Den norska motsvarigheten till ordet är «stormester», byggt på precis samma sätt."
+    },
+    "funFact": {
+      "nb": "FIDE delte ut den aller første stormester-tittelen i 1950, til 27 spillere samtidig.",
+      "sv": "FIDE delade ut den allra första stormästartiteln 1950, till 27 spelare samtidigt."
+    },
+    "source": "Wikipedia – Grandmaster (chess); Store norske leksikon – stormester"
+  },
+  {
+    "id": "storm-v-11",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Dikteren fra Vågå i Gudbrandsdalen skrev i 1781 en vise om en skotsk leiesoldat som førte en hær over havet for å kjempe for svenskekongen, men ble slaktet ned av bønder ved Kringen i 1612. Visa er fortsatt en klassiker i norsk skolepensum. Hvilken norsk dikter?",
+      "sv": "Diktaren från Vågå i Gudbrandsdalen skrev 1781 en visa om en skotsk legosoldat som förde en här över havet för att strida för den svenske kungen, men slaktades ner av bönder vid Kringen 1612. Visan är fortfarande en klassiker i norsk skolundervisning. Vilken norsk diktare?"
+    },
+    "answer": "Edvard Storm",
+    "answerKind": "person",
+    "person": {
+      "given": "Edvard",
+      "family": "Storm"
+    },
+    "hint": {
+      "nb": "Etternavnet hans er selve ankerordet i denne quizen.",
+      "sv": "Hans efternamn är just ankarordet i det här quizet."
+    },
+    "funFact": {
+      "nb": "Visa er bedre kjent som Sinclairvisen, etter den skotske offiseren George Sinclair, og skrivemåten hans dialektpoesi brøt med den danske skriftnormen på 1700-tallet.",
+      "sv": "Visan är mer känd som Sinclairvisen, efter den skotske officeren George Sinclair, och skrivsättet i hans dialektpoesi bröt med den danska skriftnormen på 1700-talet."
+    },
+    "source": "Store norske leksikon – Edvard Storm; Sinclairvisen"
+  },
+  {
+    "id": "storm-v-12",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I 1917 grunnla denne norske fysikeren det som skulle bli kjent som «Bergensskolen», der man for første gang beskrev stormer og lavtrykk som møter mellom kalde og varme luftmasser – teorien om værfronter. Hvilken vitenskapsmann?",
+      "sv": "År 1917 grundade denna norske fysiker det som skulle bli känt som «Bergensskolan», där man för första gången beskrev stormar och lågtryck som möten mellan kalla och varma luftmassor – teorin om väderfronter. Vilken vetenskapsman?"
+    },
+    "answer": "Vilhelm Bjerknes",
+    "answerKind": "person",
+    "person": {
+      "given": "Vilhelm",
+      "family": "Bjerknes"
+    },
+    "hint": {
+      "nb": "Sønnen hans, Jacob, videreførte forskningen på værfronter.",
+      "sv": "Hans son, Jacob, förde forskningen om väderfronter vidare."
+    },
+    "funFact": {
+      "nb": "Han formulerte også likningene som fortsatt ligger til grunn for moderne værvarsling og klimamodellering.",
+      "sv": "Han formulerade även ekvationerna som fortfarande ligger till grund för modern väderprognos och klimatmodellering."
+    },
+    "source": "Wikipedia – Vilhelm Bjerknes"
+  },
+  {
+    "id": "storm-v-13",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Perioden fra Gustav II Adolf besteg tronen i 1611 til nederlaget i den store nordiske krigen i 1721, kalles på svensk for et sammensatt ord av «stor» og «makt» – som ved en tilfeldighet begynner med bokstavene s-t-o-r-m. I disse 110 årene var Sverige en av Europas ledende krigsmakter. Hva kalles perioden?",
+      "sv": "Perioden från att Gustav II Adolf besteg tronen 1611 till nederlaget i stora nordiska kriget 1721 kallas för ett sammansatt ord av «stor» och «makt» – som av en slump börjar med bokstäverna s-t-o-r-m. Under dessa 110 åren var Sverige en av Europas ledande krigsmakter. Vad kallas perioden?"
+    },
+    "answer": "stormaktstiden",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Perioden regnes som Sveriges tid som stormakt i Nord-Europa.",
+      "sv": "Perioden räknas som Sveriges tid som stormakt i Nordeuropa."
+    },
+    "funFact": {
+      "nb": "På sitt største, under Karl X Gustav etter freden i Roskilde i 1658, omfattet det svenske riket også dagens Skåne, Halland, Blekinge og deler av Baltikum.",
+      "sv": "Som störst, under Karl X Gustav efter freden i Roskilde 1658, omfattade det svenska riket även dagens Skåne, Halland, Blekinge och delar av Baltikum."
+    },
+    "source": "Wikipedia – Swedish Empire"
+  },
+  {
+    "id": "storm-v-14",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Denne kraftige januarstormen i 2024 ble navngitt av Meteorologisk institutt, men fikk også et annet navn av det tyske navnesystemet ved Fri Universitet Berlin. Den regnes som den kraftigste som har rammet Norge på over tretti år, og utløste i Sverige oransje farevarsel i Västerbotten og Jämtland. Hvilket navn ga Norge stormen?",
+      "sv": "Denna kraftiga januaristorm 2024 namngavs av Meteorologisk institutt, men fick även ett annat namn av det tyska namnsystemet vid Freie Universität Berlin. Den räknas som den kraftigaste som drabbat Norge på över trettio år, och utlöste i Sverige orange farovarning i Västerbotten och Jämtland. Vilket namn gav Norge stormen?"
+    },
+    "answer": "Ingunn",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det tyske navnesystemet kalte samme storm «Margrit».",
+      "sv": "Det tyska namnsystemet kallade samma storm «Margrit»."
+    },
+    "funFact": {
+      "nb": "På Færøyene ble det målt vindkast på 249 kilometer i timen – den kraftigste registrerte vindbyen fra en europeisk storm det året.",
+      "sv": "På Färöarna uppmättes vindbyar på 249 kilometer i timmen – den kraftigaste registrerade vindbyn från en europeisk storm det året."
+    },
+    "source": "Wikipedia – Storm Ingunn"
+  },
+  {
+    "id": "storm-v-15",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Den 29. januar 1850 rammet et voldsomt snøuvær Sverige så hardt at dagen fortsatt har et eget navn i svensk værhistorie – «Yrväderstisdagen», eller «uværstirsdagen». Hva slags uvær er det snakk om, kjent for sterk vind og tett drivende snø?",
+      "sv": "Den 29 januari 1850 drabbade ett våldsamt snöoväder Sverige så hårt att dagen fortfarande har ett eget namn i svensk väderhistoria – «Yrväderstisdagen». Vilken typ av oväder rör det sig om, känt för stark vind och tät drivande snö?"
+    },
+    "answer": {
+      "nb": "snøstorm",
+      "sv": "snöstorm"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På norsk kalles det også kave eller hvitt uvær.",
+      "sv": "På svenska kallas det även yrväder eller snöyra."
+    },
+    "funFact": {
+      "nb": "Dagen regnes som en av de verste vinterkatastrofene i svensk værhistorie fra 1800-tallet.",
+      "sv": "Dagen räknas som en av de värsta vinterkatastroferna i svensk väderhistoria från 1800-talet."
+    },
+    "source": "Wikipedia – List of European windstorms"
+  },
+  {
+    "id": "storm-v-16",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Denne svenske meteorologen var en sentral skikkelse i Bergensskolen, og forklarte på 1930-tallet hvordan is- og vannkrystaller i skyer skaper nedbør. Han beskrev også okklusjonen – siste fase i en storms livsløp. Hvilken svenske?",
+      "sv": "Denne svenske meteorologen var en central gestalt i Bergensskolan, och förklarade på 1930-talet hur is- och vattenkristaller i moln skapar nederbörd. Han beskrev också ocklusionen – sista fasen i en storms livscykel. Vilken svensk?"
+    },
+    "answer": "Tor Bergeron",
+    "answerKind": "person",
+    "person": {
+      "given": "Tor",
+      "family": "Bergeron"
+    },
+    "hint": {
+      "nb": "Nedbørsteorien hans bærer i dag hans eget navn.",
+      "sv": "Nederbördsteorin bär i dag hans eget namn."
+    },
+    "funFact": {
+      "nb": "Han mottok Verdens meteorologiorganisasjons pris i 1966, sent i en karriere som la mye av grunnlaget for moderne stormvarsling.",
+      "sv": "Han fick Världsmeteorologiorganisationens pris 1966, sent i en karriär som lade mycket av grunden för modern stormvarning."
+    },
+    "source": "Wikipedia – Tor Bergeron"
+  },
+  {
+    "id": "storm-v-17",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Denne svenske fysikeren fikk Nobelprisen i fysikk i 1970 for arbeidet med magnetohydrodynamikk, og la et vitenskapelig grunnlag for å forstå hvordan magnetiske stormer fra sola påvirker jordas eget magnetfelt og skaper nordlys. Hvilken fysiker?",
+      "sv": "Denna svenska fysiker fick Nobelpriset i fysik 1970 för arbetet med magnetohydrodynamik, och lade en vetenskaplig grund för att förstå hur magnetiska stormar från solen påverkar jordens eget magnetfält och skapar norrsken. Vilken fysiker?"
+    },
+    "answer": "Hannes Alfvén",
+    "answerKind": "person",
+    "person": {
+      "given": "Hannes",
+      "family": "Alfvén"
+    },
+    "hint": {
+      "nb": "En type plasmabølger i verdensrommet er oppkalt etter ham.",
+      "sv": "En typ av plasmavågor i rymden är uppkallade efter honom."
+    },
+    "funFact": {
+      "nb": "Teoriene hans fra 1939 om jordas magnetosfære la grunnlaget for det som i dag kalles romværvarsling.",
+      "sv": "Hans teorier från 1939 om jordens magnetosfär lade grunden för det som i dag kallas rymdväderprognoser."
+    },
+    "source": "Wikipedia – Hannes Alfvén"
+  },
+  {
+    "id": "storm-v-18",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Den britiske marineoffiseren, tidligere kaptein på skipet Beagle under Charles Darwins reise, oppfant selve ordet «forecast» og innførte i 1860 et system med varselkjegler i havner for å advare mot kommende storm. Hvilken pioner innen værvarsling?",
+      "sv": "Den brittiske marinofficeren, tidigare kapten på skeppet Beagle under Charles Darwins resa, uppfann själva ordet «forecast» och införde 1860 ett system med varningskoner i hamnar för att varna för kommande storm. Vilken pionjär inom väderprognoser?"
+    },
+    "answer": "Robert FitzRoy",
+    "answerKind": "person",
+    "person": {
+      "given": "Robert",
+      "family": "FitzRoy"
+    },
+    "hint": {
+      "nb": "Han grunnla i 1854 det som skulle bli den britiske værtjenesten Met Office.",
+      "sv": "Han grundade 1854 det som skulle bli den brittiska vädertjänsten Met Office."
+    },
+    "funFact": {
+      "nb": "Systemet hans ble midlertidig avviklet etter hans død, men gjeninnført i forenklet form i 1874 og ble forløperen til dagens stormvarsler.",
+      "sv": "Systemet avvecklades tillfälligt efter hans död, men återinfördes i förenklad form 1874 och blev föregångaren till dagens stormvarningar."
+    },
+    "source": "Wikipedia – Robert FitzRoy"
+  },
+  {
+    "id": "storm-v-19",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "musikk",
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Operaen fra 1843 åpner med et voldsomt uvær til havs, og forteller om en spøkelseskaptein dømt til å seile evig fordi han en gang forbannet Gud i en storm – bare en kvinnes trofaste kjærlighet kan bryte forbannelsen. Wagner skal selv ha blitt inspirert av en fæl seilas forbi norske skjær. Hvilken opera?",
+      "sv": "Operan från 1843 öppnar med ett våldsamt oväder till havs, och berättar om en spökkapten dömd att segla i evighet efter att en gång ha förbannat Gud i en storm – bara en kvinnas trogna kärlek kan bryta förbannelsen. Wagner ska själv ha inspirerats av en hemsk sjöresa förbi norska skär. Vilken opera?"
+    },
+    "answer": {
+      "nb": "Den flygende hollender",
+      "sv": "Den flygande holländaren"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tittelen refererer til et spøkelsesskip, ikke til en person fra Nederland flest kjenner til.",
+      "sv": "Titeln syftar på ett spökskepp, inte på en känd person från Nederländerna."
+    },
+    "funFact": {
+      "nb": "Wagner skrev både librettoen og musikken selv, og hentet legenden videre fra en satirisk fortelling av Heinrich Heine.",
+      "sv": "Wagner skrev både librettot och musiken själv, och hämtade legenden vidare från en satirisk berättelse av Heinrich Heine."
+    },
+    "source": "Wikipedia – Der fliegende Holländer (opera)"
+  },
+  {
+    "id": "storm-v-20",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "John Glenn blir den første amerikaneren i bane rundt jorda, Cubakrisen bringer verden nær atomkrig, satellitten Telstar sender det første direktesendte TV-signalet over Atlanteren, en av de kraftigste stormene som er målt på USAs vestkyst herjer Oregon og Washington, fem nordiske land undertegner Helsingforsavtalen om nordisk samarbeid, The Beatles gir ut sin første singel, Tom Cruise blir født og Marilyn Monroe dør. Hvilket år?",
+      "sv": "John Glenn blir den första amerikanen i omloppsbana runt jorden, Kubakrisen för världen nära ett kärnvapenkrig, satelliten Telstar sänder den första direktsända tv-signalen över Atlanten, en av de kraftigaste stormar som uppmätts på USA:s västkust härjar Oregon och Washington, fem nordiska länder undertecknar Helsingforsavtalet om nordiskt samarbete, The Beatles ger ut sin första singel, Tom Cruise föds och Marilyn Monroe dör. Vilket år?"
+    },
+    "answer": "1962",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tidlig på 1960-tallet.",
+      "sv": "Tidigt 1960-tal."
+    },
+    "funFact": {
+      "nb": "Uværet på den amerikanske vestkysten, kjent som Columbus Day-stormen, hadde vindkast opp mot 270 kilometer i timen enkelte steder og regnes fortsatt som et referansepunkt for kraftige vinterstormer i regionen.",
+      "sv": "Ovädret på den amerikanska västkusten, känt som Columbus Day-stormen, hade vindbyar på uppemot 270 kilometer i timmen på enskilda platser och räknas fortfarande som en referenspunkt för kraftiga vinterstormar i regionen."
+    },
+    "source": "Store norske leksikon – 1962; Wikipedia – Columbus Day Storm of 1962, Helsingforsavtalen"
+  }
+]

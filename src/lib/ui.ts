@@ -65,9 +65,9 @@ export const REGION_LABELS: Record<Region, string> = {
 }
 
 export const REGION_HELP: Record<Region, string> = {
-  no: 'Quizen går på norsk, med tyngdepunkt i norske referanser – men svenske og internasjonale spørsmål er med.',
-  se: 'Quizen går på svenska, med tyngdpunkt i svenska referenser – men norska och internationella frågor är med.',
-  int: 'Quizen går på norsk, med tyngdepunkt i internasjonale referanser.',
+  no: 'Quizen går på norsk. Omtrent halvparten av spørsmålene har norsk forankring, resten er svenske og internasjonale.',
+  se: 'Quizen går på svenska. Ungefär hälften av frågorna har svensk förankring, resten är norska och internationella.',
+  int: 'Quizen går på norsk, med tyngdepunkt i internasjonale referanser og et par nordiske innslag.',
 }
 
 export const ORIGIN_LABELS: Record<Lang, Record<Region, string>> = {
