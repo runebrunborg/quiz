@@ -1,0 +1,677 @@
+[
+  {
+    "id": "ild-l-11",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["arkitektur", "religion"],
+    "prompt": {
+      "nb": "En brann sommeren 1702 la det meste av en svensk universitetsby i aske, og både domkirken og det kongelige slottet fikk store skader. Gjenoppbyggingen preger fortsatt bybildet den dag i dag. Hvilken by rammet brannen?",
+      "sv": "En brand sommaren 1702 lade det mesta av en svensk universitetsstad i aska, och både domkyrkan och det kungliga slottet fick svåra skador. Återuppbyggnaden präglar fortfarande stadsbilden än i dag. Vilken stad drabbades av branden?"
+    },
+    "answer": "Uppsala",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger nord for Stockholm og er kjent for Sveriges eldste universitet, grunnlagt i 1477.",
+      "sv": "Staden ligger norr om Stockholm och är känd för Sveriges äldsta universitet, grundat 1477."
+    },
+    "funFact": {
+      "nb": "Slottet sto lenge preget av brannskadene, og deler av det ble ikke fullt restaurert før lenge etterpå. Domkirken er fortsatt Sveriges største kirkebygning.",
+      "sv": "Slottet stod länge präglat av brandskadorna, och delar av det restaurerades inte fullt ut förrän långt senare. Domkyrkan är fortfarande Sveriges största kyrkobyggnad."
+    },
+    "source": "Store norske leksikon – Uppsala"
+  },
+  {
+    "id": "ild-l-12",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["mytologi"],
+    "prompt": {
+      "nb": "I gresk og senere også egyptisk myte fins en fugl på størrelse med en ørn, med rødt og gyllent fjærdrakt. Med jevne mellomrom brenner den selv opp, før en ny fugl reiser seg fra asken. Hvilken fabelfugl er dette?",
+      "sv": "I grekisk och senare även egyptisk myt finns en fågel i örnstorlek, med rött och gyllene fjäderdräkt. Med jämna mellanrum brinner den själv upp, innan en ny fågel reser sig ur askan. Vilken sagofågel är detta?"
+    },
+    "answer": {
+      "nb": "Føniks",
+      "sv": "Fenix"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fuglen forbindes med solen, og skal ifølge antikke forfattere leve i flere hundre år mellom hver gang den brenner opp.",
+      "sv": "Fågeln förknippas med solen och ska enligt antika författare leva i flera hundra år mellan varje gång den brinner upp."
+    },
+    "funFact": {
+      "nb": "Romerske forfattere som Plinius den eldre skal ha skrevet om påståtte observasjoner av fuglen i Roma på 1. århundre. Ordet er også blitt et vanlig bilde på noe som reiser seg igjen etter en katastrofe.",
+      "sv": "Romerska författare som Plinius den äldre ska ha skrivit om påstådda observationer av fågeln i Rom under första århundradet. Ordet har också blivit en vanlig bild för något som reser sig igen efter en katastrof."
+    },
+    "source": "Encyclopaedia Britannica – phoenix (mythology)"
+  },
+  {
+    "id": "ild-l-13",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "En liten bygd i Telemark regnes som den moderne skisportens fødested, hjemsted for pioneren Sondre Norheim. Det olympiske bålet er tent akkurat her hele tre ganger – blant annet foran vinterlekene i Oslo i 1952 og i Lillehammer i 1994. Hvilken bygd er dette?",
+      "sv": "En liten by i Telemark räknas som den moderna skidsportens födelseplats, hemort för pionjären Sondre Norheim. Den olympiska elden har tänts just här hela tre gånger – bland annat inför vinterspelen i Oslo 1952 och i Lillehammer 1994. Vilken by är detta?"
+    },
+    "answer": "Morgedal",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bygda ligger i Kviteseid kommune og har sitt eget skihistoriske museum, Norsk Skieventyr.",
+      "sv": "Byn ligger i Kviteseid kommun och har sitt eget skidhistoriska museum, Norsk Skieventyr."
+    },
+    "funFact": {
+      "nb": "Ilden ble også tent her foran vinterlekene i Squaw Valley i 1960. Tradisjonen startet fordi Sondre Norheims gård, Øvrebø, ligger i bygda, og han regnes som en av grunnleggerne av moderne slalåm og hopp.",
+      "sv": "Elden tändes också här inför vinterspelen i Squaw Valley 1960. Traditionen började eftersom Sondre Norheims gård, Øvrebø, ligger i byn, och han räknas som en av grundarna av modern slalom och hoppning."
+    },
+    "source": "Store norske leksikon – Morgedal; Den internasjonale olympiske komité (IOC)"
+  },
+  {
+    "id": "ild-l-14",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["vitenskap", "okonomi"],
+    "prompt": {
+      "nb": "En svensk kjemiker patenterte i 1867 en måte å gjøre den ustabile sprengoljen nitroglyserin trygg å transportere, ved å blande den inn i en absorberende leire. Oppfinnelsen fikk et navn som betyr «kraft» på gresk. Hvem var kjemikeren?",
+      "sv": "En svensk kemist patenterade 1867 ett sätt att göra den instabila sprängoljan nitroglycerin säker att transportera, genom att blanda in den i en absorberande lera. Uppfinningen fick ett namn som betyder «kraft» på grekiska. Vem var kemisten?"
+    },
+    "answer": "Alfred Nobel",
+    "answerKind": "person",
+    "person": {
+      "given": "Alfred",
+      "family": "Nobel"
+    },
+    "hint": {
+      "nb": "Han formet massen til staver, og navnet på sprengstoffet er dynamitt.",
+      "sv": "Han formade massan till stavar, och namnet på sprängämnet är dynamit."
+    },
+    "funFact": {
+      "nb": "Tre år tidligere hadde broren Emil og fire andre omkommet i en eksplosjon ved familiens fabrikk i Heleneborg i Stockholm, noe som fikk ham til å søke etter en tryggere løsning. Formuen hans finansierer i dag Nobelprisene.",
+      "sv": "Tre år tidigare hade brodern Emil och fyra andra omkommit i en explosion vid familjens fabrik i Heleneborg i Stockholm, vilket fick honom att söka efter en säkrare lösning. Hans förmögenhet finansierar i dag Nobelpriset."
+    },
+    "source": "Nobelprize.org – Alfred Nobel; Encyclopaedia Britannica – dynamite"
+  },
+  {
+    "id": "ild-l-15",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["sprak"],
+    "prompt": {
+      "nb": "Norsk har et eget substantiv for en person som er fylt av brennende begeistring og jobber intenst og uselvisk for en sak, gjerne som frivillig i et idrettslag. Ordet er satt sammen av to enkle substantiv. Hvilket ord er det?",
+      "sv": "Norskan har ett eget substantiv för en person som är fylld av brinnande entusiasm och arbetar intensivt och osjälviskt för en sak, gärna som frivillig i en idrottsförening. Ordet är sammansatt av två enkla substantiv. Vilket ord är det?"
+    },
+    "answer": "Ildsjel",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det første leddet er et annet ord for flamme, det andre for det indre av et menneske.",
+      "sv": "Första ledet är ett annat ord för låga, det andra för människans inre."
+    },
+    "funFact": {
+      "nb": "Det Norske Akademis ordbok definerer ordet som en person fylt av brennende iver og engasjement. Den svenske pendanten staves «eldsjäl» og betyr det samme.",
+      "sv": "Det Norske Akademis ordbok definierar ordet som en person fylld av brinnande iver och engagemang. Den svenska motsvarigheten stavas «eldsjäl» och betyder samma sak."
+    },
+    "source": "Det Norske Akademis ordbok (naob.no) – ildsjel"
+  },
+  {
+    "id": "ild-l-16",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["dyr", "popkultur"],
+    "prompt": {
+      "nb": "Rasen ble brukt til å løpe foran hestetrukne sprøytevogner og vise vei gjennom travle gater, siden hundene fungerte godt sammen med hester og hadde god utholdenhet. Fremdeles er rasen sterkt forbundet med brannvesenet i amerikansk populærkultur. Hvilken hunderase er dette?",
+      "sv": "Rasen användes för att springa framför hästdragna sprutvagnar och visa väg genom livliga gator, eftersom hundarna fungerade bra tillsammans med hästar och hade god uthållighet. Fortfarande är rasen starkt förknippad med brandkåren i amerikansk populärkultur. Vilken hundras är detta?"
+    },
+    "answer": "Dalmatiner",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Rasen er hvit med svarte flekker og har fått navnet sitt fra en historisk region ved Adriaterhavet.",
+      "sv": "Rasen är vit med svarta fläckar och har fått sitt namn från en historisk region vid Adriatiska havet."
+    },
+    "funFact": {
+      "nb": "Skikken oppsto i USA på 1800-tallet med hestetrukne brannvogner, og hundene fortsatte som maskoter selv etter at motoriserte brannbiler tok over. Disney-filmen «Pongo og de 101 dalmatinere» (1961) gjorde rasen enda mer kjent.",
+      "sv": "Seden uppstod i USA på 1800-talet med hästdragna brandvagnar, och hundarna fortsatte som maskotar även efter att motoriserade brandbilar tog över. Disneyfilmen «Pongo och de 101 dalmatinerna» (1961) gjorde rasen ännu mer känd."
+    },
+    "source": "American Kennel Club – Dalmatian"
+  },
+  {
+    "id": "ild-l-17",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie", "arkitektur"],
+    "prompt": {
+      "nb": "Etter en ødeleggende brann i 1624 bestemte den dansk-norske kongen at Oslo ikke skulle bygges opp igjen på samme sted. I stedet grunnla han en ny by nærmere Akershus festning og satte sitt eget navn på den. Hva het den nye byen?",
+      "sv": "Efter en förödande brand 1624 bestämde den dansk-norske kungen att Oslo inte skulle byggas upp igen på samma plats. I stället grundade han en ny stad närmare Akershus fästning och satte sitt eget namn på den. Vad hette den nya staden?"
+    },
+    "answer": "Christiania",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kongen het Christian 4., og byen beholdt navnet hans helt til 1925.",
+      "sv": "Kungen hette Christian IV, och staden behöll hans namn ända till 1925."
+    },
+    "funFact": {
+      "nb": "Den nye byen fikk et strengt rutenett av brede gater, kalt Kvadraturen, plassert nærmere festningen for bedre forsvar. Navnet ble brukt helt til byen fikk navnet Oslo tilbake i 1925.",
+      "sv": "Den nya staden fick ett strikt rutnät av breda gator, kallat Kvadraturen, placerad närmare fästningen för bättre försvar. Namnet användes ända tills staden fick tillbaka namnet Oslo 1925."
+    },
+    "source": "Store norske leksikon – norske storbranner; snl.no – Oslo havn"
+  },
+  {
+    "id": "ild-l-18",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["religion"],
+    "prompt": {
+      "nb": "På 1660- og 1670-tallet spredte det seg en bølge av hekseprosesser i Sverige, utløst av barn som fortalte at de var blitt bortført til et sted der djevelen holdt hoff. Over to hundre mennesker ble henrettet og brent på bålet før barnas vitnesbyrd falt sammen. Hva het stedet i fortellingene?",
+      "sv": "Under 1660- och 1670-talen spreds en våg av häxprocesser i Sverige, utlöst av barn som berättade att de blivit bortförda till en plats där djävulen höll hov. Över tvåhundra människor avrättades och brändes på bål innan barnens vittnesmål rasade samman. Vad hette platsen i berättelserna?"
+    },
+    "answer": "Blåkulla",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De dømte ble først halshugd, og likene deretter brent – ordet betyr bokstavelig «det blå fjellet».",
+      "sv": "De dömda halshöggs först, och kropparna brändes sedan – ordet betyder bokstavligen «det blå berget»."
+    },
+    "funFact": {
+      "nb": "Den mest intense perioden kalles «Det stora oväsendet», og rundt 280–300 mennesker ble henrettet totalt. I 1676 innrømmet et av barnevitnene i Stockholm at de hadde løyet, og det satte en stopper for prosessene.",
+      "sv": "Den mest intensiva perioden kallas «Det stora oväsendet», och omkring 280–300 människor avrättades totalt. År 1676 erkände ett av barnvittnena i Stockholm att de hade ljugit, och det satte stopp för processerna."
+    },
+    "source": "Wikipedia (engelsk) – Witch trials in Sweden"
+  },
+  {
+    "id": "ild-l-19",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["design", "teknologi"],
+    "prompt": {
+      "nb": "Selskapet begynte å støpe ovner i jern allerede rundt 1860, og en av deres mest kjente modeller fra rundt 1940 fikk senere en designpris fordi den fortsatt så tidsriktig ut nesten seksti år etter. Navnet er hentet fra et mytologisk vesen. Hvilket selskap er dette?",
+      "sv": "Företaget började gjuta järnkaminer redan omkring 1860, och en av deras mest kända modeller från omkring 1940 fick senare ett designpris eftersom den fortfarande såg tidsenlig ut nästan sextio år senare. Namnet är hämtat från en mytologisk varelse. Vilket företag är detta?"
+    },
+    "answer": "Jøtul",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet flyttet all produksjon til Kråkerøy ved Fredrikstad i 1982, og navnet er en variant av «jutul», et annet ord for jotner.",
+      "sv": "Företaget flyttade all produktion till Kråkerøy vid Fredrikstad 1982, och namnet är en variant av «jutul», ett annat ord för jättar i nordisk mytologi."
+    },
+    "funFact": {
+      "nb": "Modell 602 fra rundt 1940 fikk «Classic Prize for Good Design» i 1999. Selskapet begynte egentlig som Kværner Brug i Christiania i 1853, og under andre verdenskrig solgte det 25 000 ovner på to år.",
+      "sv": "Modell 602 från omkring 1940 fick «Classic Prize for Good Design» 1999. Företaget började egentligen som Kværner Brug i Christiania 1853, och under andra världskriget sålde man 25 000 kaminer på två år."
+    },
+    "source": "Store norske leksikon – Jøtul AS"
+  },
+  {
+    "id": "ild-l-20",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["musikk", "popkultur"],
+    "prompt": {
+      "nb": "Bandet fra Gøteborg regnes som pionerer innen melodisk dødsmetall, en sjanger som kombinerte gitarmelodier inspirert av Iron Maiden med dødsmetallens råskap. Siden starten i 1990 har de solgt over to millioner album og vunnet flere Grammis-priser. Hva heter bandet?",
+      "sv": "Bandet från Göteborg räknas som pionjärer inom melodisk death metal, en genre som kombinerade gitarrmelodier inspirerade av Iron Maiden med death metalens råhet. Sedan starten 1990 har de sålt över två miljoner album och vunnit flera Grammis-priser. Vad heter bandet?"
+    },
+    "answer": "In Flames",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er engelsk og betyr «i flammer». Bandet startet som et sideprosjekt for gitaristen Jesper Strömblad.",
+      "sv": "Namnet är engelskt och betyder «i lågor». Bandet startade som ett sidoprojekt för gitarristen Jesper Strömblad."
+    },
+    "funFact": {
+      "nb": "Göteborg-scenen på 1990-tallet regnes som fødestedet for melodisk dødsmetall, med band som In Flames, At the Gates og Dark Tranquillity side om side.",
+      "sv": "Göteborgsscenen på 1990-talet räknas som födelseplatsen för melodisk death metal, med band som In Flames, At the Gates och Dark Tranquillity sida vid sida."
+    },
+    "source": "Wikipedia (engelsk) – In Flames"
+  },
+  {
+    "id": "ild-m-11",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Sommeren år 64 herjet en brann i seks døgn og la store deler av Roma i grus, før den blusset opp igjen i ytterligere tre dager. Ifølge senere legender skal keiseren ha spilt lyre og sunget mens byen brant, selv om han trolig ikke var i byen da brannen startet. Hvem var keiseren?",
+      "sv": "Sommaren år 64 härjade en brand i sex dygn och lade stora delar av Rom i grus, innan den flammade upp igen i ytterligare tre dagar. Enligt senare legender ska kejsaren ha spelat lyra och sjungit medan staden brann, även om han troligen inte var i staden när branden började. Vem var kejsaren?"
+    },
+    "answer": "Nero",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Historikeren Tacitus skrev at keiseren i stedet åpnet parker og offentlige bygg for de hjemløse og organiserte mattilførsel.",
+      "sv": "Historikern Tacitus skrev att kejsaren i stället öppnade parker och offentliga byggnader för de hemlösa och organiserade matleveranser."
+    },
+    "funFact": {
+      "nb": "Uttrykket «å spille fiolin mens Roma brenner» stammer fra denne legenden, selv om fiolinen ikke fantes ennå på denne tiden – han skal etter sagnet ha spilt lyre. Ti av byens fjorten bydeler ble skadet.",
+      "sv": "Uttrycket «att spela fiol medan Rom brinner» kommer från denna legend, även om fiolen inte fanns ännu vid denna tid – enligt sägnen ska han ha spelat lyra. Tio av stadens fjorton stadsdelar skadades."
+    },
+    "source": "Encyclopaedia Britannica – Nero; Tacitus, Annales"
+  },
+  {
+    "id": "ild-m-12",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["okonomi"],
+    "prompt": {
+      "nb": "Et kongelig reskript i 1767 opprettet et av Nordens første nasjonale brannforsikringsselskap for bygninger, og fram til 1845 var det obligatorisk for huseiere i kjøpstedene å være med. Selskapet fikk sitt kjente navn i 1912 og inngår i dag i et stort forsikringskonsern. Hva het selskapet?",
+      "sv": "Ett kungligt reskript år 1767 inrättade ett av Nordens första nationella brandförsäkringsbolag för byggnader, och fram till 1845 var det obligatoriskt för husägare i köpstäderna att vara med. Bolaget fick sitt kända namn 1912 och ingår i dag i en stor försäkringskoncern. Vad hette bolaget?"
+    },
+    "answer": "Norges Brannkasse",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet ble opprinnelig styrt fra København, og flyttet til Christiania etter 1814.",
+      "sv": "Bolaget styrdes ursprungligen från Köpenhamn och flyttade till Christiania efter 1814."
+    },
+    "funFact": {
+      "nb": "Norges Brannkasse ble i 1991 en del av det som i dag heter Storebrand, etter flere sammenslåinger på 1980- og 90-tallet. Det opprinnelige navnet var «Den Almindelige Brandforsikrings-Indretning for Bygninger».",
+      "sv": "Norges Brannkasse blev 1991 en del av det som i dag heter Storebrand, efter flera sammanslagningar på 1980- och 90-talet. Det ursprungliga namnet var «Den Almindelige Brandforsikrings-Indretning for Bygninger»."
+    },
+    "source": "Store norske leksikon – Norges Brannkasse"
+  },
+  {
+    "id": "ild-m-13",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["natur", "geografi"],
+    "prompt": {
+      "nb": "I slutten av juli 2014 begynte en skogbrann i grenseområdet mellom to kommuner i Midt-Sverige, og den utviklet seg til landets største skogbrann på 40 år. Over 15 000 hektar brant, en person omkom, og fly fra Italia og Frankrike bisto slokkingen. Hvilket svensk landskap ble hardest rammet?",
+      "sv": "I slutet av juli 2014 började en skogsbrand i gränsområdet mellan två kommuner i mellersta Sverige, och den utvecklades till landets största skogsbrand på 40 år. Över 15 000 hektar brann, en person omkom, och flygplan från Italien och Frankrike bistod släckningsarbetet. Vilket svenskt landskap drabbades hårdast?"
+    },
+    "answer": "Västmanland",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Brannen truet også verdensarvstedet Engelsbergs bruk, et gammelt jernverk.",
+      "sv": "Branden hotade också världsarvsplatsen Engelsbergs bruk, ett gammalt järnverk."
+    },
+    "funFact": {
+      "nb": "Brannen startet nær Sala og Surahammar 31. juli 2014. Rundt 80 boliger og 79 uthus gikk tapt, og over tusen mennesker ble evakuert.",
+      "sv": "Branden startade nära Sala och Surahammar den 31 juli 2014. Omkring 80 bostäder och 79 uthus gick förlorade, och över tusen människor evakuerades."
+    },
+    "source": "Wikipedia (engelsk) – 2014 Västmanland wildfire"
+  },
+  {
+    "id": "ild-m-14",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["arkitektur", "religion"],
+    "prompt": {
+      "nb": "Norges nasjonalhelligdom i Trondheim har brent gjentatte ganger gjennom historien – verst i 1531, da store deler av bygningen gikk tapt og aldri ble bygget opp igjen med det samme. Restaureringen som ga kirken tilbake sitt middelalderutseende, startet først på slutten av 1800-tallet. Hvilken katedral er dette?",
+      "sv": "Norges nationalhelgedom i Trondheim har brunnit upprepade gånger genom historien – värst 1531, då stora delar av byggnaden gick förlorade och aldrig byggdes upp igen på samma sätt. Restaureringen som gav kyrkan tillbaka sitt medeltida utseende inleddes först i slutet av 1800-talet. Vilken katedral är detta?"
+    },
+    "answer": "Nidarosdomen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Katedralen er reist over graven til Norges evige konge, og er fortsatt stedet der norske konger signes.",
+      "sv": "Katedralen är rest över graven till Norges evige kung, och är fortfarande platsen där norska kungar signas."
+    },
+    "funFact": {
+      "nb": "Foruten brannen i 1531 rammet store branner også kirken i 1328, 1432, 1708 og 1719. Restaureringsarbeidet ble ledet av arkitekten Christian Christie.",
+      "sv": "Förutom branden 1531 drabbade stora bränder kyrkan även 1328, 1432, 1708 och 1719. Restaureringsarbetet leddes av arkitekten Christian Christie."
+    },
+    "source": "Store norske leksikon – Nidarosdomen"
+  },
+  {
+    "id": "ild-m-15",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["mytologi", "teknologi"],
+    "prompt": {
+      "nb": "Romernes gud for ild, vulkaner og smiing hadde verkstedet sitt under fjellet Etna, der han laget våpen og rustninger for guder og helter. Da amerikaneren Charles Goodyear i 1839 oppdaget hvordan gummi kunne herdes med svovel og varme, ble prosessen oppkalt etter nettopp denne guden. Hvem er guden?",
+      "sv": "Romarnas gud för eld, vulkaner och smide hade sin verkstad under berget Etna, där han tillverkade vapen och rustningar åt gudar och hjältar. När amerikanen Charles Goodyear 1839 upptäckte hur gummi kunde härdas med svavel och värme, fick processen sitt namn efter just denna gud. Vem är guden?"
+    },
+    "answer": "Vulcanus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han var gift med kjærlighetsgudinnen Venus, og det greske motstykket hans heter Hefaistos.",
+      "sv": "Han var gift med kärleksgudinnan Venus, och hans grekiska motsvarighet heter Hefaistos."
+    },
+    "funFact": {
+      "nb": "Prosessen kalles vulkanisering og ble navngitt av britiske William Brockedon, en venn av Thomas Hancock som tok patent på metoden i Storbritannia. Gudens helligdag ble feiret 23. august med bål og fiskeoffer.",
+      "sv": "Processen kallas vulkanisering och namngavs av britten William Brockedon, en vän till Thomas Hancock som tog patent på metoden i Storbritannien. Gudens helgdag firades den 23 augusti med brasor och fiskoffer."
+    },
+    "source": "Encyclopaedia Britannica – Vulcan (mythology); Encyclopaedia Britannica – vulcanization"
+  },
+  {
+    "id": "ild-m-16",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["arkitektur", "okonomi"],
+    "prompt": {
+      "nb": "En dampdrevet kvernemølle i hjertet av Stockholm, bygget alt i 1805, brant ned i det som samtidens aviser kalte «århundrets brann» 31. oktober 1878. Brannen skal ha startet da en gasslampe falt ned og antente mel- og kornstøv. Tomten huser i dag byens rådhus. Hva het mølla?",
+      "sv": "En ångdriven kvarn i hjärtat av Stockholm, byggd redan 1805, brann ner i det som samtidens tidningar kallade «århundradets brand» den 31 oktober 1878. Branden ska ha startat när en gaslampa föll ner och antände mjöl- och sädesdamm. Tomten hyser i dag stadens rådhus. Vad hette kvarnen?"
+    },
+    "answer": "Eldkvarn",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet betyr bokstavelig «ildmølle», og en kjent svensk rockegruppe bærer også dette navnet.",
+      "sv": "Namnet betyder bokstavligen «eldkvarn», och en känd svensk rockgrupp bär också detta namn."
+    },
+    "funFact": {
+      "nb": "Stockholms rådhus, oppført 1911–1923, ligger i dag på tomten der mølla lå. Deler av mølleanlegget ble reddet fra brannen og fortsatte i drift helt til 1906.",
+      "sv": "Stockholms stadshus, uppfört 1911–1923, ligger i dag på tomten där kvarnen låg. Delar av kvarnanläggningen räddades från branden och fortsatte i drift ända till 1906."
+    },
+    "source": "Wikipedia (engelsk) – Eldkvarn"
+  },
+  {
+    "id": "ild-m-17",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["kunst", "natur"],
+    "prompt": {
+      "nb": "Et av verdens mest kjente malerier har en blodrød himmel som har fått forskere til å lete etter en naturvitenskapelig forklaring. En teori, fremsatt av en amerikansk fysiker, peker på askepartikler fra et voldsomt vulkanutbrudd et tiår tidligere – selv om teorien er omstridt blant kunsthistorikere. Hvilket utbrudd trekkes fram?",
+      "sv": "Ett av världens mest kända målningar har en blodröd himmel som har fått forskare att leta efter en naturvetenskaplig förklaring. En teori, framlagd av en amerikansk fysiker, pekar på askpartiklar från ett våldsamt vulkanutbrott ett decennium tidigare – även om teorin är omstridd bland konsthistoriker. Vilket utbrott lyfts fram?"
+    },
+    "answer": "Krakatoa",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Maleriet er «Skrik» av Edvard Munch, malt i 1893. Utbruddet skjedde i Sørøst-Asia i 1883 og farget solnedganger røde over hele verden i månedsvis.",
+      "sv": "Målningen är «Skriet» av Edvard Munch, målad 1893. Utbrottet skedde i Sydostasien 1883 och färgade solnedgångar röda över hela världen i månader."
+    },
+    "funFact": {
+      "nb": "Fysikeren Donald W. Olson fremmet teorien i artikkelen «The Blood-Red Sky of the Scream». Andre forskere mener i stedet at himmelen skyldes en sjelden skytype som kan opptre på Munchs breddegrad, eller Munchs egen ekspressive malemåte.",
+      "sv": "Fysikern Donald W. Olson lade fram teorin i artikeln «The Blood-Red Sky of the Scream». Andra forskare menar i stället att himlen beror på en sällsynt molntyp som kan uppträda på Munchs breddgrad, eller Munchs eget expressiva målarsätt."
+    },
+    "source": "Wikipedia (engelsk) – The Scream"
+  },
+  {
+    "id": "ild-m-18",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["geografi", "teknologi"],
+    "prompt": {
+      "nb": "Et gruve- og bergverksdistrikt i Midt-Sverige har vært i drift siden middelalderen, med tallrike kullfyrte masovner som smeltet jern-, kobber- og sølvmalm. Området la grunnlaget for flere av dagens store svenske industrikonsern, deriblant stålselskapet SSAB. Hvilket distrikt er dette?",
+      "sv": "Ett gruv- och bergsbruksdistrikt i mellersta Sverige har varit i drift sedan medeltiden, med talrika kolfyrda masugnar som smälte järn-, koppar- och silvermalm. Området lade grunden för flera av dagens stora svenska industrikoncerner, däribland stålbolaget SSAB. Vilket distrikt är detta?"
+    },
+    "answer": "Bergslagen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Området strekker seg over deler av Västmanland, Dalarna og Värmland, og har ingen presise grenser.",
+      "sv": "Området sträcker sig över delar av Västmanland, Dalarna och Värmland, och har inga exakta gränser."
+    },
+    "funFact": {
+      "nb": "Blant de kjente gruvestedene er Falun og Grängesberg. I 1873 hadde distriktet 646 gruvedrifter som til sammen produserte over 800 000 tonn jernmalm.",
+      "sv": "Bland de kända gruvorterna finns Falun och Grängesberg. År 1873 hade distriktet 646 gruvdrifter som tillsammans producerade över 800 000 ton järnmalm."
+    },
+    "source": "Store norske leksikon – Bergslagen"
+  },
+  {
+    "id": "ild-m-19",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["natur", "geografi"],
+    "prompt": {
+      "nb": "Vinteren 2014 blåste det uvanlig lenge fra øst, og vegetasjonen langs norskekysten tørket ut. Den største av flere lyngbranner som blusset opp, tok livet av 64 bygninger i en kystkommune i Trøndelag. Hvilken kommune ble hardest rammet?",
+      "sv": "Vintern 2014 blåste det ovanligt länge från öster, och vegetationen längs norska kusten torkade ut. Den största av flera ljungbränder som blossade upp tog 64 byggnader i en kustkommun i Trøndelag. Vilken kommun drabbades hårdast?"
+    },
+    "answer": "Flatanger",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kommunen ligger på Namdalskysten, lengre nord enn de fleste norske skogbranner.",
+      "sv": "Kommunen ligger vid Namdalskusten, längre norrut än de flesta norska skogsbränder."
+    },
+    "funFact": {
+      "nb": "Skogbranner med tap av bygninger er uvanlig i Norge – det skjedde også under Norges arealmessig største skogbrann, i Froland i 2008, men da uten samme bygningstap.",
+      "sv": "Skogsbränder med byggnadsförluster är ovanligt i Norge – det hände också under Norges till ytan största skogsbrand, i Froland 2008, men då utan samma byggnadsförlust."
+    },
+    "source": "Store norske leksikon – skogbrann"
+  },
+  {
+    "id": "ild-m-20",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["okonomi", "vitenskap"],
+    "prompt": {
+      "nb": "En svensk jernverkseier var i 1858 den første i verden som fikk den nye Bessemer-metoden til å fungere i stor skala, ved å bruke spesielt ren malm. Fire år senere grunnla han et jernverk som siden har vokst til et av verdens ledende selskaper innen hardmetall og verktøy. Hvem var mannen?",
+      "sv": "En svensk järnbruksägare var 1858 den förste i världen att få den nya Bessemermetoden att fungera i stor skala, genom att använda särskilt ren malm. Fyra år senare grundade han ett järnverk som sedan dess vuxit till ett av världens ledande företag inom hårdmetall och verktyg. Vem var mannen?"
+    },
+    "answer": "Göran Fredrik Göransson",
+    "answerKind": "person",
+    "person": {
+      "given": "Göran Fredrik",
+      "family": "Göransson"
+    },
+    "hint": {
+      "nb": "Jernverket het opprinnelig Sandvikens Jernverk, etter stedet i Gästrikland der det ligger.",
+      "sv": "Järnverket hette ursprungligen Sandvikens Jernverk, efter platsen i Gästrikland där det ligger."
+    },
+    "funFact": {
+      "nb": "Bessemer-metoden bruker en kraftig luftstrøm gjennom smeltet råjern for å brenne bort urenheter – en rask og billig måte å lage stål på. Selskapet heter i dag Sandvik og er et av Sveriges største industrikonsern.",
+      "sv": "Bessemermetoden använder en kraftig luftström genom smält råjärn för att bränna bort orenheter – ett snabbt och billigt sätt att göra stål på. Företaget heter i dag Sandvik och är en av Sveriges största industrikoncerner."
+    },
+    "source": "Store norske leksikon – Göran Fredrik Göransson"
+  },
+  {
+    "id": "ild-v-11",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["teknologi"],
+    "prompt": {
+      "nb": "Før krutt og dynamitt kom i bruk, knuste gruvearbeidere fjell ved å bygge kraftige bål mot bergveggen og la varmen sprekke opp steinen, før den ble brutt løs med hammer og jernstenger. Metoden ga bare 1–3 meters fremdrift i måneden og krevde enorme mengder tømmer – blant annet ved Røros kobberverk. Hva kalles metoden?",
+      "sv": "Innan krut och dynamit togs i bruk krossade gruvarbetare berg genom att bygga kraftiga eldar mot bergväggen och låta värmen spränga sönder stenen, innan den bröts loss med hammare och järnstänger. Metoden gav bara 1–3 meters framdrift i månaden och krävde enorma mängder timmer – bland annat vid Röros kopparverk. Vad kallas metoden?"
+    },
+    "answer": "Fyrsetting",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Metoden ga karakteristiske ovale tunnelprofiler, og forbruket av ved førte til stor avskoging rundt gruvestedene.",
+      "sv": "Metoden gav karakteristiska ovala tunnelprofiler, och vedförbrukningen ledde till stor avskogning kring gruvorterna."
+    },
+    "funFact": {
+      "nb": "Veden som ble brukt, kaltes «setteved», typisk bjelker av gran eller furu. Metoden var i bruk i overflatebrudd og gruver i århundrer før den ble avløst av krutt og dynamitt.",
+      "sv": "Veden som användes kallades «setteved», typiskt stockar av gran eller tall. Metoden användes i ytbrott och gruvor i århundraden innan den avlöstes av krut och dynamit."
+    },
+    "source": "Store norske leksikon – fyrsetting"
+  },
+  {
+    "id": "ild-v-12",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["militaerhistorie", "transport"],
+    "prompt": {
+      "nb": "Under et slag utenfor Öland i 1676 kantret et av Sveriges mektigste krigsskip i hard vind mens det gjorde en bratt sving med for mye seil satt. Sjøvann fosset inn gjennom åpne kanonporter, og kort etter eksploderte kruttlageret om bord. Rundt 800 mann omkom. Hva het skipet?",
+      "sv": "Under ett slag utanför Öland 1676 kantrade ett av Sveriges mäktigaste krigsskepp i hård vind medan det gjorde en brant gir med för mycket segel satt. Havsvatten forsade in genom öppna kanonportar, och strax efter exploderade krutförrådet ombord. Omkring 800 man omkom. Vad hette skeppet?"
+    },
+    "answer": "Kronan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skipet sank under slaget ved Öland, og vraket ble gjenfunnet først i 1980 av Anders Franzén.",
+      "sv": "Skeppet sjönk under slaget vid Öland, och vraket återfanns först 1980 av Anders Franzén."
+    },
+    "funFact": {
+      "nb": "Over 30 000 gjenstander er hentet opp fra vraket, som ligger 26 meter dypt utenfor Öland, og er i dag utstilt ved Kalmar läns museum.",
+      "sv": "Över 30 000 föremål har bärgats från vraket, som ligger 26 meter djupt utanför Öland, och visas i dag på Kalmar läns museum."
+    },
+    "source": "Wikipedia (engelsk) – Swedish ship Kronan; Kalmar läns museum"
+  },
+  {
+    "id": "ild-v-13",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["religion"],
+    "prompt": {
+      "nb": "I 356 f.Kr. brant en mann ned tempelet for Artemis i Efesos, et av oldtidens sju underverk. Under tortur tilsto han at han bare ville bli udødeliggjort i historiebøkene, og hendelsen skal ifølge sagnet ha skjedd samme natt som Aleksander den store ble født. Hva het brannstifteren?",
+      "sv": "År 356 f.Kr. brände en man ner templet för Artemis i Efesos, ett av forntidens sju underverk. Under tortyr erkände han att han bara ville bli odödliggjord i historieböckerna, och händelsen ska enligt sägnen ha skett samma natt som Alexander den store föddes. Vad hette mordbrännaren?"
+    },
+    "answer": "Herostratos",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byens myndigheter forsøkte å slette navnet hans fra historien ved lov – noe som åpenbart ikke lyktes.",
+      "sv": "Stadens myndigheter försökte utplåna hans namn ur historien genom lag – vilket uppenbarligen inte lyckades."
+    },
+    "funFact": {
+      "nb": "Navnet hans ga opphav til begrepet «herostratisk berømmelse», om noen som søker ry for enhver pris, gjerne gjennom en ugjerning. Han ble henrettet etter tilståelsen.",
+      "sv": "Hans namn gav upphov till begreppet «herostratisk berömmelse», om någon som söker rykte till varje pris, gärna genom ett illdåd. Han avrättades efter erkännandet."
+    },
+    "source": "Encyclopaedia Britannica – Herostratus"
+  },
+  {
+    "id": "ild-v-14",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["teknologi", "vikingtid"],
+    "prompt": {
+      "nb": "Fra rundt 500 f.Kr. og helt fram til 1700-tallet utvant nordmenn jern av en malmtype som samler seg naturlig i myrer og grunne vann. Malmen ble ristet og smeltet i sjaktovner ved hjelp av trekull, og produksjonen i Trøndelag rundt år 200 langt oversteg det lokale behovet. Hva kalles denne malmtypen?",
+      "sv": "Från omkring 500 f.Kr. och ända fram till 1700-talet utvann norrmän järn ur en malmtyp som samlas naturligt i myrar och grunt vatten. Malmen rostades och smältes i schaktugnar med hjälp av träkol, och produktionen i Trøndelag omkring år 200 vida översteg det lokala behovet. Vad kallas denna malmtyp?"
+    },
+    "answer": "Myrmalm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Prosessen kalles jernvinne, og var i sitt største omfang under vikingtiden, da etterspørselen etter jern til våpen økte.",
+      "sv": "Processen kallas järnvinna, och var som störst under vikingatiden, då efterfrågan på järn till vapen ökade."
+    },
+    "funFact": {
+      "nb": "Fra rundt år 1300 tok de mer effektive masovnene over, og jernvinna gikk gradvis ut av bruk. Sporene etter driften er i dag synlige som blåster- og kullgroper i terrenget.",
+      "sv": "Från omkring år 1300 tog de mer effektiva masugnarna över, och järnvinnan gick gradvis ur bruk. Spåren efter driften syns i dag som blästbrukslämningar och kolgropar i terrängen."
+    },
+    "source": "Store norske leksikon – jernvinna"
+  },
+  {
+    "id": "ild-v-15",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["teknologi", "geografi"],
+    "prompt": {
+      "nb": "En svensk kobbergruve var i drift i om lag tusen år og sto i sin storhetstid for rundt to tredjedeler av alt kobber som ble utvunnet i Europa. Helt fram til slutten av 1800-tallet ble malmen løsnet ved å varme opp fjellet med bål og la det kjøle brått av. Hvilken by har gruven gitt navn til?",
+      "sv": "En svensk koppargruva var i drift i omkring tusen år och stod under sin storhetstid för ungefär två tredjedelar av allt koppar som utvanns i Europa. Ända fram till slutet av 1800-talet lossades malmen genom att man värmde upp berget med eldar och lät det svalna hastigt. Vilken stad har gruvan gett namn åt?"
+    },
+    "answer": "Falun",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er kjent for fargen Falu rødfärg, laget av et biprodukt fra gruvedriften, og gruveområdet kom på Unescos verdensarvliste i 2001.",
+      "sv": "Staden är känd för färgen Falu rödfärg, gjord av en biprodukt från gruvdriften, och gruvområdet kom på Unescos världsarvslista 2001."
+    },
+    "funFact": {
+      "nb": "På det meste, rundt 1650, produserte gruven over 3000 tonn kobber i året, og inntektene finansierte flere svenske kriger. Gruvedriften varte fra 900-tallet til 1992.",
+      "sv": "Som mest, omkring 1650, producerade gruvan över 3000 ton koppar om året, och intäkterna finansierade flera svenska krig. Gruvdriften varade från 900-talet till 1992."
+    },
+    "source": "Wikipedia (engelsk) – Falun Mine"
+  },
+  {
+    "id": "ild-v-16",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["militaerhistorie"],
+    "prompt": {
+      "nb": "Da tyske styrker trakk seg tilbake høsten 1944, fulgte de en brente jords taktikk i det nordligste fylket og deler av Nord-Troms. Nesten alle hus, båter og bruer ble brent eller sprengt før den sivile befolkningen ble tvangsevakuert sørover. Hvilket fylke ble hardest rammet?",
+      "sv": "När tyska styrkor drog sig tillbaka hösten 1944 följde de en brända jordens taktik i Norges nordligaste fylke och delar av Nord-Troms. Nästan alla hus, båtar och broar brändes eller sprängdes innan civilbefolkningen tvångsevakuerades söderut. Vilket fylke drabbades hårdast?"
+    },
+    "answer": "Finnmark",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fylket ligger lengst nord og øst i Norge, med kyst mot Barentshavet.",
+      "sv": "Fylket ligger längst norr och öster i Norge, med kust mot Barents hav."
+    },
+    "funFact": {
+      "nb": "Sovjetiske styrker hadde alt frigjort østlige deler av fylket da tilbaketrekningen skjedde, og gjenoppbyggingen tok flere tiår. Samenes tradisjonelle materielle kultur i området ble spesielt hardt rammet.",
+      "sv": "Sovjetiska styrkor hade redan befriat östra delar av fylket när tillbakadragandet skedde, och återuppbyggnaden tog flera decennier. Samernas traditionella materiella kultur i området drabbades särskilt hårt."
+    },
+    "source": "Store norske leksikon – Finnmark; Store norske leksikon – samenes historie"
+  },
+  {
+    "id": "ild-v-17",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "En svensk-tysk apoteker isolerte allerede rundt 1771 den gassen vi i dag kaller oksygen, og kalte den «Feuerluft» – ildluft – fordi den holdt forbrenning i gang. Manuskriptet hans kom ikke i trykken før i 1777, etter at både en brite og en franskmann hadde publisert sine egne funn. Hvem var apotekeren?",
+      "sv": "En svensk-tysk apotekare isolerade redan omkring 1771 den gas vi i dag kallar syre, och kallade den «Feuerluft» – eldluft – eftersom den höll förbränning igång. Hans manuskript kom inte i tryck förrän 1777, efter att både en britt och en fransman hade publicerat sina egna fynd. Vem var apotekaren?"
+    },
+    "answer": "Carl Wilhelm Scheele",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl Wilhelm",
+      "family": "Scheele"
+    },
+    "hint": {
+      "nb": "Han ble født i Stralsund, men arbeidet det meste av livet i svenske byer som Göteborg, Malmö og Uppsala, og drev til slutt eget apotek i Köping.",
+      "sv": "Han föddes i Stralsund, men arbetade största delen av livet i svenska städer som Göteborg, Malmö och Uppsala, och drev till slut ett eget apotek i Köping."
+    },
+    "funFact": {
+      "nb": "De to som fikk æren, var britiske Joseph Priestley og franske Antoine Lavoisier. Forfatteren Isaac Asimov kalte ham senere «uheldige Scheele» fordi han gang på gang kom fram til viktige oppdagelser uten å få æren.",
+      "sv": "De två som fick äran var britten Joseph Priestley och fransmannen Antoine Lavoisier. Författaren Isaac Asimov kallade honom senare «otursförföljde Scheele», eftersom han gång på gång kom fram till viktiga upptäckter utan att få äran."
+    },
+    "source": "Wikipedia (engelsk) – Carl Wilhelm Scheele"
+  },
+  {
+    "id": "ild-v-18",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["mytologi", "kongehus"],
+    "prompt": {
+      "nb": "I middelalderens dyrebøker ble dette krypet beskrevet som så giftig at det kunne bo i flammer og til og med slokke ild bare ved å være til stede. Den franske kong Frans 1. gjorde dyret til sitt personlige våpenmerke, med mottoet «jeg nærer og jeg slukker». Hvilket dyr er dette?",
+      "sv": "I medeltidens bestiarier beskrevs detta kräldjur som så giftigt att det kunde bo i lågor och till och med släcka eld bara genom att vara närvarande. Den franske kungen Frans I gjorde djuret till sitt personliga vapenmärke, med mottot «jag när och jag släcker». Vilket djur är detta?"
+    },
+    "answer": "Salamander",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Troen på dyrets forhold til ild går tilbake til antikken, blant annet til Aristoteles.",
+      "sv": "Tron på djurets förhållande till eld går tillbaka till antiken, bland annat till Aristoteles."
+    },
+    "funFact": {
+      "nb": "Emblemet finnes utskåret blant annet på slottet Chambord og i Fontainebleau. Den virkelige ildsalamanderen tåler faktisk ikke varme spesielt godt – misforståelsen kan skyldes at dyr krøp ut av vedstabler når de ble kastet på bålet.",
+      "sv": "Emblemet finns utskuret bland annat på slottet Chambord och i Fontainebleau. Den verkliga eldsalamandern tål faktiskt inte värme särskilt bra – missförståndet kan bero på att djur kröp ut ur vedstaplar när de kastades på elden."
+    },
+    "source": "Wikipedia (engelsk) – Salamander (legendary creature)"
+  },
+  {
+    "id": "ild-v-19",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "Natt til 7. april 1990 brøt det ut flere separate branner om bord på en bilferge mellom Oslo og Frederikshavn, med giftig røyk fra brennbare veggplater. Av 492 om bord omkom 159, de fleste norske. Årsaken er fortsatt omdiskutert – kan flere ha satt fyr med hensikt? Hva het skipet?",
+      "sv": "Natten till den 7 april 1990 utbröt flera separata bränder ombord på en bilfärja mellan Oslo och Fredrikshavn, med giftig rök från brännbara väggpaneler. Av 492 ombord omkom 159, de flesta norska. Orsaken är fortfarande omdiskuterad – kan flera ha anlagt eld avsiktligt? Vad hette fartyget?"
+    },
+    "answer": "Scandinavian Star",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skipet gikk for det norske rederiet DA-NO Linjen, og hadde opprinnelig vært bygget i Frankrike i 1971 under navnet Massalia.",
+      "sv": "Fartyget gick för det norska rederiet DA-NO Linjen, och hade ursprungligen byggts i Frankrike 1971 under namnet Massalia."
+    },
+    "funFact": {
+      "nb": "En dansk lastebilsjåfør med tidligere brannstiftelsesdommer ble først utpekt som skyldig, men en granskning fra 2009 konkluderte at flere separate branner må ha vært satt av ulike personer. Saken ble gjenåpnet i 2014.",
+      "sv": "En dansk lastbilschaufför med tidigare domar för mordbrand pekades först ut som skyldig, men en granskning från 2009 drog slutsatsen att flera separata bränder måste ha anlagts av olika personer. Fallet återupptogs 2014."
+    },
+    "source": "Wikipedia (engelsk) – MS Scandinavian Star"
+  },
+  {
+    "id": "ild-v-20",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["militaerhistorie", "okonomi"],
+    "prompt": {
+      "nb": "Et svensk jern- og stålverk fra 1600-tallet ble i 1894 kjøpt opp av oppfinneren bak dynamitten, som omdannet det til en moderne kanonfabrikk. Selskapets luftvernkanon fra mellomkrigstiden ble så utbredt at navnet ble et generisk ord for denne typen våpen under andre verdenskrig. Hvilket selskap er dette?",
+      "sv": "Ett svenskt järn- och stålverk från 1600-talet köptes 1894 upp av uppfinnaren bakom dynamiten, som omvandlade det till en modern kanonfabrik. Företagets luftvärnskanon från mellankrigstiden blev så utbredd att namnet blev ett generiskt ord för denna typ av vapen under andra världskriget. Vilket företag är detta?"
+    },
+    "answer": "Bofors",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Verket ligger i Karlskoga, og det opprinnelige hammerverket fikk tillatelse til å starte i 1646.",
+      "sv": "Verket ligger i Karlskoga, och den ursprungliga hammarsmedjan fick tillstånd att starta 1646."
+    },
+    "funFact": {
+      "nb": "Oppfinneren var Alfred Nobel, som eide verket fra 1894 til sin død i 1896. Den berømte 40 mm luftvernkanonen kalles fortsatt gjerne bare «en bofors» i dagligtale.",
+      "sv": "Uppfinnaren var Alfred Nobel, som ägde verket från 1894 till sin död 1896. Den berömda 40 mm luftvärnskanonen kallas fortfarande ofta bara «en bofors» i vardagligt tal."
+    },
+    "source": "Wikipedia (engelsk) – Bofors"
+  }
+]

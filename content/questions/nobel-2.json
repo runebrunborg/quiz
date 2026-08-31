@@ -1,0 +1,675 @@
+[
+  {
+    "id": "nobel-l-11",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi", "historie"],
+    "prompt": {
+      "nb": "Oppfinneren bak dynamitten vokste opp i Russland og tilbrakte senere det meste av sitt voksne liv i utlandet – i Paris og til slutt i San Remo i Italia. Men han ble født i en skandinavisk hovedstad i 1833. Hvilken by var det?",
+      "sv": "Uppfinnaren bakom dynamiten växte upp i Ryssland och tillbringade senare större delen av sitt vuxna liv utomlands – i Paris och till sist i San Remo i Italien. Men han föddes i en skandinavisk huvudstad 1833. Vilken stad var det?"
+    },
+    "answer": "Stockholm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er også Sveriges hovedstad, og der ligger i dag et museum om ham i den gamle børsbygningen.",
+      "sv": "Staden är också Sveriges huvudstad, och där ligger i dag ett museum om honom i den gamla börsbyggnaden."
+    },
+    "funFact": {
+      "nb": "Nobel døde i San Remo i 1896, men er gravlagt på Norra begravningsplatsen i fødebyen sin.",
+      "sv": "Nobel dog i San Remo 1896, men ligger begravd på Norra begravningsplatsen i sin födelsestad."
+    },
+    "source": "Store norske leksikon – «Alfred Nobel»"
+  },
+  {
+    "id": "nobel-l-12",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["vitenskap", "medisin"],
+    "prompt": {
+      "nb": "I 1901 ble den aller første nobelprisen i fysikk delt ut, til en tysk fysiker som hadde oppdaget en usynlig stråling som kunne avbilde skjelettet gjennom huden. Strålingen fikk etter hvert navn etter ham selv. Hvem var han?",
+      "sv": "År 1901 delades det allra första nobelpriset i fysik ut, till en tysk fysiker som hade upptäckt en osynlig strålning som kunde avbilda skelettet genom huden. Strålningen fick så småningom namn efter honom själv. Vem var han?"
+    },
+    "answer": "Wilhelm Röntgen",
+    "answerKind": "person",
+    "person": { "given": "Wilhelm", "family": "Röntgen" },
+    "hint": {
+      "nb": "På norsk og tysk kalles bildene som denne strålingen lager, fortsatt oppkalt etter ham; på engelsk heter de rett og slett «X-ray».",
+      "sv": "På norska och tyska kallas bilderna som denna strålning skapar fortfarande efter honom; på engelska heter de helt enkelt «X-ray»."
+    },
+    "funFact": {
+      "nb": "Oppdagelsen gjorde han ved Universitetet i Würzburg i 1895. Han nektet å ta patent på den, fordi han mente samfunnet burde få nyte godt av den fritt.",
+      "sv": "Upptäckten gjorde han vid universitetet i Würzburg 1895. Han vägrade att ta patent på den, eftersom han ansåg att samhället borde få nytta av den fritt."
+    },
+    "source": "Nobel Prize Outreach – fysikkprisen 1901"
+  },
+  {
+    "id": "nobel-l-13",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["historie", "arkitektur"],
+    "prompt": {
+      "nb": "I den gamle jernbanestasjonen ved Rådhusplassen i Oslo åpnet det i 2005 et museum som forteller historien om Alfred Nobel og om fredsprisvinnerne. Hva heter museet?",
+      "sv": "I den gamla järnvägsstationen vid Rådhusplassen i Oslo öppnade det 2005 ett museum som berättar historien om Alfred Nobel och om fredspristagarna. Vad heter museet?"
+    },
+    "answer": { "nb": "Nobels Fredssenter", "sv": "Nobels fredscenter" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stasjonsbygningen er fra 1872 og lå tidligere ved Vestbanen, brukt av tog vestover fra Oslo.",
+      "sv": "Stationsbyggnaden är från 1872 och låg tidigare vid Vestbanen, som trafikerades av tåg västerut från Oslo."
+    },
+    "funFact": {
+      "nb": "Stortinget vedtok å opprette senteret i 2000. Utstillingene viser blant annet Alfred Nobels liv og alle fredsprisvinnerne opp gjennom historien.",
+      "sv": "Stortinget beslutade att inrätta centret år 2000. Utställningarna visar bland annat Alfred Nobels liv och alla fredspristagare genom historien."
+    },
+    "source": "Store norske leksikon – «Nobels fredssenter»"
+  },
+  {
+    "id": "nobel-l-14",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["kongehus"],
+    "prompt": {
+      "nb": "Fysikk-, kjemi-, medisin-, litteratur- og økonomiprisen overrekkes hvert år på en scene i Stockholm, av statsoverhodet i landet der Alfred Nobel selv ble født. Hvem er det som rekker fram medaljene?",
+      "sv": "Fysik-, kemi-, medicin-, litteratur- och ekonomipriset överlämnas varje år på en scen i Stockholm, av statsöverhuvudet i landet där Alfred Nobel själv föddes. Vem är det som räcker fram medaljerna?"
+    },
+    "answer": { "nb": "Kongen av Sverige", "sv": "Sveriges kung" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fredsprisen er unntaket – den deles ut av Nobelkomiteen i Oslo, uten kongelig overrekkelse.",
+      "sv": "Fredspriset är undantaget – det delas ut av Nobelkommittén i Oslo, utan kunglig överlämning."
+    },
+    "funFact": {
+      "nb": "Sammen med dronningen er kongeparet faste gjester på podiet i Konserthuset i Stockholm hver 10. desember.",
+      "sv": "Tillsammans med drottningen är kungaparet fasta gäster på podiet i Konserthuset i Stockholm varje 10 december."
+    },
+    "source": "Nobelstiftelsen – «The Nobel Prize Award Ceremonies»"
+  },
+  {
+    "id": "nobel-l-15",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["historie", "kunst"],
+    "prompt": {
+      "nb": "I den gamle børsbygningen på Stortorget i Gamla stan i Stockholm, i samme hus som Svenska Akademien holder til, åpnet det i 2001 et museum til ære for hundreårsjubileet for prisene. Hva heter museet?",
+      "sv": "I den gamla börsbyggnaden på Stortorget i Gamla stan i Stockholm, i samma hus som Svenska Akademien håller till, öppnade det 2001 ett museum till ära för prisens hundraårsjubileum. Vad heter museet?"
+    },
+    "answer": "Nobelmuseet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bygningen ligger midt i den middelalderske bykjernen, en kort spasertur fra Stockholms slott.",
+      "sv": "Byggnaden ligger mitt i den medeltida stadskärnan, en kort promenad från Stockholms slott."
+    },
+    "funFact": {
+      "nb": "I samme bygning finner man også Nobelbiblioteket, med en av verdens største samlinger av litteratur om nobelprisene.",
+      "sv": "I samma byggnad finns även Nobelbiblioteket, med en av världens största samlingar av litteratur om nobelprisen."
+    },
+    "source": "Nobel Prize Outreach – «Nobel Prize Museum»"
+  },
+  {
+    "id": "nobel-l-16",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["litteratur", "historie"],
+    "prompt": {
+      "nb": "I 1920 fikk en norsk forfatter nobelprisen i litteratur for romanen «Markens grøde», en fortelling om nybyggeren Isak som rydder jord i ødemarken. Han skrev også romaner som «Sult» og «Pan». Hvem var forfatteren?",
+      "sv": "År 1920 fick en norsk författare nobelpriset i litteratur för romanen «Markens grøde», en berättelse om nybyggaren Isak som röjer mark i ödemarken. Han skrev även romaner som «Sult» och «Pan». Vem var författaren?"
+    },
+    "answer": "Knut Hamsun",
+    "answerKind": "person",
+    "person": { "given": "Knut", "family": "Hamsun" },
+    "hint": {
+      "nb": "Han ble født i Vågå i Gudbrandsdalen, men vokste opp på gården Hamsund i Hamarøy, og pseudonymet hans er hentet fra gårdsnavnet der.",
+      "sv": "Han föddes i Vågå i Gudbrandsdalen men växte upp på gården Hamsund i Hamarøy, och pseudonymet är hämtat från gårdsnamnet där."
+    },
+    "funFact": {
+      "nb": "Hamsun ble senere sterkt omstridt i norsk offentlighet for sin støtte til Nazi-Tyskland under andre verdenskrig, men litteraturprisen for 1920 sto ved lag. «Markens grøde» kom opprinnelig i 1917.",
+      "sv": "Hamsun blev senare starkt omstridd i norsk offentlighet för sitt stöd till Nazityskland under andra världskriget, men litteraturpriset för 1920 stod fast. «Markens grøde» kom ursprungligen 1917."
+    },
+    "source": "Store norske leksikon – «Knut Hamsun»; Nobel Prize Outreach – litteraturprisen 1920"
+  },
+  {
+    "id": "nobel-l-17",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["litteratur", "historie"],
+    "prompt": {
+      "nb": "Litteraturprisen avgjøres ikke av forskere, men av en forsamling på 18 medlemmer i Stockholm, kjent som «De atten». Den ble grunnlagt i 1786 av kong Gustav III, etter mønster fra det franske akademiet. Hvilken institusjon er dette?",
+      "sv": "Litteraturpriset avgörs inte av forskare, utan av en församling på 18 ledamöter i Stockholm, känd som «De Aderton». Den grundades 1786 av kung Gustav III, efter mönster av den franska akademien. Vilken institution är detta?"
+    },
+    "answer": "Svenska Akademien",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Medlemmene sitter på livstid, og en av oppgavene er å utgi en stor ordbok over det svenske språket.",
+      "sv": "Ledamöterna sitter på livstid, och en av uppgifterna är att ge ut en stor ordbok över det svenska språket."
+    },
+    "funFact": {
+      "nb": "Institusjonen holder til i den gamle børsbygningen på Stortorget i Gamla stan, samme hus som Nobelmuseet.",
+      "sv": "Institutionen håller till i den gamla börsbyggnaden på Stortorget i Gamla stan, samma hus som Nobelmuseet."
+    },
+    "source": "Svenska Akademien – «Historia»"
+  },
+  {
+    "id": "nobel-l-18",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["tv", "militaerhistorie"],
+    "prompt": {
+      "nb": "NRK-dramaserien fra 2016 følger en norsk fallskjermjeger og hans avdeling under Norges militære innsats i Afghanistan, og har undertittelen «fred for enhver pris». Hvilken ettordstittel, oppkalt etter fredsprisen, bærer serien?",
+      "sv": "NRK-dramaserien från 2016 följer en norsk fallskärmsjägare och hans avdelning under Norges militära insats i Afghanistan, och har undertiteln «fred till varje pris». Vilken enordstitel, uppkallad efter fredspriset, bär serien?"
+    },
+    "answer": "Nobel",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedpersonen, fallskjermjegeren Erling Riiser, spilles av skuespilleren Aksel Hennie.",
+      "sv": "Huvudpersonen, fallskärmsjägaren Erling Riiser, spelas av skådespelaren Aksel Hennie."
+    },
+    "funFact": {
+      "nb": "Serien hadde premiere på NRK 25. september 2016 og tar for seg både de militære operasjonene og de politiske sidene ved Norges Afghanistan-innsats.",
+      "sv": "Serien hade premiär på NRK 25 september 2016 och skildrar både de militära operationerna och de politiska sidorna av Norges Afghanistaninsats."
+    },
+    "source": "Wikipedia – «Nobel (TV series)»"
+  },
+  {
+    "id": "nobel-l-19",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "Det finnes ingen ekte nobelpris i dette faget, siden Alfred Nobel ikke nevnte det i testamentet. Fields-medaljen, som deles ut hvert fjerde år til unge forskere, blir derfor ofte kalt «nobelprisen» i faget. Hvilket fag er det?",
+      "sv": "Det finns inget riktigt nobelpris i detta ämne, eftersom Alfred Nobel inte nämnde det i testamentet. Fieldsmedaljen, som delas ut vart fjärde år till unga forskare, kallas därför ofta «nobelpriset» i ämnet. Vilket ämne är det?"
+    },
+    "answer": { "nb": "Matematikk", "sv": "Matematik" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Prisen deles bare ut til forskere under 40 år, og utdelingen skjer på den internasjonale matematikerkongressen.",
+      "sv": "Priset delas bara ut till forskare under 40 år, och utdelningen sker vid den internationella matematikerkongressen."
+    },
+    "funFact": {
+      "nb": "Medaljen ble innstiftet av den kanadiske matematikeren John Charles Fields og delt ut første gang i 1936. Nordmannen Atle Selberg vant den i 1950.",
+      "sv": "Medaljen instiftades av den kanadensiske matematikern John Charles Fields och delades ut första gången 1936. Norrmannen Atle Selberg vann den 1950."
+    },
+    "source": "Wikipedia – «Fields Medal»; Store norske leksikon – «Atle Selberg»"
+  },
+  {
+    "id": "nobel-l-20",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["politikk"],
+    "prompt": {
+      "nb": "Hvert år i desember kårer fem personer, oppnevnt av Stortinget, hvem som skal få fredsprisen. Overrekkelsen skjer i Oslo rådhus, med den norske kongefamilien til stede som gjester. Hva heter forsamlingen som velger vinneren?",
+      "sv": "Varje år i december utser fem personer, utsedda av Stortinget, vem som ska få fredspriset. Överlämningen sker i Oslo rådhus, med den norska kungafamiljen närvarande som gäster. Vad heter församlingen som väljer pristagaren?"
+    },
+    "answer": { "nb": "Den norske Nobelkomité", "sv": "Norska Nobelkommittén" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Komiteen holder til i en egen bygning i Oslo og velger selv hvem av medlemmene som skal lede den.",
+      "sv": "Kommittén håller till i en egen byggnad i Oslo och väljer själv vem av ledamöterna som ska leda den."
+    },
+    "funFact": {
+      "nb": "Norge fikk ansvaret for fredsprisen fordi Alfred Nobel bestemte det slik i testamentet sitt fra 1895 – den eneste av de opprinnelige prisene som ikke avgjøres i Sverige.",
+      "sv": "Norge fick ansvaret för fredspriset eftersom Alfred Nobel bestämde det så i sitt testamente från 1895 – det enda av de ursprungliga prisen som inte avgörs i Sverige."
+    },
+    "source": "Det Norske Nobelinstitutt; Nobelstiftelsen – «Alfred Nobel's will»"
+  },
+  {
+    "id": "nobel-m-11",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["vitenskap", "medisin"],
+    "prompt": {
+      "nb": "I 2014 fikk et norsk ektepar fra NTNU i Trondheim nobelprisen i fysiologi eller medisin, for oppdagelsen av gitterceller – hjerneceller som fungerer som et slags internt GPS-system. De delte prisen med britiske John O'Keefe. Hvilket etternavn har paret felles?",
+      "sv": "År 2014 fick ett norskt par från NTNU i Trondheim nobelpriset i fysiologi eller medicin, för upptäckten av gitternervceller – hjärnceller som fungerar som ett slags internt GPS-system. De delade priset med britten John O'Keefe. Vilket efternamn har paret gemensamt?"
+    },
+    "answer": "Moser",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Halvparten av prisen gikk til paret sammen, den andre halvparten til amerikaneren som hadde oppdaget stedceller allerede i 1971.",
+      "sv": "Hälften av priset gick till paret tillsammans, den andra hälften till amerikanen som hade upptäckt platsceller redan 1971."
+    },
+    "funFact": {
+      "nb": "May-Britt og Edvard Moser ledet den gang et forskningsinstitutt ved NTNU oppkalt etter den norsk-amerikanske gründeren Fred Kavli.",
+      "sv": "May-Britt och Edvard Moser ledde då ett forskningsinstitut vid NTNU uppkallat efter den norsk-amerikanske entreprenören Fred Kavli."
+    },
+    "source": "Nobel Prize Outreach – medisinprisen 2014"
+  },
+  {
+    "id": "nobel-m-12",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["arkitektur", "mat-og-drikke"],
+    "prompt": {
+      "nb": "Etter selve prisutdelingen samles rundt 1300 gjester til bankett i en sal med en pussig navneforvirring: Den er kledd i rødbrun tegl, ikke blått, fordi arkitekten forkastet den opprinnelige fargeplanen underveis i byggingen. Hvilken sal i Stockholms stadshus er dette?",
+      "sv": "Efter själva prisutdelningen samlas omkring 1300 gäster till bankett i en sal med en lustig namnförvirring: Den är klädd i rödbrunt tegel, inte blått, eftersom arkitekten övergav den ursprungliga färgplanen under byggets gång. Vilken sal i Stockholms stadshus är detta?"
+    },
+    "answer": "Blå hallen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I samme sal står et av Nordens største orgel, med over 10 000 piper.",
+      "sv": "I samma sal står ett av Nordens största orglar, med över 10 000 pipor."
+    },
+    "funFact": {
+      "nb": "Arkitekten Ragnar Östberg hadde opprinnelig tenkt blåglaserte fliser på veggene, men lot i stedet den røde teglsteinen stå synlig – navnet ble likevel hengende ved.",
+      "sv": "Arkitekten Ragnar Östberg hade ursprungligen tänkt sig blåglaserat kakel på väggarna, men lät i stället det röda teglet stå synligt – namnet blev ändå kvar."
+    },
+    "source": "Wikipedia – «Stockholm City Hall»"
+  },
+  {
+    "id": "nobel-m-13",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["musikk", "litteratur"],
+    "prompt": {
+      "nb": "I 2016 gikk litteraturprisen for første gang til en visesanger, «for å ha skapt nye poetiske uttrykk innenfor den store amerikanske sangtradisjonen». Avgjørelsen delte litteraturverdenen i to leire. Hvem var den omstridte vinneren?",
+      "sv": "År 2016 gick litteraturpriset för första gången till en visartist, «för att ha skapat nya poetiska uttryck inom den stora amerikanska sångtraditionen». Avgörandet delade litteraturvärlden i två läger. Vem var den omstridda pristagaren?"
+    },
+    "answer": "Bob Dylan",
+    "answerKind": "person",
+    "person": { "given": "Bob", "family": "Dylan" },
+    "hint": {
+      "nb": "Han slo gjennom på 1960-tallet med protestviser som «Blowin' in the Wind» og «The Times They Are a-Changin'».",
+      "sv": "Han slog igenom på 1960-talet med protestvisor som «Blowin' in the Wind» och «The Times They Are a-Changin'»."
+    },
+    "funFact": {
+      "nb": "Han svarte ikke akademiet på flere uker og reiste ikke til Stockholm i desember, men holdt sin nobelforelesning innen fristen året etter.",
+      "sv": "Han svarade inte akademien på flera veckor och reste inte till Stockholm i december, men höll sin nobelföreläsning inom fristen året därpå."
+    },
+    "source": "Nobel Prize Outreach – litteraturprisen 2016"
+  },
+  {
+    "id": "nobel-m-14",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["okonomi", "vitenskap"],
+    "prompt": {
+      "nb": "Nordmannen fikk økonomiprisen alene i 1989, for arbeidet med sannsynlighetsteoretiske grunnlag for økonometri. Doktoravhandlingen hans fra 1944 la mye av grunnlaget for moderne empirisk økonomi. Hvem var han?",
+      "sv": "Norrmannen fick ekonomipriset ensam 1989, för arbetet med sannolikhetsteoretiska grunder för ekonometri. Hans doktorsavhandling från 1944 lade mycket av grunden för modern empirisk ekonomi. Vem var han?"
+    },
+    "answer": "Trygve Haavelmo",
+    "answerKind": "person",
+    "person": { "given": "Trygve", "family": "Haavelmo" },
+    "hint": {
+      "nb": "Han var professor ved Universitetet i Oslo og hadde tidligere vært elev av Ragnar Frisch, som selv vant den aller første økonomiprisen i 1969.",
+      "sv": "Han var professor vid Universitetet i Oslo och hade tidigare varit elev till Ragnar Frisch, som själv vann det allra första ekonomipriset 1969."
+    },
+    "funFact": {
+      "nb": "Med disse to har Norge alene to av mottakerne av økonomiprisen, som forøvrig ikke er en ekte nobelpris, men Sveriges riksbanks pris til Alfred Nobels minne.",
+      "sv": "Med dessa två har Norge ensamt två av mottagarna av ekonomipriset, som för övrigt inte är ett riktigt nobelpris, utan Sveriges riksbanks pris till Alfred Nobels minne."
+    },
+    "source": "Nobel Prize Outreach – økonomiprisen 1989; Store norske leksikon"
+  },
+  {
+    "id": "nobel-m-15",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["arkitektur", "musikk"],
+    "prompt": {
+      "nb": "Siden innvielsen i 1926 er det denne blåmalte bygningen ved Hötorget i Stockholm som er arena for selve prisutdelingen i fysikk, kjemi, medisin, litteratur og økonomi. Hvilket bygg er dette?",
+      "sv": "Sedan invigningen 1926 är det denna blåmålade byggnad vid Hötorget i Stockholm som är arena för själva prisutdelningen i fysik, kemi, medicin, litteratur och ekonomi. Vilken byggnad är detta?"
+    },
+    "answer": "Stockholms konserthus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fasaden er kjent for sin sterkt blå farge, og bygningen huser også Kungliga Filharmonikerna.",
+      "sv": "Fasaden är känd för sin starkt blå färg, och byggnaden hyser även Kungliga Filharmonikerna."
+    },
+    "funFact": {
+      "nb": "Arkitekt var Ivar Tengbom. Utenfor bygget står Carl Milles' skulptur «Orfeusbrunnen», fullført i 1936.",
+      "sv": "Arkitekt var Ivar Tengbom. Utanför byggnaden står Carl Milles skulptur «Orfeusbrunnen», färdigställd 1936."
+    },
+    "source": "Wikipedia – «Stockholm Concert Hall»"
+  },
+  {
+    "id": "nobel-m-16",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["politikk", "historie"],
+    "prompt": {
+      "nb": "I 1921 delte Nobelkomiteen fredsprisen mellom en svensk statsminister og en norsk historiker og fredsforkjemper, kjent for sitt arbeid i Den interparlamentariske union og senere Folkeforbundet. Hvem var nordmannen?",
+      "sv": "År 1921 delade Nobelkommittén fredspriset mellan en svensk statsminister och en norsk historiker och fredskämpe, känd för sitt arbete i Interparlamentariska unionen och senare Nationernas förbund. Vem var norrmannen?"
+    },
+    "answer": "Christian Lous Lange",
+    "answerKind": "person",
+    "person": { "given": "Christian Lous", "family": "Lange" },
+    "hint": {
+      "nb": "Han var generalsekretær i Den interparlamentariske union fra 1909 til 1933, med kontor i Brussel og senere Genève.",
+      "sv": "Han var generalsekreterare i Interparlamentariska unionen från 1909 till 1933, med kontor i Bryssel och senare Genève."
+    },
+    "funFact": {
+      "nb": "Medvinneren, Hjalmar Branting, var samtidig Sveriges statsminister. Sønnen Halvard Lange ble senere norsk utenriksminister.",
+      "sv": "Medpristagaren, Hjalmar Branting, var samtidigt Sveriges statsminister. Sonen Halvard Lange blev senare norsk utrikesminister."
+    },
+    "source": "Store norske leksikon – «Christian Lous Lange»; Nobel Prize Outreach – fredsprisen 1921"
+  },
+  {
+    "id": "nobel-m-17",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["musikk", "popkultur"],
+    "prompt": {
+      "nb": "Musikkbransjen har sin egen «nobelpris», stiftet i 1989 av manageren til popgruppen ABBA. Prisen deles hvert år ut til én klassisk og én utøver innenfor andre sjangre, uten hensyn til nasjonalitet. Hva heter prisen?",
+      "sv": "Musikbranschen har sitt eget «nobelpris», instiftat 1989 av managern för popgruppen ABBA. Priset delas varje år ut till en klassisk och en utövare inom andra genrer, oavsett nationalitet. Vad heter priset?"
+    },
+    "answer": { "nb": "Polar Music Prize", "sv": "Polarpriset" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stifteren het Stig Anderson, og den første utdelingen var i 1992, med blant andre Paul McCartney som vinner.",
+      "sv": "Instiftaren hette Stig Anderson, och den första utdelningen var 1992, med bland andra Paul McCartney som pristagare."
+    },
+    "funFact": {
+      "nb": "Utdelingen skjer i Konserthuset i Stockholm, med den svenske kongen til stede – samme sal som nobelprisene.",
+      "sv": "Utdelningen sker i Konserthuset i Stockholm, med den svenske kungen närvarande – samma sal som nobelprisen."
+    },
+    "source": "Wikipedia – «Polar Music Prize»"
+  },
+  {
+    "id": "nobel-m-18",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": ["politikk", "historie"],
+    "prompt": {
+      "nb": "Fredsprisen for 1971 gikk til en tysk forbundskansler for hans «Ostpolitik» – forsoningen med Øst-Europa og anerkjennelsen av etterkrigsgrensene. Han hadde selv flyktet fra nazistene til Norge og siden Sverige under krigen. Hvem var han?",
+      "sv": "Fredspriset för 1971 gick till en tysk förbundskansler för hans «Ostpolitik» – försoningen med Östeuropa och erkännandet av efterkrigsgränserna. Han hade själv flytt undan nazisterna till Norge och sedan Sverige under kriget. Vem var han?"
+    },
+    "answer": "Willy Brandt",
+    "answerKind": "person",
+    "person": { "given": "Willy", "family": "Brandt" },
+    "hint": {
+      "nb": "Han var regjerende borgermester i Vest-Berlin da muren ble bygget i 1961, og ble forbundskansler i 1969.",
+      "sv": "Han var regerande borgmästare i Västberlin när muren byggdes 1961, och blev förbundskansler 1969."
+    },
+    "funFact": {
+      "nb": "Et kjent bilde viser ham knelende ved minnesmerket for ofrene for oppstanden i Warszawagettoen i 1970 – en gest som ble husket lenge etter kanslertiden hans.",
+      "sv": "En känd bild visar honom knäböjande vid minnesmärket för offren för upproret i Warszawagettot 1970 – en gest som minns länge efter kanslertiden."
+    },
+    "source": "Nobel Prize Outreach – fredsprisen 1971"
+  },
+  {
+    "id": "nobel-m-19",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": ["politikk", "historie"],
+    "prompt": {
+      "nb": "Fra 1969 til 1979 ledet en tidligere visepresident i Stortingets presidentskap Den norske Nobelkomité – den første kvinnen i den rollen. Hun satt i komiteen sammenlagt i over 30 år og opplevde blant annet den omstridte prisen til Kissinger og Le Duc Tho i 1973. Hvem var hun?",
+      "sv": "Från 1969 till 1979 ledde en tidigare vice talman i Stortingets presidentskap Norska Nobelkommittén – den första kvinnan i den rollen. Hon satt i kommittén sammanlagt i över 30 år och upplevde bland annat det omstridda priset till Kissinger och Le Duc Tho 1973. Vem var hon?"
+    },
+    "answer": "Aase Lionæs",
+    "answerKind": "person",
+    "person": { "given": "Aase", "family": "Lionæs" },
+    "hint": {
+      "nb": "Hun representerte Arbeiderpartiet og var i mange år Stortingets eneste kvinnelige medlem av finanskomiteen.",
+      "sv": "Hon representerade Arbeiderpartiet och var under många år Stortingets enda kvinnliga ledamot av finanskommittén."
+    },
+    "funFact": {
+      "nb": "Hun beklaget senere at kvinner som Eleanor Roosevelt aldri fikk fredsprisen mens de levde.",
+      "sv": "Hon beklagade senare att kvinnor som Eleanor Roosevelt aldrig fick fredspriset medan de levde."
+    },
+    "source": "Store norske leksikon – «Aase Lionæs»"
+  },
+  {
+    "id": "nobel-m-20",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": ["politikk", "historie"],
+    "prompt": {
+      "nb": "I 1982 fikk en svensk sosiolog og diplomat fredsprisen sammen med meksikaneren Alfonso García Robles, for arbeidet med nedrustning. Ektemannen hennes hadde selv fått økonomiprisen åtte år tidligere, og sammen ble de det eneste ekteparet der begge har vunnet hver sin nobelpris uavhengig av hverandre. Hvem var hun?",
+      "sv": "År 1982 fick en svensk sociolog och diplomat fredspriset tillsammans med mexikanen Alfonso García Robles, för arbetet med nedrustning. Hennes make hade själv fått ekonomipriset åtta år tidigare, och tillsammans blev de det enda äkta paret där båda har vunnit varsitt nobelpris oberoende av varandra. Vem var hon?"
+    },
+    "answer": "Alva Myrdal",
+    "answerKind": "person",
+    "person": { "given": "Alva", "family": "Myrdal" },
+    "hint": {
+      "nb": "Hun var svensk ambassadør til India fra 1955 og senere medlem av den svenske regjeringen med ansvar for nedrustningsspørsmål.",
+      "sv": "Hon var svensk ambassadör i Indien från 1955 och senare medlem av den svenska regeringen med ansvar för nedrustningsfrågor."
+    },
+    "funFact": {
+      "nb": "Med Alva og Gunnar Myrdal ble familien den fjerde noensinne der begge ektefeller har fått nobelpris – men den første der de vant hver sin, uavhengig av hverandre.",
+      "sv": "Med Alva och Gunnar Myrdal blev familjen den fjärde någonsin där båda makarna fått nobelpris – men den första där de vann var sitt, oberoende av varandra."
+    },
+    "source": "Nobel Prize Outreach – fredsprisen 1982; biografisk"
+  },
+  {
+    "id": "nobel-v-11",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "I 1969 fikk en norsk kjemiker fra Universitetet i Oslo dele kjemiprisen med briten Derek Barton, for arbeid om hvordan molekyler kan innta ulike romlige former. Løsningen han fant, gjaldt særlig ringformede molekyler som sykloheksan. Hvem var han?",
+      "sv": "År 1969 fick en norsk kemist från Universitetet i Oslo dela kemipriset med britten Derek Barton, för arbete om hur molekyler kan anta olika rumsliga former. Lösningen han fann gällde särskilt ringformade molekyler som cyklohexan. Vem var han?"
+    },
+    "answer": "Odd Hassel",
+    "answerKind": "person",
+    "person": { "given": "Odd", "family": "Hassel" },
+    "hint": {
+      "nb": "Feltet han grunnla, kalles konformasjonsanalyse, og handler om hvordan atomer i et molekyl kan vris rundt bindingene sine.",
+      "sv": "Fältet han grundade kallas konformationsanalys, och handlar om hur atomerna i en molekyl kan vridas runt sina bindningar."
+    },
+    "funFact": {
+      "nb": "Han viste at sykloheksan helst antar en «stolform», med vekslende akse- og ekvatorialbindinger – en modell som fortsatt læres bort i kjemiundervisning verden over.",
+      "sv": "Han visade att cyklohexan helst antar en «stolform», med växlande axial- och ekvatorialbindningar – en modell som fortfarande lärs ut i kemiundervisning över hela världen."
+    },
+    "source": "Store norske leksikon – «Odd Hassel»; Nobel Prize Outreach – kjemiprisen 1969"
+  },
+  {
+    "id": "nobel-v-12",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["militaerhistorie", "okonomi"],
+    "prompt": {
+      "nb": "Fra 1894 og til sin død to år senere eide Alfred Nobel et gammelt jernverk i Värmland, som han bygde om til en moderne kanon- og kjemifabrikk. Under andre verdenskrig ble luftvernkanonene herfra brukt av hærer over hele verden. Hvilken bedrift var dette?",
+      "sv": "Från 1894 och fram till sin död två år senare ägde Alfred Nobel ett gammalt järnbruk i Värmland, som han byggde om till en modern kanon- och kemifabrik. Under andra världskriget användes luftvärnskanonerna härifrån av arméer över hela världen. Vilket företag var detta?"
+    },
+    "answer": "Bofors",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet lever videre i det svenske forsvarskonsernet som fortsatt lager artilleri og ammunisjon i dag.",
+      "sv": "Namnet lever vidare i den svenska försvarskoncern som fortfarande tillverkar artilleri och ammunition i dag."
+    },
+    "funFact": {
+      "nb": "Nobel opprettet også datterselskapet Bofors Nobelkrut i 1898 for produksjon av krutt og sprengstoff, en gren som senere ble til kjemikonsernet Nobel Industrier.",
+      "sv": "Nobel grundade även dotterbolaget Bofors Nobelkrut 1898 för tillverkning av krut och sprängämnen, en gren som senare blev kemikoncernen Nobel Industrier."
+    },
+    "source": "Wikipedia – «Bofors»"
+  },
+  {
+    "id": "nobel-v-13",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["politikk", "militaerhistorie"],
+    "prompt": {
+      "nb": "Fredsprisen for 1973 var trolig den mest omstridte noensinne: Den gikk til USAs utenriksminister og hans nordvietnamesiske motpart, for en våpenhvileavtale i en krig som fortsatt pågikk. To medlemmer av Den norske Nobelkomité trakk seg i protest. Hvem var den amerikanske vinneren?",
+      "sv": "Fredspriset för 1973 var troligen det mest omstridda någonsin: Det gick till USA:s utrikesminister och hans nordvietnamesiska motpart, för ett vapenstilleståndsavtal i ett krig som fortfarande pågick. Två ledamöter i Norska Nobelkommittén avgick i protest. Vem var den amerikanske pristagaren?"
+    },
+    "answer": "Henry Kissinger",
+    "answerKind": "person",
+    "person": { "given": "Henry", "family": "Kissinger" },
+    "hint": {
+      "nb": "Han hadde tidligere vært Richard Nixons nasjonale sikkerhetsrådgiver og var kjent for sin realpolitiske tilnærming til utenrikspolitikk.",
+      "sv": "Han hade tidigare varit Richard Nixons nationelle säkerhetsrådgivare och var känd för sin realpolitiska syn på utrikespolitik."
+    },
+    "funFact": {
+      "nb": "Le Duc Tho takket nei til prisen. Sammen med den franske filosofen Jean-Paul Sartre er han en av bare to personer som noensinne har avslått en nobelpris av egen fri vilje.",
+      "sv": "Le Duc Tho tackade nej till priset. Tillsammans med den franske filosofen Jean-Paul Sartre är han en av bara två personer som någonsin frivilligt avböjt ett nobelpris."
+    },
+    "source": "Nobel Prize Outreach – fredsprisen 1973"
+  },
+  {
+    "id": "nobel-v-14",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["vitenskap", "teknologi"],
+    "prompt": {
+      "nb": "Fysikkprisen i 1973 gikk blant annet til en norskfødt forsker ved General Electric i USA, for eksperimenter fra 1960 som viste hvordan elektroner kan «tunnellere» gjennom et tynt isolerende sjikt mellom to superledere. Hvem var han?",
+      "sv": "Fysikpriset 1973 gick bland annat till en norskfödd forskare vid General Electric i USA, för experiment från 1960 som visade hur elektroner kan «tunnla» genom ett tunt isolerande skikt mellan två supraledare. Vem var han?"
+    },
+    "answer": "Ivar Giæver",
+    "answerKind": "person",
+    "person": { "given": "Ivar", "family": "Giæver" },
+    "hint": {
+      "nb": "Han delte prisen med japaneren Leo Esaki og briten Brian Josephson, og utvandret fra Norge i 1954, først til Canada og siden til USA.",
+      "sv": "Han delade priset med japanen Leo Esaki och britten Brian Josephson, och utvandrade från Norge 1954, först till Kanada och sedan till USA."
+    },
+    "funFact": {
+      "nb": "Han var opprinnelig utdannet maskiningeniør ved Norges tekniske høgskole i Trondheim i 1952, og tok senere doktorgrad i fysikk mens han jobbet hos General Electric.",
+      "sv": "Han var ursprungligen utbildad maskiningenjör vid Norges tekniske høgskole i Trondheim 1952, och tog senare doktorsgrad i fysik medan han arbetade hos General Electric."
+    },
+    "source": "Nobel Prize Outreach – fysikkprisen 1973; Wikipedia – «Ivar Giaever»"
+  },
+  {
+    "id": "nobel-v-15",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["geografi", "historie"],
+    "prompt": {
+      "nb": "Ved Kaspihavets kyst, i det som i dag er hovedstaden i Aserbajdsjan, bygde Alfred Nobels eldre brødre opp et av verdens største oljeselskaper på slutten av 1800-tallet. Rundt tolv prosent av formuen bak nobelprisene skal stamme herfra. Hvilken by er dette?",
+      "sv": "Vid Kaspiska havets kust, i det som i dag är huvudstaden i Azerbajdzjan, byggde Alfred Nobels äldre bröder upp ett av världens största oljebolag i slutet av 1800-talet. Omkring tolv procent av förmögenheten bakom nobelprisen ska härröra härifrån. Vilken stad är detta?"
+    },
+    "answer": "Baku",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er i dag kjent for Formel 1-løp i bygatene og som vertskap for Eurovision Song Contest i 2012.",
+      "sv": "Staden är i dag känd för Formel 1-lopp i gatorna och som värd för Eurovision Song Contest 2012."
+    },
+    "funFact": {
+      "nb": "Selskapet Branobel ble startet av brødrene Robert og Ludvig Nobel i 1876. Alfred selv eide bare en liten aksjepost, men den ga betydelig avkastning.",
+      "sv": "Bolaget Branobel grundades av bröderna Robert och Ludvig Nobel 1876. Alfred själv ägde bara en liten aktiepost, men den gav betydande avkastning."
+    },
+    "source": "Wikipedia – «Branobel»"
+  },
+  {
+    "id": "nobel-v-16",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["historie", "arkitektur"],
+    "prompt": {
+      "nb": "Siden 1905 har Den norske Nobelkomité sitt sekretariat i en ombygd villa fra 1867, på Henrik Ibsens gate i Oslo. Bygningen rommer også et bibliotek og et eget seremonirom. Hva heter instituttet som holder til her?",
+      "sv": "Sedan 1905 har Norska Nobelkommittén sitt sekretariat i en ombyggd villa från 1867, på Henrik Ibsens gate i Oslo. Byggnaden rymmer även ett bibliotek och ett eget ceremonirum. Vad heter institutet som håller till här?"
+    },
+    "answer": { "nb": "Det Norske Nobelinstitutt", "sv": "Norska Nobelinstitutet" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Instituttets direktør fungerer samtidig som Nobelkomiteens sekretær.",
+      "sv": "Institutets direktör fungerar samtidigt som Nobelkommitténs sekreterare."
+    },
+    "funFact": {
+      "nb": "Instituttet ble opprettet i 1904 og har siden samlet et av verdens største bibliotek om fred og internasjonale relasjoner.",
+      "sv": "Institutet grundades 1904 och har sedan dess byggt upp ett av världens största bibliotek om fred och internationella relationer."
+    },
+    "source": "Store norske leksikon – «Det Norske Nobelinstitutt»"
+  },
+  {
+    "id": "nobel-v-17",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["litteratur", "politikk"],
+    "prompt": {
+      "nb": "I 1974 delte to svenske forfattere litteraturprisen, «for et forfatterskap som fanger duggdråpen og speiler kosmos». Tildelingen var omstridt, siden begge satt i akademiet som selv kårer vinneren. Den ene skrev det science fiction-inspirerte diktverket «Aniara» om et romskip uten kurs. Hvem var han?",
+      "sv": "År 1974 delade två svenska författare litteraturpriset, «för ett författarskap som fångar daggdroppen och speglar kosmos». Utdelningen var omstridd, eftersom båda satt i akademien som själv utser pristagaren. Den ene skrev det science fiction-inspirerade diktverket «Aniara» om ett rymdskepp utan kurs. Vem var han?"
+    },
+    "answer": "Harry Martinson",
+    "answerKind": "person",
+    "person": { "given": "Harry", "family": "Martinson" },
+    "hint": {
+      "nb": "Diktverket hans fra 1956 ble senere til både opera og film, og handler om et romskip som mister kursen på vei fra en ødelagt jord.",
+      "sv": "Diktverket från 1956 blev senare både opera och film, och handlar om ett rymdskepp som förlorar kursen på väg från en förstörd jord."
+    },
+    "funFact": {
+      "nb": "Medvinneren var Eyvind Johnson. Kritikken mot at to akademimedlemmer fikk prisen sammen, rammet spesielt Svenska Akademiens omdømme i svensk presse.",
+      "sv": "Medpristagaren var Eyvind Johnson. Kritiken mot att två akademiledamöter fick priset tillsammans drabbade särskilt Svenska Akademiens anseende i svensk press."
+    },
+    "source": "Nobel Prize Outreach – litteraturprisen 1974; Wikipedia – «Harry Martinson»"
+  },
+  {
+    "id": "nobel-v-18",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": ["politikk", "historie"],
+    "prompt": {
+      "nb": "Hun fikk fredsprisen i 1991 for sin ikkevoldelige kamp for demokrati i hjemlandet, men satt selv i husarrest og kunne ikke reise til Oslo. Sønnene hennes mottok prisen på hennes vegne. Først i 2012 holdt hun selv takketalen. Hvem er hun?",
+      "sv": "Hon fick fredspriset 1991 för sin ickevåldsamma kamp för demokrati i hemlandet, men satt själv i husarrest och kunde inte resa till Oslo. Hennes söner tog emot priset i hennes ställe. Först 2012 höll hon själv tacktalet. Vem är hon?"
+    },
+    "answer": "Aung San Suu Kyi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Partiet hennes, Nasjonalligaen for demokrati, vant valget i 1990, men militærjuntaen nektet å overlevere makten.",
+      "sv": "Hennes parti, Nationella demokratiförbundet, vann valet 1990, men militärjuntan vägrade lämna över makten."
+    },
+    "funFact": {
+      "nb": "Hun ble løslatt fra husarresten i november 2010 og holdt sin nobelforelesning i Oslo rådhus i juni 2012, over 20 år etter tildelingen.",
+      "sv": "Hon släpptes ur husarresten i november 2010 och höll sin nobelföreläsning i Oslo rådhus i juni 2012, över 20 år efter tilldelningen."
+    },
+    "source": "Nobel Prize Outreach – fredsprisen 1991; Wikipedia – «Aung San Suu Kyi»"
+  },
+  {
+    "id": "nobel-v-19",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": ["vitenskap"],
+    "prompt": {
+      "nb": "Astrofysikk, nanovitenskap og nevrovitenskap er tre fagfelt uten egen nobelpris. For å fylle dette hullet stiftet en norsk-amerikansk gründer i 2005 en forskningspris som i dag deles ut i Oslo annethvert år, med kronprinsen til stede. Hvilken pris er dette?",
+      "sv": "Astrofysik, nanovetenskap och neurovetenskap är tre forskningsfält utan egen nobelpris. För att fylla detta hål instiftade en norsk-amerikansk entreprenör 2005 ett forskningspris som i dag delas ut i Oslo vartannat år, med kronprinsen närvarande. Vilket pris är detta?"
+    },
+    "answer": { "nb": "Kavli-prisen", "sv": "Kavlipriset" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnleggeren var en norsk-amerikansk ingeniør og gründer som vokste opp på en gård i Møre og Romsdal, før han bygde opp et sensorteknologiselskap i California.",
+      "sv": "Grundaren var en norsk-amerikansk ingenjör och entreprenör som växte upp på en gård i Møre og Romsdal, innan han byggde upp ett sensorteknikföretag i Kalifornien."
+    },
+    "funFact": {
+      "nb": "Instituttet i Trondheim der ekteparet Moser fikk fram sin nobelprisvinnende forskning på gitterceller, bærer også dette navnet.",
+      "sv": "Institutet i Trondheim där makarna Moser fick fram sin nobelprisbelönta forskning om gitternervceller bär också detta namn."
+    },
+    "source": "Wikipedia – «Kavli Prize»; Store norske leksikon – «Fred Kavli»"
+  },
+  {
+    "id": "nobel-v-20",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": ["politikk", "historie"],
+    "prompt": {
+      "nb": "I 1921 delte Sveriges statsminister fredsprisen med nordmannen Christian Lous Lange, for sitt arbeid i Folkeforbundet og for internasjonal nedrustning. Han ledet også det svenske sosialdemokratiske partiet gjennom tre regjeringsperioder. Hvem var han?",
+      "sv": "År 1921 delade Sveriges statsminister fredspriset med norrmannen Christian Lous Lange, för sitt arbete i Nationernas förbund och för internationell nedrustning. Han ledde även det svenska socialdemokratiska partiet under tre regeringsperioder. Vem var han?"
+    },
+    "answer": "Hjalmar Branting",
+    "answerKind": "person",
+    "person": { "given": "Hjalmar", "family": "Branting" },
+    "hint": {
+      "nb": "Han var Sveriges første sosialdemokratiske statsminister og satt periodevis ved makten i 1920, 1921–1923 og 1924–1925.",
+      "sv": "Han var Sveriges förste socialdemokratiske statsminister och satt periodvis vid makten 1920, 1921–1923 och 1924–1925."
+    },
+    "funFact": {
+      "nb": "Branting representerte Sverige ved fredsforhandlingene etter første verdenskrig og var en tidlig forkjemper for Folkeforbundet, som Sverige ble medlem av i 1920.",
+      "sv": "Branting representerade Sverige vid fredsförhandlingarna efter första världskriget och var en tidig förespråkare för Nationernas förbund, som Sverige blev medlem av 1920."
+    },
+    "source": "Store norske leksikon – «Hjalmar Branting»; Nobel Prize Outreach – fredsprisen 1921"
+  }
+]

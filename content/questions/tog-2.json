@@ -1,0 +1,780 @@
+[
+  {
+    "id": "tog-l-11",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "I 2019 skiftet det norske statlige togselskapet Norges Statsbaner navn til noe kortere, som en del av omstillingen til et marked med flere togoperatører etter jernbanereformen. Hva heter selskapet i dag?",
+      "sv": "År 2019 bytte det norska statliga tågbolaget Norges Statsbaner namn till något kortare, som en del av omställningen till en marknad med flera tågoperatörer efter järnvägsreformen. Vad heter bolaget i dag?"
+    },
+    "answer": "Vy",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er på to bokstaver og skal gi assosiasjoner til å se noe nytt.",
+      "sv": "Namnet är på två bokstäver och ska ge associationer till att se något nytt."
+    },
+    "funFact": {
+      "nb": "Samtidig skiftet også busselskapet Nettbuss navn til Vy Buss. NSB het opprinnelig Norges Statsbaner fra 1883.",
+      "sv": "Samtidigt bytte även bussbolaget Nettbuss namn till Vy Buss. NSB hette ursprungligen Norges Statsbaner från 1883."
+    },
+    "source": "Store norske leksikon – Vy"
+  },
+  {
+    "id": "tog-l-12",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Med sine 729 kilometer fra Trondheim til Bodø er dette Norges lengste sammenhengende jernbanestrekning. Den krysser polarsirkelen i Saltdal og brukte til sammen 60 år å bygge, ferdigstilt i 1962. Hvilken bane er dette?",
+      "sv": "Med sina 729 kilometer från Trondheim till Bodø är detta Norges längsta sammanhängande järnvägssträcka. Den korsar polcirkeln i Saltdal och tog sammanlagt 60 år att bygga, färdigställd 1962. Vilken bana är detta?"
+    },
+    "answer": "Nordlandsbanen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet peker mot landsdelen banen går gjennom.",
+      "sv": "Namnet pekar mot landsdelen banan går genom."
+    },
+    "funFact": {
+      "nb": "Banen ble bygget i 18 etapper. De første strekningene, sørover fra Trondheim, åpnet alt like etter 1900, mens det tok til 1962 før hele veien til Bodø var ferdig.",
+      "sv": "Banan byggdes i 18 etapper. De första sträckorna, söderut från Trondheim, öppnade redan strax efter 1900, medan det dröjde till 1962 innan hela vägen till Bodø var färdig."
+    },
+    "source": "Store norske leksikon – Nordlandsbanen"
+  },
+  {
+    "id": "tog-l-13",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Hvert år 17. mai går festkledde skolebarn med flagg forbi Slottet i Oslo, mens korps spiller og ridende politi følger opptoget – en tradisjon som bare har vært brutt under okkupasjonsårene. Hva kalles denne barnas prosesjon, med et ord som ellers brukes om jernbanevogner?",
+      "sv": "Varje år den 17 maj går festklädda skolbarn med flaggor förbi Slottet i Oslo, medan musikkårer spelar och ridande polis följer processionen – en tradition som bara har brutits under ockupationsåren. Vad kallas denna barnprocession, med ett ord som annars används om järnvägsvagnar?"
+    },
+    "answer": {
+      "nb": "Barnetog",
+      "sv": "Barntåg"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det andre ordet i sammensetningen er det samme ordet som i «damptog» eller «godstog».",
+      "sv": "Det andra ordet i sammansättningen är samma ord som i «ångtåg» eller «godståg»."
+    },
+    "funFact": {
+      "nb": "Det ridende politiet har deltatt i opptoget helt siden korpset ble opprettet, med unntak av årene 1940–45 under den tyske okkupasjonen.",
+      "sv": "Den ridande polisen har deltagit i tåget ända sedan kåren inrättades, med undantag för åren 1940–45 under den tyska ockupationen."
+    },
+    "source": "Store norske leksikon – barnetog"
+  },
+  {
+    "id": "tog-l-14",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Denne lille stasjonsbygningen fra 1881 ligger i Stjørdal kommune, like ved der Meråkerbanen grener av fra hovedlinjen og går videre mot Sverige. Stedsnavnet har gjort stasjonsskiltet til et yndet fotomotiv for utenlandske turister. Hva heter stedet?",
+      "sv": "Denna lilla stationsbyggnad från 1881 ligger i Stjørdal kommun, precis där Meråkerbanan grenar av från huvudlinjen och fortsätter mot Sverige. Ortnamnet har gjort stationsskylten till ett populärt fotomotiv för utländska turister. Vad heter platsen?"
+    },
+    "answer": "Hell",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er identisk med det engelske ordet for et sted man helst vil unngå.",
+      "sv": "Namnet är identiskt med det engelska ordet för en plats man helst vill undvika."
+    },
+    "funFact": {
+      "nb": "Stasjonsbygningen er reist i en typisk jernbane-sveitserstil. Rett over elva ligger Trondheim lufthavn Værnes.",
+      "sv": "Stationsbyggnaden är uppförd i en typisk järnvägs-schweizerstil. Alldeles på andra sidan älven ligger Trondheims flygplats Værnes."
+    },
+    "source": "Store norske leksikon – Hell"
+  },
+  {
+    "id": "tog-l-15",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Fra 1856 og helt til 2001 var dette navnet, kjent på bare to bokstaver, betegnelsen på den svenske statlige jernbaneetaten. I dag lever navnet videre som det statlige togselskapet. Hvilket selskap er dette?",
+      "sv": "Från 1856 och ända till 2001 var detta namn, känt på bara två bokstäver, beteckningen på den svenska statliga järnvägsmyndigheten. I dag lever namnet vidare som det statliga tågbolaget. Vilket bolag är detta?"
+    },
+    "answer": "SJ",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortelsen står for «statens», etterfulgt av ordet for jernbane.",
+      "sv": "Förkortningen står för «statens», följt av ordet för järnväg."
+    },
+    "funFact": {
+      "nb": "I 2001 ble den gamle etaten Statens Järnvägar delt opp i seks statseide selskaper, og persontrafikken ble videreført i det som i dag heter SJ AB.",
+      "sv": "År 2001 delades den gamla myndigheten Statens Järnvägar upp i sex statsägda bolag, och persontrafiken fördes vidare i det som i dag heter SJ AB."
+    },
+    "source": "Wikipedia – SJ AB"
+  },
+  {
+    "id": "tog-l-16",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Med 176 kilometer enkeltspor er dette Nordens største sporveisnett. Det startet i 1879 som hestetrukket, ble elektrifisert bare tre år senere, og er i dag én av kun to svenske byer som beholdt trikken da landet la om til høyrekjøring i 1967. Hvilken by?",
+      "sv": "Med 176 kilometer enkelspår är detta Nordens största spårvägsnät. Det startade 1879 som hästdraget, elektrifierades bara tre år senare och är i dag en av bara två svenska städer som behöll spårvagnen när landet gick över till högertrafik 1967. Vilken stad?"
+    },
+    "answer": "Göteborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den andre byen som beholdt trikken, er Norrköping.",
+      "sv": "Den andra staden som behöll spårvagnen är Norrköping."
+    },
+    "funFact": {
+      "nb": "Byens spårvägar ble kjøpt av kommunen i 1899, og elektrifiseringen ble ledet av ingeniøren Sigfrid Edström. I dag reiser rundt 125 millioner passasjerer med trikken årlig.",
+      "sv": "Stadens spårvägar köptes av kommunen 1899, och elektrifieringen leddes av ingenjören Sigfrid Edström. I dag reser omkring 125 miljoner passagerare med spårvagnen årligen."
+    },
+    "source": "Wikipedia – Trams in Gothenburg"
+  },
+  {
+    "id": "tog-l-17",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Åpnet i år 2000, går denne åtte kilometer lange forbindelsen delvis i bru og delvis i en tunnel under en kunstig øy, og har både firefelts motorvei og dobbeltsporet jernbane på samme trasé. Den knytter Malmö til København. Hva heter forbindelsen?",
+      "sv": "Öppnad år 2000 går denna åtta kilometer långa förbindelse delvis i bro och delvis i en tunnel under en konstgjord ö, och har både fyrfilig motorväg och dubbelspårig järnväg på samma sträckning. Den binder samman Malmö med Köpenhamn. Vad heter förbindelsen?"
+    },
+    "answer": {
+      "nb": "Øresundsbroen",
+      "sv": "Öresundsbron"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den kunstige øya midt i sundet heter Peberholm.",
+      "sv": "Den konstgjorda ön mitt i sundet heter Peberholm."
+    },
+    "funFact": {
+      "nb": "Broen ga navn til TV-serien «Broen», der et lik funnet nøyaktig på riksgrensen setter i gang etterforskningen.",
+      "sv": "Bron gav namn åt TV-serien «Bron», där ett lik som hittas exakt på riksgränsen sätter i gång utredningen."
+    },
+    "source": "Wikipedia – Øresundsforbindelsen"
+  },
+  {
+    "id": "tog-l-18",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "Da denne svenske kronprinsessen giftet seg i Storkyrkan i Stockholm i juni 2010, fulgte et opptog gjennom byens gater på nesten sju kilometer, sett av rundt 500 000 mennesker – kalt nettopp et brudetåg, med samme ord som brukes om jernbanens tog. Hvilken kronprinsesse?",
+      "sv": "När denna svenska kronprinsessa gifte sig i Storkyrkan i Stockholm i juni 2010, följde ett tåg genom stadens gator på nästan sju kilometer, sett av omkring 500 000 människor – kallat just ett brudtåg, med samma ord som används om järnvägens tåg. Vilken kronprinsessa?"
+    },
+    "answer": {
+      "nb": "Kronprinsesse Victoria",
+      "sv": "Kronprinsessan Victoria"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": "Victoria",
+      "family": "Bernadotte"
+    },
+    "hint": {
+      "nb": "Hun giftet seg med sin tidligere personlige trener, Daniel Westling.",
+      "sv": "Hon gifte sig med sin tidigare personliga tränare, Daniel Westling."
+    },
+    "funFact": {
+      "nb": "Brudgommen Daniel Westling ble ved bryllupet den første borgerlige som er blitt prins gjennom giftermål med en svensk prinsesse.",
+      "sv": "Brudgummen Daniel Westling blev genom bröllopet den förste ofrälse man som blivit prins genom giftermål med en svensk prinsessa."
+    },
+    "source": "Wikipedia – Wedding of Crown Princess Victoria and Daniel Westling"
+  },
+  {
+    "id": "tog-l-19",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Den engelske presten Wilbert Awdry laget først en trelekefigur til sønnen sin, og skrev ham senere inn i «Jernbanefortellinger»-bøkene i 1946. Siden 1984 har det lille blå lokomotivet med et fornøyd ansikt malt på fronten også vært tv-stjerne. Hva heter han?",
+      "sv": "Den engelske prästen Wilbert Awdry gjorde först en träleksak åt sin son, och skrev honom senare in i «Järnvägsberättelser»-böckerna 1946. Sedan 1984 har det lilla blå loket med ett belåtet ansikte målat på fronten även varit tv-stjärna. Vad heter han?"
+    },
+    "answer": "Thomas",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han er lokomotiv nummer 1 på øya Sodor og har alltid gode venner som Edward og Percy med seg.",
+      "sv": "Han är lok nummer 1 på ön Sodor och har alltid goda vänner som Edward och Percy med sig."
+    },
+    "funFact": {
+      "nb": "Den originale trefiguren var merket med bokstavene «NW», som skulle bety «Ingensteds» (No Where), fordi sønnen ikke kunne komme på noe bedre navn.",
+      "sv": "Den ursprungliga träfiguren var märkt med bokstäverna «NW», som skulle betyda «Ingenstans» (No Where), eftersom sonen inte kunde komma på något bättre namn."
+    },
+    "source": "Wikipedia – Thomas the Tank Engine"
+  },
+  {
+    "id": "tog-l-20",
+    "category": "tog",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Denne 50 kilometer lange forbindelsen mellom England og Frankrike åpnet i 1994, og har den lengste undersjøiske delen av noen tunnel i verden, nesten 38 kilometer under havbunnen. Hvilken tunnel er dette?",
+      "sv": "Denna 50 kilometer långa förbindelse mellan England och Frankrike öppnade 1994, och har den längsta undervattensdelen av någon tunnel i världen, nästan 38 kilometer under havsbotten. Vilken tunnel är detta?"
+    },
+    "answer": {
+      "nb": "Kanaltunnelen",
+      "sv": "Kanaltunneln"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den går under den samme sjøveien som Ludvig Blériot fløy over med fly alt i 1909.",
+      "sv": "Den går under samma sjöväg som Louis Blériot flög över med flygplan redan 1909."
+    },
+    "funFact": {
+      "nb": "Tunnelen brukes i dag av Eurostars persontog, biltog-tjenesten Le Shuttle og godstog, og er den eneste faste forbindelsen mellom Storbritannia og det europeiske fastlandet.",
+      "sv": "Tunneln används i dag av Eurostars persontåg, biltågstjänsten Le Shuttle och godståg, och är den enda fasta förbindelsen mellan Storbritannien och den europeiska kontinenten."
+    },
+    "source": "Wikipedia – Channel Tunnel"
+  },
+  {
+    "id": "tog-m-11",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "transport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Da denne banen mellom Lillestrøm og Kongsvinger åpnet i 1862, og ble forlenget til den svenske grensen i 1865, ble den Norges aller første jernbaneforbindelse til et annet land, og bandt sammen unionens to hovedsteder. Hvilken bane?",
+      "sv": "När denna bana mellan Lillestrøm och Kongsvinger öppnade 1862, och förlängdes till svenska gränsen 1865, blev den Norges allra första järnvägsförbindelse till ett annat land, och band samman unionens två huvudstäder. Vilken bana?"
+    },
+    "answer": "Kongsvingerbanen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Banen er oppkalt etter byen den passerer på vei mot grensestasjonen Charlottenberg.",
+      "sv": "Banan är uppkallad efter staden den passerar på väg mot gränsstationen Charlottenberg."
+    },
+    "funFact": {
+      "nb": "Banen ble elektrifisert i 1951 og trafikkeres i dag både av lokaltog til Kongsvinger og av internasjonale tog videre til Stockholm.",
+      "sv": "Banan elektrifierades 1951 och trafikeras i dag både av lokaltåg till Kongsvinger och av internationella tåg vidare till Stockholm."
+    },
+    "source": "Store norske leksikon – Kongsvingerbanen"
+  },
+  {
+    "id": "tog-m-12",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Byggingen av denne 582 kilometer lange banen mellom Oslo og Stavanger, via Kristiansand, startet i deletapper alt på 1870-tallet, men først i 1944 ble den siste, gjenstridige strekningen ved Sira ferdig, slik at hele linjen ble sammenhengende. Hvilken bane?",
+      "sv": "Byggandet av denna 582 kilometer långa bana mellan Oslo och Stavanger, via Kristiansand, startade i deletapper redan på 1870-talet, men först 1944 blev den sista, motsträviga sträckan vid Sira klar, så att hela linjen blev sammanhängande. Vilken bana?"
+    },
+    "answer": "Sørlandsbanen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet peker mot landsdelen banen ender opp i.",
+      "sv": "Namnet pekar mot landsdelen banan hamnar i."
+    },
+    "funFact": {
+      "nb": "Banen går en lang omvei innover i landet via Kristiansand og Hovden-traktene, i stedet for langs kysten, blant annet av hensyn til datidens forsvarstenkning.",
+      "sv": "Banan gör en lång omväg inåt landet via Kristiansand och Hovdentrakterna, i stället för längs kusten, bland annat av hänsyn till dåtidens försvarstänkande."
+    },
+    "source": "Store norske leksikon – Sørlandsbanen"
+  },
+  {
+    "id": "tog-m-13",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Rundt 1900 ble denne anleggsveien bygget for å frakte materialer og arbeidsfolk til byggingen av Bergensbanen over Hardangervidda. I dag er den 123 kilometer lange traseen mellom Haugastøl og Voss blitt en av Norges mest populære sykkelruter. Hva heter veien, oppkalt etter arbeiderne som bygde den?",
+      "sv": "Omkring 1900 byggdes denna anläggningsväg för att frakta material och arbetsfolk till bygget av Bergensbanan över Hardangervidda. I dag har den 123 kilometer långa sträckningen mellan Haugastøl och Voss blivit en av Norges mest populära cykelrutter. Vad heter vägen, uppkallad efter arbetarna som byggde den?"
+    },
+    "answer": "Rallarveien",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Arbeiderne som bygde jernbanelinjer på denne tiden, ble kalt rallare.",
+      "sv": "Arbetarna som byggde järnvägslinjer på den här tiden kallades rallare."
+    },
+    "funFact": {
+      "nb": "En tilsvarende anleggsvei finnes også langs Ofotbanen ved Narvik, fra Bjørnfjell ned til Rombaksbotn.",
+      "sv": "En liknande anläggningsväg finns också längs Ofotbanen vid Narvik, från Bjørnfjell ner till Rombaksbotn."
+    },
+    "source": "Store norske leksikon – Rallarveien"
+  },
+  {
+    "id": "tog-m-14",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Da tyske styrker invaderte Norge i april 1940, ble 49 tonn gull fra Norges Bank fraktet med denne jernbanelinjen fra Dombås til Åndalsnes, for at gullbeholdningen skulle unnslippe okkupasjonsmakten sjøveien. Hvilken bane, kjent for å gå under fjellveggen Trollveggen?",
+      "sv": "När tyska styrkor invaderade Norge i april 1940 fraktades 49 ton guld från Norges Bank med denna järnvägslinje från Dombås till Åndalsnes, för att guldreserven skulle undkomma ockupationsmakten sjövägen. Vilken bana, känd för att gå under bergväggen Trollveggen?"
+    },
+    "answer": "Raumabanen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Banen er oppkalt etter dalen og elven den følger mellom Dovrefjell og fjorden.",
+      "sv": "Banan är uppkallad efter dalen och älven den följer mellan Dovrefjell och fjorden."
+    },
+    "funFact": {
+      "nb": "Banen ble åpnet av kong Haakon 7. i 1924 og har blant annet en spiraltunnel ved Verma for å komme seg ned den bratte dalsiden.",
+      "sv": "Banan öppnades av kung Haakon 7 år 1924 och har bland annat en spiraltunnel vid Verma för att ta sig ner den branta dalsidan."
+    },
+    "source": "Store norske leksikon – Raumabanen"
+  },
+  {
+    "id": "tog-m-15",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Da strekningen Stockholm–Djursholm ble elektrifisert i 1892, ble denne smalsporede banen i Roslagen en av de eldste elektrifiserte jernbanene for offentlig transport i Europa. Den er i dag den eneste smalsporbanen i Sverige som fortsatt brukes i vanlig, kommersiell trafikk. Hvilken bane?",
+      "sv": "När sträckan Stockholm–Djursholm elektrifierades 1892 blev denna smalspåriga bana i Roslagen en av de äldsta elektrifierade järnvägarna för allmän transport i Europa. Den är i dag den enda smalspårsbanan i Sverige som fortfarande används i vanlig, kommersiell trafik. Vilken bana?"
+    },
+    "answer": "Roslagsbanan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Banen betjener Stockholms nordøstlige forsteder og grener seg ut mot Näsbypark, Österskär og Kårsta.",
+      "sv": "Banan betjänar Stockholms nordöstra förorter och grenar ut sig mot Näsbypark, Österskär och Kårsta."
+    },
+    "funFact": {
+      "nb": "Sporvidden er bare 891 millimeter, altså tre svenske fot, mot normalsporets 1435 millimeter.",
+      "sv": "Spårvidden är bara 891 millimeter, alltså tre svenska fot, mot normalspårets 1435 millimeter."
+    },
+    "source": "Wikipedia – Roslagsbanan"
+  },
+  {
+    "id": "tog-m-16",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "natur",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Denne rosa blomsten er ofte blant de aller første som spirer i jord som nylig er ryddet for skog, og på svensk har den fått kjælenavnet «rallarros» nettopp fordi den vokste så villig langs de nybygde jernbanelinjene på 1800-tallet. Hvilken blomst er dette?",
+      "sv": "Denna rosa blomma är ofta bland de allra första som gror i mark som nyligen röjts från skog, och på svenska har den fått smeknamnet «rallarros» just för att den växte så villigt längs de nybyggda järnvägslinjerna på 1800-talet. Vilken blomma är detta?"
+    },
+    "answer": {
+      "nb": "Geitrams",
+      "sv": "Mjölkört"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Blomsten er høy og rosa-lilla, og danner ofte tette bestander i grøftekanter og på hogstflater.",
+      "sv": "Blomman är hög och rosa-lila, och bildar ofta täta bestånd i dikeskanter och på hyggen."
+    },
+    "funFact": {
+      "nb": "Det norske navnet rallarrose regnes som en nyere, svenskpåvirket import, siden det ikke finnes i eldre norske plantenavnsamlinger.",
+      "sv": "Det svenska namnet rallarros används parallellt med det äldre mjölkört, som syftar på att unga skott kan användas som grönsak."
+    },
+    "source": "Store norske leksikon – geitrams"
+  },
+  {
+    "id": "tog-m-17",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Over 58 000 arbeidere brukte 22 år på å grave dette 190 kilometer lange vannveien tvers gjennom Sverige, fullført i 1832, for å slippe å betale toll i Øresund. Men allerede fra jernbanen kom i 1855, mistet den raskt sin kommersielle betydning. Hvilken kanal?",
+      "sv": "Över 58 000 arbetare tillbringade 22 år med att gräva denna 190 kilometer långa vattenväg tvärs genom Sverige, färdigställd 1832, för att slippa betala tull i Öresund. Men redan från järnvägens ankomst 1855 miste den snabbt sin kommersiella betydelse. Vilken kanal?"
+    },
+    "answer": "Göta kanal",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kanalen forbinder Göteborg på vestkysten med Østersjøen ved Söderköping.",
+      "sv": "Kanalen förbinder Göteborg på västkusten med Östersjön vid Söderköping."
+    },
+    "funFact": {
+      "nb": "Mannen bak prosjektet, Baltzar von Platen, fikk kongens støtte til byggingen, men opplevde aldri selv den ferdige kanalen – han døde i 1829.",
+      "sv": "Mannen bakom projektet, Baltzar von Platen, fick kungens stöd för bygget, men fick aldrig själv uppleva den färdiga kanalen – han dog 1829."
+    },
+    "source": "Wikipedia – Göta kanal"
+  },
+  {
+    "id": "tog-m-18",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Oppfinnelsen hans fra 1867 gjorde det langt tryggere å sprenge fjell for veier og jernbanetunneler enn med det ustabile flytende sprengstoffet som var i bruk tidligere. Formuen den skapte, finansierer i dag verdens mest kjente priser. Hvem var oppfinneren?",
+      "sv": "Hans uppfinning från 1867 gjorde det betydligt säkrare att spränga berg för vägar och järnvägstunnlar än med det instabila flytande sprängämne som användes tidigare. Förmögenheten den skapade finansierar i dag världens mest kända pris. Vem var uppfinnaren?"
+    },
+    "answer": "Alfred Nobel",
+    "answerKind": "person",
+    "person": {
+      "given": "Alfred",
+      "family": "Nobel"
+    },
+    "hint": {
+      "nb": "Sprengstoffet han oppfant, dynamitt, er stabilisert nitroglyserin.",
+      "sv": "Sprängämnet han uppfann, dynamit, är stabiliserad nitroglycerin."
+    },
+    "funFact": {
+      "nb": "Nobel testet selv sprengstoffet på en pram på Mälaren fordi eksperimentene var for farlige å gjøre på land.",
+      "sv": "Nobel testade själv sprängämnet på en pråm på Mälaren eftersom experimenten var för farliga att göra på land."
+    },
+    "source": "Store norske leksikon – Alfred Nobel"
+  },
+  {
+    "id": "tog-m-19",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Natt til 30. april 1900 klarte denne amerikanske lokomotivføreren å bremse toget sitt fra 120 til rundt 65 kilometer i timen før det traff et stillestående godstog, og reddet dermed passasjerene, men omkom selv. Historien hans er blitt en klassisk countryballade. Hvilken lokomotivfører?",
+      "sv": "Natten till den 30 april 1900 lyckades denna amerikanske lokförare bromsa sitt tåg från 120 till omkring 65 kilometer i timmen innan det körde in i ett stillastående godståg, och räddade därmed passagerarna, men omkom själv. Historien om honom har blivit en klassisk countryballad. Vilken lokförare?"
+    },
+    "answer": "Casey Jones",
+    "answerKind": "person",
+    "person": {
+      "given": "Casey",
+      "family": "Jones"
+    },
+    "hint": {
+      "nb": "Balladen om ham er blant annet spilt inn av Johnny Cash og Grateful Dead.",
+      "sv": "Balladen om honom är bland annat inspelad av Johnny Cash och Grateful Dead."
+    },
+    "funFact": {
+      "nb": "Han skal ha nektet å hoppe av og heller blitt værende i førerhuset for å bremse så mye som mulig, mens han beordret fyrbøteren til å hoppe av i sikkerhet.",
+      "sv": "Han lär ha vägrat hoppa av och i stället stannat kvar i hytten för att bromsa så mycket som möjligt, medan han beordrade eldaren att hoppa av i säkerhet."
+    },
+    "source": "Encyclopaedia Britannica – Casey Jones"
+  },
+  {
+    "id": "tog-m-20",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Da dette toget gikk sin første tur fra Paris i 1883, drevet av det belgiske selskapet Compagnie Internationale des Wagons-Lits, var målet Wien, men ruten ble snart forlenget helt til Konstantinopel. På 1930-tallet ble det selve symbolet på luksuriøs togreise. Hvilket tog?",
+      "sv": "När detta tåg gick sin första resa från Paris 1883, drivet av det belgiska bolaget Compagnie Internationale des Wagons-Lits, var målet Wien, men rutten förlängdes snart ända till Konstantinopel. Under 1930-talet blev det själva symbolen för lyxig tågresa. Vilket tåg?"
+    },
+    "answer": {
+      "nb": "Orientekspressen",
+      "sv": "Orientexpressen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet peker mot himmelretningen togets endestasjon lå i, sett fra Paris.",
+      "sv": "Namnet pekar mot väderstrecket tågets ändstation låg i, sett från Paris."
+    },
+    "funFact": {
+      "nb": "Toget er udødeliggjort i Agatha Christies roman om Hercule Poirot, men den virkelige, opprinnelige ruten sluttet å gå i 2009.",
+      "sv": "Tåget är odödliggjort i Agatha Christies roman om Hercule Poirot, men den verkliga, ursprungliga rutten upphörde 2009."
+    },
+    "source": "Encyclopaedia Britannica – Orient Express"
+  },
+  {
+    "id": "tog-v-11",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "transport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Denne 78 kilometer lange smalsporbanen mellom Kristiansand og Byglandsfjord åpnet i 1896 og ble i 1962 den siste norske smalsporbanen i ordinær rutetrafikk. I dag kjører museumstog på en kortere strekning fra Grovane. Hvilken bane?",
+      "sv": "Denna 78 kilometer långa smalspåriga bana mellan Kristiansand och Byglandsfjord öppnade 1896 och blev 1962 den sista norska smalspårsbanan i ordinarie linjetrafik. I dag kör museitåg på en kortare sträcka från Grovane. Vilken bana?"
+    },
+    "answer": "Setesdalsbanen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Banen er oppkalt etter dalføret den fulgte nordover fra Kristiansand.",
+      "sv": "Banan är uppkallad efter dalgången den följde norrut från Kristiansand."
+    },
+    "funFact": {
+      "nb": "Museumsjernbanen regnes som Norges første, med start i 1963, og drives i dag av Vest-Agder-museet med damplokomotiver fra 1894 til 1902.",
+      "sv": "Museijärnvägen räknas som Norges första, med start 1963, och drivs i dag av Vest-Agder-museet med ånglok från 1894 till 1902."
+    },
+    "source": "Store norske leksikon – Setesdalsbanen"
+  },
+  {
+    "id": "tog-v-12",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Denne 56 kilometer lange smalsporbanen i Akershus, med kjælenavnet «Tertitten», var i vanlig gods- og persontrafikk fra 1896 til 1960. I dag går museumstog på en 3,3 kilometer lang rest av strekningen, mellom Sørumsand og Fossum. Hva het banen offisielt?",
+      "sv": "Denna 56 kilometer långa smalspårsbana i Akershus, med smeknamnet «Tertitten», var i vanlig gods- och persontrafik från 1896 till 1960. I dag kör museitåg på en 3,3 kilometer lång rest av sträckan, mellan Sørumsand och Fossum. Vad hette banan officiellt?"
+    },
+    "answer": "Aurskog-Hølandsbanen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet består av to kommunenavn øst for Lillestrøm, satt sammen med en bindestrek.",
+      "sv": "Namnet består av två kommunnamn öster om Lillestrøm, sammansatta med bindestreck."
+    },
+    "funFact": {
+      "nb": "Banen regnes som Norges eldste museumsjernbane av dem som fortsatt er i drift på original trasé.",
+      "sv": "Banan räknas som Norges äldsta museijärnväg bland dem som fortfarande är i drift på ursprunglig sträckning."
+    },
+    "source": "Store norske leksikon – Aurskog-Hølandsbanen"
+  },
+  {
+    "id": "tog-v-13",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "teknologi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Som sjef for de norske statsbanenes utbygging fra 1858 fikk denne ingeniøren gjennomslag for at nye norske jernbaner skulle bygges smale og billige – 1067 millimeter i stedet for normalsporets 1435 – fremfor ikke å bli bygget i det hele tatt. Hvem var han?",
+      "sv": "Som chef för de norska statsbanornas utbyggnad från 1858 fick denne ingenjören gehör för att nya norska järnvägar skulle byggas smala och billiga – 1067 millimeter i stället för normalspårets 1435 – hellre än att inte byggas alls. Vem var han?"
+    },
+    "answer": "Carl Abraham Pihl",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl Abraham",
+      "family": "Pihl"
+    },
+    "hint": {
+      "nb": "Etter hans død i 1897 vedtok Stortinget i 1898 at Bergensbanen likevel skulle bygges med normalspor.",
+      "sv": "Efter hans död 1897 beslöt Stortinget 1898 att Bergensbanan ändå skulle byggas med normalspår."
+    },
+    "funFact": {
+      "nb": "Hans utsagn skal ha vært at man enten måtte bygge smalt og billig, eller ikke bygge i det hele tatt.",
+      "sv": "Hans uttalande lär ha varit att man antingen fick bygga smalt och billigt, eller inte bygga alls."
+    },
+    "source": "Store norske leksikon – Carl Abraham Pihl"
+  },
+  {
+    "id": "tog-v-14",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Grunnlagt i 1864 og senere holdt til på Skøyen i Oslo, var dette Norges aller første fabrikk for jernbanemateriell. Fabrikken bygde blant annet de strømlinjeformede «Gullfisk»-trikkene fra 1937, før den ble slått sammen med et annet elektroselskap i 1960. Hva het fabrikken?",
+      "sv": "Grundad 1864 och senare belägen på Skøyen i Oslo var detta Norges allra första fabrik för järnvägsmateriel. Fabriken byggde bland annat de strömlinjeformade «Gullfisk»-spårvagnarna från 1937, innan den slogs samman med ett annat elbolag 1960. Vad hette fabriken?"
+    },
+    "answer": "Skabo Jernbanevognfabrikk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fabrikken er oppkalt etter grunnleggeren, Hans Skabo.",
+      "sv": "Fabriken är uppkallad efter grundaren, Hans Skabo."
+    },
+    "funFact": {
+      "nb": "Utover jernbanevogner produserte fabrikken etter hvert også busskarosserier, trikker og monterte personbiler.",
+      "sv": "Utöver järnvägsvagnar tillverkade fabriken efter hand även busskarosser, spårvagnar och monterade personbilar."
+    },
+    "source": "Store norske leksikon – Skabo Jernbanevognfabrikk"
+  },
+  {
+    "id": "tog-v-15",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Dette svenske elektroteknikkselskapet, med røtter i Västerås, begynte i 1920 å produsere elektriske lokomotiver i tillegg til annet elektrisk utstyr, og ble på 1900-tallet en betydelig eksportør av jernbaneteknologi. Selskapet ble senere en del av ABB. Hvilket selskap, kjent på fire bokstaver?",
+      "sv": "Detta svenska elektrotekniska bolag, med rötter i Västerås, började 1920 tillverka elektriska lokomotiv utöver annan elektrisk utrustning, och blev under 1900-talet en betydande exportör av järnvägsteknik. Bolaget blev senare en del av ABB. Vilket bolag, känt på fyra bokstäver?"
+    },
+    "answer": "ASEA",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bokstavene står for «Allmänna Svenska Elektriska Aktiebolaget».",
+      "sv": "Bokstäverna står för «Allmänna Svenska Elektriska Aktiebolaget»."
+    },
+    "funFact": {
+      "nb": "Selskapets Rc-lokomotiver ble solgt komplett med elektrisk utstyr til jernbaneselskaper i flere land, blant dem Norge.",
+      "sv": "Bolagets Rc-lok såldes kompletta med elektrisk utrustning till järnvägsbolag i flera länder, bland dem Norge."
+    },
+    "source": "Store norske leksikon – ASEA"
+  },
+  {
+    "id": "tog-v-16",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "transport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Denne trikkelinjen i Stockholm ble lagt ned i 1967 da Sverige la om til høyrekjøring, men ble gjenopplivet som veterantrikk i 1991 og kjører i dag mellom Norrmalmstorg og Waldemarsudde med gamle vogner, blant annet fra Oslo og Göteborg. Hva heter linjen?",
+      "sv": "Denna spårvagnslinje i Stockholm lades ner 1967 när Sverige gick över till högertrafik, men återupplivades som veteranspårväg 1991 och kör i dag mellan Norrmalmstorg och Waldemarsudde med gamla vagnar, bland annat från Oslo och Göteborg. Vad heter linjen?"
+    },
+    "answer": "Djurgårdslinjen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Endestasjonen Waldemarsudde ligger på øya linjen har navn etter.",
+      "sv": "Ändstationen Waldemarsudde ligger på ön linjen är uppkallad efter."
+    },
+    "funFact": {
+      "nb": "Veteranlinjen drives på ideell basis av Svenska Spårvägssällskapet, og har fortsatt trafikk hver dag om sommeren.",
+      "sv": "Veteranlinjen drivs ideellt av Svenska Spårvägssällskapet, och har fortfarande daglig trafik under sommaren."
+    },
+    "source": "Wikipedia – Djurgårdslinjen"
+  },
+  {
+    "id": "tog-v-17",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Denne svenske gruvebyen ble grunnlagt i 1899, samme år som jernbanen fra Gällivare nådde stedet og gjorde det mulig å frakte ut jernmalmen. I dag flyttes store deler av sentrum, kirken inkludert, fordi gruvedriften truer grunnen under de gamle sporene. Hvilken by?",
+      "sv": "Denna svenska gruvstad grundades 1899, samma år som järnvägen från Gällivare nådde platsen och gjorde det möjligt att frakta ut järnmalmen. I dag flyttas stora delar av centrum, kyrkan inräknad, eftersom gruvdriften hotar marken under de gamla spåren. Vilken stad?"
+    },
+    "answer": "Kiruna",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger nord for polarsirkelen og er kjent for gruveselskapet LKAB.",
+      "sv": "Staden ligger norr om polcirkeln och är känd för gruvbolaget LKAB."
+    },
+    "funFact": {
+      "nb": "Kommunestyret vedtok flytteplanen i 2007, og et helt nytt sentrum, med rådhuset «Kristallen», sto klart i 2018.",
+      "sv": "Kommunfullmäktige beslutade om flyttplanen 2007, och ett helt nytt centrum, med rådhuset «Kristallen», stod klart 2018."
+    },
+    "source": "Store norske leksikon – Kiruna"
+  },
+  {
+    "id": "tog-v-18",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "historie",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Sveriges jernbanemuseum ligger i denne byen i Gästrikland, innviet i 1970 med over hundre lokomotiver og rundt 150 vogner i samlingen. Jernbanemuseumsbevegelsen i Sverige hadde da eksistert siden 1915. Hvilken by?",
+      "sv": "Sveriges järnvägsmuseum ligger i denna stad i Gästrikland, invigt 1970 med över hundra lokomotiv och omkring 150 vagnar i samlingen. Den svenska järnvägsmuseirörelsen hade då funnits sedan 1915. Vilken stad?"
+    },
+    "answer": "Gävle",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger ved Bottenhavet, nord for Uppsala.",
+      "sv": "Staden ligger vid Bottenhavet, norr om Uppsala."
+    },
+    "funFact": {
+      "nb": "Samlingen omfatter også flere hundre tusen fotografier, i tillegg til modeller, tekstiler og verktøy fra jernbanens historie.",
+      "sv": "Samlingen omfattar även flera hundra tusen fotografier, utöver modeller, textilier och verktyg från järnvägens historia."
+    },
+    "source": "Wikipedia – Swedish Railway Museum"
+  },
+  {
+    "id": "tog-v-19",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Romanen åpner med at en jernbanearbeider ved et uhell blir kjørt over og drept, noe hovedpersonen tolker som et illevarslende tegn. Mot slutten tar hun sitt eget liv ved å kaste seg foran et godstog på en perrong, i bevisst gjenklang av åpningsscenen. Hvilken roman av Lev Tolstoj fra 1878?",
+      "sv": "Romanen inleds med att en järnvägsarbetare av misstag blir överkörd och dödad, något huvudpersonen tolkar som ett olycksbådande tecken. Mot slutet tar hon sitt eget liv genom att kasta sig framför ett godståg på en perrong, i medveten återklang av öppningsscenen. Vilken roman av Lev Tolstoj från 1878?"
+    },
+    "answer": "Anna Karenina",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Romanens berømte åpningssetning handler om at alle lykkelige familier ligner hverandre.",
+      "sv": "Romanens berömda inledningsmening handlar om att alla lyckliga familjer liknar varandra."
+    },
+    "funFact": {
+      "nb": "Da forfatteren William Faulkner ble bedt om å nevne verdens tre beste romaner, skal han ha svart «Anna Karenina, Anna Karenina og Anna Karenina».",
+      "sv": "När författaren William Faulkner ombads nämna världens tre bästa romaner ska han ha svarat «Anna Karenina, Anna Karenina och Anna Karenina»."
+    },
+    "source": "Encyclopaedia Britannica – Anna Karenina"
+  },
+  {
+    "id": "tog-v-20",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Kometen Shoemaker-Levy 9 styrter inn i Jupiter. Nelson Mandela blir president i Sør-Afrika. Folkemordet i Rwanda finner sted. Sony lanserer PlayStation i Japan. En dramatisk biljakt med O.J. Simpson sendes direkte på amerikansk TV. Norge er vertskap for vinter-OL på Lillehammer. «Pulp Fiction» har premiere i Cannes. Justin Bieber blir født. Kurt Cobain dør. Hvilket år?",
+      "sv": "Kometen Shoemaker-Levy 9 störtar in i Jupiter. Nelson Mandela blir president i Sydafrika. Folkmordet i Rwanda äger rum. Sony lanserar PlayStation i Japan. En dramatisk biljakt med O.J. Simpson sänds direkt i amerikansk tv. Norge är värd för vinter-OS i Lillehammer. «Pulp Fiction» har premiär i Cannes. Justin Bieber föds. Kurt Cobain dör. Vilket år?"
+    },
+    "answer": "1994",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Midt på 1990-tallet.",
+      "sv": "Mitt på 1990-talet."
+    },
+    "funFact": {
+      "nb": "Mange av tilskuerne på Lillehammer reiste med ekstratog satt inn spesielt for OL, på en av de mest togtette vinterlekene noensinne.",
+      "sv": "Många av åskådarna i Lillehammer reste med extratåg som sattes in speciellt för OS, ett av de mest tågtäta vinterspelen någonsin."
+    },
+    "source": "Store norske leksikon – 1994"
+  }
+]

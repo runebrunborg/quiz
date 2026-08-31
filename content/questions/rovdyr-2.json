@@ -1,0 +1,773 @@
+[
+  {
+    "id": "rovdyr-l-11",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "litteratur",
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Denne norske forfatteren og nasjonalskalden skrev teksten til Norges nasjonalsang og mottok nobelprisen i litteratur i 1903, som første nordmann noensinne. Etternavnet hans begynner med et rovdyr. Hvem er han?",
+      "sv": "Denna norska författaren och nationalskalden skrev texten till Norges nationalsång och tog emot Nobelpriset i litteratur 1903, som förste norrman någonsin. Hans efternamn börjar med ett rovdjur. Vem är han?"
+    },
+    "answer": "Bjørnstjerne Bjørnson",
+    "answerKind": "person",
+    "person": {
+      "given": "Bjørnstjerne",
+      "family": "Bjørnson"
+    },
+    "hint": {
+      "nb": "Han skrev «Ja, vi elsker dette landet», og statuen hans står utenfor Nationaltheatret i Oslo.",
+      "sv": "Han skrev «Ja, vi elsker dette landet», och hans staty står utanför Nationaltheatret i Oslo."
+    },
+    "funFact": {
+      "nb": "Bjørnson var også en samfunnsdebattant og fredsaktivist, og er den eneste av «de fire store» i norsk litteratur (sammen med Ibsen, Kielland og Lie) som fikk nobelprisen.",
+      "sv": "Bjørnson var även samhällsdebattör och fredsaktivist, och är den ende av «de fyra stora» i norsk litteratur (tillsammans med Ibsen, Kielland och Lie) som fick Nobelpriset."
+    },
+    "source": "Nobel Prize Outreach – «Bjørnstjerne Bjørnson»; Store norske leksikon"
+  },
+  {
+    "id": "rovdyr-l-12",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "fotball",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Denne fotballklubben fra Sandnes i Rogaland ble stiftet i 1911 som Sportsklubben Ulf, og tilhengerne kalles den dag i dag «Ulvane». Etter en fusjon i 2003–04 fikk klubben sitt nåværende navn. Hvilken klubb er dette?",
+      "sv": "Denna fotbollsklubb från Sandnes i Rogaland grundades 1911 som Sportsklubben Ulf, och supportrarna kallas än i dag «Ulvane» («Vargarna»). Efter en sammanslagning 2003–04 fick klubben sitt nuvarande namn. Vilken klubb är detta?"
+    },
+    "answer": "Sandnes Ulf",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Klubben har i flere sesonger spilt i Eliteserien, Norges øverste fotballdivisjon.",
+      "sv": "Klubben har under flera säsonger spelat i Eliteserien, Norges högsta fotbollsdivision."
+    },
+    "funFact": {
+      "nb": "Klubbnavnet «Ulf» er et gammelt nordisk mannsnavn og ord for ulv. Fusjonen med Sandnes FK vinteren 2003–04 ga klubben navnet Sandnes Ulf.",
+      "sv": "Klubbnamnet «Ulf» är ett gammalt nordiskt mansnamn och ord för varg. Sammanslagningen med Sandnes FK vintern 2003–04 gav klubben namnet Sandnes Ulf."
+    },
+    "source": "Sandnes Ulf – klubbhistorikk"
+  },
+  {
+    "id": "rovdyr-l-13",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fra 1800-tallet og godt inn på 1900-tallet betalte norske myndigheter en pengesum til alle som felte ulv, bjørn, gaupe, jerv eller rovfugl som gjorde skade på husdyr. Hva kalles en slik utbetaling?",
+      "sv": "Från 1800-talet och långt in på 1900-talet betalade de norska myndigheterna en summa pengar till alla som sköt varg, björn, lodjur, järv eller rovfågel som orsakade skada på boskap. Vad kallas en sådan utbetalning?"
+    },
+    "answer": {
+      "nb": "Skuddpremie",
+      "sv": "Skottpengar"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet inneholder «skudd» – det middelet dyrene som regel ble felt med.",
+      "sv": "Ordet innehåller «skott» – det medel djuren oftast fälldes med."
+    },
+    "funFact": {
+      "nb": "Ordningen var en villet politikk for å bekjempe rovdyr, og bidro sterkt til at flere arter nesten forsvant fra Norge på 1900-tallet.",
+      "sv": "Ordningen var en medveten politik för att bekämpa rovdjur, och bidrog starkt till att flera arter nästan försvann från Norge under 1900-talet."
+    },
+    "source": "Store norske leksikon – «skuddpremie»"
+  },
+  {
+    "id": "rovdyr-l-14",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "dyr",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Norges mest besøkte turistattraksjon ligger utenfor Kristiansand og åpnet i 1966. I tillegg til rovdyr som sibirtiger har parken siden 1995 hatt et eget område viet en sjørøverfigur med et spesielt tanngard. Hva heter parken?",
+      "sv": "Norges mest besökta turistattraktion ligger utanför Kristiansand och öppnade 1966. Förutom rovdjur som sibirisk tiger har parken sedan 1995 ett eget område tillägnat en piratfigur med ett speciellt tandgarnityr. Vad heter parken?"
+    },
+    "answer": "Kristiansand Dyrepark",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sjørøverfiguren er Kaptein Sabeltann, skapt av Terje Formoe.",
+      "sv": "Piratfiguren är Kaptein Sabeltann, skapad av Terje Formoe."
+    },
+    "funFact": {
+      "nb": "Parken eies i dag av selskapet Braganza og er en kombinasjon av dyrepark og fornøyelsespark, med både afrikanske og asiatiske dyr.",
+      "sv": "Parken ägs i dag av bolaget Braganza och är en kombination av djurpark och nöjespark, med både afrikanska och asiatiska djur."
+    },
+    "source": "Kristiansand Dyrepark – om oss"
+  },
+  {
+    "id": "rovdyr-l-15",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "I denne tradisjonelle nordiske barneleken later ett barn som om det er en sovende bjørn i hiet sitt, mens de andre synger og lister seg innpå – helt til bjørnen plutselig våkner og jager dem. Sangen/leken har opphav i Sverige. Hva heter den?",
+      "sv": "I denna traditionella nordiska barnleken låtsas ett barn vara en sovande björn i sitt bo, medan de andra sjunger och smyger sig inpå – tills björnen plötsligt vaknar och jagar dem. Sången/leken har sitt ursprung i Sverige. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Bjørnen sover",
+      "sv": "Björnen sover"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sangteksten advarer om at den som vekker bjørnen, blir tatt.",
+      "sv": "Sångtexten varnar för att den som väcker björnen blir tagen."
+    },
+    "funFact": {
+      "nb": "Leken brukes fortsatt i barnehager og på skolefester i hele Norden, som en enkel sanglek der spenningen ligger i å vite at bjørnen når som helst kan våkne.",
+      "sv": "Leken används fortfarande på förskolor och skolfester i hela Norden, som en enkel sånglek där spänningen ligger i att veta att björnen när som helst kan vakna."
+    },
+    "source": "Tradisjonell nordisk barnesang/-lek"
+  },
+  {
+    "id": "rovdyr-l-16",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Skandinavias største dyrepark ligger ved Bråviken utenfor Norrköping og åpnet i 1965. Der kan man blant annet se afrikanske løver, tigre og en egen bjørneskog med både isbjørn og brunbjørn. Hva heter parken?",
+      "sv": "Skandinaviens största djurpark ligger vid Bråviken utanför Norrköping och öppnade 1965. Där kan man bland annat se afrikanska lejon, tigrar och en egen björnskog med både isbjörn och brunbjörn. Vad heter parken?"
+    },
+    "answer": "Kolmårdens djurpark",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Parken fikk Skandinavias første delfinarium i 1969 og har også en kabelbane over deler av dyreområdene.",
+      "sv": "Parken fick Skandinaviens första delfinarium 1969 och har även en linbana över delar av djurområdena."
+    },
+    "funFact": {
+      "nb": "Navnet kommer fra skogsområdet Kolmården mellom Södermanland og Östergötland. Parken hadde 210 dyr da den åpnet i 1965.",
+      "sv": "Namnet kommer från skogsområdet Kolmården mellan Södermanland och Östergötland. Parken hade 210 djur när den öppnade 1965."
+    },
+    "source": "Kolmårdens djurpark – historik"
+  },
+  {
+    "id": "rovdyr-l-17",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "På den gamle herregården Åby säteri i Bohuslän ligger en svensk stiftelse som ble innviet av kong Carl XVI Gustaf i 1989. Der avles det opp truede rovdyr som snøleopard, amurtiger og europeisk gaupe, for bevaring. Hva heter stiftelsen/parken?",
+      "sv": "På den gamla herrgården Åby säteri i Bohuslän ligger en svensk stiftelse som invigdes av kung Carl XVI Gustaf 1989. Där avlas hotade rovdjur som snöleopard, amurtiger och europeiskt lodjur upp, för bevarande. Vad heter stiftelsen/parken?"
+    },
+    "answer": "Nordens Ark",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet spiller på Noahs ark – et fristed for truede arter.",
+      "sv": "Namnet anspelar på Noaks ark – en fristad för hotade arter."
+    },
+    "funFact": {
+      "nb": "Parken ligger bare noen mil fra grensen til Norge og driver også avlsprogram for arter som jerv, ulv og oter.",
+      "sv": "Parken ligger bara några mil från gränsen till Norge och driver även avelsprogram för arter som järv, varg och utter."
+    },
+    "source": "Nordens Ark – om oss"
+  },
+  {
+    "id": "rovdyr-l-18",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Verdens eldste friluftsmuseum ligger på Djurgården i Stockholm og ble grunnlagt i 1891. Utenom de gamle husene og håndverkstradisjonene har museet også en dyrepark med nordiske rovdyr som brunbjørn og gaupe. Hva heter friluftsmuseet?",
+      "sv": "Världens äldsta friluftsmuseum ligger på Djurgården i Stockholm och grundades 1891. Förutom de gamla husen och hantverkstraditionerna har museet även en djurpark med nordiska rovdjur som brunbjörn och lodjur. Vad heter friluftsmuseet?"
+    },
+    "answer": "Skansen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Grunnleggeren het Artur Hazelius, og stedet lånte navn fra en gammel forsvarsskanse på tomten.",
+      "sv": "Grundaren hette Artur Hazelius, och platsen fick sitt namn efter en gammal försvarsskans på tomten."
+    },
+    "funFact": {
+      "nb": "Skansen ble forbildet for friluftsmuseer over hele verden, deriblant Norsk Folkemuseum på Bygdøy i Oslo, som åpnet bare noen år senere.",
+      "sv": "Skansen blev förebild för friluftsmuseer över hela världen, däribland Norsk Folkemuseum på Bygdøy i Oslo, som öppnade bara några år senare."
+    },
+    "source": "Skansen – historik"
+  },
+  {
+    "id": "rovdyr-l-19",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sprak",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Dette bibelske uttrykket, hentet fra en advarsel Jesus gir i Bergprekenen mot falske profeter, beskriver noen som later som de er snille og ufarlige, men i virkeligheten har onde hensikter. Uttrykket har et rovdyr forkledd som sitt eget byttedyr. Hvilket uttrykk?",
+      "sv": "Detta bibliska uttryck, hämtat från en varning Jesus ger i Bergspredikan mot falska profeter, beskriver någon som låtsas vara snäll och ofarlig, men i själva verket har onda avsikter. Uttrycket har ett rovdjur förklätt till sitt eget byte. Vilket uttryck?"
+    },
+    "answer": {
+      "nb": "Ulv i fåreklær",
+      "sv": "Varg i fårakläder"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På engelsk er det samme uttrykket «a wolf in sheep's clothing».",
+      "sv": "På engelska heter samma uttryck «a wolf in sheep's clothing»."
+    },
+    "funFact": {
+      "nb": "Verset står i Matteusevangeliet 7:15, og bildet er blitt et fast uttrykk langt utenfor kirkelig sammenheng, brukt om alt fra bedragere til upopulære forslag.",
+      "sv": "Versen står i Matteusevangeliet 7:15, och bilden har blivit ett fast uttryck långt utanför kyrkliga sammanhang, använt om allt från bedragare till impopulära förslag."
+    },
+    "source": "Matteusevangeliet 7:15"
+  },
+  {
+    "id": "rovdyr-l-20",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "SpaceX skyter opp sin nye rakett Falcon Heavy for første gang, Trump og Kim Jong-un møtes til toppmøte i Singapore, EUs personvernforordning GDPR trer i kraft, Amazon åpner sin første kassaløse butikk, et thailandsk guttelag reddes ut av en oversvømt grotte, Sverige rammes av rekordsommer og skogbranner, «Black Panther» har kinopremiere, prins Louis av Cambridge blir født, og Stephen Hawking dør. Hvilket år?",
+      "sv": "SpaceX skjuter upp sin nya raket Falcon Heavy för första gången, Trump och Kim Jong-un möts till ett toppmöte i Singapore, EU:s dataskyddsförordning GDPR träder i kraft, Amazon öppnar sin första kassalösa butik, ett thailändskt pojklag räddas ur en översvämmad grotta, Sverige drabbas av rekordsommar och skogsbränder, «Black Panther» har biopremiär, prins Louis av Cambridge föds, och Stephen Hawking dör. Vilket år?"
+    },
+    "answer": "2018",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sent på 2010-tallet.",
+      "sv": "Sent 2010-tal."
+    },
+    "funFact": {
+      "nb": "«Black Panther» ble nominert til Oscar for beste film – første gang en ren superheltfilm fikk den æren.",
+      "sv": "«Black Panther» nominerades till en Oscar för bästa film – första gången en renodlad superhjältefilm fick den äran."
+    },
+    "source": "Store norske leksikon – 2018"
+  },
+  {
+    "id": "rovdyr-m-11",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Denne norske organisasjonen har et navn som starter med ordet for jaktende dyr, og står bak den offisielle DNA-baserte overvåkingen av bestandene av bjørn, ulv, gaupe og jerv i Norge. Hvilken organisasjon er dette?",
+      "sv": "Denna norska organisationen har ett namn som börjar med ordet för jagande djur, och står bakom den officiella DNA-baserade övervakningen av bestånden av björn, varg, lodjur och järv i Norge. Vilken organisation är detta?"
+    },
+    "answer": "Rovdata",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Overvåkingen bygger blant annet på DNA fra hår og ekskrementer som samles inn over hele landet.",
+      "sv": "Övervakningen bygger bland annat på DNA från hår och spillning som samlas in över hela landet."
+    },
+    "funFact": {
+      "nb": "Rovdata drives i samarbeid mellom flere norske forskningsinstitusjoner og leverer de offisielle bestandstallene som forvaltningen bruker i rovviltpolitikken.",
+      "sv": "Rovdata drivs i samarbete mellan flera norska forskningsinstitutioner och levererar de officiella beståndssiffror som förvaltningen använder i rovdjurspolitiken."
+    },
+    "source": "Rovdata.no – om oss; Store norske leksikon"
+  },
+  {
+    "id": "rovdyr-m-12",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "I et avgrenset område sørøst i Norge, ved grensen til Sverige og sør for det samiske reinbeiteområdet, er forvaltningsmålet at ulv skal få lov til å etablere seg og yngle. Utenfor området er terskelen for å felle ulv langt lavere. Hva kalles dette området?",
+      "sv": "I ett avgränsat område i sydöstra Norge, vid gränsen till Sverige och söder om det samiska renbetesområdet, är förvaltningsmålet att vargen ska få etablera sig och föröka sig. Utanför området är tröskeln för att fälla varg mycket lägre. Vad kallas detta området?"
+    },
+    "answer": {
+      "nb": "Ulvesonen",
+      "sv": "Vargzonen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er en sammensetning av rovdyret og ordet for et avgrenset område.",
+      "sv": "Namnet är en sammansättning av rovdjuret och ordet för ett avgränsat område."
+    },
+    "funFact": {
+      "nb": "Ordningen er en del av norsk rovviltforvaltning og har vært omstridt, særlig blant sauebønder og reindriftsutøvere i og rundt sonen.",
+      "sv": "Ordningen är en del av den norska rovdjursförvaltningen och har varit omstridd, särskilt bland fårbönder och renskötare i och kring zonen."
+    },
+    "source": "Store norske leksikon – «ulv»; Miljødirektoratet"
+  },
+  {
+    "id": "rovdyr-m-13",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "I norrøn mytologi jager to ulver himmellegemene over himmelen hver dag, og skal endelig sluke dem ved ragnarok. Begge er sønner av det største uhyret av dem alle. Hvilken av de to ulvene jager sola?",
+      "sv": "I nordisk mytologi jagar två vargar himlakropparna över himlen varje dag, och ska till slut sluka dem vid ragnarök. Båda är söner till det största vidundret av dem alla. Vilken av de två vargarna jagar solen?"
+    },
+    "answer": "Sköll",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broren hans, som jager månen, heter Hate (Hati).",
+      "sv": "Hans bror, som jagar månen, heter Hate (Hati)."
+    },
+    "funFact": {
+      "nb": "Faren deres er Fenrisulven, som ved ragnarok slipper løs og sluker selveste Odin. Navnet Sköll betyr omtrent «den som forfølger».",
+      "sv": "Deras far är Fenrisulven, som vid ragnarök slipper loss och slukar själve Oden. Namnet Sköll betyder ungefär «den som förföljer»."
+    },
+    "source": "Snorres Edda («Gylfaginning»); Encyclopaedia Britannica – «Fenrir»"
+  },
+  {
+    "id": "rovdyr-m-14",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Ingmar Bergmans film fra 1968 har fått tittelen sin fra et gammelt skandinavisk begrep for timene rett før daggry – da folk visstnok er mest sårbare for mareritt, uro og død. Filmen handler om en kunstner som plages av sine indre demoner på en øde øy. Hva heter filmen?",
+      "sv": "Ingmar Bergmans film från 1968 har fått sin titel från ett gammalt skandinaviskt begrepp för timmarna strax före gryningen – då folk sägs vara som mest sårbara för mardrömmar, oro och död. Filmen handlar om en konstnär som plågas av sina inre demoner på en öde ö. Vad heter filmen?"
+    },
+    "answer": "Vargtimmen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På engelsk heter filmen «Hour of the Wolf», og hovedrollene spilles av Max von Sydow og Liv Ullmann.",
+      "sv": "På engelska heter filmen «Hour of the Wolf», och huvudrollerna spelas av Max von Sydow och Liv Ullmann."
+    },
+    "funFact": {
+      "nb": "Filmforskere har senere pekt på at uttrykket trolig ikke er ekte gammel folketro, men Bergmans egen oppfinnelse for filmen.",
+      "sv": "Filmforskare har senare pekat på att uttrycket sannolikt inte är äkta gammal folktro, utan Bergmans egen uppfinning för filmen."
+    },
+    "source": "Wikipedia – «Hour of the Wolf»"
+  },
+  {
+    "id": "rovdyr-m-15",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Denne svenske nasjonalparken i Västerbotten, opprettet i 1991, har et navn som betyr «bjørnenes land», og verner urskog med trær som kan være over 500 år gamle. Hva heter nasjonalparken?",
+      "sv": "Denna svenska nationalpark i Västerbotten, inrättad 1991, har ett namn som betyder «björnarnas land», och skyddar urskog med träd som kan vara över 500 år gamla. Vad heter nationalparken?"
+    },
+    "answer": "Björnlandet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Parken ligger i et kupert skogslandskap og er kjent for gammel granskog og myrområder.",
+      "sv": "Parken ligger i ett kuperat skogslandskap och är känd för gammal granskog och myrmarker."
+    },
+    "funFact": {
+      "nb": "Spor etter gamle skogbranner har bidratt til det biologiske mangfoldet i parken, som blant annet har et rikt innslag av vedboende sopp og lav.",
+      "sv": "Spår efter gamla skogsbränder har bidragit till den biologiska mångfalden i parken, som bland annat har ett rikt inslag av vedlevande svampar och lavar."
+    },
+    "source": "Naturvårdsverket – «Björnlandets nationalpark»"
+  },
+  {
+    "id": "rovdyr-m-16",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "sport",
+      "design"
+    ],
+    "prompt": {
+      "nb": "I 1984 ble det startet et svensk klesmerke oppkalt etter en tennislegende hvis fornavn betyr et rovdyr. Merket er særlig kjent for undertøy, og lanserte i 1993 en modell med flate sømmer som endret bransjen. Hvilket merke?",
+      "sv": "År 1984 startades ett svenskt klädmärke uppkallat efter en tennislegend vars förnamn betyder ett rovdjur. Märket är särskilt känt för underkläder, och lanserade 1993 en modell med platta sömmar som förändrade branschen. Vilket märke?"
+    },
+    "answer": "Björn Borg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tennisspilleren vant Wimbledon fem ganger på rad mellom 1976 og 1980.",
+      "sv": "Tennisspelaren vann Wimbledon fem gånger i rad mellan 1976 och 1980."
+    },
+    "funFact": {
+      "nb": "I dag produserer merket alt fra undertøy og sportsklær til parfyme og briller, langt utover det tennislegenden selv drev med.",
+      "sv": "I dag producerar märket allt från underkläder och sportkläder till parfym och glasögon, långt utöver det som tennislegenden själv sysslade med."
+    },
+    "source": "Björn Borg AB – om oss"
+  },
+  {
+    "id": "rovdyr-m-17",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Da dette svenske orlogsskipet sank på jomfruturen i Stockholm i 1628, hadde det nettopp fått montert en tre meter lang, utskåret gallionsfigur i form av et rovdyr på baugen, ment å symbolisere kongens makt og skremme fienden. Hvilket skip er dette?",
+      "sv": "När detta svenska örlogsfartyg sjönk på jungfruresan i Stockholm 1628, hade det just fått en tre meter lång, utskuren galjonsfigur i form av ett rovdjur monterad på fören, tänkt att symbolisera kungens makt och skrämma fienden. Vilket fartyg är detta?"
+    },
+    "answer": "Vasa",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skipet ligger i dag bevart i et eget museum på Djurgården i Stockholm.",
+      "sv": "Fartyget finns i dag bevarat i ett eget museum på Djurgården i Stockholm."
+    },
+    "funFact": {
+      "nb": "Løvemotivet gikk igjen flere steder på skipet, blant annet som masker på kanonluker og figurer som klamrer seg til roret.",
+      "sv": "Lejonmotivet återkom på flera ställen på fartyget, bland annat som masker på kanonluckor och figurer som klänger sig fast vid rodret."
+    },
+    "source": "Vasamuseet – «Vasa»"
+  },
+  {
+    "id": "rovdyr-m-18",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Dette landets flagg viser en svart tohodet rovfugl på rød bunn, et symbol middelalderhelten Skanderbeg brukte i kampen mot det osmanske riket på 1400-tallet. Flagget ble offisielt tatt i bruk igjen ved selvstendigheten i 1912. Hvilket land?",
+      "sv": "Detta lands flagga visar en svart tvåhövdad rovfågel på röd botten, en symbol medeltidshjälten Skanderbeg använde i kampen mot Osmanska riket på 1400-talet. Flaggan togs officiellt i bruk igen vid självständigheten 1912. Vilket land?"
+    },
+    "answer": "Albania",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fuglen er en dobbeltørn, samme type symbol som også brukes i det bysantinske og russiske riksvåpenet.",
+      "sv": "Fågeln är en dubbelörn, samma typ av symbol som även används i det bysantinska och ryska riksvapnet."
+    },
+    "funFact": {
+      "nb": "Landets eget navn på albansk, «Shqipëria», tolkes ofte som «ørnenes land».",
+      "sv": "Landets eget namn på albanska, «Shqipëria», tolkas ofta som «örnarnas land»."
+    },
+    "source": "Encyclopaedia Britannica – «flag of Albania»"
+  },
+  {
+    "id": "rovdyr-m-19",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sport",
+      "design"
+    ],
+    "prompt": {
+      "nb": "Etter en brorstrid i den tyske skofabrikken de drev sammen, startet Rudolf Dassler i 1948 sitt eget sportsmerke, oppkalt etter et amerikansk kattedyr. Broren Adolf startet samtidig sitt eget merke i samme by. Hvilket merke startet Rudolf?",
+      "sv": "Efter en brödrastrid i den tyska skofabrik de drivit tillsammans startade Rudolf Dassler 1948 sitt eget sportmärke, uppkallat efter ett amerikanskt kattdjur. Brodern Adolf startade samtidigt sitt eget märke i samma stad. Vilket märke startade Rudolf?"
+    },
+    "answer": "Puma",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Broren Adolfs merke fikk navn etter kallenavnet hans, «Adi», pluss etternavnet Dassler.",
+      "sv": "Broderns Adolfs märke fick namn efter hans smeknamn, «Adi», plus efternamnet Dassler."
+    },
+    "funFact": {
+      "nb": "Byen Herzogenaurach ble så delt av rivaliseringen at den fikk kallenavnet «byen med bøyde nakker», etter alle som så ned på skoene til fremmede.",
+      "sv": "Staden Herzogenaurach blev så delad av rivaliteten att den fick smeknamnet «staden med böjda nackar», efter alla som tittade ner på främlingars skor."
+    },
+    "source": "Puma SE – company history"
+  },
+  {
+    "id": "rovdyr-m-20",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Voyager 1 bekreftes å ha forlatt solsystemet og nådd interstellart rom, Edward Snowden avslører NSAs overvåkingsprogrammer, Frans blir valgt til ny pave, Erna Solberg blir Norges statsminister etter stortingsvalget, en tekstilfabrikk kollapser i Rana Plaza i Bangladesh, PlayStation 4 og Xbox One lanseres, TV-serien «Game of Thrones» sender sin beryktede «Red Wedding»-episode, prins George av Cambridge fødes, og Nelson Mandela dør. Hvilket år?",
+      "sv": "Voyager 1 bekräftas ha lämnat solsystemet och nått interstellär rymd, Edward Snowden avslöjar NSA:s övervakningsprogram, Franciskus väljs till ny påve, Erna Solberg blir Norges statsminister efter stortingsvalet, en textilfabrik kollapsar i Rana Plaza i Bangladesh, PlayStation 4 och Xbox One lanseras, TV-serien «Game of Thrones» sänder sitt ökända «Red Wedding»-avsnitt, prins George av Cambridge föds, och Nelson Mandela dör. Vilket år?"
+    },
+    "answer": "2013",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tidlig på 2010-tallet.",
+      "sv": "Tidigt 2010-tal."
+    },
+    "funFact": {
+      "nb": "Samme år feiret Norge 100 år med allmenn stemmerett for kvinner.",
+      "sv": "Samma år firade Norge 100 år av allmän rösträtt för kvinnor."
+    },
+    "source": "Store norske leksikon – 2013"
+  },
+  {
+    "id": "rovdyr-v-11",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Byen ble skrevet «Vargøy» på 1300-tallet, av norrønt varg – «ulv, fredløs person». Senere endret navnet mening til å komme fra ordet for en varde i stedet, og fikk en ny endelse. I dag er dette Norges østligste by, i Øst-Finnmark. Hvilken by?",
+      "sv": "Staden skrevs «Vargøy» på 1300-talet, av fornnordiskans varg – «varg, fredlös person». Senare ändrade namnet betydelse till att komma från ordet för en vårdkase i stället, och fick en ny ändelse. I dag är detta Norges östligaste stad, i Öst-Finnmark. Vilken stad?"
+    },
+    "answer": "Vardø",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger på en øy og har Norges eldste festningsverk i sitt slag, Vardøhus.",
+      "sv": "Staden ligger på en ö och har Norges äldsta fästningsverk i sitt slag, Vardøhus."
+    },
+    "funFact": {
+      "nb": "Vardøhus festning ble opprinnelig bygget for å markere norsk suverenitet så langt mot øst, i et område som lenge var omstridt mellom Norge og Russland.",
+      "sv": "Fästningen Vardøhus byggdes ursprungligen för att markera norsk suveränitet så långt österut, i ett område som länge var omtvistat mellan Norge och Ryssland."
+    },
+    "source": "Store norske leksikon – «Vardø»"
+  },
+  {
+    "id": "rovdyr-v-12",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Norges nest største rovfugl, bare slått av havørn, foretrekker fjell og vidde framfor kysten og jakter helst rype og hare. Etter total fredning i 1968 har bestanden holdt seg stabil. Hvilken ørn?",
+      "sv": "Norges näst största rovfågel, bara slagen av havsörn, föredrar fjäll och högslätter framför kusten och jagar helst ripa och hare. Efter total fridlysning 1968 har beståndet hållit sig stabilt. Vilken örn?"
+    },
+    "answer": {
+      "nb": "Kongeørn",
+      "sv": "Kungsörn"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den bygger reir på bratte klippehyller eller i store furutrær.",
+      "sv": "Den bygger bo på branta klipphyllor eller i stora tallar."
+    },
+    "funFact": {
+      "nb": "Ungfuglene har mørk fjærdrakt med hvite flekker under vingene, og får sin gyldenbrune voksendrakt først etter fem–seks år.",
+      "sv": "Ungfåglarna har mörk fjäderdräkt med vita fläckar under vingarna, och får sin gyllenbruna vuxendräkt först efter fem–sex år."
+    },
+    "source": "Store norske leksikon – «kongeørn»"
+  },
+  {
+    "id": "rovdyr-v-13",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "politikk",
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "I norsk rovviltforvaltning finnes det en type jakt som ikke er vanlig jakt, men en skademotivert felling av et bestemt, myndighetsbestemt antall dyr av arter som ulv og jerv, når de gjør stor skade på husdyr eller tamrein. Hva kalles denne type felling?",
+      "sv": "I norsk rovdjursförvaltning finns en typ av jakt som inte är vanlig jakt, utan en skademotiverad fällning av ett bestämt, myndighetsbeslutat antal djur av arter som varg och järv, när de orsakar stor skada på boskap eller tamren. Vad kallas denna typ av fällning?"
+    },
+    "answer": {
+      "nb": "Lisensfelling",
+      "sv": "Licensjakt"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet inneholder «lisens» – en tillatelse gitt av myndighetene.",
+      "sv": "Ordet innehåller «licens» – ett tillstånd som ges av myndigheterna."
+    },
+    "funFact": {
+      "nb": "Ordningen skiller seg fra ordinær jakt nettopp ved at formålet er skadebegrensning, ikke høsting av en fornybar ressurs.",
+      "sv": "Ordningen skiljer sig från vanlig jakt just genom att syftet är skadebegränsning, inte skörd av en förnybar resurs."
+    },
+    "source": "Store norske leksikon – «rovviltforvaltning»"
+  },
+  {
+    "id": "rovdyr-v-14",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Guden Odin gir bort all maten på bordet sitt til sine to ulver og lever selv bare av vin. Navnene deres betyr omtrent «den grådige» og «den forslukne». Hvem er Odins to ulver?",
+      "sv": "Guden Oden ger bort all mat på sitt bord till sina två vargar och lever själv bara av vin. Deras namn betyder ungefär «den glupske» och «den frossande». Vilka är Odens två vargar?"
+    },
+    "answer": {
+      "nb": "Geri og Freki",
+      "sv": "Geri och Freke"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De nevnes i diktet Grímnismál i Den eldre Edda.",
+      "sv": "De nämns i dikten Grímnismál i Den äldre Eddan."
+    },
+    "funFact": {
+      "nb": "Ulvenavnene brukes også som poetiske fellesbetegnelser for «ulv» i skaldediktningen, uavhengig av Odins to følgesvenner.",
+      "sv": "Vargnamnen används också som poetiska samlingsbeteckningar för «varg» i skaldediktningen, oberoende av Odens två följeslagare."
+    },
+    "source": "Den eldre Edda («Grímnismál»); Snorres Edda"
+  },
+  {
+    "id": "rovdyr-v-15",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "kongehus",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Sveriges store riksvåpen har to felt med tre bekker og en kronet gullløve, hentet fra en middelaldersk kongeætt med tilnavn etter godset Bjälbo. Feltene er kvadrert sammen med de tre kronene. Hvilken kongeætt er løven hentet fra?",
+      "sv": "Sveriges stora riksvapen har två fält med tre bäckar och ett krönt guldlejon, hämtat från en medeltida kungaätt med tillnamn efter godset Bjälbo. Fälten är kvadrerade tillsammans med de tre kronorna. Från vilken kungaätt kommer lejonet?"
+    },
+    "answer": {
+      "nb": "Folkungaætten",
+      "sv": "Folkungaätten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ætten forbindes også med Birger jarl, som grunnla Stockholm.",
+      "sv": "Ätten förknippas även med Birger jarl, som grundade Stockholm."
+    },
+    "funFact": {
+      "nb": "Løven i riksvåpenet går tilbake til våpen skapt under kong Karl VIII på 1400-tallet, men selve løvemotivet er langt eldre og forbindes med Birger jarls slekt.",
+      "sv": "Lejonet i riksvapnet går tillbaka till vapen som skapades under kung Karl VIII på 1400-talet, men själva lejonmotivet är betydligt äldre och förknippas med Birger jarls ätt."
+    },
+    "source": "Wikipedia – «Sveriges riksvapen»"
+  },
+  {
+    "id": "rovdyr-v-16",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "teknologi",
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Dette svenske jagerflyet, i tjeneste siden tidlig på 1990-tallet, fikk navnet sitt gjennom en navnekonkurranse og heter det samme som et flyvende, mytologisk rovdyr med løvekropp og ørnehode – akkurat som dyret i Saabs eget merke. Hva heter flytypen?",
+      "sv": "Detta svenska stridsflygplan, i tjänst sedan tidigt 1990-tal, fick sitt namn genom en namntävling och heter samma sak som ett flygande, mytologiskt rovdjur med lejonkropp och örnhuvud – precis som djuret i Saabs egen logotyp. Vad heter flygplanstypen?"
+    },
+    "answer": "Gripen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På engelsk heter det mytologiske dyret «griffin».",
+      "sv": "På engelska heter det mytologiska djuret «griffin»."
+    },
+    "funFact": {
+      "nb": "Flytypens fulle navn er JAS 39 Gripen, der JAS står for jakt, attack og spaning – de tre hovedoppgavene flyet er bygget for.",
+      "sv": "Flygplanstypens fulla namn är JAS 39 Gripen, där JAS står för jakt, attack och spaning – de tre huvuduppgifter planet är byggt för."
+    },
+    "source": "Wikipedia – «Saab JAS 39 Gripen»"
+  },
+  {
+    "id": "rovdyr-v-17",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Denne svenske barnebokserien fra 1939, skrevet av Gösta Knutsson, handler om en katt uten hale som bor i Uppsala og stadig plages av rivalen «Elaka Måns». Hva heter hovedpersonen, som har gitt navn til hele serien?",
+      "sv": "Denna svenska barnboksserie från 1939, skriven av Gösta Knutsson, handlar om en katt utan svans som bor i Uppsala och ständigt plågas av rivalen «Elaka Måns». Vad heter huvudpersonen, som har gett namn åt hela serien?"
+    },
+    "answer": "Pelle Svanslös",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han mistet halen som kattunge, etter et angrep fra en rotte.",
+      "sv": "Han miste svansen som kattunge, efter ett angrepp av en råtta."
+    },
+    "funFact": {
+      "nb": "Bøkene er fortsatt en klassiker i svensk barnelitteratur og er filmatisert flere ganger, senest som animasjonsfilm.",
+      "sv": "Böckerna är fortfarande en klassiker i svensk barnlitteratur och har filmatiserats flera gånger, senast som animerad film."
+    },
+    "source": "Gösta Knutsson, «Pelle Svanslös» (1939)"
+  },
+  {
+    "id": "rovdyr-v-18",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "sprak",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Både det norske og det svenske ordet for dette store rovdyret i barskogen betyr egentlig «den brune». Språkforskere mener germanske folk unngikk å si dyrets opprinnelige urindoeuropeiske navn høyt, av frykt for at det skulle dukke opp om man nevnte det – et fenomen som kalles tabuord. Hvilket rovdyr handler denne teorien om?",
+      "sv": "Både det norska och det svenska ordet för detta stora rovdjur i barrskogen betyder egentligen «den bruna». Språkforskare menar att germanska folk undvek att säga djurets ursprungliga urindoeuropeiska namn högt, av rädsla för att det skulle dyka upp om man nämnde det – ett fenomen som kallas tabuord. Vilket rovdjur handlar denna teorin om?"
+    },
+    "answer": {
+      "nb": "Bjørn",
+      "sv": "Björn"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det engelske ordet «bear» har samme opphav og samme forklaring.",
+      "sv": "Det engelska ordet «bear» har samma ursprung och samma förklaring."
+    },
+    "funFact": {
+      "nb": "Det opprinnelige urindoeuropeiske ordet lever videre i det latinske «ursus» og det greske «arktos» – sistnevnte er også opphavet til «Arktis», egentlig «landet under Bjørnen» (stjernebildet).",
+      "sv": "Det ursprungliga urindoeuropeiska ordet lever kvar i det latinska «ursus» och det grekiska «arktos» – det senare är också ursprunget till «Arktis», egentligen «landet under Björnen» (stjärnbilden)."
+    },
+    "source": "Encyclopaedia Britannica – «bear»"
+  },
+  {
+    "id": "rovdyr-v-19",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Herkules' tolvte og siste oppgave var å hente et fryktet vaktdyr fra dødsriket opp til overflaten, uten å bruke våpen. Dyret hadde tre hoder og en slangehale, og Hades tillot det bare på betingelse av at halvguden klarte det med bare hendene. Hvilket beist var dette?",
+      "sv": "Herkules tolfte och sista uppgift var att hämta ett fruktat vaktdjur från dödsriket upp till ytan, utan att använda vapen. Djuret hade tre huvuden och en ormsvans, och Hades tillät det bara på villkor att halvguden klarade det med bara händerna. Vilket vidunder var detta?"
+    },
+    "answer": {
+      "nb": "Kerberos",
+      "sv": "Cerberus"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dyret er en slektning av Sfinksen og Hydraen, alle avkom av Ekhidna og Tyfon.",
+      "sv": "Djuret är släkt med Sfinxen och Hydran, alla avkommor till Echidna och Typhon."
+    },
+    "funFact": {
+      "nb": "Etter å ha vist beistet fram til kong Eurystheus, som ble så skremt at han ba Herkules levere det tilbake, bar helten det ned til dødsriket igjen.",
+      "sv": "Efter att ha visat upp vidundret för kung Eurystheus, som blev så skräckslagen att han bad Herkules föra tillbaka det, bar hjälten det ner till dödsriket igen."
+    },
+    "source": "Apollodoros, «Bibliotheke»; Encyclopaedia Britannica – «Heracles»"
+  },
+  {
+    "id": "rovdyr-v-20",
+    "category": "rovdyr",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I 1667 beviste den danske naturforskeren Niels Steensen at underlige, tungeformede steiner, som middelalderens folk trodde var forsteinede slangetunger falt ned fra himmelen, i virkeligheten var fossile tenner fra en kjempehai. Hvilken utdødd hai er dette?",
+      "sv": "År 1667 bevisade den danske naturforskaren Niels Steensen att underliga, tungformade stenar, som medeltidens folk trodde var förstenade ormtungor som fallit ner från himlen, i själva verket var fossila tänder från en jättehaj. Vilken utdöd haj är detta?"
+    },
+    "answer": "Megalodon",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Steensen er bedre kjent under sitt latinske navn, Nicolas Steno.",
+      "sv": "Steensen är mer känd under sitt latinska namn, Nicolas Steno."
+    },
+    "funFact": {
+      "nb": "Steinene ble kalt glossopetrae, «tungesteiner», og italieneren Fabio Colonna hadde faktisk kommet fram til samme konklusjon flere tiår tidligere, i 1616.",
+      "sv": "Stenarna kallades glossopetrae, «tungstenar», och italienaren Fabio Colonna hade faktiskt kommit fram till samma slutsats flera decennier tidigare, 1616."
+    },
+    "source": "Encyclopaedia Britannica – «Megalodon»"
+  }
+]
