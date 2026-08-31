@@ -33,11 +33,51 @@ fleste ankerord ryker.
 | K5 | **Oversettelse** — ordet på et annet språk, eller originaltittelen | «Stille Nacht», Ørkenstorm, stormtropper |
 | K6 | **Produkt / merkevare** — ordet i et varenavn eller en logo | Dreamcast, Stormberg, Malaco |
 | K7 | **Idiom / fagbegrep** — ordet inngår i et uttrykk eller fagord | «storm i et vannglass», spillteori, SALT |
+| K8 | **Assosiasjon** — ankerordet står bare i premisset, svaret ligger et helt annet sted | «Salt var en gang så verdifullt at det ble brukt som betaling. Hvilket metall er dyrest i dag?» |
 
 K3 og K4 gir «aha». K1 og K2 gjør at folk får noen riktige.
 
-**Kvoter per 10-er:** minst 3 bokstavelige (K1/K2), minst 2 av K3/K4, maks 3 av samme
-type, og minst 5 av de sju typene representert.
+**Kvoter per 10-er:** minst 3 bokstavelige (K1/K2), minst 2 av K3/K4, minst 2 assosiasjoner
+(K8), maks 3 av samme type, og minst 5 av de åtte typene representert.
+
+### Den absolutte regelen: svaret er aldri ankerordet
+
+Et svar som *er* temaordet har null kobling — spørsmålet besvarer seg selv i det øyeblikket
+spilleren leser kategorien. «Hvilket krydder tas en klype av?» under temaet *Salt* er ikke et
+spørsmål, det er en overskrift.
+
+Regelen gjelder ordet i alle språkdrakter og bøyninger. Å oversette det er ikke å komme langt
+nok unna: under *Sjokolade* er verken «Chocolate», «Chocolat» eller «choklad» et gyldig svar,
+og under *Broer* er «Bridge» det heller ikke — heller ikke som navn på et kortspill eller en
+TV-serie. Det samme gjelder ankerordet med bare et generisk tillegg foran: «Hvit sjokolade»
+som svar på «hva slags sjokolade er dette?» er den samme tautologien i forkledning.
+
+**Sammensetninger og egennavn er derimot helt greit** — de navngir noe bestemt og bærer et
+faktum: Saltstraumen, Blåhval, Golden Gate-broen, Stormberg, løytnantshjerte, Vinter-OL.
+Grensen går mellom *ordet selv* og *noe som heter noe med ordet*.
+
+`node scripts/validate-content.mjs` håndhever dette. Lista over forbudte former står i
+`ANCHORS` øverst i validatoren, og må utvides når et nytt tema legges til.
+
+### Assosiasjonsavstand
+
+Det beste spørsmålet i en 10-er er ofte det som forlater ankerordet helt. Ankerordet setter
+scenen i innledningen, og så peker spørsmålet et annet sted:
+
+> «Salt var en gang så verdifullt at romerske soldater fikk deler av lønnen i det. Hvilket
+> metall koster i dag mest per gram, og brukes mest i katalysatorer i biler?» → rodium
+
+Ankerordet er tydelig til stede — spilleren ser hvorfor spørsmålet hører hjemme i *Salt* — men
+svaret ligger i et helt annet fagfelt. Det er dette som gjør at en 10-er dekker ti verdener i
+stedet for ti varianter av samme oppslagsord.
+
+Tre måter å finne avstanden på:
+
+- **Egenskapen, ikke tingen.** Salt konserverer → hva erstattet salting? Kjøleskapet.
+- **Sammenligningen.** Salt var dyrt → hva er dyrt nå? Rodium, safran, vanilje.
+- **Konsekvensen.** Kakao er giftig for hunder → hvilket stoff? Teobromin.
+
+Bruk K8 minst to ganger per 10-er. En 10-er uten dem blir et oppslagsverk om ett ord.
 
 ## 3. Bredde
 
@@ -167,7 +207,8 @@ Det er poenget — spilleren skal ikke kunne regne seg fram til når det kommer.
 ## 6. Sjekkliste før en 10-er leveres
 
 - [ ] Alle ti henger på ankerordet, og koblingen er synlig i ettertid
-- [ ] Minst 5 koblingstyper, maks 3 av samme
+- [ ] Minst 5 koblingstyper, maks 3 av samme, minst 2 assosiasjoner (K8)
+- [ ] Ingen svar er ankerordet selv – heller ikke oversatt eller bøyd
 - [ ] Minst 6 hovedtags, maks 2 per tag
 - [ ] Regionmiksen følger `SPEC.md`
 - [ ] Ett spørsmål fra før 1950, ett fra de siste ti årene, maks 4 fra samme tiår
@@ -187,6 +228,8 @@ Det er poenget — spilleren skal ikke kunne regne seg fram til når det kommer.
 - **Skjult ekspertise.** Tre spørsmål som krever samme spesialkunnskap — da er 10-eren
   egentlig fem spørsmål lang for alle andre.
 - **Selvbesvarende spørsmål.** Tittelen står i innledningen og er samtidig svaret.
+- **Ankerordet som svar.** Se den absolutte regelen i punkt 2. Oversettelse teller ikke som avstand.
+- **Oppslagsverket.** Ti spørsmål der ankerordet er selve saken, og ingen av dem tar deg ut av det.
 - **Ferskvare.** «Hvem leder …» — se punkt 5 i `SPEC.md`.
 - **Gjettbart årstall.** Én kjempekjent hendelse gir svaret, de åtte andre er pynt.
 - **Doble ankre.** Spørsmål som egentlig hører hjemme i et annet tema.
