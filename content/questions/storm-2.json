@@ -162,23 +162,27 @@
     "difficulty": "lett",
     "origin": "int",
     "topics": [
-      "popkultur"
+      "geografi",
+      "sprak"
     ],
     "prompt": {
-      "nb": "Hun het opprinnelig Ororo Munroe, dukket først opp i en tegneserie i 1975, og kan styre vind, regn og lyn med tankekraften. Halle Berry spilte henne på kino fra 2000 til 2014. Hvilken superheltinne i X-Men har et værfenomen som kodenavn?",
-      "sv": "Hon hette ursprungligen Ororo Munroe, dök först upp i en serietidning 1975, och kan styra vind, regn och blixtar med tankekraft. Halle Berry spelade henne på bio från 2000 till 2014. Vilken superhjältinna i X-Men har ett väderfenomen som kodnamn?"
+      "nb": "Byen ligger ved Lake Michigan og har et kallenavn som handler om vind – men språkforskere strides om det egentlig siktet til været eller til lokalpolitikernes skryt. Den er kjent for høyhus, blues og dyp pizza. Hvilken by?",
+      "sv": "Staden ligger vid Lake Michigan och har ett smeknamn som handlar om vind – men språkforskare tvistar om det egentligen syftade på vädret eller på lokalpolitikernas skryt. Den är känd för skyskrapor, blues och djup pizza. Vilken stad?"
     },
-    "answer": "Storm",
+    "answer": {
+      "nb": "Chicago",
+      "sv": "Chicago"
+    },
     "answerKind": "annet",
     "hint": {
-      "nb": "Kodenavnet hennes er selve uværet.",
-      "sv": "Kodnamnet hennes är själva ovädret."
+      "nb": "Kallenavnet er «The Windy City», og byen huser Willis Tower.",
+      "sv": "Smeknamnet är «The Windy City», och staden hyser Willis Tower."
     },
     "funFact": {
-      "nb": "I tegneseriene regnes hun som en av de kraftigste mutantene i hele Marvel-universet, og har flere ganger vært leder for X-Men.",
-      "sv": "I serierna räknas hon som en av de mäktigaste mutanterna i hela Marvel-universumet, och har flera gånger varit ledare för X-Men."
+      "nb": "Byen er ikke blant de blåsigste i USA målt i snittvind. Kallenavnet er dokumentert i amerikanske aviser fra 1800-tallet, men opphavet er omstridt.",
+      "sv": "Staden är inte bland de blåsigaste i USA mätt i snittvind. Smeknamnet är dokumenterat i amerikanska tidningar från 1800-talet, men ursprunget är omtvistat."
     },
-    "source": "Marvel Comics – Storm (Ororo Munroe)"
+    "source": "Chicago Historical Society; NOAA – vinddata for amerikanske byer"
   },
   {
     "id": "storm-l-18",

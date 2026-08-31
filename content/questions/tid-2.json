@@ -393,20 +393,23 @@
       "musikk"
     ],
     "prompt": {
-      "nb": "Sporet åpner med en kakofoni av tikkende klokker og ringende vekkerklokker, lyder som ble spilt inn separat i en antikvitetsbutikk. Låten er det fjerde sporet på et britisk rockealbum fra 1973 og handler om hvor fort livet glir forbi mens man venter på at noe skal skje. Hvilken sang er dette?",
-      "sv": "Spåret inleds med en kakofoni av tickande klockor och ringande väckarklockor, ljud som spelades in separat i en antikvitetsaffär. Låten är det fjärde spåret på ett brittiskt rockalbum från 1973 och handlar om hur snabbt livet glider förbi medan man väntar på att något ska hända. Vilken låt är detta?"
+      "nb": "Fjerde spor på dette britiske albumet fra 1973 åpner med en kakofoni av tikkende klokker og ringende vekkerklokker, spilt inn separat i en antikvitetsbutikk, og handler om hvor fort livet glir forbi. Hvilket album?",
+      "sv": "Fjärde spåret på detta brittiska album från 1973 öppnar med en kakofoni av tickande klockor och ringande väckarklockor, inspelade separat i en antikaffär, och handlar om hur fort livet glider förbi. Vilket album?"
     },
-    "answer": "Time",
+    "answer": {
+      "nb": "The Dark Side of the Moon",
+      "sv": "The Dark Side of the Moon"
+    },
     "answerKind": "annet",
     "hint": {
-      "nb": "Albumet er «The Dark Side of the Moon», og trommeslager Nick Mason har et eget trommesolo med rototomer i denne låten.",
-      "sv": "Albumet är «The Dark Side of the Moon», och trummisen Nick Mason har ett eget trumsolo med rototomtrummor i denna låt."
+      "nb": "Bandet er Pink Floyd, og omslaget viser en lysstråle brutt gjennom et prisme.",
+      "sv": "Bandet är Pink Floyd, och omslaget visar en ljusstråle bruten genom ett prisma."
     },
     "funFact": {
-      "nb": "Tekstforfatter Roger Waters skal ha fått ideen etter å ha innsett, i slutten av tjueårene, at han ikke lenger forberedte seg på livet, men var midt oppe i det.",
-      "sv": "Textförfattaren Roger Waters ska ha fått idén efter att ha insett, i slutet av tjugoårsåldern, att han inte längre förberedde sig för livet, utan befann sig mitt i det."
+      "nb": "Klokkelydene var opprinnelig en test av et nytt firekanalsopptak i en butikk, gjort av teknikeren Alan Parsons lenge før låten fantes. De ble hentet fram igjen da sporet skulle spilles inn.",
+      "sv": "Klockljuden var ursprungligen ett test av en ny fyrkanalsinspelning i en affär, gjort av teknikern Alan Parsons långt innan låten fanns. De hämtades fram igen när spåret skulle spelas in."
     },
-    "source": "Wikipedia – «Time (Pink Floyd song)»"
+    "source": "Harvest/EMI – The Dark Side of the Moon (1973); Alan Parsons-intervjuer"
   },
   {
     "id": "tid-m-17",

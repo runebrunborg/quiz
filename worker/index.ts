@@ -509,45 +509,95 @@ api.delete('/friends/:id', async (c) => {
 
 /* --------------------------------------------------------------- toppliste */
 
-/** Færre besvarte spørsmål enn dette, og man er ikke med – ellers vinner den som har svart på tre. */
-const LEADERBOARD_MINIMUM = 30
+/**
+ * Rangering på **antall riktige svar**, ikke på treffprosent alene – ellers
+ * vinner den som spiller minst. Treffprosenten følger med, så begge deler er
+ * synlige.
+ *
+ * `scope=friends` tar med deg selv og vennene dine, også de som ikke har spilt
+ * i perioden; da står de med null svar og tom treffprosent. `scope=all` er den
+ * åpne lista, og der kreves et minste antall besvarte spørsmål for å komme med.
+ */
+type Period = 'week' | 'all'
+type Scope = 'friends' | 'all'
+
+/**
+ * Minstekrav for den åpne lista: én fullført runde. Vennelista har ingen
+ * terskel – der skal alle du har koblet deg til være med, også de som ikke har
+ * spilt i perioden.
+ */
+const MIN_ANSWERS: Record<Period, number> = { week: 10, all: 10 }
+
+interface BoardRow {
+  id: string
+  name: string
+  correct: number
+  total: number
+}
 
 api.get('/leaderboard', async (c) => {
   const userId = c.get('userId')
-  const period = c.req.query('period') === 'week' ? 'week' : 'all'
+  const scope: Scope = c.req.query('scope') === 'all' ? 'all' : 'friends'
+  const period: Period = c.req.query('period') === 'all' ? 'all' : 'week'
   const week = isoWeek(Date.now())
+  const minAnswers = scope === 'all' ? MIN_ANSWERS[period] : 0
 
-  const base = `
-    SELECT u.id, u.nickname, u.country,
-           SUM(s.correct) AS correct,
-           SUM(s.total)   AS total
-      FROM sessions s
-      JOIN users u ON u.id = s.user_id
-     WHERE s.total > 0 ${period === 'week' ? 'AND s.iso_week = ?' : ''}
-     GROUP BY u.id
-    HAVING total >= ?
-     ORDER BY (CAST(SUM(s.correct) AS REAL) / SUM(s.total)) DESC, total DESC
-  `
+  let rows: { results?: BoardRow[] }
 
-  const minimum = period === 'week' ? 10 : LEADERBOARD_MINIMUM
-  const stmt =
-    period === 'week'
-      ? c.env.DB.prepare(`${base} LIMIT 100`).bind(week, minimum)
-      : c.env.DB.prepare(`${base} LIMIT 100`).bind(minimum)
+  if (scope === 'friends') {
+    // LEFT JOIN, slik at venner uten spilte runder også kommer med.
+    const joinFilter = period === 'week' ? 'AND s.iso_week = ?2' : ''
+    const sql = `
+      SELECT u.id,
+             u.nickname AS name,
+             COALESCE(SUM(s.correct), 0) AS correct,
+             COALESCE(SUM(s.total), 0)   AS total
+        FROM users u
+        LEFT JOIN sessions s ON s.user_id = u.id ${joinFilter}
+       WHERE u.id = ?1
+          OR u.id IN (SELECT friend_id FROM friends WHERE user_id = ?1)
+       GROUP BY u.id
+       ORDER BY correct DESC, total ASC, name ASC
+    `
+    rows = await (period === 'week'
+      ? c.env.DB.prepare(sql).bind(userId, week)
+      : c.env.DB.prepare(sql).bind(userId)
+    ).all<BoardRow>()
+  } else {
+    // HAVING må gjenta SUM(s.total). Med `HAVING total >= ?` treffer SQLite
+    // kolonnen sessions.total i stedet for aliaset, og den som har flere korte
+    // runder faller urettmessig ut av lista.
+    const whereFilter = period === 'week' ? 'WHERE s.iso_week = ?1' : ''
+    const sql = `
+      SELECT u.id,
+             u.nickname AS name,
+             SUM(s.correct) AS correct,
+             SUM(s.total)   AS total
+        FROM users u
+        JOIN sessions s ON s.user_id = u.id
+        ${whereFilter}
+       GROUP BY u.id
+      HAVING SUM(s.total) >= ${period === 'week' ? '?2' : '?1'}
+       ORDER BY SUM(s.correct) DESC, SUM(s.total) ASC, name ASC
+       LIMIT 50
+    `
+    rows = await (period === 'week'
+      ? c.env.DB.prepare(sql).bind(week, minAnswers)
+      : c.env.DB.prepare(sql).bind(minAnswers)
+    ).all<BoardRow>()
+  }
 
-  const rows = await stmt.all<{ id: string; nickname: string; country: string | null; correct: number; total: number }>()
-  const list = (rows.results ?? []).map((r, i) => ({
+  const entries = (rows.results ?? []).map((r, i) => ({
+    id: r.id,
     rank: i + 1,
-    nickname: r.nickname,
-    country: r.country,
+    name: r.name,
     correct: r.correct,
     total: r.total,
-    accuracy: Math.round((r.correct / r.total) * 100),
-    isMe: r.id === userId,
+    pct: r.total === 0 ? null : Math.round((r.correct / r.total) * 100),
+    me: r.id === userId,
   }))
 
-  const mine = list.find((r) => r.isMe) ?? null
-  return c.json({ period, minimum, entries: list, me: mine })
+  return c.json({ scope, period, minAnswers, entries })
 })
 
 api.get('/health', (c) => c.json({ ok: true, app: c.env.APP_NAME }))

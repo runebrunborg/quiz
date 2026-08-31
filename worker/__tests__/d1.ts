@@ -6,15 +6,22 @@
  *
  * Krever Node 22.5 eller nyere (`node:sqlite`).
  */
-import { readFileSync } from 'node:fs'
+import { readdirSync, readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
-import { DatabaseSync } from 'node:sqlite'
+import { createRequire } from 'node:module'
+
+// Vites modulgraf kjenner ikke node:sqlite og forsøker å bundle «sqlite».
+// createRequire laster den på kjøretid og går klar av den statiske analysen.
+const { DatabaseSync } = createRequire(import.meta.url)('node:sqlite') as typeof import('node:sqlite')
+
+// Type-only import emitteres ikke, så den går klar av bundleren.
+type Db = import('node:sqlite').DatabaseSync
 
 type Param = string | number | null
 
 class FakeStatement {
   constructor(
-    private readonly db: DatabaseSync,
+    private readonly db: Db,
     private readonly sql: string,
     private readonly args: Param[] = [],
   ) {}
@@ -39,7 +46,7 @@ class FakeStatement {
 }
 
 class FakeD1 {
-  constructor(private readonly db: DatabaseSync) {}
+  constructor(private readonly db: Db) {}
 
   prepare(sql: string): FakeStatement {
     return new FakeStatement(this.db, sql)
@@ -56,7 +63,11 @@ class FakeD1 {
 export function makeEnv() {
   const db = new DatabaseSync(':memory:')
   // Vitest kjører fra prosjektroten, så skjemaet hentes derfra.
-  db.exec(readFileSync(resolve(process.cwd(), 'migrations/0001_init.sql'), 'utf8'))
+  // Alle migrasjoner i rekkefølge, slik at testene kjører mot samme skjema som
+  // produksjon. Legger du til en migrasjon, kommer den med av seg selv.
+  for (const file of readdirSync(resolve(process.cwd(), 'migrations')).filter((f) => f.endsWith('.sql')).sort()) {
+    db.exec(readFileSync(resolve(process.cwd(), 'migrations', file), 'utf8'))
+  }
 
   return {
     DB: new FakeD1(db) as unknown as D1Database,

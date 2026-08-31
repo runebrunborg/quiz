@@ -4,7 +4,10 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["mat-og-drikke", "historie"],
+    "topics": [
+      "mat-og-drikke",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1936 lanserte sjokoladefabrikken Nidar i Trondheim en melkesjokoladeplate som raskt ble et av selskapets aller mest kjente produkter. Nesten hundre år senere ligger den fortsatt i butikkhyllene over hele Norge. Hvilken sjokoladeplate er dette?",
       "sv": "År 1936 lanserade chokladfabriken Nidar i Trondheim en mjölkchokladkaka som snabbt blev en av företagets allra mest kända produkter. Nästan hundra år senare ligger den fortfarande i butikshyllorna över hela Norge. Vilken chokladkaka är detta?"
@@ -26,7 +29,10 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["mat-og-drikke", "sprak"],
+    "topics": [
+      "mat-og-drikke",
+      "sprak"
+    ],
     "prompt": {
       "nb": "I 1988 kom denne sjokoladeplaten fra Nidar i Trondheim på markedet, drøyt femti år etter storesøsteren Stratos. Den er fortsatt en fast del av det norske sjokoladeutvalget i dag. Hvilken sjokoladeplate er dette?",
       "sv": "År 1988 kom denna chokladkaka från Nidar i Trondheim ut på marknaden, drygt femtio år efter storasystern Stratos. Den är fortfarande en fast del av det norska chokladutbudet i dag. Vilken chokladkaka är detta?"
@@ -48,7 +54,10 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["litteratur", "film"],
+    "topics": [
+      "litteratur",
+      "film"
+    ],
     "prompt": {
       "nb": "To små vesener bosetter seg i tennene til gutten Jens fordi han spiser for mye godteri og glemmer å pusse tennene. Fortellingen brukes fortsatt i tannhelseundervisning i norske barnehager, og ble filmatisert i 1954 av Ivo Caprino. Hvem skrev «Karius og Baktus»?",
       "sv": "Två små varelser slår sig ner i tänderna på pojken Jens eftersom han äter för mycket godis och glömmer att borsta tänderna. Berättelsen används fortfarande i tandvårdsundervisning i norska förskolor, och filmatiserades 1954 av Ivo Caprino. Vem skrev «Karius och Baktus»?"
@@ -74,7 +83,10 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["geografi", "historie"],
+    "topics": [
+      "geografi",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1938 ga sjokoladefabrikken Nidar i Trondheim en sjokoladeplate et navn som er identisk med navnet på en øystat i Karibia. Hvilket land lånte platen navnet sitt fra?",
       "sv": "År 1938 gav chokladfabriken Nidar i Trondheim en chokladkaka ett namn som är identiskt med namnet på en östat i Karibien. Vilket land lånade kakan sitt namn från?"
@@ -99,7 +111,10 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["mat-og-drikke", "okonomi"],
+    "topics": [
+      "mat-og-drikke",
+      "okonomi"
+    ],
     "prompt": {
       "nb": "Denne svenske sjokoladeplaten består av knasende mandelkaramell dekket av melkesjokolade, og er blitt en internasjonal snacks-suksess gjennom å selges i møbelvarehus over hele verden. Hvilken sjokoladeplate er dette?",
       "sv": "Denna svenska chokladkaka består av knaprig mandelkola täckt med mjölkchoklad, och har blivit en internationell snackssuccé genom att säljas i möbelvaruhus över hela världen. Vilken chokladkaka är detta?"
@@ -121,7 +136,10 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["mat-og-drikke", "sprak"],
+    "topics": [
+      "mat-og-drikke",
+      "sprak"
+    ],
     "prompt": {
       "nb": "Denne svenske godbiten lages av havregryn, sukker, kakao og smør, rullet i kokos eller pärlsocker. Den oppsto trolig under andre verdenskrig da mel ble rasjonert, og het tidligere noe helt annet – et navn som ble fjernet fra svensk ordliste i 2015 fordi det var støtende. Hva heter godbiten i dag?",
       "sv": "Denna svenska godbit görs av havregryn, socker, kakao och smör, rullad i kokosflingor eller pärlsocker. Den uppstod troligen under andra världskriget då mjöl ransonerades, och hette tidigare något helt annat – ett namn som togs bort ur svenska ordlistan 2015 eftersom det var stötande. Vad heter godbiten i dag?"
@@ -146,7 +164,10 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["mat-og-drikke", "okonomi"],
+    "topics": [
+      "mat-og-drikke",
+      "okonomi"
+    ],
     "prompt": {
       "nb": "Denne svenske godteriposen med en blanding av lakris- og fruktdrops er en av landets mest kjente godterier. Den lages av et selskap som i 1934 startet i Malmø under navnet Malmö Lakrits Compani. Hva heter godteriblandingen?",
       "sv": "Denna svenska godispåse med en blandning av lakrits- och fruktgodis är en av landets mest kända godisar. Den tillverkas av ett företag som 1934 startade i Malmö under namnet Malmö Lakrits Compani. Vad heter godisblandningen?"
@@ -168,7 +189,10 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["mat-og-drikke", "historie"],
+    "topics": [
+      "mat-og-drikke",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1941 lanserte den amerikanske godteriprodusenten Forrest Mars, sammen med sønnen til lederen for en konkurrerende sjokoladefabrikk, en liten sjokoladekule med et sprøtt sukkerskall utenpå. Navnet er satt sammen av forbokstavene i etternavnene deres. Hvilket godteri er dette?",
       "sv": "År 1941 lanserade den amerikanske godistillverkaren Forrest Mars, tillsammans med sonen till ledaren för en konkurrerande chokladfabrik, en liten chokladkula med ett knaprigt sockerskal utanpå. Namnet är sammansatt av initialerna i deras efternamn. Vilket godis är detta?"
@@ -190,7 +214,10 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["historie", "religion"],
+    "topics": [
+      "historie",
+      "religion"
+    ],
     "prompt": {
       "nb": "Denne tradisjonen med en kalender fylt av 24 små luker fram mot jul oppsto blant lutherske familier på 1800-tallet, og fikk sin moderne form etter andre verdenskrig. I dag gjemmer mange av lukene et lite stykke sjokolade. I hvilket land oppsto tradisjonen?",
       "sv": "Denna tradition med en kalender fylld med 24 små luckor fram mot jul uppstod bland lutherska familjer på 1800-talet, och fick sin moderna form efter andra världskriget. I dag gömmer många av luckorna en liten bit choklad. I vilket land uppstod traditionen?"
@@ -212,7 +239,9 @@
     "category": "sjokolade",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "Romsonden Huygens lander på Saturns måne Titan. Angela Merkel blir Tysklands første kvinnelige forbundskansler. Orkanen Katrina rammer New Orleans. Nettstedet YouTube grunnlegges. Fire selvmordsbombere angriper kollektivtrafikken i London samme sommer. Freia bytter til lufttett innpakning på Kvikk Lunsj, til stor debatt blant nordmenn. Sjette boken om Harry Potter, «Halvblodsprinsen», gis ut. Den norske fotballspilleren Antonio Nusa blir født. Pave Johannes Paul II dør etter et langt pontifikat. Hvilket år?",
       "sv": "Rymdsonden Huygens landar på Saturnus måne Titan. Angela Merkel blir Tysklands första kvinnliga förbundskansler. Orkanen Katrina drabbar New Orleans. Webbplatsen YouTube grundas. Fyra självmordsbombare angriper kollektivtrafiken i London samma sommar. Freia byter till lufttät förpackning på Kvikk Lunsj, till stor debatt bland norrmän. Sjätte boken om Harry Potter, «Halvblodsprinsen», ges ut. Den norske fotbollsspelaren Antonio Nusa föds. Påven Johannes Paulus II dör efter ett långt pontifikat. Vilket år?"
@@ -234,7 +263,10 @@
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["mat-og-drikke", "historie"],
+    "topics": [
+      "mat-og-drikke",
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne melkesjokoladen med hakkede hasselnøtter ble lansert av Freia i 1926 og markedsført i mange år som en «herresjokolade». Navnet har ingenting med hell å gjøre – det er hentet fra en gutteklubb som Johan Throne Holst dannet med tre venner i barndomsbyen sin. Hvilken sjokoladeplate er dette?",
       "sv": "Denna mjölkchoklad med hackade hasselnötter lanserades av Freia 1926 och marknadsfördes i många år som en «herrchoklad». Namnet har inget med tur att göra – det kommer från en pojkklubb som Johan Throne Holst bildade med tre vänner i sin barndomsstad. Vilken chokladkaka är detta?"
@@ -256,7 +288,10 @@
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["mat-og-drikke", "sprak"],
+    "topics": [
+      "mat-og-drikke",
+      "sprak"
+    ],
     "prompt": {
       "nb": "Denne sjokoladen består av grov marsipan med høyt mandelinnhold, dekket med mørk sjokolade. Den ble første gang laget i 1915 av en fabrikk i Oslo, og ble et Nidar-merke etter en sammenslåing i 1980. Navnet betyr bokstavelig talt noe helt annet enn det faktisk er. Hvilken sjokolade er dette?",
       "sv": "Denna choklad består av grov marsipan med hög mandelhalt, täckt med mörk choklad. Den tillverkades första gången 1915 av en fabrik i Oslo, och blev ett Nidar-märke efter en sammanslagning 1980. Namnet betyder bokstavligen något helt annat än vad den faktiskt är. Vilken choklad är detta?"
@@ -278,7 +313,10 @@
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["sprak", "historie"],
+    "topics": [
+      "sprak",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1939 ga Nidar navnet på en tradisjonell russisk hesteskyss – trukket av tre hester side om side – til en av sine sjokoladeplater. Det samme ordet brukes i dag gjerne om en gruppe på tre som deler makt eller ansvar, for eksempel i politikken. Hvilket ord er dette?",
       "sv": "År 1939 gav Nidar namnet på en traditionell rysk hästskjuts – dragen av tre hästar sida vid sida – till en av sina chokladkakor. Samma ord används i dag ofta om en grupp på tre som delar makt eller ansvar, till exempel inom politiken. Vilket ord är detta?"
@@ -300,7 +338,10 @@
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["okonomi", "historie"],
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1991 ble sjokoladefabrikken Nidar i Trondheim en del av et bredt sammensatt norsk konsern, etter at industriselskapet som hadde kjøpt Nidar fire år tidligere, fusjonerte med dette konsernet. Konsernet eier i dag varemerker innenfor alt fra mat og drikke til finans. Hvilket konsern er dette?",
       "sv": "År 1991 blev chokladfabriken Nidar i Trondheim en del av en bred norsk koncern, efter att industriföretaget som köpt Nidar fyra år tidigare gick samman med denna koncern. Koncernen äger i dag varumärken inom allt från mat och dryck till finans. Vilken koncern är detta?"
@@ -322,7 +363,10 @@
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["mat-og-drikke", "historie"],
+    "topics": [
+      "mat-og-drikke",
+      "historie"
+    ],
     "prompt": {
       "nb": "Dette svenske pastillmerket, kjent for sin sorte og gule eske, ble lansert i 1909 av et firma i Gävle som opprinnelig solgte maling og tapet. Firmaet er i dag mest kjent for en helt annen søtsak, formet som en liten bil. Hvilket pastillmerke er dette?",
       "sv": "Detta svenska pastillmärke, känt för sin svarta och gula ask, lanserades 1909 av ett företag i Gävle som ursprungligen sålde färg och tapeter. Företaget är i dag mest känt för en helt annan sötsak, formad som en liten bil. Vilket pastillmärke är detta?"
@@ -344,7 +388,10 @@
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["mat-og-drikke", "historie"],
+    "topics": [
+      "mat-og-drikke",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1859 fikk en nybakt enke i den lille svenske byen Gränna kommunens tillatelse til å åpne et bakeri, etter at mannen hennes døde og hun måtte forsørge familien selv. Der laget hun en rød-hvit, myntesmakende godbit på en pinne, og holdt oppskriften hemmelig helt til sin død. Hvilken godbit er dette?",
       "sv": "År 1859 fick en nybliven änka i den lilla svenska staden Gränna kommunens tillstånd att öppna ett bageri, sedan hennes man dött och hon var tvungen att försörja familjen själv. Där tillverkade hon en röd-vit, mintsmakande godbit på en pinne, och höll receptet hemligt ända till sin död. Vilken godbit är detta?"
@@ -366,7 +413,10 @@
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["okonomi", "historie"],
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
     "prompt": {
       "nb": "Svensker forbindes ofte med selvbetjente godterihyller der man selv fyller en pose med løsvektgodteri – en salgsform svenske myndigheter godkjente i større butikker i 1984. Selve konseptet ble likevel ikke funnet opp av svensker, men utviklet på 1980-tallet av studenter utdannet i Stockholm, fra et naboland. Hvilket land?",
       "sv": "Svenskar förknippas ofta med självbetjänade godishyllor där man själv fyller en påse med lösgodis – en försäljningsform svenska myndigheter godkände i större butiker 1984. Själva konceptet uppfanns dock inte av svenskar, utan utvecklades på 1980-talet av studenter utbildade i Stockholm, från ett grannland. Vilket land?"
@@ -388,7 +438,10 @@
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["historie", "religion"],
+    "topics": [
+      "historie",
+      "religion"
+    ],
     "prompt": {
       "nb": "I 1875 utviklet dette britiske sjokoladefirmaet en ren kakaosmørblanding som kunne støpes i glatte former, og laget dermed sitt første hule sjokoladeegg til påske. Firmaet var grunnlagt et halvt århundre tidligere av en kveker i Birmingham. Hvilket firma er dette?",
       "sv": "År 1875 utvecklade detta brittiska chokladföretag en ren kakaosmörblandning som kunde gjutas i släta former, och tillverkade därmed sitt första ihåliga chokladägg till påsk. Företaget grundades ett halvt sekel tidigare av en kväkare i Birmingham. Vilket företag är detta?"
@@ -410,29 +463,38 @@
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["vitenskap", "dyr"],
+    "topics": [
+      "mat-og-drikke",
+      "historie"
+    ],
     "prompt": {
-      "nb": "Denne alkaloiden er kjemisk beslektet med koffein, men gir mennesker ingen nevneverdig oppkvikkende effekt på sentralnervesystemet. Den er samtidig grunnen til at sjokolade er giftig for hunder, som bryter stoffet mye saktere ned enn vi gjør. Hva heter stoffet, oppkalt etter kakaotreets vitenskapelige navn?",
-      "sv": "Denna alkaloid är kemiskt släkt med koffein, men ger människor ingen nämnvärd uppiggande effekt på centrala nervsystemet. Den är samtidigt anledningen till att choklad är giftigt för hundar, som bryter ner ämnet mycket långsammare än vi gör. Vad heter ämnet, uppkallat efter kakaoträdets vetenskapliga namn?"
+      "nb": "Wienerkaken skal etter én versjon ha blitt laget i 1832 av en sekstenårig kokkelærling for fyrst Metternich. Hundre år senere endte striden mellom hotellet og konditoriet som begge kalte sin utgave «den originale» i retten, med dom i 1963. Hva heter kaken?",
+      "sv": "Wienertårtan ska enligt en version ha gjorts 1832 av en sextonårig kockelev för fürst Metternich. Hundra år senare hamnade tvisten mellan hotellet och konditoriet som båda kallade sin variant «den originala» i domstol, med dom 1963. Vad heter tårtan?"
     },
-    "answer": "Teobromin",
+    "answer": {
+      "nb": "Sachertorte",
+      "sv": "Sachertorte"
+    },
     "answerKind": "annet",
     "hint": {
-      "nb": "Mørk sjokolade inneholder omtrent ti ganger så mye av stoffet som melkesjokolade gjør.",
-      "sv": "Mörk choklad innehåller ungefär tio gånger så mycket av ämnet som mjölkchoklad gör."
+      "nb": "Kaken bærer lærlingens etternavn, og har et tynt lag aprikossyltetøy under sjokoladeglasuren.",
+      "sv": "Tårtan bär lärlingens efternamn och har ett tunt lager aprikosmarmelad under chokladglasyren."
     },
     "funFact": {
-      "nb": "Stoffet finnes også i te, maté og kolanøtter. Navnet er satt sammen av «Theobroma» – kakaotreets slektsnavn, gresk for «gudenes føde» – og endelsen for alkaloider.",
-      "sv": "Ämnet finns också i te, maté och kolanötter. Namnet är sammansatt av «Theobroma» – kakaoträdets släktnamn, grekiska för «gudarnas föda» – och ändelsen för alkaloider."
+      "nb": "Retten ga hotellet rett til navnet «Original», men konditoriet rett i spørsmålet om antall kakelag. Begge selger sin versjon den dag i dag, under litt ulike navn.",
+      "sv": "Domstolen gav hotellet rätt till namnet «Original», men konditoriet rätt i frågan om antalet tårtlager. Båda säljer sin version än i dag, under lite olika namn."
     },
-    "source": "Wikipedia – Theobromine"
+    "source": "Wikipedia – Sachertorte; Hotel Sacher og Demel, Wien"
   },
   {
     "id": "sjokolade-m-20",
     "category": "sjokolade",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["okonomi", "historie"],
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1899 kjøpte en sveitsisk konditorfamilie opp fabrikken til en annen sveitsisk sjokolademaker i Bern, og skapte sammen et selskap som fortsatt selges under et dobbelt navn i butikkhyllene i dag. Hvilket selskap er dette?",
       "sv": "År 1899 köpte en schweizisk konditorfamilj upp fabriken till en annan schweizisk chokladtillverkare i Bern, och skapade tillsammans ett företag som fortfarande säljs under ett dubbelt namn i butikshyllorna i dag. Vilket företag är detta?"
@@ -454,7 +516,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["kunst", "musikk"],
+    "topics": [
+      "kunst",
+      "musikk"
+    ],
     "prompt": {
       "nb": "I 1911 lanserte Freia en sjokolade utelukkende til salgs i Nationaltheatrets foaje, i forbindelse med teatrets første oppsetning av en Wagner-opera. Innpakningen var tegnet av arkitekten bak selve teaterbygningen, og sjokoladen ble i 2009 kåret til kulturminne før den ble lagt ned for godt i 2019. Hvilken opera ga sjokoladen navn?",
       "sv": "År 1911 lanserade Freia en choklad som uteslutande såldes i Nationaltheatrets foajé, i samband med teaterns första uppsättning av en Wagneropera. Förpackningen var ritad av arkitekten bakom själva teaterbyggnaden, och chokladen utsågs 2009 till kulturminne innan den lades ner för gott 2019. Vilken opera gav chokladen dess namn?"
@@ -476,7 +541,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["kongehus", "historie"],
+    "topics": [
+      "kongehus",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1905 lanserte Freia en konfekt oppkalt etter Norges nybakte konge, i forbindelse med unionsoppløsningen samme år. Konfekten kom bare tretten år etter at Johan Throne Holst hadde overtatt den daværende lille fabrikken på Rodeløkka. Hvilken konge ga konfekten navn?",
       "sv": "År 1905 lanserade Freia en konfekt uppkallad efter Norges nyblivna kung, i samband med unionsupplösningen samma år. Konfekten kom bara tretton år efter att Johan Throne Holst tagit över den dåvarande lilla fabriken på Rodeløkka. Vilken kung gav konfekten dess namn?"
@@ -498,7 +566,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["historie", "geografi"],
+    "topics": [
+      "historie",
+      "geografi"
+    ],
     "prompt": {
       "nb": "I 1939 ga Nidar et av sine sjokoladenavn til et flere tusen år gammelt byggverk, hugget ut av kalkstein med kroppen til et liggende rovdyr og hodet til en menneskelig hersker. Byggverket ligger ved pyramidene i Giza. Hva heter byggverket?",
       "sv": "År 1939 gav Nidar ett av sina chokladnamn till ett flera tusen år gammalt byggnadsverk, uthugget i kalksten med kroppen av ett liggande rovdjur och huvudet av en mänsklig härskare. Byggnadsverket ligger vid pyramiderna i Giza. Vad heter byggnadsverket?"
@@ -523,7 +594,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["okonomi", "historie"],
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1993 kjøpte et amerikansk mat- og tobakkskonsern opp både Freia i Norge og Marabou i Sverige, og gjorde begge til del av sin globale sjokoladevirksomhet. Konsernet het på oppkjøpstidspunktet noe med «Foods» i navnet. Hvilket konsern kjøpte Freia og Marabou i 1993?",
       "sv": "År 1993 köpte en amerikansk livsmedels- och tobakskoncern upp både Freia i Norge och Marabou i Sverige, och gjorde båda till en del av sin globala chokladverksamhet. Koncernen hette vid köptillfället något med «Foods» i namnet. Vilken koncern köpte Freia och Marabou 1993?"
@@ -545,7 +619,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["popkultur", "film"],
+    "topics": [
+      "popkultur",
+      "film"
+    ],
     "prompt": {
       "nb": "På slutten av 1960-tallet, samtidig som en svensk sjokoladefabrikk byttet ut storkelogoen sin med en avrundet bokstav, laget denne skuespillerinnen en TV-reklame med et slagord som ble hengende ved merket i tiår etterpå. Hun er også kjent for å ha spilt i Ingmar Bergmans film «En lektion i kärlek» fra 1954. Hvem var skuespillerinnen?",
       "sv": "I slutet av 1960-talet, samtidigt som en svensk chokladfabrik bytte ut sin storklogotyp mot en rundad bokstav, gjorde denna skådespelerska en tv-reklam med en slogan som blev kvar hos märket i decennier efteråt. Hon är också känd för att ha spelat i Ingmar Bergmans film «En lektion i kärlek» från 1954. Vem var skådespelerskan?"
@@ -571,7 +648,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["okonomi", "historie"],
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1941 kjøpte det svenske sjokoladeselskapet Marabou en frukt- og likørfabrikk i Skåne. Fra denne oppkjøpte virksomheten vokste det etter hvert fram et av Nordens aller største merker – ikke innen sjokolade, men innen frossen mat. Hvilket merke?",
       "sv": "År 1941 köpte det svenska chokladbolaget Marabou en frukt- och likörfabrik i Skåne. Ur denna uppköpta verksamhet växte så småningom ett av Nordens allra största varumärken fram – inte inom choklad, utan inom fryst mat. Vilket varumärke?"
@@ -593,7 +673,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["vitenskap", "historie"],
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
     "prompt": {
       "nb": "På Vipeholms sykehus i Lund gjennomførte svenske forskere på slutten av 1940-tallet studier av sammenhengen mellom sukkerinntak og en bestemt tannsykdom, ved å la pasienter innta store mengder klebrig sukkertøy mellom måltidene. Hva heter tannsykdommen forskerne studerte, på fagspråket?",
       "sv": "På Vipeholms sjukhus i Lund genomförde svenska forskare i slutet av 1940-talet studier av sambandet mellan sockerintag och en bestämd tandsjukdom, genom att låta patienter äta stora mängder klibbigt godis mellan måltiderna. Vad heter tandsjukdomen forskarna studerade, på fackspråk?"
@@ -615,7 +698,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["historie", "geografi"],
+    "topics": [
+      "historie",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Folkelig historieframstilling gir ofte æren til denne spanske erobreren – kjent for å ha styrtet aztekerriket etter å ha møtt keiser Moctezuma i 1520 – for personlig å ha tatt sjokoladen med til Europa. Historikere finner imidlertid ikke noe solid belegg for at han faktisk gjorde det. Hvem er erobreren?",
       "sv": "Populär historieskrivning ger ofta äran till denne spanske erövraren – känd för att ha störtat aztekriket efter att ha mött kejsar Moctezuma 1520 – för att personligen ha fört chokladen till Europa. Historiker finner dock inga säkra belägg för att han faktiskt gjorde det. Vem är erövraren?"
@@ -641,7 +727,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["mytologi", "historie"],
+    "topics": [
+      "mytologi",
+      "historie"
+    ],
     "prompt": {
       "nb": "Den norske sjokoladefabrikken Freia har fått navnet sitt fra en gudinne i norrøn mytologi, forbundet med kjærlighet, skjønnhet og fruktbarhet. Gudinnen er søster av Frøy og datter av Njord. Hvilken gudinne er dette?",
       "sv": "Den norska chokladfabriken Freia har fått sitt namn från en gudinna i nordisk mytologi, förknippad med kärlek, skönhet och fruktsamhet. Gudinnan är syster till Frej och dotter till Njord. Vilken gudinna är detta?"
@@ -666,7 +755,10 @@
     "category": "sjokolade",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["okonomi", "historie"],
+    "topics": [
+      "okonomi",
+      "historie"
+    ],
     "prompt": {
       "nb": "Hos aztekerne og mayaene fungerte kakaobønner ikke bare som en drikkevare, men også som noe helt annet – de kunne brukes til å kjøpe alt fra tamales til kalkunmiddager, avhengig av hvor mange bønner man betalte med. Hva ble kakaobønnene brukt som, ved siden av å lages drikke av?",
       "sv": "Hos aztekerna och mayafolket fungerade kakaobönor inte bara som en dryck, utan också som något helt annat – de kunde användas för att köpa allt från tamales till kalkonmiddagar, beroende på hur många bönor man betalade med. Vad användes kakaobönorna som, vid sidan av att göras till dryck?"

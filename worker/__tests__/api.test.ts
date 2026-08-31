@@ -1,4 +1,5 @@
 import { beforeEach, describe, expect, it } from 'vitest'
+import { createHash } from 'node:crypto'
 import app from '../index'
 import { makeEnv } from './d1'
 
@@ -31,12 +32,23 @@ async function get<T>(path: string, token?: string): Promise<{ status: number; b
 interface Account {
   userId: string
   token: string
-  displayName: string
+  nickname: string
   friendCode: string
+  birthYear: number | null
+  country: string | null
 }
 
-async function newAccount(displayName: string): Promise<Account> {
-  const res = await post<Account>('/api/account', { displayName })
+/**
+ * Nøkkelen serveren mottar er resultatet av PBKDF2 i nettleseren – 64 hex-tegn.
+ * Testene trenger ikke den ekte utledningen, bare noe deterministisk i riktig
+ * format, så passordet hashes én gang her.
+ */
+function passwordKey(password: string): string {
+  return createHash('sha256').update(password).digest('hex')
+}
+
+async function newAccount(nickname: string, password = 'et-godt-passord'): Promise<Account> {
+  const res = await post<Account>('/api/account/register', { nickname, passwordKey: passwordKey(password) })
   expect(res.status).toBe(200)
   return res.body
 }
@@ -72,61 +84,126 @@ describe('autentisering', () => {
     const me = await newAccount('Rune')
     const res = await get<Account>('/api/account/me', me.token)
     expect(res.status).toBe(200)
-    expect(res.body.displayName).toBe('Rune')
+    expect(res.body.nickname).toBe('Rune')
     expect(res.body.friendCode).toBe(me.friendCode)
   })
 })
 
 describe('konto', () => {
-  it('lager konto med nøkkel og vennekode', async () => {
+  it('lager konto med nickname, nøkkel og vennekode', async () => {
     const me = await newAccount('Rune')
-    expect(me.token).toHaveLength(64)
+    expect(me.nickname).toBe('Rune')
+    expect(me.token).toMatch(/^[0-9a-f]{64}$/)
     expect(me.friendCode).toMatch(/^[A-Z2-9]{8}$/)
-    expect(me.friendCode).not.toMatch(/[IO01]/)
   })
 
-  it('faller tilbake på et standardnavn når navnet er tomt', async () => {
-    const res = await post<Account>('/api/account', { displayName: '   ' })
-    expect(res.body.displayName).toBe('Spiller')
+  it('krever at nicknamet er ledig, uansett skrivemåte', async () => {
+    await newAccount('Rune')
+    const again = await post('/api/account/register', { nickname: 'r u n e', passwordKey: passwordKey('noe-annet') })
+    expect(again.status).toBe(409)
   })
 
-  it('bytter visningsnavn', async () => {
-    const me = await newAccount('Rune')
-    const patched = await app.request(
-      '/api/account',
-      { method: 'PATCH', body: JSON.stringify({ displayName: 'Rune B' }), headers: { authorization: `Bearer ${me.token}` } },
+  it('avviser for korte nicknames og passord i feil format', async () => {
+    expect((await post('/api/account/register', { nickname: 'R', passwordKey: passwordKey('x') })).status).toBe(400)
+    expect((await post('/api/account/register', { nickname: 'Rune', passwordKey: 'ikke-hex' })).status).toBe(400)
+  })
+
+  it('sier om et nickname er ledig', async () => {
+    await newAccount('Rune')
+    expect((await get<{ available: boolean }>('/api/account/available?nickname=Rune')).body.available).toBe(false)
+    expect((await get<{ available: boolean }>('/api/account/available?nickname=Kari')).body.available).toBe(true)
+  })
+
+  it('logger inn fra en ny enhet med samme passord', async () => {
+    const first = await newAccount('Rune', 'hemmelig-passord')
+    const second = await post<Account>('/api/account/login', {
+      nickname: 'rune',
+      passwordKey: passwordKey('hemmelig-passord'),
+    })
+    expect(second.status).toBe(200)
+    expect(second.body.token).not.toBe(first.token)
+    expect((await get('/api/account/me', second.body.token)).status).toBe(200)
+  })
+
+  it('avviser feil passord', async () => {
+    await newAccount('Rune', 'hemmelig-passord')
+    const res = await post('/api/account/login', { nickname: 'Rune', passwordKey: passwordKey('feil-passord') })
+    expect(res.status).toBe(401)
+  })
+
+  it('tar imot fødselsår og land, og lar dem fjernes igjen', async () => {
+    const res = await post<Account>('/api/account/register', {
+      nickname: 'Rune',
+      passwordKey: passwordKey('et-godt-passord'),
+      birthYear: 1980,
+      country: 'NO',
+    })
+    expect(res.body.birthYear).toBe(1980)
+    expect(res.body.country).toBe('NO')
+
+    const cleared = await app.request(
+      '/api/account/me',
+      {
+        method: 'PATCH',
+        body: JSON.stringify({ birthYear: null, country: null }),
+        headers: { authorization: `Bearer ${res.body.token}` },
+      },
       env,
     )
-    expect(patched.status).toBe(200)
-    const after = await get<Account>('/api/account/me', me.token)
-    expect(after.body.displayName).toBe('Rune B')
+    expect(cleared.status).toBe(200)
+    expect((await get<Account>('/api/account/me', res.body.token)).body.birthYear).toBeNull()
   })
 
-  it('nekter å sette et tomt visningsnavn', async () => {
-    const me = await newAccount('Rune')
-    const res = await app.request(
-      '/api/account',
-      { method: 'PATCH', body: JSON.stringify({ displayName: '  ' }), headers: { authorization: `Bearer ${me.token}` } },
-      env,
-    )
+  it('håndhever aldersgrensen på 13 år', async () => {
+    const tooYoung = new Date().getUTCFullYear() - 5
+    const res = await post('/api/account/register', {
+      nickname: 'Rune',
+      passwordKey: passwordKey('et-godt-passord'),
+      birthYear: tooYoung,
+    })
     expect(res.status).toBe(400)
   })
 
-  it('sletter kontoen og alt som henger på den', async () => {
+  it('logger ut andre enheter når passordet byttes', async () => {
+    const first = await newAccount('Rune', 'gammelt-passord')
+    const second = await post<Account>('/api/account/login', {
+      nickname: 'Rune',
+      passwordKey: passwordKey('gammelt-passord'),
+    })
+
+    const changed = await post(
+      '/api/account/password',
+      { currentPasswordKey: passwordKey('gammelt-passord'), newPasswordKey: passwordKey('nytt-passord') },
+      second.body.token,
+    )
+    expect(changed.status).toBe(200)
+    expect((await get('/api/account/me', second.body.token)).status).toBe(200)
+    expect((await get('/api/account/me', first.token)).status).toBe(401)
+  })
+
+  it('logger ut bare denne enheten', async () => {
+    const first = await newAccount('Rune')
+    const second = await post<Account>('/api/account/login', {
+      nickname: 'Rune',
+      passwordKey: passwordKey('et-godt-passord'),
+    })
+    expect((await post('/api/account/logout', {}, first.token)).status).toBe(200)
+    expect((await get('/api/account/me', first.token)).status).toBe(401)
+    expect((await get('/api/account/me', second.body.token)).status).toBe(200)
+  })
+
+  it('sletter kontoen og alt som henger på den, og frigjør nicknamet', async () => {
     const me = await newAccount('Rune')
     await play(me.token, 's1', 8, 10)
 
     const del = await app.request(
-      '/api/account',
+      '/api/account/me',
       { method: 'DELETE', headers: { authorization: `Bearer ${me.token}` } },
       env,
     )
     expect(del.status).toBe(200)
-
-    // Nøkkelen skal ikke lenger virke, og statistikken skal være borte.
     expect((await get('/api/account/me', me.token)).status).toBe(401)
-    const rows = await env.DB.prepare('SELECT COUNT(*) AS n FROM sessions').first<{ n: number }>()
-    expect(rows?.n).toBe(0)
+    expect((await get<{ available: boolean }>('/api/account/available?nickname=Rune')).body.available).toBe(true)
   })
 })
 
@@ -141,6 +218,14 @@ describe('venner', () => {
 
     const fromB = await get<{ friends: { name: string }[] }>('/api/friends', b.token)
     expect(fromB.body.friends.map((f) => f.name)).toEqual(['Rune'])
+  })
+
+  it('kan legges til på nickname, ikke bare kode', async () => {
+    const a = await newAccount('Rune')
+    await newAccount('Kari')
+    const added = await post<{ friend: { name: string } }>('/api/friends', { nickname: 'kari' }, a.token)
+    expect(added.status).toBe(200)
+    expect(added.body.friend.name).toBe('Kari')
   })
 
   it('avviser din egen kode og ukjente koder', async () => {

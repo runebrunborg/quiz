@@ -287,8 +287,16 @@ a {
   background: var(--bg-elevated);
   border-color: var(--border);
   color: var(--text);
+  /* Knappen brukes også på <a>, som ellers arver understrekingen. */
+  text-decoration: none;
   transition: transform var(--dur) var(--ease), background var(--dur) var(--ease),
     border-color var(--dur) var(--ease), box-shadow var(--dur) var(--ease), opacity var(--dur) var(--ease);
+}
+
+/* .stack er et grid, så en knapp der strekkes over hele bredden om vi lar den. */
+.stack > .btn:not(.btn--block),
+.card > .btn:not(.btn--block) {
+  justify-self: start;
 }
 
 .btn:hover:not(:disabled) {

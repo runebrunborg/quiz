@@ -1,37 +1,104 @@
-import { useState } from 'react'
-import { useNavigate } from 'react-router-dom'
+import { useEffect, useState } from 'react'
+import { Segmented } from '../components/Segmented'
 import {
-  createAccount,
+  changePassword,
   deleteAccount,
-  logOut,
-  renameAccount,
-  restoreAccount,
+  login,
+  logout,
+  nicknameAvailable,
+  refreshProfile,
+  register,
   syncOutbox,
+  updateProfile,
 } from '../lib/api'
-import { loadProfile, loadSessions, type Profile } from '../lib/storage'
+import { passwordStrength } from '../lib/crypto'
 import { pct, totals } from '../lib/stats'
+import { loadProfile, loadSessions, type Profile } from '../lib/storage'
+import { COUNTRIES, COUNTRY_NAME } from '../lib/ui'
+
+const MIN_PASSWORD = 8
 
 /**
- * Konto og profil. Uten konto spiller man helt lokalt – denne skjermen er det
- * eneste stedet man kobler seg til skyen, bytter navn, logger ut eller sletter.
+ * Konto og profil. Uten konto spiller man helt lokalt – dette er det eneste
+ * stedet man kobler seg til skyen, endrer opplysninger, bytter passord, logger
+ * ut eller sletter alt.
  */
 export default function AccountScreen() {
-  const navigate = useNavigate()
   const [profile, setProfile] = useState<Profile>(loadProfile)
-  const [name, setName] = useState('')
-  const [newName, setNewName] = useState('')
-  const [restoreKey, setRestoreKey] = useState('')
+
+  useEffect(() => {
+    if (!loadProfile().token) return
+    void (async () => {
+      const fresh = await refreshProfile()
+      setProfile(fresh ?? loadProfile())
+      await syncOutbox().catch(() => undefined)
+    })()
+  }, [])
+
+  return profile.token ? (
+    <ProfilePanel profile={profile} onProfile={setProfile} />
+  ) : (
+    <AuthPanel onDone={setProfile} />
+  )
+}
+
+/* ------------------------------------------------ registrering og innlogging */
+
+function AuthPanel({ onDone }: { onDone: (p: Profile) => void }) {
+  const [mode, setMode] = useState<'ny' | 'inn'>('ny')
+  const [nickname, setNickname] = useState('')
+  const [password, setPassword] = useState('')
+  const [repeat, setRepeat] = useState('')
+  const [birthYear, setBirthYear] = useState('')
+  const [country, setCountry] = useState('')
+  const [available, setAvailable] = useState<boolean | null>(null)
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState<string | null>(null)
-  const [notice, setNotice] = useState<string | null>(null)
-  const [showKey, setShowKey] = useState(false)
-  const [confirmDelete, setConfirmDelete] = useState(false)
 
-  async function run(fn: () => Promise<void>) {
+  const strength = passwordStrength(password)
+  const localRounds = loadSessions().filter((s) => s.finishedAt !== null).length
+  const thisYear = new Date().getFullYear()
+
+  // Sjekker om nicknamet er ledig mens man skriver.
+  useEffect(() => {
+    if (mode !== 'ny' || nickname.trim().length < 2) {
+      setAvailable(null)
+      return
+    }
+    let cancelled = false
+    const timer = setTimeout(() => {
+      void nicknameAvailable(nickname)
+        .then((r) => !cancelled && setAvailable(r.available))
+        .catch(() => !cancelled && setAvailable(null))
+    }, 400)
+    return () => {
+      cancelled = true
+      clearTimeout(timer)
+    }
+  }, [nickname, mode])
+
+  const canSubmit =
+    mode === 'inn'
+      ? nickname.trim().length >= 2 && password.length >= MIN_PASSWORD
+      : nickname.trim().length >= 2 &&
+        available === true &&
+        password.length >= MIN_PASSWORD &&
+        password === repeat
+
+  async function submit() {
     setBusy(true)
     setError(null)
     try {
-      await fn()
+      onDone(
+        mode === 'ny'
+          ? await register({
+              nickname: nickname.trim(),
+              password,
+              birthYear: birthYear ? Number.parseInt(birthYear, 10) : null,
+              country: country || null,
+            })
+          : await login(nickname.trim(), password),
+      )
     } catch (e) {
       setError(e instanceof Error ? e.message : 'Noe gikk galt')
     } finally {
@@ -39,273 +106,300 @@ export default function AccountScreen() {
     }
   }
 
-  const mine = totals(loadSessions())
+  return (
+    <>
+      <div className="page-head">
+        <p className="eyebrow">Profil</p>
+        <h1>{mode === 'ny' ? 'Lag en profil' : 'Logg inn'}</h1>
+        <p>
+          Rundene dine lagres på denne enheten uansett. En profil lar deg spille fra flere enheter, sammenligne deg
+          med venner og komme med på topplista.
+        </p>
+      </div>
 
-  /* ------------------------------------------------------------ utlogget */
+      <div className="card card--pad stack">
+        <Segmented
+          ariaLabel="Ny profil eller innlogging"
+          value={mode}
+          onChange={setMode}
+          options={[
+            { value: 'ny', label: 'Ny profil' },
+            { value: 'inn', label: 'Logg inn' },
+          ]}
+        />
 
-  if (!profile.token) {
-    return (
-      <>
-        <div className="page-head">
-          <p className="eyebrow">Konto</p>
-          <h1>Ta med deg tallene dine</h1>
-          <p>
-            Rundene lagres på denne enheten uansett. En konto gjør at de følger deg til andre enheter, og at du kan
-            sammenligne deg med venner og se topplista. Ingen e-post, ingen passord – bare et visningsnavn du velger selv.
-          </p>
-        </div>
+        <label className="stack stack--tight">
+          <span className="setup__label">Nickname</span>
+          <input
+            className="input"
+            value={nickname}
+            onChange={(e) => setNickname(e.target.value)}
+            placeholder="rune"
+            maxLength={24}
+            autoComplete="username"
+          />
+          {mode === 'ny' && available === false && <span className="pill pill--bad">Opptatt – prøv et annet</span>}
+          {mode === 'ny' && available === true && <span className="pill pill--ok">Ledig</span>}
+          {mode === 'ny' && (
+            <span className="setup__note">
+              Navnet er unikt, det er slik venner finner deg – og det vises på topplista.
+            </span>
+          )}
+        </label>
 
-        <div className="card card--pad stack">
-          <label className="stack stack--tight">
-            <span className="setup__label">Visningsnavn</span>
-            <input
-              className="input"
-              value={name}
-              onChange={(e) => setName(e.target.value)}
-              placeholder="Rune"
-              maxLength={40}
-            />
-          </label>
-          <p className="faint" style={{ fontSize: 'var(--step--1)' }}>
-            Navnet er det eneste andre ser. Velg noe du er komfortabel med at venner – og topplista – viser.
-          </p>
-          <button
-            type="button"
-            className="btn btn--primary"
-            disabled={busy || name.trim().length === 0}
-            onClick={() =>
-              run(async () => {
-                await createAccount(name.trim())
-                setProfile(loadProfile())
-                setShowKey(true)
-                setNotice('Kontoen er opprettet. Ta vare på gjenopprettingsnøkkelen under.')
-                await syncOutbox()
-              })
-            }
-          >
-            Opprett konto
-          </button>
+        <label className="stack stack--tight">
+          <span className="setup__label">Passord</span>
+          <input
+            className="input"
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            placeholder={`Minst ${MIN_PASSWORD} tegn`}
+            autoComplete={mode === 'ny' ? 'new-password' : 'current-password'}
+          />
+          {mode === 'ny' && password.length > 0 && (
+            <span className={`pill ${strength.score >= 2 ? 'pill--ok' : ''}`}>{strength.label}</span>
+          )}
+        </label>
 
-          <details>
-            <summary className="muted" style={{ cursor: 'pointer', fontSize: 'var(--step--1)' }}>
-              Jeg har allerede en konto
-            </summary>
-            <div className="stack stack--tight" style={{ marginTop: 'var(--sp-3)' }}>
-              <p className="faint" style={{ fontSize: 'var(--step--1)' }}>
-                Lim inn gjenopprettingsnøkkelen fra enheten du brukte før.
-              </p>
+        {mode === 'ny' && (
+          <>
+            <label className="stack stack--tight">
+              <span className="setup__label">Gjenta passord</span>
               <input
                 className="input"
-                value={restoreKey}
-                onChange={(e) => setRestoreKey(e.target.value)}
-                placeholder="Gjenopprettingsnøkkel"
-                autoComplete="off"
-                spellCheck={false}
+                type="password"
+                value={repeat}
+                onChange={(e) => setRepeat(e.target.value)}
+                autoComplete="new-password"
               />
-              <button
-                type="button"
-                className="btn"
-                disabled={busy || restoreKey.trim().length < 16}
-                onClick={() =>
-                  run(async () => {
-                    await restoreAccount(restoreKey.trim())
-                    setProfile(loadProfile())
-                    setRestoreKey('')
-                    await syncOutbox()
-                  })
-                }
-              >
-                Logg inn
-              </button>
+              {repeat.length > 0 && password !== repeat && <span className="pill pill--bad">Ikke like</span>}
+            </label>
+
+            <div className="setup__row">
+              <span className="setup__label">Fødselsår og land (valgfritt)</span>
+              <div className="row">
+                <input
+                  className="input"
+                  style={{ maxWidth: 140 }}
+                  inputMode="numeric"
+                  value={birthYear}
+                  onChange={(e) => setBirthYear(e.target.value.replace(/\D/g, '').slice(0, 4))}
+                  placeholder={String(thisYear - 30)}
+                />
+                <select
+                  className="input"
+                  style={{ maxWidth: 220 }}
+                  value={country}
+                  onChange={(e) => setCountry(e.target.value)}
+                  aria-label="Land"
+                >
+                  <option value="">Velg land</option>
+                  {COUNTRIES.map((c) => (
+                    <option key={c.code} value={c.code}>
+                      {c.name}
+                    </option>
+                  ))}
+                </select>
+              </div>
+              <p className="setup__note">
+                Brukes bare til å sammenligne aldersgrupper og land i statistikken. Du kan la begge stå tomme, og
+                endre eller fjerne dem når som helst. Aldersgrensen for Theme Quiz er 13 år.
+              </p>
             </div>
-          </details>
 
-          {error && <p className="pill pill--bad">{error}</p>}
-        </div>
-      </>
-    )
+            <p className="setup__note">
+              Merk at nicknamet ditt og treffprosenten din blir synlig på topplista for andre innloggede spillere.
+              Fødselsår og land vises aldri der.
+            </p>
+          </>
+        )}
+
+        {error && <p className="pill pill--bad">{error}</p>}
+
+        <button
+          type="button"
+          className="btn btn--primary btn--lg"
+          disabled={busy || !canSubmit}
+          onClick={() => void submit()}
+        >
+          {busy ? 'Et øyeblikk …' : mode === 'ny' ? 'Opprett profil' : 'Logg inn'}
+        </button>
+
+        {mode === 'ny' && localRounds > 0 && (
+          <p className="setup__note">
+            De {localRounds} rundene du allerede har spilt på denne enheten følger med når du oppretter profilen.
+          </p>
+        )}
+      </div>
+    </>
+  )
+}
+
+/* ------------------------------------------------------------------ profil */
+
+function ProfilePanel({ profile, onProfile }: { profile: Profile; onProfile: (p: Profile) => void }) {
+  const [birthYear, setBirthYear] = useState(profile.birthYear ? String(profile.birthYear) : '')
+  const [country, setCountry] = useState(profile.country ?? '')
+  const [currentPassword, setCurrentPassword] = useState('')
+  const [newPassword, setNewPassword] = useState('')
+  const [note, setNote] = useState<string | null>(null)
+  const [error, setError] = useState<string | null>(null)
+  const [busy, setBusy] = useState(false)
+  const [confirmDelete, setConfirmDelete] = useState(false)
+
+  const mine = totals(loadSessions())
+
+  async function run(fn: () => Promise<string>) {
+    setBusy(true)
+    setError(null)
+    setNote(null)
+    try {
+      setNote(await fn())
+    } catch (e) {
+      setError(e instanceof Error ? e.message : 'Noe gikk galt')
+    } finally {
+      setBusy(false)
+    }
   }
-
-  /* ------------------------------------------------------------ innlogget */
 
   return (
     <>
       <div className="page-head">
         <p className="eyebrow">Profil</p>
-        <h1>{profile.displayName}</h1>
-        <p>Kontoen din, vennekoden og nøkkelen som tar deg hit fra en annen enhet.</p>
+        <h1>{profile.nickname}</h1>
+        <p>
+          {mine.rounds} runder spilt på denne enheten, {pct(mine.correct, mine.total)} % riktige.
+        </p>
       </div>
 
-      {notice && <p className="pill">{notice}</p>}
-
-      <section className="section">
-        <div className="section__head">
-          <h2>Deg</h2>
-        </div>
-        <div className="stat-grid">
-          <div className="stat-tile">
-            <div className="stat-tile__value tabular">{pct(mine.correct, mine.total)}%</div>
-            <div className="stat-tile__label">Treffprosent totalt</div>
-          </div>
-          <div className="stat-tile">
-            <div className="stat-tile__value tabular">{mine.total}</div>
-            <div className="stat-tile__label">Spørsmål besvart</div>
-          </div>
-        </div>
-      </section>
-
-      <section className="section">
-        <div className="section__head">
-          <h2>Vennekode</h2>
-        </div>
+      <div className="stack">
         <div className="card card--pad stack">
-          <div className="row">
-            <span className="code-box">{profile.friendCode}</span>
-            <button
-              type="button"
-              className="btn btn--tiny"
-              onClick={() => void navigator.clipboard?.writeText(profile.friendCode ?? '')}
-            >
-              Kopier kode
-            </button>
-            <button type="button" className="btn btn--tiny btn--ghost" onClick={() => navigate('/venner')}>
-              Til venner
-            </button>
-          </div>
-          <p className="faint" style={{ fontSize: 'var(--step--1)' }}>
-            Del koden med noen du vil sammenligne deg med. Vennskap er gjensidig – dere ser hverandres uketall.
-          </p>
-        </div>
-      </section>
-
-      <section className="section">
-        <div className="section__head">
-          <h2>Visningsnavn</h2>
-        </div>
-        <div className="card card--pad stack">
+          <span className="setup__label">Fødselsår og land</span>
           <div className="row">
             <input
               className="input"
-              style={{ maxWidth: 260 }}
-              value={newName}
-              onChange={(e) => setNewName(e.target.value)}
-              placeholder={profile.displayName}
-              maxLength={40}
+              style={{ maxWidth: 140 }}
+              inputMode="numeric"
+              value={birthYear}
+              onChange={(e) => setBirthYear(e.target.value.replace(/\D/g, '').slice(0, 4))}
+              placeholder="Fødselsår"
             />
-            <button
-              type="button"
-              className="btn"
-              disabled={busy || newName.trim().length === 0 || newName.trim() === profile.displayName}
-              onClick={() =>
-                run(async () => {
-                  await renameAccount(newName.trim())
-                  setProfile(loadProfile())
-                  setNewName('')
-                  setNotice('Navnet er endret.')
-                })
-              }
+            <select
+              className="input"
+              style={{ maxWidth: 220 }}
+              value={country}
+              onChange={(e) => setCountry(e.target.value)}
+              aria-label="Land"
             >
-              Endre navn
-            </button>
-          </div>
-        </div>
-      </section>
-
-      <section className="section">
-        <div className="section__head">
-          <h2>Gjenopprettingsnøkkel</h2>
-        </div>
-        <div className="card card--pad stack">
-          <p className="faint" style={{ fontSize: 'var(--step--1)' }}>
-            Dette er hele innloggingen din. Mister du den, finnes det ingen vei tilbake til kontoen – vi har verken
-            e-postadressen din eller noen annen måte å kjenne deg igjen på. Lagre den i passordboka.
-          </p>
-          <div className="row">
-            <button type="button" className="btn btn--tiny" onClick={() => setShowKey((v) => !v)}>
-              {showKey ? 'Skjul' : 'Vis'} nøkkel
-            </button>
-            <button
-              type="button"
-              className="btn btn--tiny btn--ghost"
-              onClick={() => {
-                void navigator.clipboard?.writeText(profile.token ?? '')
-                setNotice('Nøkkelen er kopiert.')
-              }}
-            >
-              Kopier nøkkel
-            </button>
-          </div>
-          {showKey && (
-            <p className="funfact__source" style={{ wordBreak: 'break-all' }}>
-              <code>{profile.token}</code>
-            </p>
-          )}
-        </div>
-      </section>
-
-      <section className="section">
-        <div className="section__head">
-          <h2>Logg ut</h2>
-        </div>
-        <div className="card card--pad stack">
-          <p className="faint" style={{ fontSize: 'var(--step--1)' }}>
-            Kobler fra på denne enheten. Kontoen og tallene blir stående, og nøkkelen tar deg inn igjen.
-          </p>
-          <div className="row">
+              <option value="">Ikke oppgitt</option>
+              {COUNTRIES.map((c) => (
+                <option key={c.code} value={c.code}>
+                  {c.name}
+                </option>
+              ))}
+            </select>
             <button
               type="button"
               className="btn"
               disabled={busy}
-              onClick={() => {
-                logOut()
-                setProfile(loadProfile())
-                setNotice(null)
-              }}
+              onClick={() =>
+                run(async () => {
+                  onProfile(
+                    await updateProfile({
+                      birthYear: birthYear ? Number.parseInt(birthYear, 10) : null,
+                      country: country || null,
+                    }),
+                  )
+                  return 'Profilen er lagret.'
+                })
+              }
+            >
+              Lagre
+            </button>
+          </div>
+          <p className="setup__note">
+            Vises aldri på topplista. Tøm feltene og lagre for å fjerne opplysningene helt.
+            {profile.country ? ` Nå: ${COUNTRY_NAME.get(profile.country) ?? profile.country}.` : ''}
+          </p>
+        </div>
+
+        <div className="card card--pad stack">
+          <span className="setup__label">Bytt passord</span>
+          <div className="row">
+            <input
+              className="input"
+              style={{ maxWidth: 220 }}
+              type="password"
+              value={currentPassword}
+              onChange={(e) => setCurrentPassword(e.target.value)}
+              placeholder="Nåværende"
+              autoComplete="current-password"
+            />
+            <input
+              className="input"
+              style={{ maxWidth: 220 }}
+              type="password"
+              value={newPassword}
+              onChange={(e) => setNewPassword(e.target.value)}
+              placeholder="Nytt passord"
+              autoComplete="new-password"
+            />
+            <button
+              type="button"
+              className="btn"
+              disabled={busy || currentPassword.length < MIN_PASSWORD || newPassword.length < MIN_PASSWORD}
+              onClick={() =>
+                run(async () => {
+                  await changePassword(currentPassword, newPassword)
+                  setCurrentPassword('')
+                  setNewPassword('')
+                  return 'Passordet er byttet. Andre enheter er logget ut.'
+                })
+              }
+            >
+              Bytt
+            </button>
+          </div>
+        </div>
+
+        {note && <p className="pill pill--ok">{note}</p>}
+        {error && <p className="pill pill--bad">{error}</p>}
+
+        <div className="card card--pad">
+          <div className="row">
+            <button
+              type="button"
+              className="btn btn--ghost"
+              onClick={() => void logout().then(() => onProfile(loadProfile()))}
             >
               Logg ut
             </button>
-          </div>
-
-          {!confirmDelete ? (
-            <button
-              type="button"
-              className="btn btn--tiny btn--ghost"
-              style={{ alignSelf: 'flex-start' }}
-              onClick={() => setConfirmDelete(true)}
-            >
-              Slett kontoen
-            </button>
-          ) : (
-            <div className="stack stack--tight">
-              <p className="pill pill--bad">
-                Sletting fjerner kontoen, alle økter, all statistikk og alle vennskap på serveren. Det kan ikke angres.
-              </p>
-              <div className="row">
+            {!confirmDelete ? (
+              <button type="button" className="btn btn--ghost" onClick={() => setConfirmDelete(true)}>
+                Slett profilen
+              </button>
+            ) : (
+              <>
+                <span className="faint" style={{ fontSize: 'var(--step--1)' }}>
+                  Sletter kontoen og all statistikk på serveren. Rundene på denne enheten blir liggende.
+                </span>
                 <button
                   type="button"
-                  className="btn btn--primary"
-                  disabled={busy}
-                  onClick={() =>
-                    run(async () => {
-                      await deleteAccount()
-                      setProfile(loadProfile())
-                      setConfirmDelete(false)
-                      setNotice('Kontoen er slettet.')
-                    })
-                  }
+                  className="btn btn--tiny btn--verdict-bad"
+                  aria-pressed
+                  onClick={() => void deleteAccount().then(() => onProfile(loadProfile()))}
                 >
-                  Ja, slett alt
+                  Ja, slett
                 </button>
-                <button type="button" className="btn btn--ghost" onClick={() => setConfirmDelete(false)}>
+                <button type="button" className="btn btn--tiny" onClick={() => setConfirmDelete(false)}>
                   Avbryt
                 </button>
-              </div>
-            </div>
-          )}
+              </>
+            )}
+          </div>
         </div>
-      </section>
-
-      {error && <p className="pill pill--bad">{error}</p>}
+      </div>
     </>
   )
 }

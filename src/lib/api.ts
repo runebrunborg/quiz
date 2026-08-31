@@ -218,21 +218,28 @@ export async function removeFriend(id: string): Promise<void> {
   await call(`/friends/${encodeURIComponent(id)}`, { method: 'DELETE' })
 }
 
+export type LeaderboardPeriod = 'week' | 'all'
+export type LeaderboardScope = 'friends' | 'all'
+
 export interface LeaderboardEntry {
+  id: string
   rank: number
-  nickname: string
-  country: string | null
+  name: string
   correct: number
   total: number
-  accuracy: number
-  isMe: boolean
+  /** null når man ikke har svart på noe i perioden. */
+  pct: number | null
+  me: boolean
 }
 
-export async function leaderboard(period: 'all' | 'week'): Promise<{
-  period: string
-  minimum: number
+export interface Leaderboard {
+  scope: LeaderboardScope
+  period: LeaderboardPeriod
+  /** Minste antall besvarte spørsmål for å komme med. Null på vennelista. */
+  minAnswers: number
   entries: LeaderboardEntry[]
-  me: LeaderboardEntry | null
-}> {
-  return call(`/leaderboard?period=${period}`)
+}
+
+export async function fetchLeaderboard(scope: LeaderboardScope, period: LeaderboardPeriod): Promise<Leaderboard> {
+  return call(`/leaderboard?scope=${scope}&period=${period}`)
 }

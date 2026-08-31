@@ -4,7 +4,9 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["mytologi"],
+    "topics": [
+      "mytologi"
+    ],
     "prompt": {
       "nb": "I norrøn mytologi er ikke bare sola en person, men også dette himmellegemet: en ung mann som kjører sin vogn over himmelen hver natt, evig jaget av en ulv som en dag skal sluke ham ved ragnarok. Hva heter han?",
       "sv": "I nordisk mytologi är inte bara solen en person, utan även denna himlakropp: en ung man som kör sin vagn över himlen varje natt, ständigt jagad av en varg som en dag ska sluka honom vid ragnarök. Vad heter han?"
@@ -26,7 +28,10 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["dyr", "natur"],
+    "topics": [
+      "dyr",
+      "natur"
+    ],
     "prompt": {
       "nb": "Med en flat, skiveformet kropp uten egentlig hale kan denne fisken bli over tre meter lang og veie over to tonn – den er verdens tyngste beinfisk. Unge individer driver stadig oftere inn til norskekysten med Golfstrømmen. Hva heter fisken på norsk?",
       "sv": "Med en platt, skivformad kropp utan egentlig stjärt kan denna fisk bli över tre meter lång och väga över två ton – den är världens tyngsta benfisk. Unga individer driver allt oftare in till norska kusten med Golfströmmen. Vad heter fisken på norska?"
@@ -48,12 +53,17 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "Både denne tidsenheten og selve himmellegemet har samme opphav i norrønt: en runde med alle fasene ga menneskene et naturlig mål på tid lenge før kalendere fantes. Hva heter tidsenheten på norsk, omtrent tretti dager lang?",
       "sv": "Både denna tidsenhet och själva himlakroppen har samma ursprung i fornnordiskan: ett varv genom alla faserna gav människorna ett naturligt tidsmått långt innan kalendrar fanns. Vad heter tidsenheten på svenska – ungefär trettio dagar lång?"
     },
-    "answer": { "nb": "Måned", "sv": "Månad" },
+    "answer": {
+      "nb": "Måned",
+      "sv": "Månad"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Ordet begynner med de samme bokstavene som himmellegemet selv.",
@@ -70,7 +80,10 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["vitenskap", "geografi"],
+    "topics": [
+      "vitenskap",
+      "geografi"
+    ],
     "prompt": {
       "nb": "20. mars 2015 ble det midt på formiddagen mørkt som om natten på denne norske øygruppen. Sammen med Færøyene var dette et av svært få steder på fastlandet der man kunne oppleve total solformørkelse den dagen, og turister strømmet til Longyearbyen. Hvilken øygruppe var dette?",
       "sv": "Den 20 mars 2015 blev det mitt på förmiddagen mörkt som på natten på denna norska ögrupp. Tillsammans med Färöarna var detta en av mycket få platser på fastlandet där man kunde uppleva total solförmörkelse den dagen, och turister strömmade till Longyearbyen. Vilken ögrupp var detta?"
@@ -92,7 +105,9 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "På engelsk kalles perioden rett etter et bryllup for «honeymoon» – månen som gradvis avtar, akkurat som den nygifte lykken visstnok gjorde ifølge en gammel forestilling. Det svenske ordet for det samme følger nøyaktig samme logikk og inneholder rett og slett et ord for måned. Hva er det svenske ordet?",
       "sv": "På engelska kallas perioden direkt efter ett bröllop för «honeymoon» – månen som gradvis avtar, precis som den nygifta lyckan enligt en gammal föreställning sades göra. Det svenska ordet för samma sak följer exakt samma logik och innehåller helt enkelt ett ord för månad. Vad är det svenska ordet?"
@@ -114,7 +129,9 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["spill"],
+    "topics": [
+      "spill"
+    ],
     "prompt": {
       "nb": "I dette svenskutviklede byggespillet, verdens mest solgte videospill gjennom tidene, går månen gjennom åtte synlige faser om natten. Ved fullmåne dukker det opp flest slimmonstre i sumpene, og svarte katter får større sjanse for å spawne. Hvilket spill er dette?",
       "sv": "I detta svenskutvecklade byggspel, världens mest sålda dataspel genom tiderna, går månen igenom åtta synliga faser på natten. Vid fullmåne dyker det upp flest slime-monster i träsken, och svarta katter får större chans att spawna. Vilket spel är detta?"
@@ -136,14 +153,20 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["romfart", "historie"],
+    "topics": [
+      "romfart",
+      "historie"
+    ],
     "prompt": {
       "nb": "20. juli 1969 klatret han ned landingsfartøyets stige som andre mann, rundt femten minutter etter kollegaen sin. Før det hadde han, som troende presbyterianer, tatt nattverd alene i romfartøyet – den første religiøse handlingen utført på månen. Hvem var han?",
       "sv": "Den 20 juli 1969 klättrade han ner för landningsfarkostens stege som andra man, omkring femton minuter efter sin kollega. Innan dess hade han, som troende presbyterian, tagit nattvarden ensam i rymdfarkosten – den första religiösa handlingen som utförts på månen. Vem var han?"
     },
     "answer": "Buzz Aldrin",
     "answerKind": "person",
-    "person": { "given": "Buzz", "family": "Aldrin" },
+    "person": {
+      "given": "Buzz",
+      "family": "Aldrin"
+    },
     "hint": {
       "nb": "Kallenavnet hans kommer fra søsterens barnlige uttale av «brother», og han har vært president for National Space Society.",
       "sv": "Smeknamnet kommer från systerns barnsliga uttal av «brother», och han har varit ordförande för National Space Society."
@@ -159,12 +182,17 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Månen bruker nøyaktig like lang tid på å rotere rundt sin egen akse som på å gå en runde rundt jorden. Derfor ser vi alltid den samme siden av den, mens baksiden forble ukjent for menneskeheten til en sovjetisk sonde fotograferte den i 1959. Hva kalles dette fenomenet?",
       "sv": "Månen använder exakt lika lång tid på att rotera runt sin egen axel som på att gå ett varv runt jorden. Därför ser vi alltid samma sida av den, medan baksidan förblev okänd för mänskligheten tills en sovjetisk sond fotograferade den 1959. Vad kallas detta fenomenet?"
     },
-    "answer": { "nb": "Bundet rotasjon", "sv": "Bunden rotation" },
+    "answer": {
+      "nb": "Bundet rotasjon",
+      "sv": "Bunden rotation"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "På engelsk kalles fenomenet «tidal locking», og det skyldes jordens tidevannskrefter på månen gjennom milliarder av år.",
@@ -181,7 +209,10 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["romfart", "geografi"],
+    "topics": [
+      "romfart",
+      "geografi"
+    ],
     "prompt": {
       "nb": "23. august 2023 satte et indisk fartøy seg forsiktig ned nær månens sørpol, som det fjerde landet noensinne til å lykkes med en myk landing der – og det første nær sørpolen. Suksessen ble feiret over hele India og fulgt direkte på TV. Hvilket oppdrag var dette?",
       "sv": "Den 23 augusti 2023 landade en indisk farkost mjukt nära månens sydpol, som det fjärde landet någonsin att lyckas med en mjuk landning där – och det första nära sydpolen. Framgången firades i hela Indien och följdes direkt på TV. Vilket uppdrag var detta?"
@@ -203,7 +234,9 @@
     "category": "manen",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["musikk"],
+    "topics": [
+      "musikk"
+    ],
     "prompt": {
       "nb": "Richard Rodgers og Lorenz Hart skrev melodien flere ganger med ulike tekster før den fikk sin endelige, mest kjente tittel i 1934. Tjue år senere spilte en ung sanger fra Memphis inn en langsom, spøkelsesaktig versjon som senere ble gitt ut som singel av det store plateselskapet hans. Hva heter sangen?",
       "sv": "Richard Rodgers och Lorenz Hart skrev melodin flera gånger med olika texter innan den fick sin slutgiltiga, mest kända titel 1934. Tjugo år senare spelade en ung sångare från Memphis in en långsam, spöklik version som senare gavs ut som singel av hans stora skivbolag. Vad heter låten?"
@@ -225,7 +258,10 @@
     "category": "manen",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["politikk", "teknologi"],
+    "topics": [
+      "politikk",
+      "teknologi"
+    ],
     "prompt": {
       "nb": "I nyttårstalen sin i 2007 lovet statsministeren at Norge skulle fange og lagre CO2 fra et gasskraftverk på Vestlandet i full skala – og kalte det landets svar på et berømt internasjonalt teknologikappløp fra 1960-tallet. Prosjektet ble senere kraftig nedskalert. Hvilket industristed gjaldt satsingen?",
       "sv": "I sitt nyårstal 2007 lovade statsministern att Norge skulle fånga in och lagra koldioxid från ett gaskraftverk på västlandet i full skala – och kallade det landets svar på en berömd internationell teknikkapplöpning från 1960-talet. Projektet skalades senare kraftigt ner. Vilken industriort gällde satsningen?"
@@ -247,7 +283,10 @@
     "category": "manen",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["geografi", "teknologi"],
+    "topics": [
+      "geografi",
+      "teknologi"
+    ],
     "prompt": {
       "nb": "Tidevannet langs norskekysten styres i hovedsak av månens gravitasjon, og et statlig fagorgan beregner og publiserer varsler for dette time for time langs hele kysten gjennom tjenesten «Se havnivå». Hvilket norsk fagorgan står bak tjenesten?",
       "sv": "Tidvattnet längs den norska kusten styrs i huvudsak av månens gravitation, och en statlig myndighet beräknar och publicerar varsel för detta timme för timme längs hela kusten genom tjänsten «Se havnivå». Vilken norsk myndighet står bakom tjänsten?"
@@ -269,14 +308,19 @@
     "category": "manen",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["romfart"],
+    "topics": [
+      "romfart"
+    ],
     "prompt": {
       "nb": "Nær Månens nordpol ligger et 46 kilometer bredt krater som er så vanskelig å se fra jorden at det helst må studeres fra bane. Det bærer navnet til en norsk polarhelt, forsker og senere fredsprisvinner. Hvem er krateret oppkalt etter?",
       "sv": "Nära Månens nordpol ligger en 46 kilometer bred krater som är så svår att se från jorden att den helst måste studeras från omloppsbana. Den bär namnet på en norsk polarhjälte, forskare och senare fredspristagare. Vem är kratern uppkallad efter?"
     },
     "answer": "Fridtjof Nansen",
     "answerKind": "person",
-    "person": { "given": "Fridtjof", "family": "Nansen" },
+    "person": {
+      "given": "Fridtjof",
+      "family": "Nansen"
+    },
     "hint": {
       "nb": "Han krysset Grønlandsisen i 1888 og fikk Nobels fredspris i 1922 for arbeidet med flyktninger.",
       "sv": "Han korsade Grönlandsisen 1888 och fick Nobels fredspris 1922 för sitt arbete med flyktingar."
@@ -292,7 +336,9 @@
     "category": "manen",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "Flere ukedager er oppkalt etter norrøne guder – tirsdag etter Tyr, onsdag etter Odin, torsdag etter Tor. Den svenske stavemåten av ukens første virkedag har beholdt en bokstav fra selve himmellegemet i denne quizen, en bokstav som er falt bort i den norske skrivemåten. Hvilken svensk ukedag er dette?",
       "sv": "Flera veckodagar är uppkallade efter fornnordiska gudar – tisdag efter Tyr, onsdag efter Oden, torsdag efter Tor. Den svenska stavningen av veckans första vardag har behållit en bokstav från själva himlakroppen i denna frågesport, en bokstav som fallit bort i den norska skrivningen. Vilken svensk veckodag är detta?"
@@ -314,14 +360,19 @@
     "category": "manen",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "På månens bortside, inne i det enorme Mendel-Rydberg-bassenget, ligger et krater oppkalt etter en svensk kjemiker. Han ble i 1903 den aller første svenske Nobelprisvinneren, og han var også den første som regnet ut hvordan menneskeskapte CO2-utslipp kunne varme opp jordens klima. Hvem het han?",
       "sv": "På månens baksida, inne i det enorma Mendel-Rydberg-bassängen, ligger en krater uppkallad efter en svensk kemist. Han blev 1903 den allra första svenska Nobelpristagaren, och han var också den förste att räkna ut hur mänskligt orsakade koldioxidutsläpp kunde värma upp jordens klimat. Vad hette han?"
     },
     "answer": "Svante Arrhenius",
     "answerKind": "person",
-    "person": { "given": "Svante", "family": "Arrhenius" },
+    "person": {
+      "given": "Svante",
+      "family": "Arrhenius"
+    },
     "hint": {
       "nb": "Etternavnet er også navnet på en berømt ligning innen kjemisk kinetikk.",
       "sv": "Efternamnet är också namnet på en berömd ekvation inom kemisk kinetik."
@@ -337,29 +388,42 @@
     "category": "manen",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["mytologi", "sprak"],
+    "topics": [
+      "mytologi",
+      "litteratur"
+    ],
     "prompt": {
-      "nb": "Denne romerske gudinnen ga navn til alt som har med månen å gjøre i moderne fagspråk, og lenge trodde man at fullmåne kunne gjøre folk sinnssyke, noe som ga opphav til det engelske ordet for galning. Hva het gudinnen?",
-      "sv": "Denna romerska gudinna gav namn åt allt som har med månen att göra i modernt fackspråk, och länge trodde man att fullmåne kunde göra folk sinnessjuka, vilket gav upphov till det engelska ordet för dåre. Vad hette gudinnan?"
+      "nb": "I gresk mytologi kjører hun over nattehimmelen med en vogn trukket av hester, og er søster til solguden Helios. Den mest kjente myten om henne handler om gjeteren Endymion, som hun får til å sove evig for at han aldri skal eldes. Hva het hun?",
+      "sv": "I grekisk mytologi kör hon över natthimlen med en vagn dragen av hästar och är syster till solguden Helios. Den mest kända myten om henne handlar om herden Endymion, som hon får att sova evigt för att han aldrig ska åldras. Vad hette hon?"
     },
-    "answer": "Luna",
-    "answerKind": "annet",
+    "answer": {
+      "nb": "Selene",
+      "sv": "Selene"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": "Selene",
+      "family": "Selene"
+    },
     "hint": {
-      "nb": "Navnet hennes er rett og slett det latinske ordet for månen.",
-      "sv": "Hennes namn är helt enkelt det latinska ordet för månen."
+      "nb": "Navnet lever videre i grunnstoffet selen og i ordet selenologi – studiet av månen.",
+      "sv": "Namnet lever vidare i grundämnet selen och i ordet selenologi – studiet av månen."
     },
     "funFact": {
-      "nb": "Det engelske ordet «lunatic» kommer nettopp av troen på at månefaser kunne påvirke sinnstilstanden. Moderne forskning har ikke funnet noen holdbar sammenheng mellom fullmåne og for eksempel søvnløshet eller aggresjon.",
-      "sv": "Det engelska ordet «lunatic» kommer just från tron att månfaser kunde påverka sinnestillståndet. Modern forskning har inte hittat något hållbart samband mellan fullmåne och till exempel sömnlöshet eller aggression."
+      "nb": "Grunnstoffet selen ble oppkalt etter henne av Jöns Jacob Berzelius i 1817, som en parallell til tellur, oppkalt etter jorden.",
+      "sv": "Grundämnet selen namngavs efter henne av Jöns Jacob Berzelius 1817, som en parallell till tellur, uppkallat efter jorden."
     },
-    "source": "Britannica – Luna (Roman mythology); Online Etymology Dictionary – lunatic"
+    "source": "Theoi Project – Selene; Royal Society of Chemistry – selenium"
   },
   {
     "id": "manen-m-17",
     "category": "manen",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["popkultur", "film"],
+    "topics": [
+      "popkultur",
+      "film"
+    ],
     "prompt": {
       "nb": "Hovedpersonen i denne populære japanske tegneserien og animeserien fra tidlig 1990-tall heter Usagi Tsukino, der etternavnet bokstavelig betyr «av månen» på japansk. Under kamp forvandler hun seg til en soldat med samme himmellegeme i navnet sitt. Hvilken serie er dette?",
       "sv": "Huvudpersonen i denna populära japanska tecknade serie och animeserie från tidigt 1990-tal heter Usagi Tsukino, vars efternamn bokstavligen betyder «av månen» på japanska. Under strid förvandlas hon till en soldat med samma himlakropp i sitt namn. Vilken serie är detta?"
@@ -381,12 +445,17 @@
     "category": "manen",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Denne fullmånen er den som ligger nærmest høstjevndøgn, og den skiller seg ut ved at den ser ut til å stige opp på nesten samme klokkeslett flere kvelder på rad. Tradisjonelt ga dette bønder ekstra lys til å høste avlingen sent på kvelden. Hva kalles denne spesielle fullmånen?",
       "sv": "Denna fullmåne är den som infaller närmast höstdagjämningen, och den utmärker sig genom att den verkar gå upp vid nästan samma klockslag flera kvällar i rad. Traditionellt gav detta bönder extra ljus att skörda grödan sent på kvällen. Vad kallas denna speciella fullmåne?"
     },
-    "answer": { "nb": "Høstmåne", "sv": "Skördemåne" },
+    "answer": {
+      "nb": "Høstmåne",
+      "sv": "Skördemåne"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Den henger sammen med at månens bane den aktuelle tiden av året ligger nesten parallelt med horisonten.",
@@ -403,7 +472,9 @@
     "category": "manen",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["religion"],
+    "topics": [
+      "religion"
+    ],
     "prompt": {
       "nb": "Denne flerdagers lysfestivalen følger den hinduistiske månekalenderen og faller alltid på nymåne i måneden kartika, vanligvis i oktober eller november. Hus og gater pyntes med oljelamper, og festen feires også av jainister og sikher. Hvilken festival er dette?",
       "sv": "Denna flerdagars ljusfestival följer den hinduiska månkalendern och infaller alltid på nymåne i månaden kartika, vanligtvis i oktober eller november. Hus och gator pryds med oljelampor, och festen firas också av jainister och sikher. Vilken festival är detta?"
@@ -425,7 +496,9 @@
     "category": "manen",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "Den kinesiske sonden Chang'e 4 lander som første romfartøy noensinne på månens bortside. Boris Johnson blir britisk statsminister. Voldsomme protester bryter ut i Hongkong. Strømmetjenesten Disney+ lanseres. Notre-Dame-katedralen i Paris rammes av en enorm brann. Greta Thunberg holder sin brennende FN-tale. TV-serien «Game of Thrones» sendes for siste gang. Prins Harry og Meghan får sønnen Archie. Moteskaperen Karl Lagerfeld dør. Hvilket år?",
       "sv": "Den kinesiska sonden Chang'e 4 landar som första rymdfarkost någonsin på månens baksida. Boris Johnson blir brittisk premiärminister. Våldsamma protester bryter ut i Hongkong. Strömningstjänsten Disney+ lanseras. Notre-Dame-katedralen i Paris drabbas av en enorm brand. Greta Thunberg håller sitt brinnande FN-tal. TV-serien «Game of Thrones» sänds för sista gången. Prins Harry och Meghan får sonen Archie. Modeskaparen Karl Lagerfeld dör. Vilket år?"
@@ -447,14 +520,19 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["kunst"],
+    "topics": [
+      "kunst"
+    ],
     "prompt": {
       "nb": "Rundt år 1900 malte denne norske kunstneren, mest kjent for troll og nøkken i norsk folketro, et bilde av kornstaur som står igjen på et jorde og bades i lys fra nattehimmelen – med selve lyskilden rett i tittelen. Hvem malte bildet?",
       "sv": "Omkring år 1900 målade denna norska konstnär, mest känd för troll och näcken i norsk folktro, en tavla av sädesskylar som står kvar på ett fält och badas i ljus från nattehimlen – med själva ljuskällan rakt i titeln. Vem målade tavlan?"
     },
     "answer": "Theodor Kittelsen",
     "answerKind": "person",
-    "person": { "given": "Theodor", "family": "Kittelsen" },
+    "person": {
+      "given": "Theodor",
+      "family": "Kittelsen"
+    },
     "hint": {
       "nb": "Han illustrerte også Asbjørnsen og Moes folkeeventyr og malte «Pesta» og «Skogtroll».",
       "sv": "Han illustrerade också Asbjørnsen och Moes folksagor och målade «Pesta» och «Skogtroll»."
@@ -470,7 +548,10 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["natur", "geografi"],
+    "topics": [
+      "natur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "I Gjesdal kommune i Rogaland stuper elva Månaåna 92 meter i ett samlet fall gjennom et trangt juv, og navnet på fossen er identisk med himmellegemet i denne quizen. En 250 meter lang klopp fører turgåere de siste meterne fram til utsiktspunktet. Hva heter fossen?",
       "sv": "I Gjesdals kommun i Rogaland störtar älven Månaåna 92 meter i ett samlat fall genom en trång ravin, och namnet på fallet är identiskt med himlakroppen i denna frågesport. En 250 meter lång spång leder vandrare de sista metrarna fram till utsiktsplatsen. Vad heter fallet?"
@@ -492,7 +573,10 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["romfart", "teknologi"],
+    "topics": [
+      "romfart",
+      "teknologi"
+    ],
     "prompt": {
       "nb": "Europas aller første sonde til månen ble utviklet av et svensk romfartsselskap og satt sammen hos Saab Space i Linköping. Den brukte en energigjerrig ionmotor til å spiralere seg sakte utover fra jorden, og oppdraget endte med at sonden styrtet med vilje i månens overflate i 2006. Hva het sonden?",
       "sv": "Europas allra första sond till månen utvecklades av ett svenskt rymdföretag och monterades hos Saab Space i Linköping. Den använde en energisnål jonmotor för att långsamt spiralera sig utåt från jorden, och uppdraget slutade med att sonden med avsikt kraschade i månens yta 2006. Vad hette sonden?"
@@ -514,7 +598,10 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["mytologi", "religion"],
+    "topics": [
+      "mytologi",
+      "religion"
+    ],
     "prompt": {
       "nb": "I denne førkristne, urfolksbaserte religionen fra Nord-Skandinavia har solen sin egen gudinne, Beaivi. Også dette himmellegemet i quizen hadde sin egen guddom, ofte omtalt under navnet Mano eller Manna. Hvilket urfolk hadde denne religionen?",
       "sv": "I denna förkristna, urfolksbaserade religion från norra Skandinavien har solen sin egen gudinna, Beaivi. Även denna himlakropp i frågesporten hade sin egen gudom, ofta omtalad under namnet Mano eller Manna. Vilket urfolk hade denna religionen?"
@@ -536,14 +623,19 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["musikk"],
+    "topics": [
+      "musikk"
+    ],
     "prompt": {
       "nb": "Trommeslageren i et av Storbritannias mest kjente rockeband var beryktet for sin voldsomme sceneopptreden og et enda villere liv utenfor scenen – deriblant flere ødelagte hotellrom og minst én bil i et svømmebasseng. Etternavnet hans er identisk med himmellegemet i denne quizen. Hvem var han?",
       "sv": "Trumslagaren i ett av Storbritanniens mest kända rockband var beryktad för sitt våldsamma scenframträdande och ett ännu vildare liv utanför scenen – däribland flera förstörda hotellrum och minst en bil i en swimmingpool. Hans efternamn är identiskt med himlakroppen i denna frågesport. Vem var han?"
     },
     "answer": "Keith Moon",
     "answerKind": "person",
-    "person": { "given": "Keith", "family": "Moon" },
+    "person": {
+      "given": "Keith",
+      "family": "Moon"
+    },
     "hint": {
       "nb": "Bandet han spilte i står bak låter som «My Generation» og rockeoperaen «Tommy».",
       "sv": "Bandet han spelade i ligger bakom låtar som «My Generation» och rockoperan «Tommy»."
@@ -559,14 +651,19 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["politikk"],
+    "topics": [
+      "politikk"
+    ],
     "prompt": {
       "nb": "Denne søkoreanske juristen og tidligere spesialstyrke-soldaten var president i sitt hjemland fra 2017 til 2022 og førte en forsonende linje overfor nabolandet i nord, med flere historiske toppmøter. Etternavnet hans er identisk med himmellegemet i denne quizen. Hvem er han?",
       "sv": "Denna sydkoreanska jurist och tidigare specialförbandssoldat var president i sitt hemland från 2017 till 2022 och förde en försonande linje gentemot grannlandet i norr, med flera historiska toppmöten. Hans efternamn är identiskt med himlakroppen i denna frågesport. Vem är han?"
     },
     "answer": "Moon Jae-in",
     "answerKind": "person",
-    "person": { "given": "Jae-in", "family": "Moon" },
+    "person": {
+      "given": "Jae-in",
+      "family": "Moon"
+    },
     "hint": {
       "nb": "Han møtte Nord-Koreas leder Kim Jong-un flere ganger, blant annet i den demilitariserte sonen i 2018.",
       "sv": "Han träffade Nordkoreas ledare Kim Jong-un flera gånger, bland annat i den demilitariserade zonen 2018."
@@ -582,7 +679,9 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["litteratur"],
+    "topics": [
+      "litteratur"
+    ],
     "prompt": {
       "nb": "I Japans eldste bevarte fortelling, trolig skrevet på 800-tallet, blir en prinsesse fra dette himmellegemet i quizen funnet som spedbarn inne i en glødende bambusstilk. Til slutt må hun forlate sin jordiske familie og vende hjem dit hun kommer fra – en historie Studio Ghibli filmatiserte i 2013. Hva heter prinsessen?",
       "sv": "I Japans äldsta bevarade berättelse, troligen skriven på 800-talet, hittas en prinsessa från denna himlakropp i frågesporten som spädbarn inuti en glödande bambustjälk. Till slut måste hon lämna sin jordiska familj och vända hem dit hon kommer ifrån – en historia som Studio Ghibli filmatiserade 2013. Vad heter prinsessan?"
@@ -604,7 +703,9 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["film"],
+    "topics": [
+      "film"
+    ],
     "prompt": {
       "nb": "I denne romantiske komedien fra 1987 spiller hovedrollen en newyorksk enke som blir forelsket i sin forlovedes bror mens fullmånen skinner over Brooklyn. Filmens tittel er selve himmellegemet i quizen pluss et adjektiv for å være hodestups forelsket. Hvem vant Oscar for beste kvinnelige hovedrolle for denne filmen?",
       "sv": "I denna romantiska komedi från 1987 spelar huvudrollen en änka från New York som blir förälskad i sin fästmans bror medan fullmånen lyser över Brooklyn. Filmens titel är själva himlakroppen i frågesporten plus ett adjektiv för att vara hopplöst förälskad. Vem vann en Oscar för bästa kvinnliga huvudroll för denna film?"
@@ -626,7 +727,10 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["mytologi", "popkultur"],
+    "topics": [
+      "mytologi",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "I det gamle Egypt bar den unge månegudens skikkelse ofte en øyenslange og en halvmåneskive på hodet. I 2022 fikk han fornyet oppmerksomhet som den mytologiske kraftkilden bak en Marvel-superhelt på Disney+. Hva het den egyptiske guden?",
       "sv": "I det gamla Egypten bar den unge mångudens gestalt ofta en uraeuskobra och en halvmåneskiva på huvudet. År 2022 fick han förnyad uppmärksamhet som den mytologiska kraftkällan bakom en Marvel-superhjälte på Disney+. Vad hette den egyptiska guden?"
@@ -648,14 +752,19 @@
     "category": "manen",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["musikk"],
+    "topics": [
+      "musikk"
+    ],
     "prompt": {
       "nb": "Dette amerikanske rockebandet fra Athens i Georgia hyllet en kontroversiell komiker og entertainer i en sang fra 1992-albumet «Automatic for the People». Sangens tittel er hentet fra et uttrykk for menneskehetens største bragd i romfarten. Hvem handlet sangen om?",
       "sv": "Detta amerikanska rockband från Athens i Georgia hyllade en kontroversiell komiker och underhållare i en låt från 1992 års album «Automatic for the People». Låtens titel är hämtad från ett uttryck för mänsklighetens största bedrift inom rymdfarten. Vem handlade låten om?"
     },
     "answer": "Andy Kaufman",
     "answerKind": "person",
-    "person": { "given": "Andy", "family": "Kaufman" },
+    "person": {
+      "given": "Andy",
+      "family": "Kaufman"
+    },
     "hint": {
       "nb": "Komikeren var kjent for absurd humor uten tydelig fasit på hva som var ekte, og døde av kreft i 1984, bare 35 år gammel.",
       "sv": "Komikern var känd för absurd humor utan tydligt facit på vad som var äkta, och dog i cancer 1984, bara 35 år gammal."
