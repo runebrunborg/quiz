@@ -21,9 +21,9 @@ export default function BankScreen() {
         </h1>
         <p>
           {CATEGORIES.length} temaer × {DIFFICULTIES.length} nivåer × {POOL_TARGET} spørsmål. Hver runde trekker{' '}
-          {QUESTIONS_PER_ROUND} fra puljen, vektet mot utgangspunktet du velger – jo større pulje, jo mer skiller
-          norsk, svensk og internasjonalt seg fra hverandre. Grønn prikk = nivået er fullt. Be Claude fylle på et
-          tema, så dukker det opp her.
+          {QUESTIONS_PER_ROUND} fra puljen etter kvote: velger du norsk blir fem norskforankrede, to svenske og tre
+          internasjonale. En norsk og en svensk runde av samme tema deler derfor bare rundt halvparten av
+          spørsmålene. Grønn prikk = nivået er fullt. Be Claude fylle på et tema, så dukker det opp her.
         </p>
       </div>
 
