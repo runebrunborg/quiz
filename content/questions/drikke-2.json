@@ -53,8 +53,8 @@
     "origin": "int",
     "topics": ["historie", "okonomi"],
     "prompt": {
-      "nb": "En dansk brygger med stor interesse for vitenskap grunnla i 1847 et bryggeri på en høyde utenfor København. Han oppkalte det etter sønnen sin Carl og selve høyden anlegget lå på. Hvilket bryggeri?",
-      "sv": "En dansk bryggare med stort intresse för vetenskap grundade 1847 ett bryggeri på en höjd utanför Köpenhamn. Han uppkallade det efter sin son Carl och själva höjden anläggningen låg på. Vilket bryggeri?"
+      "nb": "En dansk brygger med stor interesse for vitenskap grunnla i 1847 et bryggeri på en høyde utenfor København. Han satte navnet sammen av fornavnet til sønnen sin og selve høyden anlegget lå på. Hvilket bryggeri?",
+      "sv": "En dansk bryggare med stort intresse för vetenskap grundade 1847 ett bryggeri på en höjd utanför Köpenhamn. Han satte samman namnet av sin sons förnamn och själva höjden anläggningen låg på. Vilket bryggeri?"
     },
     "answer": "Carlsberg",
     "answerKind": "annet",

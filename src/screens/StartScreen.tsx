@@ -7,6 +7,7 @@ import { Segmented } from '../components/Segmented'
 import {
   ALL_QUESTIONS,
   CATEGORIES,
+  categoriesWithContent,
   CATEGORY_BY_ID,
   makeRng,
   POOL_TARGET,
@@ -27,8 +28,13 @@ export default function StartScreen() {
 
   // Ny rekkefølge hver gang skjermen åpnes, så det ikke alltid er Blå som møter
   // deg først. Rekkefølgen ligger fast mens du står på siden.
+  //
+  // Bare temaer som faktisk har spørsmål vises her. Et tema kan være registrert
+  // i content/categories.ts før puljen er skrevet – da hører det hjemme på
+  // bankskjermen som et hull, ikke på startskjermen som et kort du ikke kan
+  // spille. Måltallet under teller fortsatt alle temaer, også de tomme.
   const shuffledCategories = useMemo(
-    () => shuffle(CATEGORIES, makeRng(`${Date.now()}-${Math.random()}`)),
+    () => shuffle(categoriesWithContent(), makeRng(`${Date.now()}-${Math.random()}`)),
     [],
   )
 

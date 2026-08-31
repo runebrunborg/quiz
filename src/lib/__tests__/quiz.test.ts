@@ -1,7 +1,15 @@
 import { describe, expect, it } from 'vitest'
 import { DIFFICULTIES, TOPICS, langForRegion, t, type Difficulty, type Question } from '../../../shared/types'
 import { isoWeek, recentWeeks } from '../../../shared/time'
-import { ALL_QUESTIONS, CATEGORIES, makeRng, pickQuestions, poolFor, QUESTIONS_PER_ROUND } from '../content'
+import {
+  ALL_QUESTIONS,
+  CATEGORIES,
+  categoriesWithContent,
+  makeRng,
+  pickQuestions,
+  poolFor,
+  QUESTIONS_PER_ROUND,
+} from '../content'
 import { answerShape, firstLetter, hintCount, letterOptions, revealLetter } from '../hints'
 import { byTopic, byWeek, pct, totals } from '../stats'
 
@@ -147,14 +155,33 @@ describe('statistikk', () => {
 })
 
 describe('innholdsbanken', () => {
-  it('har ti spørsmål per tema og nivå', () => {
+  /**
+   * Et tema er enten tomt eller ferdig – aldri halvfylt.
+   *
+   * Temaer registreres i content/categories.ts før puljen er skrevet, så et
+   * tomt tema er en gyldig mellomtilstand: det vises som et hull på
+   * bankskjermen og holdes utenfor startskjermen. Det som ikke er gyldig er et
+   * tema med noen få spørsmål på ett nivå, for da kan en runde bli kortere enn
+   * ti. Denne testen fanger nettopp den tilstanden.
+   */
+  it('har enten null eller minst ti spørsmål per tema og nivå', () => {
     for (const category of CATEGORIES) {
-      for (const difficulty of DIFFICULTIES) {
-        expect(poolFor(category.id, difficulty).length, `${category.id}/${difficulty}`).toBeGreaterThanOrEqual(
-          QUESTIONS_PER_ROUND,
-        )
+      const counts = DIFFICULTIES.map((d) => poolFor(category.id, d).length)
+      if (counts.every((n) => n === 0)) continue
+      for (const [i, n] of counts.entries()) {
+        expect(n, `${category.id}/${DIFFICULTIES[i]}`).toBeGreaterThanOrEqual(QUESTIONS_PER_ROUND)
       }
     }
+  })
+
+  it('viser bare temaer med spørsmål på startskjermen', () => {
+    const playable = categoriesWithContent()
+    expect(playable.length).toBeGreaterThan(0)
+    for (const c of playable) {
+      expect(poolFor(c.id, 'lett').length + poolFor(c.id, 'medium').length + poolFor(c.id, 'vanskelig').length,
+        c.id).toBeGreaterThan(0)
+    }
+    expect(playable.length).toBeLessThanOrEqual(CATEGORIES.length)
   })
 
   it('har unike id-er', () => {
