@@ -1,4 +1,4 @@
-import type { Lang, Question } from '../../shared/types'
+import type { AskedQuestion, Lang, Question } from '../../shared/types'
 import { t } from '../../shared/types'
 
 export type LetterChoice = 'given' | 'family' | 'answer'
@@ -22,9 +22,17 @@ export function revealLetter(q: Question, lang: Lang, choice: LetterChoice): str
   return firstLetter(t(q.answer, lang))
 }
 
-/** Antall ord i svaret – vises sammen med bokstavhintet som ekstra drahjelp. */
+/** Antall bokstaver per ord i svaret – eget hint, uavhengig av bokstavhintene. */
 export function answerShape(q: Question, lang: Lang): string {
   const answer = t(q.answer, lang)
   const words = answer.split(/\s+/).filter(Boolean)
   return words.map((w) => '•'.repeat(Math.max(1, w.replace(/[^\p{L}\p{N}]/gu, '').length))).join(' ')
+}
+
+/**
+ * Antall hint brukt på ett spørsmål. Hvert hint teller ett og er uavhengig av
+ * de andre – rekkefølgen spiller ingen rolle.
+ */
+export function hintCount(a: Pick<AskedQuestion, 'usedTextHint' | 'usedShape' | 'usedLetters'>): number {
+  return (a.usedTextHint ? 1 : 0) + (a.usedShape ? 1 : 0) + (a.usedLetters?.length ?? 0)
 }

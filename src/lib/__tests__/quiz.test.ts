@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest'
 import { DIFFICULTIES, TOPICS, langForRegion, t, type Difficulty, type Question } from '../../../shared/types'
 import { isoWeek, recentWeeks } from '../../../shared/time'
 import { ALL_QUESTIONS, CATEGORIES, makeRng, pickQuestions, poolFor, QUESTIONS_PER_ROUND } from '../content'
-import { answerShape, firstLetter, letterOptions, revealLetter } from '../hints'
+import { answerShape, firstLetter, hintCount, letterOptions, revealLetter } from '../hints'
 import { byTopic, byWeek, pct, totals } from '../stats'
 
 describe('bokstavhint', () => {
@@ -37,6 +37,20 @@ describe('bokstavhint', () => {
     expect(revealLetter(q, 'sv', 'family')).toBe('B')
     expect(revealLetter(q, 'nb', 'answer')).toBe('H')
     expect(answerShape(q, 'nb')).toBe('•••••• •••••••')
+  })
+})
+
+describe('hint teller uavhengig', () => {
+  it('teller hvert hint for seg', () => {
+    expect(hintCount({ usedTextHint: false, usedShape: false, usedLetters: [] })).toBe(0)
+    expect(hintCount({ usedTextHint: true, usedShape: false, usedLetters: [] })).toBe(1)
+    expect(hintCount({ usedTextHint: false, usedShape: true, usedLetters: [] })).toBe(1)
+    expect(hintCount({ usedTextHint: false, usedShape: false, usedLetters: ['given', 'family'] })).toBe(2)
+    expect(hintCount({ usedTextHint: true, usedShape: true, usedLetters: ['answer'] })).toBe(3)
+  })
+
+  it('tåler økter lagret før hintene ble delt opp', () => {
+    expect(hintCount({ usedTextHint: false, usedShape: false, usedLetters: undefined as never })).toBe(0)
   })
 })
 
@@ -97,7 +111,9 @@ describe('statistikk', () => {
     questions: verdicts.map((v, i) => ({
       questionId: ALL_QUESTIONS[i].id,
       hintsUsed: 0,
-      usedLetter: null,
+      usedTextHint: false,
+      usedShape: false,
+      usedLetters: [],
       verdict: v,
     })),
   })

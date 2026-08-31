@@ -153,9 +153,14 @@ export interface Category {
 
 export interface AskedQuestion {
   questionId: string
-  /** Hint brukt: 0 = ingen, 1 = tekst-hint, 2 = også første bokstav. */
+  /** Totalt antall hint brukt på spørsmålet – summen av feltene under. */
   hintsUsed: number
-  usedLetter: 'given' | 'family' | 'answer' | null
+  /** Tekst-hintet er vist. */
+  usedTextHint: boolean
+  /** «Vis antall bokstaver» er brukt. */
+  usedShape: boolean
+  /** Bokstavhint som er avslørt. Hvert navn/ord kan avsløres for seg. */
+  usedLetters: ('given' | 'family' | 'answer')[]
   /** Selvvurdering etter at fasit er vist. */
   verdict: 'rett' | 'galt' | null
 }

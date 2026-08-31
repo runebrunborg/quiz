@@ -34,7 +34,14 @@ export default function PlayScreen() {
   )
 
   const [asked, setAsked] = useState<AskedQuestion[]>(() =>
-    questions.map((q) => ({ questionId: q.id, hintsUsed: 0, usedLetter: null, verdict: null })),
+    questions.map((q) => ({
+      questionId: q.id,
+      hintsUsed: 0,
+      usedTextHint: false,
+      usedShape: false,
+      usedLetters: [],
+      verdict: null,
+    })),
   )
   const [revealed, setRevealed] = useState(false)
   const [saved, setSaved] = useState(false)

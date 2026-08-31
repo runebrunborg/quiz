@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import type { AskedQuestion, Lang, Question } from '../../shared/types'
 import { t } from '../../shared/types'
-import { answerShape, letterOptions, revealLetter, type LetterChoice } from '../lib/hints'
+import { answerShape, hintCount, letterOptions, revealLetter, type LetterChoice } from '../lib/hints'
 import { ui } from '../lib/ui'
 
 interface Props {
@@ -18,9 +18,17 @@ export function QuestionCard({ index, question, asked, lang, revealed, onChange 
   const txt = ui(lang)
   const options = letterOptions(question)
 
-  const showHint = () => onChange({ ...asked, hintsUsed: Math.max(asked.hintsUsed, 1) })
-  const showLetter = (choice: LetterChoice) =>
-    onChange({ ...asked, hintsUsed: Math.max(asked.hintsUsed, 2), usedLetter: choice })
+  const usedLetters = asked.usedLetters ?? []
+
+  /** Hvert hint er uavhengig – vi setter bare sitt eget flagg og teller opp på nytt. */
+  const apply = (patch: Partial<AskedQuestion>) => {
+    const next = { ...asked, ...patch }
+    onChange({ ...next, hintsUsed: hintCount(next) })
+  }
+
+  const showHint = () => apply({ usedTextHint: true })
+  const showShape = () => apply({ usedShape: true })
+  const showLetter = (choice: LetterChoice) => apply({ usedLetters: [...usedLetters, choice] })
 
   const letterLabel = (choice: LetterChoice) =>
     choice === 'given' ? txt.firstLetterGiven : choice === 'family' ? txt.firstLetterFamily : txt.firstLetter
@@ -39,7 +47,7 @@ export function QuestionCard({ index, question, asked, lang, revealed, onChange 
 
       {!revealed && (
         <div className="q-actions">
-          <button type="button" className="btn btn--tiny" onClick={showHint} disabled={asked.hintsUsed >= 1}>
+          <button type="button" className="btn btn--tiny" onClick={showHint} disabled={asked.usedTextHint}>
             💡 {txt.showHint}
           </button>
           {options.map((choice) => (
@@ -48,29 +56,41 @@ export function QuestionCard({ index, question, asked, lang, revealed, onChange 
               type="button"
               className="btn btn--tiny"
               onClick={() => showLetter(choice)}
-              disabled={asked.usedLetter !== null}
+              disabled={usedLetters.includes(choice)}
             >
               🔤 {letterLabel(choice)}
             </button>
           ))}
+          <button type="button" className="btn btn--tiny" onClick={showShape} disabled={asked.usedShape}>
+            🔢 {txt.letterCount}
+          </button>
         </div>
       )}
 
-      {asked.hintsUsed >= 1 && (
+      {asked.usedTextHint && (
         <p className="q-hint">
           <strong>{txt.hint}:</strong> {t(question.hint, lang)}
         </p>
       )}
 
-      {asked.usedLetter && (
+      {options
+        .filter((choice) => usedLetters.includes(choice))
+        .map((choice) => (
+          <p
+            key={choice}
+            className="q-hint"
+            style={{ display: 'flex', alignItems: 'center', gap: 'var(--sp-3)' }}
+          >
+            <span className="letter-chip">{revealLetter(question, lang, choice)}</span>
+            <strong>{letterLabel(choice)}</strong>
+          </p>
+        ))}
+
+      {asked.usedShape && (
         <p className="q-hint" style={{ display: 'flex', alignItems: 'center', gap: 'var(--sp-3)' }}>
-          <span className="letter-chip">{revealLetter(question, lang, asked.usedLetter)}</span>
-          <span>
-            <strong>{letterLabel(asked.usedLetter)}</strong>
-            <br />
-            <span className="faint" style={{ letterSpacing: '0.14em' }}>
-              {answerShape(question, lang)}
-            </span>
+          <strong>{txt.letterCount}:</strong>
+          <span className="faint" style={{ letterSpacing: '0.14em' }}>
+            {answerShape(question, lang)}
           </span>
         </p>
       )}
