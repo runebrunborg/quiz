@@ -1,7 +1,7 @@
 import type { Category } from '../shared/types'
 
 /**
- * De 20 temaene. `scene` peker på en SVG-scene i `src/themes/scenes.tsx`.
+ * Temaene. `scene` peker på en SVG-scene i `src/themes/scenes.tsx`.
  * `gradient` er to fargestopp som brukes på kategorikortet og som
  * bakgrunnsstemning under spillet.
  */
@@ -166,6 +166,76 @@ export const CATEGORIES: Category[] = [
     tagline: { nb: 'Kortfarger, klaffer og Løvehjerte', sv: 'Kortfärger, klaffar och Lejonhjärta' },
     scene: 'hjerte',
     gradient: ['#E62B5C', '#FF8A3D'],
+  },
+  {
+    id: 'linn',
+    name: { nb: 'Linn', sv: 'Linn' },
+    tagline: { nb: 'Fra Linné til linnea', sv: 'Från Linné till linnea' },
+    scene: 'linn',
+    gradient: ['#3FA66A', '#FF5FA8'],
+  },
+  {
+    id: 'brun',
+    name: { nb: 'Brun', sv: 'Brun' },
+    tagline: { nb: 'Brunbjørn, brunost og Brundtland', sv: 'Brunbjörn, mesost och Brundtland' },
+    scene: 'brun',
+    gradient: ['#6B3A22', '#FFC94D'],
+  },
+  {
+    id: 'borg',
+    name: { nb: 'Borg', sv: 'Borg' },
+    tagline: { nb: 'Fra Björn Borg til Göteborg', sv: 'Från Björn Borg till Göteborg' },
+    scene: 'borg',
+    gradient: ['#2B3A6B', '#8E44D8'],
+  },
+  {
+    id: 'fot',
+    name: { nb: 'Fot', sv: 'Fot' },
+    tagline: { nb: 'Fra fotnote til Bigfoot', sv: 'Från fotnot till Bigfoot' },
+    scene: 'fot',
+    gradient: ['#1F7A4D', '#FFC94D'],
+  },
+  {
+    id: 'ball',
+    name: { nb: 'Ball', sv: 'Boll' },
+    tagline: { nb: 'Fra ballett til ballong', sv: 'Från balett till ballong' },
+    scene: 'ball',
+    gradient: ['#FF7A3D', '#8E44D8'],
+  },
+  {
+    id: 'stein',
+    name: { nb: 'Stein', sv: 'Sten' },
+    tagline: { nb: 'Fra Einstein til steinbukk', sv: 'Från Einstein till stenbock' },
+    scene: 'stein',
+    gradient: ['#5A5F73', '#3AD6E0'],
+  },
+  {
+    id: 'ring',
+    name: { nb: 'Ring', sv: 'Ring' },
+    tagline: { nb: 'Ringperm, ringorm og Ringenes herre', sv: 'Ringpärm, ringorm och Sagan om ringen' },
+    scene: 'ring',
+    gradient: ['#D4A017', '#2B5CE6'],
+  },
+  {
+    id: 'sol',
+    name: { nb: 'Sol', sv: 'Sol' },
+    tagline: { nb: 'Solsikker, solstikk og solformørkelser', sv: 'Solrosor, solsting och solförmörkelser' },
+    scene: 'sol',
+    gradient: ['#FFD54A', '#FF7A3D'],
+  },
+  {
+    id: 'natt',
+    name: { nb: 'Natt', sv: 'Natt' },
+    tagline: { nb: 'Fra nattergal til nattverd', sv: 'Från näktergal till nattvard' },
+    scene: 'natt',
+    gradient: ['#0C1338', '#3AD6E0'],
+  },
+  {
+    id: 'hus',
+    name: { nb: 'Hus', sv: 'Hus' },
+    tagline: { nb: 'Fra Husqvarna til huskestue', sv: 'Från Husqvarna till husmanskost' },
+    scene: 'hus',
+    gradient: ['#345B8C', '#FF5FA8'],
   },
 ]
 
