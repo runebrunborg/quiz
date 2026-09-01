@@ -1,0 +1,54 @@
+# Bygger og deployer LinnQuiz til Cloudflare ved push til main.
+#
+# Bygget kjores her og ikke lokalt fordi rollup og esbuild i node_modules er
+# macOS-binaerfiler paa Runes maskin. GitHub-kjoreren er Linux og installerer
+# riktige binaerfiler selv.
+#
+# Testene og innholdsvalidatoren er porten: feiler de, deployer vi ikke.
+# Merk at de fanger struktur - ordtelling, svar som lekker, manglende sprak -
+# men ikke et oppdiktet faktum. Innholdet maa fortsatt leses av et menneske
+# innimellom.
+#
+# Databasemigrasjoner kjores IKKE herfra. Legger du en ny fil i migrations/,
+# maa du kjore `npm run db:migrate:remote` selv, og foer du pusher.
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-main
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Valider innholdsbanken
+        run: npm run content:validate
+
+      - name: Typesjekk
+        run: npx tsc -b
+
+      - name: Tester
+        run: npm test
+
+      - name: Bygg
+        run: npx vite build
+
+      - name: Deploy til Cloudflare
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
