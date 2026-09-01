@@ -115,6 +115,12 @@ npm run content:regions     # hva regionvalget faktisk gjør med sammensetningen
 er de to filene alt som trengs som kontekst. Skjermbildet «Banken» i appen viser
 dekningen live.
 
+Hvert tema har i tillegg **domsetninger** i `content/verdicts/<id>.json` – den
+morsomme dommen under poengsummen på resultatskjermen, to varianter for hver
+poengsum fra 0 til 10, på norsk og svensk. `content/VERDICTS-SPEC.md` er
+kontrakten og `content/verdicts/tog.json` fasitmalen. Validatoren stopper bygget
+hvis en kategori mangler fila, så en ny kategori må ha domsetninger fra dag én.
+
 Alle spørsmål har en kildehenvisning i `source`-feltet. Finner du en feil, rett
 den i JSON-filen – id-en skal aldri endres, den er nøkkelen statistikken henger
 på.
@@ -122,10 +128,10 @@ på.
 ## Prosjektstruktur
 
 ```
-content/          spørsmålsbanken + kategoridefinisjoner + SPEC.md
+content/          spørsmålsbanken + domsetninger + kategoridefinisjoner + SPEC-ene
 shared/           typer og datohjelpere delt mellom frontend og worker
 src/              React-frontend
-  themes/         de 20 SVG-scenene
+  themes/         SVG-scenene, temamotivene og feiringsanimasjonene
   styles/         designtokens og komponentstiler
   lib/            innholdslasting, hint, lagring, statistikk, API-klient
   screens/        Spill, Statistikk, Venner, Banken

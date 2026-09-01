@@ -286,3 +286,16 @@ Temaer som har et spørsmål med treff på dagens dato, **legges først** i
 temalisten på startskjermen og merkes «I dag». Runden garanterer da at
 spørsmålet faktisk kommer med – ellers ville løftet på startskjermen være tomt.
 Datospørsmålet stokkes inn blant de vanlige; de dagsaktuelle står til slutt.
+
+## Domsetninger
+
+Hvert tema har også en fil med **domsetninger** – linja som står under
+poengsummen på resultatskjermen, med et bilde hentet fra temaets egen verden.
+Formatet og tonen står i `content/VERDICTS-SPEC.md`, fasitmalen er
+`content/verdicts/tog.json`.
+
+Dette er ikke valgfritt: `npm run content:validate` feiler hvis en kategori i
+`content/categories.ts` mangler `content/verdicts/<id>.json`, eller hvis fila
+ikke har to varianter for hver poengsum fra 0 til 10. **Lager du en ny
+kategori, skriver du domsetningene i samme slengen som spørsmålene** – ellers
+stopper bygget.

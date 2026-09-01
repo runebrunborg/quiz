@@ -1,0 +1,115 @@
+{
+  "category": "sjokolade",
+  "lines": {
+    "0": [
+      {
+        "nb": "Ikke en kakaobønne i sekken. Konfekteska er tom, og bare de brune papirformene ligger igjen.",
+        "sv": "Inte en kakaoböna i säcken. Konfektasken är tom, och bara de bruna pappersformarna ligger kvar."
+      },
+      {
+        "nb": "Sjokoladen brant seg fast i kjelen lenge før den rakk å bli til noe som helst.",
+        "sv": "Chokladen brände fast i grytan långt innan den hann bli till någonting alls."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Et tilfeldig treff, som når du napper den ene pralinen med nougat uten å ane det.",
+        "sv": "En slumpmässig träff, som när du nappar den enda pralinen med nougat utan att ana det."
+      },
+      {
+        "nb": "En rute av plata smakte riktig. Resten ble liggende igjen i sølvpapiret.",
+        "sv": "En ruta av kakan smakade rätt. Resten blev liggande kvar i silverpappret."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Kakaosmøret smelter så vidt. Massen er fortsatt gryn og grums nederst i kjelen.",
+        "sv": "Kakaosmöret smälter nätt och jämnt. Massan är fortfarande gryn och grums längst ner i grytan."
+      },
+      {
+        "nb": "Svakt, men det er liv der inne: du vet i hvert fall at kakao vokser på et tre.",
+        "sv": "Svagt, men det finns liv där inne: du vet åtminstone att kakao växer på ett träd."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Det holder til kokesjokolade. Den mørke plata med høy kakaoandel forblir over ditt nivå.",
+        "sv": "Det räcker till blockchoklad. Den mörka kakan med hög kakaohalt förblir över din nivå."
+      },
+      {
+        "nb": "Konturene finnes, men temperering er tydeligvis noe som skjer med andre folks sjokolade.",
+        "sv": "Konturerna finns, men temperering är tydligen något som händer med andra människors choklad."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten halvveis opp påskefjellet, og Kvikk Lunsjen ble spist allerede ved første bakketopp.",
+        "sv": "Nästan halvvägs upp på påskfjället, och Kexchokladen åts upp redan vid första backkrönet."
+      },
+      {
+        "nb": "Fyllet er på plass, men trekket sprekker. Konditoren rister på hodet og begynner om igjen.",
+        "sv": "Fyllningen är på plats, men överdraget spricker. Konditorn skakar på huvudet och börjar om igen."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet: helt grei melkesjokolade fra kiosken, verken skryt eller skuffelse.",
+        "sv": "Mitt på det hela: helt okej mjölkchoklad från kiosken, varken beröm eller besvikelse."
+      },
+      {
+        "nb": "Halve konfekteska er smakt på. Den nederste etasjen tør du fortsatt ikke røre.",
+        "sv": "Halva konfektasken är avsmakad. Den nedre våningen vågar du fortfarande inte röra."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Sjokoladen knekker med et lite smell, selv om glansen mangler fullstendig.",
+        "sv": "Godkänt. Chokladen knäcker med en liten smäll, även om glansen saknas fullständigt."
+      },
+      {
+        "nb": "Over streken. Du kjenner forskjell på mørk og lys, men ikke på bønner fra Ghana og Ecuador.",
+        "sv": "Över gränsen. Du känner skillnad på mörk och ljus, men inte på bönor från Ghana och Ecuador."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra jobbet. Du hører bare på knekken om plata er skikkelig temperert eller ikke.",
+        "sv": "Bra jobbat. Du hör bara på knäcken om kakan är ordentligt tempererad eller inte."
+      },
+      {
+        "nb": "Her sitter det noe ekte. Konditoren lar deg røre i kjelen mens hun henter formene.",
+        "sv": "Här sitter det något äkta. Konditorn låter dig röra i grytan medan hon hämtar formarna."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du kjenner igjen bønnens opphav, brenningen og hvor lenge massen har gått i conchen.",
+        "sv": "Starkt. Du känner igen bönans ursprung, rostningen och hur länge massan har gått i conchen."
+      },
+      {
+        "nb": "Nå snakker vi. Pralinene dine får blank overflate og et fyll folk snakker om lenge etterpå.",
+        "sv": "Nu snackar vi. Dina praliner får blank yta och en fyllning folk pratar om långt efteråt."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Den ene biten som glapp, er akkurat den med saltkaramell nederst i hjørnet av eska.",
+        "sv": "Den enda biten som gled undan är precis den med saltkaramell längst ner i hörnet av asken."
+      },
+      {
+        "nb": "Nesten feilfri støping. En bitte liten luftboble i formen, og glansen ble ikke helt perfekt.",
+        "sv": "Nästan felfri gjutning. En pytteliten luftbubbla i formen, och glansen blev inte helt perfekt."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Alt rett, blank overflate, perfekt knekk. Konditoriet burde ansette deg på flekken.",
+        "sv": "Allt rätt, blank yta, perfekt knäck. Konditoriet borde anställa dig på fläcken."
+      },
+      {
+        "nb": "Full pott. Nå får du prøve vanskelig, for denne eska var altfor lett å tømme.",
+        "sv": "Full pott. Nu får du prova svår, för den här asken var alldeles för lätt att tömma."
+      }
+    ]
+  }
+}

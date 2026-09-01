@@ -1,0 +1,115 @@
+{
+  "category": "tog",
+  "lines": {
+    "0": [
+      {
+        "nb": "Toget er innstilt, perrongen er tom, og konduktøren later som han ikke ser deg.",
+        "sv": "Tåget är inställt, perrongen tom, och konduktören låtsas att han inte ser dig."
+      },
+      {
+        "nb": "Du står fortsatt på Oslo S og leter etter spor nitten. Det finnes ikke.",
+        "sv": "Du står kvar på Stockholms central och letar efter spår nitton. Det finns inte."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett treff, omtrent som å rekke toget fordi det var førti minutter forsinket.",
+        "sv": "En träff, ungefär som att hinna med tåget för att det var fyrtio minuter försenat."
+      },
+      {
+        "nb": "Noe kom seg gjennom tunnelen. Resten står igjen på perrongen med kofferten.",
+        "sv": "Något tog sig genom tunneln. Resten står kvar på perrongen med resväskan."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Lokomotivet lever, men vognene ble stående igjen på Hamar.",
+        "sv": "Loket lever, men vagnarna blev kvar i Hallsberg."
+      },
+      {
+        "nb": "To stasjoner unna sporet der kunnskapen ligger. Erstatningsbuss er bestilt.",
+        "sv": "Två stationer från spåret där kunskapen ligger. Ersättningsbuss är beställd."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Det holder til lokaltoget til Ski. Bergensbanen får vente på en annen dag.",
+        "sv": "Det räcker till pendeltåget till Södertälje. Malmbanan får vänta på en annan dag."
+      },
+      {
+        "nb": "Under pari, sier tabellen. Og tabellen har som kjent alltid rett.",
+        "sv": "Under pari, säger tidtabellen. Och tidtabellen har som bekant alltid rätt."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Med den scoren kvalifiserer du så vidt til en billett på andreklasse på toget til Eidsvoll Verk. God tur.",
+        "sv": "Med det resultatet kvalificerar du dig nätt och jämnt till andra klass på tåget till Nynäshamn. Trevlig resa."
+      },
+      {
+        "nb": "Nesten halvveis, altså omtrent Lillestrøm. Det er fryktelig langt igjen til Trondheim.",
+        "sv": "Nästan halvvägs, alltså ungefär Södertälje. Det är fruktansvärt långt kvar till Kiruna."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet, midt i tunnelen. Lys i begge ender, utsikt i ingen.",
+        "sv": "Mitt på det hela, mitt i tunneln. Ljus i båda ändar, utsikt i ingen."
+      },
+      {
+        "nb": "Du sitter på riktig tog, i feil vogn, og oppdager det først ved endestasjonen.",
+        "sv": "Du sitter på rätt tåg, i fel vagn, och upptäcker det först vid slutstationen."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Toget går, om enn med den forsinkelsen ingen lenger gidder å annonsere.",
+        "sv": "Godkänt. Tåget går, om än med den försening ingen längre orkar annonsera."
+      },
+      {
+        "nb": "Over streken, og du fikk vindusplass. Bordet må du dele med en fremmed.",
+        "sv": "Över gränsen, och du fick fönsterplats. Bordet får du dela med en främling."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra kjørt. Konduktøren klipper billetten uten å se på deg to ganger.",
+        "sv": "Bra kört. Konduktören klipper biljetten utan att titta på dig två gånger."
+      },
+      {
+        "nb": "Det holder til sovevogn på Nordlandsbanen. Nyt utsikten, du har fortjent den.",
+        "sv": "Det räcker till sovvagn på nattåget till Narvik. Njut av utsikten, du har förtjänat den."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du kan strekningen, du kan avgangene, og du klager bare når det er grunn til det.",
+        "sv": "Starkt. Du kan sträckan, du kan avgångarna, och du klagar bara när det finns skäl."
+      },
+      {
+        "nb": "Første klasse, kaffe inkludert og en tabell som faktisk holder.",
+        "sv": "Första klass, kaffe ingår och en tidtabell som faktiskt håller."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ett spørsmål glapp, som den ene sporvekselen mellom deg og perfekt punktlighet.",
+        "sv": "En fråga gled undan, som den enda växeln mellan dig och perfekt punktlighet."
+      },
+      {
+        "nb": "Nesten hele strekningen uten stopp. Det siste minuttet inn mot perrongen kostet deg det.",
+        "sv": "Nästan hela sträckan utan stopp. Den sista minuten in mot perrongen kostade dig det."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott, i rute, på riktig spor. Du burde kjøre Bergensbanen selv.",
+        "sv": "Full pott, i tid, på rätt spår. Du borde köra Malmbanan själv."
+      },
+      {
+        "nb": "Alt rett. Nå får du prøve vanskelig, for dette sporet er altfor kort for deg.",
+        "sv": "Allt rätt. Nu får du prova svår, för det här spåret är alldeles för kort för dig."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "category": "drikke",
+  "lines": {
+    "0": [
+      {
+        "nb": "Tønnen står tom, druene henger urørt, og bryggeren har låst kjellerdøren bak seg.",
+        "sv": "Tunnan står tom, druvorna hänger orörda, och bryggaren har låst källardörren bakom sig."
+      },
+      {
+        "nb": "Verken humle, malt eller årgang festet seg. Vinbonden noterer hele sesongen som en bomtur.",
+        "sv": "Varken humle, malt eller årgång fastnade. Vinbonden noterar hela säsongen som en bomresa."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Et ensomt treff, omtrent som å gjette årgangen riktig fordi etiketten lå med forsiden opp.",
+        "sv": "En ensam träff, ungefär som att gissa årgången rätt för att etiketten låg med framsidan upp."
+      },
+      {
+        "nb": "En humlekongle datt oppi kjelen helt av seg selv. Resten av oppskriften ble aldri lest.",
+        "sv": "En humlekotte ramlade ner i grytan alldeles av sig själv. Resten av receptet blev aldrig läst."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Gjæren har så vidt våknet, men vørteren smaker fortsatt mest av lunkent vann.",
+        "sv": "Jästen har nätt och jämnt vaknat, men vörten smakar fortfarande mest av ljummet vatten."
+      },
+      {
+        "nb": "Noen få druer henger igjen på ranken. Vinbonden ser mot himmelen og håper på neste sesong.",
+        "sv": "Några få druvor hänger kvar på rankan. Vinbonden ser mot himlen och hoppas på nästa säsong."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Det holder til husets hvite på pappeske. Barolohylla forblir låst en god stund til.",
+        "sv": "Det räcker till husets vita på box. Barolohyllan på Systembolaget förblir låst en bra stund till."
+      },
+      {
+        "nb": "Konturene av en oppskrift finnes, men malten er brent og humlen kom i altfor sent.",
+        "sv": "Konturerna av ett recept finns, men malten är bränd och humlen kom i alldeles för sent."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten halvveis gjennom gjæringen. Bryggmesteren rister på hodet og setter kjelen tilbake på varmen.",
+        "sv": "Nästan halvvägs genom jäsningen. Bryggmästaren skakar på huvudet och sätter tillbaka grytan på värmen."
+      },
+      {
+        "nb": "Du kjenner igjen fatet, men ikke skogen det kom fra. Kjelleren venter på et bedre år.",
+        "sv": "Du känner igen fatet, men inte skogen det kom från. Källaren väntar på ett bättre år."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet: en helt grei husvin som ingen skryter av og ingen sender tilbake.",
+        "sv": "Mitt på det hela: ett helt okej husvin som ingen skryter om och ingen skickar tillbaka."
+      },
+      {
+        "nb": "Halve fatet er fylt. Bryggeriet lar deg skylle kar, men ikke røre oppskriftsboka.",
+        "sv": "Halva fatet är fyllt. Bryggeriet låter dig skölja kar, men inte röra receptboken."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent av kjellermesteren, som smaker, nikker kort og går videre til neste tønne.",
+        "sv": "Godkänd av källarmästaren, som smakar, nickar kort och går vidare till nästa tunna."
+      },
+      {
+        "nb": "Over streken. Du kjenner forskjell på pils og pale ale, men ikke på nabodalens jordsmonn.",
+        "sv": "Över gränsen. Du känner skillnad på pilsner och pale ale, men inte på grannbygdens jordmån."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra jobbet. Du finner humlesorten i lukten før noen rekker å vise deg etiketten.",
+        "sv": "Bra jobbat. Du hittar humlesorten i doften innan någon hinner visa dig etiketten."
+      },
+      {
+        "nb": "Solid. Du vet hvorfor kalkrik jord gir bedre druer enn den fete matjorda i dalbunnen.",
+        "sv": "Solitt. Du vet varför kalkrik jord ger bättre druvor än den feta myllan i dalbotten."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du kjenner igjen fatlagringen, gjærstammen og bryggeriet som holdt hemmeligheten i generasjoner.",
+        "sv": "Starkt. Du känner igen fatlagringen, jäststammen och bryggeriet som höll hemligheten i generationer."
+      },
+      {
+        "nb": "Nå snakker vi. Vinbonden tar deg med ut til de eldste rankene og spør hva du synes.",
+        "sv": "Nu snackar vi. Vinbonden tar med dig ut till de äldsta rankorna och frågar vad du tycker."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Bare den ene druen kom aldri i pressen. Ellers hadde årgangen vært helt uten anmerkning.",
+        "sv": "Bara den enda druvan kom aldrig i pressen. Annars hade årgången varit helt utan anmärkning."
+      },
+      {
+        "nb": "Nesten perfekt fat. En liten lekkasje i den siste staven, og resten er rent mesterverk.",
+        "sv": "Nästan perfekt fat. En liten läcka i den sista stäven, och resten är rena mästerverket."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Alt rett, hele fatet fylt. Bryggeriet burde sette navnet ditt rett på etiketten.",
+        "sv": "Allt rätt, hela fatet fyllt. Bryggeriet borde sätta ditt namn rakt på etiketten."
+      },
+      {
+        "nb": "Full pott. Nå får du prøve vanskelig, for denne kjelleren er altfor liten for deg.",
+        "sv": "Full pott. Nu får du prova svår, för den här källaren är alldeles för liten för dig."
+      }
+    ]
+  }
+}

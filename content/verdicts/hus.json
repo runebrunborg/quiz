@@ -1,0 +1,115 @@
+{
+  "category": "hus",
+  "lines": {
+    "0": [
+      {
+        "nb": "Tomta er ryddet, men det står ikke en grunnmur her. Byggesøknaden er ikke engang sendt.",
+        "sv": "Tomten är röjd, men här står inte en grund. Bygglovet är inte ens inlämnat."
+      },
+      {
+        "nb": "Korthuset raste før du hadde lagt det andre kortet. Sånt skjer ikke ved et uhell.",
+        "sv": "Korthuset rasade innan du hade lagt det andra kortet. Sånt händer inte av en slump."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett treff, som spikeren som går rett inn mens alle de andre bøyer seg til side.",
+        "sv": "En träff, som spiken som går rakt in medan alla de andra viker av åt sidan."
+      },
+      {
+        "nb": "Husalarmen pep til, men det var bare batteriet som ba om litt oppmerksomhet.",
+        "sv": "Huslarmet pep till, men det var bara batteriet som bad om lite uppmärksamhet."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Veggene står, men taket er noe naboen har lovet å komme tilbake til ved anledning.",
+        "sv": "Väggarna står, men taket är något grannen har lovat att återkomma om vid tillfälle."
+      },
+      {
+        "nb": "Litt liv i huset: kjelleren er tørr, og resten drypper i takt med takrenna.",
+        "sv": "Lite liv i huset: källaren är torr, och resten droppar i takt med hängrännan."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Under pari, sier takstmannen, og han noterer flittig hele veien rundt huset.",
+        "sv": "Under pari, säger besiktningsmannen, och han antecknar flitigt hela vägen runt huset."
+      },
+      {
+        "nb": "Du har fått opp reisverket. Isolasjon, kledning og vinduer står fortsatt igjen på lista.",
+        "sv": "Du har fått upp stommen. Isolering, panel och fönster står fortfarande kvar på listan."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten halvveis: huset er malt på nøyaktig den siden som vender ut mot veien.",
+        "sv": "Nästan halvvägs: huset är målat på exakt den sida som vetter ut mot vägen."
+      },
+      {
+        "nb": "Huskestua er i full gang, men ingen har ryddet opp etterpå, og det synes godt.",
+        "sv": "Huset står på ända, men ingen har städat upp efteråt, och det syns tydligt."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet, som et hus der halve stua er pusset opp og resten venter på våren.",
+        "sv": "Mitt emellan, som ett hus där halva vardagsrummet är renoverat och resten väntar på våren."
+      },
+      {
+        "nb": "Husmannskosten er servert: mettende nok, uten at noen skriver hjem om den.",
+        "sv": "Husmanskosten är serverad: mättande nog, utan att någon skriver hem om den."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Huset står, døra lukker seg, og bare den ene takrenna henger litt skjevt.",
+        "sv": "Godkänt. Huset står, dörren går igen, och bara en enda hängränna sitter lite snett."
+      },
+      {
+        "nb": "Over streken, og gressklipperen fra Husqvarna startet på andre forsøk uten å hoste.",
+        "sv": "Över gränsen, och gräsklipparen från Husqvarna startade på andra försöket utan att hosta."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra. Du kjenner huset ditt godt nok til å finne sikringsskapet uten å tenne lyset.",
+        "sv": "Bra. Du känner ditt hus väl nog för att hitta elcentralen utan att tända lyset."
+      },
+      {
+        "nb": "Her sitter det noe ekte, som et tømmerhus som har satt seg ferdig og ikke knirker mer.",
+        "sv": "Här sitter något äkta, som ett timmerhus som har satt sig färdigt och inte knarrar mer."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Huset er malt, hagen er slått, og nabolaget har begynt å spørre om tips.",
+        "sv": "Starkt. Huset är målat, gräset är klippt, och grannarna har börjat fråga om tips."
+      },
+      {
+        "nb": "Grunnmur, bæring og tak sitter som de skal. Vaktmesteren kan gå hjem tidlig i dag.",
+        "sv": "Grund, bärande väggar och tak sitter som de ska. Vaktmästaren kan gå hem tidigt i dag."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Alt sto ferdig, helt til den siste gulvlisten nektet å treffe hjørnet slik den skulle.",
+        "sv": "Allt stod färdigt, ända tills den sista golvlisten vägrade möta hörnet som den skulle."
+      },
+      {
+        "nb": "Ett rom mangler tapet, og det er selvsagt akkurat det rommet gjestene ender opp i.",
+        "sv": "Ett rum saknar tapet, och det är förstås precis det rummet gästerna hamnar i."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott: nøkkelferdig, ferdigattest og ikke et eneste knirkende trappetrinn i hele huset.",
+        "sv": "Full pott: nyckelfärdigt, slutbesked och inte ett enda knarrande trappsteg i hela huset."
+      },
+      {
+        "nb": "Alt rett. Dette huset er blitt for lite for deg. Sett i gang med et vanskeligere byggeprosjekt.",
+        "sv": "Allt rätt. Det här huset har blivit för litet för dig. Sätt i gång med ett svårare byggprojekt."
+      }
+    ]
+  }
+}

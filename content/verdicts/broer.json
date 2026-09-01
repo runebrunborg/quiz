@@ -1,0 +1,115 @@
+{
+  "category": "broer",
+  "lines": {
+    "0": [
+      {
+        "nb": "Ikke et eneste spenn. Du står på den ene bredden og vinker til kunnskapen på den andre.",
+        "sv": "Inte ett enda spann. Du står på ena stranden och vinkar till kunskapen på den andra."
+      },
+      {
+        "nb": "Trollet under broen hørte deg ikke engang komme. Det er nesten litt sårende.",
+        "sv": "Trollet under bron hörde dig inte ens komma. Det är nästan lite sårande."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett treff, som en enslig planke noen andre la over bekken i fjor høst.",
+        "sv": "En träff, som en ensam planka någon annan lade över bäcken i höstas."
+      },
+      {
+        "nb": "Ett kabelfeste holder. Resten av broen er fortsatt en skisse på en serviett.",
+        "sv": "Ett kabelfäste håller. Resten av bron är fortfarande en skiss på en servett."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Brukaret står i vannet, men det er langt igjen før noen tør å gå over.",
+        "sv": "Brofästet står i vattnet, men det är långt kvar innan någon vågar gå över."
+      },
+      {
+        "nb": "Du bygger, men foreløpig rekker broen bare ut til den første holmen.",
+        "sv": "Du bygger, men än så länge når bron bara ut till den första holmen."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Konturene av et brospenn er der. Bompengeinnkrevingen får vente noen år til.",
+        "sv": "Konturerna av ett brospann finns där. Broavgiften får vänta några år till."
+      },
+      {
+        "nb": "Det holder til en gangbro over en grøft. Sundet må du krysse med ferje.",
+        "sv": "Det räcker till en gångbro över ett dike. Sundet får du korsa med färja."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten helt ut til midtspennet, og det er akkurat der utsikten begynner å bli ubehagelig.",
+        "sv": "Nästan hela vägen ut till mittspannet, och det är precis där utsikten börjar bli obehaglig."
+      },
+      {
+        "nb": "Du rakk halve Øresundsbroen før du oppdaget at siste etappe uansett går i tunnel.",
+        "sv": "Du hann halva Öresundsbron innan du upptäckte att sista etappen ändå går i tunnel."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på broen, midt i tåka. Ingen av bredden er synlig herfra akkurat nå.",
+        "sv": "Mitt på bron, mitt i dimman. Ingen av stränderna syns härifrån just nu."
+      },
+      {
+        "nb": "Godt nok til at trollet slipper deg forbi, men det spør om det kommer en større bukk.",
+        "sv": "Gott nog för att trollet ska släppa förbi dig, men det frågar om det kommer en större bock."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Broen bærer, selv om rekkverket rister litt mer enn nødvendig når det blåser.",
+        "sv": "Godkänt. Bron bär, även om räcket skakar lite mer än nödvändigt när det blåser."
+      },
+      {
+        "nb": "Over på andre siden med tørre sko. Ingen jubel fra tårnet, men ingen klager heller.",
+        "sv": "Över på andra sidan med torra skor. Inget jubel från tornet, men inga klagomål heller."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra bygget. Kablene sitter, spennet holder, og tåka letter akkurat idet du kjører ut.",
+        "sv": "Bra byggt. Kablarna sitter, spannet håller, och dimman lättar precis när du kör ut."
+      },
+      {
+        "nb": "Her er det ekte ingeniørkunst. Du vet hvorfor en buebro og en hengebro ikke er samme sak.",
+        "sv": "Här finns äkta ingenjörskonst. Du vet varför en bågbro och en hängbro inte är samma sak."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du kjenner igjen tårnene i tåka og vet nøyaktig hvilket sund de står i.",
+        "sv": "Starkt. Du känner igen tornen i dimman och vet exakt vilket sund de står i."
+      },
+      {
+        "nb": "Nå imponerer det. Klaffen heves for din skyld, og skipet under må faktisk vente på tur.",
+        "sv": "Nu imponerar det. Klaffen höjs för din skull, och fartyget under får faktiskt vänta på sin tur."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Alt på plass unntatt den siste kabelen, og det er alltid den siste som svir mest.",
+        "sv": "Allt på plats utom den sista kabeln, och det är alltid den sista som svider mest."
+      },
+      {
+        "nb": "Du kom nesten hele veien over. Så glapp det siste steget ned på fast grunn.",
+        "sv": "Du kom nästan hela vägen över. Sedan gled det sista steget ner på fast mark."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Båndet er klippet, ordføreren smiler, og de burde oppkalt hovedspennet etter deg.",
+        "sv": "Full pott. Bandet är klippt, kommunalrådet ler, och de borde ha uppkallat huvudspannet efter dig."
+      },
+      {
+        "nb": "Alt rett. Denne bekken er altfor smal, du bør få prøve deg på et ordentlig sund.",
+        "sv": "Allt rätt. Den här bäcken är alldeles för smal, du bör få prova på ett riktigt sund."
+      }
+    ]
+  }
+}

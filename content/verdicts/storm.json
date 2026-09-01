@@ -1,0 +1,115 @@
+{
+  "category": "storm",
+  "lines": {
+    "0": [
+      {
+        "nb": "Barometeret rører seg ikke. Dette er ikke stille før stormen, det er bare stille.",
+        "sv": "Barometern rör sig inte. Det här är inte lugnet före stormen, det är bara lugnt."
+      },
+      {
+        "nb": "Værmeldingen for denne runden: opphold, vindstille og absolutt ingenting å melde videre.",
+        "sv": "Väderprognosen för den här rundan: uppehåll, vindstilla och absolut ingenting att rapportera."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett vindkast traff, og selv vindpølsa så ut som den ikke helt trodde på det.",
+        "sv": "En vindby träffade, och till och med vindstruten såg ut att inte riktigt tro på det."
+      },
+      {
+        "nb": "Én dråpe på ruta. Meteorologen kaller det ikke engang en byge på kartet.",
+        "sv": "En droppe på rutan. Meteorologen kallar det inte ens en skur på kartan."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Svak vind, sier meldinga, og løvet på bakken rører så vidt på seg.",
+        "sv": "Svag vind, säger prognosen, och löven på marken rör knappt på sig."
+      },
+      {
+        "nb": "Det er liv i lavtrykket, men det har ikke fortjent noe eget navn ennå.",
+        "sv": "Det finns liv i lågtrycket, men det har inte förtjänat något eget namn än."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Under pari, omtrent frisk bris: akkurat nok til å velte en tom hagestol.",
+        "sv": "Under pari, ungefär frisk vind: precis nog för att välta en tom trädgårdsstol."
+      },
+      {
+        "nb": "Du fikk til en storm i et vannglass, og glasset ble stående trygt på bordet.",
+        "sv": "Du åstadkom en storm i ett vattenglas, och glaset blev stående tryggt på bordet."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten kuling, og «nesten» er nettopp det ordet meteorologen bruker når ingenting skjer.",
+        "sv": "Nästan kuling, och «nästan» är just det ord meteorologen använder när ingenting händer."
+      },
+      {
+        "nb": "Paraplyen holdt, men bare fordi uværet aldri kom lenger enn til nabofylket.",
+        "sv": "Paraplyet höll, men bara för att ovädret aldrig kom längre än till grannlänet."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet: gult farevarsel, ingen følger, og alle har glemt det til i morgen.",
+        "sv": "Mitt på det hela: gul vädervarning, inga följder, och alla har glömt den till i morgon."
+      },
+      {
+        "nb": "Halvt oppholdsvær, halvt regn. Du tok med regnjakka og angret på det hele veien.",
+        "sv": "Halvt uppehållsväder, halvt regn. Du tog med regnjackan och ångrade det hela vägen."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Lavtrykket fikk navn, men ingen på værvarslinga mistet nattesøvnen av den grunn.",
+        "sv": "Godkänt. Lågtrycket fick ett namn, men ingen på vädertjänsten miste nattsömnen för det."
+      },
+      {
+        "nb": "Over streken, og vinden snudde akkurat i tide til at du slapp å snu selv.",
+        "sv": "Över gränsen, och vinden vände precis i tid så att du slapp vända själv."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra blåst. Du leser barometeret riktig og henter inn putene før den første byga.",
+        "sv": "Bra blåst. Du läser barometern rätt och tar in dynorna före den första skuren."
+      },
+      {
+        "nb": "Her er det ekte uvær på gang. Kastene har retning, og meldinga stemmer time for time.",
+        "sv": "Här är det äkta oväder på gång. Byarna har riktning, och prognosen stämmer timme för timme."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du visste at vinden ville dreie til sørvest lenge før varselet ble oppgradert.",
+        "sv": "Starkt. Du visste att vinden skulle vrida till sydväst långt innan varningen uppgraderades."
+      },
+      {
+        "nb": "Nå imponerer det. Ditt eget lavtrykk fortjener et navn og en plass i værarkivet.",
+        "sv": "Nu imponerar det. Ditt eget lågtryck förtjänar ett namn och en plats i väderarkivet."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ett vindkast fra full orkan, og det er akkurat den detaljen meteorologer aldri glemmer.",
+        "sv": "En vindby från full orkan, och det är precis den detaljen meteorologer aldrig glömmer."
+      },
+      {
+        "nb": "Nesten hele uværet traff blink, men vinden dreide i siste liten og tok med seg det siste svaret.",
+        "sv": "Nästan hela ovädret träffade rätt, men vinden vred sig i sista stund och tog med sig det sista svaret."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Rødt nivå, riktig varsel, og meteorologene tar fram notatblokka når du snakker.",
+        "sv": "Full pott. Röd varning, rätt prognos, och meteorologerna tar fram anteckningsblocket när du talar."
+      },
+      {
+        "nb": "Alt rett. Dette var bare en lunken bris for deg, be om et skikkelig uvær neste gang.",
+        "sv": "Allt rätt. Det här var bara en ljum bris för dig, be om ett riktigt oväder nästa gång."
+      }
+    ]
+  }
+}

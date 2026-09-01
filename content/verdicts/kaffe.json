@@ -1,0 +1,115 @@
+{
+  "category": "kaffe",
+  "lines": {
+    "0": [
+      {
+        "nb": "Kannen er tom, filteret ubrukt, og trakteren står med ledningen ute av veggen.",
+        "sv": "Kannan är tom, filtret oanvänt, och bryggaren står med sladden ur väggen."
+      },
+      {
+        "nb": "Ikke en eneste bønne kom i kvernen. Dette er varmt vann og god vilje.",
+        "sv": "Inte en enda böna kom i kvarnen. Det här är varmt vatten och god vilja."
+      }
+    ],
+    "1": [
+      {
+        "nb": "En bønne fant veien ned i kvernen. Resten ligger fortsatt igjen i posen.",
+        "sv": "En böna hittade ner i kvarnen. Resten ligger kvar i påsen."
+      },
+      {
+        "nb": "Treffet ditt smaker som pulverkaffe rørt ut i lunkent vann. Men et treff var det.",
+        "sv": "Din träff smakar som pulverkaffe utrört i ljummet vatten. Men en träff var det."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Svakt brygg, men det er kaffe. Skjeen synker rett til bunns uten motstand.",
+        "sv": "Svag brygd, men det är kaffe. Skeden sjunker rakt till botten utan motstånd."
+      },
+      {
+        "nb": "Vannet rakk så vidt gjennom filteret før noen skrudde av trakteren altfor tidlig.",
+        "sv": "Vattnet hann nätt och jämnt genom filtret innan någon stängde av bryggaren alldeles för tidigt."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Under pari. Espressoen rant tynn og lys, og cremaen forsvant før koppen nådde bordet.",
+        "sv": "Under pari. Espresson rann tunn och ljus, och cremen försvann innan koppen nådde bordet."
+      },
+      {
+        "nb": "Du hører forskjell på kokekaffe og trakting, men stopper der. Kvernen får stå urørt.",
+        "sv": "Du hör skillnad på kokkaffe och bryggkaffe, men stannar där. Kvarnen får stå orörd."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten halvfull kopp, og «nesten» er hele smaken. Påfyll får du be om selv.",
+        "sv": "Nästan halvfull kopp, och «nästan» är hela smaken. Påfyllning får du be om själv."
+      },
+      {
+        "nb": "Karsken din er mest kaffe og lite karsk. Sølvmynten sank rett til bunns.",
+        "sv": "Din kaffegök är mest kaffe och lite gök. Silvermyntet sjönk rakt till botten."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet: kontorkaffe fra en kanne som har stått litt for lenge på varmeplaten.",
+        "sv": "Mitt på det hela: kontorskaffe ur en kanna som stått lite för länge på värmeplattan."
+      },
+      {
+        "nb": "Melkeskummet ble verken hjerte eller blad, men koppen tømte du med god samvittighet.",
+        "sv": "Mjölkskummet blev varken hjärta eller blad, men koppen tömde du med gott samvete."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent brygg. Litt bittert på slutten, men ingen ved bordet ba om te i stedet.",
+        "sv": "Godkänd brygd. Lite besk på slutet, men ingen vid bordet bad om te i stället."
+      },
+      {
+        "nb": "Over streken, og bollen fulgte med i prisen. Kaffepausen kan begynne.",
+        "sv": "Över gränsen, och bullen ingick i priset. Fikat kan börja."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra trukket. Du maler bønnene rett før bryggingen, og det merkes i første slurk.",
+        "sv": "Bra bryggt. Du maler bönorna precis före bryggningen, och det märks i första klunken."
+      },
+      {
+        "nb": "Her sitter det noe ekte. Baristaen spør hvilket brygg du vil ha, ikke om du vil ha melk.",
+        "sv": "Här sitter något äkta. Baristan frågar vilken brygd du vill ha, inte om du vill ha mjölk."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt som mokkakannen på full plate. Duften merkes i hele trappeoppgangen.",
+        "sv": "Starkt som mokkakannan på full platta. Doften märks i hela trapphuset."
+      },
+      {
+        "nb": "Du kjenner igjen bønnen på duften alene og vet nøyaktig når brenningen bør stoppes.",
+        "sv": "Du känner igen bönan på doften allena och vet exakt när rostningen bör stoppas."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Alt satt, helt til den siste dråpen rant utenfor filterkanten og ned på benken.",
+        "sv": "Allt satt, ända tills sista droppen rann utanför filterkanten och ner på bänken."
+      },
+      {
+        "nb": "Nesten hele kannen var perfekt. Bunnslanten ble grumsete, og den svir fortsatt.",
+        "sv": "Nästan hela kannan var perfekt. Sista skvätten blev grumlig, och den svider fortfarande."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott, perfekt crema, og et blad i melkeskummet du ikke engang trengte å øve på.",
+        "sv": "Full pott, perfekt crema, och ett blad i mjölkskummet du inte ens behövde öva på."
+      },
+      {
+        "nb": "Alt rett. Nå kan du brenne bønnene selv, for denne kannen er altfor liten for deg.",
+        "sv": "Allt rätt. Nu kan du rosta bönorna själv, för den här kannan är alldeles för liten för dig."
+      }
+    ]
+  }
+}

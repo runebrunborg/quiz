@@ -1,0 +1,492 @@
+/* ============================================================================
+   Feiringer – overlegget som spilles én gang når resultatet dukker opp.
+   Animasjonene ligger i `src/themes/celebrations.tsx`; her er bevegelsen.
+   Alt er rene CSS-animasjoner, og alt slås av ved «reduser bevegelse».
+   ========================================================================= */
+
+.celebration {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+/* ------------------------------------------------------------ fyrverkeri */
+
+.fw {
+  position: absolute;
+  width: 0;
+  height: 0;
+}
+
+.fw__flash {
+  position: absolute;
+  left: -40px;
+  top: -40px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  opacity: 0;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0) 70%);
+  animation: fw-flash 700ms ease-out forwards;
+}
+
+@keyframes fw-flash {
+  0% {
+    opacity: 0;
+    transform: scale(0.2);
+  }
+  15% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.6);
+  }
+}
+
+.fw__spark {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  opacity: 0;
+  transform-origin: 50% 50%;
+  box-shadow: 0 0 14px 3px rgba(255, 255, 255, 0.45);
+  animation: fw-spark 1700ms cubic-bezier(0.1, 0.75, 0.25, 1) forwards;
+}
+
+@keyframes fw-spark {
+  0% {
+    transform: rotate(var(--a)) translateY(0) scale(0.5);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 0.9;
+  }
+  100% {
+    transform: rotate(var(--a)) translateY(calc(-1 * var(--d))) scale(0.15);
+    opacity: 0;
+  }
+}
+
+/* -------------------------------------------------------------- konfetti */
+
+.cf {
+  position: absolute;
+  top: -8%;
+  opacity: 0;
+  animation-name: cf-fall;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+@keyframes cf-fall {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+    opacity: 0;
+  }
+  6% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(var(--drift), 112vh, 0) rotate(var(--spin));
+    opacity: 1;
+  }
+}
+
+/* ------------------------------------------------------------ stjerneregn */
+
+.shoot {
+  position: absolute;
+  width: 190px;
+  height: 3px;
+  border-radius: 3px;
+  box-shadow: 0 0 12px 2px rgba(255, 226, 241, 0.7);
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0), var(--pink-200) 55%, #ffffff);
+  opacity: 0;
+  animation-name: shoot;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+}
+
+@keyframes shoot {
+  0% {
+    opacity: 0;
+    transform: rotate(32deg) translateX(-180px);
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: rotate(32deg) translateX(75vw);
+  }
+}
+
+.twinkle {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  box-shadow: 0 0 10px 2px rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  background: var(--pink-100);
+  animation: twinkle 1700ms ease-in-out infinite;
+}
+
+@keyframes twinkle {
+  0%,
+  100% {
+    opacity: 0.15;
+    transform: scale(0.6);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.4);
+  }
+}
+
+/* ------------------------------------------------------ ballonger, bobler */
+
+.balloon,
+.bubble {
+  position: absolute;
+  bottom: -22%;
+  animation-name: rise-sway;
+  animation-fill-mode: forwards;
+}
+
+.balloon {
+  animation-timing-function: ease-in;
+}
+
+.balloon svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.bubble {
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  background: radial-gradient(circle at 32% 28%, rgba(255, 255, 255, 0.6), rgba(58, 214, 224, 0.14) 62%, rgba(58, 214, 224, 0));
+  animation-timing-function: ease-out;
+}
+
+@keyframes rise-sway {
+  0% {
+    transform: translate(0, 0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate(var(--sway), -135vh);
+    opacity: 0;
+  }
+}
+
+/* -------------------------------------------------------------- papirfly */
+
+.plane {
+  position: absolute;
+  left: -18%;
+  width: 76px;
+  animation: fly 3600ms ease-in-out forwards;
+}
+
+.plane svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@keyframes fly {
+  0% {
+    transform: translate(0, 0) rotate(-5deg);
+  }
+  45% {
+    transform: translate(52vw, -7vh) rotate(5deg);
+  }
+  100% {
+    transform: translate(126vw, 5vh) rotate(-7deg);
+  }
+}
+
+.puff {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  opacity: 0;
+  animation: puff 1500ms ease-out forwards;
+}
+
+@keyframes puff {
+  0% {
+    opacity: 0;
+    transform: scale(0.4);
+  }
+  30% {
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-28px) scale(1.7);
+  }
+}
+
+/* ------------------------------------------------------------ fugleklatt */
+
+.bird {
+  position: absolute;
+  top: 13%;
+  left: -16%;
+  width: 82px;
+  animation: bird-fly 2700ms linear forwards;
+}
+
+.bird svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@keyframes bird-fly {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(58vw, -4vh);
+  }
+  100% {
+    transform: translate(132vw, 3vh);
+  }
+}
+
+.bird__wing {
+  transform-origin: 24px 18px;
+  animation: flap 300ms ease-in-out infinite alternate;
+}
+
+@keyframes flap {
+  from {
+    transform: scaleY(1);
+  }
+  to {
+    transform: scaleY(-0.75);
+  }
+}
+
+.drop {
+  position: absolute;
+  left: 49%;
+  top: 15%;
+  width: 15px;
+  height: 19px;
+  border-radius: 50% 50% 50% 50% / 62% 62% 38% 38%;
+  background: var(--mist-100);
+  opacity: 0;
+  animation: drop-fall 950ms cubic-bezier(0.5, 0, 1, 1) 1250ms forwards;
+}
+
+@keyframes drop-fall {
+  0% {
+    opacity: 1;
+    transform: translateY(0) scaleY(1);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(44vh) scaleY(1.6);
+  }
+}
+
+.splat {
+  position: absolute;
+  left: 50%;
+  top: 56%;
+  width: 160px;
+  margin-left: -80px;
+  opacity: 0;
+  animation: splat 520ms cubic-bezier(0.2, 1.5, 0.4, 1) 2180ms forwards;
+}
+
+.splat svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@keyframes splat {
+  0% {
+    opacity: 0;
+    transform: scale(0.2) rotate(-10deg);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.12) rotate(3deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotate(0deg);
+  }
+}
+
+/* --------------------------------------------------------------- regnsky */
+
+.raincloud {
+  position: absolute;
+  left: 50%;
+  top: 5%;
+  width: 200px;
+  margin-left: -100px;
+  opacity: 0;
+  animation: cloud-in 800ms var(--ease) forwards;
+}
+
+.raincloud svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@keyframes cloud-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-70px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.rain {
+  position: absolute;
+  top: 13%;
+  width: 2px;
+  height: 18px;
+  border-radius: 2px;
+  background: linear-gradient(#7fb2ff, rgba(127, 178, 255, 0));
+  opacity: 0;
+  animation-name: rain-fall;
+  animation-timing-function: linear;
+  animation-iteration-count: 3;
+}
+
+@keyframes rain-fall {
+  0% {
+    opacity: 0;
+    transform: translateY(0);
+  }
+  12% {
+    opacity: 0.9;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(48vh);
+  }
+}
+
+/* ----------------------------------------------------------------- drage */
+
+.dragon {
+  position: absolute;
+  left: -4%;
+  bottom: 6%;
+  width: 210px;
+  opacity: 0;
+  animation: dragon-in 700ms var(--ease) 150ms forwards;
+}
+
+.dragon svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@keyframes dragon-in {
+  0% {
+    opacity: 0;
+    transform: translateX(-160px) rotate(-6deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0) rotate(0deg);
+  }
+}
+
+.firecone {
+  position: absolute;
+  left: 12%;
+  bottom: 18%;
+  width: 72vw;
+  height: 130px;
+  border-radius: 50%;
+  filter: blur(7px);
+  transform-origin: left center;
+  transform: scaleX(0);
+  opacity: 0;
+  background: radial-gradient(ellipse at left center, rgba(255, 201, 77, 0.95), rgba(255, 90, 31, 0.55) 42%, rgba(255, 45, 142, 0) 74%);
+  animation: cone 1700ms ease-out 850ms forwards;
+}
+
+@keyframes cone {
+  0% {
+    opacity: 0;
+    transform: scaleX(0) scaleY(0.4);
+  }
+  25% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 0.95;
+    transform: scaleX(1) scaleY(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(1.05) scaleY(1.15);
+  }
+}
+
+.ember {
+  position: absolute;
+  left: 13%;
+  bottom: 20%;
+  height: 8px;
+  border-radius: 50%;
+  opacity: 0;
+  filter: blur(1px);
+  animation: ember 1600ms ease-out forwards;
+}
+
+@keyframes ember {
+  0% {
+    opacity: 0;
+    transform: translate(0, 0) scale(0.6);
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translate(var(--reach), var(--rise)) scale(0.3);
+  }
+}
+
+/* --------------------------------------------------------- rolig variant */
+
+@media (prefers-reduced-motion: reduce) {
+  .celebration {
+    display: none;
+  }
+}

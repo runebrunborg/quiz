@@ -1,0 +1,115 @@
+{
+  "category": "havet",
+  "lines": {
+    "0": [
+      {
+        "nb": "Du kom ikke lenger enn ut på brygga, og der ble tauet liggende.",
+        "sv": "Du kom inte längre än ut på bryggan, och där blev tampen liggande."
+      },
+      {
+        "nb": "Kompasset peker mot land, seilene henger slappe og fjæra er så vidt våt.",
+        "sv": "Kompassen pekar mot land, seglen hänger slaka och strandkanten är knappt blöt."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Et napp på snøret, og selv måken på fortøyningsstolpen så at det var flaks.",
+        "sv": "Ett napp på reven, och till och med måsen på förtöjningsstolpen såg att det var tur."
+      },
+      {
+        "nb": "Du fikk hodet under vann. Dykkerkurset varer betydelig lenger enn det.",
+        "sv": "Du fick huvudet under ytan. Dykarkursen varar betydligt längre än så."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Kjølen er våt, men båten ligger fortsatt fortøyd med tauet dobbelt slått.",
+        "sv": "Kölen är blöt, men båten ligger kvar förtöjd med tampen dubbelt slagen."
+      },
+      {
+        "nb": "Litt liv i garnet: en brisling, en tangdott og en sur sjøstjerne.",
+        "sv": "Lite liv i nätet: en skarpsill, en tångtuss och en sur sjöstjärna."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Du holder deg pent innenfor moloen. Åpent hav står ikke på dagens sjøkart.",
+        "sv": "Du håller dig snällt innanför pirarmen. Öppet hav står inte på dagens sjökort."
+      },
+      {
+        "nb": "Konturene av en kystlinje i disen, men navigasjonen foregår mest på gjetning.",
+        "sv": "Konturerna av en kustlinje i diset, men navigeringen sker mest på gissning."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten ute av skjærgården. «Nesten» hjelper lite når strømmen setter inn.",
+        "sv": "Nästan ute ur skärgården. «Nästan» hjälper föga när strömmen sätter in."
+      },
+      {
+        "nb": "Du får kajakken ut til holmen, ser bølgene bak den og padler pent hjem igjen.",
+        "sv": "Du får kajaken ut till kobben, ser vågorna bakom den och paddlar snällt hem igen."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midtfjords, uten sjøbein og uten land i sikte. Kaffen i kabyssen skvulper.",
+        "sv": "Mitt på fjärden, utan sjöben och utan land i sikte. Kaffet i byssan skvalpar."
+      },
+      {
+        "nb": "Verken dykker eller landkrabbe. Du henger i badestigen og vurderer om siste steg er nødvendig.",
+        "sv": "Varken dykare eller landkrabba. Du hänger i badstegen och funderar på om sista steget behövs."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Du finner fram med sjøkartet, men lanterna må stå tent hele veien inn.",
+        "sv": "Godkänt. Du hittar med sjökortet, men lanternan måste lysa hela vägen in."
+      },
+      {
+        "nb": "Over streken, og knuten holder. Styrmannen kikker etter likevel, for ordens skyld.",
+        "sv": "Över gränsen, och knopen håller. Styrmannen kollar ändå efter, för ordningens skull."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra seilt. Du legger til kai uten at noen på brygga rekker å heve øyenbrynene.",
+        "sv": "Bra seglat. Du lägger till vid kajen utan att någon på bryggan hinner höja ögonbrynen."
+      },
+      {
+        "nb": "Her sitter det ekte sjømannskap: rett kurs, stramme skjøter og tørre støvler.",
+        "sv": "Här sitter det äkta sjömanskap: rätt kurs, sträckta skot och torra stövlar."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du kjenner tidevannet, leser dønningene og vet når det lønner seg å reve.",
+        "sv": "Starkt. Du känner tidvattnet, läser dyningarna och vet när det lönar sig att reva."
+      },
+      {
+        "nb": "Dykkerflagget er oppe, korallrevet ligger under deg, og lufta i flaska varer lenge.",
+        "sv": "Dykflaggan är uppe, revet ligger under dig, och luften i flaskan räcker länge."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Hele overfarten satt, helt til fortøyningen glapp i siste sving inn mot kaia.",
+        "sv": "Hela överfarten satt, ända tills förtöjningen slant i sista svängen in mot kajen."
+      },
+      {
+        "nb": "Nesten bunnen nådd, men den siste favnen med line svir mer enn den burde.",
+        "sv": "Nästan botten nådd, men den sista famnen lina svider mer än den borde."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott, ren kurs og blank sjø. Du burde ta med deg mannskap neste gang.",
+        "sv": "Full pott, ren kurs och blank sjö. Du borde ta med besättning nästa gång."
+      },
+      {
+        "nb": "Alt rett. Denne fjorden er for grunn for deg; sikt mot dypet og velg vanskelig.",
+        "sv": "Allt rätt. Den här fjärden är för grund för dig; sikta mot djupet och välj svår."
+      }
+    ]
+  }
+}

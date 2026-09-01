@@ -1,0 +1,115 @@
+{
+  "category": "tid",
+  "lines": {
+    "0": [
+      {
+        "nb": "Klokka står, batteriet er tomt, og du har ikke merket det på flere uker.",
+        "sv": "Klockan står, batteriet är slut, och du har inte märkt det på flera veckor."
+      },
+      {
+        "nb": "Timeglasset er snudd, men det renner ikke et eneste korn gjennom halsen.",
+        "sv": "Timglaset är vänt, men det rinner inte ett enda korn genom halsen."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett treff, og det var sekundviseren som tilfeldigvis pekte rett idet du gjettet.",
+        "sv": "En träff, och det var sekundvisaren som råkade peka rätt just när du gissade."
+      },
+      {
+        "nb": "Selv en stanset klokke har rett iblant. Gratulerer med akkurat det øyeblikket.",
+        "sv": "Även en stannad klocka har rätt ibland. Grattis till precis det ögonblicket."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Pendelen svinger fortsatt, men slagene kommer i en rekkefølge ingen urmaker kjenner igjen.",
+        "sv": "Pendeln svänger fortfarande, men slagen kommer i en ordning ingen urmakare känner igen."
+      },
+      {
+        "nb": "Du våknet, men først etter at vekkerklokka hadde gitt opp og slått seg av selv.",
+        "sv": "Du vaknade, men först efter att väckarklockan gett upp och stängt av sig själv."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Under pari. Du vet omtrent hvilken årstid det er, og der stopper presisjonen.",
+        "sv": "Under pari. Du vet ungefär vilken årstid det är, och där tar precisionen slut."
+      },
+      {
+        "nb": "Konturene av en kalender skimtes, men skuddåret kommer fortsatt overraskende på deg hver gang.",
+        "sv": "Konturerna av en kalender skymtar, men skottåret kommer fortfarande som en överraskning varje gång."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten halvveis rundt urskiven, og det er der lunsjen pleier å ødelegge hele fremdriften.",
+        "sv": "Nästan halvvägs runt urtavlan, och det är där lunchen brukar förstöra hela framdriften."
+      },
+      {
+        "nb": "Du kom i grevens tid, men til feil tidssone, så det hjalp fryktelig lite.",
+        "sv": "Du kom i grevens tid, fast i fel tidszon, så det hjälpte fruktansvärt lite."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet og midt på urskiven. Viseren peker rett ned og orker ikke mer.",
+        "sv": "Mitt på det hela och mitt på urtavlan. Visaren pekar rakt ner och orkar inte mer."
+      },
+      {
+        "nb": "Halvveis mellom sommertid og vintertid, der ingen helt tør å si hva klokka er.",
+        "sv": "Halvvägs mellan sommartid och vintertid, där ingen riktigt vågar säga vad klockan är."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Du rakk møtet, riktignok akkurat idet kaffen på kanna var drukket opp.",
+        "sv": "Godkänt. Du hann till mötet, visserligen precis när kaffet i kannan var slut."
+      },
+      {
+        "nb": "Over streken, som en gjøk som spretter ut litt for sent, men som spretter ut.",
+        "sv": "Över gränsen, som en gök som hoppar ut lite för sent, men som hoppar ut."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra timet. Klokka di går riktig, og du stiller den før den rekker å sakke.",
+        "sv": "Bra tajmat. Din klocka går rätt, och du ställer den innan den hinner sacka."
+      },
+      {
+        "nb": "Her sitter det ekte urmakerarbeid. Tannhjulene griper i hverandre nesten helt som de skal.",
+        "sv": "Här sitter äkta urmakeri. Kugghjulen griper i varandra nästan precis som de ska."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du regner om til en annen tidssone i hodet mens andre fortsatt leter etter appen.",
+        "sv": "Starkt. Du räknar om till en annan tidszon i huvudet medan andra fortfarande letar efter appen."
+      },
+      {
+        "nb": "Nå begynner det å imponere. Du vet til og med hvilke århundreskifter som slipper skuddagen.",
+        "sv": "Nu börjar det imponera. Du vet till och med vilka sekelskiften som slipper skottdagen."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ett sekund glapp, og et sekund er nok til at hele urverket får skylda.",
+        "sv": "En sekund gled undan, och en sekund räcker för att hela urverket ska få skulden."
+      },
+      {
+        "nb": "Nesten alt satt. Så tok skuddsekundet ingen tenker på med seg det siste svaret.",
+        "sv": "Nästan allt satt. Sedan tog skottsekunden ingen tänker på med sig det sista svaret."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott, på slaget, uten å skjele til klokka på veggen en eneste gang.",
+        "sv": "Full pott, på slaget, utan att snegla på klockan på väggen en enda gång."
+      },
+      {
+        "nb": "Alt rett. Noen bør gi deg et atomur og en betydelig vanskeligere kalender å bryne deg på.",
+        "sv": "Allt rätt. Någon bör ge dig en atomklocka och en betydligt svårare kalender att bita i."
+      }
+    ]
+  }
+}

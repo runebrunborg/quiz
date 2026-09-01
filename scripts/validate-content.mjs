@@ -317,8 +317,90 @@ for (const file of files) {
   }
 }
 
+/* ============================================================ domsetninger
+
+   Én fil per tema i `content/verdicts/`, med to varianter for hver mulige
+   poengsum. Et tema uten fil stopper bygget – det er slik nye kategorier
+   tvinges til å få domsetninger samtidig med spørsmålene.
+   Kontrakten står i `content/VERDICTS-SPEC.md`.                          */
+
+const verdictsDir = join(root, 'content', 'verdicts')
+const MAX_SCORE = 10
+const VARIANTS = 2
+
+let verdictLines = 0
+const verdictFiles = readdirSync(verdictsDir).filter((f) => f.endsWith('.json'))
+
+for (const cat of CATEGORIES) {
+  if (!verdictFiles.includes(`${cat}.json`)) {
+    errors.push(`content/verdicts/${cat}.json mangler – hvert tema må ha domsetninger, se content/VERDICTS-SPEC.md`)
+  }
+}
+
+for (const file of verdictFiles) {
+  const where0 = `verdicts/${file}`
+  const id = file.replace(/\.json$/, '')
+  if (!CATEGORIES.has(id)) {
+    errors.push(`${where0}: ingen kategori heter «${id}»`)
+    continue
+  }
+
+  let doc
+  try {
+    doc = JSON.parse(readFileSync(join(verdictsDir, file), 'utf8'))
+  } catch (err) {
+    errors.push(`${where0}: ugyldig JSON – ${err.message}`)
+    continue
+  }
+
+  if (doc?.category !== id) errors.push(`${where0}: "category" må være «${id}»`)
+  if (typeof doc?.lines !== 'object' || doc.lines === null) {
+    errors.push(`${where0}: "lines" mangler`)
+    continue
+  }
+
+  const expected = Array.from({ length: MAX_SCORE + 1 }, (_, i) => String(i))
+  for (const key of Object.keys(doc.lines)) {
+    if (!expected.includes(key)) errors.push(`${where0}: ukjent poengsum «${key}»`)
+  }
+
+  const seen = new Map()
+  for (const key of expected) {
+    const where = `${where0}[${key}]`
+    const variants = doc.lines[key]
+    if (!Array.isArray(variants) || variants.length !== VARIANTS) {
+      errors.push(`${where}: må ha nøyaktig ${VARIANTS} varianter`)
+      continue
+    }
+    for (const [i, v] of variants.entries()) {
+      const w = `${where}.${i}`
+      if (!isL10n(v)) {
+        errors.push(`${w}: mangler tekst på norsk eller svensk`)
+        continue
+      }
+      verdictLines += 1
+      for (const lang of ['nb', 'sv']) {
+        const line = text(v, lang)
+        const words = line.split(/\s+/).length
+        if (words < 6) warnings.push(`${w}: ${lang}-linja er kort (${words} ord)`)
+        if (words > 30) warnings.push(`${w}: ${lang}-linja er lang (${words} ord)`)
+        if (/\d/.test(line)) warnings.push(`${w}: ${lang}-linja inneholder et tall – poengsummen står allerede over`)
+        if (line.includes('"')) warnings.push(`${w}: ${lang}-linja bruker rette anførselstegn, bruk «…»`)
+        const prev = seen.get(line)
+        if (prev !== undefined) {
+          errors.push(`${w}: samme ${lang}-linje som ${where0}[${prev}]`)
+        } else {
+          seen.set(line, key)
+        }
+      }
+    }
+  }
+}
+
 for (const w of warnings) console.warn(`⚠  ${w}`)
 for (const e of errors) console.error(`✖  ${e}`)
 
-console.log(`\n${count} spørsmål i ${files.length} filer · ${errors.length} feil · ${warnings.length} advarsler`)
+console.log(
+  `\n${count} spørsmål i ${files.length} filer · ${verdictLines} domsetninger i ${verdictFiles.length} filer · ${errors.length} feil · ${warnings.length} advarsler`,
+)
 process.exit(errors.length > 0 ? 1 : 0)

@@ -1,0 +1,115 @@
+{
+  "category": "vinter",
+  "lines": {
+    "0": [
+      {
+        "nb": "Skiene står fortsatt i kjelleren, sporet er ukjørt, og snøen falt tydeligvis et helt annet sted.",
+        "sv": "Skidorna står kvar i källaren, spåret är okört, och snön föll tydligen på ett helt annat ställe."
+      },
+      {
+        "nb": "Skøytene henger på spikeren, isen er usikker, og brøytebilen kjørte forbi uten å stoppe.",
+        "sv": "Skridskorna hänger på spiken, isen är osäker, och plogbilen körde förbi utan att stanna."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Et tilfeldig treff, omtrent som å bli stående oppreist fordi snøfonna tok imot deg.",
+        "sv": "En slumpmässig träff, ungefär som att bli stående upprätt för att snödrivan tog emot dig."
+      },
+      {
+        "nb": "Noe glir. Sannsynligvis fordi det bar nedover, ikke fordi smøringen var riktig valgt.",
+        "sv": "Något glider. Antagligen för att det bar nedför, inte för att vallan var rätt vald."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Klisteren sitter, men på votten. Skiene er like trege oppover som da du startet.",
+        "sv": "Klistret sitter, men på vanten. Skidorna är lika tröga uppför som när du startade."
+      },
+      {
+        "nb": "Svakt, men du holder deg oppreist på isbanen så lenge du får holde i vantet.",
+        "sv": "Svagt, men du håller dig upprätt på isbanan så länge du får hålla i sargen."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Det holder til akebrett i barnebakken. Hoppbakken i Holmenkollen får stå helt urørt.",
+        "sv": "Det räcker till pulka i barnbacken. Hoppbacken i Falun får stå helt orörd."
+      },
+      {
+        "nb": "Under pari, sier løypemeldingen. Og løypemeldingen pleier å ha ubehagelig rett.",
+        "sv": "Under pari, säger spårrapporten. Och spårrapporten brukar ha obehagligt rätt."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten halvveis til varmestua. Kakaoen står klar der inne, men beina vil ikke lenger.",
+        "sv": "Nästan halvvägs till värmestugan. Chokladen står klar därinne, men benen vill inte längre."
+      },
+      {
+        "nb": "Du kom deg opp i skiheisen, men klarte ikke å komme av den uten å velte.",
+        "sv": "Du tog dig upp i skidliften, men lyckades inte kliva av den utan att välta."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet, midt i løypa: krefter nok til å komme hjem, ingen til å ta innersvingen.",
+        "sv": "Mitt på det hela, mitt i spåret: krafter nog att ta dig hem, inga till att gena förbi."
+      },
+      {
+        "nb": "Halve skøytebanen er rundet i god stil. Resten går på vaklende ankler.",
+        "sv": "Halva skridskobanan är rundad i god stil. Resten går på vacklande vrister."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Smøringen holder i motbakken, selv om den svikter idet det flater ut.",
+        "sv": "Godkänt. Vallan håller i uppförsbacken, även om den sviker precis när det planar ut."
+      },
+      {
+        "nb": "Over streken, og du kom gjennom løypa uten å gå sikksakk opp den bratteste bakken.",
+        "sv": "Över gränsen, och du tog dig genom spåret utan att gå sicksack upp den brantaste backen."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra kjørt. Du velger riktig smøring før noen rekker å måle temperaturen i sporet.",
+        "sv": "Bra kört. Du väljer rätt valla innan någon hinner mäta temperaturen i spåret."
+      },
+      {
+        "nb": "Her sitter det noe ekte. Du tar utforbakken uten å måtte plukke opp stavene etterpå.",
+        "sv": "Här sitter det något äkta. Du tar utförsbacken utan att behöva plocka upp stavarna efteråt."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Snøen leses, sporet holder, og du er hjemme før termosen rekker å bli kald.",
+        "sv": "Starkt. Snön läses, spåret håller, och du är hemma innan termosen hinner bli kall."
+      },
+      {
+        "nb": "Nå begynner det å imponere. Du hadde tatt deg gjennom Birkebeinerrennet med matpakke og godt humør.",
+        "sv": "Nu börjar det imponera. Du hade tagit dig genom Vasaloppet med matsäck och gott humör."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Den ene svingen du bommet på, var akkurat den siste før målsnora.",
+        "sv": "Den enda kurvan du missade var precis den sista före målsnöret."
+      },
+      {
+        "nb": "Nesten hele løypa i perfekt stil. Så løsnet festet i den aller siste utforkjøringen.",
+        "sv": "Nästan hela spåret i perfekt stil. Sedan lossnade bindningen i den allra sista utförsåkningen."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Alt rett, hele løypa, riktig smøring. Du burde legge sporet for oss andre.",
+        "sv": "Allt rätt, hela spåret, rätt valla. Du borde lägga spåret åt oss andra."
+      },
+      {
+        "nb": "Full pott. Nå får du prøve vanskelig, for denne bakken er altfor slak for deg.",
+        "sv": "Full pott. Nu får du prova svår, för den här backen är alldeles för flack för dig."
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "category": "stein",
+  "lines": {
+    "0": [
+      {
+        "nb": "Ikke en stein på stein. Grunnmuren ligger fortsatt igjen i steinbruddet.",
+        "sv": "Inte en sten på sten. Grunden ligger fortfarande kvar i stenbrottet."
+      },
+      {
+        "nb": "Sisyfos ruller sin stein oppover. Din trillet tilbake før du i det hele tatt tok i.",
+        "sv": "Sisyfos rullar sin sten uppför. Din rullade tillbaka innan du ens tog i."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett treff, som når du kaster en stein i vannet og den spretter én gang.",
+        "sv": "En träff, som när du kastar en sten i vattnet och den studsar en gång."
+      },
+      {
+        "nb": "Én grunnstein er lagt. Resten av muren finnes bare i hodet på byggmesteren.",
+        "sv": "En grundsten är lagd. Resten av muren finns bara i huvudet på byggmästaren."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Du er i steinalderen, og flintøksa er fremdeles bare en lovende kampestein.",
+        "sv": "Du är i stenåldern, och flintyxan är fortfarande bara en lovande sten."
+      },
+      {
+        "nb": "Litt liv i steinbruddet, men ingen blokk er stor nok til noe ennå.",
+        "sv": "Lite liv i stenbrottet, men inget block är stort nog till något än."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Det rekker til en gråstein i grøfta, ikke til en bautastein på haugen.",
+        "sv": "Det räcker till en gråsten i diket, inte till en bautasten på kullen."
+      },
+      {
+        "nb": "Konturene av en steinbukk i fjellsiden. Den forsvinner så snart du ser bort.",
+        "sv": "Konturerna av en stenbock i bergssidan. Den försvinner så fort du tittar bort."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten oppe på steinen, og så glir foten, og hele bakken må tas om igjen.",
+        "sv": "Nästan uppe på stenen, och så halkar foten, och hela backen får tas om igen."
+      },
+      {
+        "nb": "Kunnskapen ligger som brostein: jevn nok å gå på, men noen heller mangler i kanten.",
+        "sv": "Kunskapen ligger som gatsten: jämn nog att gå på, men några plattor saknas i kanten."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt i steinura: ikke tilbake til stien, ikke fram til varden på toppen.",
+        "sv": "Mitt i blockmarken: inte tillbaka till stigen, inte fram till röset på toppen."
+      },
+      {
+        "nb": "Halve muren er murt. Resten ligger fremdeles som løse kampesteiner i graset.",
+        "sv": "Halva muren är murad. Resten ligger fortfarande som lösa stenblock i gräset."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Muren står, selv om mørtelen mellom steinene er tynnere enn den burde vært.",
+        "sv": "Godkänt. Muren står, även om bruket mellan stenarna är tunnare än det borde."
+      },
+      {
+        "nb": "Over streken, som en steinbukk som så vidt får feste på berghylla.",
+        "sv": "Över gränsen, som en stenbock som nätt och jämnt får fäste på berghyllan."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra. Du treffer tonen som en hammer treffer meiselen i steinhoggerens verksted.",
+        "sv": "Bra. Du träffar tonen som en hammare träffar mejseln i stenhuggarens verkstad."
+      },
+      {
+        "nb": "Her sitter det. En milestein er passert, og veien videre er tørr og fin.",
+        "sv": "Här sitter det. En milsten är passerad, och vägen vidare är torr och fin."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Blokkene står som i Stonehenge, og ingen skjønner helt hvordan du fikk dem dit.",
+        "sv": "Starkt. Blocken står som i Stonehenge, och ingen förstår riktigt hur du fick dit dem."
+      },
+      {
+        "nb": "Du kjenner hver stein i bruddet og vet nøyaktig hvor den kommer til å sprekke.",
+        "sv": "Du känner varje sten i brottet och vet exakt var den kommer att spricka."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Én stein glapp helt øverst i varden. Den lå fint helt til vinden kom.",
+        "sv": "En sten gled ur högst upp i röset. Den låg fint ända tills vinden kom."
+      },
+      {
+        "nb": "Nesten plettfritt slipt. Det er den ene ripa i edelstenen juveleren ser først.",
+        "sv": "Nästan felfritt slipad. Det är den enda repan i ädelstenen juveleraren ser först."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Alt rett, murt tett hele veien opp. Varden din ser man fra neste fjell.",
+        "sv": "Allt rätt, murat tätt hela vägen upp. Ditt röse syns från nästa fjäll."
+      },
+      {
+        "nb": "Full pott. Nå får du opp i et hardere fjell, for dette var bare grus.",
+        "sv": "Full pott. Nu får du upp i ett hårdare berg, för det här var bara grus."
+      }
+    ]
+  }
+}

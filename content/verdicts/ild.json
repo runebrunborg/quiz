@@ -1,0 +1,115 @@
+{
+  "category": "ild",
+  "lines": {
+    "0": [
+      {
+        "nb": "Ikke en gnist. Fyrstikkesken er tom og veden ligger fortsatt ute i regnet.",
+        "sv": "Inte en gnista. Tändsticksasken är tom och veden ligger kvar ute i regnet."
+      },
+      {
+        "nb": "Fakkelen ble rakt fram, men solspeilet i Olympia fant ingenting å tenne.",
+        "sv": "Facklan hölls fram, men solspegeln i Olympia hittade ingenting att tända."
+      }
+    ],
+    "1": [
+      {
+        "nb": "En gnist i neveren, straks slukket. Bålvakten later som ingenting skjedde.",
+        "sv": "En gnista i näveren, genast slocknad. Eldvakten låtsas att ingenting hände."
+      },
+      {
+        "nb": "Lighteren tok til slutt, og alle rundt bålet vet at det var ren flaks.",
+        "sv": "Tändaren tog till slut, och alla runt elden vet att det var ren tur."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Det ryker fra kvistene, men flammen har ikke bestemt seg for å bli.",
+        "sv": "Det ryker om kvistarna, men lågan har inte bestämt sig för att stanna."
+      },
+      {
+        "nb": "Glo i asken, altså liv. Kaffekjelen kan likevel få stå kald en stund.",
+        "sv": "Glöd i askan, alltså liv. Kaffepannan får ändå stå kall ett tag."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Bålet brenner så vidt, og røyken finner alltid den du helst vil imponere.",
+        "sv": "Elden brinner nätt och jämnt, och röken hittar alltid den du helst vill imponera på."
+      },
+      {
+        "nb": "Under pari: vulkanen putrer, men magmaen kommer ingen vei opp gjennom krateret.",
+        "sv": "Under pari: vulkanen puttrar, men magman kommer ingenstans upp genom kratern."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten fyr. Du blåser i glørne en god stund, men «nesten» varmer dårlig.",
+        "sv": "Nästan eld. Du blåser på glöden en bra stund, men «nästan» värmer dåligt."
+      },
+      {
+        "nb": "Fyrverkeriet ble tent, hveste litt og satte seg ned igjen i snøen.",
+        "sv": "Fyrverkeriet tändes, väste lite och satte sig ner i snön igen."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet: flammene lever, men noen må mate dem hele kvelden.",
+        "sv": "Mitt emellan: lågorna lever, men någon måste mata dem hela kvällen."
+      },
+      {
+        "nb": "Ilden holder akkurat til pølser, ikke til historier langt ut i natta.",
+        "sv": "Elden räcker precis till korv, inte till historier långt in på natten."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Peisen varmer stua, selv om spjeldet må justeres støtt og stadig.",
+        "sv": "Godkänt. Brasan värmer rummet, även om spjället måste justeras stup i kvarten."
+      },
+      {
+        "nb": "Over streken. Fakkelen din holder seg tent, men du går forsiktig i svingene.",
+        "sv": "Över gränsen. Din fackla håller sig tänd, men du går försiktigt i kurvorna."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra tent. Et strøk med fyrstikka, og bålet tar uten at noen må hjelpe til.",
+        "sv": "Bra tänt. Ett drag med tändstickan, och elden tar utan att någon behöver hjälpa till."
+      },
+      {
+        "nb": "Her sitter håndverket: tørr never, riktig opptenning og en flamme som står rolig.",
+        "sv": "Här sitter hantverket: torr näver, rätt upptändning och en låga som står stilla."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du kjenner forskjell på lava og aske, og du vet hvor smia skal ligge.",
+        "sv": "Starkt. Du känner skillnad på lava och aska, och du vet var smedjan ska ligga."
+      },
+      {
+        "nb": "Fakkelstafetten kunne trygt gått gjennom hendene dine, i motvind og duskregn.",
+        "sv": "Fackelstafetten kunde tryggt ha gått genom dina händer, i motvind och duggregn."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Nesten hele veien opp til krateret, men den siste gnisten blafret bort i vinden.",
+        "sv": "Nästan hela vägen upp till kratern, men den sista gnistan fladdrade bort i vinden."
+      },
+      {
+        "nb": "Alt brant klart, bortsett fra fyrstikka som knakk i hånda. Den svir.",
+        "sv": "Allt brann klart, utom tändstickan som knäcktes i handen. Den svider."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full flamme, jevn glo og ingen røyk. Du kan tenne den olympiske ilden selv.",
+        "sv": "Full låga, jämn glöd och ingen rök. Du kan tända den olympiska elden själv."
+      },
+      {
+        "nb": "Alt rett. Dette krateret er for lite for deg; velg vanskelig og finn en større vulkan.",
+        "sv": "Allt rätt. Den här kratern är för liten för dig; välj svår och hitta en större vulkan."
+      }
+    ]
+  }
+}

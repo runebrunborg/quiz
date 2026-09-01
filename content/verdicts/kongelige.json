@@ -1,0 +1,115 @@
+{
+  "category": "kongelige",
+  "lines": {
+    "0": [
+      {
+        "nb": "Kronen ligger fortsatt i hvelvet, og vaktene ved porten har aldri hørt navnet ditt.",
+        "sv": "Kronan ligger kvar i valvet, och vakterna vid porten har aldrig hört ditt namn."
+      },
+      {
+        "nb": "Vindebroen ble heist før du rakk fram. Slottsplassen er tom og seremonien avlyst.",
+        "sv": "Vindbryggan hissades innan du hann fram. Borggården är tom och ceremonin inställd."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett treff, omtrent som å bli vinket til ved en ren tilfeldighet fra balkongen.",
+        "sv": "En träff, ungefär som att bli tillvinkad av en ren slump från balkongen."
+      },
+      {
+        "nb": "Du kom deg innenfor slottsporten, men bare til garderoben. Tronsalen ligger flere trapper opp.",
+        "sv": "Du tog dig innanför slottsporten, men bara till garderoben. Tronsalen ligger flera trappor upp."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Svakt, men adelig nok til en tittel uten jord, slott eller inntekter.",
+        "sv": "Svagt, men adligt nog till en titel utan jord, slott eller inkomster."
+      },
+      {
+        "nb": "Hermelinskappen henger på deg, men slepet drar du etter deg over hele gulvet.",
+        "sv": "Hermelinmanteln hänger på dig, men släpet drar du efter dig över hela golvet."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Under pari. Du står langt bak i tronfølgen, og køen foran deg blir ikke kortere.",
+        "sv": "Under pari. Du står långt bak i tronföljden, och kön framför dig blir inte kortare."
+      },
+      {
+        "nb": "Konturene av en hoffmann aner man, men bukket kommer et halvt sekund for sent.",
+        "sv": "Konturerna av en hovman anas, men bugningen kommer en halv sekund för sent."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten halvveis opp trappen til tronsalen. Der venter en vakt med en liste du ikke står på.",
+        "sv": "Nästan halvvägs uppför trappan till tronsalen. Där väntar en vakt med en lista du inte står på."
+      },
+      {
+        "nb": "Kronen passer, men den glir ned over ørene hver gang du nikker.",
+        "sv": "Kronan passar, men den glider ner över öronen varje gång du nickar."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet: invitasjon til hagefesten, ikke til gallamiddagen. Ta med paraply.",
+        "sv": "Mitt på det hela: inbjudan till trädgårdsfesten, inte till galamiddagen. Ta med paraply."
+      },
+      {
+        "nb": "Du sitter ved bordet i festsalen, men langt nede der talene knapt høres.",
+        "sv": "Du sitter vid bordet i festsalen, men långt ner där talen knappt hörs."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Du får plass på slottsbalkongen, ytterst, der kameraene så vidt rekker bort.",
+        "sv": "Godkänt. Du får plats på slottsbalkongen, ytterst, dit kamerorna nätt och jämnt når."
+      },
+      {
+        "nb": "Over streken, og hoffet lar deg beholde tittelen. Slottet må du fortsatt leie.",
+        "sv": "Över gränsen, och hovet låter dig behålla titeln. Slottet får du fortfarande hyra."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra. Du kan tronfølgen utenat og vet hvilken gaffel som hører til hvilken rett.",
+        "sv": "Bra. Du kan tronföljden utantill och vet vilken gaffel som hör till vilken rätt."
+      },
+      {
+        "nb": "Her sitter det noe ekte. Herolden leser opp navnet ditt uten å snuble i det.",
+        "sv": "Här sitter något äkta. Härolden läser upp ditt namn utan att snubbla på det."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Slottsforvalteren gir deg nøkkelen til galleriet og spør ikke hvorfor du vil dit.",
+        "sv": "Starkt. Slottsfogden ger dig nyckeln till galleriet och frågar inte varför du vill dit."
+      },
+      {
+        "nb": "Kronjuvelene får du se uten glass imellom, og vaktene holder seg et skritt bak.",
+        "sv": "Kronjuvelerna får du se utan glas emellan, och vakterna håller sig ett steg bakom."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ett ledd i tronfølgen skilte deg fra kronen. Slikt svir i generasjoner.",
+        "sv": "Ett led i tronföljden skilde dig från kronan. Sådant svider i generationer."
+      },
+      {
+        "nb": "Nesten hele seremonien satt. Så gled septeret ut av hånden idet salen reiste seg.",
+        "sv": "Nästan hela ceremonin satt. Så gled spiran ur handen just när salen reste sig."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Kronen sitter, kappen henger rett, og hele slottsplassen roper navnet ditt.",
+        "sv": "Full pott. Kronan sitter, manteln hänger rätt, och hela borggården ropar ditt namn."
+      },
+      {
+        "nb": "Alt rett. Nå trenger du et større rike, for dette slottet har du allerede arvet.",
+        "sv": "Allt rätt. Nu behöver du ett större rike, för det här slottet har du redan ärvt."
+      }
+    ]
+  }
+}

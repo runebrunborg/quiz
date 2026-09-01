@@ -1,0 +1,115 @@
+{
+  "category": "borg",
+  "lines": {
+    "0": [
+      {
+        "nb": "Vindebroen er heist, porten er stengt, og portvakten kjenner deg ikke igjen.",
+        "sv": "Vindbryggan är uppdragen, porten stängd, och portvakten känner inte igen dig."
+      },
+      {
+        "nb": "Du står nede i vollgraven og vinker opp mot tinnene. Ingen vinker tilbake.",
+        "sv": "Du står nere i vallgraven och vinkar upp mot tinnarna. Ingen vinkar tillbaka."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett treff, som når en pil fra tårnet tilfeldigvis finner blinken i mørket.",
+        "sv": "En träff, som när en pil från tornet av en slump hittar pricken i mörkret."
+      },
+      {
+        "nb": "Én fakkel brenner i borggården. Resten av anlegget ligger i stummende mørke.",
+        "sv": "En fackla brinner på borggården. Resten av anläggningen ligger i kolmörker."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Grunnmuren er lagt, men ridderne har allerede søkt seg til en annen borg.",
+        "sv": "Grunden är lagd, men riddarna har redan sökt sig till en annan borg."
+      },
+      {
+        "nb": "Byggmesteren ser på arbeidet, ruller sammen tegningen igjen og går hjem tidlig.",
+        "sv": "Byggmästaren tittar på arbetet, rullar ihop ritningen igen och går hem tidigt."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Vakthuset utenfor muren er ditt. Selve borggården må du se på avstand.",
+        "sv": "Vakthuset utanför muren är ditt. Själva borggården får du se på avstånd."
+      },
+      {
+        "nb": "Det rekker til Sarpsborg. Göteborg og de virkelig store borgene ligger et godt stykke unna.",
+        "sv": "Det räcker till Borgholm. Göteborg och de riktigt stora borgarna ligger en bra bit bort."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Muren når deg til skulderen, og porten står på gløtt for hvem som helst.",
+        "sv": "Muren når dig till axeln, och porten står på glänt för vem som helst."
+      },
+      {
+        "nb": "Nesten innenfor porten. «Nesten» er akkurat den avstanden portvakten trenger for å lukke.",
+        "sv": "Nästan innanför porten. «Nästan» är precis det avstånd portvakten behöver för att stänga."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Halve borgen er reist. Den andre halvparten står som stillas og gode intensjoner.",
+        "sv": "Halva borgen är rest. Den andra halvan står som byggnadsställning och goda avsikter."
+      },
+      {
+        "nb": "Du slipper inn på borggården, men tronsalen er det andre som får omvisning i.",
+        "sv": "Du släpps in på borggården, men tronsalen är det andra som får visning i."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Vaktskiftet nikker til deg, og ingen ber om å få se seglet ditt.",
+        "sv": "Godkänt. Vaktavlösningen nickar åt dig, och ingen ber att få se ditt sigill."
+      },
+      {
+        "nb": "Du får eget kammer, riktignok det trekkfulle ved skyteskåret. Utsikt er det.",
+        "sv": "Du får eget rum, visserligen det dragiga vid skottgluggen. Utsikt finns det."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra. Nøkkelen til skattkammeret er din, og borgfruen husker navnet ditt.",
+        "sv": "Bra. Nyckeln till skattkammaren är din, och borgfrun minns ditt namn."
+      },
+      {
+        "nb": "Her sitter murverket. En beleiring kan komme, borgen din holder til langt uti høsten.",
+        "sv": "Här sitter murverket. En belägring kan komma, din borg håller långt in på hösten."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Banneret er heist, vaktene står støtt, og ingen kommer inn uten å bli spurt.",
+        "sv": "Starkt. Banéret är hissat, vakterna står stadigt, och ingen kommer in utan att bli tillfrågad."
+      },
+      {
+        "nb": "Du kjenner hver hemmelig gang i muren og vet nøyaktig hvilken trapp som knirker.",
+        "sv": "Du känner varje hemlig gång i muren och vet exakt vilken trappa som knarrar."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Én stein satt løst i muren, og beleiringen fant den selvsagt med én gang.",
+        "sv": "En sten satt löst i muren, och belägringen hittade den förstås direkt."
+      },
+      {
+        "nb": "Hele borgen står, bortsett fra tårnet som mangler taket. Så nære var det.",
+        "sv": "Hela borgen står, bortsett från tornet som saknar tak. Så nära var det."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Alt på plass, fra portrommet til værhanen på det høyeste tårnet. Ingen anmerkninger.",
+        "sv": "Allt på plats, från portvalvet till vindflöjeln på det högsta tornet. Inga anmärkningar."
+      },
+      {
+        "nb": "Full borg. Nå får du bygge en større en, for denne har du allerede erobret.",
+        "sv": "Full borg. Nu får du bygga en större, för den här har du redan erövrat."
+      }
+    ]
+  }
+}

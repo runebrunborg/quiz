@@ -1,0 +1,115 @@
+{
+  "category": "rovdyr",
+  "lines": {
+    "0": [
+      {
+        "nb": "Ikke et spor i snøen. Viltkameraet har stått på i ukevis og filmet gran.",
+        "sv": "Inte ett spår i snön. Viltkameran har stått på i veckor och filmat gran."
+      },
+      {
+        "nb": "Flokken dro videre uten deg, og selv reven ved søppelspannet så en annen vei.",
+        "sv": "Flocken drog vidare utan dig, och till och med räven vid soptunnan tittade åt annat håll."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Et treff, omtrent som når reven snubler over en mus under snøen.",
+        "sv": "En träff, ungefär som när räven snubblar över en mus under snön."
+      },
+      {
+        "nb": "Du hørte ulven ule og gjettet riktig art. Rent lykketreff, og det vet du.",
+        "sv": "Du hörde vargen yla och gissade rätt art. Ren tur, och det vet du."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Svakt, men gaupa har i det minste registrert at du befinner deg i skogen.",
+        "sv": "Svagt, men lodjuret har åtminstone noterat att du befinner dig i skogen."
+      },
+      {
+        "nb": "Litt liv: du kjenner igjen en bjørneklo på bilde, helst i god belysning.",
+        "sv": "Lite liv: du känner igen en björnklo på bild, helst i bra belysning."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Du klarer å skille ulv fra rev, men jerven forblir et rykte oppe i fjellet.",
+        "sv": "Du klarar att skilja varg från räv, men järven förblir ett rykte uppe i fjällen."
+      },
+      {
+        "nb": "Konturene av et revir, men sporene i snøen leser du fortsatt baklengs.",
+        "sv": "Konturerna av ett revir, men spåren i snön läser du fortfarande baklänges."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten halvveis inn i flokken, og «nesten» gir ingen plass i rangordningen.",
+        "sv": "Nästan halvvägs in i flocken, och «nästan» ger ingen plats i rangordningen."
+      },
+      {
+        "nb": "Du finner hiet, men bjørnen har flyttet, og det merket du først på vei hjem.",
+        "sv": "Du hittar idet, men björnen har flyttat, och det märkte du först på vägen hem."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt på treet, som gaupa: sett av alle, bekreftet av ingen.",
+        "sv": "Mitt på det hela, som lodjuret: sett av alla, bekräftat av ingen."
+      },
+      {
+        "nb": "Verken jeger eller bytte. Du står i skogkanten og lar flokken bestemme retningen.",
+        "sv": "Varken jägare eller byte. Du står i skogsbrynet och låter flocken bestämma riktningen."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Du kjenner igjen sporet, men må kikke i boka før du tør si ulv.",
+        "sv": "Godkänt. Du känner igen spåret, men måste kika i boken innan du vågar säga varg."
+      },
+      {
+        "nb": "Over streken, og geparden ville nikket anerkjennende, om den orket å bremse.",
+        "sv": "Över gränsen, och geparden hade nickat gillande, om den orkat bromsa in."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra jaktet. Du leser sporene i snøen og gjetter riktig om hvor dyret tok veien.",
+        "sv": "Bra jagat. Du läser spåren i snön och gissar rätt om vart djuret tog vägen."
+      },
+      {
+        "nb": "Her sitter det ekte kunnskap: du skiller jerv fra grevling uten å nøle.",
+        "sv": "Här sitter det äkta kunskap: du skiljer järv från grävling utan att tveka."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du vet hvor bjørnen graver hiet, og hvorfor ulven sjelden går alene.",
+        "sv": "Starkt. Du vet var björnen gräver idet, och varför vargen sällan går ensam."
+      },
+      {
+        "nb": "Viltkameraet ditt fanger gaupa mens alle andres kamera fanger snøfokk.",
+        "sv": "Din viltkamera fångar lodjuret medan alla andras kameror fångar yrsnö."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Nesten hele flokken kartlagt, men et ungdyr smatt unna nede i skogkanten.",
+        "sv": "Nästan hela flocken kartlagd, men en ungvarg smet undan nere i skogsbrynet."
+      },
+      {
+        "nb": "Alt satt, helt til et spor i nysnøen viste seg å tilhøre en annen art.",
+        "sv": "Allt satt, ända tills ett spår i nysnön visade sig tillhöra en annan art."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Flokken følger deg, og gaupa vurderer å søke om lærlingplass.",
+        "sv": "Full pott. Flocken följer dig, och lodjuret funderar på att söka lärlingsplats."
+      },
+      {
+        "nb": "Alt rett. Dette reviret er for lite; velg vanskelig og finn deg større tenner.",
+        "sv": "Allt rätt. Det här reviret är för litet; välj svår och skaffa dig större tänder."
+      }
+    ]
+  }
+}

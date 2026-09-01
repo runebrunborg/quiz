@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import type { AskedQuestion, Difficulty, QuizSession, Region } from '../../shared/types'
 import { langForRegion, t } from '../../shared/types'
@@ -7,6 +7,9 @@ import { syncOutbox } from '../lib/api'
 import { CATEGORY_BY_ID, pickQuestions, QUESTIONS_PER_ROUND } from '../lib/content'
 import { queueForSync, saveSession } from '../lib/storage'
 import { DIFFICULTY_LABELS, ORIGIN_LABELS, ui } from '../lib/ui'
+import { verdictFor } from '../lib/verdicts'
+import { CelebrationLayer } from '../themes/celebrations'
+import { ThemeMotifField } from '../themes/motifs'
 import { ThemeScene } from '../themes/scenes'
 
 const DIFFICULTIES: Difficulty[] = ['lett', 'medium', 'vanskelig']
@@ -45,6 +48,15 @@ export default function PlayScreen() {
   )
   const [revealed, setRevealed] = useState(false)
   const [saved, setSaved] = useState(false)
+  // Telleren bytter animasjon uten å røre resultatet – frøet er `id|replay`.
+  const [replay, setReplay] = useState(0)
+  const resultRef = useRef<HTMLDivElement>(null)
+
+  // Resultatet dukker opp nederst på en lang side. Uten dette står brukeren
+  // igjen midt i spørsmålslista mens feiringen spilles utenfor synsfeltet.
+  useEffect(() => {
+    if (saved) resultRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' })
+  }, [saved])
 
   if (!meta || questions.length === 0) {
     return (
@@ -57,6 +69,7 @@ export default function PlayScreen() {
   const marked = asked.filter((a) => a.verdict !== null).length
   const correct = asked.filter((a) => a.verdict === 'rett').length
   const hintsUsed = asked.reduce((sum, a) => sum + a.hintsUsed, 0)
+  const verdict = verdictFor(category, correct, sessionId)
 
   function update(index: number, next: AskedQuestion) {
     setAsked((prev) => prev.map((a, i) => (i === index ? next : a)))
@@ -150,17 +163,22 @@ export default function PlayScreen() {
       )}
 
       {saved && (
-        <div className="result" style={{ marginTop: 'var(--sp-6)' }}>
+        <div className="result" ref={resultRef} style={{ marginTop: 'var(--sp-6)' }}>
+          <span className="result__motif">
+            <ThemeMotifField scene={meta.scene} id={sessionId} />
+          </span>
+          <CelebrationLayer correct={correct} total={questions.length} seed={sessionId} replay={replay} />
           <p className="eyebrow" style={{ marginBottom: 0 }}>
             {t(meta.name, lang)} · {DIFFICULTY_LABELS[difficulty]}
           </p>
           <p className="result__score tabular">
             {correct}
-            <span style={{ fontSize: '0.42em', WebkitTextFillColor: 'var(--text-muted)' }}> {txt.ofTen}</span>
+            <span className="result__score-of">{txt.ofTen}</span>
           </p>
-          <p className="muted">
+          <p className="result__hints">
             {hintsUsed} {txt.hintsUsed}
           </p>
+          {verdict && <p className="result__verdict">{t(verdict, lang)}</p>}
           <div className="result__actions">
             <button type="button" className="btn btn--primary" onClick={() => navigate('/')}>
               {txt.playAgain}
@@ -169,6 +187,9 @@ export default function PlayScreen() {
               {txt.toStats}
             </Link>
           </div>
+          <button type="button" className="result__replay" onClick={() => setReplay((n) => n + 1)}>
+            {lang === 'sv' ? 'Spela upp igen' : 'Spill av igjen'}
+          </button>
         </div>
       )}
     </>

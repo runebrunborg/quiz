@@ -1,0 +1,115 @@
+{
+  "category": "fjell",
+  "lines": {
+    "0": [
+      {
+        "nb": "Du kom deg ikke ut av parkeringsplassen ved fjellstua. Sekken står fortsatt i bagasjerommet.",
+        "sv": "Du tog dig inte ens ut från parkeringen vid fjällstationen. Ryggsäcken står kvar i bagageluckan."
+      },
+      {
+        "nb": "Selv de blåmerkede stiene nede i bjørkeskogen klarte seg uten deg. Toppen aner ikke at du finnes.",
+        "sv": "Till och med de blåmarkerade lederna nere i björkskogen klarade sig utan dig. Toppen anar inte att du finns."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Så vidt over tregrensa, så snudde du. Vinden fikk æren, men vi vet bedre.",
+        "sv": "Nätt och jämnt ovanför trädgränsen, sedan vände du. Vinden fick äran, men vi vet bättre."
+      },
+      {
+        "nb": "En varde dukket opp i tåka, og du traff den av ren og skjær tilfeldighet.",
+        "sv": "Ett röse dök upp i dimman, och du träffade det av rena tillfälligheter."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Stigningen har begynt, men du puster allerede som om Besseggen lå bak deg.",
+        "sv": "Stigningen har börjat, men du flåsar redan som om hela Kungsleden låg bakom dig."
+      },
+      {
+        "nb": "Litt liv i beina, men brodder og tau ligger fortsatt urørt nederst i sekken.",
+        "sv": "Lite liv i benen, men broddar och rep ligger fortfarande orörda längst ner i ryggsäcken."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Du er kommet til første hytte. Selve toppen ligger bak flere lange dagsmarsjer.",
+        "sv": "Du har nått första fjällstugan. Själva toppen ligger bakom flera långa dagsmarscher."
+      },
+      {
+        "nb": "Konturene av en fjellrygg i disen, men kartet peker en helt annen vei.",
+        "sv": "Konturerna av en bergsrygg i diset, men kartan pekar åt ett helt annat håll."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Nesten opp til skardet, og «nesten» er akkurat det ordet fjellet ikke bryr seg om.",
+        "sv": "Nästan upp till passet, och «nästan» är precis det ord fjället inte bryr sig om."
+      },
+      {
+        "nb": "Du kommer deg til brekanten, ser opp, og bestemmer at utsikten er fin herfra også.",
+        "sv": "Du tar dig till iskanten, tittar upp och bestämmer att utsikten är fin härifrån också."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Midt i ura, halvveis mellom bilen og toppvarden. Nå avgjør sekken resten.",
+        "sv": "Mitt i blockterrängen, halvvägs mellan bilen och toppröset. Nu avgör ryggsäcken resten."
+      },
+      {
+        "nb": "Verken tur eller retrett. Du sitter på en stein og deler kvikklunsjen med deg selv.",
+        "sv": "Varken tur eller reträtt. Du sitter på en sten och delar Kexchokladen med dig själv."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Godkjent. Du står på toppen, men skyene tok utsikten før du rakk å se den.",
+        "sv": "Godkänt. Du står på toppen, men molnen tog utsikten innan du hann se den."
+      },
+      {
+        "nb": "Over kanten på egne bein. Guiden trengte bare å dra litt i tauet.",
+        "sv": "Över kanten på egna ben. Guiden behövde bara dra lite i repet."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Bra klatret. Du finner ruta selv, og vardene bekrefter bare det du allerede visste.",
+        "sv": "Bra klättrat. Du hittar leden själv, och rösena bekräftar bara det du redan visste."
+      },
+      {
+        "nb": "Toppvarden er nådd før matpakketid, og knærne klager ikke på vei ned.",
+        "sv": "Toppröset är nått före matsäcksdags, och knäna klagar inte på vägen ner."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Sterkt. Du leser breen, kjenner været i nakken og snur før noen andre foreslår det.",
+        "sv": "Starkt. Du läser glaciären, känner vädret i nacken och vänder innan någon annan föreslår det."
+      },
+      {
+        "nb": "Her begynner det å lukte førstebestigning av noe smalt og navnløst. Ta med kamera.",
+        "sv": "Här börjar det lukta förstabestigning av något smalt och namnlöst. Ta med kameran."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Selve toppen var innen rekkevidde, men den siste skavlen ville det annerledes.",
+        "sv": "Själva toppen var inom räckhåll, men den sista drivan ville annorlunda."
+      },
+      {
+        "nb": "Alt satt, bortsett fra det siste grepet like under kanten. Det svir hele veien ned.",
+        "sv": "Allt satt, utom det sista greppet strax under kanten. Det svider hela vägen ner."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Toppen er din, i solskinn og vindstille. Nå må du finne deg en høyere fjellkjede.",
+        "sv": "Toppen är din, i solsken och vindstilla. Nu får du leta upp en högre bergskedja."
+      },
+      {
+        "nb": "Alt rett, uten tau. Denne ruta er altfor lett; velg vanskelig neste gang.",
+        "sv": "Allt rätt, utan rep. Den här leden är alldeles för lätt; välj svår nästa gång."
+      }
+    ]
+  }
+}
