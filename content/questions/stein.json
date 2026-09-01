@@ -564,5 +564,283 @@
       "sv": "Segern över danskarna vid Gadebusch i december 1712 är den han är mest känd för."
     },
     "source": "Store norske leksikon – Magnus Stenbock"
+  },
+  {
+    "id": "stein-v-01",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I leiligheten i rue de Fleurus i Paris holdt hun en litterær salong der unge, radikale kunstnere og forfattere møttes, og Hemingway og Pound hørte til kretsen. «A rose is a rose is a rose» er hennes. Hvem var hun?",
+      "sv": "I lägenheten på rue de Fleurus i Paris höll hon en litterär salong där unga, radikala konstnärer och författare möttes, och Hemingway och Pound hörde till kretsen. «A rose is a rose is a rose» är hennes. Vem var hon?"
+    },
+    "answer": "Gertrude Stein",
+    "answerKind": "person",
+    "person": {
+      "given": "Gertrude",
+      "family": "Stein"
+    },
+    "hint": {
+      "nb": "Etternavnet er temaordet, skrevet på tysk vis.",
+      "sv": "Efternamnet är temats ord, i tysk stavning."
+    },
+    "funFact": {
+      "nb": "Hun bodde mesteparten av livet i Paris, i leiligheten 27, rue de Fleurus, og regnes som en drivkraft for moderne kunst og litteratur.",
+      "sv": "Hon bodde större delen av livet i Paris, i lägenheten 27, rue de Fleurus, och räknas som en drivkraft för modern konst och litteratur."
+    },
+    "source": "Store norske leksikon – Gertrude Stein"
+  },
+  {
+    "id": "stein-v-02",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Han grunnla en lære han selv kalte åndsvitenskap, og som skulle utforske åndelige verdener med naturvitenskapelig metode. Den første skolen bygd på pedagogikken hans åpnet i Stuttgart i 1919. Hvem var han?",
+      "sv": "Han grundade en lära han själv kallade andevetenskap, som skulle utforska andliga världar med naturvetenskaplig metod. Den första skolan byggd på hans pedagogik öppnade i Stuttgart 1919. Vem var han?"
+    },
+    "answer": "Rudolf Steiner",
+    "answerKind": "person",
+    "person": {
+      "given": "Rudolf",
+      "family": "Steiner"
+    },
+    "hint": {
+      "nb": "I Norge bærer skolene som bygger på pedagogikken hans, navnet hans.",
+      "sv": "I Sverige kallas skolorna som bygger på hans pedagogik för waldorfskolor."
+    },
+    "funFact": {
+      "nb": "Læren heter antroposofi. Den første skolen het Waldorfschule Uhlandshöhe, og derfor kalles retningen waldorfpedagogikk.",
+      "sv": "Läran heter antroposofi. Den första skolan hette Waldorfschule Uhlandshöhe, och därför kallas inriktningen waldorfpedagogik."
+    },
+    "source": "Store norske leksikon – Rudolf Steiner"
+  },
+  {
+    "id": "stein-v-03",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Middelalderens alkymister trodde på et stoff som kunne forvandle uedle metaller til sølv eller gull, og en liten mengde skulle rekke svært langt. På latin het det lapis philosophorum. Hva kalles det på norsk?",
+      "sv": "Medeltidens alkemister trodde på ett ämne som kunde förvandla oädla metaller till silver eller guld, och en liten mängd skulle räcka mycket långt. På latin hette det lapis philosophorum. Vad kallas det på svenska?"
+    },
+    "answer": {
+      "nb": "De vises stein",
+      "sv": "De vises sten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uttrykket består av tre ord, og det siste er temaordet.",
+      "sv": "Uttrycket består av tre ord, och det sista är temats ord."
+    },
+    "funFact": {
+      "nb": "Kraften skulle øke ved «multiplikasjon» – hver gang den ble brukt, kunne den forvandle stadig større mengder metall.",
+      "sv": "Kraften skulle öka genom «multiplikation» – varje gång den användes kunde den förvandla allt större mängder metall."
+    },
+    "source": "Store norske leksikon – de vises stein"
+  },
+  {
+    "id": "stein-v-04",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Skriftsystemet bruker egne tegn og forkortelser som gjør det mulig å skrive svært raskt. Navnet ser ut til å høre hjemme i dette temaet, men første ledd kommer fra gresk og betyr «trang». Hva heter systemet?",
+      "sv": "Skriftsystemet använder egna tecken och förkortningar som gör det möjligt att skriva mycket snabbt. Namnet ser ut att höra hemma i detta tema, men förleden kommer från grekiskan och betyder «trång». Vad heter systemet?"
+    },
+    "answer": "Stenografi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet ender på det samme som fotografi og geografi.",
+      "sv": "Ordet slutar på samma sätt som fotografi och geografi."
+    },
+    "funFact": {
+      "nb": "Ordet kommer av gresk stenós, «trang», og grafía, «skrift» – ikke av stein, slik det kan se ut.",
+      "sv": "Ordet kommer av grekiskans stenós, «trång», och grafía, «skrift» – inte av sten, som det kan se ut."
+    },
+    "source": "Store norske leksikon – stenografi"
+  },
+  {
+    "id": "stein-v-05",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Østerrikeren ga ut bare én bok mens han levde, Tractatus Logico-Philosophicus fra 1921. I senfilosofien hevdet han at ord får mening gjennom måten de faktisk brukes på, i det han kalte språkspill. Hvem var han?",
+      "sv": "Österrikaren gav ut bara en bok medan han levde, Tractatus Logico-Philosophicus från 1921. I senfilosofin hävdade han att ord får mening genom hur de faktiskt används, i det han kallade språkspel. Vem var han?"
+    },
+    "answer": "Ludwig Wittgenstein",
+    "answerKind": "person",
+    "person": {
+      "given": "Ludwig",
+      "family": "Wittgenstein"
+    },
+    "hint": {
+      "nb": "Etternavnet slutter på temaordet.",
+      "sv": "Efternamnet slutar på temats ord."
+    },
+    "funFact": {
+      "nb": "Tractatus var den eneste av bøkene hans som ble utgitt mens han levde. Han var født i Wien.",
+      "sv": "Tractatus var den enda av hans böcker som gavs ut medan han levde. Han var född i Wien."
+    },
+    "source": "Store norske leksikon – Ludwig Wittgenstein"
+  },
+  {
+    "id": "stein-v-06",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Opprinnelig var det en polert, svart skifer som gullsmeder brukte: streken metallet la igjen på den, viste hvor fin legeringen var. I dag brukes ordet om noe som avgjør om en sak holder mål. Hvilket ord?",
+      "sv": "Ursprungligen var det en polerad, svart skiffer som guldsmeder använde: strecket metallen lämnade på den visade hur fin legeringen var. I dag används ordet om något som avgör om en sak håller måttet. Vilket ord?"
+    },
+    "answer": {
+      "nb": "Prøvestein",
+      "sv": "Prövosten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet ender på temaordet og begynner med det du gjør når du tester noe.",
+      "sv": "Ordet slutar på temats ord och börjar med det du gör när du prövar något."
+    },
+    "funFact": {
+      "nb": "Steinen var svart skifer. Streken metallet avsatte, viste legeringens finhet – derfra kommer den overførte betydningen.",
+      "sv": "Stenen var svart skiffer. Strecket metallen avsatte visade legeringens finhet – därifrån kommer den överförda betydelsen."
+    },
+    "source": "Store norske leksikon – prøvestein"
+  },
+  {
+    "id": "stein-v-07",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "politikk",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Statsviteren og den politiske sosiologen ble professor i Bergen i 1966 og ledet forskning ved Chr. Michelsens institutt. Han er kjent for sammenlignende studier av konfliktlinjer, partisystemer og statsdannelse i Vest-Europa. Hvem var han?",
+      "sv": "Statsvetaren och den politiske sociologen blev professor i Bergen 1966 och ledde forskning vid Chr. Michelsens institutt. Han är känd för jämförande studier av konfliktlinjer, partisystem och statsbildning i Västeuropa. Vem var han?"
+    },
+    "answer": "Stein Rokkan",
+    "answerKind": "person",
+    "person": {
+      "given": "Stein",
+      "family": "Rokkan"
+    },
+    "hint": {
+      "nb": "Fornavnet er selve temaordet.",
+      "sv": "Förnamnet är temats ord, på norska."
+    },
+    "funFact": {
+      "nb": "Han var også en pioner i å bygge opp dataarkiver for samfunnsforskning.",
+      "sv": "Han var också en pionjär i att bygga upp dataarkiv för samhällsforskning."
+    },
+    "source": "Store norske leksikon – Stein Rokkan"
+  },
+  {
+    "id": "stein-v-08",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Den magmatiske bergarten finnes i Oslofeltet, særlig i Vestfold langs kysten mellom Tønsberg og Langesundsfjorden. Fargespillet i feltspaten kalles labradorisering, og steinen brukes til fasader og gravminner. Hva heter bergarten?",
+      "sv": "Den magmatiska bergarten finns i Oslofältet, särskilt i Vestfold längs kusten mellan Tønsberg och Langesundsfjorden. Färgspelet i fältspaten kallas labradorisering, och stenen används till fasader och gravvårdar. Vad heter bergarten?"
+    },
+    "answer": {
+      "nb": "Larvikitt",
+      "sv": "Larvikit"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av en by i Vestfold.",
+      "sv": "Namnet kommer av en stad i Vestfold."
+    },
+    "funFact": {
+      "nb": "Eksporten utgjorde over 85 prosent av verdien av norsk natursteineksport i 2022. Steinen sendes ut som råblokker.",
+      "sv": "Exporten utgjorde över 85 procent av värdet på norsk naturstensexport 2022. Stenen skickas ut som råblock."
+    },
+    "source": "Store norske leksikon – larvikitt"
+  },
+  {
+    "id": "stein-v-09",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "vikingtid",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Den står utenfor kirken i Ödeshög i Östergötland og bærer Nordens lengste runeinnskrift, om lag 750 runer. Teksten er trolig fra 800-tallet og er vanskelig å tyde, fordi den viser til sagn som i dag er glemt. Hva heter den?",
+      "sv": "Den står utanför kyrkan i Ödeshög i Östergötland och bär Nordens längsta runinskrift, omkring 750 runor. Texten är troligen från 800-talet och är svår att tyda, eftersom den hänvisar till sägner som i dag är glömda. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Röksteinen",
+      "sv": "Rökstenen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er oppkalt etter kirkestedet den står ved.",
+      "sv": "Den är uppkallad efter kyrkplatsen den står vid."
+    },
+    "funFact": {
+      "nb": "Innskriften er på om lag 750 runer og er den lengste i Norden. Steinen står ved Röks kirke, ikke langt fra Vättern.",
+      "sv": "Inskriften är på omkring 750 runor och är den längsta i Norden. Stenen står vid Röks kyrka, inte långt från Vättern."
+    },
+    "source": "Store norske leksikon – Rökstenen"
+  },
+  {
+    "id": "stein-v-10",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "musikk",
+      "tv"
+    ],
+    "prompt": {
+      "nb": "Komponisten og bratsjisten var musikkritiker i Sydsvenska Dagbladet fra 1923 til 1966, men ble folkekjær som leder av en musikkspørrekonkurranse i radio og TV som trakk deltakere fra hele Norden. Hvem var han?",
+      "sv": "Kompositören och altviolinisten var musikkritiker i Sydsvenska Dagbladet från 1923 till 1966, men blev folkkär som ledare för en musikfrågesport i radio och TV som drog deltagare från hela Norden. Vem var han?"
+    },
+    "answer": "Sten Broman",
+    "answerKind": "person",
+    "person": {
+      "given": "Sten",
+      "family": "Broman"
+    },
+    "hint": {
+      "nb": "Fornavnet er temaordet på svensk, og programmet het Kontrapunkt.",
+      "sv": "Förnamnet är temats ord, och programmet hette Kontrapunkt."
+    },
+    "funFact": {
+      "nb": "Programmet het Kontrapunkt. Han var musikkritiker i Sydsvenska Dagbladet i 43 år, fra 1923 til 1966.",
+      "sv": "Programmet hette Kontrapunkt. Han var musikkritiker i Sydsvenska Dagbladet i 43 år, från 1923 till 1966."
+    },
+    "source": "Store norske leksikon – Sten Broman"
   }
 ]
