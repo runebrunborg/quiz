@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tid-l-a1",
+    "category": "tid",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Klokka går 56 mikrosekunder fortere per døgn der enn på jorden, og i juni 2026 fortalte SVT at ESA og Nasa planlegger en egen koordinert tidsskala for stedet, med et atomur i et krater som aldri får sollys. Nasa vil ha astronauter tilbake dit i 2028. Hvor?",
+      "sv": "Klockan går 56 mikrosekunder fortare per dygn där än på jorden, och i juni 2026 berättade SVT att ESA och Nasa planerar en egen koordinerad tidsskala för platsen, med ett atomur i en krater som aldrig får solljus. Nasa vill ha astronauter tillbaka dit 2028. Var?"
+    },
+    "answer": "Månen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tidsforskjellen skyldes svakere tyngdekraft, og stedet har en sørpol der Nasa vil bygge en base.",
+      "sv": "Tidsskillnaden beror på svagare gravitation, och platsen har en sydpol där Nasa vill bygga en bas."
+    },
+    "funFact": {
+      "nb": "Forslaget kalles LTC, koordinert månetid. Fysikeren Jun Ye minner om at nøyaktig tid er avgjørende både for kommunikasjon og for navigasjon, og et atomur i et evig mørkt krater slipper unna store temperatursvingninger.",
+      "sv": "Förslaget kallas LTC, koordinerad måntid. Fysikern Jun Ye påminner om att exakt tid är avgörande både för kommunikation och navigation, och ett atomur i en evigt mörk krater slipper stora temperaturväxlingar."
+    },
+    "source": "SVT Nyheter 21.06.2026 (oppdatert 29.07.2026)",
+    "topical": {
+      "event": "2026-06-21",
+      "until": "2027-06-30",
+      "evergreen": false
+    }
+  },
+  {
+    "id": "tid-v-a1",
+    "category": "tid",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "politikk",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den 27. januar 2026 ble en symbolsk klokke fra 1947 stilt til 85 sekunder på midnatt – nærmere enn den noen gang hadde stått før. Bak avgjørelsen sto panelet Science and Security Board i det amerikanske tidsskriftet som eier klokken. Hvilket tidsskrift?",
+      "sv": "Den 27 januari 2026 ställdes en symbolisk klocka från 1947 till 85 sekunder i midnatt – närmare än den någonsin hade stått tidigare. Bakom beslutet stod panelen Science and Security Board i den amerikanska tidskrift som äger klockan. Vilken tidskrift?"
+    },
+    "answer": "Bulletin of the Atomic Scientists",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tidsskriftet ble startet i Chicago i 1945 av forskere fra Manhattanprosjektet, og navnet begynner med «Bulletin».",
+      "sv": "Tidskriften startades i Chicago 1945 av forskare från Manhattanprojektet, och namnet börjar med «Bulletin»."
+    },
+    "funFact": {
+      "nb": "Klokken ble tegnet i 1947 av kunstneren Martyl Langsdorf og sto den gang på sju minutter på midnatt. I 2025 sto den på 89 sekunder; begrunnelsen for 2026 var kjernevåpen, kunstig intelligens og biologiske trusler.",
+      "sv": "Klockan ritades 1947 av konstnären Martyl Langsdorf och stod då på sju minuter i midnatt. År 2025 stod den på 89 sekunder; motiveringen för 2026 var kärnvapen, artificiell intelligens och biologiska hot."
+    },
+    "source": "Doomsday Clock Statement 27.01.2026; en.wikipedia.org – «Doomsday Clock» (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-01-27",
+      "until": "2027-01-31",
+      "evergreen": true
+    }
+  }
+]

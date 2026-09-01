@@ -1,0 +1,61 @@
+[
+  {
+    "id": "rod-m-a1",
+    "category": "rod",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Ved stortingsvalget 8. september 2025 beholdt den rødgrønne siden flertallet, men vinneren måtte styre videre alene og gjøre seg avhengig av fire andre partier på samme side. Fremskrittspartiet ble nest størst. Hvilket parti ble klart størst, med 28 prosent av stemmene?",
+      "sv": "Vid stortingsvalet i Norge den 8 september 2025 behöll den rödgröna sidan majoriteten, men vinnaren fick styra vidare på egen hand och göra sig beroende av fyra andra partier på samma sida. Fremskrittspartiet blev näst störst. Vilket parti blev klart störst, med 28 procent av rösterna?"
+    },
+    "answer": "Arbeiderpartiet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Partiet er Norges sosialdemokratiske parti, søsterparti til Socialdemokraterna i Sverige.",
+      "sv": "Partiet är Norges socialdemokratiska parti, systerparti till Socialdemokraterna i Sverige."
+    },
+    "funFact": {
+      "nb": "Valget ga partiet 53 av 169 mandater, Fremskrittspartiet 47 og Høyre 24. Miljøpartiet De Grønne kom over sperregrensen for første gang og fikk åtte mandater, mens Senterpartiet falt til 5,6 prosent.",
+      "sv": "Valet gav partiet 53 av 169 mandat, Fremskrittspartiet 47 och Høyre 24. Miljøpartiet De Grønne kom över spärrgränsen för första gången och fick åtta mandat, medan Senterpartiet föll till 5,6 procent."
+    },
+    "source": "Store norske leksikon – «Stortingsvalget 2025», lest 01.09.2026",
+    "topical": {
+      "event": "2025-09-08",
+      "until": "2026-09-30",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "rod-v-a1",
+    "category": "rod",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den 10. september 2025 la NASA fram en studie i Nature om en steinprøve fra Jezero-krateret: hvite gipsårer, rødlige hematittbånd og millimeterstore «leopardflekker» av jernfosfat og jernsulfid. Byrået kalte det en mulig biosignatur – det sterkeste sporet av fortidig liv på den røde planeten så langt. Hvilken rover boret prøven?",
+      "sv": "Den 10 september 2025 lade Nasa fram en studie i Nature om ett stenprov från Jezerokratern: vita gipsådror, rödaktiga hematitband och millimeterstora «leopardfläckar» av järnfosfat och järnsulfid. Myndigheten kallade det en möjlig biosignatur – det starkaste spåret av forntida liv på den röda planeten så här långt. Vilken rover borrade provet?"
+    },
+    "answer": "Perseverance",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Roveren landet i februar 2021 og hadde med seg det lille helikopteret Ingenuity.",
+      "sv": "Rovern landade i februari 2021 och hade med sig den lilla helikoptern Ingenuity."
+    },
+    "funFact": {
+      "nb": "Steinen kalles «Cheyava Falls», og prøven ble boret i juli 2024 ved kanten av Neretva Vallis. Et endelig svar krever at prøven fraktes til jorden med et framtidig returoppdrag.",
+      "sv": "Stenen kallas «Cheyava Falls», och provet borrades i juli 2024 vid kanten av Neretva Vallis. Ett slutgiltigt svar kräver att provet fraktas till jorden med ett framtida returuppdrag."
+    },
+    "source": "Nature 10.09.2025 – Hurowitz m.fl., «Redox-driven mineral and organic associations in Jezero Crater, Mars»; Wikipedia (engelsk) – «Cheyava Falls», lest 01.09.2026",
+    "topical": {
+      "event": "2025-09-10",
+      "until": "2026-09-30",
+      "evergreen": true
+    }
+  }
+]

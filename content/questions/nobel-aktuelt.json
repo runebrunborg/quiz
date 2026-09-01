@@ -1,0 +1,201 @@
+[
+  {
+    "id": "nobel-l-a1",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "politikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fredsprisen for 2025 gikk til en opposisjonsleder i Venezuela som hadde reiseforbud og levde i skjul. Datteren tok imot medaljen i Oslo rådhus 10. desember, og først etterpå kom moren seg ut av landet. Hvem fikk prisen?",
+      "sv": "Fredspriset för 2025 gick till en oppositionsledare i Venezuela som hade reseförbud och levde gömd. Dottern tog emot medaljen i Oslo rådhus den 10 december, och först därefter lyckades mamman komma ut ur landet. Vem fick priset?"
+    },
+    "answer": "María Corina Machado",
+    "answerKind": "person",
+    "person": {
+      "given": "María Corina",
+      "family": "Machado"
+    },
+    "hint": {
+      "nb": "Hun ble nektet å stille i presidentvalget i 2024, og en annen opposisjonskandidat stilte i hennes sted.",
+      "sv": "Hon nekades att ställa upp i presidentvalet 2024, och en annan oppositionskandidat ställde upp i hennes ställe."
+    },
+    "funFact": {
+      "nb": "Nobelkomiteen begrunnet prisen med hennes utrettelige arbeid for demokratiske rettigheter i Venezuela og for kampen for en rettferdig og fredelig overgang fra diktatur til demokrati. Hun er den første venezuelaneren som har fått fredsprisen.",
+      "sv": "Nobelkommittén motiverade priset med hennes outtröttliga arbete för demokratiska rättigheter i Venezuela och för kampen för en rättvis och fredlig övergång från diktatur till demokrati. Hon är den första venezuelan som fått fredspriset."
+    },
+    "source": "Den norske Nobelkomité, kunngjøring 10.10.2025; Store norske leksikon – Nobels fredspris (2025)",
+    "topical": {
+      "event": "2025-10-10",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "nobel-l-a2",
+    "category": "nobel",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "medisin",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Nobelprisen i medisin for 2025 gikk til Mary Brunkow, Fred Ramsdell og Shimon Sakaguchi. De forklarte hvorfor kroppen normalt ikke angriper sitt eget vev, og hvorfor bremsene av og til svikter slik at det oppstår autoimmun sykdom. Hvilket av kroppens systemer handler oppdagelsene om?",
+      "sv": "Nobelpriset i medicin för 2025 gick till Mary Brunkow, Fred Ramsdell och Shimon Sakaguchi. De förklarade varför kroppen normalt inte angriper sin egen vävnad, och varför bromsarna ibland sviktar så att autoimmun sjukdom uppstår. Vilket av kroppens system handlar upptäckterna om?"
+    },
+    "answer": {
+      "nb": "Immunforsvaret",
+      "sv": "Immunförsvaret"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet «autoimmun» peker rett på det: apparatet som skal skille eget vev fra fremmede inntrengere.",
+      "sv": "Ordet «autoimmun» pekar rakt på det: apparaten som ska skilja egen vävnad från främmande inkräktare."
+    },
+    "funFact": {
+      "nb": "Begrunnelsen var «oppdagelser om perifer immuntoleranse». Sakaguchi påviste i 1995 en egen gruppe hvite blodceller, regulatoriske T-celler, som demper immunreaksjoner, mens Brunkow og Ramsdell fant genet Foxp3, som må virke for at cellene skal dannes.",
+      "sv": "Motiveringen var «upptäckter om perifer immuntolerans». Sakaguchi påvisade 1995 en egen grupp vita blodkroppar, regulatoriska T-celler, som dämpar immunreaktioner, medan Brunkow och Ramsdell hittade genen Foxp3, som måste fungera för att cellerna ska bildas."
+    },
+    "source": "Nobelprize.org – pressemelding, Nobelprisen i fysiologi eller medisin 2025 (oktober 2025)",
+    "topical": {
+      "event": "2025-10",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "nobel-m-a1",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Nobelprisen i fysikk for 2025 gikk til John Clarke, Michel Devoret og John Martinis. På 1980-tallet viste de at kvantemekaniske effekter, tunnelering og trinnvise energinivåer, kan opptre i en hel superledende krets og ikke bare hos enkeltpartikler. Slike kretser er i dag byggeklossene i en helt spesiell type datamaskin. Hvilken?",
+      "sv": "Nobelpriset i fysik för 2025 gick till John Clarke, Michel Devoret och John Martinis. På 1980-talet visade de att kvantmekaniska effekter, tunnling och kvantiserade energinivåer, kan uppträda i en hel supraledande krets och inte bara hos enskilda partiklar. Sådana kretsar är i dag byggstenarna i en helt särskild typ av dator. Vilken?"
+    },
+    "answer": {
+      "nb": "Kvantedatamaskin",
+      "sv": "Kvantdator"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Regneenhetene kalles qubiter, og maskinene må kjøles ned til nær det absolutte nullpunktet.",
+      "sv": "Räkneenheterna kallas qubitar, och maskinerna måste kylas ned till nära den absoluta nollpunkten."
+    },
+    "funFact": {
+      "nb": "Begrunnelsen var «oppdagelsen av makroskopisk kvantemekanisk tunnelering og energikvantisering i en elektrisk krets». John Martinis ledet senere maskinvarearbeidet i Googles kvantelaboratorium.",
+      "sv": "Motiveringen var «upptäckten av makroskopisk kvantmekanisk tunnling och energikvantisering i en elektrisk krets». John Martinis ledde senare hårdvaruarbetet i Googles kvantlaboratorium."
+    },
+    "source": "Nobelprize.org – pressemelding, Nobelprisen i fysikk 2025 (oktober 2025)",
+    "topical": {
+      "event": "2025-10",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "nobel-m-a2",
+    "category": "nobel",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Økonomiprisen for 2025 ble delt: halvparten til Joel Mokyr for å ha pekt ut forutsetningene for vedvarende vekst gjennom teknologisk framgang, halvparten til Philippe Aghion og Peter Howitt for teorien om vekst der nye produkter og bedrifter stadig utkonkurrerer de gamle. Hvilket begrep fra Joseph Schumpeter beskriver den prosessen?",
+      "sv": "Ekonomipriset för 2025 delades: hälften till Joel Mokyr för att ha pekat ut förutsättningarna för uthållig tillväxt genom tekniska framsteg, hälften till Philippe Aghion och Peter Howitt för teorin om tillväxt där nya produkter och företag hela tiden konkurrerar ut de gamla. Vilket begrepp från Joseph Schumpeter beskriver den processen?"
+    },
+    "answer": {
+      "nb": "Kreativ ødeleggelse",
+      "sv": "Kreativ förstörelse"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "To ord: det første handler om å skape noe nytt, det andre om at noe gammelt rives ned.",
+      "sv": "Två ord: det första handlar om att skapa något nytt, det andra om att något gammalt rivs ner."
+    },
+    "funFact": {
+      "nb": "Prisen i økonomi var ikke en av Alfred Nobels egne. Den ble opprettet av Sveriges riksbank i 1968, og kunngjøringen 13. oktober 2025 var siste post i nobeluka.",
+      "sv": "Ekonomipriset var inte ett av Alfred Nobels egna. Det instiftades av Sveriges riksbank 1968, och tillkännagivandet den 13 oktober 2025 var sista punkten under nobelveckan."
+    },
+    "source": "Nobelprize.org – pressemelding, Sveriges riksbanks pris i økonomisk vitenskap 2025 (13.10.2025)",
+    "topical": {
+      "event": "2025-10-13",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "nobel-v-a1",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Litteraturprisen for 2025 gikk til en ungarsk forfatter, kjent for setninger som går over flere sider uten å slippe leseren, og for romanen «Satantango» fra 1985. Vennen Béla Tarr har filmatisert flere av bøkene hans. Hvem er forfatteren?",
+      "sv": "Litteraturpriset för 2025 gick till en ungersk författare, känd för meningar som löper över flera sidor utan att släppa läsaren, och för romanen «Satantango» från 1985. Vännen Béla Tarr har filmatiserat flera av hans böcker. Vem är författaren?"
+    },
+    "answer": "László Krasznahorkai",
+    "answerKind": "person",
+    "person": {
+      "given": "László",
+      "family": "Krasznahorkai"
+    },
+    "hint": {
+      "nb": "Han er den andre ungareren som har fått litteraturprisen, etter Imre Kertész i 2002.",
+      "sv": "Han är den andre ungraren som fått litteraturpriset, efter Imre Kertész 2002."
+    },
+    "funFact": {
+      "nb": "Svenska Akademien begrunnet prisen med et «medrivende og visjonært verk som midt i den apokalyptiske skrekken bekrefter kunstens kraft». Forfatteren er født i Gyula i 1954, og kunngjøringen kom 9. oktober 2025.",
+      "sv": "Svenska Akademien motiverade priset med ett «medryckande och visionärt verk som mitt i den apokalyptiska skräcken bekräftar konstens kraft». Författaren är född i Gyula 1954, och tillkännagivandet kom den 9 oktober 2025."
+    },
+    "source": "Svenska Akademien / Nobelprize.org – kunngjøring 09.10.2025",
+    "topical": {
+      "event": "2025-10-09",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "nobel-v-a2",
+    "category": "nobel",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Kjemiprisen for 2025 gikk til Susumu Kitagawa, Richard Robson og Omar Yaghi. De bygget porøse krystaller der metallioner holdes sammen av organiske molekyler, med hulrom som kan fange og skille gasser, og som i forsøk har hentet drikkevann ut av tørr luft. Hva kalles materialklassen?",
+      "sv": "Kemipriset för 2025 gick till Susumu Kitagawa, Richard Robson och Omar Yaghi. De byggde porösa kristaller där metalljoner hålls samman av organiska molekyler, med hålrum som kan fånga och separera gaser, och som i försök har hämtat drickvatten ur torr luft. Vad kallas materialklassen?"
+    },
+    "answer": {
+      "nb": "Metallorganiske rammeverk",
+      "sv": "Metallorganiska ramverk"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På engelsk forkortes de MOF, der de tre bokstavene står for metall, organisk og et ord for et gitterverk.",
+      "sv": "På engelska förkortas de MOF, där de tre bokstäverna står för metall, organisk och ett ord för ett gallerverk."
+    },
+    "funFact": {
+      "nb": "Begrunnelsen var «utviklingen av metallorganiske rammeverk». Richard Robson lagde de første strukturene av denne typen i 1989, og materialene prøves nå ut til å fange CO2 og lagre gasser.",
+      "sv": "Motiveringen var «utvecklingen av metallorganiska ramverk». Richard Robson byggde de första strukturerna av det här slaget 1989, och materialen prövas nu för att fånga in koldioxid och lagra gaser."
+    },
+    "source": "Nobelprize.org – pressemelding, Nobelprisen i kjemi 2025 (oktober 2025)",
+    "topical": {
+      "event": "2025-10",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  }
+]

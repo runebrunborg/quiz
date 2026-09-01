@@ -199,7 +199,17 @@
       "nb": "Stortinget innførte murtvang innenfor bygrensen, og det meste var gjenreist i 1907. I dag ligger Jugendstilsenteret, Norges museum for art nouveau, midt i det gjenoppbygde sentrum.",
       "sv": "Stortinget införde stenbyggnadstvång innanför stadsgränsen, och det mesta var återuppbyggt 1907. I dag ligger Jugendstilsenteret, Norges museum för art nouveau, mitt i det återuppbyggda centrumet."
     },
-    "source": "Store norske leksikon – Ålesundsbrannen"
+    "source": "Store norske leksikon – Ålesundsbrannen",
+    "onThisDay": [
+      {
+        "day": "01-23",
+        "year": 1904,
+        "prompt": {
+          "nb": "På denne dagen i 1904, i timene før morgengry, brant rundt 850 hus ned i en norsk trehusby mens stormen raste. Den tyske keiseren Wilhelm 2. sendte tre skip med forsyninger, og byen ble gjenreist i mur og jugendstil. Hvilken by er det?",
+          "sv": "På denna dag 1904, i timmarna före gryningen, brann omkring 850 hus ner i en norsk trästad medan stormen rasade. Den tyske kejsaren Wilhelm II skickade tre fartyg med förnödenheter, och staden återuppbyggdes i sten och jugendstil. Vilken stad är det?"
+        }
+      }
+    ]
   },
   {
     "id": "ild-l-09",
@@ -276,7 +286,17 @@
       "nb": "Utbruddet er satt til 7 på vulkanenes eksplosivitetsskala. Den kalde og regnfulle sommeren 1816 holdt Mary Shelley innendørs ved Genèvesjøen, der hun begynte på «Frankenstein».",
       "sv": "Utbrottet är satt till 7 på vulkanernas explosivitetsskala. Den kalla och regniga sommaren 1816 höll Mary Shelley inomhus vid Genèvesjön, där hon började på «Frankenstein»."
     },
-    "source": "Smithsonian Institution, Global Volcanism Program – Tambora"
+    "source": "Smithsonian Institution, Global Volcanism Program – Tambora",
+    "onThisDay": [
+      {
+        "day": "04-10",
+        "year": 1815,
+        "prompt": {
+          "nb": "På denne dagen i 1815, ved sju om kvelden, gikk et indonesisk fjell inn i sin voldsomste fase og slynget rundt 100 kubikkilometer materiale ut i atmosfæren – det kraftigste utbruddet observert i historisk tid. Svovelsløret ga Europa og Nord-Amerika «året uten sommer» året etter. Hvilket fjell er det?",
+          "sv": "På denna dag 1815, vid sju på kvällen, gick ett indonesiskt berg in i sin våldsammaste fas och slungade ut omkring 100 kubikkilometer material i atmosfären – det kraftigaste utbrottet som observerats i historisk tid. Svavelslöjan gav Europa och Nordamerika «året utan sommar» året därpå. Vilket berg är det?"
+        }
+      }
+    ]
   },
   {
     "id": "ild-m-02",
@@ -354,7 +374,17 @@
       "nb": "Ideen kom fra Carl Diem i arrangementskomiteen. Den aller første fakkeltenningen fant sted i Olympia 20. juli 1936, og selve ilden hadde da vært en del av lekene siden Amsterdam-OL i 1928.",
       "sv": "Idén kom från Carl Diem i arrangörskommittén. Den allra första facktändningen ägde rum i Olympia den 20 juli 1936, och själva elden hade då varit en del av spelen sedan OS i Amsterdam 1928."
     },
-    "source": "Den internasjonale olympiske komité (IOC) – the Olympic torch relay"
+    "source": "Den internasjonale olympiske komité (IOC) – the Olympic torch relay",
+    "onThisDay": [
+      {
+        "day": "08-01",
+        "year": 1936,
+        "prompt": {
+          "nb": "På denne dagen i 1936 ble sommerlekene åpnet i en europeisk hovedstad, og for første gang var ilden båret hele veien fra Hellas til vertsbyen: 3 187 kilometer, 3 331 løpere, drøyt tolv dager. Stafetten har vært brukt ved hvert OL siden. Hvilken by var mål?",
+          "sv": "På denna dag 1936 invigdes sommarspelen i en europeisk huvudstad, och för första gången hade elden burits hela vägen från Grekland till värdstaden: 3 187 kilometer, 3 331 löpare, drygt tolv dagar. Stafetten har använts vid varje OS sedan dess. Vilken stad var mål?"
+        }
+      }
+    ]
   },
   {
     "id": "ild-m-05",

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "blaa-l-a1",
+    "category": "blaa",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Bare ett selskap i verden hadde tidligere klart å lande førstetrinnet av en rakett som hadde nådd bane rundt jorden. Den 13. november 2025 ble Jeff Bezos' romselskap det andre: raketten New Glenn sendte to NASA-sonder mot Mars, og førstetrinnet landet på et fartøy i Atlanterhavet. Hva heter selskapet?",
+      "sv": "Bara ett företag i världen hade tidigare lyckats landa första steget av en raket som nått omloppsbana runt jorden. Den 13 november 2025 blev Jeff Bezos rymdföretag det andra: raketen New Glenn sände två Nasa-sonder mot Mars, och första steget landade på ett fartyg i Atlanten. Vad heter företaget?"
+    },
+    "answer": "Blue Origin",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet ble grunnlagt i 2000, og den lille turistraketten deres er oppkalt etter den første amerikaneren i rommet.",
+      "sv": "Företaget grundades år 2000, och deras lilla turistraket är uppkallad efter den förste amerikanen i rymden."
+    },
+    "funFact": {
+      "nb": "Førstetrinnet het «Never Tell Me the Odds» og landet på fartøyet Jacklyn i Atlanterhavet. SpaceX var først ute med å berge et slikt trinn, i 2015. Sondene raketten sendte av gårde, skal måle atmosfæren rundt Mars.",
+      "sv": "Första steget hette «Never Tell Me the Odds» och landade på fartyget Jacklyn i Atlanten. SpaceX var först med att bärga ett sådant steg, år 2015. Sonderna som raketen sände i väg ska mäta atmosfären runt Mars."
+    },
+    "source": "Wikipedia (engelsk) – «New Glenn» og «Blue Origin», lest 01.09.2026",
+    "topical": {
+      "event": "2025-11-13",
+      "until": "2026-11-30",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "blaa-m-a1",
+    "category": "blaa",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Afrikas største vannkraftverk ble offisielt innviet 9. september 2025, etter fjorten år med bygging og skarpe protester fra Egypt og Sudan nedstrøms. Demningen ligger på Den blå Nilen, den sørøstlige av de to store kildeelvene til Nilen. I hvilket land ligger den?",
+      "sv": "Afrikas största vattenkraftverk invigdes officiellt den 9 september 2025, efter fjorton år av byggande och skarpa protester från Egypten och Sudan nedströms. Dammen ligger vid Blå Nilen, den sydöstra av Nilens två stora källfloder. I vilket land ligger den?"
+    },
+    "answer": {
+      "nb": "Etiopia",
+      "sv": "Etiopien"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Elva har sitt utspring i Tanasjøen, i landet som også regnes som kaffens hjemland.",
+      "sv": "Floden har sin källa i Tanasjön, i landet som också räknas som kaffets hemland."
+    },
+    "funFact": {
+      "nb": "Demningen har en installert effekt på 5,15 gigawatt og er blant verdens tjue største vannkraftverk. Egypt frykter for vanntilgangen sin, og forhandlingene om fyllingen av reservoaret har pågått siden byggestarten i 2011.",
+      "sv": "Dammen har en installerad effekt på 5,15 gigawatt och är bland världens tjugo största vattenkraftverk. Egypten fruktar för sin vattentillgång, och förhandlingarna om att fylla reservoaren har pågått sedan byggstarten 2011."
+    },
+    "source": "Store norske leksikon – «Den blå Nilen»; Wikipedia (engelsk) – «Grand Ethiopian Renaissance Dam», lest 01.09.2026",
+    "topical": {
+      "event": "2025-09-09",
+      "until": "2026-09-30",
+      "evergreen": true
+    }
+  }
+]

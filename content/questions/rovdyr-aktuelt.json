@@ -1,0 +1,65 @@
+[
+  {
+    "id": "rovdyr-l-a1",
+    "category": "rovdyr",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Maskotene under vinterlekene i Milano og Cortina i februar 2026 het Tina og Milo, og var to søsken av et lite, langstrakt rovpattedyr som lever i de italienske fjellene. Dyret bytter til snøhvit vinterpels, men beholder en svart tuss på haletippen året rundt. Hvilket dyr er det?",
+      "sv": "Maskotarna under vinterspelen i Milano och Cortina i februari 2026 hette Tina och Milo och var två syskon av ett litet, långsmalt rovdjur som lever i de italienska bergen. Djuret byter till snövit vinterpäls men behåller en svart tofs på svansspetsen året runt. Vilket djur är det?"
+    },
+    "answer": {
+      "nb": "Røyskatt",
+      "sv": "Hermelin"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dyret hører til mårfamilien og er litt større enn snømusa. Vinterpelsen har vært brukt som pryd på kongelige kroningskåper.",
+      "sv": "Djuret hör till mårddjuren och är lite större än dvärgvesslan. Vinterpälsen har använts som prydnad på kungliga kröningsmantlar."
+    },
+    "funFact": {
+      "nb": "Tina er den olympiske maskoten og Milo den paralympiske. De to figurene ble valgt gjennom en konkurranse der italienske skolebarn tegnet forslagene, og vinnerforslaget fikk over halvparten av stemmene i en offentlig avstemning.",
+      "sv": "Tina är den olympiska maskoten och Milo den paralympiska. De två figurerna valdes genom en tävling där italienska skolbarn ritade förslagen, och det vinnande förslaget fick över hälften av rösterna i en offentlig omröstning."
+    },
+    "source": "en.wikipedia.org «Tina and Milo» / «Milano Cortina 2026» – vinterlekene 06.–22.02.2026 (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-02-06",
+      "until": "2027-02-28",
+      "evergreen": false
+    }
+  },
+  {
+    "id": "rovdyr-m-a1",
+    "category": "rovdyr",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Denne britiske bilprodusenten bærer navnet til Amerikas største kattedyr i firmanavnet. Høsten 2025 måtte den stanse all produksjon etter et dataangrep, og fabrikkene i England sto stille i over fem uker før de forsiktig kunne starte opp igjen. Hvilken produsent er det?",
+      "sv": "Denna brittiska biltillverkare bär namnet på Amerikas största kattdjur i sitt firmanamn. Hösten 2025 tvingades den stoppa all produktion efter en dataattack, och fabrikerna i England stod stilla i över fem veckor innan de försiktigt kunde starta igen. Vilken tillverkare är det?"
+    },
+    "answer": "Jaguar Land Rover",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet eies av det indiske konsernet Tata Motors og har to merkenavn i firmanavnet.",
+      "sv": "Bolaget ägs av den indiska koncernen Tata Motors och har två märkesnamn i firmanamnet."
+    },
+    "funFact": {
+      "nb": "Angrepet ble kjent 2. september 2025. Produksjonsstansen ble forlenget flere ganger, og i november 2025 oppgav selskapet at hendelsen hadde kostet 196 millioner pund.",
+      "sv": "Attacken blev känd den 2 september 2025. Produktionsstoppet förlängdes flera gånger, och i november 2025 uppgav bolaget att händelsen hade kostat 196 miljoner pund."
+    },
+    "source": "en.wikipedia.org «Jaguar Land Rover» – dataangrepet 02.09.2025 (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2025-09-02",
+      "until": "2026-09-30",
+      "evergreen": false
+    }
+  }
+]

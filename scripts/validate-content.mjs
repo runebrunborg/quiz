@@ -80,7 +80,31 @@ const errors = []
 const warnings = []
 const seenIds = new Map()
 const seenAnswers = new Map()
+/** Dagsaktuelle per tema+nivå, for å fange at noen skriver flere enn de to som får plass. */
+const topicalPerKey = new Map()
+/** «På denne dag»-datoer per tema, for å fange kollisjoner på samme dato. */
+const datedPerCategory = new Map()
 let count = 0
+
+const TODAY = new Date().toISOString().slice(0, 10)
+const ISO_DAY = /^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])$/
+const ISO_MONTH = /^\d{4}-(0[1-9]|1[0-2])$/
+const MONTH_DAY = /^(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])$/
+
+/** Finnes datoen i kalenderen? `02-30` består regexen, men ikke virkeligheten. */
+function isRealMonthDay(md) {
+  const [m, d] = md.split('-').map(Number)
+  // 2024 er skuddår, så 02-29 godtas – den treffer bare i skuddår, som er meningen.
+  const days = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+  return d >= 1 && d <= days[m - 1]
+}
+
+/** Hvor mange måneder tilbake i tid en dato ligger. */
+function monthsAgo(iso) {
+  const then = new Date(`${iso.length === 7 ? `${iso}-01` : iso}T00:00:00Z`)
+  const now = new Date(`${TODAY}T00:00:00Z`)
+  return (now.getUTCFullYear() - then.getUTCFullYear()) * 12 + (now.getUTCMonth() - then.getUTCMonth())
+}
 
 function isL10n(value) {
   if (typeof value === 'string') return value.trim().length > 0
@@ -196,6 +220,97 @@ for (const file of files) {
         if (isAnchorWord(text(q.answer, lang), q.category)) {
           errors.push(`${where}: svaret er selve ankerordet for temaet ("${text(q.answer, lang)}")`)
           break
+        }
+      }
+    }
+
+    /* ------------------------------------------------ dagsaktuelle spørsmål */
+
+    if (q?.topical !== undefined) {
+      const tp = q.topical
+      if (typeof tp !== 'object' || tp === null || Array.isArray(tp)) {
+        errors.push(`${where}: "topical" må være et objekt med event, until og evergreen`)
+      } else {
+        if (typeof tp.event !== 'string' || !(ISO_DAY.test(tp.event) || ISO_MONTH.test(tp.event))) {
+          errors.push(`${where}: topical.event må være YYYY-MM-DD eller YYYY-MM`)
+        } else {
+          if (tp.event > TODAY) errors.push(`${where}: topical.event ligger fram i tid (${tp.event})`)
+          const age = monthsAgo(tp.event)
+          if (age > 14) {
+            warnings.push(`${where}: hendelsen er ${age} måneder gammel – dagsaktuelt bør bety siste året`)
+          }
+        }
+        if (typeof tp.until !== 'string' || !ISO_DAY.test(tp.until)) {
+          errors.push(`${where}: topical.until må være en dato på formen YYYY-MM-DD`)
+        } else if (typeof tp.event === 'string' && tp.until < tp.event.slice(0, 10)) {
+          errors.push(`${where}: topical.until (${tp.until}) er før hendelsen (${tp.event})`)
+        }
+        if (typeof tp.evergreen !== 'boolean') {
+          errors.push(`${where}: topical.evergreen må være true eller false – ta stilling til om spørsmålet tåler å bli gammelt`)
+        }
+        if (typeof tp.until === 'string' && tp.until < TODAY) {
+          if (tp.evergreen) {
+            warnings.push(`${where}: utløpt (${tp.until}), men merket evergreen – spilles videre som et vanlig spørsmål`)
+          } else {
+            warnings.push(`${where}: utløpt (${tp.until}) og ikke evergreen – trekkes ikke lenger, bør erstattes`)
+          }
+        }
+        // Et dagsaktuelt spørsmål er ikke kildebelagt av et leksikon. Kilden skal
+        // peke på en redaksjonell publisering, og gjerne på datoen.
+        if (typeof q.source === 'string' && !/\d{4}/.test(q.source)) {
+          warnings.push(`${where}: dagsaktuell kilde uten årstall – skriv «NRK, 14.03.2026» eller tilsvarende`)
+        }
+        if (typeof tp.until === 'string' && tp.until >= TODAY && DIFFICULTIES.has(q?.difficulty)) {
+          const key = `${q.category}|${q.difficulty}`
+          const n = (topicalPerKey.get(key) ?? 0) + 1
+          topicalPerKey.set(key, n)
+          if (n === 3) warnings.push(`${key}: flere enn to ferske dagsaktuelle – bare to får plass i en runde`)
+        }
+      }
+    }
+
+    /* ------------------------------------------------ «på denne dag»-variant */
+
+    if (q?.onThisDay !== undefined) {
+      if (!Array.isArray(q.onThisDay) || q.onThisDay.length === 0) {
+        errors.push(`${where}: "onThisDay" må være en ikke-tom liste`)
+      } else {
+        const daysHere = new Set()
+        for (const [j, v] of q.onThisDay.entries()) {
+          const w = `${where}.onThisDay[${j}]`
+          if (typeof v?.day !== 'string' || !MONTH_DAY.test(v.day) || !isRealMonthDay(v.day)) {
+            errors.push(`${w}: "day" må være en ekte dato på formen MM-DD`)
+          } else {
+            if (daysHere.has(v.day)) errors.push(`${w}: samme dato to ganger i samme spørsmål`)
+            daysHere.add(v.day)
+            const key = `${q.category}|${v.day}`
+            const prev = datedPerCategory.get(key)
+            if (prev && prev !== q.id) {
+              warnings.push(`${w}: ${prev} har allerede ${v.day} i samme tema – bare ett trekkes den dagen`)
+            } else if (!prev) {
+              datedPerCategory.set(key, q.id)
+            }
+          }
+          if (!Number.isInteger(v?.year) || v.year < 1 || v.year > Number(TODAY.slice(0, 4))) {
+            errors.push(`${w}: "year" må være et årstall som har vært`)
+          }
+          if (!isL10n(v?.prompt)) {
+            errors.push(`${w}: "prompt" mangler eller er tom på ett av språkene`)
+            continue
+          }
+          for (const lang of ['nb', 'sv']) {
+            const words = text(v.prompt, lang).split(/\s+/).length
+            if (words < 12) warnings.push(`${w}: ${lang}-varianten er kort (${words} ord)`)
+            if (words > 70) warnings.push(`${w}: ${lang}-varianten er lang (${words} ord)`)
+            // Datovarianten er hele spørsmålsteksten, og svaret kan lekke i den
+            // like godt som i den vanlige – særlig når man skriver «på denne dagen».
+            if (isL10n(q?.answer)) {
+              const answer = text(q.answer, lang).toLowerCase()
+              if (answer.length > 3 && text(v.prompt, lang).toLowerCase().includes(answer)) {
+                errors.push(`${w}: svaret står i ${lang}-varianten`)
+              }
+            }
+          }
         }
       }
     }

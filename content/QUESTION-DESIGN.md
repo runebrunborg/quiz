@@ -254,3 +254,45 @@ Det er poenget — spilleren skal ikke kunne regne seg fram til når det kommer.
 Styrken er koblingsmiksen: seks av sju typer i bruk, og en avslutning som ligger langt fra
 brettspillene den åpner med. Svakheten er domenefordelingen — sju av ti i samme domene.
 Det er nettopp den svakheten regelen i punkt 3 finnes for å hindre.
+
+## Dagsaktuelle spørsmål
+
+To av de ti plassene er satt av til noe fra det siste året. Doktrinen gjelder
+uendret: **ankerordet, ikke nyhetsbildet**. Et dagsaktuelt spørsmål i temaet
+*Månen* skal handle om månen og være ferskt — ikke være en generell nyhetssak med
+ordet «måne» limt på.
+
+Koblingstypene og breddekravene regnes på de åtte ordinære spørsmålene. De to
+dagsaktuelle er utenfor regnskapet, av samme grunn som årstallspørsmålet er det:
+de har sin egen jobb.
+
+Vanskeligheten ligger et annet sted her. Kjenthetsgulvet kan ikke være «står i
+skolepensum» for noe som skjedde i mars. Erstatningen er: **hendelsen skal ha
+vært på forsiden**, ikke bare i en fagseksjon. En som leser nyhetene ukentlig
+skal kjenne den igjen. Er svaret noe bare den som følger feltet tett vet, hører
+det på `vanskelig` — eller ingen steder.
+
+Utløpsdato og `evergreen` står i SPEC. Det redaksjonelle spørsmålet bak
+`evergreen` er verdt å stille høyt: *hadde jeg stilt dette spørsmålet om tre år?*
+Svaret er ja for tronskifter, mesterskap og oppdagelser, og nei for alt som er
+interessant bare fordi det er nytt.
+
+## «På denne dag»
+
+Varianten er en gave til den som spiller på riktig dag, ikke en ny sjanger. Den
+skal gjøre nøyaktig én ting: flytte innledningen fra «en gang i historien» til
+«i dag, for N år siden». Spørsmålsdelen kan omformuleres for å henge sammen med
+den nye innledningen, men **aha-en skal være den samme**.
+
+Egnede datoer er de som er presise og uomstridte: fødsler og dødsfall, åpninger,
+førstegangsframføringer, landinger, utbrudd. Uegnet er alt som «skjedde i løpet
+av» en dag eller en uke.
+
+Fella er at datoen røper svaret. «På denne dagen i 1969 landet Apollo 11» er
+ikke et spørsmål lenger. Skriv i stedet rundt datoen: hva som skjedde, uten å
+navngi det som skal gjettes.
+
+Ikke sett datovarianter på for mange spørsmål i samme tema. Ett treff per dato er
+alt appen bruker, og et tema der halvparten av spørsmålene har datovariant vil
+ligge først på startskjermen nesten hver dag — og da betyr «I dag»-merket
+ingenting.

@@ -1,9 +1,11 @@
-import type { Difficulty, QuizSession, Region } from '../../shared/types'
+import type { Difficulty, FeedbackReason, FeedbackVote, Lang, QuizSession, Region } from '../../shared/types'
 
 const SESSIONS_KEY = 'tq.sessions.v1'
 const PROFILE_KEY = 'tq.profile.v2'
 const PREFS_KEY = 'tq.prefs.v1'
 const OUTBOX_KEY = 'tq.outbox.v1'
+const FEEDBACK_KEY = 'tq.feedback.v1'
+const FEEDBACK_OUTBOX_KEY = 'tq.feedback.outbox.v1'
 
 export interface Profile {
   /** Serverens bruker-id. Null når man spiller uten konto. */
@@ -104,4 +106,85 @@ export function queueAllFinishedSessions(): void {
   const ids = new Set(loadOutbox())
   for (const s of loadSessions()) if (s.finishedAt !== null) ids.add(s.id)
   write(OUTBOX_KEY, [...ids])
+}
+
+/* --------------------------------------------------- tilbakemeldinger */
+
+/**
+ * Tommel opp/ned lever per spørsmål, ikke per runde: møter du det samme
+ * spørsmålet igjen om en måned, står stemmen din der fortsatt.
+ */
+export interface LocalFeedback {
+  questionId: string
+  /** null betyr at stemmen er trukket tilbake og venter på å slettes hos serveren. */
+  vote: FeedbackVote | null
+  reason: FeedbackReason | null
+  comment: string | null
+  category: string
+  difficulty: Difficulty | ''
+  lang: Lang
+  updatedAt: number
+}
+
+export function loadFeedback(): Record<string, LocalFeedback> {
+  return read<Record<string, LocalFeedback>>(FEEDBACK_KEY, {})
+}
+
+export function feedbackFor(questionId: string): LocalFeedback | null {
+  return loadFeedback()[questionId] ?? null
+}
+
+/** Lagrer stemmen lokalt og legger den i kø for serveren. */
+export function saveFeedback(entry: LocalFeedback): void {
+  const all = loadFeedback()
+  all[entry.questionId] = entry
+  write(FEEDBACK_KEY, all)
+  queueFeedbackForSync(entry.questionId)
+}
+
+export function loadFeedbackOutbox(): string[] {
+  return read<string[]>(FEEDBACK_OUTBOX_KEY, [])
+}
+
+export function queueFeedbackForSync(questionId: string): void {
+  const ids = new Set(loadFeedbackOutbox())
+  ids.add(questionId)
+  write(FEEDBACK_OUTBOX_KEY, [...ids])
+}
+
+export function clearFromFeedbackOutbox(questionIds: string[]): void {
+  const done = new Set(questionIds)
+  write(
+    FEEDBACK_OUTBOX_KEY,
+    loadFeedbackOutbox().filter((id) => !done.has(id)),
+  )
+}
+
+/** Trukne stemmer fjernes helt så snart serveren har fått vite om det. */
+export function dropLocalFeedback(questionIds: string[]): void {
+  const all = loadFeedback()
+  for (const id of questionIds) if (all[id]?.vote === null) delete all[id]
+  write(FEEDBACK_KEY, all)
+}
+
+/**
+ * Tar imot serverens versjon av egne stemmer. Alt som ligger i utboksen er
+ * nyere enn serveren vet om, og røres ikke – ellers ville en stemme avgitt
+ * offline bli overskrevet i det man kommer på nett igjen.
+ */
+export function mergeServerFeedback(items: LocalFeedback[]): void {
+  const pending = new Set(loadFeedbackOutbox())
+  const all = loadFeedback()
+  for (const item of items) {
+    if (pending.has(item.questionId)) continue
+    all[item.questionId] = item
+  }
+  write(FEEDBACK_KEY, all)
+}
+
+/** Etter innlogging skal alt man har ment på denne enheten følge med kontoen. */
+export function queueAllFeedback(): void {
+  const ids = new Set(loadFeedbackOutbox())
+  for (const id of Object.keys(loadFeedback())) ids.add(id)
+  write(FEEDBACK_OUTBOX_KEY, [...ids])
 }

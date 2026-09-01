@@ -1,0 +1,568 @@
+[
+  {
+    "id": "stein-l-01",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Han la fram den spesielle relativitetsteorien i 1905, men nobelprisen i fysikk fikk han først i 1921 – og da ikke for relativiteten, men for arbeidet med den fotoelektriske effekten. Hvilken fysiker?",
+      "sv": "Han lade fram den speciella relativitetsteorin 1905, men nobelpriset i fysik fick han först 1921 – och då inte för relativiteten, utan för arbetet med den fotoelektriska effekten. Vilken fysiker?"
+    },
+    "answer": "Albert Einstein",
+    "answerKind": "person",
+    "person": {
+      "given": "Albert",
+      "family": "Einstein"
+    },
+    "hint": {
+      "nb": "Etternavnet hans brukes i dagligtale som et ord for et geni.",
+      "sv": "Hans efternamn används i dagligt tal som ett ord för ett geni."
+    },
+    "funFact": {
+      "nb": "Prisen ble gitt «for arbeider i teoretisk fysikk, spesielt for sin oppdagelse av loven for den fotoelektriske effekt». Relativitetsteorien er ikke nevnt i begrunnelsen.",
+      "sv": "Priset gavs «för arbeten inom teoretisk fysik, särskilt för hans upptäckt av lagen för den fotoelektriska effekten». Relativitetsteorin nämns inte i motiveringen."
+    },
+    "source": "Store norske leksikon – Albert Einstein",
+    "onThisDay": [
+      {
+        "day": "03-14",
+        "year": 1879,
+        "prompt": {
+          "nb": "På denne dagen i 1879 ble det født en gutt i Ulm i Tyskland. Han la fram den spesielle relativitetsteorien i 1905, men nobelprisen i fysikk fikk han først i 1921 – og da for arbeidet med den fotoelektriske effekten, ikke for relativiteten. Hvilken fysiker?",
+          "sv": "På denna dag 1879 föddes en pojke i Ulm i Tyskland. Han lade fram den speciella relativitetsteorin 1905, men nobelpriset i fysik fick han först 1921 – och då för arbetet med den fotoelektriska effekten, inte för relativiteten. Vilken fysiker?"
+        }
+      }
+    ]
+  },
+  {
+    "id": "stein-l-02",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Mary Shelley ga ut romanen i 1818. Mange tror i dag at navnet i tittelen tilhører skapningen, men det er legen som setter den sammen og gir den liv som heter det. Skapningen selv får aldri noe navn. Hvilken roman?",
+      "sv": "Mary Shelley gav ut romanen 1818. Många tror i dag att namnet i titeln tillhör varelsen, men det är läkaren som sätter ihop den och ger den liv som heter så. Varelsen själv får aldrig något namn. Vilken roman?"
+    },
+    "answer": "Frankenstein",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Legen heter Victor til fornavn.",
+      "sv": "Läkaren heter Victor i förnamn."
+    },
+    "funFact": {
+      "nb": "Victor Frankenstein er navnet på skaperen, ikke på skapningen. I romanen omtales den bare som «monsteret».",
+      "sv": "Victor Frankenstein är namnet på skaparen, inte på varelsen. I romanen omtalas den bara som «monstret»."
+    },
+    "source": "Store norske leksikon – Frankenstein",
+    "onThisDay": [
+      {
+        "day": "01-01",
+        "year": 1818,
+        "prompt": {
+          "nb": "På denne dagen i 1818 kom en roman ut anonymt i London, i tre bind og i 500 eksemplarer, skrevet av en tjueåring. Mange tror i dag at navnet i tittelen tilhører skapningen, men det er legen som setter den sammen og gir den liv som heter det. Hvilken roman?",
+          "sv": "På denna dag 1818 kom en roman ut anonymt i London, i tre band och i 500 exemplar, skriven av en tjugoåring. Många tror i dag att namnet i titeln tillhör varelsen, men det är läkaren som sätter ihop den och ger den liv som heter så. Vilken roman?"
+        }
+      }
+    ]
+  },
+  {
+    "id": "stein-l-03",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Den ble funnet i 1799 i Nildeltaet under Napoleons ekspedisjon i Egypt, og bærer den samme teksten i tre skriftsystemer: gresk, demotisk og hieroglyfer. Nettopp det gjorde at Jean-François Champollion kunne knekke hieroglyfkoden i 1822. Hva heter den?",
+      "sv": "Den hittades 1799 i Nildeltat under Napoleons expedition i Egypten och bär samma text i tre skriftsystem: grekiska, demotiska och hieroglyfer. Just det gjorde att Jean-François Champollion kunde knäcka hieroglyfkoden 1822. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Rosettasteinen",
+      "sv": "Rosettastenen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er oppkalt etter landsbyen der den ble funnet.",
+      "sv": "Den är uppkallad efter byn där den hittades."
+    },
+    "funFact": {
+      "nb": "Navnet kommer fra landsbyen Rosetta i Nildeltaet, der franske soldater fant den ved Fort Rashid.",
+      "sv": "Namnet kommer från byn Rosetta i Nildeltat, där franska soldater hittade den vid Fort Rashid."
+    },
+    "source": "Store norske leksikon – Rosettastenen"
+  },
+  {
+    "id": "stein-l-04",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Bandet ble dannet i London i 1962 og tok navnet sitt fra en sang av bluesmusikeren Muddy Waters. Mick Jagger og Keith Richards har vært med siden starten. Hvilket band?",
+      "sv": "Bandet bildades i London 1962 och tog sitt namn från en låt av bluesmusikern Muddy Waters. Mick Jagger och Keith Richards har varit med sedan starten. Vilket band?"
+    },
+    "answer": "The Rolling Stones",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Logoen deres er en tunge med lepper.",
+      "sv": "Deras logotyp är en tunga med läppar."
+    },
+    "funFact": {
+      "nb": "Navnet er hentet fra en sang av Muddy Waters. Bandet ble dannet i London i 1962.",
+      "sv": "Namnet är hämtat från en låt av Muddy Waters. Bandet bildades i London 1962."
+    },
+    "source": "Store norske leksikon – The Rolling Stones"
+  },
+  {
+    "id": "stein-l-05",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Dette klovdyret lever i høyfjell og ørkenstrøk i Asia og Sør-Europa, og hannene bærer tykke, buede horn som hos den sibirske underarten kan bli over en meter lange. På latin heter det Capra ibex. Hvilket dyr?",
+      "sv": "Detta klövdjur lever i högfjäll och ökentrakter i Asien och Sydeuropa, och hanarna bär tjocka, böjda horn som hos den sibiriska underarten kan bli över en meter långa. På latin heter det Capra ibex. Vilket djur?"
+    },
+    "answer": {
+      "nb": "Steinbukk",
+      "sv": "Stenbock"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er også et stjernetegn.",
+      "sv": "Namnet är också ett stjärntecken."
+    },
+    "funFact": {
+      "nb": "Hornene kan bli opptil 85 centimeter hos alpine underarter og 128–143 centimeter hos den sibirske. Dyret hører til geiteslekten Capra.",
+      "sv": "Hornen kan bli upp till 85 centimeter hos alpina underarter och 128–143 centimeter hos den sibiriska. Djuret hör till getsläktet Capra."
+    },
+    "source": "Store norske leksikon – steinbukk"
+  },
+  {
+    "id": "stein-l-06",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Han tok OL-gull i storslalåm i 1952 og ble siden proff alpinist i USA, der han bygde opp skiskoler som ble svært populære, drev hoteller og lærte amerikanere å stå på ski. Hvilken nordmann?",
+      "sv": "Han tog OS-guld i storslalom 1952 och blev sedan proffsåkare i USA, där han byggde upp skidskolor som blev mycket populära, drev hotell och lärde amerikaner att åka skidor. Vilken norrman?"
+    },
+    "answer": "Stein Eriksen",
+    "answerKind": "person",
+    "person": {
+      "given": "Stein",
+      "family": "Eriksen"
+    },
+    "hint": {
+      "nb": "Fornavnet hans er selve temaordet her.",
+      "sv": "Hans förnamn är temats ord, fast på norska."
+    },
+    "funFact": {
+      "nb": "Etter karrieren solgte han også norske vintersportsprodukter i USA, ved siden av skiskolene og hotellene.",
+      "sv": "Efter karriären sålde han även norska vintersportprodukter i USA, vid sidan av skidskolorna och hotellen."
+    },
+    "source": "Store norske leksikon – Stein Eriksen"
+  },
+  {
+    "id": "stein-l-07",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Byen ligger ved nordøstsiden av Beitstadfjorden, som er en arm av Trondheimsfjorden. Den er fylkeshovedstad i Trøndelag og sete for statsforvalteren, selv om Trondheim er den klart største byen i fylket. Hvilken by?",
+      "sv": "Staden ligger vid nordöstra sidan av Beitstadfjorden, en arm av Trondheimsfjorden. Den är residensstad i Trøndelag fylke och säte för statsförvaltaren, trots att Trondheim är den klart största staden i fylket. Vilken stad?"
+    },
+    "answer": "Steinkjer",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Første stavelse er noe du finner i fjæra.",
+      "sv": "Första stavelsen är något du hittar i strandkanten."
+    },
+    "funFact": {
+      "nb": "Selv om Trondheim er den klart største byen i Trøndelag, er det her fylkeshovedstaden og statsforvalteren ligger.",
+      "sv": "Trots att Trondheim är den klart största staden i Trøndelag ligger residensstaden och statsförvaltaren här."
+    },
+    "source": "Store norske leksikon – Steinkjer"
+  },
+  {
+    "id": "stein-l-08",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Han vant 86 verdenscuprenn i slalåm og storslalåm, og tok to OL-gull i 1980 – ett i hver av de to grenene. Få svenske idrettsutøvere har dominert en gren slik han gjorde. Hvilken alpinist?",
+      "sv": "Han vann 86 världscuptävlingar i slalom och storslalom och tog två OS-guld 1980 – ett i vardera grenen. Få svenska idrottare har dominerat en gren så som han gjorde. Vilken alpinåkare?"
+    },
+    "answer": "Ingemar Stenmark",
+    "answerKind": "person",
+    "person": {
+      "given": "Ingemar",
+      "family": "Stenmark"
+    },
+    "hint": {
+      "nb": "Han er svensk, og etternavnet hans inneholder temaordet.",
+      "sv": "Han är svensk, och hans efternamn innehåller temats ord."
+    },
+    "funFact": {
+      "nb": "De 86 seirene fordeler seg på 40 i slalåm og 46 i storslalåm.",
+      "sv": "De 86 segrarna fördelar sig på 40 i slalom och 46 i storslalom."
+    },
+    "source": "Store norske leksikon – Ingemar Stenmark"
+  },
+  {
+    "id": "stein-l-09",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Soppen heter Boletus edulis på latin og regnes som en av de aller beste matsoppene i Norden. I Sverige er den oppkalt etter kongen som gjorde den kjent der, og heter derfor noe helt annet enn på norsk. Hvilken sopp?",
+      "sv": "Svampen heter Boletus edulis på latin och räknas som en av Nordens allra bästa matsvampar. I Sverige är den uppkallad efter den kung som gjorde den känd här, och heter därför något helt annat än på norska. Vilken svamp?"
+    },
+    "answer": {
+      "nb": "Steinsopp",
+      "sv": "Karljohanssvamp"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det svenske navnet er oppkalt etter en konge.",
+      "sv": "Det norska namnet syftar på det du hittar i en stenmur."
+    },
+    "funFact": {
+      "nb": "Kong Karl Johan gjorde soppen kjent i Sverige, og derfor kaller svenskene steinsoppen for karljohanssvamp.",
+      "sv": "Kung Karl Johan gjorde svampen känd i Sverige, och därför kallar svenskarna den karljohanssvamp."
+    },
+    "source": "Store norske leksikon – steinsopp"
+  },
+  {
+    "id": "stein-l-10",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Perioden varte i nesten 3,5 millioner år, og navnet kommer av at ett materiale dominerte redskapene ved siden av tre, horn og bein. Den deles i paleolittisk, mesolittisk og neolittisk tid, og tok slutt da mennesket begynte å bruke smeltet metall. Hvilken periode?",
+      "sv": "Perioden varade i nästan 3,5 miljoner år, och namnet kommer av att ett material dominerade redskapen vid sidan av trä, horn och ben. Den delas i paleolitisk, mesolitisk och neolitisk tid, och tog slut när människan började använda smält metall. Vilken period?"
+    },
+    "answer": {
+      "nb": "Steinalderen",
+      "sv": "Stenåldern"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Perioden som fulgte etter, er oppkalt etter en metallegering.",
+      "sv": "Perioden som följde är uppkallad efter en metallegering."
+    },
+    "funFact": {
+      "nb": "Perioden endte først ved den første bruken av smeltet metall, bronse, rundt 3500 år fvt.",
+      "sv": "Perioden slutade först vid den första användningen av smält metall, brons, omkring 3500 f.Kr."
+    },
+    "source": "Store norske leksikon – steinalderen"
+  },
+  {
+    "id": "stein-m-01",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Han fikk nobelprisen i litteratur i 1962, og romanene hans – blant dem «Vredens druer» fra 1939 og «Om mus og menn» fra 1937 – kretser om California, der han vokste opp i Salinas. Hvilken forfatter?",
+      "sv": "Han fick nobelpriset i litteratur 1962, och hans romaner – bland dem «Vredens druvor» från 1939 och «Möss och människor» från 1937 – kretsar kring Kalifornien, där han växte upp i Salinas. Vilken författare?"
+    },
+    "answer": "John Steinbeck",
+    "answerKind": "person",
+    "person": {
+      "given": "John",
+      "family": "Steinbeck"
+    },
+    "hint": {
+      "nb": "Etternavnet begynner med temaordet.",
+      "sv": "Efternamnet börjar med temats ord."
+    },
+    "funFact": {
+      "nb": "«Cannery Row» fra 1945 hører til det samme californiske landskapet. Salinas-området preget forfatterskapet hans dypt.",
+      "sv": "«Cannery Row» från 1945 hör till samma kaliforniska landskap. Salinastrakten präglade hans författarskap djupt."
+    },
+    "source": "Store norske leksikon – John Steinbeck"
+  },
+  {
+    "id": "stein-m-02",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk",
+      "design"
+    ],
+    "prompt": {
+      "nb": "En tyskfødt instrumentmaker grunnla firmaet i New York i 1853 og forenklet det tyske etternavnet sitt til en engelsk form som ble selve merkenavnet. I dag lager de flygler og pianoer som står på konsertscener over hele verden. Hvilket firma?",
+      "sv": "En tyskfödd instrumentmakare grundade företaget i New York 1853 och förenklade sitt tyska efternamn till en engelsk form som blev själva varumärket. I dag tillverkar de flyglar och pianon som står på konsertscener över hela världen. Vilket företag?"
+    },
+    "answer": "Steinway & Sons",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det tyske etternavnet var Steinweg.",
+      "sv": "Det tyska efternamnet var Steinweg."
+    },
+    "funFact": {
+      "nb": "Heinrich Engelhard Steinweg (1797–1871) tok navnet Henry Steinway. Firmaet lager i dag også andre orkesterinstrumenter.",
+      "sv": "Heinrich Engelhard Steinweg (1797–1871) tog namnet Henry Steinway. Företaget tillverkar i dag även andra orkesterinstrument."
+    },
+    "source": "Store norske leksikon – Steinway and Sons"
+  },
+  {
+    "id": "stein-m-03",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Han lurte selve døden ved å binde fast Hades, og brøt dermed mot verdensordenen. Straffen i underverdenen ble å rulle den samme byrden opp en skråning i all evighet, bare for å miste grepet like før toppen. Hvem var han?",
+      "sv": "Han lurade själva döden genom att binda fast Hades och bröt därmed mot världsordningen. Straffet i underjorden blev att rulla samma börda uppför en sluttning i all evighet, bara för att tappa greppet strax före toppen. Vem var han?"
+    },
+    "answer": "Sisyfos",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet hans brukes i dag om et arbeid som aldri tar slutt.",
+      "sv": "Hans namn används i dag om ett arbete som aldrig tar slut."
+    },
+    "funFact": {
+      "nb": "Straffen kom av overmot – hybris. Å overliste døden ble regnet som et brudd på selve verdensordenen.",
+      "sv": "Straffet kom av övermod – hybris. Att överlista döden räknades som ett brott mot själva världsordningen."
+    },
+    "source": "Store norske leksikon – Sisyfos"
+  },
+  {
+    "id": "stein-m-04",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Omkring 80 prosent av dem består av krystaller med kalsiumoksalat, kalsiumfosfat eller en blanding av de to. Det vanligste symptomet er smerte, og kiler den seg fast i urinlederen, kalles anfallet kolikk. Hva heter tilstanden?",
+      "sv": "Omkring 80 procent av dem består av kristaller med kalciumoxalat, kalciumfosfat eller en blandning av de två. Det vanligaste symtomet är smärta, och kilar den fast sig i urinledaren kallas anfallet kolik. Vad heter tillståndet?"
+    },
+    "answer": {
+      "nb": "Nyrestein",
+      "sv": "Njursten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Organet det gjelder, sitter i to eksemplarer i ryggen.",
+      "sv": "Organet det gäller sitter i två exemplar i ryggen."
+    },
+    "funFact": {
+      "nb": "Kalsiumsteiner utgjør omkring 80 prosent av alle nyresteiner. Anfallet kalles nyresteinskolikk når steinen sitter i urinlederen.",
+      "sv": "Kalciumstenar utgör omkring 80 procent av alla njurstenar. Anfallet kallas njurstenskolik när stenen sitter i urinledaren."
+    },
+    "source": "Store medisinske leksikon – nyrestein"
+  },
+  {
+    "id": "stein-m-05",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Dette fossile brenselet inneholder mellom 77 og 95 prosent karbon, og brennverdien ligger rundt 28 000 kilojoule per kilo. På Svalbard finnes forekomster fra devon, karbon, jura, kritt og tertiær. Hva heter det?",
+      "sv": "Detta fossila bränsle innehåller mellan 77 och 95 procent kol, och värmevärdet ligger kring 28 000 kilojoule per kilo. På Svalbard finns fyndigheter från devon, karbon, jura, krita och tertiär. Vad heter det?"
+    },
+    "answer": {
+      "nb": "Steinkull",
+      "sv": "Stenkol"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er den harde varianten, ikke brunkull.",
+      "sv": "Det är den hårda varianten, inte brunkol."
+    },
+    "funFact": {
+      "nb": "Innholdet av flyktige hydrokarboner varierer mellom 10 og 40 prosent. Brennverdien er om lag 28 000 kilojoule per kilogram.",
+      "sv": "Innehållet av flyktiga kolväten varierar mellan 10 och 40 procent. Värmevärdet är omkring 28 000 kilojoule per kilogram."
+    },
+    "source": "Store norske leksikon – steinkull"
+  },
+  {
+    "id": "stein-m-06",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Anlegget ligger omtrent 13 kilometer nord for Salisbury i Wiltshire i England, og ble reist i tre faser fra rundt 3000 til 1500 før vår tidsregning. Inngangen er orientert etter soloppgangen ved sommersolverv. Hva heter det?",
+      "sv": "Anläggningen ligger omkring 13 kilometer norr om Salisbury i Wiltshire i England och restes i tre faser från cirka 3000 till 1500 före vår tideräkning. Ingången är orienterad efter soluppgången vid sommarsolståndet. Vad heter den?"
+    },
+    "answer": "Stonehenge",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er engelsk, og første ledd er temaordet oversatt.",
+      "sv": "Namnet är engelskt, och första ledet är temats ord översatt."
+    },
+    "funFact": {
+      "nb": "Anlegget regnes som en cromlech – en steinsetning med jordvoll. Det tolkes som kultsted, mulig observatorium, eller begge deler.",
+      "sv": "Anläggningen räknas som en cromlech – en stensättning med jordvall. Den tolkas som kultplats, möjligt observatorium, eller bådadera."
+    },
+    "source": "Store norske leksikon – Stonehenge"
+  },
+  {
+    "id": "stein-m-07",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Fossen ligger noen kilometer vest for Norheimsund langs fylkesvei 49, og har en egenskap som har gjort den til et av de mest besøkte stoppene i distriktet: du kan gå bak den uten å bli våt. Hvilken foss?",
+      "sv": "Vattenfallet ligger några kilometer väster om Norheimsund längs fylkesväg 49 och har en egenskap som gjort det till ett av traktens mest besökta stopp: du kan gå bakom det utan att bli blöt. Vilket vattenfall?"
+    },
+    "answer": "Steinsdalsfossen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den kalles også Øvsthusfossen, og elva har samme navn som fossen.",
+      "sv": "Det kallas även Øvsthusfossen, och älven har samma namn som fallet."
+    },
+    "funFact": {
+      "nb": "Fossen kalles også Øvsthusfossen og ligger i Steinsdalselvi. At man kan gå under den uten å bli våt, er det som har gjort den kjent.",
+      "sv": "Fallet kallas även Øvsthusfossen och ligger i Steinsdalselvi. Att man kan gå under det utan att bli blöt är det som gjort det känt."
+    },
+    "source": "Store norske leksikon – Norheimsund"
+  },
+  {
+    "id": "stein-m-08",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Erkebiskop Olav Engelbrektsson lot borgen bygge på et lite skjær i Åsenfjorden i Stjørdal mellom 1525 og 1535. Da han flyktet fra landet i 1537, overga besetningen han lot bli igjen den til danskene samme år. Hvilken borg?",
+      "sv": "Ärkebiskop Olav Engelbrektsson lät borgen byggas på ett litet skär i Åsenfjorden i Stjørdal mellan 1525 och 1535. När han flydde landet 1537 överlämnade besättningen han lämnat kvar den till danskarna samma år. Vilken borg?"
+    },
+    "answer": "Steinvikholm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet ender på ordet for det skjæret den står på.",
+      "sv": "Namnet slutar på ordet för det skär den står på."
+    },
+    "funFact": {
+      "nb": "Erkebiskopen flyktet fra landet i 1537. Besetningen han lot bli igjen, overga borgen til danskene samme år.",
+      "sv": "Ärkebiskopen flydde från landet 1537. Besättningen han lämnade kvar överlämnade borgen till danskarna samma år."
+    },
+    "source": "Store norske leksikon – Steinvikholm"
+  },
+  {
+    "id": "stein-m-09",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Som riksforstander ledet han svenskene til seier over kong Christian 1. i slaget ved Brunkeberg 10. oktober 1471 – et av de mest omtalte slagene i svensk middelalderhistorie. Hvem var han?",
+      "sv": "Som riksföreståndare ledde han svenskarna till seger över kung Kristian I i slaget vid Brunkeberg den 10 oktober 1471 – ett av de mest omtalade slagen i svensk medeltidshistoria. Vem var han?"
+    },
+    "answer": {
+      "nb": "Sten Sture den eldre",
+      "sv": "Sten Sture den äldre"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": "Sten",
+      "family": {
+        "nb": "Sture den eldre",
+        "sv": "Sture den äldre"
+      }
+    },
+    "hint": {
+      "nb": "Fornavnet hans er temaordet, skrevet på svensk.",
+      "sv": "Hans förnamn är temats ord."
+    },
+    "funFact": {
+      "nb": "Slaget ved Brunkeberg sto 10. oktober 1471. Han var riksforstander i Sverige.",
+      "sv": "Slaget vid Brunkeberg stod den 10 oktober 1471. Han var riksföreståndare i Sverige."
+    },
+    "source": "Store norske leksikon – Sten Gustafsson Sture",
+    "onThisDay": [
+      {
+        "day": "10-10",
+        "year": 1471,
+        "prompt": {
+          "nb": "På denne dagen i 1471 ledet en svensk riksforstander sine menn til seier over kong Christian 1. av Danmark på en høyde i Stockholm, der Hötorget ligger i dag. Slaget svekket Kalmarunionen kraftig. Hvem var riksforstanderen?",
+          "sv": "På denna dag 1471 ledde en svensk riksföreståndare sina män till seger över kung Kristian I av Danmark på en höjd i Stockholm, där Hötorget ligger i dag. Slaget försvagade Kalmarunionen kraftigt. Vem var riksföreståndaren?"
+        }
+      }
+    ]
+  },
+  {
+    "id": "stein-m-10",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Den svenske feltherren vant over danskene i slaget ved Gadebusch i desember 1712. Det er den seieren han huskes best for, og den ga ham heltestatus i hjemlandet. Hvem var han?",
+      "sv": "Den svenske fältherren vann över danskarna i slaget vid Gadebusch i december 1712. Det är den segern han minns bäst för, och den gav honom hjältestatus i hemlandet. Vem var han?"
+    },
+    "answer": "Magnus Stenbock",
+    "answerKind": "person",
+    "person": {
+      "given": "Magnus",
+      "family": "Stenbock"
+    },
+    "hint": {
+      "nb": "Han var svensk feltherre, og etternavnet begynner med temaordet.",
+      "sv": "Han var svensk fältherre, och efternamnet börjar med temats ord."
+    },
+    "funFact": {
+      "nb": "Seieren over danskene ved Gadebusch i desember 1712 er den han er mest kjent for.",
+      "sv": "Segern över danskarna vid Gadebusch i december 1712 är den han är mest känd för."
+    },
+    "source": "Store norske leksikon – Magnus Stenbock"
+  }
+]

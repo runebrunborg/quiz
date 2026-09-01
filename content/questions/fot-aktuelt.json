@@ -1,0 +1,95 @@
+[
+  {
+    "id": "fot-l-a1",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "fotball",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "16. november 2025 slo Norge Italia 4–1 i Milano og var klar for fotball-VM for første gang siden 1998. Med 16 mål ble en nordmann toppscorer i hele VM-kvalifiseringen, alle verdensdeler medregnet. Hvem er spilleren?",
+      "sv": "Den 16 november 2025 slog Norge Italien 4–1 i Milano och var klart för fotbolls-VM för första gången sedan 1998. Med 16 mål blev en norrman skyttekung i hela VM-kvalet, alla världsdelar medräknade. Vem är spelaren?"
+    },
+    "answer": "Erling Braut Haaland",
+    "answerKind": "person",
+    "person": {
+      "given": "Erling",
+      "family": "Haaland"
+    },
+    "hint": {
+      "nb": "Han spiller i Manchester City og er Norges mestscorende landslagsspiller.",
+      "sv": "Han spelar i Manchester City och är Norges mest målfarliga landslagsspelare."
+    },
+    "funFact": {
+      "nb": "Norge vant alle åtte kampene i gruppa, og kvelden i Milano ga Italia landets første hjemmetap i en gruppekamp i VM-kvalifisering. I juni 2026 sto han med 60 landslagsmål på 53 kamper.",
+      "sv": "Norge vann alla åtta matcherna i gruppen, och kvällen i Milano gav Italien landets första hemmaförlust i en gruppmatch i VM-kval. I juni 2026 stod han med 60 landslagsmål på 53 matcher."
+    },
+    "source": "Store norske leksikon – Erling Braut Haaland (oppdatert 08.07.2026)",
+    "topical": {
+      "event": "2025-11-16",
+      "until": "2026-11-30",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "fot-m-a1",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "Finalen i Mesterligaen 30. mai 2026 på Puskás Aréna i Budapest endte 1–1 etter ekstraomganger og ble avgjort på straffespark mot Arsenal. Vinneren ble bare den andre klubben som har tatt tittelen to år på rad i Mesterligaens tid, etter Real Madrid. Hvilken klubb?",
+      "sv": "Finalen i Champions League den 30 maj 2026 på Puskás Aréna i Budapest slutade 1–1 efter förlängning och avgjordes på straffar mot Arsenal. Vinnaren blev bara den andra klubben som tagit titeln två år i rad i Champions Leagues tid, efter Real Madrid. Vilken klubb?"
+    },
+    "answer": "Paris Saint-Germain",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Klubben har vært eid av Qatar Sports Investments siden 2011 og spiller til vanlig i Parc des Princes.",
+      "sv": "Klubben har ägts av Qatar Sports Investments sedan 2011 och spelar normalt på Parc des Princes."
+    },
+    "funFact": {
+      "nb": "Klubben vant også finalen året før, 5–0 over Inter. Finalen i 2026 startet klokka 18 lokal tid, tre timer tidligere enn tidligere utgaver.",
+      "sv": "Klubben vann också finalen året före, 5–0 mot Inter. Finalen 2026 började klockan 18 lokal tid, tre timmar tidigare än tidigare upplagor."
+    },
+    "source": "Store norske leksikon – Paris Saint-Germain F.C. (oppdatert 30.05.2026); Wikipedia – 2026 UEFA Champions League final",
+    "topical": {
+      "event": "2026-05-30",
+      "until": "2027-05-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "fot-v-a1",
+    "category": "fot",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "fotball",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Fotball-VM 2026 var det første med 48 lag og tre vertsland. Finalen 19. juli ble spilt i East Rutherford i New Jersey, og for første gang i et fotball-VM var det pauseunderholdning i Super Bowl-stil, med blant andre Madonna og Shakira. Hva heter stadionet?",
+      "sv": "Fotbolls-VM 2026 var det första med 48 lag och tre värdländer. Finalen den 19 juli spelades i East Rutherford i New Jersey, och för första gången i ett fotbolls-VM fanns pausunderhållning i Super Bowl-stil, med bland andra Madonna och Shakira. Vad heter arenan?"
+    },
+    "answer": "MetLife Stadium",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er det samme som et stort amerikansk forsikringsselskap.",
+      "sv": "Namnet är detsamma som ett stort amerikanskt försäkringsbolag."
+    },
+    "funFact": {
+      "nb": "Mesterskapet ble spilt fra 11. juni til 19. juli 2026 i 16 vertsbyer – elleve i USA, tre i Mexico og to i Canada.",
+      "sv": "Mästerskapet spelades från den 11 juni till den 19 juli 2026 i 16 värdstäder – elva i USA, tre i Mexiko och två i Kanada."
+    },
+    "source": "Wikipedia – 2026 FIFA World Cup (lest 01.09.2026)",
+    "topical": {
+      "event": "2026-07-19",
+      "until": "2027-07-31",
+      "evergreen": true
+    }
+  }
+]

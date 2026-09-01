@@ -1,14 +1,21 @@
-import type { QuizSession } from '../../shared/types'
+import type { FeedbackSummaryRow, QuizSession } from '../../shared/types'
 import { QUESTION_BY_ID } from './content'
 import { derivePasswordKey } from './crypto'
 import {
+  clearFromFeedbackOutbox,
   clearFromOutbox,
   clearProfile,
+  dropLocalFeedback,
+  loadFeedback,
+  loadFeedbackOutbox,
   loadOutbox,
   loadProfile,
   loadSessions,
+  mergeServerFeedback,
+  queueAllFeedback,
   queueAllFinishedSessions,
   saveProfile,
+  type LocalFeedback,
   type Profile,
 } from './storage'
 
@@ -84,9 +91,11 @@ export async function register(input: {
     }),
   })
   const profile = store(account)
-  // En fersk konto skal arve det man allerede har spilt på denne enheten.
+  // En fersk konto skal arve det man allerede har spilt og ment på denne enheten.
   queueAllFinishedSessions()
+  queueAllFeedback()
   await syncOutbox()
+  await syncFeedback()
   return profile
 }
 
@@ -98,7 +107,10 @@ export async function login(nickname: string, password: string): Promise<Profile
   })
   const profile = store(account)
   queueAllFinishedSessions()
+  queueAllFeedback()
   await syncOutbox()
+  await syncFeedback()
+  await pullMyFeedback()
   return profile
 }
 
@@ -242,4 +254,76 @@ export interface Leaderboard {
 
 export async function fetchLeaderboard(scope: LeaderboardScope, period: LeaderboardPeriod): Promise<Leaderboard> {
   return call(`/leaderboard?scope=${scope}&period=${period}`)
+}
+
+/* --------------------------------------------------- tilbakemeldinger */
+
+/**
+ * Sender køen med tommel opp/ned. Stemmer som er trukket tilbake ligger i køen
+ * med `vote: null` og sendes som sletting. Stille no-op uten konto – da blir
+ * stemmene liggende lokalt til man logger inn.
+ */
+export async function syncFeedback(): Promise<number> {
+  const profile = loadProfile()
+  if (!profile.token) return 0
+
+  const pending = loadFeedbackOutbox()
+  if (pending.length === 0) return 0
+
+  const all = loadFeedback()
+  const withdrawn = pending.filter((id) => !all[id] || all[id].vote === null)
+  const votes = pending.map((id) => all[id]).filter((f): f is LocalFeedback => Boolean(f) && f.vote !== null)
+
+  for (const id of withdrawn) {
+    await call(`/feedback/${encodeURIComponent(id)}`, { method: 'DELETE' })
+    clearFromFeedbackOutbox([id])
+    dropLocalFeedback([id])
+  }
+
+  for (let i = 0; i < votes.length; i += 50) {
+    const batch = votes.slice(i, i + 50)
+    await call('/feedback', {
+      method: 'POST',
+      body: JSON.stringify({
+        items: batch.map((f) => ({
+          questionId: f.questionId,
+          vote: f.vote,
+          reason: f.reason,
+          comment: f.comment,
+          category: f.category,
+          difficulty: f.difficulty,
+          lang: f.lang,
+          updatedAt: f.updatedAt,
+        })),
+      }),
+    })
+    clearFromFeedbackOutbox(batch.map((f) => f.questionId))
+  }
+
+  return withdrawn.length + votes.length
+}
+
+/** Henter egne stemmer, slik at en ny enhet viser det man allerede har ment. */
+export async function pullMyFeedback(): Promise<void> {
+  if (!loadProfile().token) return
+  const res = await call<{ items: LocalFeedback[] }>('/feedback/mine')
+  mergeServerFeedback(res.items)
+}
+
+export type FeedbackSort = 'verst' | 'best' | 'flest' | 'nyest'
+
+export interface FeedbackSummary {
+  sort: FeedbackSort
+  totals: { votes: number; questions: number; up: number; down: number }
+  rows: FeedbackSummaryRow[]
+}
+
+export async function fetchFeedbackSummary(
+  sort: FeedbackSort,
+  filters: { category?: string; difficulty?: string } = {},
+): Promise<FeedbackSummary> {
+  const params = new URLSearchParams({ sort })
+  if (filters.category) params.set('category', filters.category)
+  if (filters.difficulty) params.set('difficulty', filters.difficulty)
+  return call(`/feedback/summary?${params.toString()}`)
 }

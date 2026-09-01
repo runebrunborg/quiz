@@ -455,7 +455,17 @@
       "nb": "«Skibladner» ble bygd i 1856 og er Norges eldste skip i drift. Stasjonsbygningene på Hovedbanen ble tegnet av arkitektene Heinrich Ernst Schirmer og Wilhelm von Hanno.",
       "sv": "«Skibladner» byggdes 1856 och är Norges äldsta fartyg i drift. Stationshusen på Hovedbanen ritades av arkitekterna Heinrich Ernst Schirmer och Wilhelm von Hanno."
     },
-    "source": "Store norske leksikon – Hovedbanen og Skibladner"
+    "source": "Store norske leksikon – Hovedbanen og Skibladner",
+    "onThisDay": [
+      {
+        "day": "09-01",
+        "year": 1854,
+        "prompt": {
+          "nb": "På denne dagen i 1854 åpnet Norges første jernbane, knapt 68 kilometer nordover fra Christiania, bygd med britisk kapital og engelske entreprenører. Endestasjonen lå ved sørenden av Mjøsa, der hjuldamperen «Skibladner» tok over videre nordover. Hvilket sted?",
+          "sv": "På denna dag 1854 öppnade Norges första järnväg, knappt 68 kilometer norrut från Christiania, byggd med brittiskt kapital och engelska entreprenörer. Ändstationen låg vid Mjøsas södra ände, där hjulångaren «Skibladner» tog vid norrut. Vilken plats?"
+        }
+      }
+    ]
   },
   {
     "id": "tog-m-09",
@@ -479,7 +489,17 @@
       "nb": "Central Pacific bygde østover fra California med tusenvis av kinesiske arbeidere, mens Union Pacific bygde vestover med blant andre irske innvandrere og krigsveteraner. Seremonien regnes som en av USAs første landsdekkende mediebegivenheter.",
       "sv": "Central Pacific byggde österut från Kalifornien med tusentals kinesiska arbetare, medan Union Pacific byggde västerut med bland andra irländska invandrare och krigsveteraner. Ceremonin räknas som en av USA:s första rikstäckande mediehändelser."
     },
-    "source": "National Park Service – Golden Spike National Historical Park"
+    "source": "National Park Service – Golden Spike National Historical Park",
+    "onThisDay": [
+      {
+        "day": "05-10",
+        "year": 1869,
+        "prompt": {
+          "nb": "På denne dagen i 1869 møttes Union Pacific og Central Pacific ved Promontory Summit, den siste spikeren ble slått i, og ordet «done» ble telegrafert ut over hele USA. Landet hadde fått sin første jernbane fra kyst til kyst. I hvilken delstat lå møtestedet?",
+          "sv": "På denna dag 1869 möttes Union Pacific och Central Pacific vid Promontory Summit, den sista spiken slogs i och ordet «done» telegraferades ut över hela USA. Landet hade fått sin första järnväg från kust till kust. I vilken delstat låg mötesplatsen?"
+        }
+      }
+    ]
   },
   {
     "id": "tog-m-10",
@@ -556,7 +576,17 @@
       "nb": "Rekordkjøringen skjedde under en prøve av en ny hurtigvirkende Westinghouse-brems. Toget besto av sju vogner, deriblant en dynamometervogn som målte farten.",
       "sv": "Rekordkörningen skedde under ett prov av en ny snabbverkande Westinghouse-broms. Tåget bestod av sju vagnar, däribland en dynamometervagn som mätte farten."
     },
-    "source": "National Railway Museum, York"
+    "source": "National Railway Museum, York",
+    "onThisDay": [
+      {
+        "day": "07-03",
+        "year": 1938,
+        "prompt": {
+          "nb": "På denne dagen i 1938 nådde et strømlinjeformet britisk damplokomotiv 203 kilometer i timen i utforbakken ved Stoke Bank sør for Grantham. Rekorden for damplokomotiver står fortsatt, nesten nitti år etter. Hva het lokomotivet, som deler navn med en andefugl?",
+          "sv": "På denna dag 1938 nådde ett strömlinjeformat brittiskt ånglok 203 kilometer i timmen i nedförsbacken vid Stoke Bank söder om Grantham. Rekordet för ånglok står sig än, nästan nittio år senare. Vad hette loket, som delar namn med en andfågel?"
+        }
+      }
+    ]
   },
   {
     "id": "tog-v-03",

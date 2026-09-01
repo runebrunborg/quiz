@@ -17,7 +17,8 @@
     "db:migrate:remote": "wrangler d1 migrations apply theme-quiz --remote",
     "cf:setup": "bash scripts/setup-cloudflare.sh",
     "test:api": "node scripts/api-smoke.mjs",
-    "content:regions": "node scripts/region-mix.mjs"
+    "content:regions": "node scripts/region-mix.mjs",
+    "content:feedback": "node scripts/feedback-export.mjs"
   },
   "dependencies": {
     "hono": "^4.6.14",

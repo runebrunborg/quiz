@@ -5,3 +5,6 @@ dist
 *.tsbuildinfo
 .DS_Store
 vitest.config.ts.timestamp-*
+
+# Genererte tilbakemeldingsrapporter
+content/feedback/

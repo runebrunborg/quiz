@@ -1,0 +1,92 @@
+[
+  {
+    "id": "storm-l-a1",
+    "category": "storm",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "1. og 2. oktober 2025 fikk Agder, Telemark, Vestfold og Buskerud røde farevarsler for vind og regn, i det første navngitte ekstremværet i Norge siden Jakob året før. Navnet var ikke valgt av Meteorologisk institutt, men i Storbritannia, der uværet kom inn først. Hva het det?",
+      "sv": "Den 1 och 2 oktober 2025 fick Agder, Telemark, Vestfold och Buskerud röda varningar för vind och regn, i det första namngivna extremvädret i Norge sedan Jakob året innan. Namnet valdes inte av norska Meteorologisk institutt, utan i Storbritannien, där ovädret kom in först. Vad hette det?"
+    },
+    "answer": "Amy",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Et kort kvinnenavn på tre bokstaver som begynner på A.",
+      "sv": "Ett kort kvinnonamn på tre bokstäver som börjar på A."
+    },
+    "funFact": {
+      "nb": "Meteorologisk institutt har gitt norske ekstremvær personnavn siden 1995, men bruker navnet et annet land har satt hvis uværet passerer der først. Fra 2026 deler Norge, Sverige og Danmark én felles navneliste.",
+      "sv": "Norska Meteorologisk institutt har gett norska extremväder personnamn sedan 1995, men använder det namn ett annat land satt om ovädret passerar där först. Från 2026 delar Norge, Sverige och Danmark en gemensam namnlista."
+    },
+    "source": "Store norske leksikon – norske ekstremvær - navn (oppdatert 09.04.2026)",
+    "topical": {
+      "event": "2025-10-01",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "storm-m-a1",
+    "category": "storm",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "I april 2026 sendte Meteorologisk institutt ut ekstremværvarsel for Rogaland og Agder, der kraftig vind var på vei inn over Sørvest-Norge. Uværet hadde fått et kort engelsk mannsnavn på fire bokstaver, og var det første navngitte ekstremværet i Norge i 2026. Hva het uværet?",
+      "sv": "I april 2026 gick norska Meteorologisk institutt ut med extremvädervarning för Rogaland och Agder, där kraftig vind var på väg in över sydvästra Norge. Ovädret hade fått ett kort engelskt mansnamn på fyra bokstäver och var det första namngivna extremvädret i Norge under 2026. Vad hette ovädret?"
+    },
+    "answer": "Dave",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er den engelske kortformen av navnet på kongen som felte Goliat med en slynge.",
+      "sv": "Namnet är den engelska kortformen av namnet på kungen som fällde Goliat med en slunga."
+    },
+    "funFact": {
+      "nb": "Navnene gis i alfabetisk rekkefølge med vekslende kjønn, etter retningslinjer fra Verdens meteorologiorganisasjon. Ordningen har vært i bruk i Norge siden 1995, og fra 2026 hentes navnene fra en felles nordisk liste.",
+      "sv": "Namnen ges i alfabetisk ordning med växlande kön, enligt riktlinjer från Världsmeteorologiska organisationen. Ordningen har använts i Norge sedan 1995, och från 2026 hämtas namnen från en gemensam nordisk lista."
+    },
+    "source": "Store norske leksikon – norske ekstremvær - navn (oppdatert 09.04.2026)",
+    "topical": {
+      "event": "2026-04",
+      "until": "2027-04-30",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "storm-v-a1",
+    "category": "storm",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "natur",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fram til 2026 hadde Meteorologisk institutt sin egen navneliste for norske uvær; nå deles lista med Sverige og Danmark. Ordningen med å gi ekstremvær personnavn begynte i 1995, og det aller første fikk et norrønt mannsnavn på seks bokstaver. Hvilket navn?",
+      "sv": "Fram till 2026 hade norska Meteorologisk institutt sin egen namnlista för norska oväder; nu delas listan med Sverige och Danmark. Ordningen med att ge extremväder personnamn började 1995, och det allra första fick ett fornnordiskt mansnamn på sex bokstäver. Vilket namn?"
+    },
+    "answer": "Agnar",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er ikke Anders, Arne eller Asbjørn, men et navn man møter i norrøne kongesagaer.",
+      "sv": "Det är inte Anders, Arne eller Asbjörn, utan ett namn man möter i fornnordiska kungasagor."
+    },
+    "funFact": {
+      "nb": "Blant senere navn er Knud, Didrik, Elsa, Frank, Gyda, Hans, Ingunn og Jakob. Har et uvær alt fått navn i et annet land før det når Norge, beholder Meteorologisk institutt det navnet.",
+      "sv": "Bland senare namn finns Knud, Didrik, Elsa, Frank, Gyda, Hans, Ingunn och Jakob. Har ett oväder redan fått namn i ett annat land innan det når Norge behåller Meteorologisk institutt det namnet."
+    },
+    "source": "Store norske leksikon – norske ekstremvær - navn (oppdatert 09.04.2026)",
+    "topical": {
+      "event": "2026-01",
+      "until": "2027-01-31",
+      "evergreen": true
+    }
+  }
+]

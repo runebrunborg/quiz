@@ -1,5 +1,5 @@
 /**
- * LinnieQuiz – Cloudflare Worker.
+ * LinnQuiz – Cloudflare Worker.
  *
  * Serverer frontend-bygget og et JSON-API på /api for kontoer, synkronisering
  * av resultater, statistikk, venner og toppliste.
@@ -84,7 +84,7 @@ function validateBirthYear(raw: unknown): { ok: true; value: number | null } | {
   if (!Number.isInteger(year)) return { ok: false, error: 'Fødselsår må være et årstall' }
   const newest = new Date().getUTCFullYear() - MAX_AGE_ISH
   if (year < MIN_YEAR || year > newest) {
-    return { ok: false, error: `Fødselsår må være mellom ${MIN_YEAR} og ${newest}. Aldersgrensen for LinnieQuiz er ${MAX_AGE_ISH} år.` }
+    return { ok: false, error: `Fødselsår må være mellom ${MIN_YEAR} og ${newest}. Aldersgrensen for LinnQuiz er ${MAX_AGE_ISH} år.` }
   }
   return { ok: true, value: year }
 }
@@ -151,6 +151,8 @@ api.use('/me/*', auth)
 api.use('/friends', auth)
 api.use('/friends/*', auth)
 api.use('/leaderboard', auth)
+api.use('/feedback', auth)
+api.use('/feedback/*', auth)
 
 /* -------------------------------------------------------------------- konto */
 
@@ -308,6 +310,7 @@ api.delete('/account/me', auth, async (c) => {
     c.env.DB.prepare('DELETE FROM answer_topics WHERE user_id = ?').bind(userId),
     c.env.DB.prepare('DELETE FROM answers WHERE user_id = ?').bind(userId),
     c.env.DB.prepare('DELETE FROM sessions WHERE user_id = ?').bind(userId),
+    c.env.DB.prepare('DELETE FROM question_feedback WHERE user_id = ?').bind(userId),
     c.env.DB.prepare('DELETE FROM friends WHERE user_id = ? OR friend_id = ?').bind(userId, userId),
     c.env.DB.prepare('DELETE FROM auth_tokens WHERE user_id = ?').bind(userId),
     c.env.DB.prepare('DELETE FROM users WHERE id = ?').bind(userId),
@@ -598,6 +601,275 @@ api.get('/leaderboard', async (c) => {
   }))
 
   return c.json({ scope, period, minAnswers, entries })
+})
+
+/* --------------------------------------------------- tilbakemeldinger */
+
+/**
+ * Tommel opp/ned på enkeltspørsmål. Én rad per (bruker, spørsmål) – stemmer du
+ * på nytt, erstattes den forrige. Selve spørsmålsteksten ligger i `content/` og
+ * kommer aldri hit; oversikten slår opp teksten i nettleseren, slik at
+ * rapporten alltid viser gjeldende ordlyd selv om spørsmålet er redigert.
+ */
+
+const QUESTION_ID_PATTERN = /^[a-z0-9][a-z0-9-]{0,63}$/
+const FEEDBACK_REASONS = ['feil', 'uklart', 'lekker', 'nivaa', 'hint', 'kjedelig', 'annet']
+const COMMENT_MAX = 400
+/** Tak per forespørsel, så en lang utboks ikke sprenger én runde. */
+const FEEDBACK_BATCH_MAX = 100
+
+interface FeedbackPayload {
+  questionId?: unknown
+  vote?: unknown
+  reason?: unknown
+  comment?: unknown
+  category?: unknown
+  difficulty?: unknown
+  lang?: unknown
+  updatedAt?: unknown
+}
+
+interface CleanFeedback {
+  questionId: string
+  vote: 1 | -1
+  reason: string | null
+  comment: string | null
+  category: string
+  difficulty: string
+  lang: string
+  updatedAt: number
+}
+
+function shortText(raw: unknown, max: number): string {
+  return typeof raw === 'string' ? raw.trim().slice(0, max) : ''
+}
+
+/** Returnerer null for alt som ikke er en gyldig stemme – ugyldige rader hoppes over. */
+function cleanFeedback(raw: FeedbackPayload): CleanFeedback | null {
+  const questionId = shortText(raw.questionId, 64)
+  if (!QUESTION_ID_PATTERN.test(questionId)) return null
+
+  const vote = raw.vote === 'opp' ? 1 : raw.vote === 'ned' ? -1 : null
+  if (vote === null) return null
+
+  // Grunn hører bare til tommel ned; en grunn på tommel opp forkastes stille.
+  const reasonRaw = shortText(raw.reason, 32)
+  const reason = vote === -1 && FEEDBACK_REASONS.includes(reasonRaw) ? reasonRaw : null
+
+  const comment = shortText(raw.comment, COMMENT_MAX) || null
+
+  const at = typeof raw.updatedAt === 'number' && Number.isFinite(raw.updatedAt) ? raw.updatedAt : Date.now()
+  // Klokka på enheten kan gå feil; en stemme fra framtida ville låst toppen av
+  // «sist endret»-lista for alltid.
+  const updatedAt = Math.min(Math.max(at, 0), Date.now())
+
+  return {
+    questionId,
+    vote,
+    reason,
+    comment,
+    category: shortText(raw.category, 40),
+    difficulty: shortText(raw.difficulty, 20),
+    lang: raw.lang === 'sv' ? 'sv' : 'nb',
+    updatedAt,
+  }
+}
+
+function voteWord(vote: number): 'opp' | 'ned' {
+  return vote === 1 ? 'opp' : 'ned'
+}
+
+api.post('/feedback', async (c) => {
+  const userId = c.get('userId')
+  const body = await c.req.json<{ items?: FeedbackPayload[] }>().catch(() => ({}) as { items?: FeedbackPayload[] })
+  const raw = body.items ?? []
+  if (raw.length > FEEDBACK_BATCH_MAX) return c.json({ error: 'For mange tilbakemeldinger i én forespørsel' }, 400)
+
+  const items = raw.map(cleanFeedback).filter((v): v is CleanFeedback => v !== null)
+  if (items.length === 0) return c.json({ saved: 0 })
+
+  const now = Date.now()
+  for (const f of items) {
+    await c.env.DB.prepare(
+      `INSERT INTO question_feedback
+         (user_id, question_id, vote, reason, comment, category, difficulty, lang, created_at, updated_at)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+       ON CONFLICT (user_id, question_id) DO UPDATE SET
+         vote = excluded.vote,
+         reason = excluded.reason,
+         comment = excluded.comment,
+         category = excluded.category,
+         difficulty = excluded.difficulty,
+         lang = excluded.lang,
+         updated_at = excluded.updated_at`,
+    )
+      .bind(userId, f.questionId, f.vote, f.reason, f.comment, f.category, f.difficulty, f.lang, now, f.updatedAt)
+      .run()
+  }
+
+  return c.json({ saved: items.length })
+})
+
+api.delete('/feedback/:questionId', async (c) => {
+  await c.env.DB.prepare('DELETE FROM question_feedback WHERE user_id = ? AND question_id = ?')
+    .bind(c.get('userId'), c.req.param('questionId'))
+    .run()
+  return c.json({ ok: true })
+})
+
+/** Egne stemmer, så en ny enhet får med seg det man allerede har ment. */
+api.get('/feedback/mine', async (c) => {
+  const rows = await c.env.DB.prepare(
+    'SELECT question_id, vote, reason, comment, updated_at FROM question_feedback WHERE user_id = ?',
+  )
+    .bind(c.get('userId'))
+    .all<{ question_id: string; vote: number; reason: string | null; comment: string | null; updated_at: number }>()
+
+  return c.json({
+    items: (rows.results ?? []).map((r) => ({
+      questionId: r.question_id,
+      vote: voteWord(r.vote),
+      reason: r.reason,
+      comment: r.comment,
+      updatedAt: r.updated_at,
+    })),
+  })
+})
+
+type FeedbackSort = 'verst' | 'best' | 'flest' | 'nyest'
+
+const FEEDBACK_ORDER: Record<FeedbackSort, string> = {
+  // Verst først: lavest score, og ved likhet den med flest tommel ned.
+  verst: 'score ASC, down DESC, last_at DESC',
+  best: 'score DESC, up DESC, last_at DESC',
+  flest: 'votes DESC, score ASC, last_at DESC',
+  nyest: 'last_at DESC',
+}
+
+const FEEDBACK_LIMIT = 200
+
+/**
+ * Sammenstilling for oversikten. Åpen for alle innloggede, men kommentarer og
+ * grunner leveres uten avsender – dette er et redaksjonsverktøy for
+ * spørsmålene, ikke en oversikt over hvem som mener hva.
+ */
+api.get('/feedback/summary', async (c) => {
+  const sortParam = c.req.query('sort')
+  const sort: FeedbackSort = sortParam === 'best' || sortParam === 'flest' || sortParam === 'nyest' ? sortParam : 'verst'
+  const category = shortText(c.req.query('category'), 40)
+  const difficulty = shortText(c.req.query('difficulty'), 20)
+
+  const filters: string[] = []
+  const args: (string | number)[] = []
+  if (category) {
+    filters.push('category = ?')
+    args.push(category)
+  }
+  if (difficulty) {
+    filters.push('difficulty = ?')
+    args.push(difficulty)
+  }
+  const where = filters.length ? `WHERE ${filters.join(' AND ')}` : ''
+
+  // D1 liker ikke `.bind()` uten argumenter, så filterløse spørringer sendes rå.
+  const aggSql = `SELECT question_id,
+            MAX(category)   AS category,
+            MAX(difficulty) AS difficulty,
+            SUM(CASE WHEN vote =  1 THEN 1 ELSE 0 END) AS up,
+            SUM(CASE WHEN vote = -1 THEN 1 ELSE 0 END) AS down,
+            SUM(vote)       AS score,
+            COUNT(*)        AS votes,
+            MAX(updated_at) AS last_at
+       FROM question_feedback
+       ${where}
+      GROUP BY question_id
+      ORDER BY ${FEEDBACK_ORDER[sort]}
+      LIMIT ${FEEDBACK_LIMIT}`
+
+  const aggStmt = c.env.DB.prepare(aggSql)
+  const agg = await (args.length ? aggStmt.bind(...args) : aggStmt)
+    .all<{
+      question_id: string
+      category: string
+      difficulty: string
+      up: number
+      down: number
+      score: number
+      votes: number
+      last_at: number
+    }>()
+
+  const rows = agg.results ?? []
+  const ids = rows.map((r) => r.question_id)
+
+  const reasonsByQuestion = new Map<string, { reason: string; count: number }[]>()
+  const commentsByQuestion = new Map<string, { text: string; vote: 'opp' | 'ned'; at: number }[]>()
+
+  if (ids.length > 0) {
+    const holes = ids.map(() => '?').join(', ')
+
+    const reasons = await c.env.DB.prepare(
+      `SELECT question_id, reason, COUNT(*) AS n
+         FROM question_feedback
+        WHERE reason IS NOT NULL AND question_id IN (${holes})
+        GROUP BY question_id, reason
+        ORDER BY n DESC`,
+    )
+      .bind(...ids)
+      .all<{ question_id: string; reason: string; n: number }>()
+
+    for (const r of reasons.results ?? []) {
+      const list = reasonsByQuestion.get(r.question_id) ?? []
+      list.push({ reason: r.reason, count: r.n })
+      reasonsByQuestion.set(r.question_id, list)
+    }
+
+    const comments = await c.env.DB.prepare(
+      `SELECT question_id, comment, vote, updated_at
+         FROM question_feedback
+        WHERE comment IS NOT NULL AND comment != '' AND question_id IN (${holes})
+        ORDER BY updated_at DESC`,
+    )
+      .bind(...ids)
+      .all<{ question_id: string; comment: string; vote: number; updated_at: number }>()
+
+    for (const r of comments.results ?? []) {
+      const list = commentsByQuestion.get(r.question_id) ?? []
+      // Fem nyeste per spørsmål holder til å se mønsteret; resten hentes med
+      // `npm run content:feedback`.
+      if (list.length < 5) list.push({ text: r.comment, vote: voteWord(r.vote), at: r.updated_at })
+      commentsByQuestion.set(r.question_id, list)
+    }
+  }
+
+  const totals = await c.env.DB.prepare(
+    `SELECT COUNT(*) AS votes,
+            COUNT(DISTINCT question_id) AS questions,
+            SUM(CASE WHEN vote =  1 THEN 1 ELSE 0 END) AS up,
+            SUM(CASE WHEN vote = -1 THEN 1 ELSE 0 END) AS down
+       FROM question_feedback`,
+  ).first<{ votes: number; questions: number; up: number; down: number }>()
+
+  return c.json({
+    sort,
+    totals: {
+      votes: totals?.votes ?? 0,
+      questions: totals?.questions ?? 0,
+      up: totals?.up ?? 0,
+      down: totals?.down ?? 0,
+    },
+    rows: rows.map((r) => ({
+      questionId: r.question_id,
+      category: r.category,
+      difficulty: r.difficulty,
+      up: r.up,
+      down: r.down,
+      score: r.score,
+      reasons: reasonsByQuestion.get(r.question_id) ?? [],
+      comments: commentsByQuestion.get(r.question_id) ?? [],
+      lastAt: r.last_at,
+    })),
+  })
 })
 
 api.get('/health', (c) => c.json({ ok: true, app: c.env.APP_NAME }))

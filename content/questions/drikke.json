@@ -168,7 +168,17 @@
       "nb": "Selskapet ble stiftet 30. november 1922 og kom i drift året etter. Eneretten til import og engrossalg falt bort i 1996 på grunn av EØS-avtalen, mens eneretten til detaljsalg består.",
       "sv": "Bolaget stiftades den 30 november 1922 och kom i drift året därpå. Ensamrätten till import och grossistförsäljning föll bort 1996 på grund av EES-avtalet, medan ensamrätten till detaljhandeln består."
     },
-    "source": "Store norske leksikon – «Vinmonopolet» og «Brennevinsforbudet»"
+    "source": "Store norske leksikon – «Vinmonopolet» og «Brennevinsforbudet»",
+    "onThisDay": [
+      {
+        "day": "11-30",
+        "year": 1922,
+        "prompt": {
+          "nb": "På denne dagen i 1922 ble det stiftet et statlig selskap i Norge, tre år etter at folkeavstemningen hadde gitt forbud mot brennevin og sterkvin. Poenget var å ta private fortjenestemotiver ut av alkoholsalget, og selskapet fikk enerett på utsalg. Hva heter det?",
+          "sv": "På denna dag 1922 stiftades ett statligt bolag i Norge, tre år efter att folkomröstningen hade gett förbud mot brännvin och starkvin. Poängen var att ta bort privata vinstmotiv ur alkoholförsäljningen, och bolaget fick ensamrätt på butiksförsäljning. Vad heter det?"
+        }
+      }
+    ]
   },
   {
     "id": "drikke-l-08",
@@ -266,7 +276,17 @@
       "nb": "Gjær kom først inn i teksten etter at gjæringens biologi ble forstått på 1800-tallet. Bryggerne brukte den hele tiden, men regnet den som en del av prosessen og ikke som en ingrediens.",
       "sv": "Jäst kom in i texten först efter att jäsningens biologi förstods på 1800-talet. Bryggarna använde den hela tiden, men räknade den som en del av processen och inte som en ingrediens."
     },
-    "source": "Wikipedia (engelsk) – «Reinheitsgebot»"
+    "source": "Wikipedia (engelsk) – «Reinheitsgebot»",
+    "onThisDay": [
+      {
+        "day": "04-23",
+        "year": 1516,
+        "prompt": {
+          "nb": "På denne dagen i 1516 fastsatte hertug Vilhelm 4. at øl i hele Bayern bare måtte lages av bygg, humle og vann. Gjæren manglet på listen, rett og slett fordi ingen ennå visste hva den var. Hva kalles påbudet, som fortsatt brukes i markedsføringen av tysk øl?",
+          "sv": "På denna dag 1516 fastställde hertig Vilhelm IV att öl i hela Bayern bara fick göras av korn, humle och vatten. Jästen saknades på listan, helt enkelt för att ingen ännu visste vad den var. Vad kallas påbudet, som fortfarande används i marknadsföringen av tyskt öl?"
+        }
+      }
+    ]
   },
   {
     "id": "drikke-m-02",
@@ -529,7 +549,17 @@
       "nb": "Arrangementet er kjent som «the Judgment of Paris». Det ble gjennomført sammen med Patricia Gallagher, og resultatet fikk stor betydning for californisk vin.",
       "sv": "Evenemanget är känt som «the Judgment of Paris». Det genomfördes tillsammans med Patricia Gallagher, och resultatet fick stor betydelse för kalifornisk vin."
     },
-    "source": "Wikipedia (engelsk) – «Judgment of Paris (wine)»"
+    "source": "Wikipedia (engelsk) – «Judgment of Paris (wine)»",
+    "onThisDay": [
+      {
+        "day": "05-24",
+        "year": 1976,
+        "prompt": {
+          "nb": "På denne dagen i 1976 samlet en britisk vinhandler elleve franske dommere til blindsmaking i Paris, der franske toppviner ble stilt mot lite kjente viner fra Napa Valley. Dommerne kåret amerikanerne til vinnere i begge klasser. Hvem sto bak smakingen?",
+          "sv": "På denna dag 1976 samlade en brittisk vinhandlare elva franska domare till en blindprovning i Paris, där franska toppviner ställdes mot föga kända viner från Napa Valley. Domarna utsåg amerikanerna till vinnare i båda klasserna. Vem låg bakom provningen?"
+        }
+      }
+    ]
   },
   {
     "id": "drikke-v-02",

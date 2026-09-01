@@ -1,0 +1,103 @@
+[
+  {
+    "id": "ring-l-a1",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Står månen for langt fra jorden til å dekke sola helt, blir det stående en glødende ring rundt den svarte skiven. En slik ringformet solformørkelse inntraff 17. februar 2026, men ringen selv kunne bare sees fra det kontinentet som ikke har noen fast bosetting. Hvilket kontinent?",
+      "sv": "Står månen för långt från jorden för att täcka solen helt blir det kvar en glödande ring runt den svarta skivan. En sådan ringformig solförmörkelse inträffade den 17 februari 2026, men själva ringen kunde bara ses från den kontinent som inte har någon fast bosättning. Vilken kontinent?"
+    },
+    "answer": {
+      "nb": "Antarktis",
+      "sv": "Antarktis"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Delvis formørkelse kunne sees fra Sør-Argentina, Chile, Sør-Afrika og Madagaskar – ringen lå lenger sør.",
+      "sv": "Partiell förmörkelse kunde ses från södra Argentina, Chile, Sydafrika och Madagaskar – ringen låg längre söderut."
+    },
+    "funFact": {
+      "nb": "Ringen sto i to minutt og tjue sekunder på det lengste, i et belte 616 kilometer bredt. Samme formørkelsessesong ga også den totale solformørkelsen 12. august 2026 over Island og Nord-Spania.",
+      "sv": "Ringen stod som längst i två minuter och tjugo sekunder, i ett bälte 616 kilometer brett. Samma förmörkelsesäsong gav också den totala solförmörkelsen den 12 augusti 2026 över Island och norra Spanien."
+    },
+    "source": "en.wikipedia.org – «Solar eclipse of February 17, 2026» (hentet 01.09.2026)",
+    "topical": {
+      "event": "2026-02-17",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "ring-m-a1",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "sport",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Han er født i Oslo i 2000, av norsk far og brasiliansk mor, og la opp for det norske laget i 2023 før han kom tilbake i 2024 for morens land. Under de fem ringene i Italia 14. februar 2026 vant han storslalåmen for menn, og ga landet sin aller første vintermedalje. Hvem er han?",
+      "sv": "Han är född i Oslo år 2000, med norsk far och brasiliansk mor, och lade av för det norska laget 2023 innan han kom tillbaka 2024 för moderns land. Under de fem ringarna i Italien den 14 februari 2026 vann han storslalom för herrar och gav landet dess allra första vintermedalj. Vem är han?"
+    },
+    "answer": "Lucas Braathen",
+    "answerKind": "person",
+    "person": {
+      "given": "Lucas",
+      "family": "Braathen"
+    },
+    "hint": {
+      "nb": "Han bar Brasils flagg under åpningsseremonien, og ble den første fra et tropisk land på en pall i vinter-OL.",
+      "sv": "Han bar Brasiliens flagga under invigningen och blev den förste från ett tropiskt land på en pall i vinter-OS."
+    },
+    "funFact": {
+      "nb": "Han starter under navnet Lucas Pinheiro Braathen. Han vant foran Marco Odermatt og Loïc Meillard, og ble den første fra Sør-Amerika – og fra noe tropisk land – med en medalje i vinter-OL.",
+      "sv": "Han startar under namnet Lucas Pinheiro Braathen. Han vann före Marco Odermatt och Loïc Meillard och blev den förste från Sydamerika – och från något tropiskt land – med en medalj i vinter-OS."
+    },
+    "source": "en.wikipedia.org – «Brazil at the 2026 Winter Olympics» og «Lucas Braathen» (hentet 01.09.2026)",
+    "topical": {
+      "event": "2026-02-14",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "ring-v-a1",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Den 13. september 2025 gikk en amerikaner opp i ringen på Allegiant Stadium i Nevada mot den meksikanske superstjernen Canelo Álvarez, og vant enstemmig på poeng. Seieren gjorde ham til den første siden Henry Armstrong i 1938 som har vært ubestridt mester i tre ulike vektklasser. Hvem er han?",
+      "sv": "Den 13 september 2025 klev en amerikan upp i ringen på Allegiant Stadium i Nevada mot den mexikanske superstjärnan Canelo Álvarez och vann enhälligt på poäng. Segern gjorde honom till den förste sedan Henry Armstrong 1938 som har varit obestridd mästare i tre olika viktklasser. Vem är han?"
+    },
+    "answer": "Terence Crawford",
+    "answerKind": "person",
+    "person": {
+      "given": "Terence",
+      "family": "Crawford"
+    },
+    "hint": {
+      "nb": "I tillegg til de fire store titlene tok han beltet til bladet The Ring i denne kampen.",
+      "sv": "Utöver de fyra stora titlarna tog han bältet från tidskriften The Ring i den här matchen."
+    },
+    "funFact": {
+      "nb": "Crawford ble ubestridt mester i supermellomvekt med titlene til WBA, WBC, IBF og WBO. Dommerkortene lød 116–112, 115–113 og 115–113, og Álvarez sa etterpå at han ikke klarte å finne ut av stilen.",
+      "sv": "Crawford blev obestridd mästare i supermellanvikt med titlarna från WBA, WBC, IBF och WBO. Domarkorten löd 116–112, 115–113 och 115–113, och Álvarez sade efteråt att han inte lyckades räkna ut stilen."
+    },
+    "source": "en.wikipedia.org – «Canelo Álvarez vs. Terence Crawford», kampen 13.09.2025 (hentet 01.09.2026)",
+    "topical": {
+      "event": "2025-09-13",
+      "until": "2026-09-30",
+      "evergreen": true
+    }
+  }
+]

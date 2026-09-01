@@ -1,4 +1,4 @@
-# Slik skrives et spørsmål til LinnieQuiz
+# Slik skrives et spørsmål til LinnQuiz
 
 Denne filen er kontrakten for innholdsbanken. `content/questions/blaa.json` er
 fasitmalen – les den før du skriver noe nytt.
@@ -21,7 +21,15 @@ nøyaktig 30 objekter – 10 `lett`, 10 `medium`, 10 `vanskelig`.
   "person":  { "given": "Harald", "family": { "nb": "Blåtann", "sv": "Blåtand" } },
   "hint":    { "nb": "…", "sv": "…" },    // peker mot svaret uten å røpe det
   "funFact": { "nb": "…", "sv": "…" },    // 1–3 setninger som vises når svaret ekspanderes
-  "source": "Navn på troverdig kilde"     // fri tekst, gjerne institusjon + verk
+  "source": "Navn på troverdig kilde",    // fri tekst, gjerne institusjon + verk
+
+  // Valgfritt. Bare på dagsaktuelle spørsmål – se eget kapittel nederst.
+  "topical": { "event": "2026-02-22", "until": "2027-02-28", "evergreen": true },
+
+  // Valgfritt. «På denne dag»-varianter – se eget kapittel nederst.
+  "onThisDay": [
+    { "day": "02-22", "year": 2026, "prompt": { "nb": "…", "sv": "…" } }
+  ]
 }
 ```
 
@@ -163,3 +171,118 @@ Naturkatastrofer og kriger kan stå der som nøktern historie når året krever 
 men nasjonale traumer skal ikke brukes som lette poeng – 22. juli hører ikke
 hjemme mellom en iPad-lansering og et Adele-album. Velg en annen hendelse fra
 samme år.
+
+---
+
+## Dagsaktuelle spørsmål
+
+To plasser i hver runde er satt av til noe som har skjedd det siste året. De
+**erstatter** to av de ti – runden er fortsatt ti spørsmål.
+
+### Hvor de bor
+
+Egen fil per tema: `content/questions/<kategori>-aktuelt.json`. Grunnfila og
+påfyllsfila røres ikke. Id-ene får `a` foran løpenummeret, så de aldri kolliderer
+med et framtidig påfyll: `blaa-l-a1`, `blaa-l-a2`, `blaa-m-a1` … Prefikset
+`<kategori>-<l|m|v>-` gjelder som ellers.
+
+Måltallet er **to per tema og nivå**, men dette er det ene stedet i banken der
+det er lov å levere færre. Ankerordet skal fortsatt bære spørsmålet, hendelsen
+skal ligge innenfor det siste året, og svaret skal fortsatt være noe folk
+kjenner. For noen ankerord finnes det ikke to slike hendelser. Da skriver du én,
+eller ingen. **Et oppdiktet eller søkt dagsaktuelt spørsmål er verre enn et
+tomt felt** – det tomme feltet vises som et hull på bankskjermen og kan fylles
+neste måned.
+
+### `topical`-feltet
+
+```jsonc
+"topical": {
+  "event": "2026-02-22",   // når hendelsen skjedde. YYYY-MM-DD, eller YYYY-MM
+  "until": "2027-02-28",   // siste dag spørsmålet regnes som dagsaktuelt
+  "evergreen": true        // om spørsmålet er godt også etter «until»
+}
+```
+
+**`until`** settes med hensikt, ikke i vane. Tommelfingerregler:
+
+* **Taket er tolv måneder etter hendelsen.** «Dagsaktuelt» betyr det siste året,
+  og en reservert plass som står i fire år er ikke en dagsaktuell plass – den er
+  et vanlig spørsmål som stenger døren for noe ferskere. Et OL-gull fra februar
+  slipper altså den reserverte plassen påfølgende februar; er det et godt
+  spørsmål, står det `evergreen: true` og lever videre i den vanlige puljen.
+* Et resultat som avgjøres på nytt hvert år: fram til neste utdeling, som da
+  alltid er innenfor taket.
+* Noe som kan snu hvilken dag som helst («hvem leder ligaen»): ikke skriv
+  spørsmålet i det hele fall. Slike spørsmål hører ikke hjemme i en bank som
+  ikke oppdateres daglig.
+
+**`evergreen`** er den viktige avgjørelsen: *er dette et godt spørsmål også når
+det ikke lenger er ferskt?*
+
+* `true` – hendelsen står i historien. «Hvem tok over tronen da Harald V døde?»
+  er like godt om tre år. Spørsmålet glir inn i den vanlige puljen når `until`
+  er passert, og trekkes videre uten reservert plass.
+* `false` – nyheten *var* poenget. «Hvor mange … så langt i år?» blir bare rart
+  senere. Spørsmålet slutter å bli trukket den dagen `until` passeres, men blir
+  liggende i fila: skulle det bli aktuelt igjen, er det nok å flytte `until`.
+
+Validatoren advarer om utløpte spørsmål, så de er lette å finne igjen.
+
+### Ekstra krav
+
+1. **Kilden skal være redaksjonell og datert.** `snl.no` er sjelden oppdatert
+   nok her. Skriv «NRK, 14.03.2026» eller «SVT Nyheter, 2026-02-22» – med
+   årstall, ellers advarer validatoren.
+2. **Ingen fersk statistikk som svar.** Ingen tabellposisjoner, aksjekurser,
+   dødstall eller «hvor mange» – tall som endrer seg mens spørsmålet står.
+3. **Tone.** Samme regel som for årstallspørsmålene, og strengere: krig,
+   katastrofer og dødsfall er nyheter, men skal ikke stå som lette poeng. Er den
+   eneste dagsaktuelle koblingen et menneskes død eller en katastrofe med mange
+   omkomne, velg noe annet – med ett unntak: et dødsfall som utløser et
+   historisk skifte (et tronskifte, en pave) kan spørres om, og da med
+   spørsmålet rettet mot skiftet, ikke mot dødsfallet.
+4. **Regionmiks gjelder ikke her.** To spørsmål er for lite å kvotere. Skriv
+   dem der hendelsen hører hjemme, og sett `origin` ærlig.
+
+---
+
+## «På denne dag»
+
+Et spørsmål kan ha en variant av spørsmålsteksten som bare vises på én bestemt
+dato i året. Treffer dagens dato, byttes **hele** spørsmålsteksten ut. Svar, hint
+og fun fact er de samme – det er bare innpakningen som endres.
+
+```jsonc
+"onThisDay": [
+  {
+    "day": "01-27",          // MM-DD. 02-29 treffer bare i skuddår
+    "year": 1756,            // året hendelsen skjedde
+    "prompt": {              // erstatter "prompt" denne dagen
+      "nb": "På denne dagen i 1756 ble det født en gutt i Salzburg som …",
+      "sv": "…"
+    }
+  }
+]
+```
+
+Lista tåler flere datoer på samme spørsmål – født og død, åpnet og revet.
+
+### Krav
+
+* Samme form som `prompt`: 25–55 ord, innledning først, spørsmålet til slutt, og
+  ekte svensk oversettelse.
+* **Svaret må ikke lekke.** Fella er større her enn ellers: «På denne dagen i
+  1756 ble Mozart født» røper alt. Skriv datoen inn som *kontekst*, ikke som
+  fasit. Validatoren sjekker begge språk.
+* Datoen skal være kontrollert mot kilde. En dato som er omstridt eller oppgitt
+  ulikt i ulike kilder, brukes ikke.
+* Ett spørsmål per dato per tema. Er det to, trekkes bare det ene, og
+  validatoren advarer.
+
+### Hva appen gjør med det
+
+Temaer som har et spørsmål med treff på dagens dato, **legges først** i
+temalisten på startskjermen og merkes «I dag». Runden garanterer da at
+spørsmålet faktisk kommer med – ellers ville løftet på startskjermen være tomt.
+Datospørsmålet stokkes inn blant de vanlige; de dagsaktuelle står til slutt.

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "drikke-l-a1",
+    "category": "drikke",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "politikk",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Fra 1. januar 2026 må norske butikkansatte be om legitimasjon før de selger en helt alkoholfri vare til unge kunder. Grunnen er koffeininnholdet, og grensen ble satt til 16 år etter at Stortinget hadde bedt regjeringen om det. Hvilken varegruppe gjelder aldersgrensen for?",
+      "sv": "Från den 1 januari 2026 måste norska butiksanställda begära legitimation innan de säljer en helt alkoholfri vara till unga kunder. Skälet är koffeinhalten, och gränsen sattes till 16 år efter att Stortinget hade begärt det av regeringen. Vilken varugrupp gäller åldersgränsen för?"
+    },
+    "answer": {
+      "nb": "Energidrikk",
+      "sv": "Energidryck"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Red Bull, Monster og Prime hører alle hjemme i denne gruppen.",
+      "sv": "Red Bull, Monster och Prime hör alla hemma i den här gruppen."
+    },
+    "funFact": {
+      "nb": "I Norge regnes en leskedrikk med mer enn 15 milligram koffein per 100 milliliter til denne gruppen, og øvre tillatte grense er 32 milligram. Stortinget ba regjeringen innføre aldersgrensen alt i 2023.",
+      "sv": "I Norge räknas en läskedryck med mer än 15 milligram koffein per 100 milliliter till den här gruppen, och övre tillåtna gräns är 32 milligram. Stortinget bad regeringen införa åldersgränsen redan 2023."
+    },
+    "source": "Store norske leksikon – «energidrikk» (oppdatert 12.01.2026)",
+    "topical": {
+      "event": "2026-01-01",
+      "until": "2027-01-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "drikke-m-a1",
+    "category": "drikke",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sport",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Et østerriksk selskap som siden 1987 har solgt en koffeinholdig boks, har eid et Formel 1-lag siden 2005. I sesongen som startet i mars 2026 kjørte laget for første gang med egen motor, utviklet sammen med en amerikansk bilprodusent som var tilbake i Formel 1 for første gang siden 2004. Hvilken bilprodusent?",
+      "sv": "Ett österrikiskt företag som sedan 1987 har sålt en koffeinhaltig burk har ägt ett formel 1-stall sedan 2005. I säsongen som startade i mars 2026 körde stallet för första gången med egen motor, utvecklad tillsammans med en amerikansk biltillverkare som var tillbaka i formel 1 för första gången sedan 2004. Vilken biltillverkare?"
+    },
+    "answer": "Ford",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bilprodusenten holder til i Dearborn utenfor Detroit og er kjent for modellen Mustang.",
+      "sv": "Biltillverkaren har sitt säte i Dearborn utanför Detroit och är känd för modellen Mustang."
+    },
+    "funFact": {
+      "nb": "Motoren heter Red Bull Ford DM01 og brukes både av Red Bull Racing og søsterlaget Racing Bulls. Samme sesong kom Cadillac inn som lag nummer elleve – det første ellevte laget siden 2016.",
+      "sv": "Motorn heter Red Bull Ford DM01 och används både av Red Bull Racing och systerstallet Racing Bulls. Samma säsong kom Cadillac in som stall nummer elva – det första elfte stallet sedan 2016."
+    },
+    "source": "en.wikipedia.org – «2026 Formula One World Championship» (hentet 01.09.2026); Store norske leksikon – Red Bull",
+    "topical": {
+      "event": "2026-03-08",
+      "until": "2027-03-31",
+      "evergreen": true
+    }
+  }
+]

@@ -22,7 +22,17 @@
       "nb": "De to hovedteoriene er at navnet stammer fra Sir Benjamin Hall, den høyreiste embetsmannen som hadde ansvaret for klokken, eller fra bokseren Ben Caunt. Samtidens presseomtale peker mot Hall.",
       "sv": "De två huvudteorierna är att namnet kommer från Sir Benjamin Hall, den långe tjänstemannen som ansvarade för klockan, eller från boxaren Ben Caunt. Samtidens presskällor pekar mot Hall."
     },
-    "source": "UK Parliament – «Big Ben: the Great Bell and the Great Clock»"
+    "source": "UK Parliament – «Big Ben: the Great Bell and the Great Clock»",
+    "onThisDay": [
+      {
+        "day": "07-11",
+        "year": 1859,
+        "prompt": {
+          "nb": "På denne dagen i 1859 slo storklokken i klokketårnet ved den britiske nasjonalforsamlingen for aller første gang. Tårnet fikk navnet Elizabeth Tower så sent som i 2012, men det er klokken inni folk egentlig snakker om. Hvilket kallenavn bruker de fleste på klokken og tårnet?",
+          "sv": "På denna dag 1859 slog storklockan i klocktornet vid det brittiska parlamentet för allra första gången. Tornet fick namnet Elizabeth Tower så sent som 2012, men det är klockan inuti folk egentligen menar. Vilket smeknamn använder de flesta om klockan och tornet?"
+        }
+      }
+    ]
   },
   {
     "id": "tid-l-02",
@@ -364,7 +374,17 @@
       "nb": "Magasinet er «Time», og tradisjonen het opprinnelig «Man of the Year» før den senere ble kjønnsnøytral og fikk navnet «Person of the Year».",
       "sv": "Tidningen är «Time», och traditionen hette ursprungligen «Man of the Year» innan den senare blev könsneutral och fick namnet «Person of the Year»."
     },
-    "source": "Time – historikk om «Person of the Year»"
+    "source": "Time – historikk om «Person of the Year»",
+    "onThisDay": [
+      {
+        "day": "05-21",
+        "year": 1927,
+        "prompt": {
+          "nb": "På denne dagen i 1927 landet en amerikansk flyger på Le Bourget utenfor Paris etter 33 og en halv time alene i luften over Atlanteren. Det gjorde ham til den aller første som fikk tittelen «Man of the Year» i et amerikansk nyhetsmagasin. Hvem var han?",
+          "sv": "På denna dag 1927 landade en amerikansk flygare på Le Bourget utanför Paris efter 33 och en halv timme ensam i luften över Atlanten. Det gjorde honom till den allra första som fick titeln «Man of the Year» i en amerikansk nyhetstidning. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "tid-m-05",

@@ -4,12 +4,17 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["mytologi"],
+    "topics": [
+      "mytologi"
+    ],
     "prompt": {
       "nb": "Dvergene Brokk og Eitre smidde den på et veddemål med Loke, men en flue plaget smeden slik at skaftet ble for kort. Våpenet kom likevel alltid tilbake til eierens hånd, og i Trymskvadet blir det lagt i fanget på «bruden» for å vie brudeparet. Hva heter Tors hammer?",
       "sv": "Dvärgarna Brokk och Eitri smidde den på ett vad med Loke, men en fluga plågade smeden så att skaftet blev för kort. Vapnet kom ändå alltid tillbaka till ägarens hand, och i Trymskvädet läggs det i knät på «bruden» för att viga brudparet. Vad heter Tors hammare?"
     },
-    "answer": { "nb": "Mjølner", "sv": "Mjölner" },
+    "answer": {
+      "nb": "Mjølner",
+      "sv": "Mjölner"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Navnet henger sammen med ord for å knuse og for lyn, og våpenet finnes som lite sølvsmykke i mange vikinggraver.",
@@ -26,7 +31,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["vikingtid", "geografi"],
+    "topics": [
+      "vikingtid",
+      "geografi"
+    ],
     "prompt": {
       "nb": "I 793 gikk norrøne skip til angrep på et rikt kloster på en tidevannsøy utenfor kysten av Northumbria, og lærde menn i Europa reagerte med sjokk. Angrepet brukes ofte som startpunktet for vikingtiden i vest. Hva heter øya?",
       "sv": "År 793 angrep nordiska skepp ett rikt kloster på en tidvattenö utanför kusten av Northumbria, och lärda män i Europa reagerade med chock. Angreppet används ofta som startpunkt för vikingatiden i väst. Vad heter ön?"
@@ -41,21 +49,37 @@
       "nb": "Munkene forlot til slutt øya og tok med seg relikviene etter Sankt Cuthbert, som endte i Durham. Den lærde Alkuin skrev et rystet brev om angrepet fra hoffet til Karl den store.",
       "sv": "Munkarna lämnade till slut ön och tog med sig relikerna efter Sankt Cuthbert, som hamnade i Durham. Den lärde Alcuin skrev ett skakat brev om angreppet från Karl den stores hov."
     },
-    "source": "Den angelsaksiske krønike; English Heritage – Lindisfarne Priory"
+    "source": "Den angelsaksiske krønike; English Heritage – Lindisfarne Priory",
+    "onThisDay": [
+      {
+        "day": "06-08",
+        "year": 793,
+        "prompt": {
+          "nb": "På denne dagen i 793 gikk norrøne skip til angrep på et rikt kloster på en tidevannsøy utenfor kysten av Northumbria, og lærde menn i Europa reagerte med sjokk. Dagen brukes ofte som startpunktet for vikingtiden i vest. Hva heter øya?",
+          "sv": "På denna dag 793 angrep nordiska skepp ett rikt kloster på en tidvattenö utanför kusten av Northumbria, och lärda män i Europa reagerade med chock. Dagen används ofta som startpunkt för vikingatiden i väst. Vad heter ön?"
+        }
+      }
+    ]
   },
   {
     "id": "vikinger-l-03",
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["tv", "popkultur"],
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Michael Hirsts TV-serie hadde premiere på History i 2013, ble spilt inn i Wicklow på Irland og gikk i seks sesonger. Travis Fimmel spilte hovedrollen som en bonde som blir berømt gjennom tokt mot England. Hvilken sagnfigur spiller han?",
       "sv": "Michael Hirsts TV-serie hade premiär på History 2013, spelades in i Wicklow på Irland och gick i sex säsonger. Travis Fimmel spelade huvudrollen som en bonde som blir berömd genom tåg mot England. Vilken sagofigur spelar han?"
     },
     "answer": "Ragnar Lodbrok",
     "answerKind": "person",
-    "person": { "given": "Ragnar", "family": "Lodbrok" },
+    "person": {
+      "given": "Ragnar",
+      "family": "Lodbrok"
+    },
     "hint": {
       "nb": "Tilnavnet betyr omtrent «raggete bukser», og sønnene hans skal ifølge sagnet ha ledet en stor hedensk hær mot England.",
       "sv": "Tillnamnet betyder ungefär «raggiga byxor», och hans söner ska enligt sägnen ha lett en stor hednisk här mot England."
@@ -71,7 +95,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["sport", "geografi"],
+    "topics": [
+      "sport",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Delstaten tok imot titusenvis av norske og svenske innvandrere på 1800-tallet, og da NFL-laget der fikk navn i 1960, ble det blant annet begrunnet med nettopp den nordiske arven. Laget har spilt fire Super Bowl-finaler uten å vinne én eneste. Hvilken delstat?",
       "sv": "Delstaten tog emot tiotusentals norska och svenska invandrare på 1800-talet, och när NFL-laget där fick sitt namn 1960 motiverades det bland annat med just det nordiska arvet. Laget har spelat fyra Super Bowl-finaler utan att vinna en enda. Vilken delstat?"
@@ -93,7 +120,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["fotball", "sport"],
+    "topics": [
+      "fotball",
+      "sport"
+    ],
     "prompt": {
       "nb": "Fotballklubben Viking ble stiftet i 1899, spilte i mange tiår på byens gamle stadion og flyttet i 2004 inn i et nytt anlegg like ved. Klubben er en av de mest meritterte i norsk fotball. I hvilken by hører den hjemme?",
       "sv": "Fotbollsklubben Viking grundades 1899, spelade i många decennier på stadens gamla stadion och flyttade 2004 in i en ny anläggning strax intill. Klubben är en av de mest meriterade i norsk fotboll. I vilken stad hör den hemma?"
@@ -115,7 +145,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["arkitektur", "sport"],
+    "topics": [
+      "arkitektur",
+      "sport"
+    ],
     "prompt": {
       "nb": "Hallen på Hamar sto ferdig i desember 1992, ble tegnet av Niels Torp og har et tak som buer seg som et opp-ned skrog. Under OL i 1994 gikk skøyteløpene her, og navnet fikk den nettopp på grunn av formen. Hva heter hallen?",
       "sv": "Hallen i Hamar stod färdig i december 1992, ritades av Niels Torp och har ett tak som välver sig som ett upp-och-nedvänt skrov. Under OS 1994 kördes skridskoloppen här, och namnet fick den just på grund av formen. Vad heter hallen?"
@@ -137,14 +170,26 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["historie", "religion"],
+    "topics": [
+      "historie",
+      "religion"
+    ],
     "prompt": {
       "nb": "Etter tradisjonen falt en landflyktig konge 29. juli 1030 da han møtte bondehæren på Stiklestad i Verdal. Året etter ble graven åpnet, han ble erklært helgen, og skrinet hans havnet i domkirken i Nidaros. Hvem var kongen?",
       "sv": "Enligt traditionen stupade en landsflyktig kung den 29 juli 1030 när han mötte bondehären på Stiklestad i Verdal. Året därpå öppnades graven, han förklarades helgon, och hans skrin hamnade i domkyrkan i Nidaros. Vem var kungen?"
     },
-    "answer": { "nb": "Olav den hellige", "sv": "Olav den helige" },
+    "answer": {
+      "nb": "Olav den hellige",
+      "sv": "Olav den helige"
+    },
     "answerKind": "person",
-    "person": { "given": "Olav", "family": { "nb": "den hellige", "sv": "den helige" } },
+    "person": {
+      "given": "Olav",
+      "family": {
+        "nb": "den hellige",
+        "sv": "den helige"
+      }
+    },
     "hint": {
       "nb": "Til etternavn het han Haraldsson, og dødsdagen hans kalles fortsatt olsok.",
       "sv": "I efternamn hette han Haraldsson, och hans dödsdag kallas fortfarande olsmässa."
@@ -153,14 +198,27 @@
       "nb": "Kirken kanoniserte ham formelt i 1164. Nidarosdomen vokste fram som Nordens største pilegrimsmål rundt graven hans.",
       "sv": "Kyrkan kanoniserade honom formellt 1164. Nidarosdomen växte fram som Nordens största pilgrimsmål kring hans grav."
     },
-    "source": "Snorre Sturlason, «Heimskringla»; Nidaros domkirkes restaureringsarbeider"
+    "source": "Snorre Sturlason, «Heimskringla»; Nidaros domkirkes restaureringsarbeider",
+    "onThisDay": [
+      {
+        "day": "07-29",
+        "year": 1030,
+        "prompt": {
+          "nb": "På denne dagen i 1030 falt etter tradisjonen en landflyktig konge da han møtte bondehæren på Stiklestad i Verdal. Året etter ble graven åpnet, han ble erklært helgen, og skrinet hans havnet i domkirken i Nidaros. Hvem var kongen?",
+          "sv": "På denna dag 1030 stupade enligt traditionen en landsflyktig kung när han mötte bondehären på Stiklestad i Verdal. Året därpå öppnades graven, han förklarades helgon, och hans skrin hamnade i domkyrkan i Nidaros. Vem var kungen?"
+        }
+      }
+    ]
   },
   {
     "id": "vikinger-l-08",
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["vikingtid", "historie"],
+    "topics": [
+      "vikingtid",
+      "historie"
+    ],
     "prompt": {
       "nb": "Handelsplassen på øya Björkö i Mälaren blomstret fra midten av 700-tallet til slutten av 900-tallet, regnes som Sveriges eldste by og ble ført opp på verdensarvlisten sammen med Hovgården i 1993. Hva heter stedet?",
       "sv": "Handelsplatsen på ön Björkö i Mälaren blomstrade från mitten av 700-talet till slutet av 900-talet, räknas som Sveriges äldsta stad och fördes upp på världsarvslistan tillsammans med Hovgården 1993. Vad heter platsen?"
@@ -182,7 +240,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["geografi", "okonomi"],
+    "topics": [
+      "geografi",
+      "okonomi"
+    ],
     "prompt": {
       "nb": "Sveriges største øy ligger i Østersjøen, og herfra kommer et enormt antall sølvskatter fra vikingtiden – flere arabiske dirhemer er funnet her enn noe annet sted i Vest-Eurasia. Hovedstedet på øya heter Visby. Hvilken øy?",
       "sv": "Sveriges största ö ligger i Östersjön, och härifrån kommer ett enormt antal silverskatter från vikingatiden – fler arabiska dirhemer har hittats här än på någon annan plats i Västeurasien. Öns huvudort heter Visby. Vilken ö?"
@@ -204,7 +265,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["mytologi", "dyr"],
+    "topics": [
+      "mytologi",
+      "dyr"
+    ],
     "prompt": {
       "nb": "Ifølge Snorre ble den født etter at Loke hadde forvandlet seg til en hoppe for å lure en byggmester og hesten hans. Fôlet ble grått og fikk åtte bein, og Odin red det helt ned til dødsriket. Hva heter hesten?",
       "sv": "Enligt Snorre föddes den sedan Loke förvandlat sig till ett sto för att lura en byggmästare och hans häst. Fölet blev grått och fick åtta ben, och Oden red det ända ner till dödsriket. Vad heter hästen?"
@@ -226,7 +290,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["romfart", "vitenskap"],
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "To amerikanske romsonder med samme navn ble skutt opp i 1975 og satte hver sin lander på Mars. Den første landet på sletten Chryse Planitia og sendte tilbake tusenvis av bilder fra overflaten. Hvilket år landet den?",
       "sv": "Två amerikanska rymdsonder med samma namn sköts upp 1975 och satte var sin landare på Mars. Den första landade på slätten Chryse Planitia och skickade tillbaka tusentals bilder från ytan. Vilket år landade den?"
@@ -248,12 +315,18 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["vikingtid", "militaerhistorie"],
+    "topics": [
+      "vikingtid",
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "Norrøne kilder kalte Konstantinopel for Miklagard, «den store byen». Fra slutten av 900-tallet holdt de bysantinske keiserne seg med en egen livvakt av nordboere, kjent for de lange stridsøksene sine. Hva ble disse nordiske krigerne kalt?",
       "sv": "Fornnordiska källor kallade Konstantinopel för Miklagård, «den stora staden». Från slutet av 900-talet höll sig de bysantinska kejsarna med ett eget livgarde av nordbor, kända för sina långa stridsyxor. Vad kallades dessa nordiska krigare?"
     },
-    "answer": { "nb": "Væringer", "sv": "Väringar" },
+    "answer": {
+      "nb": "Væringer",
+      "sv": "Väringar"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Ordet er beslektet med et norrønt ord for ed eller pakt – altså «de edsvorne».",
@@ -270,14 +343,26 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["litteratur", "mytologi"],
+    "topics": [
+      "litteratur",
+      "mytologi"
+    ],
     "prompt": {
       "nb": "Den islandske høvdingen og lovsigemannen som skrev «Den yngre Edda» og kongesagaene i «Heimskringla», ble drept i kjelleren hjemme i Reykholt høsten 1241 av menn som handlet på vegne av den norske kongen. Hva het han?",
       "sv": "Den isländske hövdingen och lagmannen som skrev «Yngre Eddan» och kungasagorna i «Heimskringla» dödades i källaren hemma i Reykholt hösten 1241 av män som handlade på den norske kungens vägnar. Vad hette han?"
     },
-    "answer": { "nb": "Snorre Sturlason", "sv": "Snorre Sturlasson" },
+    "answer": {
+      "nb": "Snorre Sturlason",
+      "sv": "Snorre Sturlasson"
+    },
     "answerKind": "person",
-    "person": { "given": "Snorre", "family": { "nb": "Sturlason", "sv": "Sturlasson" } },
+    "person": {
+      "given": "Snorre",
+      "family": {
+        "nb": "Sturlason",
+        "sv": "Sturlasson"
+      }
+    },
     "hint": {
       "nb": "Han var lovsigemann på Alltinget to ganger, og læreboka hans i skaldediktning er hovedkilden vår til norrøn mytologi.",
       "sv": "Han var lagman på Alltinget två gånger, och hans lärobok i skaldediktning är vår viktigaste källa till fornnordisk mytologi."
@@ -293,14 +378,26 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["militaerhistorie", "kongehus"],
+    "topics": [
+      "militaerhistorie",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Han tjente i femten år som leiesoldat i Middelhavet før han ble konge i Norge i 1046. Den 25. september 1066 gikk han i land i Yorkshire med en stor hær og falt i et slag ved en bro over elva Derwent. Hvem var han?",
       "sv": "Han tjänade i femton år som legosoldat i Medelhavet innan han blev kung i Norge 1046. Den 25 september 1066 gick han i land i Yorkshire med en stor här och stupade i ett slag vid en bro över floden Derwent. Vem var han?"
     },
-    "answer": { "nb": "Harald Hardråde", "sv": "Harald Hårdråde" },
+    "answer": {
+      "nb": "Harald Hardråde",
+      "sv": "Harald Hårdråde"
+    },
     "answerKind": "person",
-    "person": { "given": "Harald", "family": { "nb": "Hardråde", "sv": "Hårdråde" } },
+    "person": {
+      "given": "Harald",
+      "family": {
+        "nb": "Hardråde",
+        "sv": "Hårdråde"
+      }
+    },
     "hint": {
       "nb": "Nitten dager senere falt hans engelske motstander selv, i et slag lenger sør i landet.",
       "sv": "Nitton dagar senare stupade hans engelske motståndare själv, i ett slag längre söderut i landet."
@@ -309,14 +406,27 @@
       "nb": "Slaget står ved Stamford Bridge, og nederlaget der brukes ofte som sluttpunkt for vikingtiden i England. Tilnavnet oversettes gjerne som «den harde rådgiver».",
       "sv": "Slaget stod vid Stamford Bridge, och nederlaget där används ofta som slutpunkt för vikingatiden i England. Tillnamnet översätts gärna som «den hårde rådgivaren»."
     },
-    "source": "Den angelsaksiske krønike; Snorre Sturlason, «Harald Hardrådes saga»"
+    "source": "Den angelsaksiske krønike; Snorre Sturlason, «Harald Hardrådes saga»",
+    "onThisDay": [
+      {
+        "day": "09-25",
+        "year": 1066,
+        "prompt": {
+          "nb": "På denne dagen i 1066 møtte en norsk konge den engelske hæren ved en bro over elva Derwent i Yorkshire, og falt i slaget. Han hadde tjent femten år som leiesoldat i Middelhavet før han ble konge i Norge i 1046. Hvem var han?",
+          "sv": "På denna dag 1066 möttes en norsk kung och den engelska hären vid en bro över floden Derwent i Yorkshire, och kungen stupade i slaget. Han hade tjänat femton år som legosoldat i Medelhavet innan han blev kung i Norge 1046. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "vikinger-m-05",
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["historie", "politikk"],
+    "topics": [
+      "historie",
+      "politikk"
+    ],
     "prompt": {
       "nb": "Etter at Alfred av Wessex og hærføreren Guthrum inngikk forlik mot slutten av 800-tallet, fikk de norrøne bosetterne beholde sine egne lover i store deler av Nord- og Øst-England. Hva kalles dette området?",
       "sv": "Sedan Alfred av Wessex och härföraren Guthrum slutit fred mot slutet av 800-talet fick de nordiska bosättarna behålla sina egna lagar i stora delar av norra och östra England. Vad kallas detta område?"
@@ -338,7 +448,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["sprak", "vikingtid"],
+    "topics": [
+      "sprak",
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "Sverige har mellom 1 700 og 2 500 runesteiner, mot rundt 250 i Danmark og rundt 50 i Norge. Ett svensk landskap alene har over tusen innskrifter – flere enn noe annet område i verden. Hvilket landskap?",
       "sv": "Sverige har mellan 1 700 och 2 500 runstenar, mot omkring 250 i Danmark och omkring 50 i Norge. Ett enda svenskt landskap har över tusen inskrifter – fler än något annat område i världen. Vilket landskap?"
@@ -360,7 +473,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["transport", "okonomi"],
+    "topics": [
+      "transport",
+      "okonomi"
+    ],
     "prompt": {
       "nb": "Rederiet ble stiftet i 1959 av forretningsfolk fra en selvstyrt, svenskspråklig øygruppe i Østersjøen, og har hovedkontoret sitt der. De knallrøde skipene går mellom Stockholm, Åbo, Helsingfors og Tallinn. Hvilken øygruppe er det snakk om?",
       "sv": "Rederiet grundades 1959 av affärsfolk från en självstyrande, svenskspråkig ögrupp i Östersjön och har sitt huvudkontor där. De knallröda fartygen går mellan Stockholm, Åbo, Helsingfors och Tallinn. Vilken ögrupp handlar det om?"
@@ -382,12 +498,18 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["geografi", "historie"],
+    "topics": [
+      "geografi",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 911 inngikk den frankiske kongen Karl den enfoldige en avtale med en norrøn høvding som hadde herjet langs Seinen. Høvdingen lot seg døpe og fikk land ved elvemunningen mot å holde andre vikinger unna. Hvilket landskap har navn etter disse nordboerne?",
       "sv": "År 911 slöt den frankiske kungen Karl den enfaldige ett avtal med en nordisk hövding som härjat längs Seine. Hövdingen lät döpa sig och fick land vid flodmynningen mot att hålla andra vikingar borta. Vilket landskap har fått namn efter dessa nordbor?"
     },
-    "answer": { "nb": "Normandie", "sv": "Normandie" },
+    "answer": {
+      "nb": "Normandie",
+      "sv": "Normandie"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Navnet betyr rett og slett «nordmennenes land», og hertugene derfra erobret England i 1066.",
@@ -404,12 +526,18 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["transport", "historie"],
+    "topics": [
+      "transport",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1893 seilte en nøyaktig kopi av et norsk gravskip fra Bergen over Atlanteren til verdensutstillingen i Chicago, med Magnus Andersen som kaptein. Kopien fikk navnet «Viking». Hvilket originalskip var den bygget etter?",
       "sv": "År 1893 seglade en exakt kopia av ett norskt gravskepp från Bergen över Atlanten till världsutställningen i Chicago, med Magnus Andersen som kapten. Kopian fick namnet «Viking». Vilket originalskepp var den byggd efter?"
     },
-    "answer": { "nb": "Gokstadskipet", "sv": "Gokstadsskeppet" },
+    "answer": {
+      "nb": "Gokstadskipet",
+      "sv": "Gokstadsskeppet"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Originalet ble gravd ut i 1880 på en gård i Sandar ved Sandefjord, og står i dag på Bygdøy i Oslo.",
@@ -426,7 +554,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["religion", "historie"],
+    "topics": [
+      "religion",
+      "historie"
+    ],
     "prompt": {
       "nb": "En frankisk munk fra Amiens reiste på 800-tallet nordover for å drive misjon, tilbrakte et halvt år på handelsplassen i Mälaren rundt år 830 og ble senere erkebiskop i Hamburg-Bremen. Ettertiden kaller ham Nordens apostel. Hva het han?",
       "sv": "En frankisk munk från Amiens reste på 800-talet norrut för att bedriva mission, tillbringade ett halvår på handelsplatsen i Mälaren omkring år 830 och blev senare ärkebiskop i Hamburg-Bremen. Eftervärlden kallar honom Nordens apostel. Vad hette han?"
@@ -448,7 +579,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["geografi", "vitenskap"],
+    "topics": [
+      "geografi",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "På nordspissen av Newfoundland fant Helge og Anne Stine Ingstad på 1960-tallet tuftene etter åtte norrøne bygninger – det eneste sikre sporet etter nordboere i Amerika utenom Grønland. I 2021 ble tømmeret der datert til året 1021. Hva heter stedet?",
       "sv": "På Newfoundlands nordspets fann Helge och Anne Stine Ingstad på 1960-talet lämningarna efter åtta nordiska byggnader – det enda säkra spåret efter nordbor i Amerika utanför Grönland. År 2021 daterades virket där till året 1021. Vad heter platsen?"
@@ -470,7 +604,9 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["mytologi"],
+    "topics": [
+      "mytologi"
+    ],
     "prompt": {
       "nb": "Da gudene skulle binde ulven Fenre, røk to lenker av jern. Dvergene smidde da et bånd mykt som silke, laget av seks ting som ikke lenger finnes i verden – blant annet lyden av kattens gange og fuglens spytt. Hva het båndet?",
       "sv": "När gudarna skulle binda vargen Fenrir brast två kedjor av järn. Dvärgarna smidde då ett band mjukt som silke, gjort av sex ting som inte längre finns i världen – bland annat ljudet av kattens gång och fågelns spott. Vad hette bandet?"
@@ -492,7 +628,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["sprak", "vikingtid"],
+    "topics": [
+      "sprak",
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "Runerekka fra eldre jernalder hadde 24 tegn. I overgangen til vikingtiden ble den forenklet kraftig, slik at ett tegn ofte måtte dekke flere lyder, og det er denne rekka som står på de aller fleste runesteinene. Hvor mange tegn har den?",
       "sv": "Runraden från äldre järnåldern hade 24 tecken. I övergången till vikingatiden förenklades den kraftigt, så att ett tecken ofta fick täcka flera ljud, och det är denna rad som står på de allra flesta runstenarna. Hur många tecken har den?"
@@ -514,12 +653,18 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["kunst", "sprak"],
+    "topics": [
+      "kunst",
+      "sprak"
+    ],
     "prompt": {
       "nb": "Utenfor porten til Arsenalet i en italiensk havneby står en antikk marmorløve, tatt som krigsbytte fra havnen ved Athen i 1687. På skuldrene og sidene er det risset inn runer, trolig av nordboere på 1000-tallet. I hvilken by står løven?",
       "sv": "Utanför porten till Arsenalen i en italiensk hamnstad står ett antikt marmorlejon, taget som krigsbyte från hamnen vid Aten 1687. På skuldrorna och sidorna finns runor inristade, troligen av nordbor på 1000-talet. I vilken stad står lejonet?"
     },
-    "answer": { "nb": "Venezia", "sv": "Venedig" },
+    "answer": {
+      "nb": "Venezia",
+      "sv": "Venedig"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Byen har en løve i byvåpenet, knyttet til evangelisten Markus, og ligger ved en lagune i Adriaterhavet.",
@@ -536,7 +681,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["militaerhistorie", "vikingtid"],
+    "topics": [
+      "militaerhistorie",
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "Hjelmer med horn er en oppfinnelse fra 1800-tallet, spredt gjennom teater og opera. Den eneste noenlunde komplette hjelmen fra vikingtiden som er funnet i Norge, dukket opp i 1943 på en gård i Ringerike, sammen med en ringbrynje. Hva heter gården?",
       "sv": "Hjälmar med horn är en uppfinning från 1800-talet, spridd genom teater och opera. Den enda någorlunda kompletta hjälmen från vikingatiden som hittats i Norge dök upp 1943 på en gård i Ringerike, tillsammans med en ringbrynja. Vad heter gården?"
@@ -558,7 +706,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["vikingtid", "historie"],
+    "topics": [
+      "vikingtid",
+      "historie"
+    ],
     "prompt": {
       "nb": "Skipsgraven som ble gravd ut på en gård ved Tønsberg fra 1904, rommet to kvinner, en rikt utskåret vogn og fjorten hester. Årringdatering av tømmeret i gravkammeret gir et helt presist år for begravelsen. Hvilket år?",
       "sv": "Skeppsgraven som grävdes ut på en gård vid Tønsberg från 1904 rymde två kvinnor, en rikt utskuren vagn och fjorton hästar. Årsringsdatering av virket i gravkammaret ger ett helt exakt år för begravningen. Vilket år?"
@@ -580,7 +731,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["vikingtid", "geografi"],
+    "topics": [
+      "vikingtid",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Ved Viksfjorden i Vestfold lå en handelsplass som ble anlagt på 700-tallet og forlatt rundt midten av 900-tallet. Utgravningene har gitt omkring hundre tusen gjenstander, blant dem arabiske sølvmynter og glassperler. Hva kalles stedet i dag?",
       "sv": "Vid Viksfjorden i Vestfold låg en handelsplats som anlades på 700-talet och övergavs omkring mitten av 900-talet. Utgrävningarna har gett omkring hundratusen föremål, bland dem arabiska silvermynt och glaspärlor. Vad kallas platsen i dag?"
@@ -602,7 +756,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["okonomi", "vikingtid"],
+    "topics": [
+      "okonomi",
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "På en gård nord på Gotland fant to arkeologer med metallsøker i 1999 verdens største kjente sølvskatt fra vikingtiden: rundt 67 kilo sølv, 14 295 mynter og nesten femhundre armringer og armringsbiter. Hva kalles skatten?",
       "sv": "På en gård på norra Gotland hittade två arkeologer med metallsökare 1999 världens största kända silverskatt från vikingatiden: omkring 67 kilo silver, 14 295 mynt och nästan femhundra armringar och armringsbitar. Vad kallas skatten?"
@@ -624,7 +781,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["sprak", "litteratur"],
+    "topics": [
+      "sprak",
+      "litteratur"
+    ],
     "prompt": {
       "nb": "Ved en kirke i Ödeshög kommun i Östergötland står en stein fra tidlig 800-tall med rundt 760 tegn – den lengste kjente runeinnskriften på stein. Varin reiste den til minne om sønnen Vämod. Hva heter steinen?",
       "sv": "Vid en kyrka i Ödeshögs kommun i Östergötland står en sten från tidigt 800-tal med omkring 760 tecken – den längsta kända runinskriften på sten. Varin reste den till minne av sonen Vämod. Vad heter stenen?"
@@ -646,14 +806,20 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["kongehus", "okonomi"],
+    "topics": [
+      "kongehus",
+      "okonomi"
+    ],
     "prompt": {
       "nb": "Han overtok etter faren Erik Seiersæl rundt år 995, ble den første sveakongen som forble kristen til sin død, og lot slå de aller første myntene i Sverige, i Sigtuna. Hva het han?",
       "sv": "Han efterträdde sin far Erik Segersäll omkring år 995, blev den förste sveakung som förblev kristen till sin död och lät prägla de allra första mynten i Sverige, i Sigtuna. Vad hette han?"
     },
     "answer": "Olof Skötkonung",
     "answerKind": "person",
-    "person": { "given": "Olof", "family": "Skötkonung" },
+    "person": {
+      "given": "Olof",
+      "family": "Skötkonung"
+    },
     "hint": {
       "nb": "Fornavnet er den svenske formen av et vanlig nordisk kongenavn, og sønnen som fulgte ham het Anund Jakob.",
       "sv": "Förnamnet är den svenska formen av ett vanligt nordiskt kunganamn, och sonen som följde honom hette Anund Jakob."

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "hus-l-a1",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "arkitektur",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Den ble reist mellom 1792 og 1800, og østfløyen kom til i 1902 og ble utvidet under Franklin D. Roosevelt i 1942. I løpet av fire dager i oktober 2025 ble hele østfløyen revet – med søylegang, kinosal og førstedamens kontorer – for å gi plass til en ny ballsal. Hvilken bygning?",
+      "sv": "Den uppfördes mellan 1792 och 1800, och östra flygeln tillkom 1902 och byggdes ut under Franklin D. Roosevelt 1942. Under fyra dagar i oktober 2025 revs hela östra flygeln – med pelargång, biosalong och första damens kontor – för att ge plats åt en ny balsal. Vilken byggnad?"
+    },
+    "answer": {
+      "nb": "Det hvite hus",
+      "sv": "Vita huset"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bygningen fikk sitt offisielle navn av Theodore Roosevelt i 1901; navnet hadde vært i uformell bruk siden 1811.",
+      "sv": "Byggnaden fick sitt officiella namn av Theodore Roosevelt 1901; namnet hade använts informellt sedan 1811."
+    },
+    "funFact": {
+      "nb": "Ballsalen skal etter planen romme opp mot 999 gjester. 31. mars 2026 stanset en føderal dommer byggearbeidet og krevde at administrasjonen viste til en fullmakt fra Kongressen for rivingen.",
+      "sv": "Balsalen ska enligt planen rymma upp till 999 gäster. Den 31 mars 2026 stoppade en federal domare byggarbetet och krävde att administrationen visade upp ett bemyndigande från kongressen för rivningen."
+    },
+    "source": "Associated Press, oktober 2025 (via en.wikipedia.org – East Wing, kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2025-10",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "hus-v-a1",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "tv",
+      "film"
+    ],
+    "prompt": {
+      "nb": "Han var med på å finne på et quizprogram som senere er laget i rundt 160 land, og han skapte «Peaky Blinders». 25. september 2025 kom hans nye Netflix-serie «House of Guinness», om fire søsken som arver et bryggeri i Dublin på 1860-tallet. Hvem er denne britiske manusforfatteren?",
+      "sv": "Han var med och kom på ett frågesportsprogram som sedan har gjorts i omkring 160 länder, och han skapade «Peaky Blinders». Den 25 september 2025 kom hans nya Netflix-serie «House of Guinness», om fyra syskon som ärver ett bryggeri i Dublin på 1860-talet. Vem är den brittiske manusförfattaren?"
+    },
+    "answer": "Steven Knight",
+    "answerKind": "person",
+    "person": {
+      "given": "Steven",
+      "family": "Knight"
+    },
+    "hint": {
+      "nb": "Quizprogrammet han var med på å lage, heter «Vil du bli millionær?» på norsk. Selv er han født i Birmingham i 1959.",
+      "sv": "Frågesportsprogrammet han var med och skapade heter «Vem vill bli miljonär?» på svenska. Själv är han född i Birmingham 1959."
+    },
+    "funFact": {
+      "nb": "Han har også skrevet filmene «Dirty Pretty Things» og «Locke», og står bak seriene «SAS: Rogue Heroes» og «A Thousand Blows». Quizformatet laget han sammen med Mike Whitehill og David Briggs.",
+      "sv": "Han har också skrivit filmerna «Dirty Pretty Things» och «Locke» och ligger bakom serierna «SAS: Rogue Heroes» och «A Thousand Blows». Frågesportsformatet skapade han tillsammans med Mike Whitehill och David Briggs."
+    },
+    "source": "Netflix – «House of Guinness», premiere 25.09.2025; en.wikipedia.org – Steven Knight (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2025-09-25",
+      "until": "2026-09-30",
+      "evergreen": true
+    }
+  }
+]

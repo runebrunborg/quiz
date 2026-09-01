@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ball-m-a1",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "fotball",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Ballon d'Or har blitt delt ut av det franske bladet France Football siden 1956. I september 2025 gikk prisen til en fransk angrepsspiller i Paris Saint-Germain, som noen måneder tidligere hadde vunnet Mesterligaen med klubben etter 5–0 over Inter i finalen. Hvem er spilleren?",
+      "sv": "Ballon d'Or har delats ut av den franska tidningen France Football sedan 1956. I september 2025 gick priset till en fransk anfallare i Paris Saint-Germain, som några månader tidigare hade vunnit Champions League med klubben efter 5–0 mot Inter i finalen. Vem är spelaren?"
+    },
+    "answer": "Ousmane Dembélé",
+    "answerKind": "person",
+    "person": {
+      "given": "Ousmane",
+      "family": "Dembélé"
+    },
+    "hint": {
+      "nb": "Han var med i den franske troppen som vant VM i 2018, og kom til klubben fra Barcelona.",
+      "sv": "Han var med i den franska truppen som vann VM 2018, och kom till klubben från Barcelona."
+    },
+    "funFact": {
+      "nb": "Prisen ble delt ut i Théâtre du Châtelet i Paris 22. september 2025. Samme sesong vant han også den franske ligaen, europeisk supercup og Trophée des Champions.",
+      "sv": "Priset delades ut i Théâtre du Châtelet i Paris den 22 september 2025. Samma säsong vann han också franska ligan, europeiska supercupen och Trophée des Champions."
+    },
+    "source": "Store norske leksikon – Ballon d'Or (oppdatert 03.01.2026)",
+    "topical": {
+      "event": "2025-09-22",
+      "until": "2026-09-21",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "ball-v-a1",
+    "category": "ball",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "fotball",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Ballon d'Or til beste kvinnelige spiller har blitt delt ut siden 2018, da norske Ada Hegerberg fikk den aller første. I september 2025 gikk prisen for tredje år på rad til en spansk midtbanespiller i Barcelona, som dermed ble den første med tre slike priser. Hvem er hun?",
+      "sv": "Ballon d'Or till bästa kvinnliga spelare har delats ut sedan 2018, då norska Ada Hegerberg fick den allra första. I september 2025 gick priset för tredje året i rad till en spansk mittfältare i Barcelona, som därmed blev den första med tre sådana priser. Vem är hon?"
+    },
+    "answer": "Aitana Bonmatí",
+    "answerKind": "person",
+    "person": {
+      "given": "Aitana",
+      "family": "Bonmatí"
+    },
+    "hint": {
+      "nb": "Hun vant prisen også i 2023 og 2024, og etternavnet begynner på B.",
+      "sv": "Hon vann priset även 2023 och 2024, och efternamnet börjar på B."
+    },
+    "funFact": {
+      "nb": "Femti journalister stemmer fram vinneren av kvinneprisen, som deles ut i Théâtre du Châtelet i Paris. Før henne hadde bare Alexia Putellas fra samme klubb vunnet den mer enn én gang.",
+      "sv": "Femtio journalister röstar fram vinnaren av kvinnopriset, som delas ut i Théâtre du Châtelet i Paris. Före henne hade bara Alexia Putellas från samma klubb vunnit det mer än en gång."
+    },
+    "source": "Store norske leksikon – Ballon d'Or (oppdatert 03.01.2026)",
+    "topical": {
+      "event": "2025-09-22",
+      "until": "2026-09-21",
+      "evergreen": true
+    }
+  }
+]

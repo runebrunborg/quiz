@@ -648,7 +648,17 @@
       "nb": "Han ble bare 42 år gammel, men skalaen hans er i dag den mest brukte temperaturskalaen i verden – også den som brukes til å måle alle kulderekordene i denne quizen.",
       "sv": "Han blev bara 42 år gammal, men hans skala är i dag den mest använda temperaturskalan i världen – även den som används för att mäta alla köldrekord i detta quiz."
     },
-    "source": "Wikipedia – Anders Celsius"
+    "source": "Wikipedia – Anders Celsius",
+    "onThisDay": [
+      {
+        "day": "11-27",
+        "year": 1701,
+        "prompt": {
+          "nb": "På denne dagen i 1701 ble det født en gutt i Uppsala som skulle bli astronom, grunnlegge et observatorium og i 1742 foreslå en temperaturskala der kokepunktet fikk verdien null og frysepunktet hundre – stikk motsatt av i dag. Hvem er skalaen oppkalt etter?",
+          "sv": "På denna dag 1701 föddes en pojke i Uppsala som skulle bli astronom, grunda ett observatorium och 1742 föreslå en temperaturskala där kokpunkten fick värdet noll och fryspunkten hundra – precis tvärtom mot i dag. Vem är skalan uppkallad efter?"
+        }
+      }
+    ]
   },
   {
     "id": "vinter-v-16",

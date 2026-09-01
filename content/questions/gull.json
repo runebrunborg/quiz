@@ -46,7 +46,17 @@
       "nb": "Sagbruket tilhørte nybyggeren John Sutter og lå ved Coloma. Selve rushet regnes vanligvis til perioden 1848–1859, med 1852 som det største året.",
       "sv": "Sågverket tillhörde nybyggaren John Sutter och låg vid Coloma. Själva ruschen räknas vanligen till perioden 1848–1859, med 1852 som det största året."
     },
-    "source": "Encyclopaedia Britannica – California Gold Rush; Store norske leksikon"
+    "source": "Encyclopaedia Britannica – California Gold Rush; Store norske leksikon",
+    "onThisDay": [
+      {
+        "day": "01-24",
+        "year": 1848,
+        "prompt": {
+          "nb": "På denne dagen i 1848 fant en arbeider gull i vannrenna ved et sagbruk ved elva American River. I løpet av få år strømmet over 300 000 mennesker til området, rushet nådde toppåret sitt i 1852 og varte til omkring 1859. I hvilken amerikansk delstat foregikk dette?",
+          "sv": "På denna dag 1848 hittade en arbetare guld i vattenrännan vid ett sågverk vid floden American River. Inom några år strömmade över 300 000 människor till området, ruschen nådde sitt toppår 1852 och varade till omkring 1859. I vilken amerikansk delstat utspelade sig detta?"
+        }
+      }
+    ]
   },
   {
     "id": "gull-l-03",
@@ -283,7 +293,17 @@
       "nb": "Graven tilhørte Tutankhamon. Det tok ti år å tømme den, og skattene er nå i Det store egyptiske museum i Giza.",
       "sv": "Graven tillhörde Tutankhamon. Det tog tio år att tömma den, och skatterna finns nu på Grand Egyptian Museum i Giza."
     },
-    "source": "Encyclopaedia Britannica – Howard Carter"
+    "source": "Encyclopaedia Britannica – Howard Carter",
+    "onThisDay": [
+      {
+        "day": "11-04",
+        "year": 1922,
+        "prompt": {
+          "nb": "På denne dagen i 1922 dukket det første trappetrinnet fram i sanden i Kongenes dal. Tre uker senere sto han foran en forseglet dør inn til en nesten urørt faraograv med gullmaske og tusenvis av gjenstander. Lord Carnarvon betalte utgravingen. Hvilken britisk arkeolog?",
+          "sv": "På denna dag 1922 dök det första trappsteget upp i sanden i Konungarnas dal. Tre veckor senare stod han framför en förseglad dörr in till en nästan orörd faraograv med guldmask och tusentals föremål. Lord Carnarvon bekostade utgrävningen. Vilken brittisk arkeolog?"
+        }
+      }
+    ]
   },
   {
     "id": "gull-m-02",
@@ -312,7 +332,17 @@
       "nb": "Kunngjøringen omfattet i tillegg 90 dagers lønns- og prisstopp, første gang USA innførte slikt i fredstid. Etterpå gikk verdens valutaer over til å være penger uten gulldekning.",
       "sv": "Tillkännagivandet omfattade dessutom 90 dagars löne- och prisstopp, första gången USA införde sådant i fredstid. Därefter övergick världens valutor till att vara pengar utan guldtäckning."
     },
-    "source": "Federal Reserve History – Gold Convertibility Ends"
+    "source": "Federal Reserve History – Gold Convertibility Ends",
+    "onThisDay": [
+      {
+        "day": "08-15",
+        "year": 1971,
+        "prompt": {
+          "nb": "På denne dagen i 1971 gikk en amerikansk president på TV og kunngjorde at utenlandske myndigheter ikke lenger kunne veksle dollar mot gull. Dermed falt Bretton Woods-systemet fra 1944, der dollaren var bundet til 35 dollar per unse. Hvilken president?",
+          "sv": "På denna dag 1971 gick en amerikansk president ut i tv och tillkännagav att utländska myndigheter inte längre kunde växla dollar mot guld. Därmed föll Bretton Woods-systemet från 1944, där dollarn var bunden till 35 dollar per uns. Vilken president?"
+        }
+      }
+    ]
   },
   {
     "id": "gull-m-03",

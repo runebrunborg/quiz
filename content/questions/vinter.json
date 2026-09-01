@@ -4,7 +4,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Den første utgaven av dette flerdagersmesterskapet i vintersport ble arrangert i den franske alpebyen Chamonix i 1924, den gang kalt «Uke for internasjonale vintersportsleker». I dag samler det tusenvis av utøvere i disipliner som skiskyting, hopp og skøyter hvert fjerde år. Hva heter mesterskapet?",
       "sv": "Den första upplagan av detta flerdagarsmästerskap i vintersport arrangerades i den franska alpstaden Chamonix 1924, då kallat «Vecka för internationella vintersportspel». I dag samlar det tusentals idrottare i grenar som skidskytte, hoppning och skridskor vart fjärde år. Vad heter mästerskapet?"
@@ -29,7 +31,10 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["film", "litteratur"],
+    "topics": [
+      "film",
+      "litteratur"
+    ],
     "prompt": {
       "nb": "Disneys animasjonsfilm fra 2013 om søstrene Anna og Elsa er løst inspirert av H.C. Andersens eventyr «Snedronningen» fra 1844, men i filmen er snødronningen gjort om til søster av heltinnen. Hva heter filmen?",
       "sv": "Disneys animerade film från 2013 om systrarna Anna och Elsa är löst inspirerad av H.C. Andersens saga «Snödrottningen» från 1844, men i filmen har snödrottningen gjorts om till huvudpersonens syster. Vad heter filmen?"
@@ -51,7 +56,10 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["sport", "arkitektur"],
+    "topics": [
+      "sport",
+      "arkitektur"
+    ],
     "prompt": {
       "nb": "Inne i selve hopptårnet på denne kjente skibakken utenfor Oslo ligger et museum som har samlet norsk skihistorie siden 1923 og kaller seg verdens eldste i sitt slag. Fasaden på tårnet er tegnet av arkitektkontoret Snøhetta, formet som et bøyd ski. Hvilken skibakke er dette?",
       "sv": "Inuti själva hopptornet vid denna kända skidbacke utanför Oslo ligger ett museum som samlat norsk skidhistoria sedan 1923 och kallar sig världens äldsta i sitt slag. Tornets fasad är ritad av arkitektkontoret Snøhetta, formad som en böjd skida. Vilken skidbacke är detta?"
@@ -73,7 +81,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Nesten alle stoffer blir tettere når de fryser til fast form og synker i sin egen væske. Ett viktig unntak utvider seg i stedet med rundt ni prosent når det fryser, slik at isen flyter oppå i stedet for å synke til bunns – noe som lar fisk overleve vintre under isdekket. Hvilket stoff er dette?",
       "sv": "Nästan alla ämnen blir tätare när de fryser till fast form och sjunker i sin egen vätska. Ett viktigt undantag utvidgas i stället med omkring nio procent när det fryser, så att isen flyter ovanpå i stället för att sjunka till botten – vilket låter fiskar överleva vintern under istäcket. Vilket ämne är detta?"
@@ -98,7 +108,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["religion"],
+    "topics": [
+      "religion"
+    ],
     "prompt": {
       "nb": "13. desember går en jente kledd i hvit kjole, rødt skjerp og en krone av tente lys foran et opptog i svenske hjem, skoler og kirker, mens man spiser safrangule boller. Skikken fikk sitt nasjonale gjennombrudd etter at en Stockholm-avis kåret den første offisielle jenta i 1927. Hvilken navnedag feires?",
       "sv": "Den 13 december går en flicka klädd i vit klänning, rött skärp och en krona av tända ljus i spetsen för ett tåg i svenska hem, skolor och kyrkor, medan man äter safransgula bullar. Seden fick sitt nationella genombrott efter att en Stockholmstidning utsåg den första officiella flickan 1927. Vilken namnsdag firas?"
@@ -120,7 +132,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["dyr"],
+    "topics": [
+      "dyr"
+    ],
     "prompt": {
       "nb": "For å overleve kalde måneder med lite mat senker enkelte pattedyr kroppstemperaturen kraftig, får mye lavere puls og kan gå måneder uten å spise eller drikke. Brunbjørn og pinnsvin er kjente eksempler i Norden. Hva kalles denne dvaletilstanden på norsk?",
       "sv": "För att överleva kalla månader med lite mat sänker vissa däggdjur kroppstemperaturen kraftigt, får mycket lägre puls och kan gå månader utan att äta eller dricka. Brunbjörn och igelkott är kända exempel i Norden. Vad kallas detta dvaletillstånd på svenska?"
@@ -145,7 +159,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "I februar 1994 var en liten norsk by med rundt 25 000 innbyggere vertskap for et OL som fortsatt regnes blant de mest vellykkede noensinne. Under åpningsseremonien hoppet en skihopper med den olympiske ilden ned fra selve hoppbakken, før kronprins Haakon Magnus tente kjelen. Hvilken by var dette?",
       "sv": "I februari 1994 var en liten norsk stad med omkring 25 000 invånare värd för ett OS som fortfarande räknas bland de mest lyckade någonsin. Under öppningsceremonin hoppade en skidhoppare med den olympiska elden ner från själva hoppbacken, innan kronprins Haakon Magnus tände kittelen. Vilken stad var detta?"
@@ -160,14 +176,26 @@
       "nb": "Hopperen som egentlig skulle bære ilden, Ole Gunnar Fidjestøl, brakk armen på en treningshopp rett før seremonien, så reserven Stein Gruben fikk æren i stedet. Sissel Kyrkjebø sang den olympiske hymnen.",
       "sv": "Hopparen som egentligen skulle bära elden, Ole Gunnar Fidjestøl, bröt armen på ett träningshopp strax före ceremonin, så reserven Stein Gruben fick äran i stället. Sissel Kyrkjebø sjöng den olympiska hymnen."
     },
-    "source": "Wikipedia – 1994 Winter Olympics"
+    "source": "Wikipedia – 1994 Winter Olympics",
+    "onThisDay": [
+      {
+        "day": "02-12",
+        "year": 1994,
+        "prompt": {
+          "nb": "På denne dagen i 1994 ble et vinter-OL åpnet i en norsk by med rundt 25 000 innbyggere, et OL som fortsatt regnes blant de mest vellykkede noensinne. En skihopper kom ned selve hoppbakken med den olympiske ilden, før kronprins Haakon Magnus tente kjelen. Hvilken by var vertskap?",
+          "sv": "På denna dag 1994 öppnades ett vinter-OS i en norsk stad med omkring 25 000 invånare, ett OS som fortfarande räknas bland de mest lyckade någonsin. En skidhoppare kom ner för själva hoppbacken med den olympiska elden, innan kronprins Haakon Magnus tände kitteln. Vilken stad var värd?"
+        }
+      }
+    ]
   },
   {
     "id": "vinter-l-08",
     "category": "vinter",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["mytologi"],
+    "topics": [
+      "mytologi"
+    ],
     "prompt": {
       "nb": "I svensk folketro er dette usynlige gårdsvesenet en beskytter av hus og fjøs, men helt avhengig av grøt med smør på julaften – ellers kan han skade dyrene av raseri. Illustratøren Jenny Nyström tegnet ham i 1881 som en hvitskjegget skikkelse i rødt, mønsteret for dagens julefigur. Hva kalles skikkelsen?",
       "sv": "I svensk folktro är detta osynliga gårdsväsen en beskyddare av hus och fähus, men helt beroende av gröt med smör på julafton – annars kan han skada djuren av ilska. Illustratören Jenny Nyström ritade honom 1881 som en vitskäggig gestalt i rött, mönstret för dagens julfigur. Vad kallas gestalten?"
@@ -189,7 +217,10 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["vitenskap", "natur"],
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
     "prompt": {
       "nb": "Når vanndamp fryser til iskrystaller høyt oppe i skyene, ordner vannmolekylene seg alltid etter det samme grunnmønsteret, uansett hvor forskjellige de ferdige krystallene ellers ser ut. Det gir hvert eneste snøfnugg samme grunnleggende geometriske form. Hvilken form er det?",
       "sv": "När vattenånga fryser till iskristaller högt uppe i molnen ordnar sig vattenmolekylerna alltid efter samma grundmönster, oavsett hur olika de färdiga kristallerna annars ser ut. Det ger varje snöflinga samma grundläggande geometriska form. Vilken form är det?"
@@ -214,7 +245,9 @@
     "category": "vinter",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["natur"],
+    "topics": [
+      "natur"
+    ],
     "prompt": {
       "nb": "Ladede partikler fra sola treffer jordas magnetfelt og kolliderer med oksygen- og nitrogenatomer høyt oppe i atmosfæren, og skaper et grønt eller rosa lysspill på himmelen. Fenomenet er lettest å se i mørke vinternetter langt mot nord, og Tromsø har blitt et av verdens mest populære utgangspunkt for å oppleve det. Hva kalles dette lysfenomenet?",
       "sv": "Laddade partiklar från solen träffar jordens magnetfält och kolliderar med syre- och kväveatomer högt uppe i atmosfären, vilket skapar ett grönt eller rosa ljusspel på himlen. Fenomenet syns lättast under mörka vinternätter långt norrut, och Tromsø har blivit en av världens populäraste utgångspunkter för att uppleva det. Vad kallas detta ljusfenomen?"
@@ -239,7 +272,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["historie", "sport"],
+    "topics": [
+      "historie",
+      "sport"
+    ],
     "prompt": {
       "nb": "Vinteren 1206 skal to birkebeinerkrigere ha båret en spedbarnsprins over fjellet fra Lillehammer til Østerdalen for å redde ham unna fiendene. Til minne om dette bærer alle deltakerne i dagens skirenn en sekk på minst 3,5 kilo langs samme trasé. Hva heter skirennet, som første gang ble arrangert i 1932?",
       "sv": "Vintern 1206 ska två birkebeinarkrigare ha burit en spädbarnsprins över fjället från Lillehammer till Österdalen för att rädda honom undan fienderna. Till minne av detta bär alla deltagare i dagens skidlopp en ryggsäck på minst 3,5 kilo längs samma sträcka. Vad heter skidloppet, som arrangerades för första gången 1932?"
@@ -261,7 +297,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["historie", "vitenskap"],
+    "topics": [
+      "historie",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Han lot skipet sitt fryse fast i pakkisen i 1893, med et avrundet skrog bygget for å bli løftet opp av isen i stedet for knust. To år senere dro han videre til fots med ski og hundeslede for å nå Nordpolen, og kom lengre nord enn noen før ham. Hvem ledet ekspedisjonen?",
       "sv": "Han lät sitt skepp frysa fast i packisen 1893, med ett rundat skrov byggt för att lyftas upp av isen i stället för att krossas. Två år senare fortsatte han till fots med skidor och hundsläde för att nå Nordpolen, och kom längre norrut än någon före honom. Vem ledde expeditionen?"
@@ -287,7 +326,9 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1915 ble skipet hans knust av pakkis i Weddellhavet, og mannskapet drev på isflak i månader før de nådde en øde øy i tre små båter. Derfra seilte lederen og fem mann videre i en åpen livbåt over 1300 kilometer i stormfullt hav for å hente hjelp. Alle 28 om bord overlevde. Hvem ledet ekspedisjonen?",
       "sv": "År 1915 krossades hans skepp av packis i Weddellhavet, och besättningen drev på isflak i månader innan de nådde en öde ö i tre små båtar. Därifrån seglade ledaren och fem man vidare i en öppen livbåt över 1300 kilometer i stormigt hav för att hämta hjälp. Alla 28 ombord överlevde. Vem ledde expeditionen?"
@@ -313,7 +354,9 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["kunst"],
+    "topics": [
+      "kunst"
+    ],
     "prompt": {
       "nb": "I dette maleriet fra 1565 vender tre jegere og deres hunder tilbake fra en mager jakt, tynget av tretthet, mens landsbyen bak dem har frosne dammer der folk går på skøyter. Bildet er ett av fem gjenlevende malerier i en serie om årets måneder, malt av en nederlandsk mester. Hva heter maleriet?",
       "sv": "I denna målning från 1565 vänder tre jägare och deras hundar tillbaka från en mager jakt, tyngda av trötthet, medan byn bakom dem har frusna dammar där folk åker skridskor. Målningen är en av fem bevarade i en serie om årets månader, målad av en nederländsk mästare. Vad heter målningen?"
@@ -338,7 +381,9 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["film"],
+    "topics": [
+      "film"
+    ],
     "prompt": {
       "nb": "Filmen åpner med at storfamilien Ekdahl feirer en overdådig julaften i Uppsala i 1907, med julespill og fest som strekker seg over en lang åpningssekvens. Regissøren, Ingmar Bergman, vant fire Oscar for filmen, inkludert prisen for beste ikke-engelskspråklige film. Hva heter filmen fra 1982?",
       "sv": "Filmen inleds med att storfamiljen Ekdahl firar en påkostad julafton i Uppsala 1907, med julspel och fest som sträcker sig över en lång inledande sekvens. Regissören, Ingmar Bergman, vann fyra Oscar för filmen, inklusive priset för bästa icke-engelskspråkiga film. Vad heter filmen från 1982?"
@@ -363,7 +408,10 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["arkitektur", "design"],
+    "topics": [
+      "arkitektur",
+      "design"
+    ],
     "prompt": {
       "nb": "Nær Kiruna i Lappland bygges dette hotellet på nytt hvert år av snø og is fra elven Torne, og smelter bort om våren. Opprinnelsen var en kunstutstilling i 1990, der noen besøkende spurte om å få sove over natten i den ishytten som var stilt ut. Hva kalles dette hotellet?",
       "sv": "Nära Kiruna i Lappland byggs detta hotell upp på nytt varje år av snö och is från älven Torne, och smälter bort om våren. Ursprunget var en konstutställning 1990, där några besökare frågade om de fick sova över natten i den ishydda som var utställd. Vad kallas detta hotell?"
@@ -385,7 +433,9 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Denne amerikanske bonden fra Vermont festet i 1885 et belgkamera til et mikroskop og tok verdens første vellykkede fotografi av en enkelt snøkrystall. Han skulle komme til å fotografere over 5000 krystaller i løpet av livet, og fikk et kallenavn etter nettopp denne lidenskapen. Hvem var han?",
       "sv": "Denne amerikanske bonden från Vermont fäste 1885 en bälgkamera vid ett mikroskop och tog världens första lyckade fotografi av en enda snökristall. Han skulle komma att fotografera över 5000 kristaller under sitt liv, och fick ett smeknamn efter just denna passion. Vem var han?"
@@ -404,14 +454,26 @@
       "nb": "Kallenavnet hans var «Snowflake» Bentley. Han skal ha vært overbevist om at ingen to snøkrystaller er like, en påstand som fortsatt gjentas i dag selv om den er vanskelig å bevise med sikkerhet.",
       "sv": "Smeknamnet hans var «Snowflake» Bentley. Han ska ha varit övertygad om att inga två snökristaller är lika, ett påstående som fortfarande upprepas i dag även om det är svårt att bevisa med säkerhet."
     },
-    "source": "Wikipedia – Wilson Bentley"
+    "source": "Wikipedia – Wilson Bentley",
+    "onThisDay": [
+      {
+        "day": "01-15",
+        "year": 1885,
+        "prompt": {
+          "nb": "På denne dagen i 1885 klarte en bonde i Vermont noe ingen hadde fått til før: han festet et belgkamera til et mikroskop og fotograferte en enkelt snøkrystall. Over 5000 krystaller fulgte i årene etter, og et kallenavn etter dem fulgte også. Hvem var han?",
+          "sv": "På denna dag 1885 klarade en bonde i Vermont något ingen hade lyckats med tidigare: han fäste en bälgkamera vid ett mikroskop och fotograferade en enda snökristall. Över 5000 kristaller följde under åren efter, och ett smeknamn efter dem likaså. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "vinter-m-08",
     "category": "vinter",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["popkultur"],
+    "topics": [
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Hvert år 2. februar samles folk i en liten by i Pennsylvania for å se om et gnagerdyr ser skyggen sin når det kommer ut av hiet. Ser det skyggen, spår tradisjonen seks uker til med vinter. Skikken stammer fra tysk kyndelsmesse-tro og har vært feiret i denne formen siden 1887. Hva heter denne tradisjonen?",
       "sv": "Varje år den 2 februari samlas folk i en liten stad i Pennsylvania för att se om ett gnagardjur ser sin skugga när det kommer ut ur sitt bo. Ser det skuggan, spår traditionen sex veckor till av vinter. Seden kommer från tysk kyndelsmässotro och har firats sedan 1887. Vad heter traditionen?"
@@ -433,7 +495,9 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["mytologi"],
+    "topics": [
+      "mytologi"
+    ],
     "prompt": {
       "nb": "Natten før 6. desember går denne hornede, geitefotede skikkelsen fra dør til dør i alpelandene og skremmer barn som har oppført seg dårlig, mens den snille helgenen han følger, deler ut gaver til de flinke. Skikken er dokumentert fra 1600-tallet og har fått en renessanse med skumle gatefester i nyere tid. Hva heter skikkelsen?",
       "sv": "Natten före den 6 december går denna hornade, getfotade gestalten från dörr till dörr i alplandet och skrämmer barn som skött sig dåligt, medan det snälla helgonet han följer delar ut gåvor till de duktiga. Seden är dokumenterad från 1600-talet och har fått en renässans med läskiga gatufester i nutid. Vad heter gestalten?"
@@ -455,7 +519,9 @@
     "category": "vinter",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["vikingtid"],
+    "topics": [
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "Norrøn tidsregning kjente bare to årstider, ikke fire: en sommer og en vinter. Sporet etter dette finnes på en gammel skandinavisk trekalender formet som en flat pinne med innskårne merkedager, der vinterhalvåret er risset inn fra 14. oktober til 14. april. Hva heter denne kalenderpinnen?",
       "sv": "Fornnordisk tideräkning kände bara till två årstider, inte fyra: en sommar och en vinter. Spåret av detta finns på en gammal skandinavisk trädkalender formad som en platt pinne med inristade märkesdagar, där vinterhalvåret är inristat från 14 oktober till 14 april. Vad heter denna kalenderpinne?"
@@ -477,7 +543,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["geografi"],
+    "topics": [
+      "geografi"
+    ],
     "prompt": {
       "nb": "Regionen ligger på Finnmarksvidda og er kjent for et innlandsklima med store temperaturforskjeller mellom sommer og vinter. Her ble Norges kaldeste temperatur noensinne målt, den gang landet fortsatt var i union med Sverige: minus 51,4 grader celsius. Hvilket sted er dette?",
       "sv": "Regionen ligger på Finnmarksvidda och är känd för ett inlandsklimat med stora temperaturskillnader mellan sommar och vinter. Här uppmättes Norges kallaste temperatur någonsin, då landet fortfarande var i union med Sverige: minus 51,4 grader celsius. Vilken plats är detta?"
@@ -499,7 +567,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["geografi"],
+    "topics": [
+      "geografi"
+    ],
     "prompt": {
       "nb": "2. februar 1966 ble Sveriges kaldeste temperatur noensinne målt på en liten plass i Norrbotten, nær den norske grensen: minus 52,6 grader celsius. Stedet ligger i et dalføre som er kjent for å samle kald luft om vinteren. Hvilket sted er dette?",
       "sv": "Den 2 februari 1966 uppmättes Sveriges kallaste temperatur någonsin på en liten ort i Norrbotten, nära norska gränsen: minus 52,6 grader celsius. Platsen ligger i en dalgång som är känd för att samla kall luft om vintern. Vilken plats är detta?"
@@ -521,7 +591,10 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["geografi", "vitenskap"],
+    "topics": [
+      "geografi",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "21. juli 1983 målte en sovjetisk forskningsstasjon inne på den antarktiske innlandsisen den laveste temperaturen som noensinne er registrert pålitelig ved en bakkestasjon på jorden: minus 89,2 grader celsius. Stasjonen ligger nær den geomagnetiske sydpolen. Hva heter forskningsstasjonen?",
       "sv": "Den 21 juli 1983 uppmätte en sovjetisk forskningsstation inne på den antarktiska inlandsisen den lägsta temperatur som någonsin registrerats tillförlitligt vid en markstation på jorden: minus 89,2 grader celsius. Stationen ligger nära den geomagnetiska sydpolen. Vad heter forskningsstationen?"
@@ -543,7 +616,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "17. januar 1912 nådde denne britiske ekspedisjonslederen Sydpolen, drøyt en måned etter at Amundsen hadde vært der, og fant et telt og etterlatte meldinger som beviste det. Han og de fire andre i følget hans omkom alle på den lange tilbaketuren over isen. Hvem var lederen?",
       "sv": "Den 17 januari 1912 nådde denne brittiske expeditionsledaren Sydpolen, drygt en månad efter att Amundsen hade varit där, och fann ett tält och kvarlämnade meddelanden som bevisade det. Han och de fyra andra i hans följe omkom alla på den långa återfärden över isen. Vem var ledaren?"
@@ -569,7 +644,10 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["historie", "transport"],
+    "topics": [
+      "historie",
+      "transport"
+    ],
     "prompt": {
       "nb": "11. mai 1926 lettet et italiensk-bygget luftskip fra Ny-Ålesund på Svalbard med et norsk-italiensk-amerikansk mannskap om bord. Neste dag krysset det Nordpolen for første gang bekreftet fra luften, før det landet i Alaska etter et par døgns flyging. Hvem ledet ekspedisjonen?",
       "sv": "Den 11 maj 1926 lyfte ett italienskbyggt luftskepp från Ny-Ålesund på Svalbard med en norsk-italiensk-amerikansk besättning ombord. Nästa dag korsade det Nordpolen för första gången bekräftat från luften, innan det landade i Alaska efter ett par dygns flygning. Vem ledde expeditionen?"
@@ -595,7 +673,10 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["geografi", "natur"],
+    "topics": [
+      "geografi",
+      "natur"
+    ],
     "prompt": {
       "nb": "Landet her har steget nesten 285 meter siden siste istid, mer enn noe annet sted på jorden, og hever seg fortsatt med rundt 8 millimeter i året. Kystlinjen fra istiden kan fortsatt spores høyt oppe i terrenget. Området ble UNESCOs verdensarvsted i 2000. Hva heter denne svenske kyststrekningen?",
       "sv": "Landet här har stigit nästan 285 meter sedan senaste istiden, mer än någon annan plats på jorden, och höjer sig fortfarande med omkring 8 millimeter om året. Kustlinjen från istiden kan fortfarande spåras högt uppe i terrängen. Området blev UNESCO-världsarv år 2000. Vad heter denna svenska kuststräcka?"
@@ -617,7 +698,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "12. mars 1936 klarte denne japanske fysikeren å skape verdens første kunstige snøkrystall i et laboratorium ved Hokkaido-universitetet, etter tre års eksperimentering med ulike overflater å la krystallen vokse på. Han laget senere et diagram som viser hvilken krystallform som dannes ved ulike temperaturer og fuktighetsnivåer. Hvem var han?",
       "sv": "Den 12 mars 1936 lyckades denne japanske fysikern skapa världens första konstgjorda snökristall i ett laboratorium vid Hokkaido universitet, efter tre års experimenterande med olika ytor att låta kristallen växa på. Han gjorde senare ett diagram som visar vilken kristallform som bildas vid olika temperaturer och fuktighetsnivåer. Vem var han?"
@@ -643,7 +726,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "Under den kaldeste vinteren på 1600-tallet frøs Themsen så solid at folk satte opp markedsboder, trykkpresser og til og med kjørte hest og vogn over isen midt i London. Den siste av disse folkefestene på isen ble holdt i 1814, med en elefant ledet over elven. Hva kalles denne typen tilstelning?",
       "sv": "Under den kallaste vintern på 1600-talet frös Themsen så solitt att folk satte upp marknadsstånd, tryckpressar och till och med körde häst och vagn över isen mitt i London. Den sista av dessa folkfester på isen hölls 1814, med en elefant ledd över floden. Vad kallas denna typ av tillställning?"
@@ -665,7 +750,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["militaerhistorie"],
+    "topics": [
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "Under vinterkrigen mellom Finland og Sovjetunionen (1939–1940) opererte denne finske soldaten som skarpskytter ved Kollaa-fronten, og brukte konsekvent åpne sikter i stedet for kikkertsikte fordi de tålte den ekstreme kulden bedre og ga et mindre mål å skyte mot. Han regnes som en av historiens mest markante skarpskyttere. Hva het han?",
       "sv": "Under vinterkriget mellan Finland och Sovjetunionen (1939–1940) verkade denne finske soldaten som prickskytt vid Kollaafronten, och använde konsekvent öppna sikten i stället för kikarsikte eftersom de tålde den extrema kylan bättre och gav ett mindre mål att skjuta mot. Han räknas som en av historiens mest framstående prickskyttar. Vad hette han?"
@@ -691,7 +778,9 @@
     "category": "vinter",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Denne øvelsen kombinerte langrenn på ski, skyting, fjellklatring og patruljering i lag på fire, og var en offisiell øvelse ved vinterlekene i 1924 før den ble redusert til oppvisningsøvelse i 1928, 1936 og 1948. Norge og Finland dominerte konkurransen. Hva het den militærinspirerte forløperen til dagens skiskyting?",
       "sv": "Denna gren kombinerade längdskidåkning, skytte, bergsklättring och patrullering i lag om fyra, och var en officiell gren vid vinterspelen 1924 innan den reducerades till uppvisningsgren 1928, 1936 och 1948. Norge och Finland dominerade tävlingen. Vad hette den militärinspirerade föregångaren till dagens skidskytte?"

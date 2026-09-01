@@ -153,7 +153,17 @@
       "nb": "Bygningen ble revet i månedene etterpå, og steinene ble solgt som suvenirer i hele Frankrike.",
       "sv": "Byggnaden revs under månaderna efteråt, och stenarna såldes som souvenirer i hela Frankrike."
     },
-    "source": "Store norske leksikon – Bastillen"
+    "source": "Store norske leksikon – Bastillen",
+    "onThisDay": [
+      {
+        "day": "07-14",
+        "year": 1789,
+        "prompt": {
+          "nb": "På denne dagen i 1789 brøt en folkemengde seg inn i en festning i Paris der det bare satt sju fanger. Bygningen var mest et symbol, men datoen er siden blitt Frankrikes nasjonaldag. Hvilket fengsel ble stormet?",
+          "sv": "På denna dag 1789 bröt en folkmassa sig in i en fästning i Paris där det bara satt sju fångar. Byggnaden var mest en symbol, men datumet har sedan blivit Frankrikes nationaldag. Vilket fängelse stormades?"
+        }
+      }
+    ]
   },
   {
     "id": "storm-l-07",
@@ -280,7 +290,17 @@
       "nb": "Samtiden mottok romanen med avsky; en kritiker kalte den «rå og motbydelig», og først på 1900-tallet ble den regnet som et mesterverk.",
       "sv": "Samtiden tog emot romanen med avsky; en kritiker kallade den «rå och motbjudande», och först på 1900-talet räknades den som ett mästerverk."
     },
-    "source": "Store norske leksikon – Emily Brontë"
+    "source": "Store norske leksikon – Emily Brontë",
+    "onThisDay": [
+      {
+        "day": "07-30",
+        "year": 1818,
+        "prompt": {
+          "nb": "På denne dagen i 1818 ble det født en jente i Thornton i Yorkshire som skulle gi ut sin eneste roman under mannsnavnet Ellis Bell i 1847, og dø året etter, bare 30 år gammel. Boka om Heathcliff og Catherine heter «Stormfulle høyder» på norsk. Hvilken av Brontë-søstrene var hun?",
+          "sv": "På denna dag 1818 föddes en flicka i Thornton i Yorkshire som skulle ge ut sin enda roman under mansnamnet Ellis Bell 1847 och dö året därpå, bara 30 år gammal. Boken om Heathcliff och Catherine heter «Svindlande höjder» på svenska. Vilken av systrarna Brontë var hon?"
+        }
+      }
+    ]
   },
   {
     "id": "storm-m-02",

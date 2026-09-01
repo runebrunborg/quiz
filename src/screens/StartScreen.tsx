@@ -7,13 +7,13 @@ import { Segmented } from '../components/Segmented'
 import {
   ALL_QUESTIONS,
   CATEGORIES,
-  categoriesWithContent,
+  categoriesInDisplayOrder,
   CATEGORY_BY_ID,
   makeRng,
+  ordinaryFor,
   POOL_TARGET,
   poolFor,
   QUESTIONS_PER_ROUND,
-  shuffle,
 } from '../lib/content'
 import { loadPrefs, savePrefs } from '../lib/storage'
 import { DIFFICULTY_LABELS, REGION_HELP, REGION_LABELS } from '../lib/ui'
@@ -27,16 +27,20 @@ export default function StartScreen() {
   const [category, setCategory] = useState<string | null>(saved.category)
 
   // Ny rekkefølge hver gang skjermen åpnes, så det ikke alltid er Blå som møter
-  // deg først. Rekkefølgen ligger fast mens du står på siden.
+  // deg først. Frøet ligger fast mens du står på siden, så rekkefølgen holder
+  // seg når du bytter nivå – bortsett fra at temaer med et spørsmål for dagens
+  // dato alltid ligger først.
   //
   // Bare temaer som faktisk har spørsmål vises her. Et tema kan være registrert
   // i content/categories.ts før puljen er skrevet – da hører det hjemme på
   // bankskjermen som et hull, ikke på startskjermen som et kort du ikke kan
   // spille. Måltallet under teller fortsatt alle temaer, også de tomme.
-  const shuffledCategories = useMemo(
-    () => shuffle(categoriesWithContent(), makeRng(`${Date.now()}-${Math.random()}`)),
-    [],
+  const seed = useMemo(() => `${Date.now()}-${Math.random()}`, [])
+  const ordered = useMemo(
+    () => categoriesInDisplayOrder(makeRng(seed), difficulty),
+    [seed, difficulty],
   )
+  const datedCount = ordered.filter((o) => o.datedToday).length
 
   const lang = langForRegion(region)
   const selected = category ? CATEGORY_BY_ID.get(category) : undefined
@@ -55,7 +59,7 @@ export default function StartScreen() {
   return (
     <>
       <div className="page-head">
-        <p className="eyebrow">LinnieQuiz</p>
+        <p className="eyebrow">LinnQuiz</p>
         <h1>Ti spørsmål. Ett tema.</h1>
         <p>
           Velg et tema, et nivå og et utgangspunkt. Alle ti spørsmålene vises samtidig – ta hint når du står fast,
@@ -95,15 +99,22 @@ export default function StartScreen() {
 
         <div className="setup__row">
           <span className="setup__label">Tema</span>
+          {datedCount > 0 && (
+            <p className="setup__note">
+              {datedCount === 1 ? 'Ett tema' : `${datedCount} temaer`} har et spørsmål som treffer dagens dato, og
+              ligger derfor først.
+            </p>
+          )}
           <div className="cat-grid">
-            {shuffledCategories.map((c) => (
+            {ordered.map(({ category: c, datedToday }) => (
               <CategoryCard
                 key={c.id}
                 category={c}
                 lang={lang}
                 selected={category === c.id}
-                available={poolFor(c.id, difficulty).length}
+                available={ordinaryFor(c.id, difficulty).length}
                 needed={POOL_TARGET}
+                datedToday={datedToday}
                 onSelect={() => setCategory(c.id)}
               />
             ))}

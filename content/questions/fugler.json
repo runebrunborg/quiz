@@ -48,7 +48,17 @@
       "nb": "Navnet betyr «spydfugl», etter det kraftige nebbet. Det vitenskapelige navnet er Pinguinus impennis – faktisk opphavet til at pingviner på sørhalvkulen senere fikk sitt navn, selv om de to fuglegruppene ikke er i slekt.",
       "sv": "Namnet betyder «spjutfågel», efter den kraftiga näbben. Det vetenskapliga namnet är Pinguinus impennis – faktiskt ursprunget till att pingviner på södra halvklotet senare fick sitt namn, även om de två fågelgrupperna inte är släkt."
     },
-    "source": "Wikipedia – Great auk (Pinguinus impennis)"
+    "source": "Wikipedia – Great auk (Pinguinus impennis)",
+    "onThisDay": [
+      {
+        "day": "06-03",
+        "year": 1844,
+        "prompt": {
+          "nb": "På denne dagen i 1844 ble det siste kjente paret av en flygeudyktig sjøfugl tatt på holmen Eldey utenfor Island, mens de ruget på et egg. En kjøpmann hadde bestilt dem som museumsobjekter. Hvilken art forsvant med dem?",
+          "sv": "På denna dag 1844 togs det sista kända paret av en flygoförmögen sjöfågel på holmen Eldey utanför Island, medan de ruvade på ett ägg. En köpman hade beställt dem som museiföremål. Vilken art försvann med dem?"
+        }
+      }
+    ]
   },
   {
     "id": "fugler-l-03",
@@ -319,7 +329,17 @@
       "nb": "Diktet ble først trykket i New York Evening Mirror 29. januar 1845 og gjorde ham raskt kjent, selv om han tjente svært lite på det økonomisk.",
       "sv": "Dikten trycktes först i New York Evening Mirror den 29 januari 1845 och gjorde honom snabbt känd, även om han tjänade mycket lite på den ekonomiskt."
     },
-    "source": "The Raven, New York Evening Mirror (29. januar 1845)"
+    "source": "The Raven, New York Evening Mirror (29. januar 1845)",
+    "onThisDay": [
+      {
+        "day": "01-29",
+        "year": 1845,
+        "prompt": {
+          "nb": "På denne dagen i 1845 sto et dikt på trykk i avisen New York Evening Mirror, om en sørgende mann som får besøk av en svart fugl. Fuglen svarer bare med det ene ordet «Nevermore». Hvem skrev diktet?",
+          "sv": "På denna dag 1845 trycktes en dikt i tidningen New York Evening Mirror, om en sörjande man som får besök av en svart fågel. Fågeln svarar bara med det enda ordet «Nevermore». Vem skrev dikten?"
+        }
+      }
+    ]
   },
   {
     "id": "fugler-m-03",
@@ -347,7 +367,17 @@
       "nb": "Filmen ble spilt inn på location i Bodega Bay i California, og de skremmende fuglelydene ble laget elektronisk i stedet for med ekte fuglekvitter.",
       "sv": "Filmen spelades in på plats i Bodega Bay i Kalifornien, och de skrämmande fågelljuden gjordes elektroniskt i stället för med äkta fågelkvitter."
     },
-    "source": "Wikipedia – The Birds (1963 film)"
+    "source": "Wikipedia – The Birds (1963 film)",
+    "onThisDay": [
+      {
+        "day": "08-13",
+        "year": 1899,
+        "prompt": {
+          "nb": "På denne dagen i 1899 ble det født en gutt i Leytonstone utenfor London som ble filmregissør, og som i 1963 lot stadig større fugleflokker angripe en liten kystby i California. Hvem var han?",
+          "sv": "På denna dag 1899 föddes en pojke i Leytonstone utanför London som blev filmregissör, och som 1963 lät allt större fågelflockar attackera en liten kuststad i Kalifornien. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "fugler-m-04",
@@ -559,7 +589,17 @@
       "nb": "Arten regnes som en av historiens mest brukte eksempler på hvor raskt mennesker kan utrydde selv en enormt tallrik dyreart – fra flere milliarder til null på under hundre år.",
       "sv": "Arten räknas som ett av historiens mest använda exempel på hur snabbt människor kan utrota en även enormt talrik djurart – från flera miljarder till noll på mindre än hundra år."
     },
-    "source": "Store norske leksikon – vandredue"
+    "source": "Store norske leksikon – vandredue",
+    "onThisDay": [
+      {
+        "day": "09-01",
+        "year": 1914,
+        "prompt": {
+          "nb": "På denne dagen i 1914 døde fuglen «Martha» i dyrehagen i Cincinnati, og med henne forsvant en art som hundre år tidligere hadde fløyet i flokker på milliarder over Nord-Amerika. Hvilken art var det?",
+          "sv": "På denna dag 1914 dog fågeln «Martha» i djurparken i Cincinnati, och med henne försvann en art som hundra år tidigare hade flugit i flockar på miljarder över Nordamerika. Vilken art var det?"
+        }
+      }
+    ]
   },
   {
     "id": "fugler-v-02",

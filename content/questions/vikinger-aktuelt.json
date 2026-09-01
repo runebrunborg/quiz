@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vikinger-v-a1",
+    "category": "vikinger",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vikingtid",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Vikingene som reiste østover kalte den store handelsbyen ved elva Volkhov for Holmgard, og brukte den som stoppested på veien mot Miklagard. I april 2026 la russiske arkeologer fram et smykkefunn fra slutten av 900-tallet der, som viser hvor langt handelen strakte seg. Hva heter byen i dag?",
+      "sv": "Vikingarna som reste österut kallade den stora handelsstaden vid floden Volchov för Holmgård och använde den som anhalt på vägen mot Miklagård. I april 2026 lade ryska arkeologer fram ett smyckefynd från slutet av 900-talet där, som visar hur långt handeln sträckte sig. Vad heter staden i dag?"
+    },
+    "answer": "Novgorod",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger der Volkhov renner ut av Ilmensjøen, om lag 180 kilometer sørøst for St. Petersburg.",
+      "sv": "Staden ligger där Volchov rinner ut ur Ilmensjön, omkring 180 kilometer sydost om Sankt Petersburg."
+    },
+    "funFact": {
+      "nb": "Byen regnes som en av Russlands eldste, med spor tilbake til 800-tallet. Arkeologene har funnet importvarer både fra Konstantinopel og fra Sverige, og senere overtok gotlendinger og Hansaen handelen vestover.",
+      "sv": "Staden räknas som en av Rysslands äldsta, med spår tillbaka till 800-talet. Arkeologerna har funnit importvaror både från Konstantinopel och från Sverige, och senare tog gotlänningar och Hansan över handeln västerut."
+    },
+    "source": "en.wikipedia.org – «2026 in archaeology», funnet kunngjort 08.04.2026 (hentet 01.09.2026); Store norske leksikon – Novgorod",
+    "topical": {
+      "event": "2026-04-08",
+      "until": "2027-04-30",
+      "evergreen": true
+    }
+  }
+]

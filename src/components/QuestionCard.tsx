@@ -1,7 +1,9 @@
 import { useState } from 'react'
 import type { AskedQuestion, Lang, Question } from '../../shared/types'
 import { t } from '../../shared/types'
+import { promptFor } from '../../shared/questions'
 import { answerShape, hintCount, letterOptions, revealLetter, type LetterChoice } from '../lib/hints'
+import { QuestionFeedback } from './QuestionFeedback'
 import { ui } from '../lib/ui'
 
 interface Props {
@@ -42,7 +44,8 @@ export function QuestionCard({ index, question, asked, lang, revealed, onChange 
         <span className="q-num" aria-hidden="true">
           {index + 1}
         </span>
-        <p className="q-prompt">{t(question.prompt, lang)}</p>
+        {/* Treffer dagens dato en «på denne dag»-variant, er det den som vises. */}
+        <p className="q-prompt">{promptFor(question, lang)}</p>
       </div>
 
       {!revealed && (
@@ -145,6 +148,8 @@ export function QuestionCard({ index, question, asked, lang, revealed, onChange 
           </div>
         </>
       )}
+
+      <QuestionFeedback question={question} lang={lang} />
     </li>
   )
 }

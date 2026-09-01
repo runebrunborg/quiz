@@ -324,3 +324,146 @@ describe('økter', () => {
     expect(board.body.entries[0].total).toBe(10)
   })
 })
+
+describe('tilbakemeldinger', () => {
+  interface Summary {
+    sort: string
+    totals: { votes: number; questions: number; up: number; down: number }
+    rows: {
+      questionId: string
+      category: string
+      difficulty: string
+      up: number
+      down: number
+      score: number
+      reasons: { reason: string; count: number }[]
+      comments: { text: string; vote: string }[]
+    }[]
+  }
+
+  const vote = (questionId: string, v: 'opp' | 'ned', extra: Record<string, unknown> = {}) => ({
+    items: [{ questionId, vote: v, category: 'blaa', difficulty: 'lett', lang: 'nb', ...extra }],
+  })
+
+  async function del(path: string, token?: string) {
+    const res = await app.request(
+      path,
+      { method: 'DELETE', headers: token ? { authorization: `Bearer ${token}` } : {} },
+      env,
+    )
+    return { status: res.status, body: (await res.json()) as Record<string, unknown> }
+  }
+
+  it('teller opp og ned per spørsmål', async () => {
+    const a = await newAccount('Rune')
+    const b = await newAccount('Linn')
+
+    await post('/api/feedback', vote('blaa-l-01', 'opp'), a.token)
+    await post('/api/feedback', vote('blaa-l-01', 'opp'), b.token)
+    await post('/api/feedback', vote('blaa-l-02', 'ned', { reason: 'uklart' }), a.token)
+
+    const res = await get<Summary>('/api/feedback/summary', a.token)
+    expect(res.status).toBe(200)
+    expect(res.body.totals).toMatchObject({ votes: 3, questions: 2, up: 2, down: 1 })
+    // «verst» er standardsortering, så det kritiserte spørsmålet ligger først.
+    expect(res.body.rows[0]).toMatchObject({ questionId: 'blaa-l-02', up: 0, down: 1, score: -1 })
+    expect(res.body.rows[0].reasons).toEqual([{ reason: 'uklart', count: 1 }])
+    expect(res.body.rows[1]).toMatchObject({ questionId: 'blaa-l-01', up: 2, score: 2 })
+  })
+
+  it('erstatter egen stemme i stedet for å telle den to ganger', async () => {
+    const a = await newAccount('Rune')
+    await post('/api/feedback', vote('blaa-l-01', 'opp'), a.token)
+    await post('/api/feedback', vote('blaa-l-01', 'ned', { reason: 'feil' }), a.token)
+
+    const res = await get<Summary>('/api/feedback/summary', a.token)
+    expect(res.body.totals.votes).toBe(1)
+    expect(res.body.rows[0]).toMatchObject({ up: 0, down: 1, score: -1 })
+  })
+
+  it('lar deg trekke stemmen tilbake', async () => {
+    const a = await newAccount('Rune')
+    await post('/api/feedback', vote('blaa-l-01', 'opp'), a.token)
+    expect((await del('/api/feedback/blaa-l-01', a.token)).status).toBe(200)
+
+    const res = await get<Summary>('/api/feedback/summary', a.token)
+    expect(res.body.totals.votes).toBe(0)
+    expect(res.body.rows).toHaveLength(0)
+  })
+
+  it('lagrer grunn bare på tommel ned, og kutter for lange kommentarer', async () => {
+    const a = await newAccount('Rune')
+    await post('/api/feedback', vote('blaa-l-01', 'opp', { reason: 'feil', comment: 'x'.repeat(600) }), a.token)
+
+    const res = await get<Summary>('/api/feedback/summary', a.token)
+    expect(res.body.rows[0].reasons).toEqual([])
+    expect(res.body.rows[0].comments[0].text).toHaveLength(400)
+  })
+
+  it('forkaster ugyldige rader uten å velte hele forespørselen', async () => {
+    const a = await newAccount('Rune')
+    const res = await post<{ saved: number }>(
+      '/api/feedback',
+      {
+        items: [
+          { questionId: 'blaa-l-01', vote: 'opp' },
+          { questionId: 'ikke gyldig id!', vote: 'opp' },
+          { questionId: 'blaa-l-02', vote: 'kanskje' },
+          { questionId: 'blaa-l-03', vote: 'ned', reason: 'noe-annet' },
+        ],
+      },
+      a.token,
+    )
+    expect(res.body.saved).toBe(2)
+
+    const summary = await get<Summary>('/api/feedback/summary', a.token)
+    expect(summary.body.rows.map((r) => r.questionId).sort()).toEqual(['blaa-l-01', 'blaa-l-03'])
+    // Ukjent grunn forkastes, men stemmen står.
+    expect(summary.body.rows.find((r) => r.questionId === 'blaa-l-03')?.reasons).toEqual([])
+  })
+
+  it('filtrerer på tema og nivå', async () => {
+    const a = await newAccount('Rune')
+    await post('/api/feedback', vote('blaa-l-01', 'ned'), a.token)
+    await post('/api/feedback', { items: [{ questionId: 'roed-v-01', vote: 'ned', category: 'roed', difficulty: 'vanskelig' }] }, a.token)
+
+    const blaa = await get<Summary>('/api/feedback/summary?category=blaa', a.token)
+    expect(blaa.body.rows.map((r) => r.questionId)).toEqual(['blaa-l-01'])
+
+    const hard = await get<Summary>('/api/feedback/summary?difficulty=vanskelig', a.token)
+    expect(hard.body.rows.map((r) => r.questionId)).toEqual(['roed-v-01'])
+  })
+
+  it('gir tilbake egne stemmer, ikke andres', async () => {
+    const a = await newAccount('Rune')
+    const b = await newAccount('Linn')
+    await post('/api/feedback', vote('blaa-l-01', 'ned', { reason: 'hint', comment: 'hintet røper alt' }), a.token)
+    await post('/api/feedback', vote('blaa-l-02', 'opp'), b.token)
+
+    const mine = await get<{ items: { questionId: string; vote: string; reason: string | null }[] }>(
+      '/api/feedback/mine',
+      a.token,
+    )
+    expect(mine.body.items).toEqual([
+      { questionId: 'blaa-l-01', vote: 'ned', reason: 'hint', comment: 'hintet røper alt', updatedAt: expect.any(Number) },
+    ])
+  })
+
+  it('rydder bort tilbakemeldingene når kontoen slettes', async () => {
+    const a = await newAccount('Rune')
+    const b = await newAccount('Linn')
+    await post('/api/feedback', vote('blaa-l-01', 'opp'), a.token)
+    await post('/api/feedback', vote('blaa-l-01', 'ned'), b.token)
+
+    await del('/api/account/me', b.token)
+
+    const res = await get<Summary>('/api/feedback/summary', a.token)
+    expect(res.body.totals.votes).toBe(1)
+    expect(res.body.rows[0]).toMatchObject({ up: 1, down: 0 })
+  })
+
+  it('krever innlogging', async () => {
+    expect((await get('/api/feedback/summary')).status).toBe(401)
+    expect((await post('/api/feedback', vote('blaa-l-01', 'opp'))).status).toBe(401)
+  })
+})

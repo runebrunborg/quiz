@@ -26,3 +26,8 @@ export function recentWeeks(ms: number, count: number): string[] {
   }
   return weeks
 }
+
+/** Måned og dag, `MM-DD`. Brukes av «på denne dag»-variantene. */
+export function monthDay(ms: number): string {
+  return isoDay(ms).slice(5)
+}

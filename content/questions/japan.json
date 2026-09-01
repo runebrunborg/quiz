@@ -125,7 +125,17 @@
       "nb": "Den første strekningen het Tōkaidō-linjen og var drøyt 550 kilometer lang. Systemet har hatt to avsporinger i passasjertrafikk, i 2004 under et jordskjelv og i 2013 i snøstorm, begge uten personskader.",
       "sv": "Den första sträckan hette Tōkaidōlinjen och var drygt 550 kilometer lång. Systemet har haft två urspårningar i passagerartrafik, 2004 under en jordbävning och 2013 i snöstorm, båda utan personskador."
     },
-    "source": "Central Japan Railway Company; Japan Railways Group"
+    "source": "Central Japan Railway Company; Japan Railways Group",
+    "onThisDay": [
+      {
+        "day": "10-01",
+        "year": 1964,
+        "prompt": {
+          "nb": "På denne dagen i 1964 gikk den første avgangen på en helt ny japansk høyhastighetsbane, få dager før sommer-OL i Tokyo. Linjen bandt hovedstaden sammen med Nagoya og Osaka, og på seksti år har ingen passasjer omkommet i avsporing eller sammenstøt. Hva kalles disse togene?",
+          "sv": "På denna dag 1964 gick den första avgången på en helt ny japansk höghastighetsbana, några dagar före sommar-OS i Tokyo. Linjen band samman huvudstaden med Nagoya och Osaka, och på sextio år har ingen passagerare omkommit i urspårning eller kollision. Vad kallas dessa tåg?"
+        }
+      }
+    ]
   },
   {
     "id": "japan-l-06",
@@ -173,7 +183,17 @@
       "nb": "Dæhlies gull kom på 10 kilometer klassisk, 5 mil fri og stafetten. Med åtte olympiske gull var han lenge den mest vinnende vinterolympieren.",
       "sv": "Dæhlies guld kom på 10 kilometer klassiskt, 5 mil fritt och stafetten. Med åtta olympiska guld var han länge den mest framgångsrika vinterolympiern."
     },
-    "source": "Den internasjonale olympiske komité – Nagano 1998"
+    "source": "Den internasjonale olympiske komité – Nagano 1998",
+    "onThisDay": [
+      {
+        "day": "02-07",
+        "year": 1998,
+        "prompt": {
+          "nb": "På denne dagen i 1998 ble vinterlekene åpnet i Japan for andre gang, i den sørligste byen som noen gang har arrangert vinter-OL. Bjørn Dæhlie tok tre gull der, og snøbrett, curling og ishockey for kvinner var med for første gang. Hvilken by?",
+          "sv": "På denna dag 1998 invigdes vinterspelen i Japan för andra gången, i den sydligaste stad som någonsin arrangerat vinter-OS. Bjørn Dæhlie tog tre guld där, och snowboard, curling och damishockey var med för första gången. Vilken stad?"
+        }
+      }
+    ]
   },
   {
     "id": "japan-l-08",
@@ -656,7 +676,17 @@
       "nb": "Japanske årstall regnes fortsatt etter æra, så 2019 var både år 31 i den forrige og år 1 i den nye. Akihito var den første japanske keiseren som abdiserte på over to hundre år.",
       "sv": "Japanska årtal räknas fortfarande efter era, så 2019 var både år 31 i den förra och år 1 i den nya. Akihito var den förste japanske kejsaren som abdikerade på över tvåhundra år."
     },
-    "source": "Japans regjering (Kantei) – kunngjøringen 1. april 2019; Imperial Household Agency"
+    "source": "Japans regjering (Kantei) – kunngjøringen 1. april 2019; Imperial Household Agency",
+    "onThisDay": [
+      {
+        "day": "05-01",
+        "year": 2019,
+        "prompt": {
+          "nb": "På denne dagen i 2019 besteg Naruhito tronen i Japan, dagen etter at faren Akihito hadde abdisert som den første japanske keiseren på over to hundre år. Samtidig begynte en ny æra, med navn hentet fra diktsamlingen Man'yōshū fra 700-tallet. Hva heter æraen?",
+          "sv": "På denna dag 2019 besteg Naruhito tronen i Japan, dagen efter att fadern Akihito hade abdikerat som den förste japanske kejsaren på över tvåhundra år. Samtidigt inleddes en ny era, med namn hämtat ur diktsamlingen Man'yōshū från 700-talet. Vad heter eran?"
+        }
+      }
+    ]
   },
   {
     "id": "japan-v-06",

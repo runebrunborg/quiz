@@ -1,0 +1,69 @@
+[
+  {
+    "id": "brun-l-a1",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Netflix delte den siste sesongen av «Stranger Things» i tre, og sluttepisoden gikk på 620 kinoer i Nord-Amerika samtidig som den kom på strømming nyttårsaften 2025. Hovedrolleinnehaveren har spilt jenta med telekinetiske krefter siden hun var tolv. Hvilken britisk skuespiller er det?",
+      "sv": "Netflix delade upp den sista säsongen av «Stranger Things» i tre delar, och slutavsnittet visades på 620 biografer i Nordamerika samtidigt som det släpptes på strömning på nyårsafton 2025. Huvudrollsinnehavaren har spelat flickan med telekinetiska krafter sedan hon var tolv. Vilken brittisk skådespelare är det?"
+    },
+    "answer": "Millie Bobby Brown",
+    "answerKind": "person",
+    "person": {
+      "given": "Millie",
+      "family": "Brown"
+    },
+    "hint": {
+      "nb": "Hun har også spilt Enola Holmes for Netflix og var med i to Godzilla-filmer.",
+      "sv": "Hon har också spelat Enola Holmes för Netflix och var med i två Godzilla-filmer."
+    },
+    "funFact": {
+      "nb": "Hun ble født i Marbella i Spania i 2004 og var rundt tolv år da hun fikk rollen. Kinovisningen av sluttepisoden ble solgt som kioskkuponger, og 1,1 millioner billetter gikk unna i forsalg.",
+      "sv": "Hon föddes i Marbella i Spanien 2004 och var omkring tolv år när hon fick rollen. Biovisningen av slutavsnittet såldes som kioskkuponger, och 1,1 miljoner biljetter gick åt i förköp."
+    },
+    "source": "Netflix – «Stranger Things» sesong 5, sluttepisode 31.12.2025; en.wikipedia.org (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2025-12-31",
+      "until": "2026-12-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "brun-m-a1",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Åtte år etter «Origin» kom den sjette romanen om symbolforskeren Robert Langdon ut 9. september 2025. «The Secret of Secrets» er lagt til Praha og handler om bevissthetsforskning, et hemmelig anlegg og en skikkelse kalt Golem. Hvilken amerikansk forfatter står bak?",
+      "sv": "Åtta år efter «Origin» kom den sjätte romanen om symbolforskaren Robert Langdon ut den 9 september 2025. «The Secret of Secrets» är förlagd till Prag och handlar om medvetandeforskning, en hemlig anläggning och en gestalt som kallas Golem. Vilken amerikansk författare ligger bakom?"
+    },
+    "answer": "Dan Brown",
+    "answerKind": "person",
+    "person": {
+      "given": "Dan",
+      "family": "Brown"
+    },
+    "hint": {
+      "nb": "Gjennombruddsromanen hans fra 2003 om et skjult budskap i Leonardo da Vincis «Nattverden» er blant de mest solgte bøkene i verden.",
+      "sv": "Hans genombrottsroman från 2003 om ett dolt budskap i Leonardo da Vincis «Nattvarden» hör till världens mest sålda böcker."
+    },
+    "funFact": {
+      "nb": "Langdon-serien begynte med «Angels & Demons» i 2000, og «Da Vinci-koden» fra 2003 er blant de mest solgte romanene noensinne. Den nye boken var forfatterens første Langdon-roman på åtte år.",
+      "sv": "Langdon-serien inleddes med «Angels & Demons» år 2000, och «Da Vinci-koden» från 2003 hör till de mest sålda romanerna någonsin. Den nya boken var författarens första Langdon-roman på åtta år."
+    },
+    "source": "«The Secret of Secrets» (Robert Langdon 6), utgitt 09.09.2025 – en.wikipedia.org (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2025-09-09",
+      "until": "2026-09-30",
+      "evergreen": true
+    }
+  }
+]

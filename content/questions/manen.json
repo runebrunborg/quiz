@@ -321,7 +321,17 @@
       "nb": "Filmen heter «Le Voyage dans la Lune». Han hentet stoff både fra Jules Vernes romaner og fra H.G. Wells' «The First Men in the Moon» fra 1901.",
       "sv": "Filmen heter «Le Voyage dans la Lune». Han hämtade stoff både från Jules Vernes romaner och från H.G. Wells «The First Men in the Moon» från 1901."
     },
-    "source": "Cinémathèque française; «Le Voyage dans la Lune» (1902)"
+    "source": "Cinémathèque française; «Le Voyage dans la Lune» (1902)",
+    "onThisDay": [
+      {
+        "day": "09-01",
+        "year": 1902,
+        "prompt": {
+          "nb": "På denne dagen i 1902 kom en film på et kvarter ut i Frankrike, der en romkapsel lander rett i øyet på et menneskelignende ansikt der oppe – et av filmhistoriens mest gjenbrukte bilder. Regissøren var tryllekunstner før han ble filmskaper. Hvem laget filmen?",
+          "sv": "På denna dag 1902 kom en kvartslång film ut i Frankrike, där en rymdkapsel landar rakt i ögat på ett människoliknande ansikte där uppe – en av filmhistoriens mest återanvända bilder. Regissören var trollkonstnär innan han blev filmskapare. Vem gjorde filmen?"
+        }
+      }
+    ]
   },
   {
     "id": "manen-m-03",
@@ -587,7 +597,17 @@
       "nb": "Sonden sendte ni bilder, blant dem fem panoramaer, fordelt på sju radioøkter på til sammen over åtte timer. Den ble skutt opp fra jorden bare tre døgn før landingen.",
       "sv": "Sonden skickade nio bilder, däribland fem panoraman, fördelade på sju radiopass på sammanlagt över åtta timmar. Den sköts upp från jorden bara tre dygn före landningen."
     },
-    "source": "NASA/NSSDC – Luna 9"
+    "source": "NASA/NSSDC – Luna 9",
+    "onThisDay": [
+      {
+        "day": "02-03",
+        "year": 1966,
+        "prompt": {
+          "nb": "På denne dagen i 1966 satte en sovjetisk sonde seg mykt ned i Oceanus Procellarum og sendte de aller første bildene tatt fra selve overflaten. Frykten for at støvlaget var så løst at et fartøy ville synke ned i det, ble dermed avkreftet. Hva het sonden?",
+          "sv": "På denna dag 1966 landade en sovjetisk sond mjukt i Oceanus Procellarum och skickade de allra första bilderna tagna från själva ytan. Farhågan att dammlagret var så löst att en farkost skulle sjunka ner i det avfärdades därmed. Vad hette sonden?"
+        }
+      }
+    ]
   },
   {
     "id": "manen-v-03",

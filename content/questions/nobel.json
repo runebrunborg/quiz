@@ -25,7 +25,17 @@
       "nb": "Kiselguren – fossile alger – hentet han ved Elben nær fabrikken i Hamburg. Da han døde i 1896, hadde han 355 patenter.",
       "sv": "Kiselguren – fossila alger – hämtade han vid Elbe nära fabriken i Hamburg. När han dog 1896 hade han 355 patent."
     },
-    "source": "Nobel Prize Outreach – «Alfred Nobel's life and work»"
+    "source": "Nobel Prize Outreach – «Alfred Nobel's life and work»",
+    "onThisDay": [
+      {
+        "day": "10-21",
+        "year": 1833,
+        "prompt": {
+          "nb": "På denne dagen i 1833 ble det født en gutt i Stockholm som senere fant ut at det ustabile nitroglyserinet kunne suges opp i kiselgur og bli trygt å frakte. Navnet han ga sprengstoffet, kommer av det greske ordet for kraft. Hvilket sprengstoff tok han patent på i 1867?",
+          "sv": "På denna dag 1833 föddes en pojke i Stockholm som senare kom på att det instabila nitroglycerinet kunde sugas upp i kiselgur och bli tryggt att frakta. Namnet han gav sprängämnet kommer av det grekiska ordet för kraft. Vilket sprängämne tog han patent på 1867?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-l-02",
@@ -79,7 +89,17 @@
       "nb": "Fysikkprisen i 1903 delte hun med ektemannen Pierre og med Henri Becquerel. Kjemiprisen i 1911 fikk hun alene, for oppdagelsen av radium og polonium.",
       "sv": "Fysikpriset 1903 delade hon med maken Pierre och med Henri Becquerel. Kemipriset 1911 fick hon ensam, för upptäckten av radium och polonium."
     },
-    "source": "Nobel Prize Outreach – prisvinnersidene for 1903 og 1911"
+    "source": "Nobel Prize Outreach – prisvinnersidene for 1903 og 1911",
+    "onThisDay": [
+      {
+        "day": "11-07",
+        "year": 1867,
+        "prompt": {
+          "nb": "På denne dagen i 1867 ble det født en jente i Warszawa som fikk navnet Maria Skłodowska. I 1903 ble hun den første kvinnen med en nobelpris, og hun er fortsatt den eneste som har vunnet i to ulike naturvitenskaper. Hvilket navn er hun kjent under?",
+          "sv": "På denna dag 1867 föddes en flicka i Warszawa som fick namnet Maria Skłodowska. År 1903 blev hon den första kvinnan med ett nobelpris, och hon är fortfarande den enda som vunnit i två olika naturvetenskaper. Vilket namn är hon känd under?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-l-04",
@@ -280,7 +300,17 @@
       "nb": "Passet som bærer navnet hans, ga statsløse flyktninger et gyldig reisedokument. Han ledet også arbeidet med å få krigsfanger hjem etter første verdenskrig.",
       "sv": "Passet som bär hans namn gav statslösa flyktingar ett giltigt resedokument. Han ledde också arbetet med att få hem krigsfångar efter första världskriget."
     },
-    "source": "Nobel Prize Outreach – fredsprisen 1922"
+    "source": "Nobel Prize Outreach – fredsprisen 1922",
+    "onThisDay": [
+      {
+        "day": "10-10",
+        "year": 1861,
+        "prompt": {
+          "nb": "På denne dagen i 1861 ble det født en gutt i Aker, i dag en del av Oslo. Han ble polarforsker, lot skuta «Fram» fryse fast i drivisen, og fikk siden fredsprisen for arbeidet med flyktninger etter første verdenskrig. Hvem var han?",
+          "sv": "På denna dag 1861 föddes en pojke i Aker, i dag en del av Oslo. Han blev polarforskare, lät skutan «Fram» frysa fast i drivisen och fick sedan fredspriset för arbetet med flyktingar efter första världskriget. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-m-01",
@@ -411,7 +441,17 @@
       "nb": "Bygget ble innviet til byens 900-årsjubileum. Fram til 1989 satt publikum i universitetets aula, under Edvard Munchs monumentalmaleri «Solen».",
       "sv": "Byggnaden invigdes till stadens 900-årsjubileum. Fram till 1989 satt publiken i universitetets aula, under Edvard Munchs monumentalmålning «Solen»."
     },
-    "source": "Oslo kommune; Nobel Prize Outreach – fredsprisseremonien"
+    "source": "Oslo kommune; Nobel Prize Outreach – fredsprisseremonien",
+    "onThisDay": [
+      {
+        "day": "05-15",
+        "year": 1950,
+        "prompt": {
+          "nb": "På denne dagen i 1950 ble et teglbygg med to tårn nede ved havna innviet, til hovedstadens 900-årsjubileum. Siden 1990 har fredsprisen blitt delt ut her hver 10. desember, foran kongefamilien og inviterte gjester. Hvilket bygg er det?",
+          "sv": "På denna dag 1950 invigdes en tegelbyggnad med två torn nere vid hamnen, till huvudstadens 900-årsjubileum. Sedan 1990 delas fredspriset ut här varje 10 december, inför kungafamiljen och inbjudna gäster. Vilken byggnad är det?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-m-06",

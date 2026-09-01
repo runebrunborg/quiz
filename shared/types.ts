@@ -113,6 +113,46 @@ export interface PersonName {
   family: L10n
 }
 
+/** Dato på formen `YYYY-MM-DD`. */
+export type IsoDate = string
+
+/** Måned og dag på formen `MM-DD`, uten år. */
+export type MonthDay = string
+
+/**
+ * Merkelapp på et dagsaktuelt spørsmål – ett som bygger på noe som har skjedd
+ * det siste året. Slike spørsmål trekkes inn i runden foran de vanlige, og
+ * `until` sier når de slutter å være ferske.
+ */
+export interface Topical {
+  /** Når hendelsen skjedde. `YYYY-MM-DD`, eller `YYYY-MM` når dagen ikke er poenget. */
+  event: string
+  /** Siste dagen spørsmålet regnes som dagsaktuelt. */
+  until: IsoDate
+  /**
+   * Om spørsmålet fortsatt er verdt å stille etter `until`. `true` betyr at det
+   * glir inn i den vanlige puljen når det ikke lenger er ferskt («hvem tok over
+   * som konge»); `false` betyr at det går ut på dato og slutter å bli trukket
+   * («hvem leder tabellen nå»). Spørsmålet blir liggende i fila uansett.
+   */
+  evergreen: boolean
+}
+
+/**
+ * «På denne dag»-variant: hele spørsmålsteksten skrevet om for én bestemt dato
+ * i året. Treffer vi datoen, vises denne teksten i stedet for `prompt` – svar,
+ * hint og fun fact er de samme. Et spørsmål kan ha flere (født og død, åpnet og
+ * revet).
+ */
+export interface OnThisDay {
+  /** Datoen varianten gjelder, `MM-DD`. 29. februar treffer bare i skuddår. */
+  day: MonthDay
+  /** Året hendelsen skjedde. Står gjerne i teksten, men brukes ikke av koden. */
+  year: number
+  /** Erstatter `prompt` denne dagen. Samme krav som `prompt`: 25–55 ord, spørsmålet til slutt. */
+  prompt: L10n
+}
+
 export interface Question {
   /** Stabil id: `<kategori>-<nivå-initial>-<nn>`, f.eks. `blaa-l-01`. Endres aldri – statistikken henger på den. */
   id: string
@@ -135,6 +175,10 @@ export interface Question {
   funFact: L10n
   /** Kilde for faktasjekk. Fri tekst eller URL. */
   source: string
+  /** Satt bare på dagsaktuelle spørsmål. Se `Topical`. */
+  topical?: Topical
+  /** Datovarianter av spørsmålsteksten. Se `OnThisDay`. */
+  onThisDay?: OnThisDay[]
 }
 
 export interface Category {
@@ -214,4 +258,61 @@ export interface FriendComparison {
   friendName: string
   weeks: { week: string; me: WeekStat; friend: WeekStat }[]
   accumulated: { me: WeekStat; friend: WeekStat }
+}
+
+/* --------------------------------------------------- tilbakemeldinger */
+
+/**
+ * Tommel opp/ned på et enkeltspørsmål. Uavhengig av om svaret ble rett –
+ * dette handler om kvaliteten på spørsmålet, ikke om spilleren.
+ */
+export type FeedbackVote = 'opp' | 'ned'
+
+/**
+ * Grunner til tommel ned. Lukket liste, som emne-taggene, så statistikken
+ * holder seg sammenlignbar. Rekkefølgen er den knappene vises i.
+ */
+export const FEEDBACK_REASONS = ['feil', 'uklart', 'lekker', 'nivaa', 'hint', 'kjedelig', 'annet'] as const
+export type FeedbackReason = (typeof FEEDBACK_REASONS)[number]
+
+export const FEEDBACK_REASON_LABELS: Record<FeedbackReason, { nb: string; sv: string }> = {
+  feil: { nb: 'Feil eller upresist', sv: 'Fel eller oprecist' },
+  uklart: { nb: 'Uklart formulert', sv: 'Otydligt formulerat' },
+  lekker: { nb: 'Svaret røpes', sv: 'Svaret avslöjas' },
+  nivaa: { nb: 'Feil vanskelighetsgrad', sv: 'Fel svårighetsgrad' },
+  hint: { nb: 'Dårlig hint', sv: 'Dålig ledtråd' },
+  kjedelig: { nb: 'Kjedelig', sv: 'Tråkig' },
+  annet: { nb: 'Annet', sv: 'Annat' },
+}
+
+export function isFeedbackReason(value: unknown): value is FeedbackReason {
+  return typeof value === 'string' && (FEEDBACK_REASONS as readonly string[]).includes(value)
+}
+
+/** Kommentarfeltet er ment for én setning, ikke en anmeldelse. */
+export const FEEDBACK_COMMENT_MAX = 400
+
+/** Én brukers stemme på ett spørsmål. */
+export interface QuestionFeedback {
+  questionId: string
+  vote: FeedbackVote
+  /** Bare ved tommel ned. */
+  reason: FeedbackReason | null
+  comment: string | null
+  updatedAt: number
+}
+
+/** Sammenstillingen som driver oversikten. Én rad per spørsmål med stemmer. */
+export interface FeedbackSummaryRow {
+  questionId: string
+  category: string
+  difficulty: string
+  up: number
+  down: number
+  /** up − down. Sorteringsnøkkelen i oversikten. */
+  score: number
+  reasons: { reason: FeedbackReason; count: number }[]
+  /** Anonymiserte kommentarer, nyeste først. */
+  comments: { text: string; vote: FeedbackVote; at: number }[]
+  lastAt: number
 }

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "kaffe-m-a1",
+    "category": "kaffe",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I januar 2026 la den amerikanske kaffebarkjeden fra Seattle fram en snuoperasjon: driften i selskapets nest største marked skilles ut i et eget fellesforetak, der oppkjøpsfondet Boyu Capital overtar inntil 60 prosent av eierskapet. I hvilket land ligger dette markedet?",
+      "sv": "I januari 2026 lade den amerikanska kaffebarskedjan från Seattle fram en omställningsplan: verksamheten på företagets näst största marknad bryts ut i ett eget samriskbolag, där uppköpsfonden Boyu Capital tar över upp till 60 procent av ägandet. I vilket land ligger denna marknad?"
+    },
+    "answer": "Kina",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet ligger i Øst-Asia og har i mange hundre år vært mye sterkere forbundet med te enn med kaffe.",
+      "sv": "Landet ligger i Östasien och har i många hundra år förknippats mycket starkare med te än med kaffe."
+    },
+    "funFact": {
+      "nb": "Markedet er kjedens nest største etter hjemlandet USA. Fellesforetaket var ett av flere grep i snuoperasjonen: året før hadde kjeden kuttet bort en tredel av menyen og avsluttet ordningen der hvem som helst kunne bruke lokalene uten å kjøpe noe.",
+      "sv": "Marknaden är kedjans näst största efter hemlandet USA. Samriskbolaget var ett av flera grepp i omställningen: året innan hade kedjan skurit bort en tredjedel av menyn och avslutat ordningen där vem som helst kunde använda lokalerna utan att köpa något."
+    },
+    "source": "Wikipedia (engelsk) – «Starbucks», lest 01.09.2026",
+    "topical": {
+      "event": "2026-01",
+      "until": "2027-01-31",
+      "evergreen": false
+    }
+  },
+  {
+    "id": "kaffe-v-a1",
+    "category": "kaffe",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Friele i Bergen og svenske Gevalia tilhører det nederlandske kaffekonsernet JDE Peet's. I januar 2026 la et amerikansk drikkevareselskap fram et rent kontantbud på hele konsernet, med styrets støtte, og varslet samtidig at det selv skulle deles i en kaffedel og en brusdel. Hvilket selskap står bak budet?",
+      "sv": "Friele i Bergen och svenska Gevalia tillhör den nederländska kaffekoncernen JDE Peet's. I januari 2026 lade ett amerikanskt dryckesföretag fram ett rent kontantbud på hela koncernen, med styrelsens stöd, och meddelade samtidigt att det självt skulle delas i en kaffedel och en läskedel. Vilket företag ligger bakom budet?"
+    },
+    "answer": "Keurig Dr Pepper",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er satt sammen av en produsent av kaffekapselmaskiner og et av USAs eldste brusmerker, slått sammen i 2018.",
+      "sv": "Namnet är sammansatt av en tillverkare av kaffekapselmaskiner och ett av USA:s äldsta läskmärken, sammanslagna 2018."
+    },
+    "funFact": {
+      "nb": "Oppkjøpet ble kunngjort 25. august 2025 og verdsatte JDE Peet's til 15,7 milliarder euro. Kjøperen varslet samtidig at konsernet skal splittes i to børsnoterte selskaper – «Global Coffee Co» og «Beverage Co» – innen utgangen av 2026.",
+      "sv": "Uppköpet tillkännagavs den 25 augusti 2025 och värderade JDE Peet's till 15,7 miljarder euro. Köparen meddelade samtidigt att koncernen ska delas i två börsnoterade bolag – «Global Coffee Co» och «Beverage Co» – före utgången av 2026."
+    },
+    "source": "Wikipedia (engelsk) – «Keurig Dr Pepper» og «JDE Peet's», lest 01.09.2026",
+    "topical": {
+      "event": "2026-01",
+      "until": "2027-01-31",
+      "evergreen": false
+    }
+  }
+]

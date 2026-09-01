@@ -1,5 +1,5 @@
 /* ============================================================================
-   LinnieQuiz – grunnstiler og komponenter
+   LinnQuiz – grunnstiler og komponenter
    ========================================================================= */
 
 *,
@@ -233,6 +233,8 @@ a {
 
 .nav {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
   gap: var(--sp-1);
   margin-left: auto;
 }

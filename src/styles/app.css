@@ -1,5 +1,5 @@
 /* ============================================================================
-   LinnieQuiz – skjerm- og komponentspesifikke stiler
+   LinnQuiz – skjerm- og komponentspesifikke stiler
    ========================================================================= */
 
 /* ------------------------------------------------------- kategori-galleri */
@@ -56,6 +56,16 @@
   inset: 0;
   z-index: -1;
   background: linear-gradient(to top, rgba(5, 8, 30, 0.95) 8%, rgba(5, 8, 30, 0.55) 48%, rgba(5, 8, 30, 0.1) 100%);
+}
+
+/* «I dag»-merket på temaer som har et spørsmål for dagens dato. */
+.cat-card__today {
+  position: absolute;
+  top: var(--sp-3);
+  right: var(--sp-3);
+  backdrop-filter: blur(6px);
+  font-size: var(--step--1);
+  padding: 3px 9px;
 }
 
 .cat-card__name {
@@ -626,4 +636,179 @@ select.input option {
 .stack > .pill,
 .setup__row > .pill {
   justify-self: start;
+}
+
+/* --------------------------------------------------- tilbakemeldinger */
+
+.q-feedback {
+  border-top: 1px dashed var(--border);
+  padding-top: var(--sp-3);
+  margin-top: var(--sp-1);
+}
+
+.q-feedback__row {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  flex-wrap: wrap;
+}
+
+.q-feedback__label {
+  font-size: var(--step--1);
+  color: var(--text-muted);
+}
+
+.q-feedback__note {
+  font-size: var(--step--1);
+}
+
+/* Tommelen skal ikke rope like høyt som rett/galt – dette er en bimerknad. */
+.btn--thumb-up,
+.btn--thumb-down {
+  line-height: 1;
+  padding: 5px 10px;
+  filter: grayscale(0.65);
+  opacity: 0.75;
+}
+
+.btn--thumb-up:hover:not(:disabled),
+.btn--thumb-down:hover:not(:disabled) {
+  filter: none;
+  opacity: 1;
+}
+
+.btn--thumb-up[aria-pressed='true'] {
+  filter: none;
+  opacity: 1;
+  background: var(--ok-bg);
+  border-color: rgba(47, 216, 155, 0.5);
+}
+
+.btn--thumb-down[aria-pressed='true'] {
+  filter: none;
+  opacity: 1;
+  background: var(--bad-bg);
+  border-color: rgba(255, 138, 61, 0.5);
+}
+
+.q-feedback__panel {
+  margin-top: var(--sp-3);
+  padding: var(--sp-3);
+  border: 1px solid var(--border);
+  border-radius: var(--r-md);
+  background: rgba(0, 0, 0, 0.2);
+  display: grid;
+  gap: var(--sp-3);
+}
+
+.q-feedback__reasons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-2);
+}
+
+.q-feedback__comment {
+  display: grid;
+  gap: var(--sp-2);
+}
+
+.q-feedback__comment textarea {
+  resize: vertical;
+  min-height: 56px;
+  font-family: inherit;
+}
+
+.chip {
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  color: var(--text-muted);
+  border-radius: var(--r-pill);
+  padding: 5px 11px;
+  font-size: var(--step--1);
+  font-weight: 600;
+  transition: color var(--dur) var(--ease), background var(--dur) var(--ease), border-color var(--dur) var(--ease);
+}
+
+.chip:hover {
+  color: var(--white);
+  border-color: var(--border-strong);
+}
+
+.chip[aria-pressed='true'] {
+  background: rgba(255, 45, 142, 0.16);
+  border-color: var(--border-pink);
+  color: var(--pink-300);
+}
+
+.linklike {
+  border: 0;
+  background: none;
+  padding: 0;
+  font: inherit;
+  color: var(--pink-300);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* ----------------------------------------------- tilbakemeldingsoversikt */
+
+.fb-row {
+  border: 1px solid var(--border);
+  border-radius: var(--r-md);
+  background: var(--bg-elevated);
+  padding: var(--sp-4);
+  display: grid;
+  gap: var(--sp-3);
+}
+
+.fb-row--bad {
+  border-color: rgba(255, 138, 61, 0.45);
+}
+
+.fb-row--good {
+  border-color: rgba(47, 216, 155, 0.35);
+}
+
+.fb-row__head {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--sp-3);
+  justify-content: space-between;
+}
+
+.fb-row__prompt {
+  margin: 0;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.fb-row__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-2);
+  align-items: center;
+}
+
+.fb-tally {
+  display: flex;
+  gap: var(--sp-3);
+  align-items: center;
+  white-space: nowrap;
+  font-weight: 700;
+}
+
+.fb-tally__up {
+  color: var(--ok-500);
+}
+
+.fb-tally__down {
+  color: var(--bad-500);
+}
+
+.fb-comment {
+  border-left: 2px solid var(--border-strong);
+  padding-left: var(--sp-3);
+  margin: 0;
+  font-size: var(--step--1);
+  color: var(--text-muted);
 }

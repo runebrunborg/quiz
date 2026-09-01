@@ -305,7 +305,17 @@
       "nb": "«La Vie» fra 1903 regnes som hovedverket fra perioden. Røntgenundersøkelser har vist at han malte det oppå et tidligere lerret – han hadde ikke råd til nye.",
       "sv": "«La Vie» från 1903 räknas som periodens huvudverk. Röntgenundersökningar har visat att han målade det ovanpå en tidigare duk – han hade inte råd med nya."
     },
-    "source": "Museu Picasso, Barcelona; Cleveland Museum of Art – «La Vie»"
+    "source": "Museu Picasso, Barcelona; Cleveland Museum of Art – «La Vie»; dato: Wikipedia (engelsk) – «Pablo Picasso», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "10-25",
+        "year": 1881,
+        "prompt": {
+          "nb": "På denne dagen i 1881 ble det født en gutt i Málaga i Andalusia. Mellom 1901 og 1904 malte han nesten bare i kjølige blågrønne toner, med tiggere, blinde og utstøtte som motiv, før en varmere «rosa periode» tok over. Hvem står bak det kunsthistorien kaller den blå perioden?",
+          "sv": "På denna dag 1881 föddes en pojke i Málaga i Andalusien. Mellan 1901 och 1904 målade han nästan bara i svala blågröna toner, med tiggare, blinda och utstötta som motiv, innan en varmare «rosa period» tog över. Vem står bakom det konsthistorien kallar den blå perioden?"
+        }
+      }
+    ]
   },
   {
     "id": "blaa-m-02",
@@ -361,7 +371,17 @@
       "nb": "Stadshuset sto ferdig i 1923, og nobelbanketten har vært holdt her siden 1930. Trappen ned i salen er beryktet blant gjestene som skal ned den i lange kjoler.",
       "sv": "Stadshuset stod färdigt 1923, och nobelbanketten har hållits här sedan 1930. Trappan ned i salen är ökänd bland gäster som ska ta sig ned i långklänning."
     },
-    "source": "Stockholms stadshus; Nobel Prize Outreach – Nobel banquet"
+    "source": "Stockholms stadshus; Nobel Prize Outreach – Nobel banquet; dato: Wikipedia (engelsk) – «Stockholm City Hall», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "06-23",
+        "year": 1923,
+        "prompt": {
+          "nb": "På denne dagen i 1923, på sankthansaften, ble Stockholms stadshus innviet. Arkitekten Ragnar Östberg hadde tenkt å dekke teglveggene i den største salen med blå, glasserte fliser, men ombestemte seg og lot teglet stå rått. Navnet fra den første skissen ble likevel stående. Hva heter salen der nobelbanketten holdes?",
+          "sv": "På denna dag 1923, på midsommarafton, invigdes Stockholms stadshus. Arkitekten Ragnar Östberg hade tänkt klä tegelväggarna i den största salen med blått, glaserat kakel, men ändrade sig och lät teglet stå rått. Namnet från den första skissen blev ändå kvar. Vad heter salen där nobelbanketten hålls?"
+        }
+      }
+    ]
   },
   {
     "id": "blaa-m-04",
@@ -632,7 +652,17 @@
       "nb": "Det berømte klarinettglissandoet i åpningen var opprinnelig skrevet som en skala. Whitemans klarinettist Ross Gorman gjorde det om til et glidende sug på en prøve, og Gershwin ba ham beholde det.",
       "sv": "Det berömda klarinettglissandot i öppningen var ursprungligen skrivet som en skala. Whitemans klarinettist Ross Gorman gjorde om det till ett glidande sug på en repetition, och Gershwin bad honom behålla det."
     },
-    "source": "Library of Congress – Gershwin Collection"
+    "source": "Library of Congress – Gershwin Collection; dato: Wikipedia (engelsk) – «Rhapsody in Blue», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "02-12",
+        "year": 1924,
+        "prompt": {
+          "nb": "På denne dagen i 1924 satte Paul Whiteman opp konserten «An Experiment in Modern Music» i Aeolian Hall i New York. George Gershwin rakk aldri å orkestrere «Rhapsody in Blue» selv, og leverte den som partitur for to klaverer. Whitemans faste arrangør satte den for orkester på rekordtid. Hva het han?",
+          "sv": "På denna dag 1924 satte Paul Whiteman upp konserten «An Experiment in Modern Music» i Aeolian Hall i New York. George Gershwin hann aldrig orkestrera «Rhapsody in Blue» själv, utan lämnade den som partitur för två pianon. Whitemans fasta arrangör satte den för orkester på rekordtid. Vad hette han?"
+        }
+      }
+    ]
   },
   {
     "id": "blaa-v-04",

@@ -240,7 +240,17 @@
       "nb": "Treverket overlevde 333 år på bunnen fordi pælemarken Teredo navalis ikke trives i det brakke vannet utenfor Stockholm. Amatørarkeologen Anders Franzén fant vraket i 1956.",
       "sv": "Träet överlevde 333 år på botten eftersom skeppsmasken Teredo navalis inte trivs i det bräckta vattnet utanför Stockholm. Amatörarkeologen Anders Franzén fann vraket 1956."
     },
-    "source": "Vasamuseet, Statens maritima och transporthistoriska museer"
+    "source": "Vasamuseet, Statens maritima och transporthistoriska museer",
+    "onThisDay": [
+      {
+        "day": "08-10",
+        "year": 1628,
+        "prompt": {
+          "nb": "På denne dagen i 1628 la Gustav II Adolfs nye praktskip ut fra Stockholm på sin første tur. Det bar 64 kanoner, var bygd altfor høyt, og kantret etter drøyt en kilometer. I 1961 ble det hevet, nesten helt bevart. Hva heter skipet?",
+          "sv": "På denna dag 1628 lade Gustav II Adolfs nya praktskepp ut från Stockholm på sin första tur. Det bar 64 kanoner, var byggt alldeles för högt och kantrade efter drygt en kilometer. År 1961 bärgades det, nästan helt bevarat. Vad heter skeppet?"
+        }
+      }
+    ]
   },
   {
     "id": "havet-l-10",
@@ -292,7 +302,17 @@
       "nb": "Nedturen tok nesten fem timer. Først i 2012 kom et nytt bemannet dykk til samme dyp, da filmregissøren James Cameron gikk ned alene.",
       "sv": "Nedfärden tog nästan fem timmar. Först 2012 kom ett nytt bemannat dyk till samma djup, då filmregissören James Cameron gick ner ensam."
     },
-    "source": "U.S. Navy; Woods Hole Oceanographic Institution"
+    "source": "U.S. Navy; Woods Hole Oceanographic Institution",
+    "onThisDay": [
+      {
+        "day": "01-23",
+        "year": 1960,
+        "prompt": {
+          "nb": "På denne dagen i 1960 senket sveitseren Jacques Piccard og amerikaneren Don Walsh seg ned i Challengerdypet i en batyskaf konstruert av Piccards far Auguste. Nærmere elleve kilometer under havflaten ble de i tjue minutter. Ingen mennesker var tilbake på den dybden før 2012. Hva het farkosten?",
+          "sv": "På denna dag 1960 sänkte sig schweizaren Jacques Piccard och amerikanen Don Walsh ner i Challengerdjupet i en batyskaf konstruerad av Piccards far Auguste. Närmare elva kilometer under havsytan stannade de i tjugo minuter. Inga människor var tillbaka på det djupet förrän 2012. Vad hette farkosten?"
+        }
+      }
+    ]
   },
   {
     "id": "havet-m-02",
@@ -320,7 +340,17 @@
       "nb": "Toktet var delvis finansiert av den amerikanske marinen, som først ville ha ham til å undersøke to forliste atomubåter. Vraket ligger fortsatt urørt der det ble funnet.",
       "sv": "Expeditionen var delvis finansierad av den amerikanska flottan, som först ville ha honom att undersöka två förlista atomubåtar. Vraket ligger fortfarande orört där det hittades."
     },
-    "source": "Woods Hole Oceanographic Institution; National Geographic Society"
+    "source": "Woods Hole Oceanographic Institution; National Geographic Society",
+    "onThisDay": [
+      {
+        "day": "09-01",
+        "year": 1985,
+        "prompt": {
+          "nb": "På denne dagen i 1985, litt før klokken ett om natten, dukket det opp en dampkjele på skjermen om bord i forskningsskipet «Knorr». Et fransk-amerikansk lag hadde funnet verdens mest omtalte skipsvrak, rundt 3 800 meter ned i Nord-Atlanteren. Hvilken amerikansk havforsker ledet letingen?",
+          "sv": "På denna dag 1985, strax före klockan ett på natten, dök en ångpanna upp på skärmen ombord på forskningsfartyget «Knorr». Ett fransk-amerikanskt lag hade hittat världens mest omtalade skeppsvrak, omkring 3 800 meter ner i Nordatlanten. Vilken amerikansk havsforskare ledde letandet?"
+        }
+      }
+    ]
   },
   {
     "id": "havet-m-03",

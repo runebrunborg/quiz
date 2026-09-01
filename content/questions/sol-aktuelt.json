@@ -1,0 +1,65 @@
+[
+  {
+    "id": "sol-l-a1",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Onsdag 12. august 2026 gled månens skygge inn over Nord-Atlanteren, og i litt over to minutter ble ettermiddagen mørk som natten. Øystaten som lå midt i skyggebanen, hadde ikke opplevd en total solformørkelse siden 1954, og får ikke den neste før i år 2196. Hvilken øystat?",
+      "sv": "Onsdagen den 12 augusti 2026 gled månens skugga in över Nordatlanten, och i drygt två minuter blev eftermiddagen mörk som natten. Önationen som låg mitt i skuggans bana hade inte upplevt en total solförmörkelse sedan 1954, och får inte nästa förrän år 2196. Vilken önation?"
+    },
+    "answer": "Island",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet ligger mellom Grønland og Norge, og formørkelsen var på sitt største noen mil vest for kysten.",
+      "sv": "Landet ligger mellan Grönland och Norge, och förmörkelsen var som störst några mil väster om kusten."
+    },
+    "funFact": {
+      "nb": "Rundt 15 millioner mennesker bodde innenfor skyggebanen, som gikk fra Nord-Sibir over Grønland og videre mot Iberia. Fra Norge var formørkelsen bare delvis, og i Paris og London var rundt ni av ti av sola dekket.",
+      "sv": "Omkring 15 miljoner människor bodde inom skuggans bana, som gick från norra Sibirien över Grönland och vidare mot Iberiska halvön. Från Sverige var förmörkelsen bara delvis, och i Paris och London var omkring nio av tio av solen täckt."
+    },
+    "source": "Al Jazeera 11.08.2026; en.wikipedia.org – «Solar eclipse of August 12, 2026» (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-08-12",
+      "until": "2027-08-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "sol-m-a1",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Onsdag 12. august 2026, kort før solnedgang, nådde totalitetsbanen fastlands-Europa: en stripe fra atlanterhavskysten i nordvest til Middelhavet lå i mørke i under to minutter. Landet hadde ikke opplevd noe liknende siden 1905, men slipper å vente lenger enn til 2. august 2027 på den neste. Hvilket land?",
+      "sv": "Onsdagen den 12 augusti 2026, strax före solnedgången, nådde totalitetsbanan det europeiska fastlandet: ett band från atlantkusten i nordväst till Medelhavet låg i mörker i knappt två minuter. Landet hade inte upplevt något liknande sedan 1905, men slipper vänta längre än till den 2 augusti 2027 på nästa. Vilket land?"
+    },
+    "answer": {
+      "nb": "Spania",
+      "sv": "Spanien"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedstaden lå så vidt utenfor banen, med over 99 prosent dekning, mens byer som León og Zaragoza fikk full formørkelse.",
+      "sv": "Huvudstaden låg precis utanför banan, med över 99 procents täckning, medan städer som León och Zaragoza fick total förmörkelse."
+    },
+    "funFact": {
+      "nb": "Formørkelsen i 1905 fulgte omtrent samme strekning over landet, 30. august. Til sammen kunne nesten 980 millioner mennesker se minst en delvis formørkelse denne augustdagen i 2026.",
+      "sv": "Förmörkelsen 1905 följde ungefär samma sträckning över landet, den 30 augusti. Sammanlagt kunde nästan 980 miljoner människor se minst en delvis förmörkelse denna augustidag 2026."
+    },
+    "source": "Al Jazeera 11.08.2026; en.wikipedia.org – «Solar eclipse of August 12, 2026» (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-08-12",
+      "until": "2027-08-01",
+      "evergreen": true
+    }
+  }
+]

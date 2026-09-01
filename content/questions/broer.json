@@ -25,7 +25,17 @@
       "nb": "Arkitekten Irving Morrow valgte fargen fordi den utfyller de naturlige omgivelsene og gjør broen lettere å se i tåka – i stedet for den svart-gule stripestilen den amerikanske marinen hadde foreslått.",
       "sv": "Arkitekten Irving Morrow valde färgen eftersom den kompletterar den naturliga omgivningen och gör bron lättare att se i dimman – i stället för den svart-gula randiga stil som amerikanska flottan hade föreslagit."
     },
-    "source": "Golden Gate Bridge Highway and Transportation District; Wikipedia – Golden Gate Bridge"
+    "source": "Golden Gate Bridge Highway and Transportation District; Wikipedia – Golden Gate Bridge",
+    "onThisDay": [
+      {
+        "day": "05-27",
+        "year": 1937,
+        "prompt": {
+          "nb": "På denne dagen i 1937 fikk fotgjengere for første gang gå over en nybygd hengebro ved innseilingen til San Francisco Bay. Bilene slapp til dagen etter, da presidenten erklærte broen åpen. Hvilken bro er dette?",
+          "sv": "På denna dag 1937 fick gångtrafikanter för första gången gå över en nybyggd hängbro vid inloppet till San Francisco Bay. Bilarna släpptes på dagen därpå, då presidenten förklarade bron öppen. Vilken bro är detta?"
+        }
+      }
+    ]
   },
   {
     "id": "broer-l-02",
@@ -50,7 +60,17 @@
       "nb": "Vandrehistorien om at en amerikaner ved et uhell kjøpte London Bridge i tro om at det var Tower Bridge, er senere avvist av både selgeren og kjøperen selv.",
       "sv": "Historien om att en amerikan av misstag köpte London Bridge i tron att det var Tower Bridge har senare dementerats av både säljaren och köparen själv."
     },
-    "source": "Wikipedia – Tower Bridge"
+    "source": "Wikipedia – Tower Bridge",
+    "onThisDay": [
+      {
+        "day": "06-30",
+        "year": 1894,
+        "prompt": {
+          "nb": "På denne dagen i 1894 erklærte prinsen og prinsessen av Wales en ny bro over Themsen åpen, etter åtte års bygging. Midtpartiet kan heves for å slippe skip gjennom, og de to tårnene er forbundet med gangbaner høyt over elva. Hvilken bro er dette?",
+          "sv": "På denna dag 1894 förklarade prinsen och prinsessan av Wales en ny bro över Themsen öppen, efter åtta års byggande. Mittpartiet kan höjas för att släppa igenom fartyg, och de två tornen är förbundna med gångbroar högt över floden. Vilken bro är detta?"
+        }
+      }
+    ]
   },
   {
     "id": "broer-l-03",
@@ -78,7 +98,17 @@
       "nb": "Selve brodelen er en snedkabelbro, mens den siste biten inn til København går i tunnel under vann – slik unngår man å hindre lufttrafikken til Kastrup lufthavn.",
       "sv": "Själva brodelen är en snedkabelbro, medan den sista biten in till Köpenhamn går i tunnel under vattnet – på så sätt undviks att lufttrafiken till Kastrups flygplats störs."
     },
-    "source": "Øresundsbro Konsortiet; Wikipedia – Øresund Bridge"
+    "source": "Øresundsbro Konsortiet; Wikipedia – Øresund Bridge",
+    "onThisDay": [
+      {
+        "day": "07-01",
+        "year": 2000,
+        "prompt": {
+          "nb": "På denne dagen i 2000 sto en 16 kilometer lang forbindelse mellom Danmark og Sverige ferdig: motorvei og jernbane i to plan, en kunstig øy underveis og en senketunnel den siste biten inn mot København. Hvilken forbindelse er dette?",
+          "sv": "På denna dag 2000 stod en 16 kilometer lång förbindelse mellan Danmark och Sverige färdig: motorväg och järnväg i två plan, en konstgjord ö på vägen och en sänktunnel den sista biten in mot Köpenhamn. Vilken förbindelse är detta?"
+        }
+      }
+    ]
   },
   {
     "id": "broer-l-04",
@@ -262,7 +292,17 @@
       "nb": "Under byggingen ble Kobe rammet av et kraftig jordskjelv i januar 1995. Rystelsene flyttet de allerede reiste tårnene så mye at hovedspennet måtte forlenges med en meter.",
       "sv": "Under bygget drabbades Kobe av en kraftig jordbävning i januari 1995. Skalven flyttade de redan resta tornen så mycket att huvudspannet fick förlängas med en meter."
     },
-    "source": "Wikipedia – Akashi Kaikyō Bridge"
+    "source": "Wikipedia – Akashi Kaikyō Bridge",
+    "onThisDay": [
+      {
+        "day": "04-05",
+        "year": 1998,
+        "prompt": {
+          "nb": "På denne dagen i 1998 ble en hengebro mellom Kobe og øya Awaji i Japan åpnet for trafikk av kronprins Naruhito. Hovedspennet på nesten 2000 meter var da verdens lengste. Hvilken bro er dette?",
+          "sv": "På denna dag 1998 öppnades en hängbro mellan Kobe och ön Awaji i Japan för trafik av kronprins Naruhito. Huvudspannet på nästan 2000 meter var då världens längsta. Vilken bro är detta?"
+        }
+      }
+    ]
   },
   {
     "id": "broer-m-01",

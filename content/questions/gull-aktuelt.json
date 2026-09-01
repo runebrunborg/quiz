@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gull-l-a1",
+    "category": "gull",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Under vinterlekene i Milano og Cortina i februar 2026 stilte han til start i seks langrennsøvelser og vant alle seks. Ingen utøver i noen idrett hadde tatt seks gull i ett og samme vinter-OL før ham. Hvilken nordmann?",
+      "sv": "Under vinterspelen i Milano och Cortina i februari 2026 ställde han upp i sex längdåkningstävlingar och vann alla sex. Ingen idrottare i någon gren hade tagit sex guld i ett och samma vinter-OS före honom. Vilken norrman?"
+    },
+    "answer": "Johannes Høsflot Klæbo",
+    "answerKind": "person",
+    "person": {
+      "given": "Johannes",
+      "family": "Høsflot Klæbo"
+    },
+    "hint": {
+      "nb": "Født i Oslo i 1996; etternavnet er dobbelt, og den siste delen begynner på K.",
+      "sv": "Född i Oslo 1996; efternamnet är dubbelt, och den sista delen börjar på K."
+    },
+    "funFact": {
+      "nb": "Gullene kom i sprint klassisk, 10 km fri, 20 km skiathlon, lagsprint, stafett og 50 km klassisk. Norge tok til sammen 18 gull og 41 medaljer i Milano-Cortina, ny rekord for et enkelt vinter-OL.",
+      "sv": "Guldmedaljerna kom i sprint klassiskt, 10 km fritt, 20 km skiathlon, lagsprint, stafett och 50 km klassiskt. Norge tog totalt 18 guld och 41 medaljer i Milano-Cortina, nytt rekord för ett enskilt vinter-OS."
+    },
+    "source": "Store norske leksikon – Johannes Høsflot Klæbo (oppdatert 20.05.2026)",
+    "topical": {
+      "event": "2026-02",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "gull-m-a1",
+    "category": "gull",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sport",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "14. februar 2026 tok Brasil sitt første gull i et vinter-OL – og landets første vintermedalje overhodet. Vinneren av storslalåmen i Bormio er født i Oslo i 2000 og byttet fra det norske til det brasilianske laget etter et brudd med Norges skiforbund. Hvem er han?",
+      "sv": "Den 14 februari 2026 tog Brasilien sitt första guld i ett vinter-OS – och landets första vintermedalj någonsin. Vinnaren av storslalomen i Bormio är född i Oslo år 2000 och bytte från det norska till det brasilianska laget efter en brytning med Norges skidförbund. Vem är han?"
+    },
+    "answer": "Lucas Braathen",
+    "answerKind": "person",
+    "person": {
+      "given": "Lucas",
+      "family": "Braathen"
+    },
+    "hint": {
+      "nb": "Moren er brasiliansk og faren norsk, og etternavnet hans er norsk.",
+      "sv": "Mamman är brasiliansk och pappan norsk, och hans efternamn är norskt."
+    },
+    "funFact": {
+      "nb": "Han la opp som norsk alpinist i oktober 2023 og kom tilbake for Brasil året etter. I Bormio holdt han unna for sveitserne Marco Odermatt og Loïc Meillard. Brasil ble samtidig det første tropiske landet med medalje i et vinter-OL.",
+      "sv": "Han slutade som norsk alpinist i oktober 2023 och kom tillbaka för Brasilien året därpå. I Bormio höll han undan för schweizarna Marco Odermatt och Loïc Meillard. Brasilien blev samtidigt det första tropiska landet med medalj i ett vinter-OS."
+    },
+    "source": "Store norske leksikon – Lucas Braathen (oppdatert 15.02.2026); en.wikipedia.org – Alpine skiing at the 2026 Winter Olympics (hentet 01.09.2026)",
+    "topical": {
+      "event": "2026-02-14",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "gull-v-a1",
+    "category": "gull",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "Siden 1956 har det franske bladet France Football kåret verdens beste fotballspiller, og prisen kalles gullballen på norsk. I Théâtre du Châtelet i Paris 22. september 2025 gikk den for første gang til en fransk angrepsspiller i Paris Saint-Germain. Hvem er han?",
+      "sv": "Sedan 1956 har den franska tidningen France Football utsett världens bästa fotbollsspelare, och trofén är en förgylld boll. I Théâtre du Châtelet i Paris den 22 september 2025 gick priset för första gången till en fransk anfallare i Paris Saint-Germain. Vem är han?"
+    },
+    "answer": "Ousmane Dembélé",
+    "answerKind": "person",
+    "person": {
+      "given": "Ousmane",
+      "family": "Dembélé"
+    },
+    "hint": {
+      "nb": "Han kom til Paris fra Barcelona i 2023, og etternavnet bæres av flere andre franske landslagsspillere.",
+      "sv": "Han kom till Paris från Barcelona 2023, och efternamnet bärs av flera andra franska landslagsspelare."
+    },
+    "funFact": {
+      "nb": "Kvinneprisen gikk samme kveld til Aitana Bonmatí i Barcelona, som vant for tredje år på rad. Herreprisen er delt ut siden 1956, kvinneprisen siden 2018.",
+      "sv": "Dampriset gick samma kväll till Aitana Bonmatí i Barcelona, som vann för tredje året i rad. Herrpriset har delats ut sedan 1956, dampriset sedan 2018."
+    },
+    "source": "Store norske leksikon – Ballon d'Or (oppdatert 03.01.2026)",
+    "topical": {
+      "event": "2025-09-22",
+      "until": "2026-09-22",
+      "evergreen": true
+    }
+  }
+]

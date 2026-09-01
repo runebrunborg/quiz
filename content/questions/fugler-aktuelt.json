@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fugler-l-a1",
+    "category": "fugler",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "dyr",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "BirdLife Norge kåret 30. desember 2025 en art til Årets fugl 2026. Begrunnelsen var at den vesle «huskaillen», som har levd tett på folk i generasjoner, nå er i trøbbel, og at organisasjonen trenger hjelp til å finne ut hvordan den egentlig står i Norge. Hvilken art?",
+      "sv": "BirdLife Norge utsåg den 30 december 2025 en art till Årets fågel 2026. Motiveringen var att den lilla fågeln, som i generationer har levt tätt intill oss människor, nu är i knipa, och att organisationen behöver hjälp att ta reda på hur det egentligen står till med den i Norge. Vilken art?"
+    },
+    "answer": {
+      "nb": "Gråspurv",
+      "sv": "Gråsparv"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er brun og grå, hekker gjerne under takstein og i hulrom i murvegger, og er en av verdens mest utbredte fugler.",
+      "sv": "Den är brun och grå, häckar gärna under takpannor och i hålrum i murar, och är en av världens mest spridda fåglar."
+    },
+    "funFact": {
+      "nb": "BirdLife Norge velger arter det trengs mer kunnskap om, og som folk kan møte i store deler av landet. Årets fugl 2025 var granmeis.",
+      "sv": "BirdLife Norge väljer arter som det behövs mer kunskap om, och som folk kan möta i stora delar av landet. Årets fågel 2025 var talltita."
+    },
+    "source": "BirdLife Norge, 30.12.2025",
+    "topical": {
+      "event": "2025-12-30",
+      "until": "2026-12-31",
+      "evergreen": false
+    }
+  },
+  {
+    "id": "fugler-m-a1",
+    "category": "fugler",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Kåringen av landets fugl fikk oppmerksomhet over hele verden da den amerikanske komikeren John Oliver i 2023 kjørte kampanje for lappedykkeren pūteketeke, som vant. I september 2025 gikk seieren til landets egen falk, kārearea. Hvilket land står bak kåringen?",
+      "sv": "Utnämningen av landets fågel fick uppmärksamhet i hela världen när den amerikanske komikern John Oliver 2023 drev kampanj för doppingen pūteketeke, som vann. I september 2025 gick segern till landets egen falk, kārearea. Vilket land står bakom utnämningen?"
+    },
+    "answer": {
+      "nb": "New Zealand",
+      "sv": "Nya Zeeland"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Både kārearea og pūteketeke er navn på maori, og kåringen arrangeres av naturvernorganisasjonen Forest & Bird.",
+      "sv": "Både kārearea och pūteketeke är namn på maori, och utnämningen arrangeras av naturvårdsorganisationen Forest & Bird."
+    },
+    "funFact": {
+      "nb": "Falken fikk 14 317 førstestemmer, etter at kåringen i 2025 gikk tilbake til vanlig flertallsvalg i stedet for rangerte stemmer.",
+      "sv": "Falken fick 14 317 förstahandsröster, efter att utnämningen 2025 gick tillbaka till vanligt majoritetsval i stället för rangordnade röster."
+    },
+    "source": "Forest & Bird (New Zealand), kunngjort 29.09.2025",
+    "topical": {
+      "event": "2025-09-29",
+      "until": "2026-09-30",
+      "evergreen": false
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ild-l-a1",
+    "category": "ild",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I august 2026 måtte flyplassen i Catania stenge gang på gang fordi askeskyer fra Europas mest aktive vulkan la seg over rullebanen. Verst var det 14. august, da flytrafikken sto stille i mer enn et døgn og hundrevis av reisende ble sittende fast. Hvilken vulkan er det?",
+      "sv": "I augusti 2026 måste flygplatsen i Catania stänga gång på gång eftersom askmoln från Europas mest aktiva vulkan lade sig över landningsbanan. Värst var det den 14 augusti, då flygtrafiken stod stilla i mer än ett dygn och hundratals resenärer blev strandsatta. Vilken vulkan är det?"
+    },
+    "answer": "Etna",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vulkanen ligger på Sicilia og står på UNESCOs verdensarvliste.",
+      "sv": "Vulkanen ligger på Sicilien och står på Unescos världsarvslista."
+    },
+    "funFact": {
+      "nb": "Etna er Europas høyeste aktive vulkan, over 3 300 meter, og har vært nesten sammenhengende i aktivitet i flere tusen år. Flyplassen i Catania er den travleste på Sicilia, og aske fra fjellet stanser trafikken der med jevne mellomrom.",
+      "sv": "Etna är Europas högsta aktiva vulkan, över 3 300 meter, och har varit nästan oavbrutet aktiv i flera tusen år. Flygplatsen i Catania är den mest trafikerade på Sicilien, och aska från berget stoppar trafiken där med jämna mellanrum."
+    },
+    "source": "Al Jazeera 14.08.2026 – «Mount Etna eruption and volcanic ash shut Sicily's busiest airport»",
+    "topical": {
+      "event": "2026-08-14",
+      "until": "2027-08-31",
+      "evergreen": false
+    }
+  },
+  {
+    "id": "ild-m-a1",
+    "category": "ild",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sport",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Da vinterlekene ble åpnet på San Siro i Milano 6. februar 2026, skjedde noe som aldri hadde hendt før i olympisk historie: to ildskåler ble tent samtidig, én i Milano og én i den andre vertsbyen, høyt oppe i Dolomittene. Hvilken by delte vertskapet med Milano?",
+      "sv": "När vinterspelen invigdes på San Siro i Milano den 6 februari 2026 hände något som aldrig hade inträffat tidigare i olympisk historia: två eldskålar tändes samtidigt, en i Milano och en i den andra värdstaden, högt uppe i Dolomiterna. Vilken stad delade värdskapet med Milano?"
+    },
+    "answer": "Cortina d'Ampezzo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen var vertsby for vinter-OL alene i 1956.",
+      "sv": "Staden var värdstad för vinter-OS på egen hand 1956."
+    },
+    "funFact": {
+      "nb": "Cortina d'Ampezzo arrangerte vinterleker også i 1956, 70 år tidligere. Fakkelen som førte ilden fram til lekene i 2026 het «Essential» og var laget av gjenvunnet aluminium og bronse, med brennstoff fra fornybare råstoffer.",
+      "sv": "Cortina d'Ampezzo arrangerade vinterspel även 1956, 70 år tidigare. Facklan som förde elden fram till spelen 2026 hette «Essential» och var gjord av återvunnen aluminium och brons, med bränsle från förnybara råvaror."
+    },
+    "source": "en.wikipedia.org «2026 Winter Olympics» – åpningsseremonien 06.02.2026 (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-02-06",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "ild-v-a1",
+    "category": "ild",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Siden desember 2024 har en vulkan på Hawaii fulgt et påfallende rytmisk mønster: korte episoder der lava sprutes flere hundre meter opp fra kraterbunnen, avløst av ukers stillhet. Episoden i mars 2026 sendte ut så mye aske at det ble varslet askefall på øya. Hvilken vulkan er det?",
+      "sv": "Sedan december 2024 har en vulkan på Hawaii följt ett påfallande rytmiskt mönster: korta episoder där lava sprutar flera hundra meter upp från kraterbottnen, avlösta av veckor av stillhet. Episoden i mars 2026 sände ut så mycket aska att askfall varnades för på ön. Vilken vulkan är det?"
+    },
+    "answer": "Kilauea",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vulkanen ligger i Hawaii Volcanoes nasjonalpark, sør for den mye høyere Mauna Loa.",
+      "sv": "Vulkanen ligger i Hawaii Volcanoes nationalpark, söder om den mycket högre Mauna Loa."
+    },
+    "funFact": {
+      "nb": "Utbruddet som startet i desember 2024 har kommet i mer enn førti avgrensede episoder. Den kraftigste lavafontenen ble målt til rundt 460 meter – høyere enn Eiffeltårnet.",
+      "sv": "Utbrottet som började i december 2024 har kommit i mer än fyrtio avgränsade episoder. Den kraftigaste lavafontänen mättes till omkring 460 meter – högre än Eiffeltornet."
+    },
+    "source": "en.wikipedia.org «Kīlauea» – episode 43, 10.03.2026 (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-03-10",
+      "until": "2027-03-31",
+      "evergreen": true
+    }
+  }
+]

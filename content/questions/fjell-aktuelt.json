@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fjell-l-a1",
+    "category": "fjell",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Da vinterlekene kom til Cortina d'Ampezzo i februar 2026, gikk kvinnenes alpinrenn i et italiensk fjellområde med bleke, loddrette tinder. Fjellene har navn etter bergarten de består av, og har stått på Unescos verdensarvliste siden 2009. Hvilket fjellområde?",
+      "sv": "När vinterspelen kom till Cortina d'Ampezzo i februari 2026 gick damernas alpina tävlingar i ett italienskt bergsområde med bleka, lodräta toppar. Bergen har namn efter den bergart de består av och har stått på Unescos världsarvslista sedan 2009. Vilket bergsområde?"
+    },
+    "answer": {
+      "nb": "Dolomittene",
+      "sv": "Dolomiterna"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bergarten har navn etter en fransk mineralog fra 1700-tallet, og høyeste topp i området er Marmolada på 3343 meter.",
+      "sv": "Bergarten är uppkallad efter en fransk mineralog från 1700-talet, och områdets högsta topp är Marmolada på 3343 meter."
+    },
+    "funFact": {
+      "nb": "Fjellene ligger øst i Alpene og består av dolomitt på et underlag av permisk porfyr. Cortina d'Ampezzo, som kalles områdets dronning, arrangerte vinter-OL også i 1956.",
+      "sv": "Bergen ligger i östra Alperna och består av dolomit på en bädd av permisk porfyr. Cortina d'Ampezzo, som kallas områdets drottning, arrangerade vinter-OS även 1956."
+    },
+    "source": "Store norske leksikon – Dolomittene (oppdatert 03.07.2026); en.wikipedia.org – Alpine skiing at the 2026 Winter Olympics (hentet 01.09.2026)",
+    "topical": {
+      "event": "2026-02-06",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "fjell-m-a1",
+    "category": "fjell",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "geografi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "23. november 2025 sendte et fjell i Afar-regionen en askesky mange kilometer opp i luften, i det første registrerte utbruddet fra dette fjellet i historisk tid. Asken drev over Den arabiske halvøy og forstyrret flytrafikken helt til India. I hvilket land ligger fjellet?",
+      "sv": "Den 23 november 2025 sände ett berg i Afarregionen ett askmoln många kilometer upp i luften, i det första registrerade utbrottet från detta berg i historisk tid. Askan drev över Arabiska halvön och störde flygtrafiken ända till Indien. I vilket land ligger berget?"
+    },
+    "answer": {
+      "nb": "Etiopia",
+      "sv": "Etiopien"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Afar-regionen ligger nordøst i landet, som er Afrikas nest mest folkerike og har hovedstaden sin i Addis Abeba.",
+      "sv": "Afarregionen ligger i nordöstra delen av landet, som är Afrikas näst folkrikaste och har sin huvudstad i Addis Abeba."
+    },
+    "funFact": {
+      "nb": "Fjellet heter Hayli Gubbi og er det sørligste i vulkankjeden Erta Ale, i Afar-senkningen der tre jordskorpeplater trekker fra hverandre. Geologiske spor tyder på at forrige utbrudd ligger flere tusen år tilbake.",
+      "sv": "Berget heter Hayli Gubbi och är det sydligaste i vulkankedjan Erta Ale, i Afarsänkan där tre jordskorpeplattor dras från varandra. Geologiska spår tyder på att det förra utbrottet ligger flera tusen år tillbaka."
+    },
+    "source": "en.wikipedia.org – Hayli Gubbi (hentet 01.09.2026)",
+    "topical": {
+      "event": "2025-11-23",
+      "until": "2026-11-30",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "fjell-v-a1",
+    "category": "fjell",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sport",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Utfor for menn under vinterlekene i februar 2026 gikk ikke i Cortina, men i Bormio i Lombardia, i en løype som deler navn med et høyt alpepass noen mil unna. Hva heter løypa, som har rykte som en av verdenscupens tøffeste?",
+      "sv": "Herrarnas störtlopp under vinterspelen i februari 2026 gick inte i Cortina, utan i Bormio i Lombardiet, i en bana som delar namn med ett högt alppass några mil bort. Vad heter banan, som har rykte som en av världscupens tuffaste?"
+    },
+    "answer": "Stelvio",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Passet med samme navn ligger over 2700 meter over havet og er en av Alpenes mest kjente sykkelstigninger.",
+      "sv": "Passet med samma namn ligger över 2700 meter över havet och är en av Alpernas mest kända cykelstigningar."
+    },
+    "funFact": {
+      "nb": "Kvinnenes alpinrenn gikk i Cortina, i løypa Olimpia delle Tofane. Randoné, som var ny olympisk gren i 2026, ble også avgjort i Bormio.",
+      "sv": "Damernas alpina tävlingar gick i Cortina, i banan Olimpia delle Tofane. Skidalpinism, som var ny olympisk gren 2026, avgjordes också i Bormio."
+    },
+    "source": "en.wikipedia.org – Alpine skiing at the 2026 Winter Olympics (hentet 01.09.2026)",
+    "topical": {
+      "event": "2026-02",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  }
+]

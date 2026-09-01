@@ -92,7 +92,17 @@
       "nb": "Tre år tidligere hadde broren Emil og fire andre omkommet i en eksplosjon ved familiens fabrikk i Heleneborg i Stockholm, noe som fikk ham til å søke etter en tryggere løsning. Formuen hans finansierer i dag Nobelprisene.",
       "sv": "Tre år tidigare hade brodern Emil och fyra andra omkommit i en explosion vid familjens fabrik i Heleneborg i Stockholm, vilket fick honom att söka efter en säkrare lösning. Hans förmögenhet finansierar i dag Nobelpriset."
     },
-    "source": "Nobelprize.org – Alfred Nobel; Encyclopaedia Britannica – dynamite"
+    "source": "Nobelprize.org – Alfred Nobel; Encyclopaedia Britannica – dynamite",
+    "onThisDay": [
+      {
+        "day": "10-21",
+        "year": 1833,
+        "prompt": {
+          "nb": "På denne dagen i 1833 ble det født en gutt i Stockholm som skulle bli kjemiker og industrimann. Den viktigste oppfinnelsen hans kom i 1867: en måte å gjøre den ustabile sprengoljen nitroglyserin trygg å transportere, ved å blande den inn i absorberende leire. Hvem var han?",
+          "sv": "På denna dag 1833 föddes en pojke i Stockholm som skulle bli kemist och industriman. Hans viktigaste uppfinning kom 1867: ett sätt att göra den instabila sprängoljan nitroglycerin säker att transportera, genom att blanda in den i absorberande lera. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "ild-l-15",

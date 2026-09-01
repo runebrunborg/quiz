@@ -4,7 +4,10 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["tv", "popkultur"],
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Peter Morgan skapte denne Netflix-serien, som hadde premiere i november 2016 og gikk i seks sesonger. Tre ulike skuespillere spilte dronning Elizabeth II etter hvert som tiårene gikk, fra slutten av 1940-tallet og framover. Hva heter serien?",
       "sv": "Peter Morgan skapade den här Netflix-serien, som hade premiär i november 2016 och gick i sex säsonger. Tre olika skådespelare spelade drottning Elizabeth II allt eftersom decennierna gick, från slutet av 1940-talet och framåt. Vad heter serien?"
@@ -26,7 +29,10 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["arkitektur", "kongehus"],
+    "topics": [
+      "arkitektur",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Huset ble reist for en hertug i 1703 og rommer i dag 775 rom. Victoria var den første monarken som flyttet inn, i 1837, og balkongen ut mot The Mall er blitt selve stedet for kongelige vinkerunder. Hva heter palasset?",
       "sv": "Huset uppfördes åt en hertig 1703 och rymmer i dag 775 rum. Victoria var den första monarken som flyttade in, 1837, och balkongen ut mot The Mall har blivit själva platsen för kungliga vinkanden. Vad heter palatset?"
@@ -48,12 +54,18 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["historie", "politikk"],
+    "topics": [
+      "historie",
+      "politikk"
+    ],
     "prompt": {
       "nb": "Han var dansk prins og het Carl, men tok et gammelt norsk kongenavn da Stortinget valgte ham 18. november 1905. Året etter ble han kronet i Nidarosdomen, og han satt på tronen i 52 år, gjennom både okkupasjon og gjenoppbygging. Hvilken konge?",
       "sv": "Han var dansk prins och hette Carl, men tog ett gammalt norskt kunganamn när Stortinget valde honom den 18 november 1905. Året därpå kröntes han i Nidarosdomen, och han satt på tronen i 52 år, genom både ockupation och återuppbyggnad. Vilken kung?"
     },
-    "answer": { "nb": "Haakon 7", "sv": "Haakon VII" },
+    "answer": {
+      "nb": "Haakon 7",
+      "sv": "Haakon VII"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Navnet hadde ikke vært brukt av en norsk konge siden middelalderen, og oldebarnet hans bærer det i dag.",
@@ -63,21 +75,37 @@
       "nb": "Folkeavstemningen i november 1905 ga nesten 80 prosent støtte til monarkiet. Under andre verdenskrig ledet han motstanden mot okkupasjonen fra London, og han døde i 1957, 85 år gammel.",
       "sv": "Folkomröstningen i november 1905 gav nästan 80 procent stöd åt monarkin. Under andra världskriget ledde han motståndet mot ockupationen från London, och han dog 1957, 85 år gammal."
     },
-    "source": "Store norske leksikon – Haakon 7; Kongehuset.no"
+    "source": "Store norske leksikon – Haakon 7; Kongehuset.no",
+    "onThisDay": [
+      {
+        "day": "11-18",
+        "year": 1905,
+        "prompt": {
+          "nb": "På denne dagen i 1905 valgte Stortinget en dansk prins som het Carl til norsk konge. Han la bort dåpsnavnet, tok et kongenavn ingen norsk konge hadde brukt siden middelalderen, ble kronet i Nidarosdomen året etter og satt på tronen i 52 år. Hvilken konge?",
+          "sv": "På denna dag 1905 valde Stortinget en dansk prins som hette Carl till norsk kung. Han lade bort dopnamnet, tog ett kunganamn ingen norsk kung hade använt sedan medeltiden, kröntes i Nidarosdomen året därpå och satt på tronen i 52 år. Vilken kung?"
+        }
+      }
+    ]
   },
   {
     "id": "kongelige-l-04",
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["historie", "religion"],
+    "topics": [
+      "historie",
+      "religion"
+    ],
     "prompt": {
       "nb": "Den 6. juni 1523 valgte riksmøtet i Strängnäs ham til svensk konge, og han førte Sverige ut av Kalmarunionen. Han gjennomførte reformasjonen, la kirkegodset under kronen og fikk riket gjort arvelig i 1544. Hvilken konge?",
       "sv": "Den 6 juni 1523 valde riksmötet i Strängnäs honom till svensk kung, och han förde Sverige ut ur Kalmarunionen. Han genomförde reformationen, lade kyrkogodset under kronan och fick riket gjort ärftligt 1544. Vilken kung?"
     },
     "answer": "Gustav Vasa",
     "answerKind": "person",
-    "person": { "given": "Gustav", "family": "Vasa" },
+    "person": {
+      "given": "Gustav",
+      "family": "Vasa"
+    },
     "hint": {
       "nb": "Datoen for kongevalget er i dag Sveriges nasjonaldag, og ætten hans styrte riket i drøyt 130 år.",
       "sv": "Datumet för kungavalet är i dag Sveriges nationaldag, och hans ätt styrde riket i drygt 130 år."
@@ -93,12 +121,18 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["arkitektur", "historie"],
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
     "prompt": {
       "nb": "Han kalte seg Solkongen, flyttet hoffet ut av Paris til et jaktslott han bygde om til Europas mest kopierte praktanlegg, og satt på tronen i 72 år – lengst av alle kjente monarker. Hvilken fransk konge?",
       "sv": "Han kallade sig Solkungen, flyttade hovet ut ur Paris till ett jaktslott som han byggde om till Europas mest kopierade praktanläggning, och satt på tronen i 72 år – längst av alla kända monarker. Vilken fransk kung?"
     },
-    "answer": { "nb": "Ludvig 14", "sv": "Ludvig XIV" },
+    "answer": {
+      "nb": "Ludvig 14",
+      "sv": "Ludvig XIV"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Slottet han bygde ut ligger i Versailles, og han arvet tronen etter faren allerede som fireåring.",
@@ -115,14 +149,20 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["film", "kongehus"],
+    "topics": [
+      "film",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Hun vant Oscar for beste kvinnelige hovedrolle i 1955 og spilte i tre Hitchcock-filmer, blant dem «Vindu mot bakgården». Året etter la hun karrieren på hylla, 26 år gammel, og giftet seg med fyrst Rainier 3 av Monaco. Hva het hun?",
       "sv": "Hon vann Oscar för bästa kvinnliga huvudroll 1955 och spelade i tre Hitchcock-filmer, bland dem «Fönstret åt gården». Året därpå lade hon karriären på hyllan, 26 år gammal, och gifte sig med furst Rainier III av Monaco. Vad hette hon?"
     },
     "answer": "Grace Kelly",
     "answerKind": "person",
-    "person": { "given": "Grace", "family": "Kelly" },
+    "person": {
+      "given": "Grace",
+      "family": "Kelly"
+    },
     "hint": {
       "nb": "Hun kom fra Philadelphia, og en berømt håndveske fra Hermès bærer navnet hennes.",
       "sv": "Hon kom från Philadelphia, och en berömd handväska från Hermès bär hennes namn."
@@ -138,7 +178,10 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["geografi", "kongehus"],
+    "topics": [
+      "geografi",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "De norske riksregaliene ble anskaffet i 1818 for Karl Johans egen regning. Siden 2006 har kongekrone, sverd og kroningskapper vært utstilt i Erkebispegården, like ved domkirken der Haakon 7 og dronning Maud ble kronet i 1906. I hvilken by?",
       "sv": "De norska riksregalierna anskaffades 1818 för Karl Johans egen räkning. Sedan 2006 har kungakrona, svärd och kröningsmantlar visats i Erkebispegården, alldeles intill domkyrkan där Haakon VII och drottning Maud kröntes 1906. I vilken stad?"
@@ -160,7 +203,10 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["sport", "historie"],
+    "topics": [
+      "sport",
+      "historie"
+    ],
     "prompt": {
       "nb": "Skirennet går 90 kilometer fra Sälen til Mora i Dalarna og ble arrangert for første gang i 1922. Det minnes en flukt på ski vinteren 1520–21, da karer fra Mora hentet tilbake mannen som skulle bli konge. Hva heter rennet?",
       "sv": "Skidloppet går 90 kilometer från Sälen till Mora i Dalarna och arrangerades för första gången 1922. Det minns en flykt på skidor vintern 1520–21, då karlar från Mora hämtade tillbaka mannen som skulle bli kung. Vad heter loppet?"
@@ -182,12 +228,18 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["kongehus", "politikk"],
+    "topics": [
+      "kongehus",
+      "politikk"
+    ],
     "prompt": {
       "nb": "Han ble britisk konge i januar 1936, men abdiserte allerede 10. desember samme år for å kunne gifte seg med amerikanske Wallis Simpson. Etterpå fikk han tittelen hertug av Windsor, og lillebroren måtte overta tronen. Hvilken konge?",
       "sv": "Han blev brittisk kung i januari 1936 men abdikerade redan den 10 december samma år för att kunna gifta sig med amerikanska Wallis Simpson. Därefter fick han titeln hertig av Windsor, och lillebrodern fick överta tronen. Vilken kung?"
     },
-    "answer": { "nb": "Edvard 8", "sv": "Edvard VIII" },
+    "answer": {
+      "nb": "Edvard 8",
+      "sv": "Edvard VIII"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Han rakk bare 326 dager på tronen, og niesen hans ble senere dronning.",
@@ -204,7 +256,10 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["arkitektur", "kunst"],
+    "topics": [
+      "arkitektur",
+      "kunst"
+    ],
     "prompt": {
       "nb": "Her har de britiske kronjuvelene vært vist fram for publikum siden 1669, bevoktet av vaktene som kalles beefeaters. Anlegget ble påbegynt av Vilhelm Erobreren og har vært både festning, fengsel og myntverk. Hva heter det?",
       "sv": "Här har de brittiska kronjuvelerna visats för allmänheten sedan 1669, bevakade av vakterna som kallas beefeaters. Anläggningen påbörjades av Vilhelm Erövraren och har varit både fästning, fängelse och myntverk. Vad heter den?"
@@ -226,14 +281,20 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["tv", "film"],
+    "topics": [
+      "tv",
+      "film"
+    ],
     "prompt": {
       "nb": "Han skrev filmen «The Queen» fra 2006 og teaterstykket «The Audience» fra 2013, begge om Elizabeth II, og senere en Netflix-serie i seks sesonger om det samme kongehuset. Han står også bak «Frost/Nixon». Hvilken britisk manusforfatter?",
       "sv": "Han skrev filmen «The Queen» från 2006 och pjäsen «The Audience» från 2013, båda om Elizabeth II, och senare en Netflix-serie i sex säsonger om samma kungahus. Han ligger också bakom «Frost/Nixon». Vilken brittisk manusförfattare?"
     },
     "answer": "Peter Morgan",
     "answerKind": "person",
-    "person": { "given": "Peter", "family": "Morgan" },
+    "person": {
+      "given": "Peter",
+      "family": "Morgan"
+    },
     "hint": {
       "nb": "Helen Mirren spilte dronningen både i filmen hans fra 2006 og i teaterstykket sju år senere.",
       "sv": "Helen Mirren spelade drottningen både i hans film från 2006 och i pjäsen sju år senare."
@@ -249,7 +310,9 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["litteratur"],
+    "topics": [
+      "litteratur"
+    ],
     "prompt": {
       "nb": "I en av Shakespeares tragedier deler en aldrende konge riket mellom døtrene sine etter hvem som smigrer ham mest. De to eldste, Goneril og Regan, overgår hverandre i lovord, mens den yngste svarer nøkternt at hun elsker ham slik plikten tilsier – og blir gjort arveløs. Hva heter hun?",
       "sv": "I en av Shakespeares tragedier delar en åldrande kung riket mellan sina döttrar efter vem som smickrar honom mest. De två äldsta, Goneril och Regan, överträffar varandra i lovord, medan den yngsta nyktert svarar att hon älskar honom som plikten bjuder – och görs arvlös. Vad heter hon?"
@@ -271,7 +334,10 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["politikk", "kongehus"],
+    "topics": [
+      "politikk",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Da Haakon 7 ble valgt til norsk konge i 1905, tok han et valgspråk på tre ord. Olav 5 kunngjorde i statsråd i september 1957 at han gjorde det til sitt, og Harald 5 gjorde det samme ved tronskiftet i januar 1991. Hvordan lyder det?",
       "sv": "När Haakon VII valdes till norsk kung 1905 tog han ett valspråk på tre ord. Olav V tillkännagav i statsråd i september 1957 att han gjorde det till sitt, och Harald V gjorde detsamma vid tronskiftet i januari 1991. Hur lyder det?"
@@ -293,7 +359,10 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["historie", "kongehus"],
+    "topics": [
+      "historie",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Han var fransk marskalk under Napoleon og sønn av en jurist fra Pau, men ble i 1810 valgt til svensk tronfølger. Fra 1818 var han konge av både Sverige og Norge, og etterkommerne hans sitter på den svenske tronen ennå. Hvilket kongehus?",
       "sv": "Han var fransk marskalk under Napoleon och son till en jurist från Pau, men valdes 1810 till svensk tronföljare. Från 1818 var han kung av både Sverige och Norge, och hans ättlingar sitter på den svenska tronen än i dag. Vilket kungahus?"
@@ -315,7 +384,10 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["historie", "politikk"],
+    "topics": [
+      "historie",
+      "politikk"
+    ],
     "prompt": {
       "nb": "Mikhail Fjodorovitsj ble valgt til tsar i 1613, etter en lang periode med tronstrid og uro. Slekten hans styrte Russland i drøyt 300 år, helt til Nikolaj 2 abdiserte under revolusjonen i 1917. Hva heter dynastiet?",
       "sv": "Michail Fjodorovitj valdes till tsar 1613, efter en lång period av tronstrider och oro. Hans släkt styrde Ryssland i drygt 300 år, ända tills Nikolaj II abdikerade under revolutionen 1917. Vad heter dynastin?"
@@ -337,7 +409,10 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["fotball", "sport"],
+    "topics": [
+      "fotball",
+      "sport"
+    ],
     "prompt": {
       "nb": "Klubben fra den spanske hovedstaden ble stiftet i 1902. I 1920 ga kong Alfonso 13 den rett til å kalle seg kongelig, og en krone ble lagt inn i klubbmerket. Den vant også de fem første europacupene for mesterlag, fra 1956 til 1960. Hvilken klubb?",
       "sv": "Klubben från den spanska huvudstaden bildades 1902. År 1920 gav kung Alfonso XIII den rätt att kalla sig kunglig, och en krona lades in i klubbmärket. Den vann också de fem första Europacuperna för mästarlag, från 1956 till 1960. Vilken klubb?"
@@ -359,12 +434,18 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["militaerhistorie", "religion"],
+    "topics": [
+      "militaerhistorie",
+      "religion"
+    ],
     "prompt": {
       "nb": "Han ble svensk konge i 1611, reformerte hæren grundig og gikk inn i trettiårskrigen på protestantisk side. Ved Lützen 6. november 1632 falt han mens han ledet et motangrep. Samtiden kalte ham «Løven fra Norden». Hvilken konge?",
       "sv": "Han blev svensk kung 1611, reformerade hären grundligt och gick in i trettioåriga kriget på protestantisk sida. Vid Lützen den 6 november 1632 stupade han medan han ledde ett motanfall. Samtiden kallade honom «Lejonet från Norden». Vilken kung?"
     },
-    "answer": { "nb": "Gustav 2 Adolf", "sv": "Gustav II Adolf" },
+    "answer": {
+      "nb": "Gustav 2 Adolf",
+      "sv": "Gustav II Adolf"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Dødsdagen hans markeres fortsatt i Sverige 6. november, med et eget bakverk.",
@@ -381,12 +462,18 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["politikk", "kunst"],
+    "topics": [
+      "politikk",
+      "kunst"
+    ],
     "prompt": {
       "nb": "Hun ble dronning i januar 1972 og abdiserte 14. januar 2024, på dagen 52 år senere, til fordel for sønnen Frederik 10. Ved siden av embetet har hun illustrert bøker, laget kirketekstiler og designet kostymer til film og ballett. Hvilken dronning?",
       "sv": "Hon blev drottning i januari 1972 och abdikerade den 14 januari 2024, på dagen 52 år senare, till förmån för sonen Frederik X. Vid sidan av ämbetet har hon illustrerat böcker, gjort kyrkotextilier och formgett kostymer till film och balett. Vilken drottning?"
     },
-    "answer": { "nb": "Margrethe 2", "sv": "Margrethe II" },
+    "answer": {
+      "nb": "Margrethe 2",
+      "sv": "Margrethe II"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Hun er dansk, og faren het Frederik 9.",
@@ -403,7 +490,10 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["natur", "geografi"],
+    "topics": [
+      "natur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Vest for Isterdalen i Rauma, rett ved Trollstigen, reiser tre bratte topper seg med hvert sitt verdige navn: Bispen på 1462 meter, Dronninga på 1544 meter og en tredje som er den høyeste, 1614 meter. Hva heter den høyeste?",
       "sv": "Väster om Isterdalen i Rauma, alldeles vid Trollstigen, reser sig tre branta toppar med var sitt värdiga namn: Bispen på 1462 meter, Dronninga på 1544 meter och en tredje som är den högsta, 1614 meter. Vad heter den högsta?"
@@ -425,12 +515,18 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["politikk", "militaerhistorie"],
+    "topics": [
+      "politikk",
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "Ordenen ble stiftet av Edvard 3 rundt 1348 og er Storbritannias fornemste ridderorden. Den har høyst 24 riddere om gangen ved siden av kongefamilien, holder til i St. George's Chapel på Windsor og bærer valgspråket «Honi soit qui mal y pense». Hva heter den?",
       "sv": "Orden stiftades av Edvard III omkring 1348 och är Storbritanniens förnämsta riddarorden. Den har högst 24 riddare åt gången vid sidan av kungafamiljen, håller till i St George's Chapel i Windsor och bär valspråket «Honi soit qui mal y pense». Vad heter den?"
     },
-    "answer": { "nb": "Strømpebåndsordenen", "sv": "Strumpebandsorden" },
+    "answer": {
+      "nb": "Strømpebåndsordenen",
+      "sv": "Strumpebandsorden"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Navnet kommer av det plagget medlemmene bærer under venstre kne.",
@@ -447,12 +543,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["militaerhistorie", "religion"],
+    "topics": [
+      "militaerhistorie",
+      "religion"
+    ],
     "prompt": {
       "nb": "Etter to borgerkriger mot parlamentet ble han stilt for en domstol han nektet å anerkjenne, og halshugd utenfor Banqueting House i Whitehall 30. januar 1649. England var deretter republikk i elleve år. Hvilken konge?",
       "sv": "Efter två inbördeskrig mot parlamentet ställdes han inför en domstol som han vägrade erkänna, och halshöggs utanför Banqueting House i Whitehall den 30 januari 1649. England var därefter republik i elva år. Vilken kung?"
     },
-    "answer": { "nb": "Karl 1", "sv": "Karl I" },
+    "answer": {
+      "nb": "Karl 1",
+      "sv": "Karl I"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Han var sønn av Jakob 1 og dansk-norske Anna, og hovedmotstanderen hans het Oliver Cromwell.",
@@ -469,12 +571,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["militaerhistorie", "geografi"],
+    "topics": [
+      "militaerhistorie",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Han ble svensk konge i 1697 og førte den store nordiske krigen fra 1700, med felttog i Polen og Russland og flere år i eksil i Det osmanske riket. I 1718 falt han for en kule ved Fredriksten festning i Halden. Hvilken konge?",
       "sv": "Han blev svensk kung 1697 och förde det stora nordiska kriget från 1700, med fälttåg i Polen och Ryssland och flera år i exil i Osmanska riket. År 1718 stupade han för en kula vid Fredrikstens fästning i Halden. Vilken kung?"
     },
-    "answer": { "nb": "Karl 12", "sv": "Karl XII" },
+    "answer": {
+      "nb": "Karl 12",
+      "sv": "Karl XII"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Han var 36 år da han døde, og dødsdagen markeres fortsatt i Sverige 30. november.",
@@ -491,7 +599,10 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["arkitektur", "kunst"],
+    "topics": [
+      "arkitektur",
+      "kunst"
+    ],
     "prompt": {
       "nb": "Oscar 1 lot dansken Johan Henrik Nebelong reise dette lystslottet på Bygdøy mellom 1847 og 1852, i engelskinspirert nygotikk med tårn og loggia. Det regnes som et hovedverk i norsk nasjonalromantikk. Hva heter det?",
       "sv": "Oscar I lät dansken Johan Henrik Nebelong uppföra detta lustslott på Bygdøy mellan 1847 och 1852, i engelskinspirerad nygotik med torn och loggia. Det räknas som ett huvudverk i norsk nationalromantik. Vad heter det?"
@@ -513,7 +624,10 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["arkitektur", "religion"],
+    "topics": [
+      "arkitektur",
+      "religion"
+    ],
     "prompt": {
       "nb": "Filip 2 lot bygge dette svære anlegget nordvest for Madrid mellom 1563 og 1584 – kloster, kirke, bibliotek og kongebolig i ett, med et gravkammer der de fleste spanske monarker gjennom fem hundre år er stedt til hvile. Hva heter det?",
       "sv": "Filip II lät bygga denna väldiga anläggning nordväst om Madrid mellan 1563 och 1584 – kloster, kyrka, bibliotek och kungabostad i ett, med en gravkammare där de flesta spanska monarker under fem hundra år är gravsatta. Vad heter den?"
@@ -535,12 +649,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["design", "dyr"],
+    "topics": [
+      "design",
+      "dyr"
+    ],
     "prompt": {
       "nb": "Danmarks fornemste orden fikk sin nåværende form under Christian 5 i 1693. Ordenstegnet er et hvitemaljert dyr i gull med et lite rosa tårn på ryggen og en fører foran tårnet. Siden 1849 tildeles den nesten bare statsoverhoder og kongelige. Hva heter ordenen?",
       "sv": "Danmarks förnämsta orden fick sin nuvarande form under Christian V 1693. Ordenstecknet är ett vitemaljerat djur i guld med ett litet rosa torn på ryggen och en förare framför tornet. Sedan 1849 tilldelas den nästan bara statschefer och kungligheter. Vad heter orden?"
     },
-    "answer": { "nb": "Elefantordenen", "sv": "Elefantorden" },
+    "answer": {
+      "nb": "Elefantordenen",
+      "sv": "Elefantorden"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Dyret bærer et tårn på ryggen, slik krigselefanter ble avbildet i middelalderen.",
@@ -557,12 +677,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["religion", "kunst"],
+    "topics": [
+      "religion",
+      "kunst"
+    ],
     "prompt": {
       "nb": "Hun ble svensk regent som femåring i 1632, ble oppdratt nærmest som en prins og fylte hoffet med lærde og kunstnere. I 1654 abdiserte hun til fordel for fetteren, konverterte til katolisismen og slo seg ned i Roma. Hva het hun?",
       "sv": "Hon blev svensk regent som femåring 1632, uppfostrades närmast som en prins och fyllde hovet med lärda och konstnärer. År 1654 abdikerade hon till förmån för sin kusin, konverterade till katolicismen och slog sig ned i Rom. Vad hette hon?"
     },
-    "answer": { "nb": "Dronning Kristina", "sv": "Drottning Kristina" },
+    "answer": {
+      "nb": "Dronning Kristina",
+      "sv": "Drottning Kristina"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "René Descartes ble hentet til hoffet hennes i Stockholm og døde der vinteren 1650.",
@@ -579,14 +705,20 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["religion", "militaerhistorie"],
+    "topics": [
+      "religion",
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "I Bergen på 1160-tallet salvet og kronet erkebiskop Øystein Erlendsson en gutt som ikke var kongesønn, men dattersønn av en konge. Det var den første kroningen av en konge i Norden, og samtidig kom landets første tronfølgelov. Hvem ble kronet?",
       "sv": "I Bergen på 1160-talet smorde och krönte ärkebiskop Øystein Erlendsson en pojke som inte var kungason, utan dotterson till en kung. Det var den första kröningen av en kung i Norden, och samtidigt kom landets första tronföljdslag. Vem kröntes?"
     },
     "answer": "Magnus Erlingsson",
     "answerKind": "person",
-    "person": { "given": "Magnus", "family": "Erlingsson" },
+    "person": {
+      "given": "Magnus",
+      "family": "Erlingsson"
+    },
     "hint": {
       "nb": "Faren het Erling Skakke og styrte i praksis riket på hans vegne.",
       "sv": "Fadern hette Erling Skakke och styrde i praktiken riket för hans räkning."
@@ -602,12 +734,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["litteratur", "vitenskap"],
+    "topics": [
+      "litteratur",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "«Min hest, min hest, mitt kongerike for en hest!» roper han i Shakespeares stykke, rett før han faller i slaget ved Bosworth i 1485 – den siste engelske kongen som døde i kamp. Hvem er han?",
       "sv": "«Min häst, min häst, mitt kungarike för en häst!» ropar han i Shakespeares pjäs, strax innan han stupar i slaget vid Bosworth 1485 – den siste engelske kung som dog i strid. Vem är han?"
     },
-    "answer": { "nb": "Rikard 3", "sv": "Rikard III" },
+    "answer": {
+      "nb": "Rikard 3",
+      "sv": "Rikard III"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Skjelettet hans ble funnet under en parkeringsplass i Leicester i 2012.",
@@ -624,12 +762,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["geografi", "okonomi"],
+    "topics": [
+      "geografi",
+      "okonomi"
+    ],
     "prompt": {
       "nb": "Landet er verdens eneste gjenværende storhertugdømme, med et areal på under 2 600 kvadratkilometer og under en million innbyggere. Det ble helt selvstendig i 1890, da personalunionen med Nederland tok slutt. Hvilket land?",
       "sv": "Landet är världens enda kvarvarande storhertigdöme, med en yta på under 2 600 kvadratkilometer och under en miljon invånare. Det blev helt självständigt 1890, när personalunionen med Nederländerna upphörde. Vilket land?"
     },
-    "answer": { "nb": "Luxembourg", "sv": "Luxemburg" },
+    "answer": {
+      "nb": "Luxembourg",
+      "sv": "Luxemburg"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Hovedstaden heter det samme som landet, og de gamle bydelene og festningsverkene der står på UNESCOs verdensarvliste.",
@@ -646,7 +790,10 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["arkitektur", "musikk"],
+    "topics": [
+      "arkitektur",
+      "musikk"
+    ],
     "prompt": {
       "nb": "Lovisa Ulrika lot Carl Fredrik Adelcrantz bygge det i 1766, etter at forgjengeren brant fire år tidligere. Vognmaskineriet, bølgemaskinen og tordenmaskinen fra 1700-tallet virker fortsatt, etter at bygget sto glemt til Agne Beijer fant det igjen i 1921. Hva heter teateret?",
       "sv": "Lovisa Ulrika lät Carl Fredrik Adelcrantz bygga det 1766, sedan föregångaren brunnit fyra år tidigare. Vagnmaskineriet, vågmaskinen och åskmaskinen från 1700-talet fungerar än, efter att byggnaden stått glömd tills Agne Beijer återfann den 1921. Vad heter teatern?"

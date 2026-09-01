@@ -5,11 +5,17 @@ import {
   ALL_QUESTIONS,
   CATEGORIES,
   categoriesWithContent,
+  categoriesInDisplayOrder,
+  composeRound,
+  datedFor,
   makeRng,
+  ordinaryFor,
   pickQuestions,
   poolFor,
   QUESTIONS_PER_ROUND,
+  TOPICAL_PER_ROUND,
 } from '../content'
+import { hasOnThisDay, isRetired, isTopicalActive, onThisDayFor, promptFor } from '../../../shared/questions'
 import { answerShape, firstLetter, hintCount, letterOptions, revealLetter } from '../hints'
 import { byTopic, byWeek, pct, totals } from '../stats'
 
@@ -163,14 +169,27 @@ describe('innholdsbanken', () => {
    * bankskjermen og holdes utenfor startskjermen. Det som ikke er gyldig er et
    * tema med noen få spørsmål på ett nivå, for da kan en runde bli kortere enn
    * ti. Denne testen fanger nettopp den tilstanden.
+   *
+   * Det er de *ordinære* spørsmålene som teller. De dagsaktuelle skrives før
+   * grunnpuljen i de nye temaene – to nyhetsspørsmål gjør ikke et tema
+   * spillbart, og skal ikke gjøre det heller.
    */
-  it('har enten null eller minst ti spørsmål per tema og nivå', () => {
+  it('har enten null eller minst ti ordinære spørsmål per tema og nivå', () => {
     for (const category of CATEGORIES) {
-      const counts = DIFFICULTIES.map((d) => poolFor(category.id, d).length)
+      const counts = DIFFICULTIES.map((d) => ordinaryFor(category.id, d).length)
       if (counts.every((n) => n === 0)) continue
       for (const [i, n] of counts.entries()) {
         expect(n, `${category.id}/${DIFFICULTIES[i]}`).toBeGreaterThanOrEqual(QUESTIONS_PER_ROUND)
       }
+    }
+  })
+
+  it('holder temaer som bare har dagsaktuelle spørsmål utenfor startskjermen', () => {
+    const playable = new Set(categoriesWithContent().map((c) => c.id))
+    for (const category of CATEGORIES) {
+      const ordinary = DIFFICULTIES.reduce((sum, d) => sum + ordinaryFor(category.id, d).length, 0)
+      const any = DIFFICULTIES.reduce((sum, d) => sum + poolFor(category.id, d).length, 0)
+      if (ordinary === 0 && any > 0) expect(playable.has(category.id), category.id).toBe(false)
     }
   })
 
@@ -216,5 +235,146 @@ describe('innholdsbanken', () => {
     expect(langForRegion('no')).toBe('nb')
     expect(langForRegion('int')).toBe('nb')
     expect(langForRegion('se')).toBe('sv')
+  })
+})
+
+/* ------------------------------------------- dagsaktuelt og «på denne dag» */
+
+function q(over: Partial<Question> & { id: string }): Question {
+  return {
+    category: 'blaa',
+    difficulty: 'lett',
+    origin: 'int',
+    topics: ['historie'],
+    prompt: { nb: 'nb-tekst', sv: 'sv-tekst' },
+    answer: 'Svar',
+    answerKind: 'annet',
+    hint: 'h',
+    funFact: 'f',
+    source: 'kilde',
+    ...over,
+  } as Question
+}
+
+const DAY = '2026-09-01'
+
+describe('dagsaktuelle spørsmål', () => {
+  const fersk = q({ id: 'x-l-a1', topical: { event: '2026-08-20', until: '2026-12-01', evergreen: false } })
+  const utloept = q({ id: 'x-l-a2', topical: { event: '2025-09-01', until: '2026-01-01', evergreen: false } })
+  const tidloes = q({ id: 'x-l-a3', topical: { event: '2025-09-01', until: '2026-01-01', evergreen: true } })
+
+  it('regner et spørsmål som ferskt til og med utløpsdatoen', () => {
+    expect(isTopicalActive(fersk, DAY)).toBe(true)
+    expect(isTopicalActive(fersk, '2026-12-01')).toBe(true)
+    expect(isTopicalActive(fersk, '2026-12-02')).toBe(false)
+  })
+
+  it('pensjonerer utløpte spørsmål som ikke er evergreen', () => {
+    expect(isRetired(utloept, DAY)).toBe(true)
+    expect(isRetired(tidloes, DAY)).toBe(false)
+    expect(isRetired(fersk, DAY)).toBe(false)
+  })
+
+  it('holder pensjonerte spørsmål utenfor runden', () => {
+    const pool = [utloept, ...Array.from({ length: 14 }, (_, i) => q({ id: `x-l-${i}` }))]
+    const round = composeRound(pool, 'no', 'frø', QUESTIONS_PER_ROUND, DAY)
+    expect(round).toHaveLength(QUESTIONS_PER_ROUND)
+    expect(round.map((r) => r.id)).not.toContain('x-l-a2')
+  })
+
+  it('lar evergreen-spørsmål gli inn i den vanlige puljen etter utløp', () => {
+    const pool = [tidloes, ...Array.from({ length: 30 }, (_, i) => q({ id: `x-l-${i}` }))]
+    // Ikke lenger ferskt, så det har ingen reservert plass – men det kan trekkes.
+    expect(isTopicalActive(tidloes, DAY)).toBe(false)
+    const seeds = Array.from({ length: 40 }, (_, i) => `frø-${i}`)
+    const traff = seeds.some((seed) =>
+      composeRound(pool, 'no', seed, QUESTIONS_PER_ROUND, DAY).some((r) => r.id === 'x-l-a3'),
+    )
+    expect(traff).toBe(true)
+  })
+
+  it('setter av de to siste plassene til ferske spørsmål, uten å forlenge runden', () => {
+    const to = [
+      q({ id: 'x-l-a1', topical: { event: '2026-08-20', until: '2026-12-01', evergreen: false } }),
+      q({ id: 'x-l-a2', topical: { event: '2026-08-21', until: '2026-12-01', evergreen: true } }),
+    ]
+    const pool = [...to, ...Array.from({ length: 20 }, (_, i) => q({ id: `x-l-${i}` }))]
+    const round = composeRound(pool, 'no', 'frø', QUESTIONS_PER_ROUND, DAY)
+    expect(round).toHaveLength(QUESTIONS_PER_ROUND)
+    expect(round.slice(-TOPICAL_PER_ROUND).map((r) => r.id).sort()).toEqual(['x-l-a1', 'x-l-a2'])
+  })
+})
+
+describe('«på denne dag»', () => {
+  const dated = q({
+    id: 'x-l-d1',
+    onThisDay: [
+      { day: '09-01', year: 1939, prompt: { nb: 'nb-dagsvariant', sv: 'sv-dagsvariant' } },
+      { day: '12-05', year: 1791, prompt: { nb: 'nb-desember', sv: 'sv-desember' } },
+    ],
+  })
+
+  it('bytter ut hele spørsmålsteksten bare på riktig dato', () => {
+    expect(promptFor(dated, 'nb', DAY)).toBe('nb-dagsvariant')
+    expect(promptFor(dated, 'sv', DAY)).toBe('sv-dagsvariant')
+    expect(promptFor(dated, 'nb', '2026-12-05')).toBe('nb-desember')
+    expect(promptFor(dated, 'nb', '2026-09-02')).toBe('nb-tekst')
+  })
+
+  it('finner varianten uavhengig av årstall', () => {
+    expect(onThisDayFor(dated, '1998-09-01')?.year).toBe(1939)
+    expect(hasOnThisDay(dated, '2030-09-01')).toBe(true)
+    expect(hasOnThisDay(q({ id: 'x-l-9' }), DAY)).toBe(false)
+  })
+
+  it('tar alltid med et datospørsmål når temaet har ett', () => {
+    const pool = [dated, ...Array.from({ length: 25 }, (_, i) => q({ id: `x-l-${i}` }))]
+    for (const seed of ['a', 'b', 'c', 'd', 'e']) {
+      const round = composeRound(pool, 'int', seed, QUESTIONS_PER_ROUND, DAY)
+      expect(round).toHaveLength(QUESTIONS_PER_ROUND)
+      expect(round.map((r) => r.id)).toContain('x-l-d1')
+    }
+  })
+})
+
+describe('rekkefølgen på startskjermen', () => {
+  it('legger temaer med treff på dagens dato først', () => {
+    for (const difficulty of DIFFICULTIES) {
+      const ordered = categoriesInDisplayOrder(makeRng('frø'), difficulty, '2026-09-01')
+      const flags = ordered.map((o) => o.datedToday)
+      // Ingen usann før en sann: alle treffene ligger i front.
+      expect(flags.indexOf(true) === -1 || flags.lastIndexOf(true) < flags.indexOf(false), difficulty).toBe(true)
+      for (const { category, datedToday } of ordered) {
+        expect(datedToday, category.id).toBe(datedFor(category.id, difficulty, '2026-09-01').length > 0)
+      }
+    }
+  })
+
+  it('holder løftet: runden inneholder datospørsmålet temaet ble løftet for', () => {
+    const day = '2026-09-01'
+    for (const difficulty of DIFFICULTIES) {
+      for (const { category, datedToday } of categoriesInDisplayOrder(makeRng('frø'), difficulty, day)) {
+        if (!datedToday) continue
+        const dated = datedFor(category.id, difficulty, day).map((q) => q.id)
+        for (const region of ['no', 'se', 'int'] as const) {
+          const round = pickQuestions(category.id, difficulty, region, 'økt-1', QUESTIONS_PER_ROUND, day)
+          expect(round).toHaveLength(QUESTIONS_PER_ROUND)
+          expect(round.some((q) => dated.includes(q.id)), `${category.id}/${difficulty}/${region}`).toBe(true)
+        }
+      }
+    }
+  })
+
+  it('setter de dagsaktuelle sist i runden, og aldri flere enn to', () => {
+    const day = '2026-09-01'
+    for (const c of categoriesWithContent(day)) {
+      for (const difficulty of DIFFICULTIES) {
+        const round = pickQuestions(c.id, difficulty, 'no', 'økt-2', QUESTIONS_PER_ROUND, day)
+        const topicalInRound = round.filter((q) => isTopicalActive(q, day))
+        expect(topicalInRound.length, `${c.id}/${difficulty}`).toBeLessThanOrEqual(TOPICAL_PER_ROUND)
+        const tail = round.slice(round.length - topicalInRound.length)
+        expect(tail.every((q) => isTopicalActive(q, day)), `${c.id}/${difficulty}`).toBe(true)
+      }
+    }
   })
 })

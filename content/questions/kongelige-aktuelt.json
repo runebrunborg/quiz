@@ -1,0 +1,79 @@
+[
+  {
+    "id": "kongelige-l-a1",
+    "category": "kongelige",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "kongehus",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Han er født i 1973 og har flere ganger styrt landet som regent når faren var syk. Da tronskiftet kom 28. august 2026, tok han et kongenavn som ikke hadde vært brukt av en norsk konge siden oldefaren hans, og som før det lå ubrukt fra middelalderen. Hvilket kongenavn, med nummer, regjerer Norge under nå?",
+      "sv": "Han är född 1973 och har flera gånger styrt landet som regent när fadern var sjuk. När tronskiftet kom den 28 augusti 2026 tog han ett kunganamn som inte hade använts av en norsk kung sedan hans farfars far, och som före det låg oanvänt sedan medeltiden. Vilket kunganamn, med nummer, styr Norge under nu?"
+    },
+    "answer": {
+      "nb": "Haakon 8",
+      "sv": "Haakon VIII"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han er oppkalt etter kongen som kom fra Danmark og ble valgt av Stortinget i 1905 – nummeret er det neste i rekken.",
+      "sv": "Han är uppkallad efter kungen som kom från Danmark och valdes av Stortinget 1905 – numret är det nästa i ordningen."
+    },
+    "funFact": {
+      "nb": "Ved tronskiftet ble Mette-Marit dronning og Ingrid Alexandra kronprinsesse. Harald 5 hadde sittet på tronen i 35 år, fra 17. januar 1991 til han døde i Oslo 28. august 2026.",
+      "sv": "Vid tronskiftet blev Mette-Marit drottning och Ingrid Alexandra kronprinsessa. Harald 5 hade suttit på tronen i 35 år, från den 17 januari 1991 till att han dog i Oslo den 28 augusti 2026."
+    },
+    "source": "Store norske leksikon – Harald 5 (oppdatert august 2026); VG 31.08.2026",
+    "topical": {
+      "event": "2026-08-28",
+      "until": "2027-08-31",
+      "evergreen": true
+    },
+    "onThisDay": [
+      {
+        "day": "08-28",
+        "year": 2026,
+        "prompt": {
+          "nb": "På denne dagen i 2026 døde Harald 5 i Oslo, 35 år etter at han overtok tronen. Samme dag gikk sønnen fra kronprins til konge, og datteren hans ble kronprinsesse. Hvilket kongenavn, med nummer, tok den nye kongen?",
+          "sv": "På denna dag 2026 dog Harald 5 i Oslo, 35 år efter att han övertog tronen. Samma dag gick sonen från kronprins till kung, och hans dotter blev kronprinsessa. Vilket kunganamn, med nummer, tog den nye kungen?"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kongelige-m-a1",
+    "category": "kongelige",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "kongehus",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Grunnloven ble endret i 1990 slik at det eldste barnet arver tronen uansett kjønn, men endringen fikk ingen praktisk betydning før tronskiftet i august 2026. Da rykket en kvinne født i Oslo i 2004 opp til første plass i arverekken. Hvem er Norges nye kronprinsesse?",
+      "sv": "Grundlagen ändrades 1990 så att det äldsta barnet ärver tronen oavsett kön, men ändringen fick ingen praktisk betydelse förrän tronskiftet i augusti 2026. Då flyttade en kvinna född i Oslo 2004 upp till första plats i tronföljden. Vem är Norges nya kronprinsessa?"
+    },
+    "answer": "Ingrid Alexandra",
+    "answerKind": "person",
+    "person": {
+      "given": "Ingrid",
+      "family": "Alexandra"
+    },
+    "hint": {
+      "nb": "Hun er født i januar 2004, og den yngre broren hennes står nå nummer to i arverekken.",
+      "sv": "Hon är född i januari 2004, och hennes yngre bror står nu nummer två i tronföljden."
+    },
+    "funFact": {
+      "nb": "Blir hun dronning, blir hun den første regjerende dronningen som er født i Norge, og den andre regjerende dronningen i landets historie etter Margrete 1. Broren Sverre Magnus er nummer to i arverekken.",
+      "sv": "Blir hon drottning blir hon den första regerande drottningen som är född i Norge, och den andra regerande drottningen i landets historia efter Margareta 1. Brodern Sverre Magnus är nummer två i tronföljden."
+    },
+    "source": "Store norske leksikon – Ingrid Alexandra (oppdatert august 2026)",
+    "topical": {
+      "event": "2026-08-28",
+      "until": "2027-08-31",
+      "evergreen": true
+    }
+  }
+]

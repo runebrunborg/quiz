@@ -1,0 +1,99 @@
+[
+  {
+    "id": "vinter-l-a1",
+    "category": "vinter",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sport",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Vinterlekene i februar 2026 var delt mellom storbyen Milano og en liten alpelandsby i Dolomittene, som kalles «Dolomittenes dronning» og selv var vertskap for vinter-OL så tidlig som i 1956. Hvilken landsby delte lekene med Milano?",
+      "sv": "Vinterspelen i februari 2026 delades mellan storstaden Milano och en liten alpby i Dolomiterna, som kallas «Dolomiternas drottning» och själv var värd för vinter-OS redan 1956. Vilken by delade spelen med Milano?"
+    },
+    "answer": "Cortina d'Ampezzo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landsbyen ligger i provinsen Belluno i Veneto, og har gitt navn til den olympiske maskoten Tina.",
+      "sv": "Byn ligger i provinsen Belluno i Veneto och har gett namn åt den olympiska maskoten Tina."
+    },
+    "funFact": {
+      "nb": "Lekene ble arrangert 6.–22. februar 2026, og for første gang i olympisk historie ble to ilder tent samtidig – én i hver vertsby. Norge tok 18 gull og 41 medaljer, rekord for et enkelt vinter-OL.",
+      "sv": "Spelen arrangerades 6–22 februari 2026, och för första gången i olympisk historia tändes två eldar samtidigt – en i varje värdstad. Norge tog 18 guld och 41 medaljer, rekord för ett enskilt vinter-OS."
+    },
+    "source": "Store norske leksikon – Dolomittene (oppdatert 03.07.2026); en.wikipedia.org – 2026 Winter Olympics (hentet 01.09.2026)",
+    "topical": {
+      "event": "2026-02-06",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "vinter-m-a1",
+    "category": "vinter",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Maskotene for vinterlekene i Milano og Cortina i februar 2026 var søsknene Tina og Milo, tegnet av italienske skolebarn. Den ene er hvit og den andre brun – to drakter det samme dyret faktisk skifter mellom om sommeren og om vinteren. Hvilket dyr er de?",
+      "sv": "Maskotarna för vinterspelen i Milano och Cortina i februari 2026 var syskonen Tina och Milo, ritade av italienska skolbarn. Den ena är vit och den andra brun – två dräkter som samma djur faktiskt skiftar mellan sommar och vinter. Vilket djur är de?"
+    },
+    "answer": {
+      "nb": "Røyskatt",
+      "sv": "Hermelin"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Et lite mårdyr som er vanlig i norske fjell, mindre enn en mink, og den hvite vinterpelsen har gitt navn til et kongelig pelsverk.",
+      "sv": "Ett litet mårddjur som är vanligt i de svenska fjällen, mindre än en mink, brunt på ryggen om sommaren och vitt om vintern."
+    },
+    "funFact": {
+      "nb": "Navnene kommer fra vertsbyene: Tina fra Cortina, Milo fra Milano. Milo, maskoten for Paralympics, er tegnet uten det ene bakbeinet og bruker halen til å bevege seg. Den hvite vinterpelsen kalles hermelin.",
+      "sv": "Namnen kommer från värdstäderna: Tina från Cortina, Milo från Milano. Milo, maskot för Paralympics, är ritad utan ett bakben och använder svansen för att röra sig. Förslagen kom från italienska skolbarn i en tävling med över 1600 bidrag."
+    },
+    "source": "en.wikipedia.org – Tina and Milo (hentet 01.09.2026); Fondazione Milano Cortina 2026, 07.02.2024",
+    "topical": {
+      "event": "2026-02-06",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "vinter-v-a1",
+    "category": "vinter",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sport",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Vinterlekene i Milano og Cortina i februar 2026 var de første som ble avviklet under en ny leder for Den internasjonale olympiske komiteen. Hun tiltrådte i juni 2025 som den første kvinnen og den første afrikaneren i vervet, etter en karriere som svømmer for Zimbabwe. Hvem er hun?",
+      "sv": "Vinterspelen i Milano och Cortina i februari 2026 var de första som genomfördes under en ny ledare för Internationella olympiska kommittén. Hon tillträdde i juni 2025 som den första kvinnan och den första afrikanen på posten, efter en karriär som simmare för Zimbabwe. Vem är hon?"
+    },
+    "answer": "Kirsty Coventry",
+    "answerKind": "person",
+    "person": {
+      "given": "Kirsty",
+      "family": "Coventry"
+    },
+    "hint": {
+      "nb": "Fornavnet er skotskklingende, og etternavnet er navnet på en engelsk industriby.",
+      "sv": "Förnamnet är skotskklingande, och efternamnet är namnet på en engelsk industristad."
+    },
+    "funFact": {
+      "nb": "Hun ble valgt 20. mars 2025 og tiltrådte 23. juni 2025 som IOC-president. Hun er den andre ikke-europeeren i vervet siden Avery Brundage gikk av i 1972.",
+      "sv": "Hon valdes den 20 mars 2025 och tillträdde den 23 juni 2025 som IOK-president. Hon är den andra icke-europén på posten sedan Avery Brundage avgick 1972."
+    },
+    "source": "en.wikipedia.org – Kirsty Coventry (hentet 01.09.2026)",
+    "topical": {
+      "event": "2026-02-06",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  }
+]

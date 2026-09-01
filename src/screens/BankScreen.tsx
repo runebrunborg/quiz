@@ -1,6 +1,14 @@
 import { useMemo } from 'react'
 import { DIFFICULTIES, type Difficulty, t } from '../../shared/types'
-import { ALL_QUESTIONS, CATEGORIES, CATEGORY_BY_ID, coverage, POOL_TARGET, QUESTIONS_PER_ROUND } from '../lib/content'
+import {
+  ALL_QUESTIONS,
+  CATEGORIES,
+  CATEGORY_BY_ID,
+  coverage,
+  POOL_TARGET,
+  QUESTIONS_PER_ROUND,
+  TOPICAL_PER_ROUND,
+} from '../lib/content'
 import { DIFFICULTY_LABELS } from '../lib/ui'
 
 /**
@@ -8,9 +16,11 @@ import { DIFFICULTY_LABELS } from '../lib/ui'
  * nivå, og hvor mange som gjenstår før alt er fylt opp.
  */
 export default function BankScreen() {
-  const rows = useMemo(coverage, [])
+  const rows = useMemo(() => coverage(), [])
   const target = CATEGORIES.length * DIFFICULTIES.length * POOL_TARGET
-  const have = ALL_QUESTIONS.length
+  const have = ALL_QUESTIONS.filter((q) => !q.topical).length
+  const topicalHave = rows.reduce((sum, r) => sum + r.topicalTotal, 0)
+  const topicalTarget = CATEGORIES.length * DIFFICULTIES.length * TOPICAL_PER_ROUND
 
   return (
     <>
@@ -25,6 +35,11 @@ export default function BankScreen() {
           internasjonale. En norsk og en svensk runde av samme tema deler derfor bare rundt halvparten av
           spørsmålene. Grønn prikk = nivået er fullt. Be Claude fylle på et tema, så dukker det opp her.
         </p>
+        <p className="setup__note">
+          I tillegg kommer de dagsaktuelle: <strong className="tabular">{topicalHave}</strong> av {topicalTarget} (
+          {TOPICAL_PER_ROUND} per tema og nivå). De erstatter to av de ti i runden så lenge de er ferske, og
+          forsvinner av seg selv når utløpsdatoen er passert – med mindre de er merket som gode også etterpå.
+        </p>
       </div>
 
       <div className="card card--pad">
@@ -38,6 +53,7 @@ export default function BankScreen() {
                 </th>
               ))}
               <th style={{ textAlign: 'right' }}>Sum</th>
+              <th style={{ textAlign: 'right' }}>Aktuelt</th>
             </tr>
           </thead>
           <tbody>
@@ -58,6 +74,18 @@ export default function BankScreen() {
                   })}
                   <td className="num">
                     <strong>{row.total}</strong>
+                  </td>
+                  <td className="num">
+                    <span
+                      className={`dot dot--${
+                        row.topicalTotal >= TOPICAL_PER_ROUND * DIFFICULTIES.length
+                          ? 'full'
+                          : row.topicalTotal > 0
+                            ? 'part'
+                            : 'empty'
+                      }`}
+                    />
+                    {row.topicalTotal}
                   </td>
                 </tr>
               )

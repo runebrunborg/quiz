@@ -1,0 +1,98 @@
+[
+  {
+    "id": "broer-l-a1",
+    "category": "broer",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "arkitektur",
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Den 28. september 2025 åpnet en hengebro i Guizhou-provinsen i Kina, med et hovedspenn på 1420 meter over en dyp kløft. Turen over kløfta gikk fra 70 minutter til drøyt ett minutt, og broen overtok en verdensrekord fra Duge-broen, som krysser samme elv lenger opp. Hvilken rekord?",
+      "sv": "Den 28 september 2025 öppnade en hängbro i provinsen Guizhou i Kina, med ett huvudspann på 1420 meter över en djup ravin. Resan över ravinen gick från 70 minuter till drygt en minut, och bron tog över ett världsrekord från Duge-bron, som korsar samma älv längre upp. Vilket rekord?"
+    },
+    "answer": {
+      "nb": "Verdens høyeste bro",
+      "sv": "Världens högsta bro"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er ikke lengden det handler om, men avstanden ned til elva Beipan.",
+      "sv": "Det handlar inte om längden, utan om avståndet ner till floden Beipan."
+    },
+    "funFact": {
+      "nb": "Huajiang-broen ligger 625 meter over elva Beipan. Duge-broen, som hadde rekorden før, krysser den samme elva omtrent 200 kilometer lenger oppstrøms.",
+      "sv": "Huajiang-bron ligger 625 meter över floden Beipan. Duge-bron, som hade rekordet tidigare, korsar samma flod omkring 200 kilometer längre uppströms."
+    },
+    "source": "Wikipedia (en) – Huajiang Grand Canyon Bridge, åpningen 28.09.2025",
+    "topical": {
+      "event": "2025-09-28",
+      "until": "2026-09-30",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "broer-m-a1",
+    "category": "broer",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Planen om å knytte Sicilia til det italienske fastlandet med en hengebro med hovedspenn på 3300 meter, verdens lengste, fikk endelig godkjenning i august 2025, men ble stanset av den italienske riksrevisjonen i oktober. I februar 2026 lovet regjeringen byggestart likevel. Hvilket sund skal broen krysse?",
+      "sv": "Planen på att knyta Sicilien till det italienska fastlandet med en hängbro med ett huvudspann på 3300 meter, världens längsta, fick slutligt godkännande i augusti 2025 men stoppades av den italienska riksrevisionen i oktober. I februari 2026 utlovade regeringen byggstart ändå. Vilket sund ska bron korsa?"
+    },
+    "answer": {
+      "nb": "Messinastredet",
+      "sv": "Messinasundet"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sundet har navn etter havnebyen på Sicilia-siden, og er kjent fra Odysseen for uhyrene Skylla og Karybdis.",
+      "sv": "Sundet har namn efter hamnstaden på Sicilien-sidan och är känt från Odysséen för monstren Skylla och Charybdis."
+    },
+    "funFact": {
+      "nb": "Hovedspennet skal bli omtrent 60 prosent lenger enn dagens rekordholder, 1915 Çanakkale-broen i Tyrkia. Kostnaden er anslått til 13,5 milliarder euro.",
+      "sv": "Huvudspannet ska bli omkring 60 procent längre än dagens rekordhållare, 1915 Çanakkale-bron i Turkiet. Kostnaden beräknas till 13,5 miljarder euro."
+    },
+    "source": "Wikipedia (en) – Strait of Messina Bridge, kontrollert 01.09.2026",
+    "topical": {
+      "event": "2026-02",
+      "until": "2027-02-28",
+      "evergreen": false
+    }
+  },
+  {
+    "id": "broer-v-a1",
+    "category": "broer",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Broen hadde vært åpen i sju måneder da veimyndighetene i november 2025 oppdaget sprekker i asfalten og i selve konstruksjonen, stengte den og evakuerte. Dagen etter raste den vestlige delen ut i et jordskred, uten at noen kom til skade. I hvilken kinesisk provins skjedde det?",
+      "sv": "Bron hade varit öppen i sju månader när vägmyndigheterna i november 2025 upptäckte sprickor i asfalten och i själva konstruktionen, stängde den och evakuerade. Dagen därpå rasade den västra delen ut i ett jordskred, utan att någon skadades. I vilken kinesisk provins hände det?"
+    },
+    "answer": "Sichuan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Provinsen er kjent for sterkt krydret mat og for pandasenteret i hovedstaden Chengdu.",
+      "sv": "Provinsen är känd för starkt kryddad mat och för pandacentret i huvudstaden Chengdu."
+    },
+    "funFact": {
+      "nb": "Hongqi-broen på veien mot Tibet åpnet 13. april 2025. Hovedspennet sto igjen intakt, men med den vestlige enden hengende fritt i lufta.",
+      "sv": "Hongqi-bron på vägen mot Tibet öppnade den 13 april 2025. Huvudspannet stod kvar intakt, men med den västra änden hängande fritt i luften."
+    },
+    "source": "Wikipedia (en) – Hongqi Bridge, kontrollert 01.09.2026",
+    "topical": {
+      "event": "2025-11-11",
+      "until": "2026-11-30",
+      "evergreen": false
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sjokolade-l-a1",
+    "category": "sjokolade",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "okonomi",
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Den 26. september 2025 fullførte et italiensk familieselskap kjøpet av den amerikanske frokostblandingsprodusenten WK Kellogg for 3,1 milliarder dollar. Selskapet er kjent for en hasselnøttkrem på glass og for et sjokoladeegg med et lite leketøy inni. Hvilket selskap?",
+      "sv": "Den 26 september 2025 slutförde ett italienskt familjeföretag köpet av den amerikanska frukostflingtillverkaren WK Kellogg för 3,1 miljarder dollar. Företaget är känt för en hasselnötskräm på glasburk och för ett chokladägg med en liten leksak inuti. Vilket företag?"
+    },
+    "answer": "Ferrero",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet eies fortsatt av grunnleggerfamilien, og arvingen Giovanni er kåret til Italias rikeste person. Andre merker i porteføljen er Tic Tac og Kinder Bueno.",
+      "sv": "Företaget ägs fortfarande av grundarfamiljen, och arvingen Giovanni har utsetts till Italiens rikaste person. Andra märken i portföljen är Tic Tac och Kinder Bueno."
+    },
+    "funFact": {
+      "nb": "Kjøpet ble kunngjort 10. juli 2025, godkjent av WK Kelloggs aksjonærer 19. september og fullført en uke senere. Konsernet eier også Thorntons, iskremmerket Halo Top og den amerikanske godterifabrikanten Ferrara.",
+      "sv": "Köpet tillkännagavs den 10 juli 2025, godkändes av WK Kelloggs aktieägare den 19 september och slutfördes en vecka senare. Koncernen äger också Thorntons, glassmärket Halo Top och den amerikanska godistillverkaren Ferrara."
+    },
+    "source": "Wikipedia (engelsk) – «WK Kellogg Co» og «Ferrero SpA», lest 01.09.2026",
+    "topical": {
+      "event": "2025-09-26",
+      "until": "2026-09-30",
+      "evergreen": true
+    }
+  }
+]

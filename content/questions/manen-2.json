@@ -227,7 +227,17 @@
       "nb": "India ble dermed det fjerde landet til å lande mykt på månen, etter Sovjetunionen, USA og Kina. Landeren Vikram og roveren Pragyan undersøkte månestøvet nær sørpolen i flere dager.",
       "sv": "Indien blev därmed det fjärde landet att landa mjukt på månen, efter Sovjetunionen, USA och Kina. Landaren Vikram och rovern Pragyan undersökte månstoftet nära sydpolen i flera dagar."
     },
-    "source": "ISRO – Chandrayaan-3; NASA – «India's Historic Moon Landing»"
+    "source": "ISRO – Chandrayaan-3; NASA – «India's Historic Moon Landing»",
+    "onThisDay": [
+      {
+        "day": "08-23",
+        "year": 2023,
+        "prompt": {
+          "nb": "På denne dagen i 2023 satte et indisk fartøy seg forsiktig ned nær månens sørpol, som det første i verden så nær polen og det fjerde landet som klarte en myk månelanding. Feiringen ble fulgt direkte på TV over hele India. Hvilket oppdrag var dette?",
+          "sv": "På denna dag 2023 landade en indisk farkost mjukt nära månens sydpol, som den första i världen så nära polen och det fjärde landet som klarade en mjuk månlandning. Firandet följdes direkt på TV i hela Indien. Vilket uppdrag var detta?"
+        }
+      }
+    ]
   },
   {
     "id": "manen-l-20",

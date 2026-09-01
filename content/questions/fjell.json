@@ -269,7 +269,17 @@
       "nb": "Saussure gikk selv opp året etter, i 1787. Snø- og isdekket på toppen varierer, så høyden oppgis litt ulikt fra måling til måling, rundt 4808 meter.",
       "sv": "Saussure gick själv upp året därpå, 1787. Snö- och istäcket på toppen varierar, så höjden anges lite olika från mätning till mätning, omkring 4 808 meter."
     },
-    "source": "Encyclopaedia Britannica – Mont Blanc"
+    "source": "Encyclopaedia Britannica – Mont Blanc",
+    "onThisDay": [
+      {
+        "day": "08-08",
+        "year": 1786,
+        "prompt": {
+          "nb": "På denne dagen i 1786 nådde Jacques Balmat og legen Michel Paccard en topp i Alpene, den samme som naturforskeren Horace-Bénédict de Saussure hadde lovt belønning for. Bragden regnes som starten på moderne alpinisme. Hvilket fjell besteg de?",
+          "sv": "På denna dag 1786 nådde Jacques Balmat och läkaren Michel Paccard en topp i Alperna, densamma som naturforskaren Horace-Bénédict de Saussure hade utlovat belöning för. Bedriften räknas som början på den moderna alpinismen. Vilket berg besteg de?"
+        }
+      }
+    ]
   },
   {
     "id": "fjell-m-02",
@@ -528,7 +538,17 @@
       "nb": "Det var det første av de fjorten åttetusenmeterne som ble besteget. Herzogs bok om ekspedisjonen ble en internasjonal bestselger.",
       "sv": "Det var det första av de fjorton åttatusenmeterstopparna som bestegs. Herzogs bok om expeditionen blev en internationell bästsäljare."
     },
-    "source": "Encyclopaedia Britannica – Annapurna; Maurice Herzog, «Annapurna» (1951)"
+    "source": "Encyclopaedia Britannica – Annapurna; Maurice Herzog, «Annapurna» (1951)",
+    "onThisDay": [
+      {
+        "day": "06-03",
+        "year": 1950,
+        "prompt": {
+          "nb": "På denne dagen i 1950 sto franskmennene Maurice Herzog og Louis Lachenal på en topp i Nepal og gjorde noe ingen hadde gjort før dem: de sto på et fjell over 8000 meter. Nedturen kostet dem fingre og tær. Hvilket fjell var det?",
+          "sv": "På denna dag 1950 stod fransmännen Maurice Herzog och Louis Lachenal på en topp i Nepal och gjorde något ingen hade gjort före dem: de stod på ett berg över 8 000 meter. Nedstigningen kostade dem fingrar och tår. Vilket berg var det?"
+        }
+      }
+    ]
   },
   {
     "id": "fjell-v-02",
@@ -585,7 +605,17 @@
       "nb": "Solobestigningen 20. august 1980 gikk over nordøstryggen fra tibetansk side. Han vokste opp i Villnöss i Sør-Tirol og drev senere et nettverk av fjellmuseer.",
       "sv": "Solobestigningen den 20 augusti 1980 gick över nordostryggen från tibetansk sida. Han växte upp i Villnöss i Sydtyrolen och drev senare ett nätverk av bergsmuseer."
     },
-    "source": "Encyclopaedia Britannica – Reinhold Messner"
+    "source": "Encyclopaedia Britannica – Reinhold Messner",
+    "onThisDay": [
+      {
+        "day": "05-08",
+        "year": 1978,
+        "prompt": {
+          "nb": "På denne dagen i 1978 sto han og Peter Habeler på verdens høyeste topp uten flaskeoksygen, noe mange leger hadde ment var umulig. Åtte år senere ble han den første som hadde besteget alle fjorten åttetusenmeterne. Hvem er dette?",
+          "sv": "På denna dag 1978 stod han och Peter Habeler på världens högsta topp utan syrgas, något många läkare hade menat var omöjligt. Åtta år senare blev han den förste som hade bestigit alla fjorton åttatusenmeterstopparna. Vem är detta?"
+        }
+      }
+    ]
   },
   {
     "id": "fjell-v-04",

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "japan-l-a1",
+    "category": "japan",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr",
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Ved slutten av januar 2026 forlot tvillingene Xiao Xiao og Lei Lei dyrehagen i Ueno i Tokyo og ble fløyet tilbake til Kina. Dermed sto ingen japansk dyrehage lenger med et dyr av denne arten, for første gang siden 1972. Hvilket dyr?",
+      "sv": "I slutet av januari 2026 lämnade tvillingarna Xiao Xiao och Lei Lei djurparken i Ueno i Tokyo och flögs tillbaka till Kina. Därmed stod ingen japansk djurpark längre med ett djur av den här arten, för första gången sedan 1972. Vilket djur?"
+    },
+    "answer": {
+      "nb": "Kjempepanda",
+      "sv": "Jättepanda"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dyret er svart og hvitt, lever nesten bare av bambus og er merket til Verdens naturfond.",
+      "sv": "Djuret är svart och vitt, lever nästan bara på bambu och är Världsnaturfondens märke."
+    },
+    "funFact": {
+      "nb": "Japan fikk sine to første i 1972, samme år som landet normaliserte forbindelsene med Kina, og hadde hatt dyr av arten sammenhengende siden. Xiao Xiao og Lei Lei ble født i Ueno i 2021, men var hele tiden formelt utlånt fra Kina.",
+      "sv": "Japan fick sina två första 1972, samma år som landet normaliserade förbindelserna med Kina, och hade haft djur av arten oavbrutet sedan dess. Xiao Xiao och Lei Lei föddes i Ueno 2021 men var hela tiden formellt utlånade från Kina."
+    },
+    "source": "Wikipedia – Panda diplomacy og 2026 in Japan (lest 01.09.2026)",
+    "topical": {
+      "event": "2026-01-27",
+      "until": "2027-01-31",
+      "evergreen": false
+    }
+  },
+  {
+    "id": "japan-m-a1",
+    "category": "japan",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "arkitektur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Verdensutstillingen som stengte 13. oktober 2025 etter et halvt år, lå på den kunstige øya Yumeshima og var bygd rundt en enorm ring av tre – verdens største trekonstruksjon. Samme by var vert for verdensutstilling også i 1970. Hvilken japansk by?",
+      "sv": "Världsutställningen som stängde den 13 oktober 2025 efter ett halvår låg på den konstgjorda ön Yumeshima och var byggd kring en enorm ring av trä – världens största träkonstruktion. Samma stad var värd för en världsutställning även 1970. Vilken japansk stad?"
+    },
+    "answer": "Osaka",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger i Kansai-regionen og er kjent for gatemat som takoyaki og for borgen sin.",
+      "sv": "Staden ligger i Kansairegionen och är känd för gatumat som takoyaki och för sitt slott."
+    },
+    "funFact": {
+      "nb": "Temaet var «Designing Future Society for Our Lives», maskoten het Myaku-Myaku, og treringen ble ført inn i Guinness rekordbok. Over 29 millioner besøkende kom innom i løpet av det halve året.",
+      "sv": "Temat var «Designing Future Society for Our Lives», maskoten hette Myaku-Myaku, och träringen fördes in i Guinness rekordbok. Över 29 miljoner besökare kom dit under det halvåret."
+    },
+    "source": "Wikipedia – Expo 2025 (lest 01.09.2026)",
+    "topical": {
+      "event": "2025-10-13",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "japan-v-a1",
+    "category": "japan",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "politikk",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I oktober 2025 vant hun ledervalget i Det liberaldemokratiske partiet, som har dominert japansk politikk siden andre verdenskrig, og ble utpekt til landets statsminister – den første kvinnen på posten. I februar 2026 tok partiet hennes to tredjedeler av setene i underhuset. Hva heter hun?",
+      "sv": "I oktober 2025 vann hon ledarvalet i Liberaldemokratiska partiet, som har dominerat japansk politik sedan andra världskriget, och utsågs till landets statsminister – den första kvinnan på posten. I februari 2026 tog hennes parti två tredjedelar av platserna i underhuset. Vad heter hon?"
+    },
+    "answer": "Sanae Takaichi",
+    "answerKind": "person",
+    "person": {
+      "given": "Sanae",
+      "family": "Takaichi"
+    },
+    "hint": {
+      "nb": "Hun overtok etter Shigeru Ishiba, og etternavnet begynner på T.",
+      "sv": "Hon efterträdde Shigeru Ishiba, och efternamnet börjar på T."
+    },
+    "funFact": {
+      "nb": "Hun ble utpekt 21. oktober 2025, etter å ha stilt til ledervalg i partiet tre ganger. Etter valget i februar 2026 ble hun formelt gjeninnsatt 18. februar.",
+      "sv": "Hon utsågs den 21 oktober 2025, efter att ha ställt upp i partiets ledarval tre gånger. Efter valet i februari 2026 återinsattes hon formellt den 18 februari."
+    },
+    "source": "Store norske leksikon – Sanae Takaichi (lest 01.09.2026); Wikipedia – 2026 in Japan",
+    "topical": {
+      "event": "2025-10-21",
+      "until": "2026-10-31",
+      "evergreen": true
+    }
+  }
+]

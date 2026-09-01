@@ -382,7 +382,17 @@
       "nb": "Endringen kom fordi over 90 prosent av bilene i Sverige allerede var venstrestyrte, mens landet kjørte i venstre kjørefelt – en upraktisk kombinasjon når alle naboland kjørte til høyre.",
       "sv": "Ändringen kom eftersom över 90 procent av bilarna i Sverige redan var vänsterstyrda, medan landet körde i vänsterkörfält – en opraktisk kombination när alla grannländer körde till höger."
     },
-    "source": "Wikipedia – «Dagen H»"
+    "source": "Wikipedia – «Dagen H»",
+    "onThisDay": [
+      {
+        "day": "09-03",
+        "year": 1967,
+        "prompt": {
+          "nb": "På denne dagen i 1967 stanset all trafikk i Sverige klokken 04.50, og ti minutter senere rullet kjøretøyene videre på motsatt side av veien. Rundt 350 000 skilt var byttet ut i forkant, og en folkeavstemning i 1955 hadde vist solid flertall mot endringen. Hva kalles denne omveltningen?",
+          "sv": "På denna dag 1967 stannade all trafik i Sverige klockan 04.50, och tio minuter senare rullade fordonen vidare på motsatt sida av vägen. Omkring 350 000 vägmärken hade bytts ut i förväg, och en folkomröstning 1955 hade visat solid majoritet mot förändringen. Vad kallas denna omvälvning?"
+        }
+      }
+    ]
   },
   {
     "id": "tid-m-16",

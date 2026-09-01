@@ -1,0 +1,126 @@
+[
+  {
+    "id": "havet-l-a1",
+    "category": "havet",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Havet driver været. I juni 2026 slo den amerikanske hav- og væretaten NOAA fast at overflatevannet i det tropiske Stillehavet var blitt så varmt at fenomenet peruanske fiskere en gang kalte «Kristusbarnet» var i gang igjen – og at det kunne bli et av de kraftigste som er målt. Hva heter fenomenet?",
+      "sv": "Havet driver vädret. I juni 2026 konstaterade den amerikanska havs- och vädermyndigheten NOAA att ytvattnet i tropiska Stilla havet hade blivit så varmt att det fenomen som peruanska fiskare en gång kallade «Kristusbarnet» var i gång igen – och att det kunde bli ett av de kraftigaste som uppmätts. Vad heter fenomenet?"
+    },
+    "answer": "El Niño",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den kalde motsatsen har et navn som betyr «jenta».",
+      "sv": "Den kalla motsatsen har ett namn som betyder «flickan»."
+    },
+    "funFact": {
+      "nb": "Navnet kommer av at det varme vannet langs kysten av Peru ofte dukket opp rundt juletider. Fenomenet snur nedbørsmønstre over hele kloden: tørke i Australia og Indonesia, styrtregn langs vestkysten av Sør-Amerika.",
+      "sv": "Namnet kommer av att det varma vattnet längs Perus kust ofta dök upp kring juletid. Fenomenet vänder nedbördsmönster över hela jorden: torka i Australien och Indonesien, störtregn längs Sydamerikas västkust."
+    },
+    "source": "NOAA Climate Prediction Center – El Niño-varsel 11.06.2026",
+    "topical": {
+      "event": "2026-06-11",
+      "until": "2027-06-30",
+      "evergreen": false
+    }
+  },
+  {
+    "id": "havet-m-a1",
+    "category": "havet",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I mars 2026 fant danske marinarkeologer vraket av linjeskipet Dannebroge på bunnen av Københavns havn, 225 år etter at det gikk tapt i slaget på Reden. Slaget huskes best for en britisk viseadmiral som holdt teleskopet mot sitt blinde øye og erklærte at han ikke så signalet om å bryte av. Hvem var han?",
+      "sv": "I mars 2026 hittade danska marinarkeologer vraket av linjeskeppet Dannebroge på bottnen av Köpenhamns hamn, 225 år efter att det gick förlorat i slaget på Köpenhamns redd. Slaget är mest känt för en brittisk viceamiral som höll teleskopet mot sitt blinda öga och förklarade att han inte såg signalen om att avbryta. Vem var han?"
+    },
+    "answer": "Horatio Nelson",
+    "answerKind": "person",
+    "person": {
+      "given": "Horatio",
+      "family": "Nelson"
+    },
+    "hint": {
+      "nb": "Fire år senere falt han i sitt siste sjøslag, ved Trafalgar.",
+      "sv": "Fyra år senare stupade han i sitt sista sjöslag, vid Trafalgar."
+    },
+    "funFact": {
+      "nb": "Dannebroge var Olfert Fischers flaggskip og måtte forlates mens slaget pågikk 2. april 1801. Nelson var bare nestkommanderende: øverstkommanderende var admiral Hyde Parker, som ga nettopp det signalet Nelson valgte å overse.",
+      "sv": "Dannebroge var Olfert Fischers flaggskepp och måste överges medan slaget pågick den 2 april 1801. Nelson var bara näst högst i befäl: överbefälhavare var amiral Hyde Parker, som gav just den signal Nelson valde att bortse från."
+    },
+    "source": "HeritageDaily 03.03.2026 – «The wreck of the Danish flagship Dannebroge discovered»",
+    "topical": {
+      "event": "2026-03-03",
+      "until": "2027-03-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "havet-v-a1",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "politikk",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "To tredeler av verdenshavene ligger utenfor alle lands økonomiske soner, og fram til nylig fantes det ingen måte å opprette verneområder der. 17. januar 2026 trådte en FN-avtale i kraft som endrer det, etter at Marokko i september 2025 ble land nummer 60 som ratifiserte den. Hvilken firebokstavs forkortelse går avtalen under?",
+      "sv": "Två tredjedelar av världshaven ligger utanför alla länders ekonomiska zoner, och fram till nyligen fanns det inget sätt att inrätta skyddade områden där. Den 17 januari 2026 trädde ett FN-avtal i kraft som ändrar det, efter att Marocko i september 2025 blev land nummer 60 som ratificerade det. Vilken förkortning på fyra bokstäver går avtalet under?"
+    },
+    "answer": "BBNJ",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bokstavene står for det engelske uttrykket for «biologisk mangfold utenfor nasjonal jurisdiksjon».",
+      "sv": "Bokstäverna står för det engelska uttrycket för «biologisk mångfald utanför nationell jurisdiktion»."
+    },
+    "funFact": {
+      "nb": "Avtalen kalles også havtraktaten eller høyhavsavtalen. Den ble vedtatt i FN i 2023 etter nesten tjue år med forhandlinger, og gir for første gang regler for vern, miljøkonsekvensutredning og deling av gevinsten fra marine genressurser i internasjonalt farvann.",
+      "sv": "Avtalet kallas också havstraktaten eller högsjöavtalet. Det antogs i FN 2023 efter nästan tjugo år av förhandlingar och ger för första gången regler för skydd, miljökonsekvensbedömning och delning av vinsten från marina genresurser i internationellt vatten."
+    },
+    "source": "FN, United Nations Treaty Collection – BBNJ-avtalen i kraft 17.01.2026; en.wikipedia.org «High Seas Treaty» (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-01-17",
+      "until": "2027-01-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "havet-v-a2",
+    "category": "havet",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie",
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "I mars 2026 fortalte forskere om et menneskelagd steinbelte på havbunnen i Vestland, tolket som en middelaldersk felle der hval ble drevet inn på grunt vann og fanget. Det er det første arkeologiske funnet som viser en fangstmetode man før bare kjente fra skriftlige kilder. I hvilken øykommune vest for Bergen ligger anlegget?",
+      "sv": "I mars 2026 berättade forskare om ett människoskapat stenbälte på havsbottnen i Vestland, tolkat som en medeltida fälla där valar drevs in på grunt vatten och fångades. Det är det första arkeologiska fyndet som visar en fångstmetod man tidigare bara kände från skriftliga källor. I vilken ökommun väster om Bergen ligger anläggningen?"
+    },
+    "answer": "Øygarden",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kommunen strekker seg som en rekke øyer nordvest for Bergen og huser gassanlegget på Kollsnes og oljeterminalen på Sture.",
+      "sv": "Kommunen sträcker sig som en rad öar nordväst om Bergen och rymmer gasanläggningen på Kollsnes och oljeterminalen på Sture."
+    },
+    "funFact": {
+      "nb": "Funnet ble beskrevet av forskning.no i mars 2026. Middelalderens hvalfangst i Norge er kjent fra skriftlige kilder, men fram til dette funnet fantes ingen fysiske spor av at hval ble drevet inn i slike steinanlegg.",
+      "sv": "Fyndet beskrevs av forskning.no i mars 2026. Medeltidens valfångst i Norge är känd från skriftliga källor, men fram till detta fynd fanns inga fysiska spår av att valar drevs in i sådana stenanläggningar."
+    },
+    "source": "forskning.no 10.03.2026 (Elise Kjørstad); HeritageDaily 20.03.2026",
+    "topical": {
+      "event": "2026-03-10",
+      "until": "2027-03-31",
+      "evergreen": true
+    }
+  }
+]

@@ -263,7 +263,17 @@
       "nb": "Apen hennes heter Herr Nilsson. Hesten får aldri noe navn i bøkene – det er først i filmene den blir kalt Lilla Gubben.",
       "sv": "Apan heter Herr Nilsson. Hästen får aldrig något namn i böckerna – det är först i filmerna den kallas Lilla Gubben."
     },
-    "source": "Astrid Lindgren Company; Rabén & Sjögren (1945)"
+    "source": "Astrid Lindgren Company; Rabén & Sjögren (1945); dato: Wikipedia (engelsk) – «Astrid Lindgren», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "11-14",
+        "year": 1907,
+        "prompt": {
+          "nb": "På denne dagen i 1907 ble det født en jente i Vimmerby i Småland. Vinteren 1941 fant datteren hennes Karin på et navn til en historie, og i 1945 kom den første boken. Jenta i boken har fregner, to stive fletter i en umiskjennelig farge og kan løfte en hest. Hva heter hun?",
+          "sv": "På denna dag 1907 föddes en flicka i Vimmerby i Småland. Vintern 1941 hittade hennes dotter Karin på ett namn till en historia, och 1945 kom den första boken. Flickan i boken har fräknar, två styva flätor i en omisskännlig färg och kan lyfta en häst. Vad heter hon?"
+        }
+      }
+    ]
   },
   {
     "id": "rod-m-01",
@@ -423,7 +433,17 @@
       "nb": "Pastellversjonen fra 1895 ble solgt for rundt 107 millioner dollar i 2012. Notatet om kveldsturen skrev Munch ned mens han oppholdt seg i Nice.",
       "sv": "Pastellversionen från 1895 såldes för omkring 107 miljoner dollar 2012. Anteckningen om kvällspromenaden skrev Munch ned medan han vistades i Nice."
     },
-    "source": "Nasjonalmuseet, Oslo; Munchmuseet – Edvard Munch"
+    "source": "Nasjonalmuseet, Oslo; Munchmuseet – Edvard Munch; dato: Wikipedia (engelsk) – «The Scream», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "02-12",
+        "year": 1994,
+        "prompt": {
+          "nb": "På denne dagen i 1994, samme dag som vinterlekene på Lillehammer ble åpnet, klatret to menn inn et vindu i Nasjonalgalleriet i Oslo og tok med seg et av landets mest kjente malerier: en figur som holder hendene mot hodet under en himmel i flammende røde bånd. Hvilket bilde ble tatt?",
+          "sv": "På denna dag 1994, samma dag som vinterspelen i Lillehammer öppnades, klättrade två män in genom ett fönster på Nasjonalgalleriet i Oslo och tog med sig en av landets mest kända målningar: en figur som håller händerna mot huvudet under en himmel i flammande röda band. Vilken tavla togs?"
+        }
+      }
+    ]
   },
   {
     "id": "rod-m-07",
@@ -504,7 +524,17 @@
       "nb": "Boken ble bedre mottatt i Danmark enn hjemme i Sverige, men gjorde forfatteren kjent i hele Norden. Berns salonger ble bygget i 1862–63 og ligger fortsatt ved Berzelii park.",
       "sv": "Boken togs bättre emot i Danmark än hemma i Sverige, men gjorde författaren känd i hela Norden. Berns salonger byggdes 1862–63 och ligger fortfarande vid Berzelii park."
     },
-    "source": "Litteraturbanken – August Strindberg, «Röda rummet» (1879); Kungliga biblioteket"
+    "source": "Litteraturbanken – August Strindberg, «Röda rummet» (1879); Kungliga biblioteket; dato: Wikipedia (engelsk) – «August Strindberg», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "01-22",
+        "year": 1849,
+        "prompt": {
+          "nb": "På denne dagen i 1849 ble det født en gutt i Stockholm. Tretti år senere ga han ut en roman som følger den unge Arvid Falk gjennom byens embetsverk, presse og teater, der bohemene samles i et rødmalt spiserom på Berns salonger. Verket regnes som den første moderne svenske romanen. Hvem var han?",
+          "sv": "På denna dag 1849 föddes en pojke i Stockholm. Trettio år senare gav han ut en roman som följer unge Arvid Falk genom stadens ämbetsverk, press och teater, där bohemerna samlas i ett rödmålat matrum på Berns salonger. Verket räknas som den första moderna svenska romanen. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "rod-m-10",

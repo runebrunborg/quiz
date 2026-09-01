@@ -1,0 +1,68 @@
+[
+  {
+    "id": "tog-m-a1",
+    "category": "tog",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "transport",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I desember 2025 åpnet en ny jernbane med en 33 kilometer lang tunnel under fjellet Koralpe. Reisetiden mellom de to delstatshovedstedene Graz og Klagenfurt falt fra tre timer til 41 minutter. I hvilket land åpnet banen?",
+      "sv": "I december 2025 öppnade en ny järnväg med en 33 kilometer lång tunnel under berget Koralpe. Restiden mellan de två delstatshuvudstäderna Graz och Klagenfurt sjönk från tre timmar till 41 minuter. I vilket land öppnade banan?"
+    },
+    "answer": {
+      "nb": "Østerrike",
+      "sv": "Österrike"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet har ni delstater, og hovedstaden ligger ved Donau.",
+      "sv": "Landet har nio delstater, och huvudstaden ligger vid Donau."
+    },
+    "funFact": {
+      "nb": "Tunnelen gjennom Koralpe var det største enkeltarbeidet på banen og består av to enkeltsporede løp. Også turen fra hovedstaden til Klagenfurt ble merkbart kortere da banen kom i drift.",
+      "sv": "Tunneln genom Koralpe var banans största enskilda arbete och består av två enkelspåriga rör. Även resan från huvudstaden till Klagenfurt blev märkbart kortare när banan togs i drift."
+    },
+    "source": "Wikipedia – Koralm Railway og 2025 in rail transport (lest 01.09.2026)",
+    "topical": {
+      "event": "2025-12",
+      "until": "2026-12-31",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "tog-v-a1",
+    "category": "tog",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "transport",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Banen ble vedtatt av Stortinget i 1873, åpnet for ordinær drift i 1881 og går 102 kilometer fra Hell opp til Storlien på svensk side av grensen. I 2025 ble den endelig elektrifisert, etter mer enn 140 år med damp og diesel. Hvilken bane?",
+      "sv": "Banan beslutades av Stortinget 1873, öppnade för ordinarie trafik 1881 och går 102 kilometer från Hell upp till Storlien på svenska sidan av gränsen. År 2025 elektrifierades den till sist, efter mer än 140 år med ånga och diesel. Vilken bana?"
+    },
+    "answer": {
+      "nb": "Meråkerbanen",
+      "sv": "Meråkerbanan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Banen har navn etter kommunen den går gjennom i Trøndelag, øst for Stjørdal.",
+      "sv": "Banan har namn efter kommunen den går genom i Trøndelag, öster om Stjørdal."
+    },
+    "funFact": {
+      "nb": "Banen har siden 2008 vært regnet som en sidebane til Nordlandsbanen. Høyeste punkt ligger 593 meter over havet, ved Storlien.",
+      "sv": "Banan har sedan 2008 räknats som en bibana till Nordlandsbanen. Högsta punkten ligger 593 meter över havet, vid Storlien."
+    },
+    "source": "Store norske leksikon – Meråkerbanen (lest 01.09.2026); Wikipedia – 2025 in rail transport",
+    "topical": {
+      "event": "2025-12",
+      "until": "2026-12-31",
+      "evergreen": true
+    }
+  }
+]

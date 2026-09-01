@@ -1,0 +1,96 @@
+[
+  {
+    "id": "stein-l-a1",
+    "category": "stein",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Oscar Isaac spiller legen og Jacob Elordi spiller skapningen i filmatiseringen som hadde premiere på filmfestivalen i Venezia 30. august 2025, kom på Netflix 7. november og fikk ni Oscar-nominasjoner. Hvilken meksikansk regissør står bak?",
+      "sv": "Oscar Isaac spelar läkaren och Jacob Elordi spelar varelsen i filmatiseringen som hade premiär på filmfestivalen i Venedig den 30 augusti 2025, kom på Netflix den 7 november och fick nio Oscarsnomineringar. Vilken mexikansk regissör står bakom?"
+    },
+    "answer": "Guillermo del Toro",
+    "answerKind": "person",
+    "person": {
+      "given": "Guillermo",
+      "family": "del Toro"
+    },
+    "hint": {
+      "nb": "Han vant selv Oscar for beste regi i 2018, for en film om en kvinne som forelsker seg i et amfibisk vesen.",
+      "sv": "Han vann själv Oscar för bästa regi 2018, för en film om en kvinna som blir förälskad i en amfibisk varelse."
+    },
+    "funFact": {
+      "nb": "Filmen er en versjon av Mary Shelleys roman fra 1818. Av de ni nominasjonene var én for beste film og én for beste mannlige birolle til Elordi. Regissøren har tidligere laget «Pans labyrint» og «The Shape of Water».",
+      "sv": "Filmen är en version av Mary Shelleys roman från 1818. Av de nio nomineringarna var en för bästa film och en för bästa manliga biroll till Elordi. Regissören har tidigare gjort «Pans labyrint» och «The Shape of Water»."
+    },
+    "source": "en.wikipedia.org – «Frankenstein (2025 film)» (hentet 01.09.2026); Netflix-premiere 07.11.2025",
+    "topical": {
+      "event": "2025-11-07",
+      "until": "2026-11-30",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "stein-m-a1",
+    "category": "stein",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Vinteren 2025 fikk en seksti meter bred steinblokk i bane rundt sola store overskrifter: først med en liten sjanse for å treffe jorden i 2032, siden for å treffe månen samme år. I februar 2026 avblåste nye målinger faren helt. Hvilket romteleskop, oppskutt i 2021, sto for målingene?",
+      "sv": "Vintern 2025 fick ett sextio meter brett stenblock i bana runt solen stora rubriker: först med en liten chans att träffa jorden 2032, sedan att träffa månen samma år. I februari 2026 avblåste nya mätningar faran helt. Vilket rymdteleskop, uppskjutet 2021, stod för mätningarna?"
+    },
+    "answer": "James Webb-teleskopet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Teleskopet er oppkalt etter en tidligere NASA-sjef og ble skutt opp første juledag 2021.",
+      "sv": "Teleskopet är uppkallat efter en tidigare NASA-chef och sköts upp på juldagen 2021."
+    },
+    "funFact": {
+      "nb": "Asteroiden heter 2024 YR4 og ble oppdaget 27. desember 2024 fra ATLAS-stasjonen i Chile – to dager etter at den hadde passert jorden. Sjansen for et månetreff 22. desember 2032 var oppe i rundt fire prosent før den ble null.",
+      "sv": "Asteroiden heter 2024 YR4 och upptäcktes den 27 december 2024 från ATLAS-stationen i Chile – två dagar efter att den passerat jorden. Chansen för en månträff den 22 december 2032 var uppe i omkring fyra procent innan den blev noll."
+    },
+    "source": "en.wikipedia.org – «2024 YR4» (hentet 01.09.2026); nye målinger februar 2026",
+    "topical": {
+      "event": "2026-02",
+      "until": "2027-02-28",
+      "evergreen": false
+    }
+  },
+  {
+    "id": "stein-v-a1",
+    "category": "stein",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I september 2025 publiserte NASA i Nature en analyse av en steinblokk i Jezero-krateret på Mars, full av millimeterstore flekker som forskerne kalte «leopardflekker». Mineralene i dem kan ha blitt dannet av liv for 3,5 milliarder år siden. Hvilken rover tok prøven?",
+      "sv": "I september 2025 publicerade NASA i Nature en analys av ett stenblock i Jezerokratern på Mars, fullt av millimeterstora fläckar som forskarna kallade «leopardfläckar». Mineralen i dem kan ha bildats av liv för 3,5 miljarder år sedan. Vilken rover tog provet?"
+    },
+    "answer": "Perseverance",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Roveren landet i februar 2021 og hadde med seg det lille helikopteret Ingenuity.",
+      "sv": "Rovern landade i februari 2021 och hade med sig den lilla helikoptern Ingenuity."
+    },
+    "funFact": {
+      "nb": "Steinen heter Cheyava Falls og ble funnet 18. juli 2024. Prøven, den 22. kjerneprøven på ferden, fikk navnet Sapphire Canyon. NASA understreker at bare en retur av prøven til jorden kan avgjøre saken.",
+      "sv": "Stenen heter Cheyava Falls och hittades den 18 juli 2024. Provet, det 22:a kärnprovet på färden, fick namnet Sapphire Canyon. NASA understryker att bara en retur av provet till jorden kan avgöra saken."
+    },
+    "source": "en.wikipedia.org – «Cheyava Falls» (hentet 01.09.2026); Nature-artikkelen publisert 10.09.2025",
+    "topical": {
+      "event": "2025-09-10",
+      "until": "2026-09-30",
+      "evergreen": true
+    }
+  }
+]

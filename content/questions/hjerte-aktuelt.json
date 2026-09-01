@@ -1,0 +1,32 @@
+[
+  {
+    "id": "hjerte-v-a1",
+    "category": "hjerte",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "medisin",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "I april 2026 fortalte et svensk bioteknologiselskap i Mölndal om et middel de selv omtaler som et «vaksine» mot hjerteinfarkt: én eller to sprøyter i året i stedet for daglige tabletter. Middelet virker ved at små RNA-molekyler slår av ett bestemt gen. Hva kalles denne mekanismen?",
+      "sv": "I april 2026 berättade ett svenskt bioteknikföretag i Mölndal om ett medel som de själva kallar ett «vaccin» mot hjärtinfarkt: en eller två sprutor om året i stället för daglig tablettask. Medlet verkar genom att små RNA-molekyler stänger av en bestämd gen. Vad kallas den mekanismen?"
+    },
+    "answer": "RNA-interferens",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Mekanismen ble oppdaget i rundorm og ga Andrew Fire og Craig Mello nobelprisen i medisin i 2006. Forkortelsen er RNAi.",
+      "sv": "Mekanismen upptäcktes i rundmask och gav Andrew Fire och Craig Mello nobelpriset i medicin 2006. Förkortningen är RNAi."
+    },
+    "funFact": {
+      "nb": "Middelet fra Ribocure Pharmaceuticals prøves ut på 30 personer som har hatt hjerteinfarkt. Forskeren Julia Grönros sammenlignet virkemåten med et kodelås: bare ett gen blir slått av.",
+      "sv": "Medlet från Ribocure Pharmaceuticals prövas på 30 personer som tidigare haft hjärtinfarkt. Forskaren Julia Grönros liknade verkningssättet vid ett kodlås: bara en gen stängs av."
+    },
+    "source": "SVT Nyheter, 09.04.2026",
+    "topical": {
+      "event": "2026-04-09",
+      "until": "2027-04-30",
+      "evergreen": false
+    }
+  }
+]

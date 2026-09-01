@@ -1,0 +1,100 @@
+[
+  {
+    "id": "manen-l-a1",
+    "category": "manen",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Onsdag 1. april 2026 løftet en SLS-rakett fire astronauter ut av jordbanen for første gang siden 1972, og ni døgn senere landet kapselen «Integrity» i Stillehavet utenfor San Diego. Underveis rundet mannskapet baksiden av månen. Hva heter dette Nasa-oppdraget?",
+      "sv": "Onsdagen den 1 april 2026 lyfte en SLS-raket med fyra astronauter ut ur jordbanan för första gången sedan 1972, och nio dygn senare landade kapseln «Integrity» i Stilla havet utanför San Diego. På vägen rundade besättningen månens baksida. Vad heter detta Nasa-uppdrag?"
+    },
+    "answer": "Artemis II",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Programmet er oppkalt etter Apollons tvillingsøster i gresk mytologi, og dette var ferd nummer to i rekken.",
+      "sv": "Programmet är uppkallat efter Apollons tvillingsyster i grekisk mytologi, och detta var färd nummer två i ordningen."
+    },
+    "funFact": {
+      "nb": "Mannskapet var Reid Wiseman, Victor Glover, Christina Koch og Jeremy Hansen. Den 6. april var de rundt 406 000 kilometer fra jorden – lenger hjemmefra enn noe menneske hadde vært før, og forbi rekorden Apollo 13 satte i 1970.",
+      "sv": "Besättningen var Reid Wiseman, Victor Glover, Christina Koch och Jeremy Hansen. Den 6 april var de omkring 406 000 kilometer från jorden – längre hemifrån än någon människa varit tidigare, och förbi rekordet Apollo 13 satte 1970."
+    },
+    "source": "SVT Nyheter 01.04.2026; en.wikipedia.org – «Artemis II» (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-04-01",
+      "until": "2027-04-30",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "manen-m-a1",
+    "category": "manen",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Hun har rekorden for den lengste sammenhengende romferden av en kvinne, 328 døgn på romstasjonen, og gikk i 2019 den første romvandringen med bare kvinner. I april 2026 ble hun den første kvinnen som fløy rundt månen. Hvem er hun?",
+      "sv": "Hon har rekordet för den längsta sammanhängande rymdfärden av en kvinna, 328 dygn på rymdstationen, och gjorde 2019 den första rymdpromenaden med bara kvinnor. I april 2026 blev hon den första kvinnan som flög runt månen. Vem är hon?"
+    },
+    "answer": "Christina Koch",
+    "answerKind": "person",
+    "person": {
+      "given": "Christina",
+      "family": "Koch"
+    },
+    "hint": {
+      "nb": "Hun ble tatt opp i Nasas astronautkull i 2013, og romvandringen gikk hun sammen med Jessica Meir.",
+      "sv": "Hon togs upp i Nasas astronautkull 2013, och rymdpromenaden gjorde hon tillsammans med Jessica Meir."
+    },
+    "funFact": {
+      "nb": "Victor Glover ble på samme ferd den første svarte astronauten som rundet månen. Ingen kvinne hadde vært utenfor lav jordbane før dette, og ingen mennesker i det hele siden 1972.",
+      "sv": "Victor Glover blev på samma färd den första svarta astronauten som rundade månen. Ingen kvinna hade varit utanför låg jordbana före detta, och inga människor alls sedan 1972."
+    },
+    "source": "SVT Nyheter 01.04.2026; en.wikipedia.org – «Christina Koch» (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-04-06",
+      "until": "2027-04-30",
+      "evergreen": true
+    }
+  },
+  {
+    "id": "manen-v-a1",
+    "category": "manen",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Han er oberst i det kanadiske flyvåpenet, født i Ontario i 1976, og ble tatt opp som astronaut i 2009. I april 2026 satt han i Orion-kapselen som rundet baksiden av månen, og ble den første uten amerikansk statsborgerskap som har vært så langt hjemmefra. Hvem er han?",
+      "sv": "Han är överste i det kanadensiska flygvapnet, född i Ontario 1976, och antogs som astronaut 2009. I april 2026 satt han i Orion-kapseln som rundade månens baksida, och blev den första utan amerikanskt medborgarskap som varit så långt hemifrån. Vem är han?"
+    },
+    "answer": "Jeremy Hansen",
+    "answerKind": "person",
+    "person": {
+      "given": "Jeremy",
+      "family": "Hansen"
+    },
+    "hint": {
+      "nb": "Han fløy CF-18-jagerfly før han ble astronaut, og er den første fra sitt land som har vært utenfor lav jordbane.",
+      "sv": "Han flög CF-18-jaktplan innan han blev astronaut, och är den första från sitt land som varit utanför låg jordbana."
+    },
+    "funFact": {
+      "nb": "Han har mastergrad i fysikk fra Royal Military College i Canada. Emblemet for ferden ble tegnet av den anishinaabe kunstneren Henry Guimond.",
+      "sv": "Han har en masterexamen i fysik från Royal Military College i Kanada. Emblemet för färden ritades av den anishinaabiska konstnären Henry Guimond."
+    },
+    "source": "SVT Nyheter 01.04.2026; en.wikipedia.org – «Jeremy Hansen» (kontrollert 01.09.2026)",
+    "topical": {
+      "event": "2026-04-06",
+      "until": "2027-04-30",
+      "evergreen": true
+    }
+  }
+]

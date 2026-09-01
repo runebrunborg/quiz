@@ -26,7 +26,17 @@
       "nb": "Bjørnson var også en samfunnsdebattant og fredsaktivist, og er den eneste av «de fire store» i norsk litteratur (sammen med Ibsen, Kielland og Lie) som fikk nobelprisen.",
       "sv": "Bjørnson var även samhällsdebattör och fredsaktivist, och är den ende av «de fyra stora» i norsk litteratur (tillsammans med Ibsen, Kielland och Lie) som fick Nobelpriset."
     },
-    "source": "Nobel Prize Outreach – «Bjørnstjerne Bjørnson»; Store norske leksikon"
+    "source": "Nobel Prize Outreach – «Bjørnstjerne Bjørnson»; Store norske leksikon",
+    "onThisDay": [
+      {
+        "day": "12-08",
+        "year": 1832,
+        "prompt": {
+          "nb": "På denne dagen i 1832 ble det født en gutt i prestegården på Kvikne nord for Tynset. Han ble nasjonalskald, skrev teksten til Norges nasjonalsang, og fikk i 1903 nobelprisen i litteratur som første nordmann. Etternavnet hans begynner med et rovdyr. Hvem er han?",
+          "sv": "På denna dag 1832 föddes en pojke i prästgården på Kvikne norr om Tynset. Han blev nationalskald, skrev texten till Norges nationalsång och fick 1903 Nobelpriset i litteratur som förste norrman. Hans efternamn börjar med ett rovdjur. Vem är han?"
+        }
+      }
+    ]
   },
   {
     "id": "rovdyr-l-12",
@@ -204,7 +214,17 @@
       "nb": "Skansen ble forbildet for friluftsmuseer over hele verden, deriblant Norsk Folkemuseum på Bygdøy i Oslo, som åpnet bare noen år senere.",
       "sv": "Skansen blev förebild för friluftsmuseer över hela världen, däribland Norsk Folkemuseum på Bygdøy i Oslo, som öppnade bara några år senare."
     },
-    "source": "Skansen – historik"
+    "source": "Skansen – historik",
+    "onThisDay": [
+      {
+        "day": "10-11",
+        "year": 1891,
+        "prompt": {
+          "nb": "På denne dagen i 1891 åpnet Artur Hazelius verdens eldste friluftsmuseum på Djurgården i Stockholm. Utenom gamle hus og håndverkstradisjoner har museet også en dyrepark med nordiske rovdyr som brunbjørn, gaupe og jerv. Hva heter friluftsmuseet?",
+          "sv": "På denna dag 1891 öppnade Artur Hazelius världens äldsta friluftsmuseum på Djurgården i Stockholm. Förutom gamla hus och hantverkstraditioner har museet även en djurpark med nordiska rovdjur som brunbjörn, lodjur och järv. Vad heter friluftsmuseet?"
+        }
+      }
+    ]
   },
   {
     "id": "rovdyr-l-19",

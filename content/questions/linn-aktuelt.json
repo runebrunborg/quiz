@@ -1,0 +1,35 @@
+[
+  {
+    "id": "linn-m-a1",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Fire dager etter åpningen av vinterlekene i Milano og Cortina gikk hele sprintpallen til Sverige. Vinneren sto på en olympisk pall for første gang, og hadde lagvenninnene Jonna Sundling og Maja Dahlqvist bak seg. Hvem gikk inn til gull i den klassiske sprinten i Tesero 10. februar 2026?",
+      "sv": "Fyra dagar efter invigningen av vinterspelen i Milano och Cortina gick hela sprintpallen till Sverige. Segraren stod på en olympisk pall för första gången, med lagkamraterna Jonna Sundling och Maja Dahlqvist bakom sig. Vem åkte in till guld i den klassiska sprinten i Tesero den 10 februari 2026?"
+    },
+    "answer": "Linn Svahn",
+    "answerKind": "person",
+    "person": {
+      "given": "Linn",
+      "family": "Svahn"
+    },
+    "hint": {
+      "nb": "Hun er født i Lycksele i Västerbotten, går for Östersunds SK og tok sin første verdenscupseier i Davos allerede i desember 2019.",
+      "sv": "Hon är född i Lycksele i Västerbotten, tävlar för Östersunds SK och tog sin första världscupseger i Davos redan i december 2019."
+    },
+    "funFact": {
+      "nb": "Sverige tok også gull i lagsprinten for kvinner i disse lekene, og sølv i stafetten. Den første verdenscupseieren hennes kom i Davos 14. desember 2019, fem dager etter at hun fylte 20.",
+      "sv": "Sverige tog också guld i damernas lagsprint under dessa spel, och silver i stafetten. Hennes första världscupseger kom i Davos den 14 december 2019, fem dagar efter att hon fyllt 20."
+    },
+    "source": "Milano-Cortina 2026 – offisiell resultatliste, klassisk sprint kvinner 10.02.2026 (kontrollert mot en.wikipedia.org 01.09.2026)",
+    "topical": {
+      "event": "2026-02-10",
+      "until": "2027-02-28",
+      "evergreen": true
+    }
+  }
+]

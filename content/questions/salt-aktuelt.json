@@ -1,0 +1,35 @@
+[
+  {
+    "id": "salt-m-a1",
+    "category": "salt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "I mai 2026 presenterte forskere en ny innretning: et svart, laserbehandlet metall som med bare solvarme lager ferskvann av ekte sjøvann – og som samtidig høster ut nesten alle mineralene som faste krystaller, slik at anlegget ikke må pumpe konsentrert saltlake tilbake i havet. Hva kalles prosessen der drikkevann utvinnes av sjøvann?",
+      "sv": "I maj 2026 presenterade forskare en ny anordning: en svart, laserbehandlad metall som med enbart solvärme gör färskvatten av verkligt havsvatten – och som samtidigt utvinner nästan alla mineraler som fasta kristaller, så att anläggningen inte måste pumpa koncentrerad saltlake tillbaka i havet. Vad kallas processen där dricksvatten utvinns ur havsvatten?"
+    },
+    "answer": {
+      "nb": "Avsalting",
+      "sv": "Avsaltning"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet betyr bokstavelig å ta saltet ut; på engelsk heter det desalination.",
+      "sv": "Ordet betyder bokstavligen att ta bort saltet; på engelska heter det desalination."
+    },
+    "funFact": {
+      "nb": "Metoden ble beskrevet i tidsskriftet Light: Science & Applications 27. mai 2026. Vanlige anlegg må slippe ut store mengder konsentrert saltlake, som er tyngre enn sjøvann og legger seg langs bunnen der den kan skade livet i havet.",
+      "sv": "Metoden beskrevs i tidskriften Light: Science & Applications den 27 maj 2026. Vanliga anläggningar måste släppa ut stora mängder koncentrerad saltlake, som är tyngre än havsvatten och lägger sig längs bottnen där den kan skada livet i havet."
+    },
+    "source": "Light: Science & Applications, 27.05.2026 – Tang, Singh, Wei, Xu og Guo",
+    "topical": {
+      "event": "2026-05-27",
+      "until": "2027-05-31",
+      "evergreen": false
+    }
+  }
+]

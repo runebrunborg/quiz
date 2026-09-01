@@ -83,7 +83,17 @@
       "nb": "Dahl gikk på Repton School, dit sjokoladeprodusenter som Cadbury sendte nye produkter for utprøving blant elevene – noe han senere sa inspirerte boken. Filmatiseringen fra 1971 mislikte han sterkt.",
       "sv": "Dahl gick på Repton School, dit chokladtillverkare som Cadbury skickade nya produkter för utprovning bland eleverna – något han senare sa inspirerade boken. Filmatiseringen från 1971 ogillade han starkt."
     },
-    "source": "Roald Dahl Story Company; Wikipedia – Charlie and the Chocolate Factory"
+    "source": "Roald Dahl Story Company; Wikipedia – Charlie and the Chocolate Factory; dato: Wikipedia (engelsk) – «Roald Dahl», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "09-13",
+        "year": 1916,
+        "prompt": {
+          "nb": "På denne dagen i 1916 ble det født en gutt i Llandaff i Cardiff, av norske foreldre. I 1964 ga han ut en barnebok om fem barn som vinner gylne billetter til en hemmelighetsfull fabrikk – en idé han skal ha fått mens han selv gikk på kostskole. Hvem var han?",
+          "sv": "På denna dag 1916 föddes en pojke i Llandaff i Cardiff, av norska föräldrar. År 1964 gav han ut en barnbok om fem barn som vinner gyllene biljetter till en hemlighetsfull fabrik – en idé han sägs ha fått från spionaget mellan rivaliserande chokladfabriker när han själv gick i internatskola. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "sjokolade-l-04",
@@ -293,7 +303,17 @@
       "nb": "Navnet konchering kommer av at de opprinnelige maskinene hadde en form som lignet et konkylieskall. Moderne fabrikker gjør i dag jobben på timer, mot opptil flere døgn tidligere.",
       "sv": "Namnet konchering kommer av att de ursprungliga maskinerna hade en form som liknade ett snäckskal. Moderna fabriker gör i dag jobbet på timmar, mot upp till flera dygn tidigare."
     },
-    "source": "Wikipedia – Conching"
+    "source": "Wikipedia – Conching; dato: Wikipedia (engelsk) – «Rodolphe Lindt», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "07-16",
+        "year": 1855,
+        "prompt": {
+          "nb": "På denne dagen i 1855 ble det født en gutt i Bern. I 1879 lot han en blandemaskin i fabrikken sin gå hele helgen ved en feiltakelse, og resultatet ble en sjokolade som var langt jevnere, blankere og mer smeltende enn noe som fantes fra før. Hvem oppfant denne prosessen, kalt konchering?",
+          "sv": "På denna dag 1855 föddes en pojke i Bern. År 1879 lät han av misstag en blandningsmaskin i sin fabrik gå hela helgen, och resultatet blev en choklad som var betydligt jämnare, blankare och mer smältande än något som funnits tidigare. Vem uppfann denna process, kallad konchering?"
+        }
+      }
+    ]
   },
   {
     "id": "sjokolade-m-02",
@@ -750,7 +770,17 @@
       "nb": "Arbeidet ble gjort i 1921–1922 og er kjent som Freiafrisen. At fabrikkarbeidere skulle spise lunsjen sin omgitt av verk av landets fremste maler var en radikal tanke i samtiden.",
       "sv": "Arbetet gjordes 1921–1922 och är känt som Freiafrisen. Att fabriksarbetare skulle äta sin lunch omgivna av verk av landets främste målare var en radikal tanke på den tiden."
     },
-    "source": "Store norske leksikon – Edvard Munch"
+    "source": "Store norske leksikon – Edvard Munch; dato: Wikipedia (engelsk) – «Edvard Munch», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "12-12",
+        "year": 1863,
+        "prompt": {
+          "nb": "På denne dagen i 1863 ble det født en gutt på Ådalsbruk i Løten. Snaut seksti år senere fikk han oppdraget med å utsmykke spisesalen for arbeiderne ved sjokoladefabrikken på Rodeløkka i Oslo, og det ble hans siste store dekorative oppdrag. Hvilken maler var det?",
+          "sv": "På denna dag 1863 föddes en pojke på Ådalsbruk i Løten. Knappt sextio år senare fick han uppdraget att smycka matsalen för arbetarna vid chokladfabriken på Rodeløkka i Oslo, och det blev hans sista stora dekorativa uppdrag. Vilken målare var det?"
+        }
+      }
+    ]
   },
   {
     "id": "sjokolade-v-09",

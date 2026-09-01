@@ -292,7 +292,17 @@
       "nb": "Kirurgen hadde trent på over femti hunder på forhånd, og en av dem, Tommie, levde i mange år etterpå.",
       "sv": "Kirurgen hade tränat på över femtio hundar i förväg, och en av dem, Tommie, levde i många år efteråt."
     },
-    "source": "Store norske leksikon – Christiaan Barnard"
+    "source": "Store norske leksikon – Christiaan Barnard",
+    "onThisDay": [
+      {
+        "day": "12-03",
+        "year": 1967,
+        "prompt": {
+          "nb": "På denne dagen i 1967, tidlig en søndag morgen på Groote Schuur-sykehuset i Cape Town, fikk kjøpmannen Louis Washkansky et organ fra en avdød giver. Han våknet og snakket, men levde bare 18 dager. Hvilken sørafrikansk kirurg ledet operasjonen?",
+          "sv": "På denna dag 1967, tidigt en söndagsmorgon på Groote Schuur-sjukhuset i Kapstaden, fick handlaren Louis Washkansky ett organ från en avliden givare. Han vaknade och talade, men levde bara 18 dagar. Vilken sydafrikansk kirurg ledde operationen?"
+        }
+      }
+    ]
   },
   {
     "id": "hjerte-m-02",
@@ -637,7 +647,17 @@
       "nb": "Han mente selv at kampanjen bare skulle vare et par måneder, og ble overrasket over at logoen fortsatt er i bruk.",
       "sv": "Han trodde själv att kampanjen bara skulle vara ett par månader och blev överraskad över att logotypen fortfarande används."
     },
-    "source": "Museum of Modern Art – Milton Glaser"
+    "source": "Museum of Modern Art – Milton Glaser",
+    "onThisDay": [
+      {
+        "day": "06-26",
+        "year": 1929,
+        "prompt": {
+          "nb": "På denne dagen i 1929 ble det født en gutt i Bronx som i 1977 satt i baksetet av en drosje og skisserte en logo der et rødt symbol erstattet et verb. Han ga arbeidet bort gratis, og døde på sin egen bursdag 91 år senere. Hvilken amerikansk grafisk designer?",
+          "sv": "På denna dag 1929 föddes en pojke i Bronx som 1977 satt i baksätet på en taxi och skissade en logotyp där en röd symbol ersatte ett verb. Han gav bort arbetet gratis och dog på sin egen födelsedag 91 år senare. Vilken amerikansk grafisk formgivare?"
+        }
+      }
+    ]
   },
   {
     "id": "hjerte-v-05",
@@ -689,7 +709,17 @@
       "nb": "Forfatteren regnes som detektivsjangerens far, og Sherlock Holmes-forfatteren Arthur Conan Doyle kalte ham sitt forbilde.",
       "sv": "Författaren räknas som detektivgenrens fader, och Sherlock Holmes-författaren Arthur Conan Doyle kallade honom sin förebild."
     },
-    "source": "Store norske leksikon – Edgar Allan Poe"
+    "source": "Store norske leksikon – Edgar Allan Poe",
+    "onThisDay": [
+      {
+        "day": "01-19",
+        "year": 1809,
+        "prompt": {
+          "nb": "På denne dagen i 1809 ble det født en gutt i Boston som seinere skrev novellen «Det sladrende hjertet», der morderen avslører seg selv fordi han mener å høre offerets organ slå under gulvplankene. Hvilken amerikansk forfatter er det?",
+          "sv": "På denna dag 1809 föddes en pojke i Boston som senare skrev novellen «Det skvallrande hjärtat», där mördaren avslöjar sig själv för att han tycker sig höra offrets organ slå under golvplankorna. Vilken amerikansk författare är det?"
+        }
+      }
+    ]
   },
   {
     "id": "hjerte-v-07",

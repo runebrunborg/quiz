@@ -4,12 +4,17 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["mat-og-drikke"],
+    "topics": [
+      "mat-og-drikke"
+    ],
     "prompt": {
       "nb": "Denne kaken stekes i et jern, og jern til formålet er kjent fra Norge helt fra 1600-tallet, med oppskrifter fra 1700-tallet. I dag lages den ofte i en rund form delt inn i hjerter, ved siden av den firkantede varianten. Hvilken kake er dette?",
       "sv": "Denna kaka gräddas i ett järn, och järn för ändamålet är kända i Norge redan från 1600-talet, med recept från 1700-talet. I dag görs den ofta i en rund form indelad i hjärtan, vid sidan av den fyrkantiga varianten. Vilken kaka är detta?"
     },
-    "answer": { "nb": "vaffel", "sv": "våffla" },
+    "answer": {
+      "nb": "vaffel",
+      "sv": "våffla"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Den spises gjerne med rømme, syltetøy eller brunost.",
@@ -26,12 +31,17 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["natur"],
+    "topics": [
+      "natur"
+    ],
     "prompt": {
       "nb": "Denne slekten av små viltvoksende blomster har hjerteformede blad som vokser rett opp fra jordstengelen, og de blomstrer tidlig på våren i skog og eng over store deler av Norden. Hvilken blomsterslekt?",
       "sv": "Detta släkte av små vildväxande blommor har hjärtformade blad som växer rakt upp från jordstammen, och de blommar tidigt på våren i skog och äng över stora delar av Norden. Vilket blomsterssläkte?"
     },
-    "answer": { "nb": "fiol", "sv": "viol" },
+    "answer": {
+      "nb": "fiol",
+      "sv": "viol"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Stemorsblomsten hører til samme plantefamilie.",
@@ -48,7 +58,9 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["musikk"],
+    "topics": [
+      "musikk"
+    ],
     "prompt": {
       "nb": "Sangen fra 2007 er en duett mellom to av Norges mest kjente viseartister, og låner tittelen sin fra et ord om noen som får andre til å forelske seg for så å forlate dem. Hvem er de to artistene bak sangen «Hjerteknuser»?",
       "sv": "Låten från 2007 är en duett mellan två av Norges mest kända visartister, och lånar sin titel från ett ord om någon som får andra att bli kära för att sedan lämna dem. Vilka är de två artisterna bakom låten «Hjerteknuser»?"
@@ -70,12 +82,17 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "Ordet brukes i faste vendinger som «___ takk» og «___ velkommen», og er avledet av gammelnorsk «hjartanligr» – en sammensetning av organet i brystet og en endelse. Hvilket ord, som beskriver noe varmt og oppriktig ment?",
       "sv": "Ordet används i fasta uttryck som «___ tack» och «___ välkommen», och kommer av fornnordiska «hjartanligr» – en sammansättning av organet i bröstet och en ändelse. Vilket ord, som beskriver något varmt och uppriktigt menat?"
     },
-    "answer": { "nb": "hjertelig", "sv": "hjärtlig" },
+    "answer": {
+      "nb": "hjertelig",
+      "sv": "hjärtlig"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Ordet brukes også i brevavslutninger, som i «___ hilsen».",
@@ -92,7 +109,9 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "Mens Norge og Danmark rett og slett kaller 14. februar «valentinsdagen», har svenskene sitt eget navn på dagen – en direkte oversettelse ville vært noe sånt som «alle hjerters dag». Feiringen har bare eksistert i Sverige siden 1960-tallet. Hva kaller svenskene 14. februar?",
       "sv": "Medan Norge och Danmark helt enkelt kallar 14 februari för «valentinsdagen», har svenskarna sitt eget namn på dagen. Firandet har bara funnits i Sverige sedan 1960-talet. Vad kallar svenskarna 14 februari?"
@@ -114,7 +133,9 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["medisin"],
+    "topics": [
+      "medisin"
+    ],
     "prompt": {
       "nb": "Etter at apotekmonopolet i Sverige ble avviklet i 2009, dukket det opp flere nye apotekkjeder. En av de største fikk et navn som betyr «Apoteket hjertet», og har i dag rundt 400 utsalg over hele Sverige. Hvilken kjede?",
       "sv": "Efter att apoteksmonopolet i Sverige avvecklades 2009 uppstod flera nya apotekskedjor. En av de största fick ett namn som betyder «Apoteket hjärtat», och har i dag omkring 400 butiker över hela Sverige. Vilken kedja?"
@@ -136,7 +157,10 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["mat-og-drikke", "sprak"],
+    "topics": [
+      "mat-og-drikke",
+      "sprak"
+    ],
     "prompt": {
       "nb": "25. mars kalles i Sverige en dag oppkalt etter et bakverk som tradisjonelt stekes hjerteformet. Navnet oppsto trolig fordi det egentlige navnet på datoen – Vårfrudagen, Marias bebudelsesdag – uttalt fort minner om noe helt annet. Hva heter dagen på svensk?",
       "sv": "25 mars kallas i Sverige för en dag uppkallad efter ett bakverk som traditionellt gräddas hjärtformat. Namnet uppstod troligen för att det egentliga namnet på datumet – Vårfrudagen, Marie bebådelsedag – uttalat snabbt påminner om något helt annat. Vad heter dagen på svenska?"
@@ -158,14 +182,20 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["musikk", "film"],
+    "topics": [
+      "musikk",
+      "film"
+    ],
     "prompt": {
       "nb": "Låten fra 1997 ble skrevet av James Horner og Will Jennings for en katastrofefilm om et synkende skip, og ble en av tidenes mest solgte singler med over 18 millioner solgte eksemplarer. Hvem fremførte «My Heart Will Go On»?",
       "sv": "Låten från 1997 skrevs av James Horner och Will Jennings till en katastroffilm om ett sjunkande fartyg, och blev en av tidernas mest sålda singlar med över 18 miljoner sålda exemplar. Vem framförde «My Heart Will Go On»?"
     },
     "answer": "Celine Dion",
     "answerKind": "person",
-    "person": { "given": "Celine", "family": "Dion" },
+    "person": {
+      "given": "Celine",
+      "family": "Dion"
+    },
     "hint": {
       "nb": "Hun er fra Québec i Canada og har hatt en lang karriere med egne show i Las Vegas.",
       "sv": "Hon är från Québec i Kanada och har haft en lång karriär med egna shower i Las Vegas."
@@ -181,12 +211,18 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["litteratur", "film"],
+    "topics": [
+      "litteratur",
+      "film"
+    ],
     "prompt": {
       "nb": "I den amerikanske romanen fra 1900 møter vi en mann laget av blikk som er overbevist om at han mangler noe helt sentralt, og som reiser sammen med ei jente ved navn Dorothy for å be en mektig trollmann om et nytt eksemplar av det. Hvilken klassiske fortelling er dette hentet fra?",
       "sv": "I den amerikanska romanen från 1900 möter vi en man gjord av bleck som är övertygad om att han saknar något helt centralt, och som reser tillsammans med en flicka vid namn Dorothy för att be en mäktig trollkarl om ett nytt exemplar av det. Vilken klassisk berättelse är detta hämtat från?"
     },
-    "answer": { "nb": "Trollmannen fra Oz", "sv": "Trollkarlen från Oz" },
+    "answer": {
+      "nb": "Trollmannen fra Oz",
+      "sv": "Trollkarlen från Oz"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Forfatteren het L. Frank Baum.",
@@ -203,7 +239,9 @@
     "category": "hjerte",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["spill"],
+    "topics": [
+      "spill"
+    ],
     "prompt": {
       "nb": "Denne spillserien er et samarbeid mellom et japansk spillselskap og et amerikansk underholdningsselskap kjent for tegnefilmer, og blander egne figurer med kjente Disney- og Pixar-karakterer. Tredje hovedspillet kom i 2019, sytten år etter det aller første. Hvilken spillserie, oppkalt etter organet i flertall?",
       "sv": "Denna spelserie är ett samarbete mellan ett japanskt spelbolag och ett amerikanskt underhållningsbolag känt för tecknade filmer, och blandar egna figurer med kända Disney- och Pixar-karaktärer. Tredje huvudspelet kom 2019, sjutton år efter det allra första. Vilken spelserie, uppkallad efter organet i plural?"
@@ -225,14 +263,19 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["musikk"],
+    "topics": [
+      "musikk"
+    ],
     "prompt": {
       "nb": "Denne visesangeren fra Svolvær i Lofoten fikk sitt store gjennombrudd i 1987 med et album kalt noe som beskriver et utemmet organ, og albumet vant Spellemannprisen i visesong-kategorien. Hvem er artisten?",
       "sv": "Denna visartist från Svolvær i Lofoten fick sitt stora genombrott 1987 med ett album kallat något som beskriver ett otämjt organ, och albumet vann Spellemannpriset i visasång-kategorin. Vem är artisten?"
     },
     "answer": "Kari Bremnes",
     "answerKind": "person",
-    "person": { "given": "Kari", "family": "Bremnes" },
+    "person": {
+      "given": "Kari",
+      "family": "Bremnes"
+    },
     "hint": {
       "nb": "Hun debuterte i 1980 sammen med broren Ola Bremnes, som også er musiker.",
       "sv": "Hon debuterade 1980 tillsammans med sin bror Ola Bremnes, som också är musiker."
@@ -248,7 +291,9 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["medisin"],
+    "topics": [
+      "medisin"
+    ],
     "prompt": {
       "nb": "Denne norske pasientorganisasjonen ble grunnlagt i 1943, opprinnelig som en forening for tuberkulosesyke, men skiftet i 1961 navn til noe som viser til to indre organer. I dag har den rundt 240 lokallag over hele landet. Hva heter organisasjonen, vanligvis kjent under en forkortelse?",
       "sv": "Denna norska patientorganisation grundades 1943, ursprungligen som en förening för tuberkulossjuka, men bytte 1961 namn till något som syftar på två inre organ. I dag har den omkring 240 lokalavdelningar över hela landet. Vad heter organisationen, vanligtvis känd under en förkortning?"
@@ -270,7 +315,10 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["kunst", "historie"],
+    "topics": [
+      "kunst",
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne typen sølvsmykke til norsk folkedrakt finnes i mange regionale varianter, som slangesølje og trøndersølje. En sjeldnere variant har form som selve organet – en hyllest til Jomfru Maria og morskjærligheten, med røtter i middelalderen. Hva kalles denne varianten?",
       "sv": "Denna typ av silversmycke till norsk folkdräkt finns i många regionala varianter, som slangesølje och trøndersølje. En mer sällsynt variant har formen av själva organet – en hyllning till Jungfru Maria och moderskärleken, med rötter i medeltiden. Vad kallas denna variant?"
@@ -292,12 +340,18 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["medisin", "historie"],
+    "topics": [
+      "medisin",
+      "historie"
+    ],
     "prompt": {
       "nb": "I november 1983 ble det utført en operasjon ved Rikshospitalet i Oslo som var den første i sitt slag i hele Norden. Kirurgen het Tor Frøysaker, og organet som ble byttet ut, fungerte i flere tiår etterpå. Hvilken type transplantasjon var dette?",
       "sv": "I november 1983 utfördes en operation vid Rikshospitalet i Oslo som var den första i sitt slag i hela Norden. Kirurgen hette Tor Frøysaker, och organet som byttes ut fungerade i flera decennier därefter. Vilken typ av transplantation var detta?"
     },
-    "answer": { "nb": "hjertetransplantasjon", "sv": "hjärttransplantation" },
+    "answer": {
+      "nb": "hjertetransplantasjon",
+      "sv": "hjärttransplantation"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Norge hadde da nylig fått lovverk for organtransplantasjon og kriterier for hjernedød.",
@@ -314,14 +368,19 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["musikk"],
+    "topics": [
+      "musikk"
+    ],
     "prompt": {
       "nb": "I 1991 ga en svensk artist ut sitt kommersielle gjennombruddsalbum, med en tittel om det bleknede organet til en blondine. Albumet solgte over 500 000 eksemplarer og vant fem Grammis-priser. Hvem er artisten?",
       "sv": "1991 gav en svensk artist ut sitt kommersiella genombrottsalbum, med en titel om det blekta organet hos en blondin. Albumet sålde över 500 000 exemplar och vann fem Grammis. Vem är artisten?"
     },
     "answer": "Eva Dahlgren",
     "answerKind": "person",
-    "person": { "given": "Eva", "family": "Dahlgren" },
+    "person": {
+      "given": "Eva",
+      "family": "Dahlgren"
+    },
     "hint": {
       "nb": "Hun ble oppdaget i 1978 av produsenten Bruno Glenmark, og turnerte med Roxette i 1987.",
       "sv": "Hon upptäcktes 1978 av producenten Bruno Glenmark, och turnerade med Roxette 1987."
@@ -337,7 +396,10 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["medisin", "historie"],
+    "topics": [
+      "medisin",
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne svenske stiftelsen ble opprettet i 1904 for å bekjempe tuberkulose, men samler i dag inn og fordeler penger til forskning på to andre sykdomsgrupper som gir navnet dens. Hva heter stiftelsen?",
       "sv": "Denna svenska stiftelse grundades 1904 för att bekämpa tuberkulos, men samlar i dag in och fördelar pengar till forskning om två andra sjukdomsgrupper som ger den dess namn. Vad heter stiftelsen?"
@@ -359,7 +421,10 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["litteratur", "sprak"],
+    "topics": [
+      "litteratur",
+      "sprak"
+    ],
     "prompt": {
       "nb": "I 1944, som 37-åring, debuterte en svensk forfatter med en ungpikebok. Tittelen betyr omtrent at hovedpersonen «betror seg» eller får lettet sitt sinn, ved hjelp av et uttrykk om organet i brystet. Hva het debutromanen?",
       "sv": "1944, som 37-åring, debuterade en svensk författare med en ungdomsbok. Titeln betyder ungefär att huvudpersonen «öppnar sig» eller får lätta sitt sinne, med hjälp av ett uttryck om organet i bröstet. Vad hette debutromanen?"
@@ -381,7 +446,9 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["militaerhistorie"],
+    "topics": [
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "Denne amerikanske medaljen er formet som selve organet i lilla og gull, og deles ut til soldater som er såret eller drept i kamp. Opphavet var et purpurfarget klutmerke innstiftet av George Washington i 1782. Hvilken medalje?",
       "sv": "Denna amerikanska medalj är formad som själva organet i lila och guld, och delas ut till soldater som sårats eller dödats i strid. Ursprunget var ett purpurfärgat tygmärke som instiftades av George Washington 1782. Vilken medalj?"
@@ -403,7 +470,10 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["religion", "arkitektur"],
+    "topics": [
+      "religion",
+      "arkitektur"
+    ],
     "prompt": {
       "nb": "På toppen av Montmartre i Paris troner en hvit basilika bygget mellom 1875 og 1914, viet til en katolsk andaktsform oppkalt etter et bestemt organ hos en bestemt person. Hvilken basilika?",
       "sv": "På toppen av Montmartre i Paris tronar en vit basilika byggd mellan 1875 och 1914, tillägnad en katolsk andaktsform uppkallad efter ett bestämt organ hos en bestämd person. Vilken basilika?"
@@ -425,7 +495,9 @@
     "category": "hjerte",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["musikk"],
+    "topics": [
+      "musikk"
+    ],
     "prompt": {
       "nb": "I 2021 slo en britisk popveteran fra 1970-tallet seg sammen med en yngre britisk popstjerne om en remiks som setter sammen elementer fra flere av veteranens eldre låter. Hvem er de to artistene bak «Cold Heart»?",
       "sv": "2021 gick en brittisk popveteran från 1970-talet ihop med en yngre brittisk popstjärna om en remix som sätter samman element från flera av veteranens äldre låtar. Vilka är de två artisterna bakom «Cold Heart»?"
@@ -447,12 +519,18 @@
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["historie", "kongehus"],
+    "topics": [
+      "historie",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "I heraldikken er dette et mindre skjold plassert midt i et større skjold med fire eller flere felt, og det har vært brukt i Norden siden 1390-tallet. Det aller første nordiske seglet med et slikt element viste Norges riksvåpen, brukt av Kalmarunionens Erik av Pommern. Hva kalles dette heraldiske elementet?",
       "sv": "I heraldiken är detta en mindre sköld placerad mitt i en större sköld med fyra eller fler fält, och den har använts i Norden sedan 1390-talet. Det allra första nordiska sigillet med ett sådant element visade Norges riksvapen, använt av Kalmarunionens Erik av Pommern. Vad kallas detta heraldiska element?"
     },
-    "answer": { "nb": "hjerteskjold", "sv": "hjärtsköld" },
+    "answer": {
+      "nb": "hjerteskjold",
+      "sv": "hjärtsköld"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Navnet setter sammen organet i brystet og ordet for skjold.",
@@ -469,7 +547,10 @@
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["sprak", "tv"],
+    "topics": [
+      "sprak",
+      "tv"
+    ],
     "prompt": {
       "nb": "Dette norske adjektivet, satt sammen av organet og et ord for ubearbeidet, brukes om noe hjerteløst og umenneskelig, som i «en hjerterå politikk». Ordet i intetkjønnsform ga også tittelen til en samisk-norsk TV-serie fra 2013, regissert av Nils Gaup. Hvilket ord?",
       "sv": "Detta norska adjektiv, sammansatt av organet och ett ord för obearbetad, används om något hjärtlöst och omänskligt, som i «en hjerterå politikk». Ordet i neutrumform gav också titeln till en samisk-norsk tv-serie från 2013, regisserad av Nils Gaup. Vilket ord?"
@@ -491,7 +572,10 @@
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["sprak", "politikk"],
+    "topics": [
+      "sprak",
+      "politikk"
+    ],
     "prompt": {
       "nb": "Ordet brukes om en sak noen bryr seg sterkt om og engasjerer seg i av personlig overbevisning, slik stemmerett eller lik lønn for likt arbeid var det for enkelte samfunnsdebattanter for over hundre år siden. Hvilket sammensatte norske ord, som starter med organet i brystet?",
       "sv": "Ordet används om en fråga någon bryr sig starkt om och engagerar sig i av personlig övertygelse, som rösträtt eller lika lön för lika arbete var för vissa samhällsdebattörer för över hundra år sedan. Vilket sammansatt norskt ord, som börjar med organet i bröstet?"
@@ -513,14 +597,20 @@
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["medisin", "historie"],
+    "topics": [
+      "medisin",
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne svenske kirurgen fra Hudiksvall utførte 19. oktober 1944 verdens første vellykkede kirurgiske reparasjon av en medfødt innsnevring i kroppens største pulsåre, et år før en amerikansk kollega klarte det samme. Han var senere professor i thoraxkirurgi ved Karolinska institutet. Hvem var kirurgen?",
       "sv": "Denna svenska kirurg från Hudiksvall utförde den 19 oktober 1944 världens första lyckade kirurgiska reparation av en medfödd förträngning i kroppens största pulsåder, ett år innan en amerikansk kollega lyckades med samma sak. Han var senare professor i toraxkirurgi vid Karolinska institutet. Vem var kirurgen?"
     },
     "answer": "Clarence Crafoord",
     "answerKind": "person",
-    "person": { "given": "Clarence", "family": "Crafoord" },
+    "person": {
+      "given": "Clarence",
+      "family": "Crafoord"
+    },
     "hint": {
       "nb": "Etternavnet hans ligner det engelske ordet for håndverk.",
       "sv": "Efternamnet liknar det engelska ordet för hantverk."
@@ -536,7 +626,10 @@
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["kongehus", "historie"],
+    "topics": [
+      "kongehus",
+      "historie"
+    ],
     "prompt": {
       "nb": "Det svenske riksvåpenets store variant har et indre skjold delt i to: den ene halvdelen viser Vasa-ættens gule kornbånd, den andre en bro med en ørn og stjernebildet Karlavognen. Hvilket etternavn bærer kongehuset som den andre halvdelen representerer?",
       "sv": "Sveriges stora riksvapen har en inre sköld delad i två: ena halvan visar Vasaättens gula sädeskärve, den andra en bro med en örn och stjärnbilden Karlavagnen. Vilket efternamn bär det kungahus som den andra halvan representerar?"
@@ -558,14 +651,19 @@
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["litteratur"],
+    "topics": [
+      "litteratur"
+    ],
     "prompt": {
       "nb": "Denne svenske forfatteren og mediepersonligheten, med bakgrunn som lærer i språk og filosofi, ga i 2006 ut en roman med en tittel som beskriver organet brukt som et våpen. Hvem er forfatteren?",
       "sv": "Denna svenska författare och mediepersonlighet, med bakgrund som lärare i språk och filosofi, gav 2006 ut en roman med en titel som beskriver organet använt som ett vapen. Vem är författaren?"
     },
     "answer": "Björn Ranelid",
     "answerKind": "person",
-    "person": { "given": "Björn", "family": "Ranelid" },
+    "person": {
+      "given": "Björn",
+      "family": "Ranelid"
+    },
     "hint": {
       "nb": "Han debuterte som forfatter i 1983 og har senere vunnet Augustprisen.",
       "sv": "Han debuterade som författare 1983 och har senare vunnit Augustpriset."
@@ -581,14 +679,20 @@
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["vitenskap", "historie"],
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1628 publiserte denne engelske legen et skrift som beviste at organet fungerer som en pumpe og driver blodet rundt i kroppen i et lukket kretsløp, og dermed motbeviste en antikk teori om at blodet ble produsert i leveren. Hvem var legen?",
       "sv": "1628 publicerade denna engelska läkare en skrift som bevisade att organet fungerar som en pump och driver blodet runt i kroppen i ett slutet kretslopp, och därmed motbevisade en antik teori om att blodet producerades i levern. Vem var läkaren?"
     },
     "answer": "William Harvey",
     "answerKind": "person",
-    "person": { "given": "William", "family": "Harvey" },
+    "person": {
+      "given": "William",
+      "family": "Harvey"
+    },
     "hint": {
       "nb": "Skriftet het «De Motu Cordis», latin for «Om hjertets bevegelse».",
       "sv": "Skriften hette «De Motu Cordis», latin för «Om hjärtats rörelse»."
@@ -597,19 +701,35 @@
       "nb": "Det tok om lag tjue år før det medisinske miljøet aksepterte teorien fullt ut, ettersom den brøt fullstendig med en lære som hadde stått uimotsagt i over tusen år.",
       "sv": "Det tog omkring tjugo år innan den medicinska världen fullt ut accepterade teorin, eftersom den bröt helt med en lära som stått oemotsagd i över tusen år."
     },
-    "source": "Wikipedia – William Harvey"
+    "source": "Wikipedia – William Harvey",
+    "onThisDay": [
+      {
+        "day": "04-01",
+        "year": 1578,
+        "prompt": {
+          "nb": "På denne dagen i 1578 ble det født en gutt i Folkestone i Kent som ble lege, og som i 1628 la fram beviset for at organet er en pumpe som driver blodet rundt i kroppen i et lukket kretsløp. Hvem var han?",
+          "sv": "På denna dag 1578 föddes en pojke i Folkestone i Kent som blev läkare, och som 1628 lade fram beviset för att organet är en pump som driver blodet runt i kroppen i ett slutet kretslopp. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "hjerte-v-18",
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["historie", "design"],
+    "topics": [
+      "historie",
+      "design"
+    ],
     "prompt": {
       "nb": "En omstridt teori om opphavet til den kjente hjerteformen peker på frøet eller frukten av en nå utdødd middelhavsplante, brukt av romerne som krydder og prevensjonsmiddel. Planten var så viktig for handelsbyen Kyrene i dagens Libya at den preget byens mynter. Hvilken plante, kjent under et latinisert navn?",
       "sv": "En omdiskuterad teori om ursprunget till den kända hjärtformen pekar på fröet eller frukten av en numera utdöd medelhavsväxt, använd av romarna som krydda och preventivmedel. Växten var så viktig för handelsstaden Kyrene i dagens Libyen att den avbildades på stadens mynt. Vilken växt, känd under ett latiniserat namn?"
     },
-    "answer": { "nb": "silfium", "sv": "silfium" },
+    "answer": {
+      "nb": "silfium",
+      "sv": "silfium"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Ordet begynner på samme bokstav som «sølv».",
@@ -626,14 +746,20 @@
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["tv", "litteratur"],
+    "topics": [
+      "tv",
+      "litteratur"
+    ],
     "prompt": {
       "nb": "En britisk tegneserie publisert på nett fra 2016, om vennskap og forelskelse mellom to tenåringsgutter, ble senere utgitt i bokform og i 2022 til en Netflix-serie med samme navn – et ord som bokstavelig betyr noe som får hjertet til å stoppe. Hvem har skapt historien?",
       "sv": "En brittisk serieteckning publicerad på nätet från 2016, om vänskap och kärlek mellan två tonårspojkar, gavs senare ut i bokform och 2022 blev den en Netflix-serie med samma namn – ett ord som bokstavligen betyder något som får hjärtat att stanna. Vem har skapat berättelsen?"
     },
     "answer": "Alice Oseman",
     "answerKind": "person",
-    "person": { "given": "Alice", "family": "Oseman" },
+    "person": {
+      "given": "Alice",
+      "family": "Oseman"
+    },
     "hint": {
       "nb": "Hun er britisk og begynte å publisere historien som nettegneserie i 2016.",
       "sv": "Hon är brittisk och började publicera berättelsen som webbserie 2016."
@@ -649,12 +775,17 @@
     "category": "hjerte",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["natur"],
+    "topics": [
+      "natur"
+    ],
     "prompt": {
       "nb": "Denne sjøskilpadden er ettertraktet for det vakkert mønstrede skallet sitt, som hos unge individer er tydelig hjerteformet, men blir mer avlangt med rette sider etter hvert som dyret blir voksent. Hvilken sjøskilpaddeart?",
       "sv": "Denna havssköldpadda är eftertraktad för sitt vackert mönstrade skal, som hos unga individer är tydligt hjärtformat, men blir mer avlångt med raka sidor allt eftersom djuret blir vuxet. Vilken havssköldpaddeart?"
     },
-    "answer": { "nb": "karett", "sv": "karettsköldpadda" },
+    "answer": {
+      "nb": "karett",
+      "sv": "karettsköldpadda"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Skallet har historisk blitt brukt til å lage kammer og brilleinnfatninger.",

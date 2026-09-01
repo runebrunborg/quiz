@@ -1,9 +1,10 @@
 import { useEffect } from 'react'
 import { NavLink, Route, Routes } from 'react-router-dom'
 import Logo from './components/Logo'
-import { syncOutbox } from './lib/api'
+import { syncFeedback, syncOutbox } from './lib/api'
 import AccountScreen from './screens/AccountScreen'
 import BankScreen from './screens/BankScreen'
+import FeedbackScreen from './screens/FeedbackScreen'
 import FriendsScreen from './screens/FriendsScreen'
 import LeaderboardScreen from './screens/LeaderboardScreen'
 import PlayScreen from './screens/PlayScreen'
@@ -16,6 +17,7 @@ const NAV = [
   { to: '/venner', label: 'Venner', end: false },
   { to: '/toppliste', label: 'Toppliste', end: false },
   { to: '/banken', label: 'Banken', end: false },
+  { to: '/kvalitet', label: 'Kvalitet', end: false },
   { to: '/konto', label: 'Profil', end: false },
 ]
 
@@ -23,13 +25,14 @@ export default function App() {
   // Sender resultater som ble spilt offline så snart appen er oppe igjen.
   useEffect(() => {
     void syncOutbox().catch(() => undefined)
+    void syncFeedback().catch(() => undefined)
   }, [])
 
   return (
     <div className="app">
       <header className="topbar">
         <div className="topbar__inner">
-          <NavLink to="/" className="brand" aria-label="LinnieQuiz">
+          <NavLink to="/" className="brand" aria-label="LinnQuiz">
             <Logo size={24} withWordmark />
           </NavLink>
           <nav className="nav">
@@ -50,6 +53,7 @@ export default function App() {
           <Route path="/venner" element={<FriendsScreen />} />
           <Route path="/toppliste" element={<LeaderboardScreen />} />
           <Route path="/banken" element={<BankScreen />} />
+          <Route path="/kvalitet" element={<FeedbackScreen />} />
           <Route path="/konto" element={<AccountScreen />} />
           <Route path="*" element={<StartScreen />} />
         </Routes>

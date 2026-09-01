@@ -153,7 +153,17 @@
       "nb": "Fuglen på emblemet er en hvithodeørn, samme fugl som i USAs riksvåpen. Den øvre delen av fartøyet ble forlatt i bane rundt månen etter oppstigningen.",
       "sv": "Fågeln på emblemet är en vithövdad havsörn, samma fågel som i USA:s riksvapen. Farkostens övre del lämnades i omloppsbana runt månen efter uppstigningen."
     },
-    "source": "NASA – Apollo 11 Mission Overview"
+    "source": "NASA – Apollo 11 Mission Overview",
+    "onThisDay": [
+      {
+        "day": "07-20",
+        "year": 1969,
+        "prompt": {
+          "nb": "På denne dagen i 1969 satte to amerikanere ned en firbeint landingsfarkost i Mare Tranquillitatis. Emblemet til ferden viste en rovfugl som lander på månen med en olivengren i klørne, og farkosten hadde fått navn etter den samme fuglen. Neil Armstrong brukte navnet da han meldte hjem. Hva het farkosten?",
+          "sv": "På denna dag 1969 satte två amerikaner ner en fyrbent landningsfarkost i Mare Tranquillitatis. Färdens emblem visade en rovfågel som landar på månen med en olivkvist i klorna, och farkosten hade fått namn efter samma fågel. Neil Armstrong använde namnet när han rapporterade hem. Vad hette farkosten?"
+        }
+      }
+    ]
   },
   {
     "id": "rovdyr-l-07",
@@ -501,7 +511,17 @@
       "nb": "Boka heter «Nils Holgerssons underbara resa genom Sverige» og kom i to bind i 1906 og 1907. Hun brukte tre år på å sette seg inn i dyre- og fuglelivet før hun skrev.",
       "sv": "Boken heter «Nils Holgerssons underbara resa genom Sverige» och kom i två band 1906 och 1907. Hon ägnade tre år åt att sätta sig in i djur- och fågellivet innan hon skrev."
     },
-    "source": "Selma Lagerlöf, «Nils Holgerssons underbara resa genom Sverige» (1906–1907); Nobel Prize Outreach"
+    "source": "Selma Lagerlöf, «Nils Holgerssons underbara resa genom Sverige» (1906–1907); Nobel Prize Outreach",
+    "onThisDay": [
+      {
+        "day": "11-20",
+        "year": 1858,
+        "prompt": {
+          "nb": "På denne dagen i 1858 ble en svensk jente født. I 1902 fikk hun i oppdrag å skrive en geografibok til folkeskolen, men leverte i stedet et eventyr om en liten gutt som flyr over landet på ryggen av en gås, jaget av reven Smirre. Sju år senere ble hun den første kvinnen som fikk nobelprisen i litteratur. Hvem var hun?",
+          "sv": "På denna dag 1858 föddes en svensk flicka. År 1902 fick hon uppdraget att skriva en geografibok till folkskolan, men levererade i stället en saga om en liten pojke som flyger över landet på ryggen av en gås, jagad av räven Smirre. Sju år senare blev hon den första kvinnan som fick nobelpriset i litteratur. Vem var hon?"
+        }
+      }
+    ]
   },
   {
     "id": "rovdyr-m-10",

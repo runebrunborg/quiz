@@ -22,7 +22,17 @@
       "nb": "Den første butikken lå i 2000 Western Avenue fra 1971 til 1976 og flyttet så til 1912 Pike Place. Gordon Bowker har fortalt at «Moby-Dick» egentlig ikke hadde noe med saken å gjøre – de lette bare etter et navn som begynte på «st».",
       "sv": "Den första butiken låg på 2000 Western Avenue från 1971 till 1976 och flyttade sedan till 1912 Pike Place. Gordon Bowker har berättat att «Moby Dick» egentligen inte hade med saken att göra – de letade bara efter ett namn som började på «st»."
     },
-    "source": "Wikipedia (engelsk) – «Starbucks»"
+    "source": "Wikipedia (engelsk) – «Starbucks»; dato: Wikipedia (engelsk) – «History of Starbucks», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "03-30",
+        "year": 1971,
+        "prompt": {
+          "nb": "På denne dagen i 1971 åpnet tre venner en liten butikk i 2000 Western Avenue i Seattle. De første årene solgte de bare kaffebønner og utstyr, ikke ferdige drikker, og navnet hentet de fra styrmannen i Herman Melvilles «Moby-Dick». Hvilken kaffekjede vokste dette til?",
+          "sv": "På denna dag 1971 öppnade tre vänner en liten butik på 2000 Western Avenue i Seattle. De första åren sålde de bara kaffebönor och utrustning, inte färdiga drycker, och namnet hämtade de från styrmannen i Herman Melvilles «Moby Dick». Vilken kaffekedja växte det till?"
+        }
+      }
+    ]
   },
   {
     "id": "kaffe-l-02",
@@ -284,7 +294,17 @@
       "nb": "Hun startet firmaet sammen med ektemannen Hugo samme år, og i 1929 flyttet produksjonen til Minden. Papirfilteret holder tilbake fettstoffene fra kaffen og gir en klarere kopp.",
       "sv": "Hon startade firman tillsammans med maken Hugo samma år, och 1929 flyttade produktionen till Minden. Pappersfiltret håller kvar fettämnena från kaffet och ger en klarare kopp."
     },
-    "source": "Wikipedia (engelsk) – «Melitta Bentz»"
+    "source": "Wikipedia (engelsk) – «Melitta Bentz»; dato: Wikipedia (engelsk) – «Melitta Bentz», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "07-08",
+        "year": 1908,
+        "prompt": {
+          "nb": "På denne dagen i 1908 fikk en husmor i Dresden patent på en oppfinnelse hun var kommet på fordi hun var lei av grut i koppen: hun slo hull i bunnen av en messingbolle, la inn et ark trekkpapir og helte vann over den malte kaffen. Hvem var hun?",
+          "sv": "På denna dag 1908 fick en husmor i Dresden patent på en uppfinning hon kommit på eftersom hon var trött på sump i koppen: hon slog hål i botten på en mässingsskål, lade in ett ark läskpapper och hällde vatten över det malda kaffet. Vem var hon?"
+        }
+      }
+    ]
   },
   {
     "id": "kaffe-m-02",
@@ -547,7 +567,17 @@
       "nb": "Koffein har formelen C8H10N4O2 og er et metylxantin-alkaloid, kjemisk i slekt med DNA-basene adenin og guanin. Selv omtalte han det som stoffet «som ble så berømt på grunn av sitt høye nitrogeninnhold».",
       "sv": "Koffein har formeln C8H10N4O2 och är en metylxantinalkaloid, kemiskt besläktad med DNA-baserna adenin och guanin. Själv omtalade han det som ämnet «som blev så berömt på grund av sin höga kvävehalt»."
     },
-    "source": "Wikipedia (engelsk) – «Friedlieb Ferdinand Runge», «Caffeine»"
+    "source": "Wikipedia (engelsk) – «Friedlieb Ferdinand Runge», «Caffeine»; dato: Wikipedia (engelsk) – «Friedlieb Ferdinand Runge», lest 01.09.2026",
+    "onThisDay": [
+      {
+        "day": "02-08",
+        "year": 1794,
+        "prompt": {
+          "nb": "På denne dagen i 1794 ble det født en gutt utenfor Hamburg. I 1819 viste han Goethe hvordan et ekstrakt av belladonna utvider pupillen hos en katt; dikteren ble imponert og ga ham en pose kaffebønner å undersøke nærmere. Året etter publiserte kjemikeren funnet av koffein. Hva het han?",
+          "sv": "På denna dag 1794 föddes en pojke utanför Hamburg. År 1819 visade han Goethe hur ett extrakt av belladonna vidgar pupillen hos en katt; diktaren blev imponerad och gav honom en påse kaffebönor att undersöka närmare. Året därpå publicerade kemisten fyndet av koffein. Vad hette han?"
+        }
+      }
+    ]
   },
   {
     "id": "kaffe-v-02",
