@@ -174,12 +174,22 @@ describe('innholdsbanken', () => {
    * grunnpuljen i de nye temaene – to nyhetsspørsmål gjør ikke et tema
    * spillbart, og skal ikke gjøre det heller.
    */
-  it('har enten null eller minst ti ordinære spørsmål per tema og nivå', () => {
+  /**
+   * Regelen gjelder per NIVÅ, ikke per tema: hvert nivå er enten tomt eller har
+   * nok til en hel runde. Et tema kan altså være ferdig på lett og tomt på
+   * vanskelig – da er kortet spillbart på lett og deaktivert på vanskelig, som
+   * er nøyaktig det CategoryCard og startlinjen allerede gjør.
+   *
+   * Det som fortsatt ikke er lov, er et nivå med noen få spørsmål, for da blir
+   * runden kortere enn ti. Regelen var opprinnelig alt-eller-ingenting per
+   * tema, men det holdt et ferdigskrevet nivå skjult i påvente av to andre.
+   */
+  it('har enten null eller minst ti ordinære spørsmål per nivå', () => {
     for (const category of CATEGORIES) {
-      const counts = DIFFICULTIES.map((d) => ordinaryFor(category.id, d).length)
-      if (counts.every((n) => n === 0)) continue
-      for (const [i, n] of counts.entries()) {
-        expect(n, `${category.id}/${DIFFICULTIES[i]}`).toBeGreaterThanOrEqual(QUESTIONS_PER_ROUND)
+      for (const difficulty of DIFFICULTIES) {
+        const n = ordinaryFor(category.id, difficulty).length
+        if (n === 0) continue
+        expect(n, `${category.id}/${difficulty}`).toBeGreaterThanOrEqual(QUESTIONS_PER_ROUND)
       }
     }
   })
