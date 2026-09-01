@@ -1,4 +1,4 @@
--- LinnieQuiz – grunnskjema for D1.
+-- LinnQuiz – grunnskjema for D1.
 -- Kjør: npx wrangler d1 migrations apply theme-quiz --local (eller --remote)
 
 CREATE TABLE IF NOT EXISTS users (

@@ -72,6 +72,6 @@ export function makeEnv() {
   return {
     DB: new FakeD1(db) as unknown as D1Database,
     ASSETS: { fetch: async () => new Response('frontend') } as unknown as Fetcher,
-    APP_NAME: 'LinnieQuiz',
+    APP_NAME: 'LinnQuiz',
   }
 }

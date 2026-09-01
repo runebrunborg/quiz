@@ -1,4 +1,4 @@
-# LinnieQuiz
+# LinnQuiz
 
 Temabasert quiz på norsk og svensk. Ti spørsmål om ett tema, alle vist samtidig,
 med hint, første bokstav i svaret, fasit med fun fact – og statistikk over tid,

@@ -1,5 +1,5 @@
 /**
- * LinnieQuiz-merket: Q-en — ringen og halen som krysser den.
+ * LinnQuiz-merket: Q-en — ringen og halen som krysser den.
  * Ved innlasting tegner ringen seg selv fra toppen, så slår halen ut. Deretter
  * vandrer begge gjennom de fire temafargene, halen fire sekunder forskjøvet, så
  * de aldri viser samme farge samtidig.
@@ -9,7 +9,7 @@ type LogoProps = {
   /** Kantlengde på selve merket i piksler — viewBox er beskåret til tegnet,
    *  så det er ingen usynlig luft rundt. Avstanden styres av `gap` i `.brand`. */
   size?: number
-  /** Tegn ordmerket «LinnieQuiz» ved siden av merket. */
+  /** Tegn ordmerket «LinnQuiz» ved siden av merket. */
   withWordmark?: boolean
   /** Slå av opptegning og fargesyklus (f.eks. i en tett liste). */
   still?: boolean
@@ -51,7 +51,7 @@ export default function Logo({ size = 24, withWordmark = false, still = false }:
     <>
       {mark}
       <span className="tq-word">
-        <span className="tq-word__a">Linnie</span>
+        <span className="tq-word__a">Linn</span>
         <span className="tq-word__b">Quiz</span>
       </span>
     </>
