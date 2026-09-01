@@ -1,0 +1,266 @@
+[
+  {
+    "id": "fot-l-01",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "I fagbøker står den nederst på siden, i mindre skrift, og gir kilden eller en kommentar til noe i teksten uten å bryte opp lesingen. Flyttes den bakerst i kapitlet eller boka, heter den noe annet. Hva heter den?",
+      "sv": "I facklitteratur står den längst ned på sidan, i mindre stil, och ger källan eller en kommentar till något i texten utan att bryta läsningen. Flyttas den längst bak i kapitlet eller boken heter den något annat. Vad heter den?"
+    },
+    "answer": {
+      "nb": "fotnote",
+      "sv": "fotnot"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet forteller hvor på siden den hører hjemme.",
+      "sv": "Namnet berättar var på sidan den hör hemma."
+    },
+    "funFact": {
+      "nb": "Varianten bakerst heter sluttnote. Den er enklere for designeren, for den tvinger ikke fram plass nederst på hver eneste side.",
+      "sv": "Varianten längst bak heter slutnot. Den är enklare för formgivaren, för den kräver inte plats längst ned på varenda sida."
+    },
+    "source": "Wikipedia – Note (typography)"
+  },
+  {
+    "id": "fot-l-02",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Skogene i det nordvestlige USA og Canada skal etter sigende huse et stort, hårete og menneskelignende vesen. Navnet festet seg i 1958, da en avis skrev om noen påfallende store spor i Nord-California. Hva kalles vesenet?",
+      "sv": "Skogarna i nordvästra USA och Kanada ska enligt sägnen hysa en stor, hårig och människoliknande varelse. Namnet fastnade 1958, när en tidning skrev om några påfallande stora spår i norra Kalifornien. Vad kallas varelsen?"
+    },
+    "answer": "Bigfoot",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det eldre navnet på det samme vesenet er Sasquatch.",
+      "sv": "Det äldre namnet på samma varelse är Sasquatch."
+    },
+    "funFact": {
+      "nb": "Sasquatch ble lansert i 1929 av læreren J.W. Burns, som mente ordet kom fra sasq'ets i språket halq'eméylem – omtrent «hårete mann». Forskere regner vesenet som folklore, feiltolkninger og bløff.",
+      "sv": "Sasquatch lanserades 1929 av läraren J.W. Burns, som menade att ordet kom från sasq'ets i språket halq'eméylem – ungefär «hårig man». Forskare räknar varelsen som folklore, feltolkningar och bluff."
+    },
+    "source": "Wikipedia – Bigfoot"
+  },
+  {
+    "id": "fot-l-03",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Måleenheten ble avviklet i Norge da metersystemet kom i 1875, men lever i beste velgående i engelsktalende land. Siden 1959 har den britiske varianten hatt den nøyaktige verdien 30,48 centimeter. Hvilken enhet er dette?",
+      "sv": "Måttenheten avvecklades i Norge när metersystemet kom 1875, men lever i högsta grad kvar i engelsktalande länder. Sedan 1959 har den brittiska varianten det exakta värdet 30,48 centimeter. Vilken enhet är detta?"
+    },
+    "answer": "fot",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På engelsk heter enheten foot, i flertall feet.",
+      "sv": "På engelska heter enheten foot, i plural feet."
+    },
+    "funFact": {
+      "nb": "Navnet kommer av kroppsdelen enheten opprinnelig ble målt med, og lengden varierte derfor fra sted til sted før den ble standardisert.",
+      "sv": "Namnet kommer av kroppsdelen enheten ursprungligen mättes med, och längden varierade därför från plats till plats innan den standardiserades."
+    },
+    "source": "Store norske leksikon – fot (lengdemål)"
+  },
+  {
+    "id": "fot-l-04",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Den 20. juli 1969 landet månefergen «Eagle» i Stillhetens hav. Noen timer senere ble han det første mennesket som satte foten på månen, og sa at det var et lite skritt for et menneske, men et gigantisk sprang for menneskeheten. Hvem?",
+      "sv": "Den 20 juli 1969 landade månlandaren «Eagle» i Stillhetens hav. Några timmar senare blev han den första människan som satte foten på månen, och sade att det var ett litet steg för en människa, men ett jättekliv för mänskligheten. Vem?"
+    },
+    "answer": "Neil Armstrong",
+    "answerKind": "person",
+    "person": {
+      "given": "Neil",
+      "family": "Armstrong"
+    },
+    "hint": {
+      "nb": "Buzz Aldrin fulgte etter ham ut av fergen.",
+      "sv": "Buzz Aldrin följde efter honom ut ur landaren."
+    },
+    "funFact": {
+      "nb": "De to var 21 timer og 36 minutter på månen, mens Michael Collins ble igjen i bane rundt den. Det er fortsatt omstridt om det ble sagt «for a man» eller bare «for man».",
+      "sv": "De två var 21 timmar och 36 minuter på månen, medan Michael Collins blev kvar i bana runt den. Det är fortfarande omtvistat om det sades «for a man» eller bara «for man»."
+    },
+    "source": "Store norske leksikon – Neil Armstrong"
+  },
+  {
+    "id": "fot-l-05",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I Charles Perraults versjon fra 1697 mister hun den ene skoen på slottstrappa ved midnatt. Prinsen leter gjennom hele riket, og skoen passer til slutt bare på én eneste. Hva heter eventyrets heltinne?",
+      "sv": "I Charles Perraults version från 1697 tappar hon den ena skon på slottstrappan vid midnatt. Prinsen letar genom hela riket, och skon passar till sist bara på en enda. Vad heter sagans hjältinna?"
+    },
+    "answer": {
+      "nb": "Askepott",
+      "sv": "Askungen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Brødrene Grimm ga ut sin versjon i 1812, og Asbjørnsen og Moe samlet en norsk variant i 1843.",
+      "sv": "Bröderna Grimm gav ut sin version 1812, och Asbjørnsen og Moe samlade en norsk variant 1843."
+    },
+    "funFact": {
+      "nb": "Hos Perrault er skoen av glass. Eventyret er også blitt opera hos Rossini, «La Cenerentola», og ballett hos Prokofjev.",
+      "sv": "Hos Perrault är skon av glas. Sagan har också blivit opera hos Rossini, «La Cenerentola», och balett hos Prokofjev."
+    },
+    "source": "Store norske leksikon – Askepott / Wikipedia – Cinderella"
+  },
+  {
+    "id": "fot-l-06",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Den kraftige senen fester de to leggmusklene til hælbeinet, og er lett å kjenne under huden. Navnet kommer fra en gresk helt som moren dyppet i elven Styx – men holdt etter hælen mens hun gjorde det. Hva heter senen?",
+      "sv": "Den kraftiga senan fäster de två vadmusklerna vid hälbenet, och är lätt att känna under huden. Namnet kommer från en grekisk hjälte som modern doppade i floden Styx – men höll i hälen medan hon gjorde det. Vad heter senan?"
+    },
+    "answer": {
+      "nb": "akillessenen",
+      "sv": "akillessenan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Helten falt til slutt for en pil fra den trojanske prinsen Paris.",
+      "sv": "Hjälten föll till slut för en pil från den trojanske prinsen Paris."
+    },
+    "funFact": {
+      "nb": "Senen har også de latinske navnene tendo calcaneus og tendo Achillis, og kalles i tillegg «Hippokrates' sene».",
+      "sv": "Senan har också de latinska namnen tendo calcaneus och tendo Achillis, och kallas dessutom «Hippokrates sena»."
+    },
+    "source": "Store medisinske leksikon – akillessenen"
+  },
+  {
+    "id": "fot-l-07",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "Han er født i Malmö i 1981, spilte for Ajax, Juventus, Inter, Barcelona, Milan, Paris Saint-Germain og Manchester United, og er Sveriges mestscorende landslagsspiller gjennom tidene med 62 mål. Hvem?",
+      "sv": "Han är född i Malmö 1981, spelade för Ajax, Juventus, Inter, Barcelona, Milan, Paris Saint-Germain och Manchester United, och är Sveriges meste målskytt i landslaget genom tiderna med 62 mål. Vem?"
+    },
+    "answer": "Zlatan Ibrahimović",
+    "answerKind": "person",
+    "person": {
+      "given": "Zlatan",
+      "family": "Ibrahimović"
+    },
+    "hint": {
+      "nb": "I 2013 fikk han Puskás-prisen for et brassespark mot England.",
+      "sv": "År 2013 fick han Puskáspriset för en cykelspark mot England."
+    },
+    "funFact": {
+      "nb": "Karrieren varte i 24 år og ga over 570 mål og 34 troféer. Champions League vant han aldri.",
+      "sv": "Karriären varade i 24 år och gav över 570 mål och 34 troféer. Champions League vann han aldrig."
+    },
+    "source": "Store norske leksikon – Zlatan Ibrahimović"
+  },
+  {
+    "id": "fot-l-08",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "Fotball-VM ble spilt i Sverige i 1958, og vertsnasjonen kom helt til finalen. Der tapte de 5–2 for Brasil, som hadde en 17-åring på laget. Han scoret to i finalen og ble tidenes yngste verdensmester. Hvem?",
+      "sv": "Fotbolls-VM spelades i Sverige 1958, och värdnationen gick hela vägen till final. Där förlorade de med 5–2 mot Brasilien, som hade en 17-åring i laget. Han gjorde två mål i finalen och blev tidernas yngste världsmästare. Vem?"
+    },
+    "answer": "Pelé",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han vant VM tre ganger for Brasil, i 1958, 1962 og 1970.",
+      "sv": "Han vann VM tre gånger för Brasilien, 1958, 1962 och 1970."
+    },
+    "funFact": {
+      "nb": "Han er den eneste som har vunnet tre verdensmesterskap i fotball, og regnes av mange som tidenes beste spiller.",
+      "sv": "Han är den ende som har vunnit tre världsmästerskap i fotboll, och räknas av många som tidernas bäste spelare."
+    },
+    "source": "Store norske leksikon – Pelé"
+  },
+  {
+    "id": "fot-l-09",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Han kom fra Morgedal i Telemark, laget kortere ski med innsvingte sider og bandt vidjer rundt hælen slik at foten satt fast. I 1868 viste han det fram i Christiania og forandret skisporten. Hvem?",
+      "sv": "Han kom från Morgedal i Telemark, gjorde kortare skidor med insvängda sidor och band vidjor runt hälen så att foten satt fast. År 1868 visade han upp det i Kristiania och förändrade skidsporten. Vem?"
+    },
+    "answer": "Sondre Norheim",
+    "answerKind": "person",
+    "person": {
+      "given": "Sondre",
+      "family": "Norheim"
+    },
+    "hint": {
+      "nb": "Han utvandret til USA i 1884 og slo seg ned i Nord-Dakota.",
+      "sv": "Han utvandrade till USA 1884 och slog sig ned i North Dakota."
+    },
+    "funFact": {
+      "nb": "Han levde fra 1825 til 1897. «Slik Sondre gjorde det» ble stående som et ideal i skimiljøet lenge etter ham.",
+      "sv": "Han levde från 1825 till 1897. «Så som Sondre gjorde det» blev stående som ett ideal i skidmiljön långt efter honom."
+    },
+    "source": "Store norske leksikon – Sondre Norheim"
+  },
+  {
+    "id": "fot-l-10",
+    "category": "fot",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Foreningen ble stiftet i 1868 på initiativ fra Thomas Heftye, og har siden merket rundt 22 000 kilometer sommerruter i skog og fjell. Håndboka deres heter «Til fots i Norge». Hvilken forening?",
+      "sv": "Föreningen grundades 1868 på initiativ av Thomas Heftye, och har sedan dess märkt ut omkring 22 000 kilometer sommarleder i skog och fjäll. Deras handbok heter «Til fots i Norge». Vilken förening?"
+    },
+    "answer": {
+      "nb": "Den Norske Turistforening",
+      "sv": "Den Norske Turistforening (DNT)"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den høyest beliggende hytta deres er Fannaråkhytta, 2059 meter over havet.",
+      "sv": "Deras högst belägna stuga är Fannaråkhytta, 2059 meter över havet."
+    },
+    "funFact": {
+      "nb": "I tillegg til sommerrutene merker foreningen rundt 7000 kilometer vinterløyper, og den driver 550 hytter fordelt over hele landet.",
+      "sv": "Utöver sommarlederna märker föreningen ut omkring 7000 kilometer vinterleder, och den driver 550 stugor spridda över hela landet."
+    },
+    "source": "Store norske leksikon – Den Norske Turistforening"
+  }
+]

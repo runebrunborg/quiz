@@ -1,0 +1,223 @@
+[
+  {
+    "id": "borg-l-01",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["sport"],
+    "prompt": {
+      "nb": "Mellom 1976 og 1980 vant han Wimbledon fem ganger på rad, og i French Open tok han seks titler. Så la han opp allerede som 26-åring, i 1983. Hvilken svensk tennisspiller?",
+      "sv": "Mellan 1976 och 1980 vann han Wimbledon fem gånger i rad, och i Franska öppna tog han sex titlar. Sedan lade han av redan som 26-åring, 1983. Vilken svensk tennisspelare?"
+    },
+    "answer": "Björn Borg",
+    "answerKind": "person",
+    "person": { "given": "Björn", "family": "Borg" },
+    "hint": {
+      "nb": "Han har også gitt navnet sitt til et kjent undertøysmerke.",
+      "sv": "Han har också gett sitt namn till ett känt underklädesmärke."
+    },
+    "funFact": {
+      "nb": "Fire av de seks French Open-titlene kom på rad, fra 1978 til 1981. Comebackforsøkene mellom 1991 og 1993 førte ikke fram.",
+      "sv": "Fyra av de sex titlarna i Franska öppna kom i rad, från 1978 till 1981. Comebackförsöken mellan 1991 och 1993 ledde ingenstans."
+    },
+    "source": "Store norske leksikon – Björn Borg"
+  },
+  {
+    "id": "borg-l-02",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": ["geografi"],
+    "prompt": {
+      "nb": "Gustav 2. Adolf anla byen ved Göta älvs munning i 1619, og den fikk sine privilegier to år senere. I dag er den Sveriges nest største by, med over en halv million innbyggere. Hvilken by?",
+      "sv": "Gustav II Adolf anlade staden vid Göta älvs mynning 1619, och den fick sina privilegier två år senare. I dag är den Sveriges näst största stad, med över en halv miljon invånare. Vilken stad?"
+    },
+    "answer": "Göteborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Herfra går fergene til Danmark, og Volvo har hovedkontoret sitt i byen.",
+      "sv": "Härifrån går färjorna till Danmark, och Volvo har sitt huvudkontor i staden."
+    },
+    "funFact": {
+      "nb": "Området har bosetting mye lenger tilbake enn 1619. Forgjengerbyen Lödöse lenger opp langs Göta älv går tilbake til 1000-tallet.",
+      "sv": "Området har bosättning mycket längre tillbaka än 1619. Föregångarstaden Lödöse längre upp längs Göta älv går tillbaka till 1000-talet."
+    },
+    "source": "Store norske leksikon – Göteborg"
+  },
+  {
+    "id": "borg-l-03",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["arkitektur"],
+    "prompt": {
+      "nb": "Årringene i tømmeret viser at trærne ble felt vinteren 1180–81. Kirken ligger i Lærdal i Indre Sogn, har dragehoder på takrytterne og regnes som den best bevarte av de norske stavkirkene. Hvilken kirke?",
+      "sv": "Årsringarna i timret visar att träden fälldes vintern 1180–81. Kyrkan ligger i Lærdal i Indre Sogn, har drakhuvuden på takryttarna och räknas som den bäst bevarade av de norska stavkyrkorna. Vilken kyrka?"
+    },
+    "answer": { "nb": "Borgund stavkirke", "sv": "Borgunds stavkyrka" },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den heter det samme som bygda i Lærdal der den står.",
+      "sv": "Den heter samma sak som byn i Lærdal där den står."
+    },
+    "funFact": {
+      "nb": "Kirken er først nevnt i skriftlige kilder i 1342, over 150 år etter at den ble reist. En restaurering på 1870-tallet fjernet senere tilbygg og la den opprinnelige stavkonstruksjonen fri.",
+      "sv": "Kyrkan nämns först i skriftliga källor 1342, över 150 år efter att den restes. En restaurering på 1870-talet tog bort senare tillbyggnader och blottlade den ursprungliga stavkonstruktionen."
+    },
+    "source": "Store norske leksikon – Borgund stavkirke"
+  },
+  {
+    "id": "borg-l-04",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": ["fotball"],
+    "prompt": {
+      "nb": "Fra 1992 til 2004 vant klubben seriemesterskapet tretten år på rad, og Nils Arne Eggen formet den til det dominerende laget i norsk fotball. Hvilken Trondheims-klubb?",
+      "sv": "Från 1992 till 2004 vann klubben seriemästerskapet tretton år i rad, och Nils Arne Eggen formade den till det dominerande laget i norsk fotboll. Vilken Trondheimsklubb?"
+    },
+    "answer": "Rosenborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Klubben har navnet sitt fra en bydel i Trondheim, og spiller på Lerkendal.",
+      "sv": "Klubben har sitt namn från en stadsdel i Trondheim, och spelar på Lerkendal."
+    },
+    "funFact": {
+      "nb": "Eggen ledet klubben til 14 seriemesterskap til sammen, og bygde spillestilen rundt offensiv, publikumsvennlig fotball.",
+      "sv": "Eggen ledde klubben till 14 seriemästerskap sammanlagt, och byggde spelstilen kring offensiv, publikvänlig fotboll."
+    },
+    "source": "Store norske leksikon – Rosenborg Ballklub"
+  },
+  {
+    "id": "borg-l-05",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["litteratur"],
+    "prompt": {
+      "nb": "Shakespeare la handlingen i «Hamlet» til en dansk borg ved det smaleste stedet i Øresund, i byen han kalte Elsinore. Borgen ble reist for å kontrollere skipstrafikken og kreve inn øresundstollen. Hvilken borg?",
+      "sv": "Shakespeare lade handlingen i «Hamlet» till en dansk borg vid det smalaste stället i Öresund, i staden han kallade Elsinore. Borgen restes för att kontrollera sjöfarten och kräva in öresundstullen. Vilken borg?"
+    },
+    "answer": "Kronborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den ligger i Helsingør og kom på Unescos verdensarvliste i 2000.",
+      "sv": "Den ligger i Helsingör och kom med på Unescos världsarvslista år 2000."
+    },
+    "funFact": {
+      "nb": "Erik av Pommern reiste den første festningen her rundt 1420. Frederik 2. bygde den om mellom 1574 og 1585, og etter en brann ble den gjenreist i nederlandsk renessansestil fra 1629 til 1637.",
+      "sv": "Erik av Pommern reste den första fästningen här omkring 1420. Fredrik II byggde om den mellan 1574 och 1585, och efter en brand återuppfördes den i nederländsk renässansstil från 1629 till 1637."
+    },
+    "source": "Store norske leksikon – Kronborg"
+  },
+  {
+    "id": "borg-l-06",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["transport"],
+    "prompt": {
+      "nb": "Tysklands stolteste luftskip var fylt med hydrogen. Den 6. mai 1937 tok det fyr under innflygingen mot fortøyningsmasten i Lakehurst i New Jersey, og 35 av de 97 om bord omkom. Hvilket luftskip?",
+      "sv": "Tysklands stoltaste luftskepp var fyllt med vätgas. Den 6 maj 1937 fattade det eld under inflygningen mot förtöjningsmasten i Lakehurst i New Jersey, och 35 av de 97 ombord omkom. Vilket luftskepp?"
+    },
+    "answer": "Hindenburg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det bar navnet til en tysk general som senere ble president.",
+      "sv": "Det bar namnet på en tysk general som senare blev president."
+    },
+    "funFact": {
+      "nb": "Årsaken til brannen er aldri fastslått med sikkerhet. Ulykken satte likevel punktum for luftskipenes epoke.",
+      "sv": "Orsaken till branden har aldrig fastställts med säkerhet. Olyckan satte ändå punkt för luftskeppens epok."
+    },
+    "source": "Store norske leksikon – Hindenburg"
+  },
+  {
+    "id": "borg-l-07",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["teknologi"],
+    "prompt": {
+      "nb": "Ordet ble satt sammen av «kybernetikk» og «organisme» på 1960-tallet, og beskrev opprinnelig et menneske forsterket med teknologi for å tåle verdensrommet. I dag brukes det om et vesen som er halvt biologi, halvt maskin. Hvilket ord?",
+      "sv": "Ordet sattes samman av «cybernetik» och «organism» på 1960-talet, och beskrev ursprungligen en människa förstärkt med teknik för att tåla rymden. I dag används det om en varelse som är hälften biologi, hälften maskin. Vilket ord?"
+    },
+    "answer": "cyborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Robocop og Terminator er filmenes mest kjente eksemplarer.",
+      "sv": "Robocop och Terminator är filmernas mest kända exemplar."
+    },
+    "funFact": {
+      "nb": "De teknologiske delene er koblet til biologien gjennom tilbakekobling – nettopp det kybernetikken handler om.",
+      "sv": "De teknologiska delarna är kopplade till biologin genom återkoppling – just det som cybernetiken handlar om."
+    },
+    "source": "Store norske leksikon – kyborg"
+  },
+  {
+    "id": "borg-l-08",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["kongehus"],
+    "prompt": {
+      "nb": "Slekten tok navn etter en borg i Aargau i dagens Sveits, reist rundt år 1020. Derfra vokste den til å styre Østerrike, Ungarn og Böhmen, og en periode også Spania – helt til 1918. Hvilken slekt?",
+      "sv": "Ätten tog namn efter en borg i Aargau i dagens Schweiz, rest omkring år 1020. Därifrån växte den till att styra Österrike, Ungern och Böhmen, och en period även Spanien – ända till 1918. Vilken ätt?"
+    },
+    "answer": "Habsburg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fra 1452 til 1806 kom nesten alle tysk-romerske keisere fra denne slekten.",
+      "sv": "Från 1452 till 1806 kom nästan alla tysk-romerska kejsare från denna ätt."
+    },
+    "funFact": {
+      "nb": "Slekten vokste mest gjennom giftermål og arv, ikke gjennom krig. Etter oppløsningen av Østerrike-Ungarn i 1918 mistet den det meste av det den hadde.",
+      "sv": "Ätten växte mest genom giftermål och arv, inte genom krig. Efter upplösningen av Österrike-Ungern 1918 förlorade den det mesta av vad den hade."
+    },
+    "source": "Store norske leksikon – Habsburg"
+  },
+  {
+    "id": "borg-l-09",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["tv"],
+    "prompt": {
+      "nb": "I den danske dramaserien fra 2010 blir Birgitte Nyborg uventet landets første kvinnelige statsminister. Tittelen er det uformelle kallenavnet på maktens hus i København, der både Folketinget, statsministeren og Høyesterett holder til. Hva heter serien?",
+      "sv": "I den danska dramaserien från 2010 blir Birgitte Nyborg oväntat landets första kvinnliga statsminister. Titeln är det informella smeknamnet på maktens hus i Köpenhamn, där både Folketinget, statsministern och Högsta domstolen håller till. Vad heter serien?"
+    },
+    "answer": "Borgen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sidse Babett Knudsen spiller hovedrollen.",
+      "sv": "Sidse Babett Knudsen spelar huvudrollen."
+    },
+    "funFact": {
+      "nb": "Kallenavnet sikter til Christiansborg slott. Serien hadde premiere på DR 26. september 2010, og de tre første sesongene ble laget der.",
+      "sv": "Smeknamnet syftar på Christiansborgs slott. Serien hade premiär på DR den 26 september 2010, och de tre första säsongerna gjordes där."
+    },
+    "source": "DR / Wikipedia – Borgen (TV-serie)"
+  },
+  {
+    "id": "borg-l-10",
+    "category": "borg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": ["historie"],
+    "prompt": {
+      "nb": "Den spansk-italienske adelsslekten kom fra Valencia og steg til topps i renessansens Italia. Rodrigo ble pave Alexander 6. i 1492, og barna hans Cesare og Lucrezia er blitt selve bildet på tidens intriger. Hvilken slekt?",
+      "sv": "Den spansk-italienska adelsätten kom från Valencia och steg till toppen i renässansens Italien. Rodrigo blev påve Alexander VI år 1492, och hans barn Cesare och Lucrezia har blivit själva bilden av tidens intriger. Vilken ätt?"
+    },
+    "answer": "Borgia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På spansk skrives navnet de Borja.",
+      "sv": "På spanska skrivs namnet de Borja."
+    },
+    "funFact": {
+      "nb": "Slekten er kjent helt tilbake til 1328. Alfonso de Borja ble pave Calixtus 3. i 1455, og nevøen Rodrigo fulgte som Alexander 6. i 1492.",
+      "sv": "Ätten är känd ända tillbaka till 1328. Alfonso de Borja blev påve Calixtus III år 1455, och brorsonen Rodrigo följde som Alexander VI år 1492."
+    },
+    "source": "Store norske leksikon – Borgia"
+  }
+]
