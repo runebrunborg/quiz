@@ -76,6 +76,37 @@ function isAnchorWord(answer, category) {
   return anchors.includes(a)
 }
 
+/**
+ * Generiske haleledd. Et svar som består av et egennavn fra spørsmålsteksten
+ * pluss ett av disse, kan settes sammen uten å vite noe: «Kongsvinger» i
+ * teksten + «Hvilken bane?» gir Kongsvingerbanen gratis.
+ */
+const GENERIC_TAILS =
+  /^(banen|banan|bana|broen|brua|bron|bro|vegen|veien|vagen|fossen|foss|straumen|strommen|steinen|stenen|hallen|hall|slottet|parken|park|dyrepark|djurpark|stadion|olympiastadion|konserthus|radhus|domkirke|kirke|kyrka|kyrkan|natten|natt|blatt|blott|kors|korset|kusten|sjukhuset|sykehuset|gamla|gamle)+$/
+
+function strippedLetters(s) {
+  return s
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^A-Za-z0-9]/g, '')
+    .toLowerCase()
+}
+
+/** Returnerer det lekkede egennavnet, eller null. */
+function leakedProperNoun(answer, prompt) {
+  for (const word of answer.match(/\b[A-ZÆØÅÄÖÜ][\wæøåäöüéè-]{3,}/g) ?? []) {
+    const forms = [word]
+    for (let i = 4; i < word.length; i++) if (word.length - i >= 2) forms.push(word.slice(0, i))
+    for (const form of forms) {
+      if (form.length < 4) continue
+      if (!new RegExp(`(?<![\\wæøåäöü])${form.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`).test(prompt)) continue
+      const rest = strippedLetters(answer.replace(form, ''))
+      if (rest && GENERIC_TAILS.test(rest)) return form
+    }
+  }
+  return null
+}
+
 const errors = []
 const warnings = []
 const seenIds = new Map()
@@ -211,6 +242,18 @@ for (const file of files) {
           const answer = text(q.answer, lang).toLowerCase()
           if (answer.length > 3 && text(q.prompt, lang).toLowerCase().includes(answer)) {
             errors.push(`${where}: svaret står i ${lang}-spørsmålsteksten`)
+          }
+        }
+      }
+
+      // Svaret skal ikke kunne settes sammen av et egennavn i teksten pluss et
+      // generisk ord spørsmålet selv oppgir.
+      if (isL10n(q?.prompt)) {
+        for (const lang of ['nb', 'sv']) {
+          const leaked = leakedProperNoun(text(q.answer, lang), text(q.prompt, lang))
+          if (leaked) {
+            errors.push(`${where}: svaret kan settes sammen av «${leaked}» fra spørsmålsteksten`)
+            break
           }
         }
       }

@@ -59,6 +59,41 @@ Grensen går mellom *ordet selv* og *noe som heter noe med ordet*.
 `node scripts/validate-content.mjs` håndhever dette. Lista over forbudte former står i
 `ANCHORS` øverst i validatoren, og må utvides når et nytt tema legges til.
 
+### Den andre absolutte regelen: svaret skal ikke kunne settes sammen av teksten
+
+Beslektet, men egen feil: svaret står ikke i teksten, men *kan bygges av den*. Innledningen
+nevner et egennavn, spørsmålet oppgir tingens art, og spilleren limer dem sammen uten å vite
+noe som helst.
+
+> «Da denne banen mellom Lillestrøm og **Kongsvinger** åpnet i 1862 … Hvilken **bane**?»
+> → Kongsvingerbanen
+
+Egennavnet i teksten pluss det generiske ordet i spørsmålet *er* svaret. Ingen kunnskap ble
+prøvd. Samme feil: «forbi Uddevalla … Hvilken bro?», «over Sognefjellet … Hva heter veien?»,
+«utenfor Kristiansand … Hva heter parken?», «en fryktet kvinneskikkelse, Lussi … Hva heter
+natten?».
+
+**Fiksen er nesten alltid å omskrive innledningen, ikke å kaste spørsmålet.** Erstatt
+egennavnet med en beskrivelse som gir like god kontekst uten å røpe leddet:
+
+| Før | Etter |
+|---|---|
+| mellom Lillestrøm og Kongsvinger | østover fra Lillestrøm |
+| som del av en ny E6-trasé forbi Uddevalla | … forbi en by i Bohuslän |
+| fører til øya Djurgården | fører til øya der Skansen og Vasamuseet ligger |
+| Denne veien over Sognefjellet | Denne veien mellom Lom og Luster |
+
+Legg merke til at erstatningen ofte gjør spørsmålet *bedre*: «øya der Skansen og Vasamuseet
+ligger» er et hint som krever gjenkjennelse, mens «Djurgården» bare var et gratis ledd.
+
+Det motsatte er helt greit: at teksten sier «bane» og svaret slutter på «-banen». Spørsmålet
+*må* fortelle hva slags ting det spør etter. Grensen går ved det særegne leddet.
+
+`node scripts/validate-content.mjs` fanger det tydeligste tilfellet — egennavn fra teksten
+pluss et generisk haleledd fra `GENERIC_TAILS`. Lista er kort med vilje, så den ikke slår ut
+på legitime sammensetninger; den fanger mønsteret, ikke hver eneste variant. Øynene dine er
+fortsatt siste instans.
+
 ### Assosiasjonsavstand
 
 Det beste spørsmålet i en 10-er er ofte det som forlater ankerordet helt. Ankerordet setter
@@ -209,6 +244,7 @@ Det er poenget — spilleren skal ikke kunne regne seg fram til når det kommer.
 - [ ] Alle ti henger på ankerordet, og koblingen er synlig i ettertid
 - [ ] Minst 5 koblingstyper, maks 3 av samme, minst 2 assosiasjoner (K8)
 - [ ] Ingen svar er ankerordet selv – heller ikke oversatt eller bøyd
+- [ ] Ingen svar kan settes sammen av et egennavn i innledningen pluss ordet spørsmålet oppgir
 - [ ] Minst 6 hovedtags, maks 2 per tag
 - [ ] Regionmiksen følger `SPEC.md`
 - [ ] Ett spørsmål fra før 1950, ett fra de siste ti årene, maks 4 fra samme tiår
@@ -229,6 +265,7 @@ Det er poenget — spilleren skal ikke kunne regne seg fram til når det kommer.
   egentlig fem spørsmål lang for alle andre.
 - **Selvbesvarende spørsmål.** Tittelen står i innledningen og er samtidig svaret.
 - **Ankerordet som svar.** Se den absolutte regelen i punkt 2. Oversettelse teller ikke som avstand.
+- **Limspørsmålet.** Egennavnet står i innledningen, tingens art i spørsmålet, og svaret er summen.
 - **Oppslagsverket.** Ti spørsmål der ankerordet er selve saken, og ingen av dem tar deg ut av det.
 - **Ferskvare.** «Hvem leder …» — se punkt 5 i `SPEC.md`.
 - **Gjettbart årstall.** Én kjempekjent hendelse gir svaret, de åtte andre er pynt.
