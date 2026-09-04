@@ -1,0 +1,263 @@
+[
+  {
+    "id": "sol-l-01",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Den nederlandske maleren flyttet i 1888 til Arles i Sør-Frankrike for lyset og de sterke fargene, og pyntet gjesterommet til Paul Gauguin med en serie bilder av solsikker i en enkel leirkrukke. Hvem malte dem?",
+      "sv": "Den nederländske målaren flyttade 1888 till Arles i södra Frankrike för ljuset och de starka färgerna, och prydde gästrummet åt Paul Gauguin med en serie målningar av solrosor i en enkel lerkruka. Vem målade dem?"
+    },
+    "answer": "Vincent van Gogh",
+    "answerKind": "person",
+    "person": {
+      "given": "Vincent",
+      "family": "van Gogh"
+    },
+    "hint": {
+      "nb": "Han skar av seg en del av øret sitt etter et sammenstøt med nettopp Gauguin.",
+      "sv": "Han skar av sig en del av örat efter ett gräl med just Gauguin."
+    },
+    "funFact": {
+      "nb": "Bildene kom i flere versjoner gjennom 1888 og 1889, mens han drømte om å gjøre Arles til et atelier med Gauguin som leder. Samarbeidet endte i dramatikk.",
+      "sv": "Målningarna kom i flera versioner under 1888 och 1889, medan han drömde om att göra Arles till en ateljé med Gauguin som ledare. Samarbetet slutade i dramatik."
+    },
+    "source": "Store norske leksikon – «Vincent van Gogh»"
+  },
+  {
+    "id": "sol-l-02",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Grønne planter fanger energien i sollyset ved hjelp av det grønne fargestoffet klorofyll, og bygger sukker av vann og karbondioksid fra lufta. Oksygenet vi puster inn, er et biprodukt av akkurat dette. Hva heter prosessen?",
+      "sv": "Gröna växter fångar energin i solljuset med hjälp av det gröna färgämnet klorofyll, och bygger socker av vatten och koldioxid från luften. Syret vi andas in är en biprodukt av just detta. Vad heter processen?"
+    },
+    "answer": {
+      "nb": "Fotosyntese",
+      "sv": "Fotosyntes"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet begynner med det greske ordet for lys, det samme som i fotografi.",
+      "sv": "Ordet börjar med det grekiska ordet för ljus, samma som i fotografi."
+    },
+    "funFact": {
+      "nb": "Prosessen er grunnlaget for omtrent alt liv på jorda. Plantene tar opp rødt og blått lys og kaster det grønne tilbake – derfor ser de grønne ut for oss.",
+      "sv": "Processen är grunden för nästan allt liv på jorden. Växterna tar upp rött och blått ljus och kastar tillbaka det gröna – därför ser de gröna ut för oss."
+    },
+    "source": "Store norske leksikon – «fotosyntese»"
+  },
+  {
+    "id": "sol-l-03",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "26. mai 1999 lå Manchester United under mot Bayern München da innbytteren fra Kristiansund satte foten på ballen på overtid og sikret klubben både serien, cupen og Europa-tittelen samme sesong. Hvilken nordmann scoret dette målet?",
+      "sv": "Den 26 maj 1999 låg Manchester United under mot Bayern München när inhopparen från Kristiansund satte foten på bollen på övertid och säkrade klubben både ligan, cupen och Europatiteln samma säsong. Vilken norrman gjorde målet?"
+    },
+    "answer": "Ole Gunnar Solskjær",
+    "answerKind": "person",
+    "person": {
+      "given": "Ole Gunnar",
+      "family": "Solskjær"
+    },
+    "hint": {
+      "nb": "Engelske aviser kalte ham «the Baby-Faced Assassin», og han gikk også under kallenavnet «Sunny».",
+      "sv": "Engelska tidningar kallade honom «the Baby-Faced Assassin», och han gick även under smeknamnet «Sunny»."
+    },
+    "funFact": {
+      "nb": "Han spilte for Molde fra 1994 til 1996 og deretter for Manchester United fram til 2007. Fra desember 2018 til november 2021 var han tilbake på Old Trafford, denne gangen som hovedtrener.",
+      "sv": "Han spelade för Molde från 1994 till 1996 och därefter för Manchester United fram till 2007. Från december 2018 till november 2021 var han tillbaka på Old Trafford, den här gången som huvudtränare."
+    },
+    "source": "Store norske leksikon – «Ole Gunnar Solskjær»"
+  },
+  {
+    "id": "sol-l-04",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Kong Minos holdt far og sønn fanget på Kreta. Faren, byggmesteren Daidalos, laget vinger av fjær og bivoks så de kunne rømme gjennom lufta, men advarte mot å fly for høyt. Sønnen hørte ikke etter, og voksen smeltet i solvarmen. Hva het han?",
+      "sv": "Kung Minos höll far och son fångna på Kreta. Fadern, byggmästaren Daidalos, gjorde vingar av fjädrar och bivax så att de kunde fly genom luften, men varnade för att flyga för högt. Sonen lyssnade inte, och vaxet smälte i solvärmen. Vad hette han?"
+    },
+    "answer": "Ikaros",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet hans brukes i dag om den som strekker seg for langt og faller.",
+      "sv": "Hans namn används i dag om den som sträcker sig för långt och faller."
+    },
+    "funFact": {
+      "nb": "Allerede i antikken ble fortellingen brukt som en allegori om hvor viktig måtehold er, og om faren ved overmodig atferd.",
+      "sv": "Redan i antiken användes berättelsen som en allegori över hur viktig måttfullhet är, och över faran med övermod."
+    },
+    "source": "Store norske leksikon – «Ikaros»"
+  },
+  {
+    "id": "sol-l-05",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "I Sverige faller denne høytiden siden en kalenderreform i 1953 på nærmeste lørdag, mellom 20. og 26. juni, altså rundt sommersolverv. Midtpunktet er en løvkledd stang som folk danser rundt, en skikk som trolig kom fra Tyskland på 1400- eller 1500-tallet. Hva kaller svenskene denne helgen?",
+      "sv": "I Sverige infaller denna högtid sedan en kalenderreform 1953 på närmaste lördag, mellan den 20 och 26 juni, alltså kring sommarsolståndet. Medelpunkten är en lövklädd stång som man dansar kring, en sed som troligen kom från Tyskland på 1400- eller 1500-talet. Vad kallar svenskarna denna helg?"
+    },
+    "answer": "Midsommar",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Helgen faller sammen med den kirkelige minnedagen for døperen Johannes 24. juni – i Norge kjent som sankthans.",
+      "sv": "Helgen sammanfaller med den kyrkliga minnesdagen för Johannes döparen den 24 juni – i Norge känd som sankthans."
+    },
+    "funFact": {
+      "nb": "Stangen slo aldri skikkelig gjennom i Norge og Danmark, selv om liknende stenger fantes også der. I Sverige ble den derimot selve kjennetegnet på feiringen.",
+      "sv": "Stången slog aldrig riktigt igenom i Norge och Danmark, även om liknande stänger fanns också där. I Sverige blev den däremot själva kännetecknet för firandet."
+    },
+    "source": "Store norske leksikon – «midtsommer»"
+  },
+  {
+    "id": "sol-l-06",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Til urpremieren på Ibsens «Peer Gynt» 24. februar 1876 skrev en norsk komponist 26 musikkstykker, blant dem «Morgenstemning», «I Dovregubbens hall» og «Solveigs sang». Senere satte han sammen to orkestersuiter av dem. Hvem var komponisten?",
+      "sv": "Till urpremiären på Ibsens «Peer Gynt» den 24 februari 1876 skrev en norsk tonsättare 26 musikstycken, bland dem «Morgonstämning», «I Bergakungens sal» och «Solveigs sång». Senare satte han samman två orkestersviter av dem. Vem var tonsättaren?"
+    },
+    "answer": "Edvard Grieg",
+    "answerKind": "person",
+    "person": {
+      "given": "Edvard",
+      "family": "Grieg"
+    },
+    "hint": {
+      "nb": "Suitene han satte sammen i 1888 og 1893 har vunnet stor popularitet verden over.",
+      "sv": "Sviterna han satte samman 1888 och 1893 har vunnit stor popularitet världen över."
+    },
+    "funFact": {
+      "nb": "Musikken har opusnummer 23 og ble skrevet i 1874–1875, etter oppfordring fra dikteren selv. Av de 26 stykkene laget han senere to orkestersuiter, opus 46 og opus 55.",
+      "sv": "Musiken har opusnummer 23 och skrevs 1874–1875, efter uppmaning från diktaren själv. Av de 26 styckena gjorde han senare två orkestersviter, opus 46 och opus 55."
+    },
+    "source": "Store norske leksikon – «Peer Gynt – musikk»"
+  },
+  {
+    "id": "sol-l-07",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I august 2018 skjøt NASA opp en romsonde oppkalt etter fysikeren Eugene N. Parker, og i april 2021 fløy den som første farkost inn i solas ytre atmosfære. Parker hadde i 1958 gitt navn til det tynne plasmaet av elektroner og protoner som strømmer ut derfra med supersonisk fart. Hva kalles denne strømmen?",
+      "sv": "I augusti 2018 sköt NASA upp en rymdsond uppkallad efter fysikern Eugene N. Parker, och i april 2021 flög den som första farkost in i solens yttre atmosfär. Parker hade 1958 gett namn åt det tunna plasma av elektroner och protoner som strömmar ut därifrån med supersonisk fart. Vad kallas denna ström?"
+    },
+    "answer": "Solvinden",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De første målingene av fenomenet kom fra sovjetiske romsonder i 1959.",
+      "sv": "De första mätningarna av fenomenet kom från sovjetiska rymdsonder 1959."
+    },
+    "funFact": {
+      "nb": "Ved jordas avstand ligger farten mellom 200 og 700 kilometer i sekundet, i snitt rundt 400. Strømmen består mest av elektroner og protoner, med rundt 4,5 prosent heliumioner, og det er den som gir oss nordlys og magnetiske stormer.",
+      "sv": "Vid jordens avstånd ligger farten mellan 200 och 700 kilometer i sekunden, i snitt omkring 400. Strömmen består mest av elektroner och protoner, med omkring 4,5 procent heliumjoner, och det är den som ger oss norrsken och magnetiska stormar."
+    },
+    "source": "Store norske leksikon – «solvinden»; en.wikipedia.org – «Parker Solar Probe»"
+  },
+  {
+    "id": "sol-l-08",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kongehus",
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Han ble konge som barn i 1643 og satt på tronen i 72 år, til han døde i 1715. Hoffet flyttet han ut av Paris til et ombygd barokkslott i Versailles, som ble Europas mest beundrede kultursentrum. Ettertiden kjenner ham som Solkongen. Hvilken fransk konge?",
+      "sv": "Han blev kung som barn 1643 och satt på tronen i 72 år, till sin död 1715. Hovet flyttade han ut ur Paris till ett ombyggt barockslott i Versailles, som blev Europas mest beundrade kulturcentrum. Eftervärlden känner honom som Solkungen. Vilken fransk kung?"
+    },
+    "answer": {
+      "nb": "Ludvig 14.",
+      "sv": "Ludvig XIV"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han er selve bildet på eneveldet, og i hans tid var Frankrike foregangsland innen smak og kultur i Europa.",
+      "sv": "Han är själva sinnebilden för enväldet, och på hans tid var Frankrike föregångsland inom smak och kultur i Europa."
+    },
+    "funFact": {
+      "nb": "Regjeringstiden fra 1643 til 1715 er blant de lengste i historien. Slottet utenfor Paris ble under ham både sete for eneveldet og det mest beundrede kultursenteret i Europa.",
+      "sv": "Regeringstiden från 1643 till 1715 är bland de längsta i historien. Slottet utanför Paris blev under honom både säte för enväldet och det mest beundrade kulturcentrumet i Europa."
+    },
+    "source": "Store norske leksikon – «Ludvig 14.»"
+  },
+  {
+    "id": "sol-l-09",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Vinter-OL åpner på Lillehammer. Kanaltunnelen mellom England og Frankrike åpner. Nelson Mandela innsettes som Sør-Afrikas første svarte president. Kometen Shoemaker–Levy 9 treffer Jupiter. Disney har premiere på «Løvenes konge». Sverige stemmer ja til EU. Sony lanserer PlayStation i Japan. Justin Bieber blir født. Hvilket år?",
+      "sv": "Vinter-OS öppnar i Lillehammer. Kanaltunneln mellan England och Frankrike öppnar. Nelson Mandela installeras som Sydafrikas förste svarte president. Kometen Shoemaker–Levy 9 träffar Jupiter. Disney har premiär på «Lejonkungen». Sverige röstar ja till EU. Sony lanserar PlayStation i Japan. Justin Bieber föds. Vilket år?"
+    },
+    "answer": "1994",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Alt dette skjedde i første halvdel av 1990-tallet.",
+      "sv": "Allt detta hände under första halvan av 1990-talet."
+    },
+    "funFact": {
+      "nb": "Vinterlekene åpnet 12. februar, kanaltunnelen 6. mai og Mandela ble innsatt 10. mai. Folkeavstemningen i Sverige var 13. november, og spillkonsollen kom i japanske butikker 3. desember.",
+      "sv": "Vinterspelen öppnade den 12 februari, kanaltunneln den 6 maj och Mandela installerades den 10 maj. Folkomröstningen i Sverige var den 13 november, och spelkonsolen kom i japanska butiker den 3 december."
+    },
+    "source": "en.wikipedia.org – «1994»; en.wikipedia.org – «The Lion King»"
+  },
+  {
+    "id": "sol-l-10",
+    "category": "sol",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "I kommunen Solna, like nord for Stockholm sentrum, ligger et medisinsk universitet som ble grunnlagt i 1810 for å utdanne krigskirurger. Siden 1901 har en forsamling av professorene der hatt ansvaret for å dele ut Nobelprisen i fysiologi eller medisin. Hva heter universitetet?",
+      "sv": "I Solna kommun, strax norr om Stockholms centrum, ligger ett medicinskt universitet som grundades 1810 för att utbilda krigskirurger. Sedan 1901 har en församling av professorerna där ansvaret för att dela ut Nobelpriset i fysiologi eller medicin. Vad heter universitetet?"
+    },
+    "answer": "Karolinska Institutet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Universitetet har også et campus i Flemingsberg i Huddinge, sør for Stockholm.",
+      "sv": "Universitetet har också ett campus i Flemingsberg i Huddinge, söder om Stockholm."
+    },
+    "funFact": {
+      "nb": "Institusjonen ble opprettet i 1810 for å dekke behovet for krigskirurger. Fra 1901 fikk den ansvaret for én av Nobelprisene, og i dag er den Sveriges største helsefaglige universitet.",
+      "sv": "Institutionen grundades 1810 för att täcka behovet av krigskirurger. Från 1901 fick den ansvaret för ett av Nobelprisen, och i dag är den Sveriges största hälsovetenskapliga universitet."
+    },
+    "source": "Store medisinske leksikon – «Karolinska Institutet»; en.wikipedia.org – «Karolinska Institute»"
+  }
+]
