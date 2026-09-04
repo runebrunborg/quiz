@@ -1,0 +1,274 @@
+[
+  {
+    "id": "ball-l-01",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Charles Perrault la i 1697 til fegudmoren, gresskaret og skoene av glass. Fegudmoren advarer om at hun må være tilbake fra ballet før midnatt, for da brytes trolldommen. Hos brødrene Grimm er skoen av gull i stedet. Hva heter hun?",
+      "sv": "Charles Perrault lade 1697 till gudmodern, pumpan och skorna av glas. Gudmodern varnar för att hon måste vara tillbaka från balen före midnatt, för då bryts förtrollningen. Hos bröderna Grimm är skon av guld i stället. Vad heter hon?"
+    },
+    "answer": {
+      "nb": "Askepott",
+      "sv": "Askungen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Asbjørnsen og Moe tok inn en norsk variant i «Norske Folkeeventyr» i 1843.",
+      "sv": "Asbjørnsen och Moe tog in en norsk variant i «Norske Folkeeventyr» 1843."
+    },
+    "funFact": {
+      "nb": "De eldste kjente versjonene stammer fra kinesisk litteratur på 800-tallet, og det finnes rundt 500 nedtegnede europeiske varianter. Grimm-utgaven er atskillig mer brutal enn Perraults.",
+      "sv": "De äldsta kända versionerna kommer från kinesisk litteratur på 800-talet, och det finns omkring 500 nedtecknade europeiska varianter. Grimms utgåva är betydligt brutalare än Perraults."
+    },
+    "source": "Store norske leksikon – «Askepott»; en.wikipedia.org – «Cinderella»"
+  },
+  {
+    "id": "ball-l-02",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Spissen har en liten kule som ruller mot blekket i røret inni skaftet, og legger det tørt på papiret. På engelsk heter den ballpoint pen. Produksjonen kom i gang i Norge fra 1946. Hva heter dette skriveredskapet?",
+      "sv": "Spetsen har en liten kula som rullar mot bläcket i röret inuti skaftet och lägger det torrt på papperet. På engelska heter den ballpoint pen. Produktionen kom i gång i Norge från 1946. Vad heter detta skrivredskap?"
+    },
+    "answer": {
+      "nb": "Kulepenn",
+      "sv": "Kulspetspenna"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Amerikaneren John J. Loud tok patent på en tidlig utgave alt i 1888, men den skrev dårlig på vanlig papir.",
+      "sv": "Amerikanen John J. Loud tog patent på en tidig version redan 1888, men den skrev dåligt på vanligt papper."
+    },
+    "funFact": {
+      "nb": "Den slo gjennom i Storbritannia på 1930-tallet og ble markedsført i USA fra tidlig på 1940-tallet. Norskproduserte modeller var Reynolds Rocket fra 1947 og Ballograf fra 1949.",
+      "sv": "Den slog igenom i Storbritannien på 1930-talet och marknadsfördes i USA från tidigt 1940-tal. Norsktillverkade modeller var Reynolds Rocket från 1947 och Ballograf från 1949."
+    },
+    "source": "Store norske leksikon – «kulepenn»"
+  },
+  {
+    "id": "ball-l-03",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "4. juni 1783 steg en stor ballong fylt med varmluft omkring 1830 meter til værs ved Annonay i Frankrike, foran publikum. Samme høst, 21. november, gjennomførte to menn den første frie ferden med mennesker om bord. Hva het brødrene bak ballongen?",
+      "sv": "Den 4 juni 1783 steg en stor ballong fylld med varmluft omkring 1830 meter till väders vid Annonay i Frankrike, inför publik. Samma höst, den 21 november, genomförde två män den första fria färden med människor ombord. Vad hette bröderna bakom ballongen?"
+    },
+    "answer": "Montgolfier",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den bemannede ferden startet fra hagen ved Château La Muette i Boulogne-skogen og varte 25 minutter.",
+      "sv": "Den bemannade färden startade från trädgården vid Château La Muette i Boulogneskogen och varade 25 minuter."
+    },
+    "funFact": {
+      "nb": "Jacques Charles sendte opp den første hydrogenballongen fra Champ-de-Mars i Paris 27. august samme år. Den holdt seg i luften i 45 minutter før den landet i landsbyen Gonesse.",
+      "sv": "Jacques Charles sände upp den första vätgasballongen från Champ-de-Mars i Paris den 27 augusti samma år. Den höll sig i luften i 45 minuter innan den landade i byn Gonesse."
+    },
+    "source": "Store norske leksikon – «luftballong»"
+  },
+  {
+    "id": "ball-l-04",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Balletten hadde premiere i Moskva i 1877, men falt igjennom. Først da Marius Petipa og Lev Ivanov laget ny koreografi til oppsetningen i St. Petersburg i 1895, ble «Svanesjøen» den suksessen som siden er blitt selve symbolet på klassisk ballett. Hvem skrev musikken?",
+      "sv": "Baletten hade premiär i Moskva 1877, men föll igenom. Först när Marius Petipa och Lev Ivanov gjorde ny koreografi till uppsättningen i S:t Petersburg 1895 blev «Svansjön» den succé som sedan blivit själva symbolen för klassisk balett. Vem skrev musiken?"
+    },
+    "answer": {
+      "nb": "Pjotr Tsjajkovskij",
+      "sv": "Pjotr Tjajkovskij"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": "Pjotr",
+      "family": {
+        "nb": "Tsjajkovskij",
+        "sv": "Tjajkovskij"
+      }
+    },
+    "hint": {
+      "nb": "Handlingen følger prins Siegfried og svanedronningen Odette, som er bundet av en forbannelse.",
+      "sv": "Handlingen följer prins Siegfried och svandrottningen Odette, som är bunden av en förbannelse."
+    },
+    "funFact": {
+      "nb": "På et ball ved hoffet lar prinsen seg lure av Odile, trollmannen Rothbarts datter, og bryter løftet til Odette. Det ender tragisk for begge, men forbannelsen brytes.",
+      "sv": "På en bal vid hovet låter prinsen sig luras av Odile, trollkarlen Rothbarts dotter, och bryter löftet till Odette. Det slutar tragiskt för båda, men förtrollningen bryts."
+    },
+    "source": "Store norske leksikon – «Svanesjøen»"
+  },
+  {
+    "id": "ball-l-05",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Ordet kommer av det latinske verbet ballare, «å danse», og kom inn i europeisk diktning gjennom provençalsk. I dag dekker det tre ting: en episk folkevise, en litterær diktform og en rolig sang i populærmusikken. Hva heter formen?",
+      "sv": "Ordet kommer av det latinska verbet ballare, «att dansa», och kom in i europeisk diktning genom provensalskan. I dag täcker det tre saker: en episk folkvisa, en litterär diktform och en lugn sång i populärmusiken. Vad heter formen?"
+    },
+    "answer": {
+      "nb": "Ballade",
+      "sv": "Ballad"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det latinske opphavet er det samme som i ordet ball.",
+      "sv": "Det latinska ursprunget är detsamma som i ordet bal."
+    },
+    "funFact": {
+      "nb": "Den provençalske opprinnelsen knytter formen til dansekulturen. Folkevise-varianten, den litterære og den musikalske har siden utviklet seg hver for seg.",
+      "sv": "Det provensalska ursprunget knyter formen till danskulturen. Folkvisevarianten, den litterära och den musikaliska har sedan utvecklats var för sig."
+    },
+    "source": "Store norske leksikon – «ballade»"
+  },
+  {
+    "id": "ball-l-06",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Juno går i bane rundt Jupiter. Storbritannia stemmer for å forlate EU. Leicester City vinner Premier League mot odds på 5000. Pokémon Go slippes. Sommer-OL arrangeres i Rio de Janeiro. Eurovision holdes i Stockholm. Beyoncé gir ut «Lemonade». Donald Trump velges til president i USA. Hvilket år?",
+      "sv": "Juno går i bana runt Jupiter. Storbritannien röstar för att lämna EU. Leicester City vinner Premier League mot odds på 5000. Pokémon Go släpps. Sommar-OS hålls i Rio de Janeiro. Eurovision arrangeras i Stockholm. Beyoncé ger ut «Lemonade». Donald Trump väljs till president i USA. Vilket år?"
+    },
+    "answer": "2016",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Alt dette skjedde i andre halvdel av 2010-tallet.",
+      "sv": "Allt detta hände under andra halvan av 2010-talet."
+    },
+    "funFact": {
+      "nb": "Leicester ble klare som seriemestere 2. mai, Beyoncé slapp albumet 23. april, Juno gikk i bane 5. juli, Pokémon Go kom 6. juli, folkeavstemningen var 23. juni, lekene i Rio gikk 5.–21. august og presidentvalget var 8. november.",
+      "sv": "Leicester var klara som seriesegrare den 2 maj, Beyoncé släppte albumet den 23 april, Juno gick i bana den 5 juli, Pokémon Go kom den 6 juli, folkomröstningen var den 23 juni, spelen i Rio hölls 5–21 augusti och presidentvalet var den 8 november."
+    },
+    "source": "en.wikipedia.org – «2016»"
+  },
+  {
+    "id": "ball-l-07",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "11. juli 1897 lettet hydrogenballongen «Örnen» fra Virgohamna på Danskøya ved Svalbard, med kurs mot Nordpolen. Ballongen mistet styringen og gikk ned på isen, og først i 1930 ble sporene etter de tre om bord funnet. Hvem ledet ferden?",
+      "sv": "Den 11 juli 1897 lyfte vätgasballongen «Örnen» från Virgohamna på Danskøya vid Svalbard, med kurs mot Nordpolen. Ballongen förlorade styrförmågan och gick ned på isen, och först 1930 hittades spåren efter de tre ombord. Vem ledde färden?"
+    },
+    "answer": "Salomon August Andrée",
+    "answerKind": "person",
+    "person": {
+      "given": "Salomon August",
+      "family": "Andrée"
+    },
+    "hint": {
+      "nb": "Han var svensk ingeniør, født i 1854, og de to andre om bord var Nils Strindberg og Knut Frænkel.",
+      "sv": "Han var svensk ingenjör, född 1854, och de två andra ombord var Nils Strindberg och Knut Frænkel."
+    },
+    "funFact": {
+      "nb": "Ballongen var 20,5 meter i diameter og rommet 4500 kubikkmeter hydrogen. Den gikk ned på isen 480 kilometer fra utgangspunktet. Funnet i 1930 ble gjort av mannskapet om bord i M/K «Bratvaag».",
+      "sv": "Ballongen var 20,5 meter i diameter och rymde 4500 kubikmeter vätgas. Den gick ned på isen 480 kilometer från utgångspunkten. Fyndet 1930 gjordes av manskapet ombord på M/K «Bratvaag»."
+    },
+    "source": "Store norske leksikon – «Salomon August Andrée»"
+  },
+  {
+    "id": "ball-l-08",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Faget deles i tre: den indre delen regner på kammertrykk og akselerasjon, den ytre på banen gjennom lufta, og den terminale på hva som skjer når målet treffes. Ordet kommer av gresk og betyr «å kaste». Hva heter faget?",
+      "sv": "Ämnet delas i tre: den inre delen räknar på kammartryck och acceleration, den yttre på banan genom luften, och den terminala på vad som händer när målet träffas. Ordet kommer av grekiska och betyder «att kasta». Vad heter ämnet?"
+    },
+    "answer": {
+      "nb": "Ballistikk",
+      "sv": "Ballistik"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I lufttomt rom blir banen en parabel; i virkeligheten påvirkes den av luftmotstand, vær og jordrotasjon.",
+      "sv": "I lufttomt rum blir banan en parabel; i verkligheten påverkas den av luftmotstånd, väder och jordrotation."
+    },
+    "funFact": {
+      "nb": "Læren gjelder bevegelsen til et prosjektil under utskyting, under flukt og under gjennomtrenging i målet.",
+      "sv": "Läran gäller ett projektils rörelse under utskjutning, under flykt och under genomträngning i målet."
+    },
+    "source": "Store norske leksikon – «ballistikk»"
+  },
+  {
+    "id": "ball-l-09",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Han ble født i Göteborg i 1890, dro til sjøs i 1908 og bodde i Argentina fra 1910 til 1915. Som visedikter og trubadur ga han ut samlinger som «Fritiof Anderssons visbok» i 1929 og «Ballader i Bohuslän» i 1943. Hvem var han?",
+      "sv": "Han föddes i Göteborg 1890, gick till sjöss 1908 och bodde i Argentina från 1910 till 1915. Som visdiktare och trubadur gav han ut samlingar som «Fritiof Anderssons visbok» 1929 och «Ballader i Bohuslän» 1943. Vem var han?"
+    },
+    "answer": "Evert Taube",
+    "answerKind": "person",
+    "person": {
+      "given": "Evert",
+      "family": "Taube"
+    },
+    "hint": {
+      "nb": "Han var også en dyktig maler og tegner, og stiftet Samfundet Visans vänner i 1936.",
+      "sv": "Han var också en skicklig målare och tecknare, och stiftade Samfundet Visans vänner 1936."
+    },
+    "funFact": {
+      "nb": "Debuten kom i 1919 med «Sju sjömansvisor och Byssan lull». Visene henter fra middelalderens trubadurer, folkevisene og Carl Michael Bellman, og skildrer både komiske og tragiske opplevelser i fremmede havner.",
+      "sv": "Debuten kom 1919 med «Sju sjömansvisor och Byssan lull». Visorna hämtar från medeltidens trubadurer, folkvisorna och Carl Michael Bellman, och skildrar både komiska och tragiska upplevelser i främmande hamnar."
+    },
+    "source": "Store norske leksikon – «Evert Taube»"
+  },
+  {
+    "id": "ball-l-10",
+    "category": "ball",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Fiskeværet i Vestvågøy kommune i Nordland ligger under fjellene Nonstinden og Skottinden, og regnes som et av de største og vakreste i Lofoten. Her er fiskebruk, fryselager og skipsverft, og 846 innbyggere i 2025. Hva heter stedet?",
+      "sv": "Fiskeläget i Vestvågøy kommun i Nordland ligger under fjällen Nonstinden och Skottinden, och räknas som ett av de största och vackraste i Lofoten. Här finns fiskberedning, fryslager och skeppsvarv, och 846 invånare 2025. Vad heter platsen?"
+    },
+    "answer": "Ballstad",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stedet ligger dels på Vestvågøya, dels på en egen øy, med havna mellom dem.",
+      "sv": "Platsen ligger dels på Vestvågøya, dels på en egen ö, med hamnen mellan dem."
+    },
+    "funFact": {
+      "nb": "Bebyggelsen dekker 0,8 kvadratkilometer. Ved siden av fisket lever stedet av turisme, med rorbuer til leie og camping.",
+      "sv": "Bebyggelsen täcker 0,8 kvadratkilometer. Vid sidan av fisket lever platsen på turism, med rorbuer att hyra och camping."
+    },
+    "source": "Store norske leksikon – «Ballstad»"
+  }
+]
