@@ -1,0 +1,264 @@
+[
+  {
+    "id": "ring-l-01",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Denne gasskjempen er den sjette planeten fra sola og den nest største i solsystemet. Ringene rundt den består av billioner av isbiter og strekker seg 600 000 kilometer utover, men er bare rundt ti meter tykke. Hvilken planet?",
+      "sv": "Denna gasjätte är den sjätte planeten från solen och den näst största i solsystemet. Ringarna runt den består av biljoner isbitar och sträcker sig 600 000 kilometer utåt, men är bara omkring tio meter tjocka. Vilken planet?"
+    },
+    "answer": "Saturn",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Galileo Galilei så ringene i teleskop i 1610, men skjønte ikke hva han så. Christiaan Huygens forsto det i 1655.",
+      "sv": "Galileo Galilei såg ringarna i teleskop 1610, men förstod inte vad han såg. Christiaan Huygens förstod det 1655."
+    },
+    "funFact": {
+      "nb": "Planeten bruker 29,42 år på én runde rundt sola, men bare 10,23 timer på å snurre om sin egen akse. Den har 146 kjente måner, blant dem Titan.",
+      "sv": "Planeten använder 29,42 år på ett varv runt solen, men bara 10,23 timmar på att snurra runt sin egen axel. Den har 146 kända månar, bland dem Titan."
+    },
+    "source": "Store norske leksikon – «Saturn – planet»"
+  },
+  {
+    "id": "ring-l-02",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Han var professor i gammelengelsk ved Oxford fra 1925 til 1959, og skrev ved siden av en barnebok om hobbiten Bilbo i 1937. Oppfølgeren i tre bind kom i 1954–55, og handler om å ødelegge en ring. Hvem var han?",
+      "sv": "Han var professor i fornengelska vid Oxford från 1925 till 1959, och skrev vid sidan av en barnbok om hobbiten Bilbo 1937. Uppföljaren i tre band kom 1954–55, och handlar om att förstöra en ring. Vem var han?"
+    },
+    "answer": "J.R.R. Tolkien",
+    "answerKind": "person",
+    "person": {
+      "given": "J.R.R.",
+      "family": "Tolkien"
+    },
+    "hint": {
+      "nb": "Han ble født i Bloemfontein i Sør-Afrika i 1892 og døde i Bournemouth i England i 1973.",
+      "sv": "Han föddes i Bloemfontein i Sydafrika 1892 och dog i Bournemouth i England 1973."
+    },
+    "funFact": {
+      "nb": "«Silmarillion» kom først i 1977, utgitt av sønnen Christopher etter farens død. Han var filolog av fag, og regnes som den som formet moderne fantasy.",
+      "sv": "«Silmarillion» kom först 1977, utgiven av sonen Christopher efter faderns död. Han var filolog till yrket, och räknas som den som formade modern fantasy."
+    },
+    "source": "Store norske leksikon – «J.R.R. Tolkien»"
+  },
+  {
+    "id": "ring-l-03",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Han het egentlig Richard Starkey og ble født i Liverpool i 1940. I 1962 ble han trommeslager i The Beatles, og ble værende til gruppen gikk i oppløsning i 1970. Under hvilket artistnavn er han kjent?",
+      "sv": "Han hette egentligen Richard Starkey och föddes i Liverpool 1940. År 1962 blev han trumslagare i The Beatles, och stannade tills gruppen upplöstes 1970. Under vilket artistnamn är han känd?"
+    },
+    "answer": "Ringo Starr",
+    "answerKind": "person",
+    "person": {
+      "given": "Ringo",
+      "family": "Starr"
+    },
+    "hint": {
+      "nb": "Han erstattet Pete Best bak trommene i august 1962, rett før gruppens første singel.",
+      "sv": "Han ersatte Pete Best bakom trummorna i augusti 1962, strax före gruppens första singel."
+    },
+    "funFact": {
+      "nb": "Han skrev lite av gruppens musikk – låtskrivingen var dominert av Lennon og McCartney. Etternavnet i artistnavnet er det engelske ordet for stjerne, med en ekstra r.",
+      "sv": "Han skrev lite av gruppens musik – låtskrivandet dominerades av Lennon och McCartney. Efternamnet i artistnamnet är det engelska ordet för stjärna, med ett extra r."
+    },
+    "source": "Store norske leksikon – «Ringo Starr» og «The Beatles»"
+  },
+  {
+    "id": "ring-l-04",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Utslettet er rødt og flassende, mest aktivt i randen, og ringen blir langsomt større – derav navnet ringorm. Men noen orm er ikke involvert i det hele tatt. Hvilken type organisme er det egentlig som forårsaker plagen?",
+      "sv": "Utslaget är rött och fjällande, mest aktivt i kanten, och ringen blir långsamt större – därav namnet ringorm. Men någon mask är inte inblandad över huvud taget. Vilken typ av organism är det egentligen som orsakar besväret?"
+    },
+    "answer": {
+      "nb": "Sopp",
+      "sv": "Svamp"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Infeksjonen mellom tærne, som rundt ti prosent av befolkningen har til enhver tid, skyldes det samme.",
+      "sv": "Infektionen mellan tårna, som omkring tio procent av befolkningen har vid varje tidpunkt, beror på detsamma."
+    },
+    "funFact": {
+      "nb": "Tre slekter står bak: Trichophyton, Epidermophyton og Microsporum. De overlever bare i det forhornede hudlaget, ikke i levende vev, og infeksjonene er derfor aldri farlige.",
+      "sv": "Tre släkten står bakom: Trichophyton, Epidermophyton och Microsporum. De överlever bara i det förhornade hudlagret, inte i levande vävnad, och infektionerna är därför aldrig farliga."
+    },
+    "source": "Store medisinske leksikon – «tinea»"
+  },
+  {
+    "id": "ring-l-05",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "De fem sammenflettede ringene i blått, gult, svart, grønt og rødt symboliserer vennskap mellom de fem verdensdelene. Flagget ble tegnet i 1913, vist fram i 1914 og brukt for første gang i Antwerpen i 1920. Hvem tegnet det?",
+      "sv": "De fem sammanflätade ringarna i blått, gult, svart, grönt och rött symboliserar vänskap mellan de fem världsdelarna. Flaggan ritades 1913, visades upp 1914 och användes för första gången i Antwerpen 1920. Vem ritade den?"
+    },
+    "answer": "Pierre de Coubertin",
+    "answerKind": "person",
+    "person": {
+      "given": "Pierre",
+      "family": "de Coubertin"
+    },
+    "hint": {
+      "nb": "Han var fransk, og ledet Den internasjonale olympiske komité fra 1896 til 1925.",
+      "sv": "Han var fransk och ledde Internationella olympiska kommittén från 1896 till 1925."
+    },
+    "funFact": {
+      "nb": "I juni 1894 samlet han 79 utsendinger fra tolv nasjoner i Paris. Der ble Den internasjonale olympiske komité opprettet, og de bestemte at de første moderne lekene skulle holdes i Athen i 1896.",
+      "sv": "I juni 1894 samlade han 79 utsända från tolv nationer i Paris. Där grundades Internationella olympiska kommittén, och de beslöt att de första moderna spelen skulle hållas i Aten 1896."
+    },
+    "source": "Store norske leksikon – «Pierre de Coubertin» og «olympiske leker»"
+  },
+  {
+    "id": "ring-l-06",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Låten ble skrevet av June Carter og Merle Kilgore, og først spilt inn av Anita Carter i 1962. Året etter kom versjonen med mariachi-trompeter, «Ring of Fire», som ble en av countryhistoriens største hits. Hvem sang den inn?",
+      "sv": "Låten skrevs av June Carter och Merle Kilgore, och spelades först in av Anita Carter 1962. Året därpå kom versionen med mariachitrumpeter, «Ring of Fire», som blev en av countryhistoriens största hitar. Vem sjöng in den?"
+    },
+    "answer": "Johnny Cash",
+    "answerKind": "person",
+    "person": {
+      "given": "Johnny",
+      "family": "Cash"
+    },
+    "hint": {
+      "nb": "Han fortalte at han hadde drømt at låten ble spilt med meksikanske horn.",
+      "sv": "Han berättade att han hade drömt att låten spelades med mexikanska horn."
+    },
+    "funFact": {
+      "nb": "Versjonen hans lå sju uker på førsteplass på countrylista og nådde 17. plass på Billboard Hot 100. Mariachi-arrangementet var et tydelig brudd med hans vanlige stil.",
+      "sv": "Hans version låg sju veckor på förstaplatsen på countrylistan och nådde 17:e plats på Billboard Hot 100. Mariachiarrangemanget var ett tydligt brott med hans vanliga stil."
+    },
+    "source": "en.wikipedia.org – «Ring of Fire (song)»"
+  },
+  {
+    "id": "ring-l-07",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Metoden kom fra Danmark, og den første fuglen merket der ble funnet i Norge alt i 1901. Organisert virksomhet startet her i 1914, og i 2022 passerte man ti millioner merkede fugler. Hva kalles metoden?",
+      "sv": "Metoden kom från Danmark, och den första fågeln märkt där hittades i Norge redan 1901. Organiserad verksamhet startade i Norge 1914, och 2022 passerade man tio miljoner märkta fåglar. Vad kallas metoden?"
+    },
+    "answer": {
+      "nb": "Ringmerking",
+      "sv": "Ringmärkning"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fuglen får en lett metallring om foten, med adresse og nummer på.",
+      "sv": "Fågeln får en lätt metallring om foten, med adress och nummer på."
+    },
+    "funFact": {
+      "nb": "Ringmerkingssentralen ved Stavanger Museum har hatt den nasjonale samordningen siden 1987. Ringene var før i aluminium, men for sjøfugl brukes nå rustfritt stål, fordi merket skal kunne leses av i tjue til tretti år.",
+      "sv": "Ringmärkningscentralen vid Stavanger Museum har haft den nationella samordningen sedan 1987. Ringarna var förr i aluminium, men för sjöfågel används nu rostfritt stål, eftersom märket ska kunna läsas av i tjugo till trettio år."
+    },
+    "source": "Store norske leksikon – «ringmerking»"
+  },
+  {
+    "id": "ring-l-08",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Rundt denne middelalderbyen på Gotland står en 3,6 kilometer lang og tolv meter høy mur, bygd mellom 1250 og 1288. Av de opprinnelige 29 tårnene står 27 igjen, og byen kom på UNESCOs verdensarvliste i 1995. Hvilken by?",
+      "sv": "Runt denna medeltidsstad på Gotland står en 3,6 kilometer lång och tolv meter hög mur, byggd mellan 1250 och 1288. Av de ursprungliga 29 tornen står 27 kvar, och staden kom på Unescos världsarvslista 1995. Vilken stad?"
+    },
+    "answer": "Visby",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er administrasjonssenter for både kommunen og länet på øya.",
+      "sv": "Staden är administrativt centrum för både kommunen och länet på ön."
+    },
+    "funFact": {
+      "nb": "Muren er blant de best bevarte i Europa. Byen har havn og lufthavn, og lever i dag mye av handel, tjenester og turisme.",
+      "sv": "Muren är bland de bäst bevarade i Europa. Staden har hamn och flygplats, och lever i dag mycket på handel, tjänster och turism."
+    },
+    "source": "Store norske leksikon – «Visby»"
+  },
+  {
+    "id": "ring-l-09",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Kommunen i Buskerud strekker seg over lavlandet nord og vest for Tyrifjorden, og har Hønefoss som sentrum. Bergensbanen går gjennom, og en ny bane mot Oslo har vært planlagt i tiår. Hva heter kommunen?",
+      "sv": "Kommunen i Buskerud sträcker sig över låglandet norr och väster om Tyrifjorden, och har Hønefoss som centrum. Bergensbanan går genom, och en ny bana mot Oslo har varit planerad i decennier. Vad heter kommunen?"
+    },
+    "answer": "Ringerike",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Høyeste punkt er Vikerfjell på 1127 meter, og det bor rundt 32 000 mennesker i kommunen.",
+      "sv": "Högsta punkten är Vikerfjell på 1127 meter, och det bor omkring 32 000 människor i kommunen."
+    },
+    "funFact": {
+      "nb": "Treforedling med Follum Fabrikker dominerte lenge næringslivet. I dag bæres økonomien av maskinindustri, tjenester, handel og vannkraft, med rundt 596 gigawattimer i årlig produksjon.",
+      "sv": "Träförädling med Follum Fabrikker dominerade länge näringslivet. I dag bärs ekonomin av maskinindustri, tjänster, handel och vattenkraft, med omkring 596 gigawattimmar i årlig produktion."
+    },
+    "source": "Store norske leksikon – «Ringerike»"
+  },
+  {
+    "id": "ring-l-10",
+    "category": "ring",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Anlegget ligger i Varberg kommune, rundt seks mil sør for Göteborg. Byggingen startet i 1969, de to første reaktorene kom i drift i 1974, og to av de fire er fortsatt i gang med til sammen 2169 megawatt. Hva heter kjernekraftverket?",
+      "sv": "Anläggningen ligger i Varbergs kommun, omkring sex mil söder om Göteborg. Bygget startade 1969, de två första reaktorerna togs i drift 1974, och två av de fyra är fortfarande i gång med sammanlagt 2169 megawatt. Vad heter kärnkraftverket?"
+    },
+    "answer": "Ringhals",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Reaktor 2 ble stengt i 2019 og reaktor 1 i 2020, begge av økonomiske grunner.",
+      "sv": "Reaktor 2 stängdes 2019 och reaktor 1 2020, båda av ekonomiska skäl."
+    },
+    "funFact": {
+      "nb": "Reaktor 3 og 4 er ventet å være i drift til henholdsvis 2041 og 2043.",
+      "sv": "Reaktor 3 och 4 väntas vara i drift till 2041 respektive 2043."
+    },
+    "source": "Store norske leksikon – «Ringhals»"
+  }
+]
