@@ -563,8 +563,8 @@
       "geografi"
     ],
     "prompt": {
-      "nb": "I Gjesdal kommune i Rogaland stuper elva Månaåna 92 meter i ett samlet fall gjennom et trangt juv, og navnet på fossen er identisk med himmellegemet i denne quizen. En 250 meter lang klopp fører turgåere de siste meterne fram til utsiktspunktet. Hva heter fossen?",
-      "sv": "I Gjesdals kommun i Rogaland störtar älven Månaåna 92 meter i ett samlat fall genom en trång ravin, och namnet på fallet är identiskt med himlakroppen i denna frågesport. En 250 meter lång spång leder vandrare de sista metrarna fram till utsiktsplatsen. Vad heter fallet?"
+      "nb": "I Gjesdal kommune i Rogaland stuper en elv 92 meter i ett samlet fall gjennom et trangt juv. En 250 meter lang klopp fører turgåere de siste meterne fram til utsiktspunktet. Hva heter fossen?",
+      "sv": "I Gjesdals kommun i Rogaland störtar en älv 92 meter i ett samlat fall genom en trång ravin. En 250 meter lång spång leder vandrare de sista metrarna fram till utsiktsplatsen. Vad heter fallet?"
     },
     "answer": "Månafossen",
     "answerKind": "annet",

@@ -695,14 +695,14 @@
       "historie"
     ],
     "prompt": {
-      "nb": "Ifølge gammel norsk folketro var natten før 13. desember den lengste og mørkeste i året – ifølge den julianske kalenderen falt vintersolvervet nettopp på denne datoen. Natten er oppkalt etter en fryktet kvinneskikkelse, Lussi, som skal ha jaget rundt og straffet dem som ikke var ferdige med juleforberedelsene. Hva kalles denne natten?",
-      "sv": "Enligt gammal norsk folktro var natten före den 13 december den längsta och mörkaste på året – enligt den julianska kalendern inföll vintersolståndet just detta datum. Natten är uppkallad efter en fruktad kvinnogestalt, Lussi, som ska ha jagat runt och straffat dem som inte var klara med julförberedelserna. Vad kallas denna natt?"
+      "nb": "Ifølge gammel norsk folketro var natten før 13. desember den lengste og mørkeste i året – ifølge den julianske kalenderen falt vintersolvervet nettopp på denne datoen. Natten er oppkalt etter en fryktet kvinneskikkelse fra folketroen som skal ha jaget rundt og straffet dem som ikke var ferdige med juleforberedelsene. Hva kalles denne natten?",
+      "sv": "Enligt gammal norsk folktro var natten före den 13 december den längsta och mörkaste på året – enligt den julianska kalendern inföll vintersolståndet just detta datum. Natten är uppkallad efter en fruktad kvinnogestalt ur folktron som ska ha jagat runt och straffat dem som inte var klara med julförberedelserna. Vad kallas denna natt?"
     },
     "answer": "Lussinatten",
     "answerKind": "annet",
     "hint": {
-      "nb": "Datoen er den samme som i dag feires som luciadagen, men den folkelige skikkelsen Lussi er en helt annen figur enn den hvitkledde Lucia.",
-      "sv": "Datumet är detsamma som i dag firas som luciadagen, men den folkliga gestalten Lussi är en helt annan figur än den vitklädda Lucia."
+      "nb": "Datoen er den samme som i dag feires som luciadagen, men den folkelige skikkelsen som natten har fått navn etter, er en helt annen figur enn den hvitkledde Lucia.",
+      "sv": "Datumet är detsamma som i dag firas som luciadagen, men den folkliga gestalten som natten fått namn efter är en helt annan figur än den vitklädda Lucia."
     },
     "funFact": {
       "nb": "Den moderne, høytidelige luciafeiringen med hvitkledde jenter og lys oppsto først på 1900-tallet, lenge etter at forestillingene om Lussi og hennes fryktede natt hadde oppstått.",

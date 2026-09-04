@@ -48,8 +48,8 @@
       "sport"
     ],
     "prompt": {
-      "nb": "Denne fotballklubben fra Sandnes i Rogaland ble stiftet i 1911 som Sportsklubben Ulf, og tilhengerne kalles den dag i dag «Ulvane». Etter en fusjon i 2003–04 fikk klubben sitt nåværende navn. Hvilken klubb er dette?",
-      "sv": "Denna fotbollsklubb från Sandnes i Rogaland grundades 1911 som Sportsklubben Ulf, och supportrarna kallas än i dag «Ulvane» («Vargarna»). Efter en sammanslagning 2003–04 fick klubben sitt nuvarande namn. Vilken klubb är detta?"
+      "nb": "Denne fotballklubben fra Rogaland ble stiftet i 1911 som en sportsklubb oppkalt etter et rovdyr, og tilhengerne kalles den dag i dag «Ulvane». Etter en fusjon i 2003–04 fikk klubben sitt nåværende navn. Hvilken klubb er dette?",
+      "sv": "Denna fotbollsklubb från Rogaland grundades 1911 som en sportklubb uppkallad efter ett rovdjur, och supportrarna kallas än i dag «Ulvane» («Vargarna»). Efter en sammanslagning 2003–04 fick klubben sitt nuvarande namn. Vilken klubb är detta?"
     },
     "answer": "Sandnes Ulf",
     "answerKind": "annet",
@@ -100,8 +100,8 @@
       "popkultur"
     ],
     "prompt": {
-      "nb": "Norges mest besøkte turistattraksjon ligger utenfor Kristiansand og åpnet i 1966. I tillegg til rovdyr som sibirtiger har parken siden 1995 hatt et eget område viet en sjørøverfigur med et spesielt tanngard. Hva heter parken?",
-      "sv": "Norges mest besökta turistattraktion ligger utanför Kristiansand och öppnade 1966. Förutom rovdjur som sibirisk tiger har parken sedan 1995 ett eget område tillägnat en piratfigur med ett speciellt tandgarnityr. Vad heter parken?"
+      "nb": "Norges mest besøkte turistattraksjon ligger på Sørlandet og åpnet i 1966. I tillegg til rovdyr som sibirtiger har parken siden 1995 hatt et eget område viet en sjørøverfigur med et spesielt tanngard. Hva heter parken?",
+      "sv": "Norges mest besökta turistattraktion ligger i södra Norge och öppnade 1966. Förutom rovdjur som sibirisk tiger har parken sedan 1995 ett eget område tillägnat en piratfigur med ett speciellt tandgarnityr. Vad heter parken?"
     },
     "answer": "Kristiansand Dyrepark",
     "answerKind": "annet",

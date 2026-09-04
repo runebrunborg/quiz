@@ -178,8 +178,8 @@
     "answer": "Saltstraumen",
     "answerKind": "annet",
     "hint": {
-      "nb": "Strømmen går mellom Saltfjorden og Skjerstadfjorden.",
-      "sv": "Strömmen går mellan Saltfjorden och Skjerstadfjorden."
+      "nb": "Strømmen er innløpet til Skjerstadfjorden, i Bodø kommune i Nordland.",
+      "sv": "Strömmen är inloppet till Skjerstadfjorden, i Bodø kommun i Nordland."
     },
     "funFact": {
       "nb": "Middelhastigheten ligger rundt sju knop, og retningen snur fire ganger i døgnet – i takt med tidevannet, som i hovedsak styres av månen.",
@@ -754,14 +754,14 @@
       "natur"
     ],
     "prompt": {
-      "nb": "Tidevannet fyller og tømmer Vestfjorden to ganger i døgnet, og mellom Lofotodden og den vesle øya Mosken skaper det en malstrøm som Petter Dass, Edgar Allan Poe, Herman Melville og Jules Verne alle har skrevet om. Hva heter strømmen?",
-      "sv": "Tidvattnet fyller och tömmer Vestfjorden två gånger i dygnet, och mellan Lofotodden och den lilla ön Mosken skapar det en malström som Petter Dass, Edgar Allan Poe, Herman Melville och Jules Verne alla har skrivit om. Vad heter strömmen?"
+      "nb": "Tidevannet fyller og tømmer Vestfjorden to ganger i døgnet, og mellom Lofotodden og en liten øy utenfor skaper det en malstrøm som Petter Dass, Edgar Allan Poe, Herman Melville og Jules Verne alle har skrevet om. Hva heter strømmen?",
+      "sv": "Tidvattnet fyller och tömmer Vestfjorden två gånger i dygnet, och mellan Lofotodden och en liten ö utanför skapar det en malström som Petter Dass, Edgar Allan Poe, Herman Melville och Jules Verne alla har skrivit om. Vad heter strömmen?"
     },
     "answer": "Moskstraumen",
     "answerKind": "annet",
     "hint": {
-      "nb": "Strømmen ligger helt sør i Lofoten, ved Moskenesøya.",
-      "sv": "Strömmen ligger längst söderut i Lofoten, vid Moskenesøya."
+      "nb": "Strømmen ligger helt sør i Lofoten, mellom de ytterste øyene i øygruppen.",
+      "sv": "Strömmen ligger längst söderut i Lofoten, mellan de yttersta öarna i ögruppen."
     },
     "funFact": {
       "nb": "Poes novelle heter «A Descent into the Maelström». Store norske leksikon påpeker at forfatterne bygde på eldre kilder som overdrev strømmens kraft betydelig. Nivåforskjellen mellom vannet på hver side kan bli opptil 40 centimeter.",

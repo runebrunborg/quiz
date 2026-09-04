@@ -4,12 +4,18 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["arkitektur", "kongehus"],
+    "topics": [
+      "arkitektur",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Karl Johan valgte tomten i 1821 og la ned grunnsteinen i 1825, men han døde i 1844, tre år før huset sto ferdig. Den danskfødte og uerfarne arkitekten Hans Linstow tegnet det, og sønnen Oscar 1 ble den første som bodde der. Hva kalles denne kongelige bygningen i Oslo?",
       "sv": "Karl Johan valde tomten 1821 och lade grundstenen 1825, men han dog 1844, tre år innan huset stod klart. Den dansktfödde och oerfarna arkitekten Hans Linstow ritade det, och sonen Oscar I blev den förste som bodde där. Vad kallas denna kungliga byggnad i Oslo?"
     },
-    "answer": { "nb": "Slottet", "sv": "Slottet i Oslo" },
+    "answer": {
+      "nb": "Slottet",
+      "sv": "Slottet i Oslo"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Bygningen ligger for enden av Karl Johans gate og har en balkong der kongefamilien viser seg ved store anledninger.",
@@ -26,12 +32,18 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["kongehus", "historie"],
+    "topics": [
+      "kongehus",
+      "historie"
+    ],
     "prompt": {
       "nb": "I det norske riksvåpenet står et gyllent, kronet dyr på rødt felt og bærer en øks med sølvblad – symbolet på Olav den hellige, «Norges evige konge». Motivet er svært gammelt, med det eldste kjente seglet fra 1285. Hvilket dyr er det?",
       "sv": "I det norska riksvapnet står ett gyllene, krönt djur på rött fält och bär en yxa med silverblad – symbolen för Olav den helige, «Norges evige kung». Motivet är mycket gammalt, med det äldsta kända sigillet från 1285. Vilket djur är det?"
     },
-    "answer": { "nb": "Løve", "sv": "Lejon" },
+    "answer": {
+      "nb": "Løve",
+      "sv": "Lejon"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Samme dyr finnes i mange andre europeiske våpenskjold, men her er det rest på bakbena og bevæpnet.",
@@ -48,7 +60,10 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["historie", "kongehus"],
+    "topics": [
+      "historie",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "21. mars 1929 sto det første kongelige bryllupet i Norge på 340 år, i Oslo domkirke. Bruden tilhørte det svenske kongehuset og var datter av prins Carl, hertug av Västergötland. Sønnen deres ble senere Norges konge under navnet Harald 5. Hvem giftet kronprins Olav seg med?",
       "sv": "Den 21 mars 1929 hölls det första kungliga bröllopet i Norge på 340 år, i Oslo domkyrka. Bruden tillhörde det svenska kungahuset och var dotter till prins Carl, hertig av Västergötland. Deras son blev senare Norges kung under namnet Harald V. Vem gifte sig kronprins Olav med?"
@@ -70,16 +85,25 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["religion", "historie"],
+    "topics": [
+      "religion",
+      "historie"
+    ],
     "prompt": {
       "nb": "Han falt i et slag ved Stiklestad i Trøndelag 29. juli 1030, bare ett år etter at han var blitt fordrevet fra riket. Kort tid etter ble han helligkåret og fikk tilnavnet «Norges evige konge» – rex perpetuus Norvegiae. Hvilken konge er dette?",
       "sv": "Han stupade i ett slag vid Stiklestad i Trøndelag den 29 juli 1030, bara ett år efter att han hade fördrivits från riket. Kort tid därefter helgonförklarades han och fick tillnamnet «Norges evige kung» – rex perpetuus Norvegiae. Vilken kung är detta?"
     },
-    "answer": { "nb": "Olav den hellige", "sv": "Olav den helige" },
+    "answer": {
+      "nb": "Olav den hellige",
+      "sv": "Olav den helige"
+    },
     "answerKind": "person",
     "person": {
       "given": "Olav",
-      "family": { "nb": "den hellige", "sv": "den helige" }
+      "family": {
+        "nb": "den hellige",
+        "sv": "den helige"
+      }
     },
     "hint": {
       "nb": "Dagen han døde markeres fortsatt hvert år som olsok, en av Norges eldste helligdager.",
@@ -96,12 +120,18 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["historie", "politikk"],
+    "topics": [
+      "historie",
+      "politikk"
+    ],
     "prompt": {
       "nb": "En dansk prinsesse fikk i 1397 samlet Danmark, Norge og Sverige under én krone i byen Kalmar, med sin 15 år gamle slektning Erik av Pommern som kronet konge – men det var hun som i praksis styrte helt til hun døde i 1412. Hvilken dronning er dette?",
       "sv": "En dansk prinsessa fick 1397 samlat Danmark, Norge och Sverige under en krona i staden Kalmar, med sin 15-åriga släkting Erik av Pommern som krönt kung – men det var hon som i praktiken styrde ända till hon dog 1412. Vilken drottning är detta?"
     },
-    "answer": { "nb": "Margrete 1", "sv": "Margareta I" },
+    "answer": {
+      "nb": "Margrete 1",
+      "sv": "Margareta I"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Hun var enke etter den norske kong Håkon 6 og hadde tidligere vært regent i både Danmark og Norge.",
@@ -118,12 +148,18 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["arkitektur", "natur"],
+    "topics": [
+      "arkitektur",
+      "natur"
+    ],
     "prompt": {
       "nb": "En svensk konge lot på 1780-tallet landskapsarkitekten Fredrik Magnus Piper anlegge en vidstrakt park i engelsk stil nord for Stockholm, med slyngete stier og åpne gressletter i stedet for strenge, geometriske hager. I dag er området en av Sveriges nasjonalstadsparker. Hvilken konge sto bak?",
       "sv": "En svensk kung lät på 1780-talet trädgårdsarkitekten Fredrik Magnus Piper anlägga en vidsträckt park i engelsk stil norr om Stockholm, med slingrande stigar och öppna gräsmattor i stället för strikta, geometriska trädgårdar. I dag är området en av Sveriges nationalstadsparker. Vilken kung låg bakom?"
     },
-    "answer": { "nb": "Gustav 3", "sv": "Gustav III" },
+    "answer": {
+      "nb": "Gustav 3",
+      "sv": "Gustav III"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Han regjerte fra 1771 til 1792 og er også kjent for å ha grunnlagt Svenska Akademien i 1786.",
@@ -140,7 +176,10 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["arkitektur", "kongehus"],
+    "topics": [
+      "arkitektur",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Siden 1981 er dette barokkslottet ved Mälaren den svenske kongefamiliens faste bolig, mens et annet slott i sentrum brukes til representasjon. Anlegget med slottsteater og kinesisk paviljong ble ført opp på UNESCOs verdensarvliste i 1991. Hva heter slottet?",
       "sv": "Sedan 1981 är detta barockslott vid Mälaren den svenska kungafamiljens fasta bostad, medan ett annat slott i city används för representation. Anläggningen med slottsteater och kinesiskt lusthus fördes upp på Unescos världsarvslista 1991. Vad heter slottet?"
@@ -162,7 +201,10 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["arkitektur", "kongehus"],
+    "topics": [
+      "arkitektur",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Etter at det forrige slottet på tomten brant ned i 1697, tegnet Nicodemus Tessin den yngre et nytt slott i Gamla stan med over 600 rom. Det er formelt kongefamiliens hovedresidens og brukes til statsbesøk og audienser, selv om de bor et annet sted. Hva heter slottet?",
       "sv": "Efter att det tidigare slottet på tomten brann ner 1697 ritade Nicodemus Tessin den yngre ett nytt slott i Gamla stan med över 600 rum. Det är formellt kungafamiljens huvudresidens och används för statsbesök och audienser, även om de bor på annat håll. Vad heter slottet?"
@@ -184,12 +226,18 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["spill", "popkultur"],
+    "topics": [
+      "spill",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "I en vanlig fransk kortstokk er dette den eneste av de fire kongene som er tegnet uten bart. Sverdet hans ser ut til å stikke rett inn i hodet – en feil som har oppstått gjennom århundrer med slurvete kopiering hos engelske kortprodusenter. Hvilken kortstokk-konge er dette?",
       "sv": "I en vanlig fransk kortlek är detta den ende av de fyra kungarna som är tecknad utan mustasch. Hans svärd ser ut att sticka rakt in i huvudet – ett fel som uppstått genom århundraden av slarvig kopiering hos engelska kortmakare. Vilken kortlekskung är detta?"
     },
-    "answer": { "nb": "Hjerterkonge", "sv": "Hjärterkung" },
+    "answer": {
+      "nb": "Hjerterkonge",
+      "sv": "Hjärterkung"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "På engelsk har han fått kallenavnet «the suicide king» på grunn av dette utseendet.",
@@ -206,10 +254,13 @@
     "category": "kongelige",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["politikk", "kongehus"],
+    "topics": [
+      "politikk",
+      "kongehus"
+    ],
     "prompt": {
-      "nb": "Edvard 1 av England erobret Wales og innstiftet i februar 1301 en tradisjon der landets erobrede fyrstedømme ble gitt som tittel til den engelske tronarvingen – først til hans egen sønn, senere til en lang rekke kronprinser. Hvilken tittel er dette?",
-      "sv": "Edvard I av England erövrade Wales och instiftade i februari 1301 en tradition där landets erövrade furstendöme gavs som titel åt den engelska tronarvingen – först åt hans egen son, senare åt en lång rad kronprinsar. Vilken titel är detta?"
+      "nb": "Edvard 1 av England erobret fyrstedømmet vest for England og innstiftet i februar 1301 en tradisjon der det erobrede området ble gitt som tittel til den engelske tronarvingen – først til hans egen sønn, senere til en lang rekke kronprinser. Hvilken tittel er dette?",
+      "sv": "Edvard I av England erövrade furstendömet väster om England och instiftade i februari 1301 en tradition där det erövrade området gavs som titel åt den engelska tronarvingen – först åt hans egen son, senare åt en lång rad kronprinsar. Vilken titel är detta?"
     },
     "answer": "Prince of Wales",
     "answerKind": "annet",
@@ -228,12 +279,18 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["kongehus", "historie"],
+    "topics": [
+      "kongehus",
+      "historie"
+    ],
     "prompt": {
       "nb": "Oscar 1 stiftet denne ordenen 21. august 1847, oppkalt etter «Norges evige konge» som falt ved Stiklestad. Den er i dag landets høyeste sivile utmerkelse, og rangerer bare under krigskorset blant norske dekorasjoner som fortsatt deles ut. Hvilken orden?",
       "sv": "Oscar I instiftade denna orden den 21 augusti 1847, uppkallad efter «Norges evige kung» som stupade vid Stiklestad. Den är i dag landets högsta civila utmärkelse och rankas bara under krigskorset bland norska dekorationer som fortfarande delas ut. Vilken orden?"
     },
-    "answer": { "nb": "St. Olavs orden", "sv": "Sankt Olavs orden" },
+    "answer": {
+      "nb": "St. Olavs orden",
+      "sv": "Sankt Olavs orden"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Ordenen er oppkalt etter samme konge som gir navn til domkirken i Trondheim.",
@@ -250,7 +307,10 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["politikk", "historie"],
+    "topics": [
+      "politikk",
+      "historie"
+    ],
     "prompt": {
       "nb": "Sommeren 1905 stemte nesten hele det norske folket for å oppløse unionen med Sverige. For å unngå krig satte de to landene seg samme høst ned til forhandlinger om vilkårene for skilsmissen. I hvilken svensk by ble forhandlingene holdt?",
       "sv": "Sommaren 1905 röstade nästan hela det norska folket för att upplösa unionen med Sverige. För att undvika krig satte de två länderna sig samma höst ned till förhandlingar om villkoren för skilsmässan. I vilken svensk stad hölls förhandlingarna?"
@@ -272,14 +332,20 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["politikk", "historie"],
+    "topics": [
+      "politikk",
+      "historie"
+    ],
     "prompt": {
       "nb": "En dansk prins ble 17. mai 1814 valgt til norsk konge av riksforsamlingen på Eidsvoll, samme dag som Grunnloven ble undertegnet. Bare tre måneder senere, etter en kortvarig krig med Sverige, måtte han gi fra seg makten og reise tilbake til Danmark. Hvem var han?",
       "sv": "En dansk prins valdes den 17 maj 1814 till norsk kung av riksförsamlingen i Eidsvoll, samma dag som grundlagen undertecknades. Bara tre månader senare, efter ett kortvarigt krig mot Sverige, tvingades han avstå makten och återvända till Danmark. Vem var han?"
     },
     "answer": "Christian Frederik",
     "answerKind": "person",
-    "person": { "given": "Christian", "family": "Frederik" },
+    "person": {
+      "given": "Christian",
+      "family": "Frederik"
+    },
     "hint": {
       "nb": "Han var fetter av den danske kongen, og ble selv senere konge av Danmark under et annet navn.",
       "sv": "Han var kusin till den danske kungen, och blev själv senare kung av Danmark under ett annat namn."
@@ -295,14 +361,23 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["historie", "kongehus"],
+    "topics": [
+      "historie",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "En britisk prinsesse, datter av kong Edvard 7, giftet seg i 1896 med en dansk prins som ni år senere ble Norges første konge i moderne tid. Som norsk dronning ble hun kjent for sin interesse for ski og mote. Hvem var hun?",
       "sv": "En brittisk prinsessa, dotter till kung Edvard VII, gifte sig 1896 med en dansk prins som nio år senare blev Norges förste kung i modern tid. Som norsk drottning blev hon känd för sitt intresse för skidåkning och mode. Vem var hon?"
     },
     "answer": "Maud",
     "answerKind": "person",
-    "person": { "given": "Maud", "family": { "nb": "av Wales", "sv": "av Wales" } },
+    "person": {
+      "given": "Maud",
+      "family": {
+        "nb": "av Wales",
+        "sv": "av Wales"
+      }
+    },
     "hint": {
       "nb": "Hun ble kronet sammen med sin ektemann i Nidarosdomen i 1906, og lærte seg å stå på ski etter at hun kom til Norge.",
       "sv": "Hon kröntes tillsammans med sin make i Nidarosdomen 1906, och lärde sig åka skidor efter att hon kommit till Norge."
@@ -318,7 +393,10 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["politikk", "kongehus"],
+    "topics": [
+      "politikk",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Han ble født 13. mai 1979 og var etter datidens lov kronprins fra fødselen av. Men bare drøyt sju måneder senere trådte en ny arvefølgelov i kraft med tilbakevirkende kraft, og den eldre søsteren hans ble i stedet kronprinsesse. Hvem var søsteren?",
       "sv": "Han föddes den 13 maj 1979 och var enligt dåtidens lag kronprins från födseln. Men bara drygt sju månader senare trädde en ny tronföljdslag i kraft med retroaktiv verkan, och hans äldre syster blev i stället kronprinsessa. Vem var systern?"
@@ -340,7 +418,10 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["kongehus", "design"],
+    "topics": [
+      "kongehus",
+      "design"
+    ],
     "prompt": {
       "nb": "Fredrik 1 stiftet i februar 1748 tre svenske ordener på én gang, blant dem denne – landets fornemste. Ordenstegnet er prydet med små barneansikter omgitt av vinger, og den tildeles i dag stort sett bare statsoverhoder og kongelige. Hvilken orden?",
       "sv": "Fredrik I instiftade i februari 1748 tre svenska ordnar på en gång, däribland denna – landets förnämsta. Ordenstecknet är prytt med små barnansikten omgivna av vingar, och den tilldelas i dag mestadels bara statschefer och kungligheter. Vilken orden?"
@@ -362,12 +443,18 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["religion", "historie"],
+    "topics": [
+      "religion",
+      "historie"
+    ],
     "prompt": {
       "nb": "12. mai 1873 ble han kronet i Storkyrkan i Stockholm, og drøyt to måneder senere i Nidarosdomen i Trondheim som norsk konge. Etterfølgeren hans droppet seremonien helt i 1907, så han endte som den siste svenske monarken som noensinne ble kronet. Hvilken konge?",
       "sv": "Den 12 maj 1873 kröntes han i Storkyrkan i Stockholm, och drygt två månader senare i Nidarosdomen i Trondheim som norsk kung. Hans efterträdare valde att helt hoppa över ceremonin 1907, så han blev den siste svenske monarken som någonsin krönts. Vilken kung?"
     },
-    "answer": { "nb": "Oscar 2", "sv": "Oscar II" },
+    "answer": {
+      "nb": "Oscar 2",
+      "sv": "Oscar II"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Han var konge av både Sverige og Norge fram til unionsoppløsningen i 1905, og var dermed den siste med begge kronene.",
@@ -384,7 +471,10 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["vitenskap", "kongehus"],
+    "topics": [
+      "vitenskap",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "En svensk konge stiftet denne ordenen 29. mai 1772, og i motsetning til andre svenske ordener kunne den også gis til borgerlige, uten krav om adelskap. Den deles i dag ut for fortjeneste innen landbruk, bergverksdrift og handel. Hvilken orden er dette?",
       "sv": "En svensk kung instiftade denna orden den 29 maj 1772, och till skillnad från andra svenska ordnar kunde den även ges till ofrälse, utan krav på adelskap. Den delas i dag ut för förtjänst inom lantbruk, gruvdrift och handel. Vilken orden är detta?"
@@ -406,14 +496,20 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["militaerhistorie", "historie"],
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
     "prompt": {
       "nb": "2. desember 1804 ble han kronet til keiser i Notre-Dame i Paris, med paven til stede. Men i stedet for å la paven sette kronen på hodet hans, tok han den selv og satte den på – et bevisst signal om at makten kom fra ham selv, ikke fra kirken. Hvem var han?",
       "sv": "Den 2 december 1804 kröntes han till kejsare i Notre-Dame i Paris, med påven närvarande. Men i stället för att låta påven sätta kronan på hans huvud tog han den själv och satte på sig den – en medveten signal om att makten kom från honom själv, inte från kyrkan. Vem var han?"
     },
     "answer": "Napoleon",
     "answerKind": "person",
-    "person": { "given": "Napoleon", "family": "Bonaparte" },
+    "person": {
+      "given": "Napoleon",
+      "family": "Bonaparte"
+    },
     "hint": {
       "nb": "Han hadde utropt seg til fransk keiser samme år, etter å ha vært førstekonsul siden 1799.",
       "sv": "Han hade utropat sig till fransk kejsare samma år, efter att ha varit förste konsul sedan 1799."
@@ -429,12 +525,17 @@
     "category": "kongelige",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["spill"],
+    "topics": [
+      "spill"
+    ],
     "prompt": {
       "nb": "I sjakk finnes ett eneste trekk der kongen flytter mer enn ett felt om gangen, og der to brikker beveger seg samtidig – kongen og ett av tårnene. Trekket krever at ingen av dem har flyttet tidligere i partiet, og at feltene mellom er tomme. Hva heter trekket?",
       "sv": "I schack finns ett enda drag där kungen flyttar mer än en ruta åt gången, och där två pjäser rör sig samtidigt – kungen och ett av tornen. Draget kräver att ingen av dem har flyttat tidigare i partiet, och att rutorna mellan är tomma. Vad heter draget?"
     },
-    "answer": { "nb": "Rokade", "sv": "Rockad" },
+    "answer": {
+      "nb": "Rokade",
+      "sv": "Rockad"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Trekket brukes gjerne tidlig i partiet for å få kongen i sikkerhet bak en rekke bønder.",
@@ -451,14 +552,20 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["militaerhistorie", "historie"],
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
     "prompt": {
       "nb": "Han hevdet å være sønn av en tidligere norsk konge, men opphavet hans er fortsatt en gåte for historikerne. Som leder for birkebeinerne beseiret han Magnus Erlingsson i et sjøslag i Sognefjorden 15. juni 1184, der Magnus falt. Hvem var birkebeinerlederen som dermed ble enekonge?",
       "sv": "Han hävdade att han var son till en tidigare norsk kung, men hans ursprung är fortfarande en gåta för historikerna. Som ledare för birkebeinarna besegrade han Magnus Erlingsson i ett sjöslag i Sognefjorden den 15 juni 1184, där Magnus stupade. Vem var birkebeinarledaren som därmed blev ensam kung?"
     },
     "answer": "Sverre Sigurdsson",
     "answerKind": "person",
-    "person": { "given": "Sverre", "family": "Sigurdsson" },
+    "person": {
+      "given": "Sverre",
+      "family": "Sigurdsson"
+    },
     "hint": {
       "nb": "Slaget kalles slaget ved Fimreite, og vinnerens saga er en av middelalderens mest kjente norske kongesagaer.",
       "sv": "Slaget kallas slaget vid Fimreite, och segrarens saga är en av medeltidens mest kända norska kungasagor."
@@ -474,10 +581,13 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["arkitektur", "historie"],
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
     "prompt": {
-      "nb": "Håkon Håkonsson lot reise denne store steinhallen ved Bergenhus i Bergen mellom 1247 og 1261. Den første store begivenheten der var bryllupet og kroningen av sønnen Magnus Lagabøte i 1261. Hva heter bygningen?",
-      "sv": "Håkon Håkonsson lät uppföra denna stora stenhall vid Bergenhus i Bergen mellan 1247 och 1261. Den första stora händelsen där var bröllopet och kröningen av sonen Magnus Lagabøte 1261. Vad heter byggnaden?"
+      "nb": "En norsk konge lot reise denne store steinhallen ved Bergenhus i Bergen mellom 1247 og 1261. Den første store begivenheten der var bryllupet og kroningen av sønnen Magnus Lagabøte i 1261. Hva heter bygningen?",
+      "sv": "En norsk kung lät uppföra denna stora stenhall vid Bergenhus i Bergen mellan 1247 och 1261. Den första stora händelsen där var bröllopet och kröningen av sonen Magnus Lagabøte 1261. Vad heter byggnaden?"
     },
     "answer": "Håkonshallen",
     "answerKind": "annet",
@@ -496,12 +606,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["militaerhistorie", "arkitektur"],
+    "topics": [
+      "militaerhistorie",
+      "arkitektur"
+    ],
     "prompt": {
       "nb": "Håkon 5 Magnusson lot bygge denne borgen ved Oslo rundt 1299, opprinnelig som forsvarsverk og kongebolig. Den har senere vært både fengsel og regjeringskontor, og rommer i dag et mausoleum for flere norske monarker. Hva heter festningen?",
       "sv": "Håkon V Magnusson lät bygga denna borg vid Oslo omkring 1299, ursprungligen som försvarsverk och kungabostad. Den har senare varit både fängelse och regeringskontor, och rymmer i dag ett mausoleum för flera norska monarker. Vad heter fästningen?"
     },
-    "answer": { "nb": "Akershus festning", "sv": "Akershus fästning" },
+    "answer": {
+      "nb": "Akershus festning",
+      "sv": "Akershus fästning"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Kongen som lot bygge den, hadde Oslo som sitt viktigste maktsentrum og er selv gravlagt i festningens mausoleum.",
@@ -518,12 +634,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["historie", "politikk"],
+    "topics": [
+      "historie",
+      "politikk"
+    ],
     "prompt": {
       "nb": "Som svensk konge fra 1818 het han Karl 14 Johan, men i den norske kongerekken bærer han et helt annet tall, siden Norge kun telte sine egne middelalderkonger med samme navn. Hvilket navn og tall brukes om ham i Norge?",
       "sv": "Som svensk kung från 1818 hette han Karl XIV Johan, men i den norska kungalängden bär han ett helt annat tal, eftersom Norge bara räknade sina egna medeltida kungar med samma namn. Vilket namn och tal används om honom i Norge?"
     },
-    "answer": { "nb": "Karl 3 Johan", "sv": "Karl III Johan" },
+    "answer": {
+      "nb": "Karl 3 Johan",
+      "sv": "Karl III Johan"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Norge hadde bare hatt to tidligere konger med dette navnet i middelalderen, mens Sverige regnet med tretten.",
@@ -540,7 +662,10 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["musikk", "historie"],
+    "topics": [
+      "musikk",
+      "historie"
+    ],
     "prompt": {
       "nb": "Han ble skutt under en maskerade på Operan i Stockholm i 1792 og døde av skadene tretten dager senere. Attentatet inspirerte en opera av Verdi, som måtte flytte handlingen til datidens Boston etter strenge sensurkrav. Hvilken opera er dette?",
       "sv": "Han sköts under en maskerad på Operan i Stockholm 1792 och dog av skadorna tretton dagar senare. Attentatet inspirerade en opera av Verdi, som fick flytta handlingen till dåtidens Boston efter stränga censurkrav. Vilken opera är detta?"
@@ -562,7 +687,10 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["arkitektur", "historie"],
+    "topics": [
+      "arkitektur",
+      "historie"
+    ],
     "prompt": {
       "nb": "Dette middelalderslottet i Stockholm, med røtter tilbake til Birger Jarls borg på 1200-tallet, brant ned natt til 7. mai 1697 og tok med seg store deler av riksarkivet og det kongelige biblioteket. Hva het slottet som gikk tapt?",
       "sv": "Detta medeltida slott i Stockholm, med rötter tillbaka till Birger Jarls borg på 1200-talet, brann ner natten till den 7 maj 1697 och tog med sig stora delar av riksarkivet och det kungliga biblioteket. Vad hette slottet som gick förlorat?"
@@ -584,14 +712,20 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["militaerhistorie", "historie"],
+    "topics": [
+      "militaerhistorie",
+      "historie"
+    ],
     "prompt": {
       "nb": "Denne gruveeieren fra Norberg i Västmanland ledet i 1434 et opprør mot dansk fogdevelde og tunge skatter under Kalmarunionens konge Erik av Pommern. To år senere ble han selv drept på en holme i Hjälmaren, i en privat konflikt. Hvem var han?",
       "sv": "Denna gruvägare från Norberg i Västmanland ledde 1434 ett uppror mot danskt fogdevälde och tunga skatter under Kalmarunionens kung Erik av Pommern. Två år senare mördades han själv på en holme i Hjälmaren, i en privat konflikt. Vem var han?"
     },
     "answer": "Engelbrekt Engelbrektsson",
     "answerKind": "person",
-    "person": { "given": "Engelbrekt", "family": "Engelbrektsson" },
+    "person": {
+      "given": "Engelbrekt",
+      "family": "Engelbrektsson"
+    },
     "hint": {
       "nb": "Han regnes som en tidlig svensk folkehelt, og opprøret hans bærer i dag hans navn.",
       "sv": "Han räknas som en tidig svensk folkhjälte, och upproret han ledde bär i dag hans namn."
@@ -607,7 +741,10 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["kongehus", "arkitektur"],
+    "topics": [
+      "kongehus",
+      "arkitektur"
+    ],
     "prompt": {
       "nb": "Under Stockholms slott ligger et museum der de svenske riksregaliene – kroner, septer og riksepler – vises fram for publikum. Ingen av gjenstandene har vært brukt av en regjerende monark siden 1907. Hva heter museet?",
       "sv": "Under Stockholms slott ligger ett museum där de svenska riksregalierna – kronor, spiror och riksäpplen – visas för allmänheten. Ingen av föremålen har använts av en regerande monark sedan 1907. Vad heter museet?"
@@ -629,12 +766,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["historie", "religion"],
+    "topics": [
+      "historie",
+      "religion"
+    ],
     "prompt": {
       "nb": "16. januar 1547 ble han kronet i Kremls Uspenskij-katedral i Moskva, som den første til å bære tittelen «tsar av hele Russland». Fram til da hadde Moskvas herskere kalt seg storfyrster. Hvilken russisk hersker er dette?",
       "sv": "Den 16 januari 1547 kröntes han i Uspenskijkatedralen i Kreml i Moskva, som den förste att bära titeln «tsar av hela Ryssland». Fram till dess hade Moskvas härskare kallat sig storfurstar. Vilken rysk härskare är detta?"
     },
-    "answer": { "nb": "Ivan 4", "sv": "Ivan IV" },
+    "answer": {
+      "nb": "Ivan 4",
+      "sv": "Ivan IV"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Han er bedre kjent under et tilnavn som betyr «den fryktinngytende» eller «den grusomme».",
@@ -651,12 +794,18 @@
     "category": "kongelige",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["historie", "militaerhistorie"],
+    "topics": [
+      "historie",
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "9. november 1918 ble republikken utropt i Berlin mens han fortsatt oppholdt seg ved hovedkvarteret nær fronten. Han rømte til Nederland og signerte sin formelle abdikasjon 28. november samme år, etter mer enn 500 år med Hohenzollern-styre i Preussen. Hvilken keiser?",
       "sv": "Den 9 november 1918 utropades republiken i Berlin medan han fortfarande befann sig vid högkvarteret nära fronten. Han flydde till Nederländerna och undertecknade sin formella abdikation den 28 november samma år, efter mer än 500 år med Hohenzollernstyre i Preussen. Vilken kejsare?"
     },
-    "answer": { "nb": "Wilhelm 2", "sv": "Wilhelm II" },
+    "answer": {
+      "nb": "Wilhelm 2",
+      "sv": "Wilhelm II"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Han tilbrakte resten av livet i eksil på en gård i Nederland og døde der i 1941.",

@@ -4,7 +4,9 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["fotball"],
+    "topics": [
+      "fotball"
+    ],
     "prompt": {
       "nb": "Klubben fra Oslo øst het opprinnelig «Spring» da den ble stiftet i 1913. Året etter kjøpte de billig et restparti med blå og røde drakter fra jernbaneselskapet NSB, og fargene ble hengende ved. Hvilken klubb er dette?",
       "sv": "Klubben från östra Oslo hette ursprungligen «Spring» när den grundades 1913. Året därpå köpte man billigt ett restparti blå och röda tröjor från järnvägsbolaget NSB, och färgerna blev kvar. Vilken klubb är detta?"
@@ -26,7 +28,10 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["mat-og-drikke", "natur"],
+    "topics": [
+      "mat-og-drikke",
+      "natur"
+    ],
     "prompt": {
       "nb": "Dette skjellet finnes langs hele norskekysten og filtrerer store mengder sjøvann gjennom gjellene sine. Det anbefales spist fra september til april, når faren for algegift er lavere enn om sommeren. Hvilket skjell er dette?",
       "sv": "Detta skaldjur finns längs hela Norges kust och filtrerar stora mängder havsvatten genom sina gälar. Det rekommenderas ätas mellan september och april, när risken för algtoxiner är lägre än på sommaren. Vilket skaldjur är detta?"
@@ -51,7 +56,9 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["politikk"],
+    "topics": [
+      "politikk"
+    ],
     "prompt": {
       "nb": "Etter valget i 2013 dannet Høyre og Fremskrittspartiet regjering sammen, en koalisjon som i dagligtale fikk et fargerikt kallenavn etter partienes to blånyanser. Hvem ble statsminister?",
       "sv": "Efter valet 2013 bildade Høyre och Fremskrittspartiet regering tillsammans, en koalition som i dagligt tal fick ett färgstarkt smeknamn efter partiernas två blånyanser. Vem blev statsminister?"
@@ -77,7 +84,9 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "I norsk og svensk brukes et sammensatt ord om de blinkende varsellysene på politi-, brannvesen- og ambulansebiler – et ord som også brukes som fellesbetegnelse for selve utrykningen. Hvilket ord er dette?",
       "sv": "På svenska och norska används ett sammansatt ord om de blinkande varningsljusen på polis-, brandkårs- och ambulansbilar – ett ord som även används som samlingsbegrepp för själva utryckningen. Vilket ord är detta?"
@@ -102,7 +111,10 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["design", "okonomi"],
+    "topics": [
+      "design",
+      "okonomi"
+    ],
     "prompt": {
       "nb": "Selskapet ble startet i 1943 av en syttenåring i Småland, og butikkene kjennetegnes i dag av blå fasader med gule detaljer – fargene i grunnleggerens hjemlands flagg. Navnet er satt sammen av initialene hans og navnet på gården og bygda han vokste opp i. Hvilket selskap er dette?",
       "sv": "Företaget grundades 1943 av en sjuttonåring i Småland, och butikerna kännetecknas i dag av blå fasader med gula detaljer – färgerna i grundarens hemlands flagga. Namnet är sammansatt av hans initialer och namnet på gården och byn han växte upp i. Vilket företag är detta?"
@@ -124,7 +136,9 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["fotball"],
+    "topics": [
+      "fotball"
+    ],
     "prompt": {
       "nb": "Det skandinaviske landslaget i fotball spiller hjemme i gule drakter med blå shorts, og bortekamper i blått med gule detaljer – farger hentet rett fra flagget. Hva er lagets kallenavn?",
       "sv": "Det skandinaviska fotbollslandslaget spelar hemma i gula tröjor med blå shorts, och bortamatcher i blått med gula detaljer – färger hämtade direkt från flaggan. Vad är lagets smeknamn?"
@@ -146,7 +160,9 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["natur"],
+    "topics": [
+      "natur"
+    ],
     "prompt": {
       "nb": "Denne intenst blå åkerblomsten er landskapsblomst for Östergötland og har siden tidlig 1900-tall også vært partisymbol for et svensk liberalt parti. Hvilken blomst er dette?",
       "sv": "Denna intensivt blå åkerblomma är landskapsblomma för Östergötland och har sedan tidigt 1900-tal även varit partisymbol för ett svenskt liberalt parti. Vilken blomma är detta?"
@@ -171,7 +187,10 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["mat-og-drikke", "natur"],
+    "topics": [
+      "mat-og-drikke",
+      "natur"
+    ],
     "prompt": {
       "nb": "Dette mørkeblå skogsbæret dekker rundt 17 prosent av Sveriges landareal og kan plukkes fritt av hvem som helst takket være allemannsretten. Det brukes i alt fra paier til kald suppe. Hvilket bær er dette?",
       "sv": "Detta mörkblå skogsbär täcker omkring 17 procent av Sveriges landyta och kan plockas fritt av vem som helst tack vare allemansrätten. Det används i allt från pajer till kall soppa. Vilket bär är detta?"
@@ -196,7 +215,10 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["tv", "popkultur"],
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Dette lodne, blå monsteret i det amerikanske barneprogrammet Sesame Street har en umettelig trang til kjeks, sluker dem gjerne hele og strør smuler overalt. Figuren ble skapt av dukkeføreren Jim Henson. Hvilken figur er dette?",
       "sv": "Detta ludna, blå monstret i det amerikanska barnprogrammet Sesame Street har en omättlig lust efter kakor, sväljer dem gärna hela och strör smulor överallt. Figuren skapades av dockspelaren Jim Henson. Vilken figur är detta?"
@@ -218,7 +240,10 @@
     "category": "blaa",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["spill", "popkultur"],
+    "topics": [
+      "spill",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Da et japansk spillselskap skulle lage sin egen maskotfigur på begynnelsen av 1990-tallet, fikk pinnsvinet sin blå farge for å matche selskapets logo. Han debuterte i et spill i 1991. Hvilken figur er dette?",
       "sv": "När ett japanskt spelbolag skulle skapa sin egen maskot i början av 1990-talet fick igelkotten sin blå färg för att matcha bolagets logotyp. Han debuterade i ett spel 1991. Vilken figur är detta?"
@@ -240,7 +265,9 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["fotball"],
+    "topics": [
+      "fotball"
+    ],
     "prompt": {
       "nb": "Klubben fra Nordvestlandet spiller i blått og hvitt, og vant sitt aller første seriemesterskap i 2011 – samme år som en tidligere spiller i klubben, nå tilbake som trener, ledet dem til gull under klubbens hundreårsjubileum. Hvilken klubb er dette?",
       "sv": "Klubben från nordvästra Norge spelar i blått och vitt, och vann sitt allra första ligamästerskap 2011 – samma år som en tidigare spelare i klubben, nu tillbaka som tränare, ledde dem till guld under klubbens hundraårsjubileum. Vilken klubb är detta?"
@@ -262,7 +289,9 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["geografi"],
+    "topics": [
+      "geografi"
+    ],
     "prompt": {
       "nb": "Det høyeste fjellet på øya Kvaløya utenfor Tromsø når 1044 meter over havet, er et populært turmål og har bratte klatrevegger på en av sidene. Navnet spiller på fargen fjellsiden ofte får i dagslys. Hvilket fjell er dette?",
       "sv": "Det högsta berget på ön Kvaløya utanför Tromsø når 1044 meter över havet, är ett populärt vandringsmål och har branta klätterväggar på en av sidorna. Namnet anspelar på färgen bergssidan ofta får i dagsljus. Vilket berg är detta?"
@@ -284,7 +313,9 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "Når et slag mot huden får blodårer til å briste under overflaten uten å lage sår, skifter huden farge over noen dager – først blåaktig, siden grønn og gul. Hvilket ord bruker vi om selve skaden?",
       "sv": "När ett slag mot huden får blodkärl att brista under ytan utan att ge ett sår, byter huden färg under några dagar – först blåaktig, sedan grön och gul. Vilket ord används om själva skadan?"
@@ -309,7 +340,10 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["natur", "vitenskap"],
+    "topics": [
+      "natur",
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Nord i Norge kan denne lysdansen på himmelen sjelden bli blåfiolett i stedet for det vanlige grønne, når molekylært nitrogen høyt oppe i atmosfæren avgir lys rundt 428 nanometers bølgelengde. Hva heter naturfenomenet?",
       "sv": "I norra Norge kan denna ljusdans på himlen sällsynt bli blåviolett i stället för det vanliga gröna, när molekylärt kväve högt uppe i atmosfären avger ljus kring 428 nanometers våglängd. Vad heter naturfenomenet?"
@@ -334,7 +368,9 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
       "nb": "En av Stockholms tunnelbanelinjer åpnet i 1975 og går stort sett gjennom udekorert, sprengt fjellgrunn – en rå estetikk som er blitt en del av det systemet som kalles «verdens lengste kunstgalleri». Hvilken linje er dette?",
       "sv": "En av Stockholms tunnelbanelinjer öppnade 1975 och går till stor del genom oskyddad, sprängd berggrund – en rå estetik som blivit en del av det system som kallas «världens längsta konstgalleri». Vilken linje är detta?"
@@ -359,7 +395,9 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Denne idrettsklubben fra Stockholm ble stiftet i 1891 og har lag i både fotball og ishockey, med gult, rødt og blått som klubbfarger – oftest vist som stripete drakter i lys og mørk blå. Hvilken klubb er dette?",
       "sv": "Denna idrottsförening från Stockholm grundades 1891 och har lag i både fotboll och ishockey, med gult, rött och blått som klubbfärger – oftast visat som randiga tröjor i ljust och mörkt blått. Vilken klubb är detta?"
@@ -381,7 +419,9 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["kongehus"],
+    "topics": [
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Sveriges nasjonaldag feires 6. juni til ære for det blågule flagget og til minne om at denne mannen ble valgt til konge i 1523, en begivenhet som regnes som grunnlaget for det moderne Sverige. Dagen ble første gang markert som «Svenska flaggans dag» i 1916. Hvem var kongen?",
       "sv": "Sveriges nationaldag firas 6 juni till ära för den blågula flaggan och till minne av att denne man valdes till kung 1523, en händelse som räknas som grunden för det moderna Sverige. Dagen högtidlighölls första gången som «Svenska flaggans dag» 1916. Vem var kungen?"
@@ -407,7 +447,9 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
       "nb": "Dette skandinaviske flyselskapet ble dannet i 1946 av tre nasjonale flyselskaper og har hovedkontor i Solna utenfor Stockholm. Halefinnen på flyene er malt i en dyp blåfarge med selskapets logo i hvitt. Hvilket flyselskap er dette?",
       "sv": "Detta skandinaviska flygbolag bildades 1946 av tre nationella flygbolag och har huvudkontor i Solna utanför Stockholm. Stjärtfenan på planen är målad i en djup blå färg med bolagets logotyp i vitt. Vilket flygbolag är detta?"
@@ -429,7 +471,9 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["musikk"],
+    "topics": [
+      "musikk"
+    ],
     "prompt": {
       "nb": "Dette jazzalbumet ble spilt inn på bare to studiosesjoner i 1959, nesten uten øvelse, med musikere som John Coltrane og Bill Evans. Det regnes som et av de mest innflytelsesrike og solgte jazzalbumene noensinne. Hvilket album er dette?",
       "sv": "Detta jazzalbum spelades in på bara två studiosessioner 1959, nästan utan repetition, med musiker som John Coltrane och Bill Evans. Det räknas som ett av de mest inflytelserika och sålda jazzalbumen någonsin. Vilket album är detta?"
@@ -451,7 +495,10 @@
     "category": "blaa",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["tv", "popkultur"],
+    "topics": [
+      "tv",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "I en berømt britisk komikersketsj fra 1969 klager en kunde til en dyrehandler over at papegøyen han nettopp har kjøpt, ikke bare hviler, men faktisk er død. Den oppdiktede papegøyerasen er oppkalt etter et skandinavisk land og en farge. Hvilken rase er dette?",
       "sv": "I en berömd brittisk komikersketch från 1969 klagar en kund till en djurhandlare på att papegojan han just köpt inte bara vilar, utan faktiskt är död. Den påhittade papegojrasen är uppkallad efter ett skandinaviskt land och en färg. Vilken ras är detta?"
@@ -473,7 +520,10 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["natur", "geografi"],
+    "topics": [
+      "natur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Med et areal på nesten 2000 kvadratkilometer er dette Norges fjerde største nasjonalpark, opprettet i 2004 i Trøndelag og fordelt over fem kommuner. Navnet viser til fargen fjellene ofte får i disen. Hvilken nasjonalpark er dette?",
       "sv": "Med en yta på nästan 2000 kvadratkilometer är detta Norges fjärde största nationalpark, inrättad 2004 i Trøndelag och fördelad över fem kommuner. Namnet syftar på färgen bergen ofta får i diset. Vilken nationalpark är detta?"
@@ -495,7 +545,9 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["okonomi"],
+    "topics": [
+      "okonomi"
+    ],
     "prompt": {
       "nb": "Norges største finanskonsern oppsto i 2003 da to store banker slo seg sammen, med et navn som i flere år inneholdt både en forkortelse og et forsikringsselskaps navn, før det hele ble kortet ned til tre bokstaver i 2011. Hvilket konsern er dette?",
       "sv": "Norges största finanskoncern uppstod 2003 när två stora banker gick samman, med ett namn som i flera år innehöll både en förkortning och ett försäkringsbolags namn, innan allt kortades ner till tre bokstäver 2011. Vilken koncern är detta?"
@@ -517,7 +569,10 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["geografi", "historie"],
+    "topics": [
+      "geografi",
+      "historie"
+    ],
     "prompt": {
       "nb": "Da denne av Norges eldste byer fikk nytt kommunevåpen i 2020, ble det delt i to felt: et skipsstavn fra et berømt vikingskipfunn i blått på hvit bunn, og et kirkespir i hvitt på blå bunn. Hvilken by er dette?",
       "sv": "När denna av Norges äldsta städer fick ett nytt kommunvapen 2020 delades det i två fält: en skeppsstäv från ett berömt vikingaskeppsfynd i blått på vit botten, och ett kyrktorn i vitt på blå botten. Vilken stad är detta?"
@@ -539,7 +594,10 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["historie", "sprak"],
+    "topics": [
+      "historie",
+      "sprak"
+    ],
     "prompt": {
       "nb": "Ordet betegnet opprinnelig mandagen i fastelavn, oppkalt etter en liturgisk farge i den katolske kirken. I dag brukes det derimot om dagen etter kraftig fest, preget av bakrus og anger. Hvilket ord er dette?",
       "sv": "Ordet betecknade ursprungligen måndagen i fastlagen, uppkallat efter en liturgisk färg i den katolska kyrkan. I dag används det däremot om dagen efter kraftigt festande, präglad av baksmälla och ånger. Vilket ord är detta?"
@@ -564,7 +622,10 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["historie", "sport"],
+    "topics": [
+      "historie",
+      "sport"
+    ],
     "prompt": {
       "nb": "Sveriges herrelandslag i ishockey er oppkalt etter landets eldste riksvåpen, et symbol som også ga navn til en kongelig borg på stedet der Stockholms slott nå ligger – helt til en brann la den i grus i 1697. Hva er kallenavnet?",
       "sv": "Sveriges herrlandslag i ishockey är uppkallat efter landets äldsta riksvapen, ett symbol som även gav namn åt en kunglig borg på platsen där Stockholms slott nu ligger – ända tills en brand lade den i aska 1697. Vad är smeknamnet?"
@@ -586,7 +647,9 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["fotball"],
+    "topics": [
+      "fotball"
+    ],
     "prompt": {
       "nb": "Denne klubben fra vestkysten er det eneste laget fra hele Norden som har vunnet en av UEFAs store klubbturneringer – faktisk to ganger, i 1982 og 1987. Draktfargene er blått og hvitt. Hvilken klubb er dette?",
       "sv": "Denna klubb från västkusten är det enda laget i hela Norden som vunnit en av UEFAs stora klubbturneringar – faktiskt två gånger, 1982 och 1987. Tröjfärgerna är blått och vitt. Vilken klubb är detta?"
@@ -608,7 +671,10 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["litteratur", "historie"],
+    "topics": [
+      "litteratur",
+      "historie"
+    ],
     "prompt": {
       "nb": "Forfatteren tilbrakte sine siste leveår, fra 1908 til 1912, i en bygård fra 1906–07 med et dominerende hjørnetårn i Stockholm. Han ga selv bygningen et fargerikt kallenavn, og i dag er leiligheten hans museum. Hva kalte han bygningen?",
       "sv": "Författaren tillbringade sina sista levnadsår, från 1908 till 1912, i en hyresfastighet från 1906–07 med ett dominerande hörntorn i Stockholm. Han gav själv byggnaden ett färgstarkt smeknamn, och i dag är hans lägenhet museum. Vad kallade han byggnaden?"
@@ -630,7 +696,10 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["historie", "geografi"],
+    "topics": [
+      "historie",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Dette sørsvenske landskapets våpen viser et gullfarget, opprykket eiketre kronet med tre kroner, alt på blå bunn. Det ble tildelt i 1660, rett etter kong Karl X Gustavs begravelse, og markerte landskapets overgang fra dansk til svensk territorium. Hvilket landskap er dette?",
       "sv": "Detta sydsvenska landskaps vapen visar ett guldfärgat, upryckt ekträd krönt med tre kronor, allt på blå botten. Det tilldelades 1660, strax efter kung Karl X Gustavs begravning, och markerade landskapets övergång från danskt till svenskt territorium. Vilket landskap är detta?"
@@ -652,10 +721,13 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["kunst", "vitenskap"],
+    "topics": [
+      "kunst",
+      "vitenskap"
+    ],
     "prompt": {
-      "nb": "En fargehandler i Berlin prøvde i 1706 å lage et rødt fargestoff av cochenille, men en forurenset ingrediens med dyreblod i blandingen ga i stedet en sterk blåfarge – det første moderne syntetiske pigmentet. Hvilket pigment er dette?",
-      "sv": "En färghandlare i Berlin försökte 1706 göra ett rött färgämne av cochenille, men en förorenad ingrediens med djurblod i blandningen gav i stället en stark blå färg – det första moderna syntetiska pigmentet. Vilket pigment är detta?"
+      "nb": "En tysk fargehandler prøvde i 1706 å lage et rødt fargestoff av cochenille, men en forurenset ingrediens med dyreblod i blandingen ga i stedet en sterk blåfarge – det første moderne syntetiske pigmentet. Hvilket pigment er dette?",
+      "sv": "En tysk färghandlare försökte 1706 göra ett rött färgämne av cochenille, men en förorenad ingrediens med djurblod i blandningen gav i stället en stark blå färg – det första moderna syntetiska pigmentet. Vilket pigment är detta?"
     },
     "answer": {
       "nb": "Berlinerblått",
@@ -677,7 +749,10 @@
     "category": "blaa",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["tv", "design"],
+    "topics": [
+      "tv",
+      "design"
+    ],
     "prompt": {
       "nb": "Et britisk TV-program for barn, verdens lengst sammenhengende barneprogram, har sendt siden 1958 og er oppkalt etter et nautisk signalflagg som varsler at et skip snart skal legge fra kai – ment å symbolisere eventyr og reise. Hvilket program er dette?",
       "sv": "Ett brittiskt tv-program för barn, världens längst sammanhängande barnprogram, har sänts sedan 1958 och är uppkallat efter en nautisk signalflagga som varslar att ett skepp snart ska lägga ut från kaj – tänkt att symbolisera äventyr och resa. Vilket program är detta?"

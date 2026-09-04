@@ -478,8 +478,8 @@
       "musikk"
     ],
     "prompt": {
-      "nb": "På taket av det østre tårnet på en av Oslos mest omdiskuterte bygninger henger et instrument med 49 klokker, som kan spilles både for hånd og automatisk, og som markerer timeslagene ut over havna. Hvilken bygning er det?",
-      "sv": "På taket av det östra tornet på en av Oslos mest omdiskuterade byggnader hänger ett instrument med 49 klockor, som kan spelas både för hand och automatiskt, och som markerar timslagen ut över hamnen. Vilken byggnad är det?"
+      "nb": "På taket av det østre tårnet på en av hovedstadens mest omdiskuterte bygninger henger et instrument med 49 klokker, som kan spilles både for hånd og automatisk, og som markerer timeslagene ut over havna. Hvilken bygning er det?",
+      "sv": "På taket av det östra tornet på en av huvudstadens mest omdiskuterade byggnader hänger ett instrument med 49 klockor, som kan spelas både för hand och automatiskt, och som markerar timslagen ut över hamnen. Vilken byggnad är det?"
     },
     "answer": {
       "nb": "Oslo rådhus",

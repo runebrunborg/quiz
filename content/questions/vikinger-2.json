@@ -4,7 +4,9 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["kongehus"],
+    "topics": [
+      "kongehus"
+    ],
     "prompt": {
       "nb": "På østsiden av Karmøy holdt Harald Hårfagre kongsgård, og rundt år 1250 lot kong Håkon Håkonsson reise en steinkirke her som ble en av landets største middelalderkirker utenfor byene. Stedet kalles gjerne Norges eldste kongesete. Hva heter stedet?",
       "sv": "På östsidan av Karmøy höll Harald Hårfagre kungsgård, och omkring år 1250 lät kung Håkon Håkonsson resa en stenkyrka här som blev en av landets största medeltidskyrkor utanför städerna. Platsen kallas gärna Norges äldsta kungasäte. Vad heter platsen?"
@@ -26,7 +28,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["historie", "geografi"],
+    "topics": [
+      "historie",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Ifølge sagaenes tidsregning grunnla en norsk konge, kjent for å ha kristnet landet med hard hånd, en by ved utløpet av Nidelva i år 997. Byen skiftet siden navn fram og tilbake mellom to former før den fikk sitt nåværende. Hvilken by?",
       "sv": "Enligt sagornas tideräkning grundade en norsk kung, känd för att ha kristnat landet med hård hand, en stad vid Nidälvens utlopp år 997. Staden bytte sedan namn fram och tillbaka mellan två former innan den fick sitt nuvarande. Vilken stad?"
@@ -48,7 +53,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["arkitektur", "religion"],
+    "topics": [
+      "arkitektur",
+      "religion"
+    ],
     "prompt": {
       "nb": "Reisingen tok rundt 150 år, fra middelalderens romanske stil til høygotikk med strebebuer - den eneste norske kirken bygget fullt ut i denne franske teknikken. Kirken ble reist over graven til en konge som falt i 1030 og raskt ble æret som helgen. Hvilken kirke er det?",
       "sv": "Byggandet tog omkring 150 år, från medeltidens romanska stil till högotik med strävbågar - den enda norska kyrkan byggd helt i denna franska teknik. Kyrkan restes över graven till en kung som föll 1030 och snabbt blev vördad som helgon. Vilken kyrka är det?"
@@ -70,7 +78,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["transport", "vikingtid"],
+    "topics": [
+      "transport",
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "Oljemannen Sigurd Aase finansierte bygging av verdens største moderne vikingskip i Haugesund, sjøsatt i 2012 med plass til femti årer. I 2016 seilte skipet fra Norge til Newfoundland via Island og Grønland for å gjenskape en historisk overfart. Hva heter skipet?",
       "sv": "Oljemannen Sigurd Aase finansierade byggandet av världens största moderna vikingaskepp i Haugesund, sjösatt 2012 med plats för femtio åror. År 2016 seglade skeppet från Norge till Newfoundland via Island och Grönland för att återskapa en historisk överfart. Vad heter skeppet?"
@@ -92,7 +103,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["litteratur", "popkultur"],
+    "topics": [
+      "litteratur",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Den svenske forfatteren Runer Jonsson ga i 1963 ut den første boken om en liten, spinkel vikinggutt som løser problemer med hodet i stedet for musklene. En tysk-japansk tegnefilm gjorde figuren enormt populær over hele Europa på 1970-tallet. Hva heter gutten?",
       "sv": "Den svenske författaren Runer Jonsson gav 1963 ut den första boken om en liten, spenslig vikingapojke som löser problem med huvudet i stället för musklerna. En tysk-japansk tecknad serie gjorde figuren enormt populär i hela Europa på 1970-talet. Vad heter pojken?"
@@ -114,10 +128,12 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["vikingtid"],
+    "topics": [
+      "vikingtid"
+    ],
     "prompt": {
-      "nb": "Tre enorme gravhauger fra 500- og 600-tallet troner over et gammelt maktsenter nord for dagens Uppsala, sagt å være gravsted for konger av Ynglingeætten. Her ble også alle svears ting holdt, helt til stedet ble Sveriges første erkebispesete i 1164. Hva heter stedet?",
-      "sv": "Tre enorma gravhögar från 500- och 600-talet tronar över ett gammalt maktcentrum norr om dagens Uppsala, sagda vara gravplats för kungar av Ynglingaätten. Här hölls också alla sveers ting, ända tills platsen blev Sveriges första ärkebiskopssäte 1164. Vad heter platsen?"
+      "nb": "Tre enorme gravhauger fra 500- og 600-tallet troner over et gammelt maktsenter like nord for en av Sveriges eldste byer, sagt å være gravsted for konger av Ynglingeætten. Her ble også alle svears ting holdt, helt til stedet ble Sveriges første erkebispesete i 1164. Hva heter stedet?",
+      "sv": "Tre enorma gravhögar från 500- och 600-talet tronar över ett gammalt maktcentrum strax norr om en av Sveriges äldsta städer, sagda vara gravplats för kungar av Ynglingaätten. Här hölls också alla sveers ting, ända tills platsen blev Sveriges första ärkebiskopssäte 1164. Vad heter platsen?"
     },
     "answer": "Gamla Uppsala",
     "answerKind": "annet",
@@ -136,7 +152,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["historie", "geografi"],
+    "topics": [
+      "historie",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Rundt år 980 ble en havneby anlagt ved Mälaren, og noen tiår senere ble Sveriges aller første mynter preget nettopp her. I to hundre og femti år var byen et viktig kongelig og kommersielt sentrum, før landhevingen gjorde farvannet grunt. Hvilken by regnes som Sveriges eldste?",
       "sv": "Omkring år 980 anlades en hamnstad vid Mälaren, och några decennier senare präglades Sveriges allra första mynt just här. I tvåhundrafemtio år var staden ett viktigt kungligt och kommersiellt centrum, innan landhöjningen gjorde farvattnet grunt. Vilken stad räknas som Sveriges äldsta?"
@@ -158,7 +177,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["religion", "okonomi"],
+    "topics": [
+      "religion",
+      "okonomi"
+    ],
     "prompt": {
       "nb": "Markedet i Uppsala har røtter tilbake til hedensk tid, da det falt sammen med alle svears ting og et blotoffer til kvinnelige makter som norner og valkyrjer. Etter kristningen ble det flyttet til kyndelsmesse i februar. Hva heter markedet, som fortsatt holdes hver vinter?",
       "sv": "Marknaden i Uppsala har rötter tillbaka till hednisk tid, då den sammanföll med alla sveers ting och ett blotoffer till kvinnliga makter som nornor och valkyrior. Efter kristnandet flyttades den till kyndelsmässan i februari. Vad heter marknaden, som fortfarande hålls varje vinter?"
@@ -180,7 +202,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["popkultur", "litteratur"],
+    "topics": [
+      "popkultur",
+      "litteratur"
+    ],
     "prompt": {
       "nb": "En japansk tegneserie av Makoto Yukimura startet i 2005 og følger islendingen Thorfinn Karlsefni på jakt etter det sagnomsuste landet i vest. To animeserier, laget av studioene Wit Studio og MAPPA, har gjort historien kjent langt utenfor Japan. Hva heter tegneserien?",
       "sv": "En japansk serietidning av Makoto Yukimura startade 2005 och följer islänningen Thorfinn Karlsefni på jakt efter det sagoomspunna landet i väster. Två anime-serier, gjorda av studiorna Wit Studio och MAPPA, har gjort historien känd långt utanför Japan. Vad heter serietidningen?"
@@ -202,7 +227,10 @@
     "category": "vikinger",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["popkultur", "film"],
+    "topics": [
+      "popkultur",
+      "film"
+    ],
     "prompt": {
       "nb": "Den britiske forfatteren Cressida Cowell skrev en bokserie om en spinkel vikinggutt på øya Berk som blir venn med en drage. DreamWorks laget den til en animasjonsfilm i 2010, og alle de tre filmene i trilogien har vært oscarnominert. Hva heter filmserien?",
       "sv": "Den brittiska författaren Cressida Cowell skrev en bokserie om en spenslig vikingapojke på ön Berk som blir vän med en drake. DreamWorks gjorde den till en animerad film 2010, och alla tre filmerna i trilogin har varit oscarsnominerade. Vad heter filmserien?"
@@ -224,7 +252,9 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["vikingtid"],
+    "topics": [
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "I 1867 gravde arkeologen Oluf Rygh ut et skip fra en gravhaug på Rolvsøy i Østfold, bygget rundt år 900. Sammen med Oseberg- og Gokstadskipet utgjør det de tre store norske skipsfunnene, men er det minst kjente av dem. Hva kalles skipet, etter bygda det ble funnet i?",
       "sv": "År 1867 grävde arkeologen Oluf Rygh ut ett skepp ur en gravhög på Rolvsøy i Østfold, byggt omkring år 900. Tillsammans med Oseberg- och Gokstadsskeppet utgör det de tre stora norska skeppsfynden, men är det minst kända av dem. Vad kallas skeppet, efter bygden det hittades i?"
@@ -249,7 +279,9 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["vikingtid"],
+    "topics": [
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "Ved Horten i Vestfold ligger sju store gravhauger og en rekke mindre, brukt fra 600-tallet og godt inn i vikingtiden - et av Nordens mest usedvanlige gravfelt. Stedet har gitt navn til en egen dyreornamentikk i vikingkunsten. Hva heter stedet, som i dag er nasjonalpark?",
       "sv": "Vid Horten i Vestfold ligger sju stora gravhögar och en rad mindre, använda från 600-talet och långt in i vikingatiden - ett av Nordens mest ovanliga gravfält. Platsen har gett namn åt en egen djurornamentik inom vikingakonsten. Vad heter platsen, som i dag är nationalpark?"
@@ -271,7 +303,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["historie", "geografi"],
+    "topics": [
+      "historie",
+      "geografi"
+    ],
     "prompt": {
       "nb": "En rik høvding fra Nord-Norge, trolig fra områdene rundt dagens Tromsø, fortalte kong Alfred den store om sine seilaser nordover forbi Kolahalvøya og sørover til handelsplassen Hedeby, rundt år 890. Beretningen er bevart i en gammelengelsk oversettelse og er det eldste skriftlige vitnesbyrdet om Norge. Hvem var høvdingen?",
       "sv": "En rik hövding från Nordnorge, troligen från trakterna kring dagens Tromsø, berättade för kung Alfred den store om sina seglatser norrut förbi Kolahalvön och söderut till handelsplatsen Hedeby, omkring år 890. Berättelsen är bevarad i en fornengelsk översättning och är det äldsta skriftliga vittnesbördet om Norge. Vem var hövdingen?"
@@ -293,7 +328,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["kongehus", "militaerhistorie"],
+    "topics": [
+      "kongehus",
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "I år 1000 gikk en norsk konge, kjent for hard kristningsferd, i strid mot en allianse av danske, svenske og norske stormenn med bare elleve skip mot et sterkt overtall. Kildene er uenige om han druknet eller kom seg unna; uansett endte slaget med at Norge ble delt mellom seierherrene. Hva het sjøslaget?",
       "sv": "År 1000 gick en norsk kung, känd för sitt hårdhänta kristnande, i strid mot en allians av danska, svenska och norska stormän med bara elva skepp mot ett kraftigt överläge. Källorna är oense om han drunknade eller kom undan; hur som helst slutade slaget med att Norge delades mellan segrarna. Vad hette sjöslaget?"
@@ -315,7 +353,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["vikingtid", "sprak"],
+    "topics": [
+      "vikingtid",
+      "sprak"
+    ],
     "prompt": {
       "nb": "En svensk vikinghøvding ledet på 1000-tallet et tokt langs Volga mot Kaspihavet og trolig helt til Georgia, der mennene hans skal ha deltatt i et slag i 1042. Ifølge sagnet kom bare ett skip hjem igjen. Toktet er minnet på 26 runesteiner, de fleste i Uppland. Hvem ledet ferden?",
       "sv": "En svensk vikingahövding ledde på 1000-talet ett tåg längs Volga mot Kaspiska havet och troligen ända till Georgien, där hans män ska ha deltagit i en strid 1042. Enligt sägnen kom bara ett skepp hem igen. Tåget minns på 26 runstenar, de flesta i Uppland. Vem ledde färden?"
@@ -327,7 +368,10 @@
     "answerKind": "person",
     "person": {
       "given": "Ingvar",
-      "family": { "nb": "den vidfarne", "sv": "den vittfarne" }
+      "family": {
+        "nb": "den vidfarne",
+        "sv": "den vittfarne"
+      }
     },
     "hint": {
       "nb": "Runesteinene som minnes toktet, kalles gjerne Ingvarsteinene.",
@@ -344,7 +388,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["vitenskap", "historie"],
+    "topics": [
+      "vitenskap",
+      "historie"
+    ],
     "prompt": {
       "nb": "En svensk forsker med bakgrunn fra entomologi og botanikk gravde i nesten tjue år ut graver på handelsplassen Björkö i Mälaren, og ble senere den første direktøren for Etnografiska museet i Stockholm. Én av gravene han fant, katalogisert i 1889, skulle bli verdensberømt 130 år senere. Hvem var forskeren?",
       "sv": "En svensk forskare med bakgrund inom entomologi och botanik grävde under nästan tjugo år ut gravar på handelsplatsen Björkö i Mälaren, och blev senare den förste chefen för Etnografiska museet i Stockholm. En av gravarna han hittade, katalogiserad 1889, skulle bli världsberömd 130 år senare. Vem var forskaren?"
@@ -370,7 +417,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["kunst", "mytologi"],
+    "topics": [
+      "kunst",
+      "mytologi"
+    ],
     "prompt": {
       "nb": "En billedstein fra Gotland, funnet i 1844, viser en åttebeint hest med rytter som mottar et drikkehorn av en kvinneskikkelse - trolig Odin på Sleipner, ønsket velkommen av en valkyrje. Steinen står i dag på Historiska museet i Stockholm. Hva heter steinen?",
       "sv": "En bildsten från Gotland, funnen 1844, visar en åttabent häst med ryttare som tar emot ett dryckeshorn av en kvinnogestalt - troligen Oden på Sleipner, välkomnad av en valkyria. Stenen finns i dag på Historiska museet i Stockholm. Vad heter stenen?"
@@ -392,7 +442,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["religion", "historie"],
+    "topics": [
+      "religion",
+      "historie"
+    ],
     "prompt": {
       "nb": "En tysk krønikeskriver fortalte på 1000-tallet om et hedensk tempel i Uppsala, der han hevdet at ni hanndyr av hver art ble ofret hvert niende år, med kroppene hengende i en hellig lund. Moderne historikere er svært skeptiske til hvor mye som er sant. Hvem skrev denne beretningen?",
       "sv": "En tysk krönikeskrivare berättade på 1000-talet om ett hedniskt tempel i Uppsala, där han hävdade att nio handjur av varje art offrades vart nionde år, med kropparna hängande i en helig lund. Moderna historiker är mycket skeptiska till hur mycket som är sant. Vem skrev denna berättelse?"
@@ -418,7 +471,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["mytologi", "militaerhistorie"],
+    "topics": [
+      "mytologi",
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "Berserkene gikk angivelig i kamp uten rustning, drevet av et rasende sinne som skal ha gjort dem ufølsomme for smerte. En teori, sterkt omstridt blant forskere, foreslår at tilstanden ble fremkalt av en rød og hvitprikket giftsopp. Hvilken sopp handler teorien om?",
       "sv": "Berserkerna gick i strid utan rustning, drivna av ett rasande raseri som ska ha gjort dem okänsliga för smärta. En teori, starkt omstridd bland forskare, föreslår att tillståndet framkallades av en röd och vitprickig giftsvamp. Vilken svamp handlar teorin om?"
@@ -443,7 +499,10 @@
     "category": "vikinger",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["fotball", "sport"],
+    "topics": [
+      "fotball",
+      "sport"
+    ],
     "prompt": {
       "nb": "Klubben oppsto i 2008 da to lag fra samme fjord på Eysturoy, GÍ Gøta og Leirvík ÍF, slo seg sammen. Bare åtte år senere ble den mesterskapsvinner for første gang, og er i dag den mest suksessrike klubben på øygruppen. Hvilken klubb er dette?",
       "sv": "Klubben bildades 2008 när två lag från samma fjord på Eysturoy, GÍ Gøta och Leirvík ÍF, gick samman. Bara åtta år senare blev den mästare för första gången, och är i dag den mest framgångsrika klubben i ögruppen. Vilken klubb är detta?"
@@ -465,7 +524,9 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["politikk"],
+    "topics": [
+      "politikk"
+    ],
     "prompt": {
       "nb": "Loven ble overlevert muntlig i århundrer før den ble skrevet ned rundt år 1100, og gjaldt for et av Vestlandets eldste ting, samlet i Gulen ved Sognefjorden fra rundt 930. Den regnes som Norges eldste bevarte lovtekst, med 319 kapitler om alt fra kristenrett til slaveri. Hva kalles loven?",
       "sv": "Lagen fördes muntligt vidare i århundraden innan den skrevs ner omkring år 1100, och gällde för ett av Västlandets äldsta ting, samlat i Gulen vid Sognefjorden från omkring 930. Den räknas som Norges äldsta bevarade lagtext, med 319 kapitel om allt från kristenrätt till slaveri. Vad kallas lagen?"
@@ -490,7 +551,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["litteratur", "sprak"],
+    "topics": [
+      "litteratur",
+      "sprak"
+    ],
     "prompt": {
       "nb": "En anonym munk skrev på latin en kort norgeshistorie en gang mellom 1170 og 1220, med en geografisk innledning, jarleætten på Orknøyene og en liste over norske konger. Det eneste bevarte håndskriftet ligger i dag i Skottland. Hva heter dette verket?",
       "sv": "En anonym munk skrev på latin en kort Norgeshistoria någon gång mellan 1170 och 1220, med en geografisk inledning, jarlaätten på Orkneyöarna och en förteckning över norska kungar. Det enda bevarade handskriften finns i dag i Skottland. Vad heter detta verk?"
@@ -512,10 +576,13 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["kunst", "sprak"],
+    "topics": [
+      "kunst",
+      "sprak"
+    ],
     "prompt": {
-      "nb": "En runestein fra rundt år 1050, funnet på gården Dynna på Hadeland, har et av Norges eldste bilder av juleevangeliet: de tre vise menn til hest under Betlehemsstjernen. Innskriften forteller at en mor reiste den til minne om sin flinke datter. Hva heter steinen?",
-      "sv": "En runsten från omkring år 1050, funnen på gården Dynna på Hadeland, har en av Norges äldsta bilder av juleevangeliet: de tre vise männen till häst under Betlehemsstjärnan. Inskriften berättar att en mor reste den till minne av sin duktiga dotter. Vad heter stenen?"
+      "nb": "En runestein fra rundt år 1050, funnet på en gård på Hadeland, har et av Norges eldste bilder av juleevangeliet: de tre vise menn til hest under Betlehemsstjernen. Innskriften forteller at en mor reiste den til minne om sin flinke datter. Hva heter steinen?",
+      "sv": "En runsten från omkring år 1050, funnen på en gård på Hadeland, har en av Norges äldsta bilder av juleevangeliet: de tre vise männen till häst under Betlehemsstjärnan. Inskriften berättar att en mor reste den till minne av sin duktiga dotter. Vad heter stenen?"
     },
     "answer": {
       "nb": "Dynnasteinen",
@@ -537,7 +604,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["militaerhistorie", "kongehus"],
+    "topics": [
+      "militaerhistorie",
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Tradisjonen sier at Harald Hårfagre samlet Norge til ett rike ved å beseire en koalisjon av småkonger fra sørvest i en sjøkamp lenge datert til år 872, men årstallet regnes i dag som svært usikkert. De fleste historikere ser nå samlingen som en lang prosess, ikke ett slag. Hvor sto sjøslaget?",
       "sv": "Traditionen säger att Harald Hårfagre enade Norge till ett rike genom att besegra en koalition av småkungar från sydväst i en sjöstrid länge daterad till år 872, men årtalet räknas i dag som mycket osäkert. De flesta historiker ser i dag enandet som en lång process, inte en enda strid. Var stod sjöstriden?"
@@ -559,7 +629,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["sprak", "geografi"],
+    "topics": [
+      "sprak",
+      "geografi"
+    ],
     "prompt": {
       "nb": "En runestein reist rundt år 1040 forteller om et tokt til Serkland - nordboernes navn på de muslimske landene i sør og øst. I dag står steinen ved et slott ved Mälaren som huser Statens porträttsamling, en av verdens eldste portrettsamlinger. Hvilket slott er det?",
       "sv": "En runsten rest omkring år 1040 berättar om ett tåg till Serkland - nordbornas namn på de muslimska länderna i söder och öster. I dag står stenen vid ett slott vid Mälaren som hyser Statens porträttsamling, en av världens äldsta porträttsamlingar. Vilket slott är det?"
@@ -581,7 +654,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["vitenskap", "vikingtid"],
+    "topics": [
+      "vitenskap",
+      "vikingtid"
+    ],
     "prompt": {
       "nb": "I nesten 140 år ble skjelettet i en velutstyrt krigergrav på Björkö antatt å være en mann, til tross for at beinbygningen tidlig pekte mot noe annet. En DNA-analyse fra Uppsala universitet i 2017 slo fast at personen var kvinne. Hvilket gravnummer har denne omtalte graven?",
       "sv": "I nästan 140 år antogs skelettet i en välutrustad krigargrav på Björkö vara en man, trots att benbyggnaden tidigt pekade mot något annat. En DNA-analys från Uppsala universitet 2017 slog fast att personen var kvinna. Vilket gravnummer har denna omtalade grav?"
@@ -603,7 +679,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["religion", "sprak"],
+    "topics": [
+      "religion",
+      "sprak"
+    ],
     "prompt": {
       "nb": "Nordens nordligste reiste runestein står ikke i Norge, men i Jämtland: mannen som lot den reise, med det talende navnet «Østmann», minnes at han kristnet landskapet - ikke en død slektning. Steinen sto opprinnelig ved en ferjeforbindelse og ble flyttet i 1969-71. Hva heter steinen?",
       "sv": "Nordens nordligaste resta runsten står inte i Norge, utan i Jämtland: mannen som lät resa den, med det talande namnet «Östman», minns att han kristnade landskapet - inte en död släkting. Stenen stod ursprungligen vid en färjeförbindelse och flyttades 1969-71. Vad heter stenen?"
@@ -625,7 +704,9 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "En mektig stormann i Täby utenfor Stockholm lot reise rundt tjue runesteiner med praktisk talt samme budskap: at han bygget en bro for sin sjels skyld og alene rådde over hele Täby. Broen er fortsatt bevart og er 116 meter lang. Hvem var stormannen?",
       "sv": "En mäktig storman i Täby utanför Stockholm lät resa omkring tjugo runstenar med praktiskt taget samma budskap: att han byggde en bro för sin själs skull och ensam rådde över hela Täby. Bron finns fortfarande bevarad och är 116 meter lång. Vem var stormannen?"
@@ -647,7 +728,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["mytologi", "kunst"],
+    "topics": [
+      "mytologi",
+      "kunst"
+    ],
     "prompt": {
       "nb": "Forestillingen om hornprydede vikinghjelmer stammer fra 1800-tallets operakostymer, ikke fra vikingtiden selv - ingen bevarte hjelmer fra perioden har horn. De eneste ekte hjelmene med horn fra Norden er over tusen år eldre og ble funnet i en myr ved Sjælland i 1942. Hva kalles disse eldre hjelmene?",
       "sv": "Föreställningen om hornprydda vikingahjälmar härstammar från 1800-talets operakostymer, inte från vikingatiden själv - inga bevarade hjälmar från perioden har horn. De enda äkta hjälmarna med horn från Norden är över tusen år äldre och hittades i en myr vid Själland 1942. Vad kallas dessa äldre hjälmar?"
@@ -672,7 +756,10 @@
     "category": "vikinger",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["mytologi", "militaerhistorie"],
+    "topics": [
+      "mytologi",
+      "militaerhistorie"
+    ],
     "prompt": {
       "nb": "To norrøne kilder beskriver en fryktinngytende henrettelse der ribbeina skal ha vært skåret løs fra ryggraden og lungene trukket ut som «vinger», angivelig som offer til Odin. Historikere som Roberta Frank og Ronald Hutton mener det snarere er en kristen mistolkning av gammel skaldediktning. Hva kalles denne omstridte henrettelsesmetoden?",
       "sv": "Två fornnordiska källor beskriver en skrämmande avrättning där revbenen ska ha skurits loss från ryggraden och lungorna dragits ut som «vingar», påstått som offer till Oden. Historiker som Roberta Frank och Ronald Hutton menar att det snarare är en kristen feltolkning av gammal skaldediktning. Vad kallas denna omstridda avrättningsmetod?"

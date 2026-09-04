@@ -251,8 +251,8 @@
       "transport"
     ],
     "prompt": {
-      "nb": "Denne hengebroen åpnet i 2013 og krysser Eidfjorden, en arm av Hardangerfjorden. Med et hovedspenn på 1310 meter er det den lengste hengebroen i Norge. Hvilken bro er dette?",
-      "sv": "Denna hängbro öppnade 2013 och korsar Eidfjorden, en arm av Hardangerfjorden. Med ett huvudspann på 1310 meter är det Norges längsta hängbro. Vilken bro är detta?"
+      "nb": "Denne hengebroen åpnet i 2013 og krysser Eidfjorden, en arm av en av Vestlandets lengste fjorder. Med et hovedspenn på 1310 meter er det den lengste hengebroen i Norge. Hvilken bro er dette?",
+      "sv": "Denna hängbro öppnade 2013 och korsar Eidfjorden, en arm av en av Västnorges längsta fjordar. Med ett huvudspann på 1310 meter är det Norges längsta hängbro. Vilken bro är detta?"
     },
     "answer": "Hardangerbrua",
     "answerKind": "annet",
@@ -348,8 +348,8 @@
     "answer": "Skarnsundbrua",
     "answerKind": "annet",
     "hint": {
-      "nb": "Den krysser Skarnsundet i Inderøy kommune og ble åpnet av kong Harald V.",
-      "sv": "Den korsar Skarnsundet i Inderøy kommun och öppnades av kung Harald V."
+      "nb": "Den krysser et sund i Inderøy kommune i Trøndelag og ble åpnet av kong Harald V.",
+      "sv": "Den korsar ett sund i Inderøy kommun i Trøndelag och öppnades av kung Harald V."
     },
     "funFact": {
       "nb": "Rekorden som verdens lengste skråstagbro varte i to år før andre broer tok over. Broen er bygget i betong, ikke stål, som er uvanlig for så lange skråstagbroer.",
@@ -366,8 +366,8 @@
       "transport"
     ],
     "prompt": {
-      "nb": "Denne hengebroen i Danmark åpnet for veitrafikk i 1998 og forbinder øyene Sjælland og Fyn over Storebælt. Med et hovedspenn på 1624 meter var den verdens nest lengste hengebro da den åpnet – bare slått av en bro i Japan noen måneder tidligere. Hvilken bro er dette?",
-      "sv": "Denna hängbro i Danmark öppnade för vägtrafik 1998 och förbinder öarna Själland och Fyn över Stora Bält. Med ett huvudspann på 1624 meter var den världens näst längsta hängbro när den öppnade – bara slagen av en bro i Japan några månader tidigare. Vilken bro är detta?"
+      "nb": "Denne hengebroen i Danmark åpnet for veitrafikk i 1998 og forbinder øyene Sjælland og Fyn over beltet mellom dem. Med et hovedspenn på 1624 meter var den verdens nest lengste hengebro da den åpnet – bare slått av en bro i Japan noen måneder tidligere. Hvilken bro er dette?",
+      "sv": "Denna hängbro i Danmark öppnade för vägtrafik 1998 och förbinder öarna Själland och Fyn över bältet mellan dem. Med ett huvudspann på 1624 meter var den världens näst längsta hängbro när den öppnade – bara slagen av en bro i Japan några månader tidigare. Vilken bro är detta?"
     },
     "answer": {
       "nb": "Storebæltsbroen",
@@ -534,8 +534,8 @@
     "answer": "Tjörnbron",
     "answerKind": "annet",
     "hint": {
-      "nb": "Den opprinnelige broen, Almöbron, forbandt fastlandet ved Stenungsund med øya Tjörn.",
-      "sv": "Den ursprungliga bron, Almöbron, förband fastlandet vid Stenungsund med ön Tjörn."
+      "nb": "Den opprinnelige broen, Almöbron, forbandt fastlandet ved Stenungsund med øya i vest.",
+      "sv": "Den ursprungliga bron, Almöbron, förband fastlandet vid Stenungsund med ön i väster."
     },
     "funFact": {
       "nb": "Skipet som forårsaket ulykken, «Star Clipper», mistet retningen i tåka klokken halv to om natten. Den nye broen som erstattet den gamle, ble bygget i rekordfart.",

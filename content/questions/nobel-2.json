@@ -387,8 +387,8 @@
       "musikk"
     ],
     "prompt": {
-      "nb": "Siden innvielsen i 1926 er det denne blåmalte bygningen ved Hötorget i Stockholm som er arena for selve prisutdelingen i fysikk, kjemi, medisin, litteratur og økonomi. Hvilket bygg er dette?",
-      "sv": "Sedan invigningen 1926 är det denna blåmålade byggnad vid Hötorget i Stockholm som är arena för själva prisutdelningen i fysik, kemi, medicin, litteratur och ekonomi. Vilken byggnad är detta?"
+      "nb": "Siden innvielsen i 1926 er det denne blåmalte bygningen ved Hötorget som er arena for selve prisutdelingen i fysikk, kjemi, medisin, litteratur og økonomi. Hvilket bygg er dette?",
+      "sv": "Sedan invigningen 1926 är det denna blåmålade byggnad vid Hötorget som är arena för själva prisutdelningen i fysik, kemi, medicin, litteratur och ekonomi. Vilken byggnad är detta?"
     },
     "answer": "Stockholms konserthus",
     "answerKind": "annet",

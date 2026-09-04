@@ -271,8 +271,8 @@
       "historie"
     ],
     "prompt": {
-      "nb": "Da denne banen mellom Lillestrøm og Kongsvinger åpnet i 1862, og ble forlenget til den svenske grensen i 1865, ble den Norges aller første jernbaneforbindelse til et annet land, og bandt sammen unionens to hovedsteder. Hvilken bane?",
-      "sv": "När denna bana mellan Lillestrøm och Kongsvinger öppnade 1862, och förlängdes till svenska gränsen 1865, blev den Norges allra första järnvägsförbindelse till ett annat land, och band samman unionens två huvudstäder. Vilken bana?"
+      "nb": "Da denne banen østover fra Lillestrøm åpnet i 1862, og ble forlenget til den svenske grensen i 1865, ble den Norges aller første jernbaneforbindelse til et annet land, og bandt sammen unionens to hovedsteder. Hvilken bane?",
+      "sv": "När denna bana österut från Lillestrøm öppnade 1862, och förlängdes till svenska gränsen 1865, blev den Norges allra första järnvägsförbindelse till ett annat land, och band samman unionens två huvudstäder. Vilken bana?"
     },
     "answer": "Kongsvingerbanen",
     "answerKind": "annet",
@@ -371,8 +371,8 @@
       "transport"
     ],
     "prompt": {
-      "nb": "Da strekningen Stockholm–Djursholm ble elektrifisert i 1892, ble denne smalsporede banen i Roslagen en av de eldste elektrifiserte jernbanene for offentlig transport i Europa. Den er i dag den eneste smalsporbanen i Sverige som fortsatt brukes i vanlig, kommersiell trafikk. Hvilken bane?",
-      "sv": "När sträckan Stockholm–Djursholm elektrifierades 1892 blev denna smalspåriga bana i Roslagen en av de äldsta elektrifierade järnvägarna för allmän transport i Europa. Den är i dag den enda smalspårsbanan i Sverige som fortfarande används i vanlig, kommersiell trafik. Vilken bana?"
+      "nb": "Da strekningen Stockholm–Djursholm ble elektrifisert i 1892, ble denne smalsporede banen nord for hovedstaden en av de eldste elektrifiserte jernbanene for offentlig transport i Europa. Den er i dag den eneste smalsporbanen i Sverige som fortsatt brukes i vanlig, kommersiell trafikk. Hvilken bane?",
+      "sv": "När sträckan Stockholm–Djursholm elektrifierades 1892 blev denna smalspåriga bana norr om huvudstaden en av de äldsta elektrifierade järnvägarna för allmän transport i Europa. Den är i dag den enda smalspårsbanan i Sverige som fortfarande används i vanlig, kommersiell trafik. Vilken bana?"
     },
     "answer": "Roslagsbanan",
     "answerKind": "annet",

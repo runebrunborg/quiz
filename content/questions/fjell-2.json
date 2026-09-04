@@ -4,7 +4,10 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["natur", "geografi"],
+    "topics": [
+      "natur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Dette høyfjellsplatået regnes som Europas største sammenhengende slettelandskap i høyfjellet, og huser en av verdens største gjenværende stammer av villrein. Det ble nasjonalpark i 1981 og dekker over 3400 kvadratkilometer. Hvilket platå er dette?",
       "sv": "Denna högfjällsplatå räknas som Europas största sammanhängande slättlandskap i högfjället, och hyser en av världens största kvarvarande stammar av vildren. Den blev nationalpark 1981 och täcker över 3 400 kvadratkilometer. Vilken platå är detta?"
@@ -26,7 +29,9 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "I 1962 fikk Norge sin aller første nasjonalpark, med runde, sammenhengende topper som skiller den fra de skarpe alpine formene lenger vest. Området har vært brukt til villreinjakt siden steinalderen. Hvilken nasjonalpark var først ute?",
       "sv": "År 1962 fick Norge sin allra första nationalpark, med runda, sammanhängande toppar som skiljer den från de skarpa alpina formerna längre västerut. Området har använts för vildrensjakt sedan stenåldern. Vilken nationalpark var först?"
@@ -48,7 +53,10 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["natur", "popkultur"],
+    "topics": [
+      "natur",
+      "popkultur"
+    ],
     "prompt": {
       "nb": "Denne nesten flate klippen stikker 604 meter rett ut over Lysefjorden i Ryfylke, og turen dit har blitt en av Norges mest besøkte, med rundt 300 000 vandrere i 2024. Den har også opptrådt i «Mission: Impossible – Fallout». Hva heter formasjonen?",
       "sv": "Denna nästan platta klippa sticker ut 604 meter rakt över Lysefjorden i Ryfylke, och vandringen dit har blivit en av Norges mest besökta, med omkring 300 000 vandrare 2024. Den har också synts i «Mission: Impossible – Fallout». Vad heter formationen?"
@@ -70,7 +78,10 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["historie", "sport"],
+    "topics": [
+      "historie",
+      "sport"
+    ],
     "prompt": {
       "nb": "Organisasjonen ble stiftet i Kristiania i 1868 på initiativ av Thomas Heftye, og driver i dag rundt 550 hytter og mer enn 20 000 kilometer merkede stier i norske fjell og skoger. Hvilken forening er dette?",
       "sv": "Föreningen bildades i Kristiania 1868 på initiativ av Thomas Heftye, och driver i dag omkring 550 stugor och mer än 20 000 kilometer markerade leder i norska fjäll och skogar. Vilken förening är detta?"
@@ -92,7 +103,10 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["sport", "geografi"],
+    "topics": [
+      "sport",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Fjellet troner over Sveriges mest kjente skisportsted, er 1420 meter høyt og har vært mål for vintersportsturisme siden 1800-tallet. Det har vært vertskap for alpint verdensmesterskap tre ganger, senest i 2019. Hvilket fjell er dette?",
       "sv": "Berget tronar över Sveriges mest kända skidort, är 1 420 meter högt och har varit mål för vintersportturism sedan 1800-talet. Det har varit värd för alpina VM tre gånger, senast 2019. Vilket berg är detta?"
@@ -114,7 +128,10 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["natur", "geografi"],
+    "topics": [
+      "natur",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Massivet ligger på grensen mellom Norge og Sverige, med Storsylen som høyeste topp på 1762 meter. Svenska Turistföreningen driver en fjellstasjon rett ved foten. Hvilket fjellmassiv er dette?",
       "sv": "Massivet ligger på gränsen mellan Norge och Sverige, med Storsylen som högsta topp på 1 762 meter. Svenska Turistföreningen driver en fjällstation alldeles vid foten. Vilket bergmassiv är detta?"
@@ -139,7 +156,9 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["natur"],
+    "topics": [
+      "natur"
+    ],
     "prompt": {
       "nb": "Sveriges høyeste foss med fritt fall stuper 70 meter rett ned i en kløft i Fulufjällets nasjonalpark, som ble opprettet i 2002. Vannet kommer fra en liten isbre høyt oppe i fjellet. Hva heter fossen?",
       "sv": "Sveriges högsta fall med fritt fall störtar 70 meter rakt ner i en klyfta i Fulufjällets nationalpark, som bildades 2002. Vattnet kommer från en liten glaciär högt uppe i berget. Vad heter fallet?"
@@ -161,7 +180,10 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["dyr", "natur"],
+    "topics": [
+      "dyr",
+      "natur"
+    ],
     "prompt": {
       "nb": "Dette naturreservatet i Västerbotten ble opprettet i 1974 og dekker over 560 000 hektar – et av Europas største sammenhengende verneområder. Fjellreven er reservatets kjennemerke. Hva heter reservatet?",
       "sv": "Detta naturreservat i Västerbotten inrättades 1974 och täcker över 560 000 hektar – ett av Europas största sammanhängande skyddade områden. Fjällräven är reservatets kännemärke. Vad heter reservatet?"
@@ -183,7 +205,9 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["geografi"],
+    "topics": [
+      "geografi"
+    ],
     "prompt": {
       "nb": "Fjellet i Alaska er Nord-Amerikas høyeste, med en topp 6190 meter over havet. I 2015 fikk det tilbake et navn fra et atabaskisk urfolksspråk, etter mer enn hundre år under et navn gitt til ære for en amerikansk president. Hvilket fjell er dette?",
       "sv": "Berget i Alaska är Nordamerikas högsta, med en topp 6 190 meter över havet. År 2015 fick det tillbaka ett namn från ett atabaskiskt urfolksspråk, efter mer än hundra år under ett namn som hedrade en amerikansk president. Vilket berg är detta?"
@@ -205,7 +229,9 @@
     "category": "fjell",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["geografi"],
+    "topics": [
+      "geografi"
+    ],
     "prompt": {
       "nb": "Med sine 6961 meter er dette den høyeste toppen i både Sør-Amerika og hele den vestlige halvkule, og en av de mest fremtredende toppene i verden nest etter Everest. Fjellet ligger i Andesfjellene i Argentina. Hvilket fjell er dette?",
       "sv": "Med sina 6 961 meter är detta den högsta toppen i både Sydamerika och hela västra halvklotet, och en av de mest framträdande topparna i världen näst efter Everest. Berget ligger i Anderna i Argentina. Vilket berg är detta?"
@@ -227,7 +253,10 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["transport", "geografi"],
+    "topics": [
+      "transport",
+      "geografi"
+    ],
     "prompt": {
       "nb": "Veien opp fra Åndalsnes i Rauma ble åpnet av kong Haakon VII i 1936 etter åtte års bygging, og slynger seg gjennom elleve hårnålssvinger opp en bratt fjellside. Øverst durer Stigfossen 320 meter ned. Hva heter veien?",
       "sv": "Vägen upp från Åndalsnes i Rauma öppnades av kung Haakon VII 1936 efter åtta års byggande, och slingrar sig genom elva hårnålskurvor upp en brant bergssida. Högst upp dånar Stigfossen 320 meter ner. Vad heter vägen?"
@@ -249,7 +278,10 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["historie", "dyr"],
+    "topics": [
+      "historie",
+      "dyr"
+    ],
     "prompt": {
       "nb": "I den samiske reindriftskulturen er dette den grunnleggende driftsenheten – en gruppe familier som sammen forvalter beiteland og flytter reinflokken gjennom årstidene. Norges reindriftslov anerkjente i 2007 enheten som grunnlaget for retten til areal og drift. Hva kalles enheten?",
       "sv": "I den samiska renskötselkulturen är detta den grundläggande driftsenheten – en grupp familjer som tillsammans förvaltar betesmark och flyttar renhjorden genom årstiderna. Norges renskötsellag erkände 2007 enheten som grunden för rätten till mark och drift. Vad kallas enheten?"
@@ -271,7 +303,9 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Skredderen fra Åndalsnes gikk til topps på Romsdalshornet hele 233 ganger mellom 1928 og 1985, siste gang som 80-åring, og var med på førstebestigningen av Trollryggen i 1958. Samlingen hans ble grunnlaget for Norsk Tindemuseum. Hvem var klatreren?",
       "sv": "Skräddaren från Åndalsnes gick upp på Romsdalshorn hela 233 gånger mellan 1928 och 1985, sista gången som 80-åring, och var med vid förstabestigningen av Trollryggen 1958. Hans samling blev grunden för Norsk Tindemuseum. Vem var klättraren?"
@@ -297,7 +331,10 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "no",
-    "topics": ["vitenskap", "natur"],
+    "topics": [
+      "vitenskap",
+      "natur"
+    ],
     "prompt": {
       "nb": "Denne isbreen i Sogn og Fjordane er den største på det europeiske fastlandet, med flere brearmer som Nigardsbreen og Briksdalsbreen. Nasjonalparken rundt den ble opprettet i 1991. Hvilken isbre er dette?",
       "sv": "Denna glaciär i Sogn og Fjordane är den största på den europeiska kontinenten, med flera glaciärarmar som Nigardsbreen och Briksdalsbreen. Nationalparken runt den bildades 1991. Vilken glaciär är detta?"
@@ -319,7 +356,9 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["dyr"],
+    "topics": [
+      "dyr"
+    ],
     "prompt": {
       "nb": "I Skandinavias fjellheim lever et lite rovdyr med hvit vinterpels og rund kroppsform tilpasset ekstrem kulde. Til tross for fredning i flere tiår teller den samlede bestanden i Norge, Sverige og Finland i dag færre enn 200 voksne dyr. Hvilket rovdyr er dette?",
       "sv": "I Skandinaviens fjällvärld lever ett litet rovdjur med vit vinterpäls och rundad kroppsform anpassad till extrem kyla. Trots fridlysning i flera decennier räknar den sammanlagda populationen i Norge, Sverige och Finland i dag färre än 200 vuxna djur. Vilket rovdjur är detta?"
@@ -344,7 +383,9 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "I oktober 1995 syklet han fra Stockholm mot Nepal på en sykkel lastet med 108 kilo utstyr, og nådde Everest base camp etter 13 000 kilometer. 23. mai 1996 nådde han toppen helt uten flaskeoksygen og uten sherpahjelp. Hvem var syklisten og klatreren?",
       "sv": "I oktober 1995 cyklade han från Stockholm mot Nepal på en cykel lastad med 108 kilo utrustning, och nådde Everest baslager efter 13 000 kilometer. Den 23 maj 1996 nådde han toppen helt utan flasksyre och utan sherpahjälp. Vem var cyklisten och klättraren?"
@@ -370,7 +411,9 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
       "nb": "Denne 360 kilometer lange turistveien går fra Strömsund i Jämtland til Vilhelmina i Lappland, krysser fjellovergangen Stekenjokk over tregrensen, og passerer den samiske kirkebyen Fatmomakke. Hva heter veien?",
       "sv": "Denna 360 kilometer långa turistväg går från Strömsund i Jämtland till Vilhelmina i Lappland, korsar fjällpasset Stekenjokk ovanför trädgränsen, och passerar den samiska kyrkstaden Fatmomakke. Vad heter vägen?"
@@ -392,7 +435,10 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "se",
-    "topics": ["historie", "dyr"],
+    "topics": [
+      "historie",
+      "dyr"
+    ],
     "prompt": {
       "nb": "Den svenske reindriften er organisert i rundt 50 slike geografiske og økonomiske enheter, opprinnelig kalt lappbyer etter loven av 1886. En enhet kan drive reindrift, men ikke annen næringsvirksomhet. Hva kalles enheten på svensk?",
       "sv": "Den svenska renskötseln är organiserad i omkring 50 sådana geografiska och ekonomiska enheter, ursprungligen kallade lappbyar enligt lagen från 1886. En enhet får bedriva renskötsel, men ingen annan näringsverksamhet. Vad kallas enheten på svenska?"
@@ -414,7 +460,9 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "På grensen mellom Chile og Argentina, i Andesfjellene, ligger jordas høyeste vulkan, med toppen 6893 meter over havet. Den regnes som sovende, uten bekreftede utbrudd i historisk tid. Hvilken vulkan er dette?",
       "sv": "På gränsen mellan Chile och Argentina, i Anderna, ligger jordens högsta vulkan, med toppen 6 893 meter över havet. Den räknas som vilande, utan bekräftade utbrott i historisk tid. Vilken vulkan är detta?"
@@ -436,7 +484,10 @@
     "category": "fjell",
     "difficulty": "medium",
     "origin": "int",
-    "topics": ["sport", "historie"],
+    "topics": [
+      "sport",
+      "historie"
+    ],
     "prompt": {
       "nb": "Den nesten 1800 meter høye nordveggen på dette sveitsiske fjellet ble lenge kalt umulig og kostet flere klatrere livet i forsøkene på 1930-tallet. 24. juli 1938 lyktes til slutt et tysk-østerriksk lag på fire. Hvilket fjell er dette?",
       "sv": "Den nästan 1 800 meter höga nordväggen på detta schweiziska berg kallades länge omöjlig och kostade flera klättrare livet under försöken på 1930-talet. Den 24 juli 1938 lyckades till slut ett tysk-österrikiskt lag på fyra. Vilket berg är detta?"
@@ -458,10 +509,12 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
-      "nb": "Denne veien over Sognefjellet åpnet for bilkjøring i 1938 og regnes som Nord-Europas høyest beliggende fjellovergang, med et høyeste punkt på 1434 meter over havet. I 1997 ble den Norges første nasjonale turistveg. Hva heter veien?",
-      "sv": "Denna väg över Sognefjellet öppnades för biltrafik 1938 och räknas som Nordeuropas högst belägna fjällövergång, med sin högsta punkt på 1 434 meter över havet. År 1997 blev den Norges första nationella turistväg. Vad heter vägen?"
+      "nb": "Denne veien mellom Lom og Luster åpnet for bilkjøring i 1938 og regnes som Nord-Europas høyest beliggende fjellovergang, med et høyeste punkt på 1434 meter over havet. I 1997 ble den Norges første nasjonale turistveg. Hva heter veien?",
+      "sv": "Denna väg mellan Lom och Luster öppnades för biltrafik 1938 och räknas som Nordeuropas högst belägna fjällövergång, med sin högsta punkt på 1 434 meter över havet. År 1997 blev den Norges första nationella turistväg. Vad heter vägen?"
     },
     "answer": "Sognefjellsvegen",
     "answerKind": "annet",
@@ -480,7 +533,9 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Hun sto på Nordpolen i 2006 og Sydpolen i 2005, begge ganger etter lange skiekspedisjoner, og fullførte i tillegg De sju toppene med Everest i 2004. Dermed ble hun den eneste kvinnen i verden som har nådd alle «de tre polene». Hvem er fjellklatreren?",
       "sv": "Hon nådde Nordpolen 2006 och Sydpolen 2005, båda gångerna efter långa skidexpeditioner, och fullföljde dessutom De sju topparna med Everest 2004. Därmed blev hon den enda kvinnan i världen som nått alla «de tre polerna». Vem är bergsklättraren?"
@@ -506,7 +561,9 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["vitenskap"],
+    "topics": [
+      "vitenskap"
+    ],
     "prompt": {
       "nb": "Berggrunnen i deler av Jotunheimen består blant annet av en sjelden, lys bergart som ellers knapt finnes på jorden – men som dominerer høylandet på månen. Hvilken bergart er dette?",
       "sv": "Berggrunden i delar av Jotunheimen består bland annat av en sällsynt, ljus bergart som annars knappt finns på jorden – men som dominerar höglandet på månen. Vilken bergart är detta?"
@@ -531,7 +588,10 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "no",
-    "topics": ["mytologi", "sprak"],
+    "topics": [
+      "mytologi",
+      "sprak"
+    ],
     "prompt": {
       "nb": "I Alvdal og Rendalen skjærer en kløft seg 2,5 kilometer gjennom fjellet, med kanter som mot øst når 220–240 meter. Geologer mener den ble skåret ut da en enorm isdemt innsjø brøt gjennom mot slutten av siste istid, men folketroen ga æren til to kranglete troll. Hva heter kløften?",
       "sv": "I Alvdal och Rendalen skär en klyfta sig 2,5 kilometer genom berget, med kanter som mot öster når 220–240 meter. Geologer menar att den skars ut när en enorm isdämd sjö bröt igenom mot slutet av senaste istiden, men folktron gav äran åt två grälsjuka troll. Vad heter klyftan?"
@@ -553,7 +613,9 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["sprak"],
+    "topics": [
+      "sprak"
+    ],
     "prompt": {
       "nb": "Nasjonalparken i svensk Lappland ble opprettet i 1963 og er i dag del av verdensarvområdet Laponia. Det lulesamiske navnet, Badjelánnda, betyr rett og slett «det høyereliggende landet». Hvilken park er dette?",
       "sv": "Nationalparken i svenska Lappland bildades 1963 och ingår i dag i världsarvsområdet Laponia. Det lulesamiska namnet, Badjelánnda, betyder helt enkelt «det högre belägna landet». Vilken park är detta?"
@@ -575,7 +637,9 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["kunst"],
+    "topics": [
+      "kunst"
+    ],
     "prompt": {
       "nb": "Fra toppen av dette fjellet i Sarek åpner det seg en av Europas mest kjente fjellutsikter: en isbreslipt U-dal der elva Rapaälven fletter seg i mange løp mot et delta. Hvilket fjell gir denne utsikten?",
       "sv": "Från toppen av detta berg i Sarek öppnar sig en av Europas mest kända bergsutsikter: en isslipad U-dal där älven Rapaälven flätar sig i många fåror mot ett delta. Vilket berg ger denna utsikt?"
@@ -597,7 +661,9 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
       "nb": "Denne 800 kilometer lange fotruten går gjennom fjellheimen i tre land og krysser riksgrensen hele femten ganger. DNT og Svenska Turistföreningen driver hyttene på hver sin side, og ruta ble først planlagt i 1977. Hva heter den?",
       "sv": "Denna 800 kilometer långa vandringsled går genom fjällvärlden i tre länder och korsar riksgränsen hela femton gånger. DNT och Svenska Turistföreningen driver stugorna på var sin sida, och leden planerades först 1977. Vad heter den?"
@@ -622,7 +688,10 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["religion", "mytologi"],
+    "topics": [
+      "religion",
+      "mytologi"
+    ],
     "prompt": {
       "nb": "Ingen har noen bekreftet, vellykket bestigning av dette 6638 meter høye fjellet i Tibet, dels fordi kinesiske myndigheter forbyr klatring av religiøse hensyn. Buddhister, hinduer, jainister og bon-tilhengere regner det alle som hellig. Hvilket fjell er dette?",
       "sv": "Ingen har någon bekräftad, lyckad bestigning av detta 6 638 meter höga berg i Tibet, delvis eftersom kinesiska myndigheter förbjuder klättring av religiösa skäl. Buddhister, hinduer, jainister och bönföljare räknar alla det som heligt. Vilket berg är detta?"
@@ -644,7 +713,9 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "int",
-    "topics": ["medisin"],
+    "topics": [
+      "medisin"
+    ],
     "prompt": {
       "nb": "3. juli 1953 fortsatte han alene de siste 1300 høydemeterne til toppen av Nanga Parbat, etter at følgesvennene hans hadde snudd. Han nådde toppen klokken sju om kvelden, helt uten flaskeoksygen – den første soloerobringen av en åttetusenmeter. Hvem var klatreren?",
       "sv": "Den 3 juli 1953 fortsatte han ensam de sista 1 300 höjdmetrarna till toppen av Nanga Parbat, sedan hans följeslagare hade vänt. Han nådde toppen klockan sju på kvällen, helt utan flasksyre – den första solobestigningen av en åttatusenmeterstopp. Vem var klättraren?"
@@ -670,7 +741,9 @@
     "category": "fjell",
     "difficulty": "vanskelig",
     "origin": "se",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "Organisasjonen ble stiftet i Stockholm i 1885 for å fremme kjennskap til og turisme i det svenske fjellet, og bygde etter hvert et nettverk av fjellstasjoner og hytter som fortsatt driftes i dag. Hvilken forening er dette?",
       "sv": "Föreningen bildades i Stockholm 1885 för att främja kännedom om och turism i den svenska fjällvärlden, och byggde efter hand upp ett nätverk av fjällstationer och stugor som fortfarande drivs i dag. Vilken förening är detta?"

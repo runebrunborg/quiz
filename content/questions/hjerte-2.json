@@ -137,8 +137,8 @@
       "medisin"
     ],
     "prompt": {
-      "nb": "Etter at apotekmonopolet i Sverige ble avviklet i 2009, dukket det opp flere nye apotekkjeder. En av de største fikk et navn som betyr «Apoteket hjertet», og har i dag rundt 400 utsalg over hele Sverige. Hvilken kjede?",
-      "sv": "Efter att apoteksmonopolet i Sverige avvecklades 2009 uppstod flera nya apotekskedjor. En av de största fick ett namn som betyder «Apoteket hjärtat», och har i dag omkring 400 butiker över hela Sverige. Vilken kedja?"
+      "nb": "Etter at apotekmonopolet i Sverige ble avviklet i 2009, dukket det opp flere nye apotekkjeder. En av de største fikk navn etter et organ i kroppen, og har i dag rundt 400 utsalg over hele Sverige. Hvilken kjede?",
+      "sv": "Efter att apoteksmonopolet i Sverige avvecklades 2009 uppstod flera nya apotekskedjor. En av de största fick namn efter ett organ i kroppen, och har i dag omkring 400 butiker över hela Sverige. Vilken kedja?"
     },
     "answer": "Apotek Hjärtat",
     "answerKind": "annet",
