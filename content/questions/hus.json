@@ -1,0 +1,260 @@
+[
+  {
+    "id": "hus-l-01",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Arten stammer trolig fra Asia, og kom til Norge med menneskets hjelp for rundt 8000 år siden. I dag finnes den over det meste av verden, unntatt i de kaldeste strøkene, og den lever gjerne i sprekker og hulrom i bygninger. Hvilken art i musefamilien?",
+      "sv": "Arten härstammar troligen från Asien och kom till Norge med människans hjälp för omkring 8000 år sedan. I dag finns den över större delen av världen, utom i de kallaste trakterna, och den lever gärna i sprickor och hålrum i byggnader. Vilken art i musfamiljen?"
+    },
+    "answer": "Husmus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den veier opptil 35 gram, er altetende, og kan spise alt vi mennesker kan spise.",
+      "sv": "Den väger upp till 35 gram, är allätande och kan äta allt vi människor kan äta."
+    },
+    "funFact": {
+      "nb": "Albinoformen av arten brukes i forskning og laboratorier over hele verden, og har bidratt enormt til kunnskapen vår innen medisin og genetikk.",
+      "sv": "Albinoformen av arten används i forskning och laboratorier över hela världen, och har bidragit enormt till vår kunskap inom medicin och genetik."
+    },
+    "source": "Store norske leksikon – «husmus»"
+  },
+  {
+    "id": "hus-l-02",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Gasser i atmosfæren slipper kortbølget sollys gjennom, men fanger varmestrålingen fra bakken og sender omtrent halvparten tilbake. Uten dem ville middeltemperaturen på jorda vært minus 18 grader. Fra 1700-tallet til 2022 økte innholdet av karbondioksid med nesten femti prosent. Hva kalles fenomenet?",
+      "sv": "Gaser i atmosfären släpper igenom kortvågigt solljus, men fångar värmestrålningen från marken och skickar tillbaka ungefär hälften. Utan dem skulle medeltemperaturen på jorden ha varit minus 18 grader. Från 1700-talet till 2022 ökade halten koldioxid med nästan femtio procent. Vad kallas fenomenet?"
+    },
+    "answer": {
+      "nb": "Drivhuseffekten",
+      "sv": "Växthuseffekten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vanndamp står for rundt halvparten av effekten, karbondioksid for rundt en femtedel.",
+      "sv": "Vattenånga står för omkring hälften av effekten, koldioxid för omkring en femtedel."
+    },
+    "funFact": {
+      "nb": "I dag ligger jordas middeltemperatur rundt 15 grader. Metan og lystgass er blant de andre gassene som bidrar.",
+      "sv": "I dag ligger jordens medeltemperatur omkring 15 grader. Metan och lustgas är bland de andra gaser som bidrar."
+    },
+    "source": "Store norske leksikon – «drivhuseffekten»"
+  },
+  {
+    "id": "hus-l-03",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "tv"
+    ],
+    "prompt": {
+      "nb": "«Huset på prærien» fra 1935 er tredje bok i en serie om en nybyggerfamilie på den amerikanske prærien, og ga navn til TV-serien som gikk på NBC fra 1974 til 1983. Hvem skrev bøkene?",
+      "sv": "«Lilla huset på prärien» från 1935 är tredje boken i en serie om en nybyggarfamilj på den amerikanska prärien, och gav namn åt TV-serien som gick på NBC från 1974 till 1983. Vem skrev böckerna?"
+    },
+    "answer": "Laura Ingalls Wilder",
+    "answerKind": "person",
+    "person": {
+      "given": "Laura",
+      "family": "Ingalls Wilder"
+    },
+    "hint": {
+      "nb": "Bokserien bygger på forfatterens egen oppvekst som nybyggerbarn.",
+      "sv": "Bokserien bygger på författarens egen uppväxt som nybyggarbarn."
+    },
+    "funFact": {
+      "nb": "Hun ble født Laura Elizabeth Ingalls. Boka kom i 1935, nesten fire tiår før TV-serien gjorde historien kjent for et nytt publikum.",
+      "sv": "Hon föddes som Laura Elizabeth Ingalls. Boken kom 1935, nästan fyra decennier innan TV-serien gjorde historien känd för en ny publik."
+    },
+    "source": "en.wikipedia.org – «Little House on the Prairie»"
+  },
+  {
+    "id": "hus-l-04",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Skuespillet fra 1879 handler om Nora, som i hemmelighet har lånt penger og forfalsket sin døende fars underskrift. Det ender med at hun forlater mann og tre barn, og med lyden av en dør som låses. Den engelske tittelen er «A Doll's House». Hvem skrev det?",
+      "sv": "Pjäsen från 1879 handlar om Nora, som i hemlighet har lånat pengar och förfalskat sin döende fars underskrift. Den slutar med att hon lämnar man och tre barn, och med ljudet av en dörr som låses. Den engelska titeln är «A Doll's House». Vem skrev den?"
+    },
+    "answer": "Henrik Ibsen",
+    "answerKind": "person",
+    "person": {
+      "given": "Henrik",
+      "family": "Ibsen"
+    },
+    "hint": {
+      "nb": "Stykket ble utgitt av Gyldendal i København, og ble hans internasjonale gjennombrudd.",
+      "sv": "Pjäsen gavs ut av Gyldendal i Köpenhamn och blev hans internationella genombrott."
+    },
+    "funFact": {
+      "nb": "Slutten sjokkerte samtiden i 1879 og utløste en bred debatt. Stykket har vært spilt et sted i verden hvert eneste år siden urpremieren.",
+      "sv": "Slutet chockerade samtiden 1879 och utlöste en bred debatt. Pjäsen har spelats någonstans i världen varje enda år sedan urpremiären."
+    },
+    "source": "Store norske leksikon – «Et dukkehjem»"
+  },
+  {
+    "id": "hus-l-05",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Virksomheten ble grunnlagt i 1689 som kongelig geværfabrikk i Småland, og er en av Sveriges eldste bedrifter. Den lagde våpen i over 250 år, blant annet maskinpistolen k-pist fra 1944, men selger i dag motorsager og gressklippere. Hva heter selskapet?",
+      "sv": "Verksamheten grundades 1689 som kunglig gevärsfabrik i Småland, och är ett av Sveriges äldsta företag. Den tillverkade vapen i över 250 år, bland annat kulsprutepistolen k-pist från 1944, men säljer i dag motorsågar och gräsklippare. Vad heter företaget?"
+    },
+    "answer": "Husqvarna",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet var eid av Electrolux fra 1977 til 2006, og har hovedkontor i Jönköping.",
+      "sv": "Företaget ägdes av Electrolux från 1977 till 2006 och har huvudkontor i Jönköping."
+    },
+    "funFact": {
+      "nb": "I 2013 hadde selskapet rundt 14 000 ansatte og en omsetning på omkring 54 milliarder svenske kroner. Sortimentet spenner fra jord- og snøfresere til mobile sagbruk.",
+      "sv": "År 2013 hade företaget omkring 14 000 anställda och en omsättning på omkring 54 miljarder svenska kronor. Sortimentet spänner från jord- och snöfräsar till mobila sågverk."
+    },
+    "source": "Store norske leksikon – «Husqvarna»"
+  },
+  {
+    "id": "hus-l-06",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Walter Gropius grunnla i 1919 en tysk skole for arkitektur, design og håndverk som kom til å forme funksjonalismen. Den holdt til i Weimar, så i Dessau fra 1926 og i Berlin fra 1932, før nazistene stengte den i 1933. Navnet betyr omtrent «husbygging». Hva het skolen?",
+      "sv": "Walter Gropius grundade 1919 en tysk skola för arkitektur, design och hantverk som kom att forma funktionalismen. Den låg i Weimar, sedan i Dessau från 1926 och i Berlin från 1932, innan nazisterna stängde den 1933. Namnet betyder ungefär «husbygge». Vad hette skolan?"
+    },
+    "answer": "Bauhaus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ludwig Mies van der Rohe ledet skolen i den siste perioden.",
+      "sv": "Ludwig Mies van der Rohe ledde skolan under den sista perioden."
+    },
+    "funFact": {
+      "nb": "Flere arkitekter som senere var virksomme i Norge studerte der, blant dem Ivo Pannaggi og Ola Mørk Sandvik. Undervisningsmetodene har preget designutdanning verden over.",
+      "sv": "Flera arkitekter som senare var verksamma i Norge studerade där, bland dem Ivo Pannaggi och Ola Mørk Sandvik. Undervisningsmetoderna har präglat designutbildning världen över."
+    },
+    "source": "Store norske leksikon – «Bauhaus»"
+  },
+  {
+    "id": "hus-l-07",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Sjangeren vokste fram tidlig på 1980-tallet rundt nattklubben the Warehouse, der Frankie Knuckles var husets DJ, og har navnet sitt derfra. Han blir kalt gudfaren til stilen. I hvilken by lå klubben?",
+      "sv": "Genren växte fram i början av 1980-talet kring nattklubben the Warehouse, där Frankie Knuckles var husets DJ, och har fått sitt namn därifrån. Han kallas genrens gudfader. I vilken stad låg klubben?"
+    },
+    "answer": "Chicago",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Klubben holdt til på sørsiden av byen og var i drift fra 1977 til 1982.",
+      "sv": "Klubben låg på södra sidan av staden och var i drift från 1977 till 1982."
+    },
+    "funFact": {
+      "nb": "Ron Hardy holdt til på etterfølgeren Music Box, og navn som Jesse Saunders, Marshall Jefferson og Phuture regnes som pionerer fra samme by. Rundt 1988 var sjangeren blitt allemannseie.",
+      "sv": "Ron Hardy höll till på efterföljaren Music Box, och namn som Jesse Saunders, Marshall Jefferson och Phuture räknas som pionjärer från samma stad. Omkring 1988 hade genren blivit var mans egendom."
+    },
+    "source": "en.wikipedia.org – «House music»"
+  },
+  {
+    "id": "hus-l-08",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fra omkring 1600 til tidlig på 1900-tallet leide de hustomt med eller uten jord av en gårdeier, ofte mot arbeidsplikt. I 1885 var det over 65 000 av dem i Norge, og jordloven av 1928 ga dem rett til å kjøpe plassen sin. Hva ble de kalt?",
+      "sv": "Från omkring 1600 till början av 1900-talet hyrde de hustomt med eller utan jord av en gårdsägare, ofta mot arbetsplikt. År 1885 fanns det över 65 000 av dem i Norge, och jordlagen av 1928 gav dem rätt att köpa sin plats. Vad kallades de på norska?"
+    },
+    "answer": "Husmann",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Noen hadde arbeidsplikt overfor gårdeieren, andre livnærte seg av fiske og håndverk ved siden av.",
+      "sv": "Somliga hade arbetsplikt gentemot gårdsägaren, andra livnärde sig på fiske och hantverk vid sidan av."
+    },
+    "funFact": {
+      "nb": "Tallet var 39 411 i 1801 og på topp omkring 1850. Så gikk det raskt nedover: 19 763 i 1910 og 6079 i 1929, etter hvert som industri, fiskeri og utvandring åpnet andre utveier.",
+      "sv": "Antalet var 39 411 år 1801 och som högst omkring 1850. Sedan gick det snabbt nedåt: 19 763 år 1910 och 6079 år 1929, i takt med att industri, fiske och utvandring öppnade andra utvägar."
+    },
+    "source": "Store norske leksikon – «husmann»"
+  },
+  {
+    "id": "hus-l-09",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Ragnar Östberg tegnet bygningen, som stod ferdig i 1923 på Kungsholmen i den svenske hovedstaden. Det er her Blå hallen ligger, salen der banketten holdes etter den årlige nobelprisutdelingen. Hva heter bygningen?",
+      "sv": "Ragnar Östberg ritade byggnaden, som stod färdig 1923 på Kungsholmen i den svenska huvudstaden. Det är här Blå hallen ligger, salen där banketten hålls efter den årliga nobelprisutdelningen. Vad heter byggnaden?"
+    },
+    "answer": {
+      "nb": "Stockholms stadshus",
+      "sv": "Stockholms stadshus"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er byens rådhus, og huser kommunestyret.",
+      "sv": "Det är stadens rådhus och rymmer kommunfullmäktige."
+    },
+    "funFact": {
+      "nb": "Bygningen stod ferdig i 1923, og banketten etter nobelprisutdelingen har gjort Blå hallen kjent langt utenfor Sverige.",
+      "sv": "Byggnaden stod färdig 1923, och banketten efter nobelprisutdelningen har gjort Blå hallen känd långt utanför Sverige."
+    },
+    "source": "en.wikipedia.org – «Stockholm City Hall»"
+  },
+  {
+    "id": "hus-l-10",
+    "category": "hus",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "I januar 1957 vant en dansk arkitekt en internasjonal konkurranse med det beste av 233 forslag fra 32 land. Han forlot prosjektet i 1966 etter strid om budsjett og kompromisser, og fikk aldri se operahuset i Sydney ferdig. Hvem var han?",
+      "sv": "I januari 1957 vann en dansk arkitekt en internationell tävling med det bästa av 233 förslag från 32 länder. Han lämnade projektet 1966 efter strid om budget och kompromisser, och fick aldrig se operahuset i Sydney färdigt. Vem var han?"
+    },
+    "answer": "Jørn Utzon",
+    "answerKind": "person",
+    "person": {
+      "given": "Jørn",
+      "family": "Utzon"
+    },
+    "hint": {
+      "nb": "Han levde fra 1918 til 2008, og fikk Pritzker-prisen i 2003.",
+      "sv": "Han levde 1918 till 2008 och fick Pritzkerpriset 2003."
+    },
+    "funFact": {
+      "nb": "Bygget skulle etter planen åpne i januar 1963, men stod ikke ferdig før i oktober 1973. I 2007 kom det på UNESCOs verdensarvliste.",
+      "sv": "Bygget skulle enligt planen öppna i januari 1963, men stod inte färdigt förrän i oktober 1973. År 2007 kom det på Unescos världsarvslista."
+    },
+    "source": "Store norske leksikon – «Sydney Opera House»"
+  }
+]
