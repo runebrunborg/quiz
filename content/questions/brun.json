@@ -1,0 +1,266 @@
+[
+  {
+    "id": "brun-l-01",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Hannene veier 100–300 kilo, hunnene 60–200, og kroppen har en tydelig pukkel over skuldrene. Om vinteren går den i hi fra oktober til april uten å sove dypt – kroppstemperaturen faller bare fire–fem grader. I 2025 ble 185 individer påvist i Norge ved DNA-analyse. Hvilket dyr?",
+      "sv": "Hanarna väger 100–300 kilo, honorna 60–200, och kroppen har en tydlig puckel över skuldrorna. Om vintern går den i ide från oktober till april utan att sova djupt – kroppstemperaturen faller bara fyra–fem grader. År 2025 påvisades 185 individer i Norge genom DNA-analys. Vilket djur?"
+    },
+    "answer": {
+      "nb": "Brunbjørn",
+      "sv": "Brunbjörn"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Pelsen varierer fra mørkebrun til nesten helt svart, og arten kan bli 2,5 meter lang.",
+      "sv": "Pälsen varierar från mörkbrun till nästan helt svart, och arten kan bli 2,5 meter lång."
+    },
+    "funFact": {
+      "nb": "Grizzly og kodiak i Nord-Amerika er underarter av samme art. På verdensbasis finnes rundt 110 000 voksne individer. Stortinget har bestemt at det skal fødes 13 ungekull i året i Norge.",
+      "sv": "Grizzly och kodiak i Nordamerika är underarter av samma art. I hela världen finns omkring 110 000 vuxna individer. Stortinget har bestämt att det ska födas 13 ungkullar per år i Norge."
+    },
+    "source": "Store norske leksikon – «brunbjørn»"
+  },
+  {
+    "id": "brun-l-02",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "På 1880-tallet holdt amerikanerne selskaper der maten skulle være brun, og på 1890-tallet ble de til rene dessertselskaper. Navnet fulgte med over på en tett sjokoladekake som skjæres i firkantede biter og har blank skorpe. Hva heter kaken?",
+      "sv": "På 1880-talet höll amerikanerna middagar där maten skulle vara brun, och på 1890-talet blev de rena dessertbjudningar. Namnet följde med över till en kompakt chokladkaka som skärs i fyrkantiga bitar och har blank skorpa. Vad heter kakan?"
+    },
+    "answer": "Brownie",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den eldste kjente oppskriften stod i en kokebok fra Chicago i 1899.",
+      "sv": "Det äldsta kända receptet stod i en kokbok från Chicago 1899."
+    },
+    "funFact": {
+      "nb": "Ifølge tradisjonen ba Bertha Palmer i 1893 om en dessert til damene på verdensutstillingen i Chicago – mindre enn et kakestykke og lett å spise fra en matboks. Palmer House Hotel serverer den fortsatt etter den opprinnelige oppskriften, med valnøtter og aprikosglasur.",
+      "sv": "Enligt traditionen bad Bertha Palmer 1893 om en dessert till damerna på världsutställningen i Chicago – mindre än en tårtbit och lätt att äta ur en matlåda. Palmer House Hotel serverar den fortfarande efter det ursprungliga receptet, med valnötter och aprikosglasyr."
+    },
+    "source": "en.wikipedia.org – «Chocolate brownie»"
+  },
+  {
+    "id": "brun-l-03",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Kulltypen ligger mellom torv og steinkull, og kalles lignitt internasjonalt. Den inneholder rundt femti prosent vann og har bare en tredjedel av brennverdien til steinkull. Kina, Tyskland og Russland utvinner mest. Hva kalles den?",
+      "sv": "Koltypen ligger mellan torv och stenkol och kallas lignit internationellt. Den innehåller omkring femtio procent vatten och har bara en tredjedel av stenkolets värmevärde. Kina, Tyskland och Ryssland utvinner mest. Vad kallas den?"
+    },
+    "answer": {
+      "nb": "Brunkull",
+      "sv": "Brunkol"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Etter tørking stiger brennverdien til omkring to tredjedeler av steinkullets.",
+      "sv": "Efter torkning stiger värmevärdet till omkring två tredjedelar av stenkolets."
+    },
+    "funFact": {
+      "nb": "Utslippene ligger på 980–1230 gram CO2 per kilowattime, høyere enn for steinkull. I 2017 stod Kina for 22 prosent av verdensproduksjonen, Tyskland for 20 og Russland for 9.",
+      "sv": "Utsläppen ligger på 980–1230 gram koldioxid per kilowattimme, högre än för stenkol. År 2017 stod Kina för 22 procent av världsproduktionen, Tyskland för 20 och Ryssland för 9."
+    },
+    "source": "Store norske leksikon – «brunkull»"
+  },
+  {
+    "id": "brun-l-04",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Fargestoffet gjør hud, hår og øyne brune, og dannes i celler som stammer fra nervelisten i fosterlivet. Det absorberer ultrafiolett lys og skjermer arvestoffet i hudcellene mot skader. Svikter produksjonen genetisk, kalles det albinisme. Hva heter stoffet?",
+      "sv": "Färgämnet gör hud, hår och ögon bruna, och bildas i celler som härstammar från neurallisten under fosterlivet. Det absorberar ultraviolett ljus och skyddar arvsmassan i hudcellerna mot skador. Sviktar produktionen genetiskt kallas det albinism. Vad heter ämnet?"
+    },
+    "answer": "Melanin",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hver av cellene som lager det, henger sammen med 30–40 hudceller i det som kalles en epidermal enhet.",
+      "sv": "Var och en av cellerna som bildar det hänger ihop med 30–40 hudceller i det som kallas en epidermal enhet."
+    },
+    "funFact": {
+      "nb": "Det er en gruppe svartbrune og røde pigmenter. Mengden og typen avgjør alt fra lys rødlig til nesten svart hud.",
+      "sv": "Det är en grupp svartbruna och röda pigment. Mängden och typen avgör allt från ljust rödaktig till nästan svart hud."
+    },
+    "source": "Store medisinske leksikon – «melanin»"
+  },
+  {
+    "id": "brun-l-05",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Han levde fra 1377 til 1446, og bygde mellom 1420 og 1436 den første store kuppelen siden antikken, over domkirken i Firenze. Han oppdaget også den perspektiviske konstruksjonen, og regnes som renessansens første arkitekt. Hvem var han?",
+      "sv": "Han levde 1377 till 1446 och byggde mellan 1420 och 1436 den första stora kupolen sedan antiken, över domkyrkan i Florens. Han upptäckte också den perspektiviska konstruktionen och räknas som renässansens förste arkitekt. Vem var han?"
+    },
+    "answer": "Filippo Brunelleschi",
+    "answerKind": "person",
+    "person": {
+      "given": "Filippo",
+      "family": "Brunelleschi"
+    },
+    "hint": {
+      "nb": "Han ble født og døde i samme by som kuppelen står i.",
+      "sv": "Han föddes och dog i samma stad som kupolen står i."
+    },
+    "funFact": {
+      "nb": "Han fant perspektivet omkring 1415–1420, noe som fikk stor betydning for malerkunsten. Sakristiet i San Lorenzo, påbegynt i 1421, viser sentralkirken med kuppel over gresk kors som han var først ute med.",
+      "sv": "Han fann perspektivet omkring 1415–1420, vilket fick stor betydelse för måleriet. Sakristian i San Lorenzo, påbörjad 1421, visar centralkyrkan med kupol över grekiskt kors som han var först med."
+    },
+    "source": "Store norske leksikon – «Filippo Brunelleschi»"
+  },
+  {
+    "id": "brun-l-06",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Når brød får skorpe, kaffebønner ristes, løk stekes eller kjøtt grilles ved 140–160 grader, reagerer sukker med aminosyrer. Det gir både den brune fargen og mye av lukten og smaken. Hva heter reaksjonene, oppkalt etter en fransk kjemiker?",
+      "sv": "När bröd får skorpa, kaffebönor rostas, lök steks eller kött grillas vid 140–160 grader reagerar socker med aminosyror. Det ger både den bruna färgen och mycket av doften och smaken. Vad heter reaktionerna, uppkallade efter en fransk kemist?"
+    },
+    "answer": {
+      "nb": "Maillard-reaksjonene",
+      "sv": "Maillardreaktionerna"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kjemikeren levde fra 1878 til 1936 og studerte dem i 1912.",
+      "sv": "Kemisten levde 1878 till 1936 och studerade dem 1912."
+    },
+    "funFact": {
+      "nb": "Å pensle bakverk med egg eller melk gir mer av de brune produktene, fordi disse væskene inneholder proteiner som er med i reaksjonen. Tørking av malt til ølbrygging bygger på det samme.",
+      "sv": "Att pensla bakverk med ägg eller mjölk ger mer av de bruna produkterna, eftersom dessa vätskor innehåller proteiner som deltar i reaktionen. Torkning av malt till ölbryggning bygger på detsamma."
+    },
+    "source": "Store norske leksikon – «Maillard-reaksjoner»"
+  },
+  {
+    "id": "brun-l-07",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Hun ble Norges første kvinnelige statsminister 4. februar 1981, 42 år gammel, og ledet i alt tre regjeringer. I 1986 vakte hun internasjonal oppsikt med en regjering der åtte av atten statsråder var kvinner. Hvem er hun?",
+      "sv": "Hon blev Norges första kvinnliga statsminister den 4 februari 1981, 42 år gammal, och ledde sammanlagt tre regeringar. År 1986 väckte hon internationell uppmärksamhet med en regering där åtta av arton statsråd var kvinnor. Vem är hon?"
+    },
+    "answer": "Gro Harlem Brundtland",
+    "answerKind": "person",
+    "person": {
+      "given": "Gro Harlem",
+      "family": "Brundtland"
+    },
+    "hint": {
+      "nb": "Hun ledet Verdenskommisjonen for miljø og utvikling, som i 1987 la fram rapporten «Vår felles framtid» om bærekraftig utvikling.",
+      "sv": "Hon ledde Världskommissionen för miljö och utveckling, som 1987 lade fram rapporten «Vår gemensamma framtid» om hållbar utveckling."
+    },
+    "funFact": {
+      "nb": "Hun var generaldirektør i Verdens helseorganisasjon fra 1998 til 2003, og er lege av utdanning. Regjeringen fra 1986 innførte prinsippet om minst 40 prosent av hvert kjønn.",
+      "sv": "Hon var generaldirektör i Världshälsoorganisationen från 1998 till 2003 och är läkare till utbildningen. Regeringen från 1986 införde principen om minst 40 procent av vardera könet."
+    },
+    "source": "Store norske leksikon – «Gro Harlem Brundtland»"
+  },
+  {
+    "id": "brun-l-08",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Mysen kokes til nitti prosent av vannet er borte, og melkesukkeret karamelliserer de siste femten minuttene ved høy varme. Det gir den søte smaken og den rødbrune fargen. Budeia Anne Hov i Gudbrandsdalen laget en fetere variant på 1860-tallet. Hva kalles denne norske osten?",
+      "sv": "Vasslan kokas tills nittio procent av vattnet är borta, och mjölksockret karamelliseras under de sista femton minuterna vid hög värme. Det ger den söta smaken och den rödbruna färgen. Budeian Anne Hov i Gudbrandsdalen gjorde en fetare variant på 1860-talet. Vad kallas denna norska ost?"
+    },
+    "answer": "Brunost",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Melk og fløte tilsettes for å styre fettinnholdet, og produktet går også under samlebetegnelsen mysost.",
+      "sv": "Mjölk och grädde tillsätts för att styra fetthalten, och produkten går också under samlingsnamnet mesost."
+    },
+    "funFact": {
+      "nb": "Anne Hov het opprinnelig Anne Solbrå og ble født i 1846. I 1908 begynte Tretten meieri å produsere etter en beslektet oppskrift, som ble grunnlaget for dagens gudbrandsdalsost. Liknende produkter er nevnt i kilder helt tilbake til 1400-tallet.",
+      "sv": "Anne Hov hette ursprungligen Anne Solbrå och föddes 1846. År 1908 började Tretten mejeri producera efter ett besläktat recept, som blev grunden för dagens gudbrandsdalsost. Liknande produkter nämns i källor ända tillbaka till 1400-talet."
+    },
+    "source": "Store norske leksikon – «brunost»"
+  },
+  {
+    "id": "brun-l-09",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "10. oktober 1471 møttes to hærer på åsryggen Brunkeberg, i det som i dag er Norrmalm i Stockholm. Den svenske riksforstanderen slo kong Christian 1, som forsøkte å vinne tilbake den svenske tronen, og Sverige beholdt selvstendigheten. Hvem ledet den svenske siden?",
+      "sv": "Den 10 oktober 1471 möttes två härar på åsryggen Brunkeberg, i det som i dag är Norrmalm i Stockholm. Den svenske riksföreståndaren slog kung Kristian 1, som försökte vinna tillbaka den svenska tronen, och Sverige behöll självständigheten. Vem ledde den svenska sidan?"
+    },
+    "answer": {
+      "nb": "Sten Sture den eldre",
+      "sv": "Sten Sture den äldre"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han levde fra omkring 1440 til 1503, og var sønn av en halvsøster til kong Karl Knutsson Bonde.",
+      "sv": "Han levde från omkring 1440 till 1503 och var son till en halvsyster till kung Karl Knutsson Bonde."
+    },
+    "funFact": {
+      "nb": "Åsryggen hadde militær betydning fordi den som holdt den, kontrollerte adkomsten til byen fra nord. Han mistet stillingen i 1497, men fikk den tilbake i 1501.",
+      "sv": "Åsryggen hade militär betydelse eftersom den som höll den kontrollerade tillfarten till staden norrifrån. Han förlorade posten 1497 men fick tillbaka den 1501."
+    },
+    "source": "Store norske leksikon – «Brunkeberg – sted i Sverige» og «Sten Gustafsson Sture»"
+  },
+  {
+    "id": "brun-l-10",
+    "category": "brun",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Den svenske maleren levde fra 1860 til 1939, var ivrig jeger og malte dyr i skandinavisk skog- og kystnatur. De tidlige bildene var kjølige og grå, mens de senere gikk over i varme, samlende brune toner. Hvem var han?",
+      "sv": "Den svenske målaren levde 1860 till 1939, var ivrig jägare och målade djur i skandinavisk skogs- och kustnatur. De tidiga bilderna var svala och grå, medan de senare gick över i varma, samlande bruna toner. Vem var han?"
+    },
+    "answer": "Bruno Liljefors",
+    "answerKind": "person",
+    "person": {
+      "given": "Bruno",
+      "family": "Liljefors"
+    },
+    "hint": {
+      "nb": "Han ble født i Uppsala og døde i Stockholm, og hentet inspirasjon til komposisjonene fra japansk kunst.",
+      "sv": "Han föddes i Uppsala och dog i Stockholm, och hämtade inspiration till kompositionerna från japansk konst."
+    },
+    "funFact": {
+      "nb": "Blant hovedverkene er «Revefamilie» fra 1886 og «Havørner» fra 1897. Nasjonalmuseet i Oslo har «Lommer» fra 1901.",
+      "sv": "Bland huvudverken finns «Rävfamilj» från 1886 och «Havsörnar» från 1897. Nationalmuseet i Oslo har «Lommar» från 1901."
+    },
+    "source": "Store norske leksikon – «Bruno Liljefors»"
+  }
+]
