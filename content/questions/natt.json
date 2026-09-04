@@ -1,0 +1,272 @@
+[
+  {
+    "id": "natt-l-01",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "De fleste artene i denne fuglegruppen jakter om natten. Fjærene er lodne på oversiden, så vingeslagene ikke lager lyd; ørene sitter asymmetrisk, slik at byttet kan stedfestes eksakt under snøen; og øynene sitter fast i kraniet, men hodet kan dreies mer enn 180 grader hver vei. Hvilken gruppe?",
+      "sv": "De flesta arterna i denna fågelgrupp jagar om natten. Fjädrarna är luddiga på ovansidan, så att vingslagen inte låter; öronen sitter asymmetriskt, så att bytet kan lokaliseras exakt under snön; och ögonen sitter fast i kraniet, men huvudet kan vridas mer än 180 grader åt vardera hållet. Vilken grupp?"
+    },
+    "answer": {
+      "nb": "Ugler",
+      "sv": "Ugglor"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øyet deres kan være hundre ganger så følsomt for lys som menneskeøyet.",
+      "sv": "Deras öga kan vara hundra gånger så ljuskänsligt som människoögat."
+    },
+    "funFact": {
+      "nb": "Lappugla kan på lang avstand beregne eksakt hvor smågnagere befinner seg under snøen, bare ved hjelp av hørselen.",
+      "sv": "Lappugglan kan på långt håll beräkna exakt var smågnagare befinner sig under snön, bara med hjälp av hörseln."
+    },
+    "source": "Store norske leksikon – «ugler»"
+  },
+  {
+    "id": "natt-l-02",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Ifølge Det nye testamentet innstiftet Jesus dette måltidet kvelden før han ble korsfestet: han ba disiplene spise brød og drikke vin, og kalte det sin kropp og sitt blod. Andre kirkesamfunn kaller det eukaristi eller kommunion. Hva kalles måltidet i de nordiske folkekirkene?",
+      "sv": "Enligt Nya testamentet instiftade Jesus denna måltid kvällen före sin korsfästelse: han bad lärjungarna äta bröd och dricka vin, och kallade det sin kropp och sitt blod. Andra samfund kallar det eukaristi eller kommunion. Vad kallas måltiden i de nordiska folkkyrkorna?"
+    },
+    "answer": {
+      "nb": "Nattverden",
+      "sv": "Nattvarden"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Måltidet består av en tynn oblat og vin.",
+      "sv": "Måltiden består av en tunn oblat och vin."
+    },
+    "funFact": {
+      "nb": "Måltidet går også under navn som brødsbrytelse og Herrens måltid, og den vestlige kirkens gudstjeneste med dette måltidet kalles messe.",
+      "sv": "Måltiden går också under namn som brödsbrytelse och Herrens måltid, och den västliga kyrkans gudstjänst med denna måltid kallas mässa."
+    },
+    "source": "Store norske leksikon – «nattverd»"
+  },
+  {
+    "id": "natt-l-03",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "I dette syngespillet fra 1791, med libretto av Emanuel Schikaneder, synger en hevngjerrig dronning arien «Der Hölle Rache» – en av operahistoriens mest kjente, med tonehøyder som krever alt av sangeren. Hun kalles Nattens dronning. Hvem komponerte verket?",
+      "sv": "I detta sångspel från 1791, med libretto av Emanuel Schikaneder, sjunger en hämndlysten drottning arien «Der Hölle Rache» – en av operahistoriens mest kända, med tonhöjder som kräver allt av sångerskan. Hon kallas Nattens drottning. Vem komponerade verket?"
+    },
+    "answer": "Wolfgang Amadeus Mozart",
+    "answerKind": "person",
+    "person": {
+      "given": "Wolfgang Amadeus",
+      "family": "Mozart"
+    },
+    "hint": {
+      "nb": "Urpremieren var 30. september 1791 på forstadsteateret Theater auf der Wieden i Wien, og dette ble hans siste opera.",
+      "sv": "Urpremiären var den 30 september 1791 på förstadsteatern Theater auf der Wieden i Wien, och detta blev hans sista opera."
+    },
+    "funFact": {
+      "nb": "Verket regnes som det desiderte høydepunktet i den wienerske syngespilltradisjonen, og er blant de mest spilte operaene i verden.",
+      "sv": "Verket räknas som den absoluta höjdpunkten i den wienska sångspelstraditionen, och är bland de mest spelade operorna i världen."
+    },
+    "source": "Store norske leksikon – «Tryllefløyten»"
+  },
+  {
+    "id": "natt-l-04",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Bildet fra 1642, kjent som «Nattevakten», viser et borgerlig skyttergilde under kaptein Frans Banninck Cocq og henger i Rijksmuseum i Amsterdam. I 2019 begynte museet å restaurere det i et glassbur midt i salen, direktesendt for publikum. Hvem malte det?",
+      "sv": "Målningen från 1642, känd som «Nattvakten», visar ett borgerligt skyttegille under kapten Frans Banninck Cocq och hänger på Rijksmuseum i Amsterdam. År 2019 började museet restaurera den i en glasbur mitt i salen, direktsänt för publiken. Vem målade den?"
+    },
+    "answer": "Rembrandt van Rijn",
+    "answerKind": "person",
+    "person": {
+      "given": "Rembrandt",
+      "family": "van Rijn"
+    },
+    "hint": {
+      "nb": "Bildet ble i 1715 beskåret på alle fire sider for å passe mellom to søyler i Amsterdams rådhus.",
+      "sv": "Målningen beskars 1715 på alla fyra sidor för att passa mellan två pelare i Amsterdams rådhus."
+    },
+    "funFact": {
+      "nb": "I 2021 viste museet bildet med de bortskårne partiene rekonstruert av et nevralt nettverk, bygget på en kopi fra 1600-tallet. Rekonstruksjonene ble bare vist midlertidig, for at ingen skulle tro de så originalen.",
+      "sv": "År 2021 visade museet målningen med de bortskurna partierna rekonstruerade av ett neuralt nätverk, byggt på en kopia från 1600-talet. Rekonstruktionerna visades bara tillfälligt, för att ingen skulle tro att de såg originalet."
+    },
+    "source": "en.wikipedia.org – «The Night Watch»; Rijksmuseum – «Operation Night Watch»"
+  },
+  {
+    "id": "natt-l-05",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Nord for 67 grader nord blir natten sammenhengende midt på vinteren – solsenteret kommer ikke over horisonten i det hele tatt. I denne nordnorske byen, på 69 grader og 42 minutter nord, varer perioden fra 26. november til 17. januar. Hvilken by?",
+      "sv": "Norr om 67 grader nord blir natten sammanhängande mitt i vintern – solens centrum kommer inte över horisonten alls. I denna nordnorska stad, på 69 grader och 42 minuter nord, varar perioden från den 26 november till den 17 januari. Vilken stad?"
+    },
+    "answer": "Tromsø",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Lenger sør, i Bodø, varer den samme perioden bare fra 15. til 29. desember.",
+      "sv": "Längre söderut, i Bodø, varar samma period bara från den 15 till den 29 december."
+    },
+    "funFact": {
+      "nb": "Grensen ved vintersolverv ligger på 67 grader og 8 minutter nord, ikke ved polarsirkelen på 66 grader og 33 minutter, fordi lyset brytes i atmosfæren. I Longyearbyen varer perioden fra 26. oktober til 16. februar.",
+      "sv": "Gränsen vid vintersolståndet ligger på 67 grader och 8 minuter nord, inte vid polcirkeln på 66 grader och 33 minuter, eftersom ljuset bryts i atmosfären. I Longyearbyen varar perioden från den 26 oktober till den 16 februari."
+    },
+    "source": "Store norske leksikon – «mørketid»"
+  },
+  {
+    "id": "natt-l-06",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Julaften 1818 hadde salmen «Stille Nacht» urframføring i landsbykirken i Oberndorf, med tekst av presten Joseph Mohr og melodi av læreren Franz Xaver Gruber. Orgelet var trolig skadet av flom, så salmen ble akkompagnert på gitar. I hvilket land ligger landsbyen?",
+      "sv": "Julafton 1818 uruppfördes psalmen «Stille Nacht» i bykyrkan i Oberndorf, med text av prästen Joseph Mohr och melodi av läraren Franz Xaver Gruber. Orgeln var troligen skadad av översvämning, så psalmen ackompanjerades på gitarr. I vilket land ligger byn?"
+    },
+    "answer": {
+      "nb": "Østerrike",
+      "sv": "Österrike"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landsbyen ligger like ved Salzburg.",
+      "sv": "Byn ligger alldeles intill Salzburg."
+    },
+    "funFact": {
+      "nb": "Mohr hadde skrevet teksten allerede i 1816. Gruber var lærer og organist i nabolandsbyen Arnsdorf, og satte melodi til den samme kvelden den skulle framføres.",
+      "sv": "Mohr hade skrivit texten redan 1816. Gruber var lärare och organist i grannbyn Arnsdorf, och tonsatte den samma kväll som den skulle framföras."
+    },
+    "source": "en.wikipedia.org – «Silent Night»"
+  },
+  {
+    "id": "natt-l-07",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Natt til 24. juni brenner det bål rundt om i landet, og dansen kunne før vare langt på natt. Dagen er en katolsk festdag til minne om fødselsdagen til en jødisk profet fra Jesu tid – den eneste helgenen som feires på fødselsdagen sin. Hvem er dagen oppkalt etter?",
+      "sv": "Natten till den 24 juni brinner brasor runt om i landet, och dansen kunde förr vara långt in på natten. Dagen är en katolsk festdag till minne av födelsedagen för en judisk profet från Jesu tid – det enda helgon som firas på sin födelsedag. Vem är dagen uppkallad efter?"
+    },
+    "answer": {
+      "nb": "Johannes døperen",
+      "sv": "Johannes döparen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han ble født omtrent et halvt år før Jesus, og det er derfor dagen faller midt på sommeren.",
+      "sv": "Han föddes ungefär ett halvår före Jesus, och det är därför dagen infaller mitt i sommaren."
+    },
+    "funFact": {
+      "nb": "Ifølge kirkefedrene ble han fri fra arvesynden allerede før fødselen, og derfor feires han på fødselsdagen og ikke på dødsdagen slik andre helgener gjør. Kvelden før, 23. juni, kalles i Norge sankthansaften.",
+      "sv": "Enligt kyrkofäderna befriades han från arvssynden redan före födelsen, och därför firas han på födelsedagen och inte på dödsdagen som andra helgon. Kvällen före, den 23 juni, kallas i Norge sankthansaften."
+    },
+    "source": "Store norske leksikon – «sankthans»"
+  },
+  {
+    "id": "natt-l-08",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Komedien «Sommarnattens leende» fra 1955 ble hans internasjonale gjennombrudd, og fikk juryens spesialpris i Cannes året etter. Senere fulgte «Det sjunde inseglet» i 1956, «Persona» i 1966 og «Fanny och Alexander» i 1982. Hvem regisserte dem?",
+      "sv": "Komedin «Sommarnattens leende» från 1955 blev hans internationella genombrott, och fick juryns specialpris i Cannes året därpå. Senare följde «Det sjunde inseglet» 1956, «Persona» 1966 och «Fanny och Alexander» 1982. Vem regisserade dem?"
+    },
+    "answer": "Ingmar Bergman",
+    "answerKind": "person",
+    "person": {
+      "given": "Ingmar",
+      "family": "Bergman"
+    },
+    "hint": {
+      "nb": "Han ble født i Uppsala i 1918 og døde på Fårö i 2007.",
+      "sv": "Han föddes i Uppsala 1918 och dog på Fårö 2007."
+    },
+    "funFact": {
+      "nb": "«Fanny och Alexander» vant fem Oscar-statuetter. Han var Sveriges ledende teater- og filmregissør i etterkrigstiden.",
+      "sv": "«Fanny och Alexander» vann fem Oscarsstatyetter. Han var Sveriges ledande teater- och filmregissör under efterkrigstiden."
+    },
+    "source": "Store norske leksikon – «Ingmar Bergman»"
+  },
+  {
+    "id": "natt-l-09",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Natten før 1. mai brenner det bål over hele Sverige og Finland, og på tysk heter natten Walpurgisnacht. Den har navn etter en angelsaksisk misjonær som ble abbedisse i Heidenheim i Schwaben, og hvis levninger ble flyttet til Eichstätt nettopp 1. mai. Hva het hun?",
+      "sv": "Natten före den 1 maj brinner brasor över hela Sverige och Finland, och på tyska heter natten Walpurgisnacht. Den har namn efter en angelsaxisk missionär som blev abbedissa i Heidenheim i Schwaben, och vars kvarlevor flyttades till Eichstätt just den 1 maj. Vad hette hon?"
+    },
+    "answer": "Valborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hun ble født omkring år 710 og var kongsdatter før hun dro som misjonær til Tyskland.",
+      "sv": "Hon föddes omkring år 710 och var kungadotter innan hon reste som missionär till Tyskland."
+    },
+    "funFact": {
+      "nb": "Dødsdagen hennes, 25. februar, er den offisielle minnedagen. Vårfeiringen henger sammen med eldre skikker knyttet til fruktbarhet og grøde, og hun ble dyrket som en som fremmet åkerens vekst.",
+      "sv": "Hennes dödsdag, den 25 februari, är den officiella minnesdagen. Vårfirandet hänger samman med äldre seder kring fruktbarhet och gröda, och hon dyrkades som en som främjade åkerns växt."
+    },
+    "source": "Store norske leksikon – «Valborg – helgen»"
+  },
+  {
+    "id": "natt-l-10",
+    "category": "natt",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Under Krimkrigen ledet hun 38 sykepleiere til lasarettet i Scutari, og dokumenterte at flere soldater døde av smittsomme sykdommer enn av sår. Om natten gikk hun runder mellom sengene med en parafinlampe, og fikk tilnavnet «damen med lampen». Hvem var hun?",
+      "sv": "Under Krimkriget ledde hon 38 sjuksköterskor till lasarettet i Scutari, och dokumenterade att fler soldater dog av smittsamma sjukdomar än av sår. Om natten gick hon ronder mellan sängarna med en fotogenlampa, och fick tillnamnet «damen med lampan». Vem var hon?"
+    },
+    "answer": "Florence Nightingale",
+    "answerKind": "person",
+    "person": {
+      "given": "Florence",
+      "family": "Nightingale"
+    },
+    "hint": {
+      "nb": "Hun grunnla i 1860 verdens første verdslige, kunnskapsbaserte sykepleierutdanning ved St Thomas' Hospital i London.",
+      "sv": "Hon grundade 1860 världens första sekulära, kunskapsbaserade sjuksköterskeutbildningen vid St Thomas' Hospital i London."
+    },
+    "funFact": {
+      "nb": "Etternavnet hennes er det engelske ordet for nattergal. Hun var også statistiker: hun utviklet et eget sirkeldiagram for å vise dødsårsakene i krigen, og ble i 1858 det første kvinnelige medlemmet av Royal Statistical Society.",
+      "sv": "Hennes efternamn är det engelska ordet för näktergal. Hon var också statistiker: hon utvecklade ett eget cirkeldiagram för att visa dödsorsakerna i kriget, och blev 1858 den första kvinnliga medlemmen i Royal Statistical Society."
+    },
+    "source": "Store norske leksikon – «Florence Nightingale»"
+  }
+]
