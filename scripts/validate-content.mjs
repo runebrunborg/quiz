@@ -57,6 +57,16 @@ const ANCHORS = {
   storm: ['storm', 'stormen', 'oväder', 'ovädret', 'uvær', 'uværet', 'tempest'],
   salt: ['salt', 'saltet', 'saltets', 'sal', 'sel', 'salz'],
   hjerte: ['hjerte', 'hjertet', 'hjärta', 'hjärtat', 'heart', 'the heart', 'herz', 'coeur', 'cœur', 'cor'],
+  linn: ['linn', 'lin', 'linet', 'linné', 'linnaeus'],
+  brun: ['brun', 'brunt', 'brune', 'bruna', 'brown', 'braun'],
+  borg: ['borg', 'borgen', 'burg', 'castle'],
+  fot: ['fot', 'foten', 'føtter', 'fötter', 'foot', 'feet', 'fuss', 'pied'],
+  ball: ['ball', 'ballen', 'boll', 'bollen', 'bal', 'balen', 'balle'],
+  stein: ['stein', 'steinen', 'sten', 'stenen', 'stone', 'fels'],
+  ring: ['ring', 'ringen', 'ringene', 'ringar', 'ringarna', 'rings'],
+  sol: ['sol', 'sola', 'solen', 'sun', 'the sun', 'sole', 'soleil', 'sonne'],
+  natt: ['natt', 'natten', 'natta', 'night', 'the night', 'nacht', 'nuit'],
+  hus: ['hus', 'huset', 'house', 'the house', 'haus', 'maison'],
 }
 
 /**
