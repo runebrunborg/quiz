@@ -260,5 +260,261 @@
       "sv": "Reaktor 3 och 4 väntas vara i drift till 2041 respektive 2043."
     },
     "source": "Store norske leksikon – «Ringhals»"
+  },
+  {
+    "id": "ring-m-01",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Kvartetten ble dannet i Stockholm i 1970 og ga ut debutalbumet «Ring Ring» i 1973. Samme år kom de på tredjeplass i Melodifestivalen med en sang som likevel ble en stor hit i Norge og Sverige. Året etter vant de Eurovision med «Waterloo». Hvilken gruppe?",
+      "sv": "Kvartetten bildades i Stockholm 1970 och gav ut debutalbumet «Ring Ring» 1973. Samma år kom de på tredje plats i Melodifestivalen med en låt som ändå blev en stor hit i Norge och Sverige. Året därpå vann de Eurovision med «Waterloo». Vilken grupp?"
+    },
+    "answer": "ABBA",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Medlemmene er Agnetha Fältskog, Björn Ulvaeus, Benny Andersson og Anni-Frid Lyngstad.",
+      "sv": "Medlemmarna är Agnetha Fältskog, Björn Ulvaeus, Benny Andersson och Anni-Frid Lyngstad."
+    },
+    "funFact": {
+      "nb": "Anni-Frid Lyngstad ble født i Norge i 1945. Debutalbumet solgte godt i både Norge og Sverige før det internasjonale gjennombruddet kom i 1974.",
+      "sv": "Anni-Frid Lyngstad föddes i Norge 1945. Debutalbumet sålde bra i både Norge och Sverige innan det internationella genombrottet kom 1974."
+    },
+    "source": "Store norske leksikon – «ABBA»"
+  },
+  {
+    "id": "ring-m-02",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "William Herschel fant planeten i 1781, den første som ble oppdaget med teleskop. Rotasjonsaksen heller 97,8 grader, så den ruller nærmest sidelengs rundt sola. Ni av de tretten ringene ble oppdaget i 1977, da de skjulte en stjerne. Hvilken planet?",
+      "sv": "William Herschel fann planeten 1781, den första som upptäcktes med teleskop. Rotationsaxeln lutar 97,8 grader, så den rullar närmast sidledes runt solen. Nio av de tretton ringarna upptäcktes 1977, då de dolde en stjärna. Vilken planet?"
+    },
+    "answer": "Uranus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er den sjuende planeten fra sola og den tredje største i solsystemet, blågrønn av metan i atmosfæren.",
+      "sv": "Den är den sjunde planeten från solen och den tredje största i solsystemet, blågrön av metan i atmosfären."
+    },
+    "funFact": {
+      "nb": "Herschel kalte den først Georgium Sidus etter kong Georg 3. Johann Elert Bode foreslo navnet som ble stående. To ringer ble funnet av Voyager 2 og to til av Hubble i 2003.",
+      "sv": "Herschel kallade den först Georgium Sidus efter kung Georg III. Johann Elert Bode föreslog namnet som blev bestående. Två ringar hittades av Voyager 2 och ytterligare två av Hubble 2003."
+    },
+    "source": "Store norske leksikon – «Uranus – planet»"
+  },
+  {
+    "id": "ring-m-03",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Ringselen er den minste selen i nord og den vanligste selarten på den nordlige halvkule, helt avhengig av drivis. Den er det viktigste byttedyret til ett bestemt rovdyr, som lokaliserer snøhulene der selungene fødes og bryter dem opp. Hvilket rovdyr?",
+      "sv": "Ringsälen är den minsta sälen i norr och den vanligaste sälarten på norra halvklotet, helt beroende av drivis. Den är det viktigaste bytesdjuret för ett bestämt rovdjur, som lokaliserar snöhålorna där sälungarna föds och bryter upp dem. Vilket rovdjur?"
+    },
+    "answer": {
+      "nb": "Isbjørn",
+      "sv": "Isbjörn"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selarten kalles også snadd, og blir sjelden mer enn 1,6 meter lang.",
+      "sv": "Sälarten kallas också snadd och blir sällan mer än 1,6 meter lång."
+    },
+    "funFact": {
+      "nb": "Selen har lyse ringer rundt mørkere flekker på ryggen – derfra navnet – og de er særlig tydelige hos eldre dyr. Den finnes på Svalbard, Grønland, i Russland og Nord-Amerika.",
+      "sv": "Sälen har ljusa ringar runt mörkare fläckar på ryggen – därav namnet – och de är särskilt tydliga hos äldre djur. Den finns på Svalbard, Grönland, i Ryssland och Nordamerika."
+    },
+    "source": "Store norske leksikon – «ringsel»"
+  },
+  {
+    "id": "ring-m-04",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Rustningen ble laget av jerntråd som ble tvinnet rundt en stang, klippet opp og hektet sammen – 25 000 til 50 000 ledd i hvert plagg, og et halvt års arbeid. Funnet fra Gjermundbu veier 5,5 kilo. Hva kalles dette plagget?",
+      "sv": "Rustningen gjordes av järntråd som lindades runt en stång, klipptes upp och hakades ihop – 25 000 till 50 000 länkar i varje plagg, och ett halvårs arbete. Fyndet från Gjermundbu väger 5,5 kilo. Vad kallas detta plagg?"
+    },
+    "answer": {
+      "nb": "Ringbrynje",
+      "sv": "Ringbrynja"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Et helt plagg veide 8–15 kilo og beskyttet mot hugg og stikk.",
+      "sv": "Ett helt plagg vägde 8–15 kilo och skyddade mot hugg och stick."
+    },
+    "funFact": {
+      "nb": "De eldste funnene er fra keltiske graver rundt 300 før vår tidsregning. Under Karl den store var ett slikt plagg verdt tolv kyr – dobbelt så mye som en hjelm. Det forsvant fra europeiske slagmarker på 1700-tallet.",
+      "sv": "De äldsta fynden är från keltiska gravar omkring 300 före vår tideräkning. Under Karl den store var ett sådant plagg värt tolv kor – dubbelt så mycket som en hjälm. Det försvann från europeiska slagfält på 1700-talet."
+    },
+    "source": "Store norske leksikon – «ringbrynje»"
+  },
+  {
+    "id": "ring-m-05",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Sondene Spirit og Opportunity lander på Mars. EU utvides med ti nye medlemsland. Cassini går i bane rundt Saturn og ringene der. Sommer-OL arrangeres i Athen. Hellas vinner EM i fotball. Google børsnoteres. Mozilla slipper nettleseren Firefox. Södra länken åpner i Stockholm. Hvilket år?",
+      "sv": "Sonderna Spirit och Opportunity landar på Mars. EU utvidgas med tio nya medlemsländer. Cassini går i bana runt Saturnus och dess ringar. Sommar-OS hålls i Aten. Grekland vinner EM i fotboll. Google börsnoteras. Mozilla släpper webbläsaren Firefox. Södra länken öppnar i Stockholm. Vilket år?"
+    },
+    "answer": "2004",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Alt dette skjedde i første halvdel av 2000-tallet.",
+      "sv": "Allt detta hände under första halvan av 2000-talet."
+    },
+    "funFact": {
+      "nb": "Spirit landet 4. januar og Opportunity 25. januar. Utvidelsen av EU kom i mai, Cassini nådde Saturn i juli, og børsnoteringen av Google var i august.",
+      "sv": "Spirit landade den 4 januari och Opportunity den 25 januari. EU-utvidgningen kom i maj, Cassini nådde Saturnus i juli, och Googles börsnotering var i augusti."
+    },
+    "source": "en.wikipedia.org – «2004»"
+  },
+  {
+    "id": "ring-m-06",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "«Nibelungens ring» bygger på den tyske Nibelungen-sagaen og består av fire operaer: «Rhingullet», «Valkyrien», «Siegfried» og «Ragnarokk». Librettoen ble skrevet i 1848–52 og musikken fra 1853 til 1874. Hele syklusen ble framført første gang i Bayreuth i mars 1876. Hvem skrev både tekst og musikk?",
+      "sv": "«Nibelungens ring» bygger på den tyska Nibelungensagan och består av fyra operor: «Rhenguldet», «Valkyrian», «Siegfried» och «Ragnarök». Librettot skrevs 1848–52 och musiken från 1853 till 1874. Hela cykeln framfördes första gången i Bayreuth i mars 1876. Vem skrev både text och musik?"
+    },
+    "answer": "Richard Wagner",
+    "answerKind": "person",
+    "person": {
+      "given": "Richard",
+      "family": "Wagner"
+    },
+    "hint": {
+      "nb": "Verket ble først framført på Den Norske Opera i årene 1993–1996.",
+      "sv": "Verket framfördes först på Den Norske Opera åren 1993–1996."
+    },
+    "funFact": {
+      "nb": "Det gikk 26 år fra librettoen ble påbegynt til musikken var ferdig, med et langt opphold underveis.",
+      "sv": "Det gick 26 år från att librettot påbörjades till musiken var färdig, med ett långt uppehåll under vägen."
+    },
+    "source": "Store norske leksikon – «Nibelungens ring»"
+  },
+  {
+    "id": "ring-m-07",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Gode somrer gir brede årringer, dårlige gir smale. Ved å måle mange trær i et område bygger forskere en standardkurve, og en ukjent trebit kan så dateres mot den – i beste fall på et halvt år nær. Hva heter metoden?",
+      "sv": "Goda somrar ger breda årsringar, dåliga ger smala. Genom att mäta många träd i ett område bygger forskare en standardkurva, och en okänd träbit kan sedan dateras mot den – i bästa fall på ett halvår när. Vad heter metoden?"
+    },
+    "answer": "Dendrokronologi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er satt sammen av de greske ordene for tre, tid og lære.",
+      "sv": "Ordet är sammansatt av de grekiska orden för träd, tid och lära."
+    },
+    "funFact": {
+      "nb": "Metoden har revolusjonert arkeologiens mulighet for absolutt datering, og brukes på middelalderbygninger og vikingskipsgraver. Arbeidet startet i Norge på 1930-tallet, og referansekurvene går tilbake til 500-tallet for furu i Trøndelag.",
+      "sv": "Metoden har revolutionerat arkeologins möjlighet till absolut datering och används på medeltidsbyggnader och vikingaskeppsgravar. Arbetet startade i Norge på 1930-talet, och referenskurvorna går tillbaka till 500-talet för tall i Trøndelag."
+    },
+    "source": "Store norske leksikon – «dendrokronologi»"
+  },
+  {
+    "id": "ring-m-08",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Molekylet danner en regelmessig sekskant med et karbonatom i hvert hjørne og ett hydrogenatom på hvert av dem. Bindingene mellom karbonatomene er verken enkle eller doble, men noe midt imellom. Væsken lukter aromatisk og er kreftframkallende. Hva heter stoffet?",
+      "sv": "Molekylen bildar en regelbunden sexhörning med en kolatom i varje hörn och en väteatom på var och en av dem. Bindningarna mellan kolatomerna är varken enkla eller dubbla, utan något däremellan. Vätskan luktar aromatiskt och är cancerframkallande. Vad heter ämnet?"
+    },
+    "answer": {
+      "nb": "Benzen",
+      "sv": "Bensen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ringstrukturen kalles en Kekulé-struktur, etter kjemikeren som foreslo den.",
+      "sv": "Ringstrukturen kallas en Kekulé-struktur, efter kemisten som föreslog den."
+    },
+    "funFact": {
+      "nb": "Stoffet er et utmerket løsemiddel, men brukes lite i laboratorier i dag. Industrielt lages nitrobenzen, anilin, styren og fenol av det – utgangsstoffer for fargestoffer, legemidler og plast.",
+      "sv": "Ämnet är ett utmärkt lösningsmedel, men används sällan i laboratorier i dag. Industriellt tillverkas nitrobensen, anilin, styren och fenol av det – utgångsämnen för färgämnen, läkemedel och plast."
+    },
+    "source": "Store norske leksikon – «benzen»"
+  },
+  {
+    "id": "ring-m-09",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Slekten Calendula hører til kurvplantefamilien og har 20–30 arter, de fleste rundt Middelhavet. Kronbladene gir gyllen farge til eggekrem, supper og bakverk, og kalles noen ganger den fattige manns safran. Hva heter planten på norsk?",
+      "sv": "Släktet Calendula hör till korgblommiga växter och har 20–30 arter, de flesta kring Medelhavet. Kronbladen ger gyllene färg åt äggkräm, soppor och bakverk, och kallas ibland den fattige mannens saffran. Vad heter växten på svenska?"
+    },
+    "answer": {
+      "nb": "Ringblomst",
+      "sv": "Ringblomma"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Planten dukker av og til opp forvillet fra hager i Norge.",
+      "sv": "Växten dyker ibland upp förvildad från trädgårdar i Norge."
+    },
+    "funFact": {
+      "nb": "Den er historisk brukt mot menstruasjonsplager, magesår og hudlidelser, og inngår i kremer og hårfargemidler. Innenfor samme blomsterkorg finnes flere ulike fruktformer, kalt heterokarpi.",
+      "sv": "Den har historiskt använts mot menstruationsbesvär, magsår och hudåkommor, och ingår i krämer och hårfärgningsmedel. Inom samma blomkorg finns flera olika fruktformer, kallat heterokarpi."
+    },
+    "source": "Store norske leksikon – «ringblomst»"
+  },
+  {
+    "id": "ring-m-10",
+    "category": "ring",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Ringborgen sør på Öland har hus lagt i ring innenfor en befestningsmur. Den eldste bebyggelsen er fra 300-tallet, og mellom 400 og 650 vokste anlegget til over femti hus bak en ny ringmur på åtti meter i tverrmål. Hva heter borgen?",
+      "sv": "Ringborgen söder på Öland har hus lagda i ring innanför en befästningsmur. Den äldsta bebyggelsen är från 300-talet, och mellan 400 och 650 växte anläggningen till över femtio hus bakom en ny ringmur på åttio meter i diameter. Vad heter borgen?"
+    },
+    "answer": "Eketorps borg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Anlegget ble forlatt sent på 600-tallet, men tatt i bruk igjen i middelalderen.",
+      "sv": "Anläggningen övergavs sent på 600-talet men togs i bruk igen under medeltiden."
+    },
+    "funFact": {
+      "nb": "Svenske arkeologer har gravd der fra 1964, og funnene vises på stedet. En del av husene er rekonstruert.",
+      "sv": "Svenska arkeologer har grävt där sedan 1964, och fynden visas på platsen. En del av husen är rekonstruerade."
+    },
+    "source": "Store norske leksikon – «Eketorps borg»"
   }
 ]
