@@ -255,7 +255,17 @@
       "nb": "Bygget skulle etter planen åpne i januar 1963, men stod ikke ferdig før i oktober 1973. I 2007 kom det på UNESCOs verdensarvliste.",
       "sv": "Bygget skulle enligt planen öppna i januari 1963, men stod inte färdigt förrän i oktober 1973. År 2007 kom det på Unescos världsarvslista."
     },
-    "source": "Store norske leksikon – «Sydney Opera House»"
+    "source": "Store norske leksikon – «Sydney Opera House»",
+    "onThisDay": [
+      {
+        "day": "10-20",
+        "year": 1973,
+        "prompt": {
+          "nb": "På denne dagen i 1973 åpnet dronning Elizabeth 2. operahuset i Sydney. Den danske arkitekten bak bygget hadde vunnet konkurransen i 1957 med det beste av 233 forslag fra 32 land, men forlot prosjektet i 1966 og fikk aldri se det ferdig. Hvem var han?",
+          "sv": "På denna dag 1973 invigde drottning Elizabeth 2 operahuset i Sydney. Den danske arkitekten bakom bygget hade vunnit tävlingen 1957 med det bästa av 233 förslag från 32 länder, men lämnade projektet 1966 och fick aldrig se det färdigt. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "hus-m-01",
@@ -406,7 +416,17 @@
       "nb": "Slagordet hans, at sannheten til slutt vil seire, ble tilhengernes motto og havnet i 1918 på banneret til den tsjekkoslovakiske presidenten. Herrnhuterne sprang også ut av bevegelsen.",
       "sv": "Hans slagord, att sanningen till slut ska segra, blev anhängarnas motto och hamnade 1918 på den tjeckoslovakiske presidentens banér. Herrnhutarna sprang också ur rörelsen."
     },
-    "source": "Store norske leksikon – «Jan Hus»"
+    "source": "Store norske leksikon – «Jan Hus»",
+    "onThisDay": [
+      {
+        "day": "07-06",
+        "year": 1415,
+        "prompt": {
+          "nb": "På denne dagen i 1415 ble en tsjekkisk predikant fra Böhmen brent på bål ved Rhinen. Han hadde talt mot prestenes maktmisbruk, fremmet tsjekkisk språk i kirken, og nektet å tilbakekalle læren sin etter at han ble arrestert året før. Hva het han?",
+          "sv": "På denna dag 1415 brändes en tjeckisk predikant från Böhmen på bål vid Rhen. Han hade talat mot prästernas maktmissbruk, främjat tjeckiskan i kyrkan, och vägrat ta tillbaka sin lära efter att ha arresterats året innan. Vad hette han?"
+        }
+      }
+    ]
   },
   {
     "id": "hus-m-07",
@@ -485,7 +505,17 @@
       "nb": "I dag står det for omtrent 15–20 prosent av nye boliger. I 2025 delte det ut 45 milliarder kroner i lån, tilskudd og bostøtte til rundt 134 000 husstander.",
       "sv": "I dag står det för omkring 15–20 procent av nya bostäder. År 2025 delade det ut 45 miljarder kronor i lån, bidrag och bostadsstöd till omkring 134 000 hushåll."
     },
-    "source": "Store norske leksikon – «Husbanken»"
+    "source": "Store norske leksikon – «Husbanken»",
+    "onThisDay": [
+      {
+        "day": "03-01",
+        "year": 1946,
+        "prompt": {
+          "nb": "På denne dagen i 1946 ble et statsorgan opprettet ved lov for å få opp boligbyggingen og bedre boforholdene. Det bidro sterkt til gjenreisingen etter krigen, og i årene 1988–1996 finansierte det nesten all boligbygging i landet. Hva heter det?",
+          "sv": "På denna dag 1946 inrättades ett statligt organ genom lag för att få upp bostadsbyggandet och förbättra boendeförhållandena. Det bidrog starkt till återuppbyggnaden efter kriget, och åren 1988–1996 finansierade det nästan allt bostadsbyggande i landet. Vad heter det?"
+        }
+      }
+    ]
   },
   {
     "id": "hus-m-10",

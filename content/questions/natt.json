@@ -160,7 +160,17 @@
       "nb": "Mohr hadde skrevet teksten allerede i 1816. Gruber var lærer og organist i nabolandsbyen Arnsdorf, og satte melodi til den samme kvelden den skulle framføres.",
       "sv": "Mohr hade skrivit texten redan 1816. Gruber var lärare och organist i grannbyn Arnsdorf, och tonsatte den samma kväll som den skulle framföras."
     },
-    "source": "en.wikipedia.org – «Silent Night»"
+    "source": "en.wikipedia.org – «Silent Night»",
+    "onThisDay": [
+      {
+        "day": "12-24",
+        "year": 1818,
+        "prompt": {
+          "nb": "På denne dagen i 1818 hadde salmen «Stille Nacht» urframføring i landsbykirken i Oberndorf, med tekst av presten Joseph Mohr og melodi av læreren Franz Xaver Gruber. Orgelet var trolig skadet av flom, så salmen ble akkompagnert på gitar. I hvilket land ligger landsbyen?",
+          "sv": "På denna dag 1818 uruppfördes psalmen «Stille Nacht» i bykyrkan i Oberndorf, med text av prästen Joseph Mohr och melodi av läraren Franz Xaver Gruber. Orgeln var troligen skadad av översvämning, så psalmen ackompanjerades på gitarr. I vilket land ligger byn?"
+        }
+      }
+    ]
   },
   {
     "id": "natt-l-07",
@@ -215,7 +225,17 @@
       "nb": "«Fanny och Alexander» vant fem Oscar-statuetter. Han var Sveriges ledende teater- og filmregissør i etterkrigstiden.",
       "sv": "«Fanny och Alexander» vann fem Oscarsstatyetter. Han var Sveriges ledande teater- och filmregissör under efterkrigstiden."
     },
-    "source": "Store norske leksikon – «Ingmar Bergman»"
+    "source": "Store norske leksikon – «Ingmar Bergman»",
+    "onThisDay": [
+      {
+        "day": "07-14",
+        "year": 1918,
+        "prompt": {
+          "nb": "På denne dagen i 1918 ble en regissør født i Uppsala. Komedien «Sommarnattens leende» fra 1955 ble hans internasjonale gjennombrudd, og senere fulgte «Det sjunde inseglet», «Persona» og «Fanny och Alexander». Hvem regisserte dem?",
+          "sv": "På denna dag 1918 föddes en regissör i Uppsala. Komedin «Sommarnattens leende» från 1955 blev hans internationella genombrott, och senare följde «Det sjunde inseglet», «Persona» och «Fanny och Alexander». Vem regisserade dem?"
+        }
+      }
+    ]
   },
   {
     "id": "natt-l-09",
@@ -267,7 +287,17 @@
       "nb": "Etternavnet hennes er det engelske ordet for nattergal. Hun var også statistiker: hun utviklet et eget sirkeldiagram for å vise dødsårsakene i krigen, og ble i 1858 det første kvinnelige medlemmet av Royal Statistical Society.",
       "sv": "Hennes efternamn är det engelska ordet för näktergal. Hon var också statistiker: hon utvecklade ett eget cirkeldiagram för att visa dödsorsakerna i kriget, och blev 1858 den första kvinnliga medlemmen i Royal Statistical Society."
     },
-    "source": "Store norske leksikon – «Florence Nightingale»"
+    "source": "Store norske leksikon – «Florence Nightingale»",
+    "onThisDay": [
+      {
+        "day": "05-12",
+        "year": 1820,
+        "prompt": {
+          "nb": "På denne dagen i 1820 ble en engelsk kvinne født i Italia. Under Krimkrigen ledet hun 38 sykepleiere til lasarettet i Scutari, og om natten gikk hun runder mellom sengene med en parafinlampe. Hvem fikk tilnavnet «damen med lampen»?",
+          "sv": "På denna dag 1820 föddes en engelsk kvinna i Italien. Under Krimkriget ledde hon 38 sjuksköterskor till lasarettet i Scutari, och om natten gick hon ronder mellan sängarna med en fotogenlampa. Vem fick tillnamnet «damen med lampan»?"
+        }
+      }
+    ]
   },
   {
     "id": "natt-m-01",

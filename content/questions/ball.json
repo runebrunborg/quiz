@@ -76,7 +76,17 @@
       "nb": "Jacques Charles sendte opp den første hydrogenballongen fra Champ-de-Mars i Paris 27. august samme år. Den holdt seg i luften i 45 minutter før den landet i landsbyen Gonesse.",
       "sv": "Jacques Charles sände upp den första vätgasballongen från Champ-de-Mars i Paris den 27 augusti samma år. Den höll sig i luften i 45 minuter innan den landade i byn Gonesse."
     },
-    "source": "Store norske leksikon – «luftballong»"
+    "source": "Store norske leksikon – «luftballong»",
+    "onThisDay": [
+      {
+        "day": "06-04",
+        "year": 1783,
+        "prompt": {
+          "nb": "På denne dagen i 1783 steg en stor ballong fylt med varmluft omkring 1830 meter til værs ved Annonay i Frankrike, foran publikum. Samme høst gjennomførte to menn den første frie ferden med mennesker om bord. Hva het brødrene bak ballongen?",
+          "sv": "På denna dag 1783 steg en stor ballong fylld med varmluft omkring 1830 meter till väders vid Annonay i Frankrike, inför publik. Samma höst genomförde två män den första fria färden med människor ombord. Vad hette bröderna bakom ballongen?"
+        }
+      }
+    ]
   },
   {
     "id": "ball-l-04",
@@ -189,7 +199,17 @@
       "nb": "Ballongen var 20,5 meter i diameter og rommet 4500 kubikkmeter hydrogen. Den gikk ned på isen 480 kilometer fra utgangspunktet. Funnet i 1930 ble gjort av mannskapet om bord i M/K «Bratvaag».",
       "sv": "Ballongen var 20,5 meter i diameter och rymde 4500 kubikmeter vätgas. Den gick ned på isen 480 kilometer från utgångspunkten. Fyndet 1930 gjordes av manskapet ombord på M/K «Bratvaag»."
     },
-    "source": "Store norske leksikon – «Salomon August Andrée»"
+    "source": "Store norske leksikon – «Salomon August Andrée»",
+    "onThisDay": [
+      {
+        "day": "07-11",
+        "year": 1897,
+        "prompt": {
+          "nb": "På denne dagen i 1897 lettet hydrogenballongen «Örnen» fra Virgohamna på Danskøya ved Svalbard, med kurs mot Nordpolen. Ballongen mistet styringen og gikk ned på isen, og først i 1930 ble sporene etter de tre om bord funnet. Hvem ledet ferden?",
+          "sv": "På denna dag 1897 lyfte vätgasballongen «Örnen» från Virgohamna på Danskøya vid Svalbard, med kurs mot Nordpolen. Ballongen förlorade styrförmågan och gick ned på isen, och först 1930 hittades spåren efter de tre ombord. Vem ledde färden?"
+        }
+      }
+    ]
   },
   {
     "id": "ball-l-08",
@@ -245,7 +265,17 @@
       "nb": "Debuten kom i 1919 med «Sju sjömansvisor och Byssan lull». Visene henter fra middelalderens trubadurer, folkevisene og Carl Michael Bellman, og skildrer både komiske og tragiske opplevelser i fremmede havner.",
       "sv": "Debuten kom 1919 med «Sju sjömansvisor och Byssan lull». Visorna hämtar från medeltidens trubadurer, folkvisorna och Carl Michael Bellman, och skildrar både komiska och tragiska upplevelser i främmande hamnar."
     },
-    "source": "Store norske leksikon – «Evert Taube»"
+    "source": "Store norske leksikon – «Evert Taube»",
+    "onThisDay": [
+      {
+        "day": "03-12",
+        "year": 1890,
+        "prompt": {
+          "nb": "På denne dagen i 1890 ble en visedikter og trubadur født i Göteborg. Han dro til sjøs i 1908, bodde noen år i Argentina, og ga senere ut samlinger som «Fritiof Anderssons visbok» i 1929 og «Ballader i Bohuslän» i 1943. Hvem var han?",
+          "sv": "På denna dag 1890 föddes en visdiktare och trubadur i Göteborg. Han gick till sjöss 1908, bodde några år i Argentina, och gav senare ut samlingar som «Fritiof Anderssons visbok» 1929 och «Ballader i Bohuslän» 1943. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "ball-l-10",

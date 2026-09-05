@@ -100,7 +100,17 @@
       "nb": "De to var 21 timer og 36 minutter på månen, mens Michael Collins ble igjen i bane rundt den. Det er fortsatt omstridt om det ble sagt «for a man» eller bare «for man».",
       "sv": "De två var 21 timmar och 36 minuter på månen, medan Michael Collins blev kvar i bana runt den. Det är fortfarande omtvistat om det sades «for a man» eller bara «for man»."
     },
-    "source": "Store norske leksikon – Neil Armstrong"
+    "source": "Store norske leksikon – Neil Armstrong",
+    "onThisDay": [
+      {
+        "day": "07-20",
+        "year": 1969,
+        "prompt": {
+          "nb": "På denne dagen i 1969 landet månefergen «Eagle» i Stillhetens hav. Noen timer senere ble en amerikaner det første mennesket som satte foten på månen, og sa at det var et lite skritt for et menneske, men et gigantisk sprang for menneskeheten. Hvem?",
+          "sv": "På denna dag 1969 landade månlandaren «Eagle» i Stillhetens hav. Några timmar senare blev en amerikan den första människan som satte foten på månen, och sade att det var ett litet steg för en människa, men ett jättekliv för mänskligheten. Vem?"
+        }
+      }
+    ]
   },
   {
     "id": "fot-l-05",
@@ -182,7 +192,17 @@
       "nb": "Karrieren varte i 24 år og ga over 570 mål og 34 troféer. Champions League vant han aldri.",
       "sv": "Karriären varade i 24 år och gav över 570 mål och 34 troféer. Champions League vann han aldrig."
     },
-    "source": "Store norske leksikon – Zlatan Ibrahimović"
+    "source": "Store norske leksikon – Zlatan Ibrahimović",
+    "onThisDay": [
+      {
+        "day": "10-03",
+        "year": 1981,
+        "prompt": {
+          "nb": "På denne dagen i 1981 ble en gutt født i Malmö. Han spilte siden for Ajax, Juventus, Inter, Barcelona, Milan, Paris Saint-Germain og Manchester United, og er Sveriges mestscorende landslagsspiller gjennom tidene med 62 mål. Hvem?",
+          "sv": "På denna dag 1981 föddes en pojke i Malmö. Han spelade sedan för Ajax, Juventus, Inter, Barcelona, Milan, Paris Saint-Germain och Manchester United, och är Sveriges meste målskytt i landslaget genom tiderna med 62 mål. Vem?"
+        }
+      }
+    ]
   },
   {
     "id": "fot-l-08",
@@ -206,7 +226,17 @@
       "nb": "Han er den eneste som har vunnet tre verdensmesterskap i fotball, og regnes av mange som tidenes beste spiller.",
       "sv": "Han är den ende som har vunnit tre världsmästerskap i fotboll, och räknas av många som tidernas bäste spelare."
     },
-    "source": "Store norske leksikon – Pelé"
+    "source": "Store norske leksikon – Pelé",
+    "onThisDay": [
+      {
+        "day": "10-23",
+        "year": 1940,
+        "prompt": {
+          "nb": "På denne dagen i 1940 ble en gutt født i Três Corações i Brasil. Som 17-åring scoret han to mål i VM-finalen i Sverige i 1958, der vertsnasjonen tapte 5–2, og han ble tidenes yngste verdensmester. Hvem?",
+          "sv": "På denna dag 1940 föddes en pojke i Três Corações i Brasilien. Som 17-åring gjorde han två mål i VM-finalen i Sverige 1958, där värdnationen förlorade med 5–2, och han blev tidernas yngste världsmästare. Vem?"
+        }
+      }
+    ]
   },
   {
     "id": "fot-l-09",

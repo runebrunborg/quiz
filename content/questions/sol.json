@@ -25,7 +25,17 @@
       "nb": "Bildene kom i flere versjoner gjennom 1888 og 1889, mens han drømte om å gjøre Arles til et atelier med Gauguin som leder. Samarbeidet endte i dramatikk.",
       "sv": "Målningarna kom i flera versioner under 1888 och 1889, medan han drömde om att göra Arles till en ateljé med Gauguin som ledare. Samarbetet slutade i dramatik."
     },
-    "source": "Store norske leksikon – «Vincent van Gogh»"
+    "source": "Store norske leksikon – «Vincent van Gogh»",
+    "onThisDay": [
+      {
+        "day": "03-30",
+        "year": 1853,
+        "prompt": {
+          "nb": "På denne dagen i 1853 ble en nederlandsk maler født. Han flyttet i 1888 til Arles i Sør-Frankrike for lyset og de sterke fargene, og pyntet gjesterommet til Paul Gauguin med en serie bilder av solsikker i en enkel leirkrukke. Hvem malte dem?",
+          "sv": "På denna dag 1853 föddes en nederländsk målare. Han flyttade 1888 till Arles i södra Frankrike för ljuset och de starka färgerna, och prydde gästrummet åt Paul Gauguin med en serie målningar av solrosor i en enkel lerkruka. Vem målade dem?"
+        }
+      }
+    ]
   },
   {
     "id": "sol-l-02",
@@ -81,7 +91,17 @@
       "nb": "Han spilte for Molde fra 1994 til 1996 og deretter for Manchester United fram til 2007. Fra desember 2018 til november 2021 var han tilbake på Old Trafford, denne gangen som hovedtrener.",
       "sv": "Han spelade för Molde från 1994 till 1996 och därefter för Manchester United fram till 2007. Från december 2018 till november 2021 var han tillbaka på Old Trafford, den här gången som huvudtränare."
     },
-    "source": "Store norske leksikon – «Ole Gunnar Solskjær»"
+    "source": "Store norske leksikon – «Ole Gunnar Solskjær»",
+    "onThisDay": [
+      {
+        "day": "05-26",
+        "year": 1999,
+        "prompt": {
+          "nb": "På denne dagen i 1999 lå Manchester United under mot Bayern München da en innbytter fra Kristiansund satte foten på ballen på overtid og sikret klubben både serien, cupen og Europa-tittelen samme sesong. Hvilken nordmann scoret dette målet?",
+          "sv": "På denna dag 1999 låg Manchester United under mot Bayern München när en inhoppare från Kristiansund satte foten på bollen på övertid och säkrade klubben både ligan, cupen och Europatiteln samma säsong. Vilken norrman gjorde målet?"
+        }
+      }
+    ]
   },
   {
     "id": "sol-l-04",
@@ -157,7 +177,17 @@
       "nb": "Musikken har opusnummer 23 og ble skrevet i 1874–1875, etter oppfordring fra dikteren selv. Av de 26 stykkene laget han senere to orkestersuiter, opus 46 og opus 55.",
       "sv": "Musiken har opusnummer 23 och skrevs 1874–1875, efter uppmaning från diktaren själv. Av de 26 styckena gjorde han senare två orkestersviter, opus 46 och opus 55."
     },
-    "source": "Store norske leksikon – «Peer Gynt – musikk»"
+    "source": "Store norske leksikon – «Peer Gynt – musikk»",
+    "onThisDay": [
+      {
+        "day": "02-24",
+        "year": 1876,
+        "prompt": {
+          "nb": "På denne dagen i 1876 hadde Ibsens «Peer Gynt» urpremiere i Christiania. En norsk komponist hadde skrevet 26 musikkstykker til stykket, blant dem «Morgenstemning», «I Dovregubbens hall» og «Solveigs sang». Hvem var komponisten?",
+          "sv": "På denna dag 1876 hade Ibsens «Peer Gynt» urpremiär i Kristiania. En norsk tonsättare hade skrivit 26 musikstycken till pjäsen, bland dem «Morgonstämning», «I Bergakungens sal» och «Solveigs sång». Vem var tonsättaren?"
+        }
+      }
+    ]
   },
   {
     "id": "sol-l-07",

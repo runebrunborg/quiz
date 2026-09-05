@@ -182,7 +182,17 @@
       "nb": "Hun var generaldirektør i Verdens helseorganisasjon fra 1998 til 2003, og er lege av utdanning. Regjeringen fra 1986 innførte prinsippet om minst 40 prosent av hvert kjønn.",
       "sv": "Hon var generaldirektör i Världshälsoorganisationen från 1998 till 2003 och är läkare till utbildningen. Regeringen från 1986 införde principen om minst 40 procent av vardera könet."
     },
-    "source": "Store norske leksikon – «Gro Harlem Brundtland»"
+    "source": "Store norske leksikon – «Gro Harlem Brundtland»",
+    "onThisDay": [
+      {
+        "day": "04-20",
+        "year": 1939,
+        "prompt": {
+          "nb": "På denne dagen i 1939 ble en lege født i Bærum. Hun ble Norges første kvinnelige statsminister i februar 1981, bare 42 år gammel, og satte i 1986 sammen en regjering der åtte av atten statsråder var kvinner. Hvem er hun?",
+          "sv": "På denna dag 1939 föddes en läkare i Bærum. Hon blev Norges första kvinnliga statsminister i februari 1981, bara 42 år gammal, och satte 1986 samman en regering där åtta av arton statsråd var kvinnor. Vem är hon?"
+        }
+      }
+    ]
   },
   {
     "id": "brun-l-08",
@@ -233,7 +243,17 @@
       "nb": "Åsryggen hadde militær betydning fordi den som holdt den, kontrollerte adkomsten til byen fra nord. Han mistet stillingen i 1497, men fikk den tilbake i 1501.",
       "sv": "Åsryggen hade militär betydelse eftersom den som höll den kontrollerade tillfarten till staden norrifrån. Han förlorade posten 1497 men fick tillbaka den 1501."
     },
-    "source": "Store norske leksikon – «Brunkeberg – sted i Sverige» og «Sten Gustafsson Sture»"
+    "source": "Store norske leksikon – «Brunkeberg – sted i Sverige» og «Sten Gustafsson Sture»",
+    "onThisDay": [
+      {
+        "day": "10-10",
+        "year": 1471,
+        "prompt": {
+          "nb": "På denne dagen i 1471 møttes to hærer på åsryggen Brunkeberg, i det som i dag er Norrmalm i Stockholm. Den svenske riksforstanderen slo kong Christian 1, som forsøkte å vinne tilbake den svenske tronen, og Sverige beholdt selvstendigheten. Hvem ledet den svenske siden?",
+          "sv": "På denna dag 1471 möttes två härar på åsryggen Brunkeberg, i det som i dag är Norrmalm i Stockholm. Den svenske riksföreståndaren slog kung Kristian 1, som försökte vinna tillbaka den svenska tronen, och Sverige behöll självständigheten. Vem ledde den svenska sidan?"
+        }
+      }
+    ]
   },
   {
     "id": "brun-l-10",
@@ -261,6 +281,16 @@
       "nb": "Blant hovedverkene er «Revefamilie» fra 1886 og «Havørner» fra 1897. Nasjonalmuseet i Oslo har «Lommer» fra 1901.",
       "sv": "Bland huvudverken finns «Rävfamilj» från 1886 och «Havsörnar» från 1897. Nationalmuseet i Oslo har «Lommar» från 1901."
     },
-    "source": "Store norske leksikon – «Bruno Liljefors»"
+    "source": "Store norske leksikon – «Bruno Liljefors»",
+    "onThisDay": [
+      {
+        "day": "05-14",
+        "year": 1860,
+        "prompt": {
+          "nb": "På denne dagen i 1860 ble en maler født i Uppsala. Han var ivrig jeger og malte dyr i skandinavisk skog- og kystnatur. De tidlige bildene var kjølige og grå, mens de senere gikk over i varme, samlende brune toner. Hvem var han?",
+          "sv": "På denna dag 1860 föddes en målare i Uppsala. Han var ivrig jägare och målade djur i skandinavisk skogs- och kustnatur. De tidiga bilderna var svala och grå, medan de senare gick över i varma, samlande bruna toner. Vem var han?"
+        }
+      }
+    ]
   }
 ]

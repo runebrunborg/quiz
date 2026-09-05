@@ -25,7 +25,17 @@
       "nb": "Han sendte elevene sine til fjerne land for å samle inn arter. Den lille skogplanten linnea er oppkalt etter ham – Jan Frederik Gronovius ga den navnet i 1737, og han tok den selv inn i våpenskjoldet sitt.",
       "sv": "Han sände sina elever till avlägsna länder för att samla in arter. Den lilla skogsväxten linnea är uppkallad efter honom – Jan Frederik Gronovius gav den namnet 1737, och han tog själv in den i sin vapensköld."
     },
-    "source": "Store norske leksikon – «Carl von Linné» og «linnea»"
+    "source": "Store norske leksikon – «Carl von Linné» og «linnea»",
+    "onThisDay": [
+      {
+        "day": "05-23",
+        "year": 1707,
+        "prompt": {
+          "nb": "På denne dagen i 1707 ble en prestesønn født i Råshult i Småland. Han ble professor i Uppsala, innførte det todelte latinske artsnavnet som fortsatt er i bruk, og beskrev rundt 10 000 plantearter. Hvem var denne svenske naturforskeren?",
+          "sv": "På denna dag 1707 föddes en prästson i Råshult i Småland. Han blev professor i Uppsala, införde det tvådelade latinska artnamnet som fortfarande används, och beskrev omkring 10 000 växtarter. Vem var denne svenske naturforskare?"
+        }
+      }
+    ]
   },
   {
     "id": "linn-l-02",
@@ -182,7 +192,17 @@
       "nb": "Teknikken heter linoleumssnitt, og gir skarpe, klart avgrensede flater og en jevn, udifferensiert fargefordeling.",
       "sv": "Tekniken heter linoleumssnitt och ger skarpa, klart avgränsade ytor och en jämn, odifferentierad färgfördelning."
     },
-    "source": "Store norske leksikon – «linoleumssnitt»"
+    "source": "Store norske leksikon – «linoleumssnitt»",
+    "onThisDay": [
+      {
+        "day": "10-25",
+        "year": 1881,
+        "prompt": {
+          "nb": "På denne dagen i 1881 ble en kunstner født i Málaga. Blant teknikkene han arbeidet i, var den der alt som skal bli hvitt skjæres bort fra en plate av mykt gulvbelegg. «Spansk kvinne» fra 1926 er et kjent eksempel. Hvem laget den?",
+          "sv": "På denna dag 1881 föddes en konstnär i Málaga. Bland teknikerna han arbetade i var den där allt som ska bli vitt skärs bort från en platta av mjukt golvmaterial. «Spansk kvinna» från 1926 är ett känt exempel. Vem gjorde den?"
+        }
+      }
+    ]
   },
   {
     "id": "linn-l-08",
@@ -254,6 +274,16 @@
       "nb": "Gaten han foreslo, ble Karl Johans gate. Han innførte også sveitserstilen i norsk trearkitektur på 1830- og 1840-tallet, og tok tidlig til orde for boliger til arbeiderklassen.",
       "sv": "Gatan han föreslog blev Karl Johans gate. Han införde också schweizerstilen i norsk träarkitektur på 1830- och 1840-talet, och tog tidigt till orda för bostäder åt arbetarklassen."
     },
-    "source": "Store norske leksikon – «Hans Ditlev Franciscus Linstow»"
+    "source": "Store norske leksikon – «Hans Ditlev Franciscus Linstow»",
+    "onThisDay": [
+      {
+        "day": "05-04",
+        "year": 1787,
+        "prompt": {
+          "nb": "På denne dagen i 1787 ble en arkitekt født i Hørsholm på Nord-Sjælland. Han flyttet til Norge, fikk i 1823 oppdraget med Det kongelige slott i Oslo, og la i 1838 fram forslaget om paradegaten som skulle binde slottet til byen. Hva het han?",
+          "sv": "På denna dag 1787 föddes en arkitekt i Hørsholm på Nordsjälland. Han flyttade till Norge, fick 1823 uppdraget med Det kongelige slott i Oslo, och lade 1838 fram förslaget om paradgatan som skulle binda slottet till staden. Vad hette han?"
+        }
+      }
+    ]
   }
 ]

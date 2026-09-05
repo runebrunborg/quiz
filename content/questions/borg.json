@@ -25,7 +25,17 @@
       "nb": "Fire av de seks French Open-titlene kom på rad, fra 1978 til 1981. Comebackforsøkene mellom 1991 og 1993 førte ikke fram.",
       "sv": "Fyra av de sex titlarna i Franska öppna kom i rad, från 1978 till 1981. Comebackförsöken mellan 1991 och 1993 ledde ingenstans."
     },
-    "source": "Store norske leksikon – Björn Borg"
+    "source": "Store norske leksikon – Björn Borg",
+    "onThisDay": [
+      {
+        "day": "06-06",
+        "year": 1956,
+        "prompt": {
+          "nb": "På denne dagen i 1956 ble en gutt født i Stockholm. Mellom 1976 og 1980 vant han Wimbledon fem ganger på rad, i French Open tok han seks titler, og så la han opp allerede som 26-åring. Hvilken svensk tennisspiller?",
+          "sv": "På denna dag 1956 föddes en pojke i Stockholm. Mellan 1976 och 1980 vann han Wimbledon fem gånger i rad, i Franska öppna tog han sex titlar, och sedan lade han av redan som 26-åring. Vilken svensk tennisspelare?"
+        }
+      }
+    ]
   },
   {
     "id": "borg-l-02",
@@ -148,7 +158,17 @@
       "nb": "Årsaken til brannen er aldri fastslått med sikkerhet. Ulykken satte likevel punktum for luftskipenes epoke.",
       "sv": "Orsaken till branden har aldrig fastställts med säkerhet. Olyckan satte ändå punkt för luftskeppens epok."
     },
-    "source": "Store norske leksikon – Hindenburg"
+    "source": "Store norske leksikon – Hindenburg",
+    "onThisDay": [
+      {
+        "day": "05-06",
+        "year": 1937,
+        "prompt": {
+          "nb": "På denne dagen i 1937 tok Tysklands stolteste luftskip fyr under innflygingen mot fortøyningsmasten i Lakehurst i New Jersey. Det var fylt med hydrogen, og 35 av de 97 om bord omkom. Hvilket luftskip?",
+          "sv": "På denna dag 1937 fattade Tysklands stoltaste luftskepp eld under inflygningen mot förtöjningsmasten i Lakehurst i New Jersey. Det var fyllt med vätgas, och 35 av de 97 ombord omkom. Vilket luftskepp?"
+        }
+      }
+    ]
   },
   {
     "id": "borg-l-07",
@@ -244,6 +264,16 @@
       "nb": "Slekten er kjent helt tilbake til 1328. Alfonso de Borja ble pave Calixtus 3. i 1455, og nevøen Rodrigo fulgte som Alexander 6. i 1492.",
       "sv": "Ätten är känd ända tillbaka till 1328. Alfonso de Borja blev påve Calixtus III år 1455, och brorsonen Rodrigo följde som Alexander VI år 1492."
     },
-    "source": "Store norske leksikon – Borgia"
+    "source": "Store norske leksikon – Borgia",
+    "onThisDay": [
+      {
+        "day": "08-18",
+        "year": 1503,
+        "prompt": {
+          "nb": "På denne dagen i 1503 døde pave Alexander 6. i Roma. Han het Rodrigo før han ble valgt i 1492, kom fra en spansk-italiensk adelsslekt fra Valencia, og barna hans Cesare og Lucrezia er blitt selve bildet på renessansens intriger. Hvilken slekt?",
+          "sv": "På denna dag 1503 dog påven Alexander 6 i Rom. Han hette Rodrigo innan han valdes 1492, kom från en spansk-italiensk adelssläkt från Valencia, och hans barn Cesare och Lucrezia har blivit själva bilden av renässansens intriger. Vilken släkt?"
+        }
+      }
+    ]
   }
 ]
