@@ -259,5 +259,264 @@
       "sv": "Institutionen grundades 1810 för att täcka behovet av krigskirurger. Från 1901 fick den ansvaret för ett av Nobelprisen, och i dag är den Sveriges största hälsovetenskapliga universitet."
     },
     "source": "Store medisinske leksikon – «Karolinska Institutet»; en.wikipedia.org – «Karolinska Institute»"
+  },
+  {
+    "id": "sol-m-01",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Den innerste planeten i solsystemet ligger i snitt 57,91 millioner kilometer fra sola, og bruker knapt 88 jorddøgn på ett omløp. Dagsiden når over 400 grader, nattsiden nesten minus 200. Hvilken planet?",
+      "sv": "Den innersta planeten i solsystemet ligger i snitt 57,91 miljoner kilometer från solen och använder knappt 88 jorddygn på ett varv. Dagsidan når över 400 grader, nattsidan nästan minus 200. Vilken planet?"
+    },
+    "answer": "Merkur",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Atmosfæren er bare en billiondel av jordas, og består mest av helium levert av solvinden.",
+      "sv": "Atmosfären är bara en biljondel av jordens och består mest av helium levererat av solvinden."
+    },
+    "funFact": {
+      "nb": "Ett døgn på planeten varer 58,65 jorddøgn. Mariner 10 fotograferte nesten halve overflaten i 1974, Messenger gikk i bane rundt den fra 2011 til 2015, og BepiColombo ble skutt opp i 2018.",
+      "sv": "Ett dygn på planeten varar 58,65 jorddygn. Mariner 10 fotograferade nästan halva ytan 1974, Messenger gick i bana runt den från 2011 till 2015, och BepiColombo sköts upp 2018."
+    },
+    "source": "Store norske leksikon – «Merkur – planet»"
+  },
+  {
+    "id": "sol-m-02",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Slekten har 110 arter og kommer fra Amerika. Den vanligste er ettårig, stammer fra Mexico, og enkelte sorter blir over fem meter høye med blomsterkorger på 30–40 centimeter. Frøene spises saltet, bakes i brød og presses til olje. Hvilken plante?",
+      "sv": "Släktet har 110 arter och kommer från Amerika. Den vanligaste är ettårig, härstammar från Mexiko, och vissa sorter blir över fem meter höga med blomkorgar på 30–40 centimeter. Fröna äts saltade, bakas i bröd och pressas till olja. Vilken växt?"
+    },
+    "answer": {
+      "nb": "Solsikke",
+      "sv": "Solros"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det latinske slektsnavnet er Helianthus.",
+      "sv": "Det latinska släktnamnet är Helianthus."
+    },
+    "funFact": {
+      "nb": "Russland, Ukraina og Argentina er blant de største produsentene. I Norge dyrkes den som prydplante, og dukker av og til opp forvillet fra fuglematere.",
+      "sv": "Ryssland, Ukraina och Argentina är bland de största producenterna. I Norge odlas den som prydnadsväxt och dyker ibland upp förvildad från fågelmatare."
+    },
+    "source": "Store norske leksikon – «solsikke»"
+  },
+  {
+    "id": "sol-m-03",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "«Here Comes the Sun» ble skrevet i hagen til Eric Clapton i Surrey, en dag opphavsmannen skulket møtene i plateselskapet. Den kom ut på Beatles-albumet «Abbey Road» i september 1969, og er i dag gruppens mest strømmede sang. Hvem skrev den?",
+      "sv": "«Here Comes the Sun» skrevs i trädgården hos Eric Clapton i Surrey, en dag då upphovsmannen skolkade från mötena på skivbolaget. Den kom ut på Beatles-albumet «Abbey Road» i september 1969, och är i dag gruppens mest strömmade låt. Vem skrev den?"
+    },
+    "answer": "George Harrison",
+    "answerKind": "person",
+    "person": {
+      "given": "George",
+      "family": "Harrison"
+    },
+    "hint": {
+      "nb": "Han var gruppens sologitarist.",
+      "sv": "Han var gruppens sologitarrist."
+    },
+    "funFact": {
+      "nb": "I mai 2023 ble den Beatles' første låt med over en milliard avspillinger på Spotify, og den første fra 1960-tallet som nådde dit.",
+      "sv": "I maj 2023 blev den Beatles första låt med över en miljard spelningar på Spotify, och den första från 1960-talet som nådde dit."
+    },
+    "source": "en.wikipedia.org – «Here Comes the Sun»; Store norske leksikon – «The Beatles»"
+  },
+  {
+    "id": "sol-m-04",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Hun ble født i Bergen i 1961, overtok som partileder i Høyre i 2004 og satt som Norges statsminister fra 2013 til 2021. I februar 2026 gikk hun av som partileder etter et skuffende valg. Hvem er hun?",
+      "sv": "Hon föddes i Bergen 1961, tog över som partiledare i Høyre 2004 och satt som Norges statsminister från 2013 till 2021. I februari 2026 avgick hon som partiledare efter ett svagt val. Vem är hon?"
+    },
+    "answer": "Erna Solberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Erna",
+      "family": "Solberg"
+    },
+    "hint": {
+      "nb": "Hun ledet partiet sitt i mer enn tjue år, fra 2004 til 2026.",
+      "sv": "Hon ledde sitt parti i mer än tjugo år, från 2004 till 2026."
+    },
+    "funFact": {
+      "nb": "Hun er den andre kvinnen som har vært norsk statsminister, etter Gro Harlem Brundtland.",
+      "sv": "Hon är den andra kvinnan som varit norsk statsminister, efter Gro Harlem Brundtland."
+    },
+    "source": "Store norske leksikon – «Erna Solberg»"
+  },
+  {
+    "id": "sol-m-05",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Fenomenet oppstår nord for polarsirkelen mellom vårjevndøgn og høstjevndøgn, og lysbrytningen i atmosfæren flytter grensen omtrent 90 kilometer sørover. I Bodø varer det fra 31. mai til 12. juli, på Nordkapp fra 12. mai til 1. august. Hva kalles det?",
+      "sv": "Fenomenet uppstår norr om polcirkeln mellan vårdagjämning och höstdagjämning, och ljusbrytningen i atmosfären flyttar gränsen omkring 90 kilometer söderut. I Bodø varar det från 31 maj till 12 juli, på Nordkap från 12 maj till 1 augusti. Vad kallas det?"
+    },
+    "answer": "Midnattssol",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "På Nordpolen varer det et halvt år.",
+      "sv": "På Nordpolen varar det ett halvår."
+    },
+    "funFact": {
+      "nb": "I Longyearbyen varer perioden fra 19. april til 23. august. Jo nærmere polen man kommer, desto lengre varer den.",
+      "sv": "I Longyearbyen varar perioden från 19 april till 23 augusti. Ju närmare polen man kommer, desto längre varar den."
+    },
+    "source": "Store norske leksikon – «midnattssol»"
+  },
+  {
+    "id": "sol-m-06",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den polske geistlige og astronomen foreslo et astronomisk system der grunnideen var at jorda kretser rundt sola, og ikke omvendt. Ved siden av astronomien var han både matematiker, lege og jurist. Hvem var han?",
+      "sv": "Den polske prästen och astronomen föreslog ett astronomiskt system där grundidén var att jorden kretsar kring solen, och inte tvärtom. Vid sidan av astronomin var han både matematiker, läkare och jurist. Vem var han?"
+    },
+    "answer": "Nicolaus Copernicus",
+    "answerKind": "person",
+    "person": {
+      "given": "Nicolaus",
+      "family": "Copernicus"
+    },
+    "hint": {
+      "nb": "Systemet han foreslo, kalles det heliosentriske verdensbildet.",
+      "sv": "Systemet han föreslog kallas den heliocentriska världsbilden."
+    },
+    "funFact": {
+      "nb": "Navnet skrives på norsk også Kopernikus. Han virket som geistlig ved siden av vitenskapen.",
+      "sv": "Namnet skrivs på svenska också Kopernikus. Han verkade som präst vid sidan av vetenskapen."
+    },
+    "source": "Store norske leksikon – «Nicolaus Copernicus»"
+  },
+  {
+    "id": "sol-m-07",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Inne i sola, ved rundt 20 millioner kelvin, omdannes protoner til alfapartikler gjennom proton-proton-kjeden og karbonsyklusen. Hver alfapartikkel frigjør omtrent 27 megaelektronvolt, fordi sluttproduktet veier mindre enn utgangsmaterialet. Hva kalles denne prosessen?",
+      "sv": "Inne i solen, vid omkring 20 miljoner kelvin, omvandlas protoner till alfapartiklar genom proton-proton-kedjan och kolcykeln. Varje alfapartikel frigör ungefär 27 megaelektronvolt, eftersom slutprodukten väger mindre än utgångsmaterialet. Vad kallas denna process?"
+    },
+    "answer": "Fusjon",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Prosessen er det motsatte av å spalte tunge kjerner.",
+      "sv": "Processen är motsatsen till att klyva tunga kärnor."
+    },
+    "funFact": {
+      "nb": "For å få den til å gå kontrollert på jorda må temperaturen opp i rundt 100 millioner grader. Deuterium-tritium-reaksjonen frigjør 17,6 megaelektronvolt.",
+      "sv": "För att få den att gå kontrollerat på jorden måste temperaturen upp i omkring 100 miljoner grader. Deuterium-tritium-reaktionen frigör 17,6 megaelektronvolt."
+    },
+    "source": "Store norske leksikon – «fusjon – kjernefysikk»"
+  },
+  {
+    "id": "sol-m-08",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Bronsestatuen på 32 meter stod ved havneinnløpet fra omkring 280 før vår tidsregning til et jordskjelv veltet den i 226. Den ble regnet som et av verdens sju underverker, og forestilte solguden. Hva het guden?",
+      "sv": "Bronsstatyn på 32 meter stod vid hamninloppet från omkring 280 före vår tideräkning tills en jordbävning välte den 226. Den räknades som ett av världens sju underverk och föreställde solguden. Vad hette guden?"
+    },
+    "answer": "Helios",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Statuen stod på en gresk øy i Egeerhavet, og ble aldri gjenreist.",
+      "sv": "Statyn stod på en grekisk ö i Egeiska havet och restes aldrig igen."
+    },
+    "funFact": {
+      "nb": "Den ble laget av Khares fra Lindos, en elev av billedhuggeren Lysippos, og stod bare rundt femti år.",
+      "sv": "Den gjordes av Chares från Lindos, en elev till skulptören Lysippos, och stod bara omkring femtio år."
+    },
+    "source": "Store norske leksikon – «Kolossen på Rhodos»"
+  },
+  {
+    "id": "sol-m-09",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Kommunen på 19 kvadratkilometer ligger rett nordvest for Stockholm sentrum og har 85 200 innbyggere. Her ligger tre slott – Haga, Ulriksdal og Karlberg – og en rundkirke fra 1100-tallet. Hvilken kommune?",
+      "sv": "Kommunen på 19 kvadratkilometer ligger strax nordväst om Stockholms centrum och har 85 200 invånare. Här ligger tre slott – Haga, Ulriksdal och Karlberg – och en rundkyrka från 1100-talet. Vilken kommun?"
+    },
+    "answer": "Solna",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sveriges nasjonalanlegg for fotball ligger her, der Råsunda stadion lå før.",
+      "sv": "Sveriges nationalarena för fotboll ligger här, där Råsunda stadion låg tidigare."
+    },
+    "funFact": {
+      "nb": "Ulriksdals slott regnes som et hovedverk i svensk 1600-tallsarkitektur. Kommunen fikk bystatus i 1943, men bebyggelsen er vokst sammen med Stockholm.",
+      "sv": "Ulriksdals slott räknas som ett huvudverk i svensk 1600-talsarkitektur. Kommunen fick stadsstatus 1943, men bebyggelsen har vuxit samman med Stockholm."
+    },
+    "source": "Store norske leksikon – «Solna»"
+  },
+  {
+    "id": "sol-m-10",
+    "category": "sol",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Den svenske tegneren levde fra 1888 til 1983, hadde Matisse som lærer, og illustrerte både Bellmans «Fredmans epistlar» og bøker av Selma Lagerlöf. Mest kjent er likevel fyrstikketiketten Solstickan, som han tegnet i 1936 med sønnen Tom som modell. Hvem var han?",
+      "sv": "Den svenske tecknaren levde 1888 till 1983, hade Matisse som lärare och illustrerade både Bellmans «Fredmans epistlar» och böcker av Selma Lagerlöf. Mest känd är ändå tändsticksetiketten Solstickan, som han ritade 1936 med sonen Tom som modell. Vem var han?"
+    },
+    "answer": "Einar Nerman",
+    "answerKind": "person",
+    "person": {
+      "given": "Einar",
+      "family": "Nerman"
+    },
+    "hint": {
+      "nb": "Han ble født i Norrköping og døde på Lidingö.",
+      "sv": "Han föddes i Norrköping och dog på Lidingö."
+    },
+    "funFact": {
+      "nb": "Han var særlig kjent for stiliserte, dekorative portretter av filmstjerner, og tegnet også et portrett av kong Harald V. Carl Wilhelmson var en av lærerne hans.",
+      "sv": "Han var särskilt känd för stiliserade, dekorativa porträtt av filmstjärnor, och ritade också ett porträtt av kung Harald V. Carl Wilhelmson var en av hans lärare."
+    },
+    "source": "Store norske leksikon – «Einar Nerman»"
   }
 ]
