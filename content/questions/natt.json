@@ -268,5 +268,271 @@
       "sv": "Hennes efternamn är det engelska ordet för näktergal. Hon var också statistiker: hon utvecklade ett eget cirkeldiagram för att visa dödsorsakerna i kriget, och blev 1858 den första kvinnliga medlemmen i Royal Statistical Society."
     },
     "source": "Store norske leksikon – «Florence Nightingale»"
+  },
+  {
+    "id": "natt-m-01",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "«Nattverden» fra 1495–98 dekker en vegg i spisesalen i klosteret Santa Maria delle Grazie i Milano, og viser øyeblikket da Jesus forteller disiplene at en av dem skal forråde ham. Kunstneren malte i olje på tørr puss, og verket begynte å forvitre nesten med en gang. Hvem malte det?",
+      "sv": "«Nattvarden» från 1495–98 täcker en vägg i matsalen i klostret Santa Maria delle Grazie i Milano, och visar ögonblicket då Jesus berättar för lärjungarna att en av dem ska förråda honom. Konstnären målade i olja på torr puts, och verket började vittra nästan omedelbart. Vem målade det?"
+    },
+    "answer": "Leonardo da Vinci",
+    "answerKind": "person",
+    "person": {
+      "given": "Leonardo",
+      "family": "da Vinci"
+    },
+    "hint": {
+      "nb": "Teknikken kalles al secco, i motsetning til fresko på våt puss – og den egnet seg dårlig til veggmaleri.",
+      "sv": "Tekniken kallas al secco, till skillnad från fresk på våt puts – och den lämpade sig dåligt för väggmåleri."
+    },
+    "funFact": {
+      "nb": "En omfattende restaurering gjennom 1980- og 1990-tallet ble fullført i 1999. Han bygde hele bildet på hver enkelt disippels reaksjon på det Jesus nettopp har sagt.",
+      "sv": "En omfattande restaurering under 1980- och 1990-talen slutfördes 1999. Han byggde hela bilden på varje enskild lärjunges reaktion på det Jesus just har sagt."
+    },
+    "source": "Store norske leksikon – «Leonardo da Vinci»"
+  },
+  {
+    "id": "natt-m-02",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Fuglen er 16 centimeter, gråbrun med rustbrun hale, og hann og hunn ser like ut. Sangen høres om natten og tidlig om morgenen, og kan bære to kilometer. Den ble første gang hørt syngende ved Oslo i 1926, og hekket i Norge fra 1964. Hvilken fugl?",
+      "sv": "Fågeln är 16 centimeter, gråbrun med rostbrun stjärt, och hane och hona ser likadana ut. Sången hörs på natten och tidigt på morgonen och kan bära två kilometer. Den hördes första gången sjunga vid Oslo 1926 och häckade i Norge från 1964. Vilken fågel?"
+    },
+    "answer": {
+      "nb": "Nattergal",
+      "sv": "Näktergal"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det latinske navnet er Luscinia luscinia, og arten hører til fluesnapperfamilien.",
+      "sv": "Det latinska namnet är Luscinia luscinia, och arten hör till flugsnapparfamiljen."
+    },
+    "funFact": {
+      "nb": "Den hekker spredt i Sør-Norge fra Agder til Oslofjorden, og nordligste funn er gjort på Sunnmøre. I Norge står den som nær truet, mens den globalt regnes som livskraftig.",
+      "sv": "Den häckar spritt i södra Norge från Agder till Oslofjorden, och nordligaste fyndet är gjort i Sunnmøre. I Norge är den nära hotad, medan den globalt räknas som livskraftig."
+    },
+    "source": "Store norske leksikon – «nattergal»"
+  },
+  {
+    "id": "natt-m-03",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Energirike partikler slynges fra sola mot jorda og treffer gasser i atmosfæren, mest mellom 80 og 500 kilometer oppe. Oksygenatomer gir den gulgrønne fargen ved 557,7 nanometer, og rødt høyere oppe. I Troms og Finnmark sees det best rundt midnatt. Hva kalles fenomenet?",
+      "sv": "Energirika partiklar slungas från solen mot jorden och träffar gaser i atmosfären, mest mellan 80 och 500 kilometer upp. Syreatomer ger den gulgröna färgen vid 557,7 nanometer, och rött högre upp. I Troms och Finnmark syns det bäst kring midnatt. Vad kallas fenomenet?"
+    },
+    "answer": {
+      "nb": "Nordlys",
+      "sv": "Norrsken"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fenomenet opptrer i et ovalt belte rundt den magnetiske polen.",
+      "sv": "Fenomenet uppträder i ett ovalt bälte runt den magnetiska polen."
+    },
+    "funFact": {
+      "nb": "I sonen omtrent 23 grader fra den magnetiske polen er det synlig mer enn halvparten av nettene, selv når aktiviteten på sola er lav. Lysstyrken er sterkest 100–120 kilometer oppe.",
+      "sv": "I zonen omkring 23 grader från den magnetiska polen syns det mer än hälften av nätterna, även när solaktiviteten är låg. Ljusstyrkan är starkast 100–120 kilometer upp."
+    },
+    "source": "Store norske leksikon – «nordlys»"
+  },
+  {
+    "id": "natt-m-04",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I komedien møter vi alvekongen Oberon, dronningen Titania og den skøyeraktige alven Puck, som steller i stand forvekslinger i skogen en sommernatt. Puck kommer opprinnelig fra germansk folketro, der han var et ondsinnet vesen. Hvem skrev «En midtsommernattsdrøm»?",
+      "sv": "I komedin möter vi älvkungen Oberon, drottningen Titania och den skälmske älvan Puck, som ställer till med förväxlingar i skogen en sommarnatt. Puck kommer ursprungligen från germansk folktro, där han var ett ondsint väsen. Vem skrev «En midsommarnattsdröm»?"
+    },
+    "answer": "William Shakespeare",
+    "answerKind": "person",
+    "person": {
+      "given": "William",
+      "family": "Shakespeare"
+    },
+    "hint": {
+      "nb": "Puck opptrer som alv hos denne engelske dramatikeren, men stammer fra eldre folketro.",
+      "sv": "Puck uppträder som älva hos denne engelske dramatiker, men härstammar från äldre folktro."
+    },
+    "funFact": {
+      "nb": "William Blake malte Oberon, Titania og Puck dansende med alvene i 1786.",
+      "sv": "William Blake målade Oberon, Titania och Puck dansande med älvorna 1786."
+    },
+    "source": "Store norske leksikon – «Puck»"
+  },
+  {
+    "id": "natt-m-05",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Stavcellene i netthinnen er mer følsomme for lys enn tappcellene, og står for synet i svak belysning. Svikter de – ofte på grunn av mangel på A-vitamin – blir synet dårlig i mørke. Hva kalles tilstanden?",
+      "sv": "Stavcellerna i näthinnan är känsligare för ljus än tappcellerna och står för synen i svag belysning. Sviktar de – ofta på grund av brist på A-vitamin – blir synen dålig i mörker. Vad kallas tillståndet?"
+    },
+    "answer": "Nattblindhet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tilstanden er det motsatte av dagblindhet.",
+      "sv": "Tillståndet är motsatsen till dagblindhet."
+    },
+    "funFact": {
+      "nb": "Skyldes den A-vitaminmangel, helbredes den raskt med melk, smør, egg og lever i kosten. Det finnes også en ufarlig arvelig form som ikke bedres av vitamintilskudd.",
+      "sv": "Beror den på A-vitaminbrist botas den snabbt med mjölk, smör, ägg och lever i kosten. Det finns också en ofarlig ärftlig form som inte förbättras av vitamintillskott."
+    },
+    "source": "Store medisinske leksikon – «nattblindhet»"
+  },
+  {
+    "id": "natt-m-06",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Vinter-OL arrangeres i Nagano. «Titanic» vinner elleve Oscar. Langfredagsavtalen undertegnes i Belfast. Den europeiske sentralbanken opprettes. Frankrike vinner fotball-VM på hjemmebane. Google grunnlegges av Larry Page og Sergey Brin. Første modul til Den internasjonale romstasjonen skytes opp. Danmark holder folketingsvalg. Hvilket år?",
+      "sv": "Vinter-OS hålls i Nagano. «Titanic» vinner elva Oscar. Långfredagsavtalet undertecknas i Belfast. Europeiska centralbanken grundas. Frankrike vinner fotbolls-VM på hemmaplan. Google grundas av Larry Page och Sergey Brin. Första modulen till Internationella rymdstationen skjuts upp. Danmark håller folketingsval. Vilket år?"
+    },
+    "answer": "1998",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Alt dette skjedde i siste halvdel av 1990-tallet.",
+      "sv": "Allt detta hände under senare hälften av 1990-talet."
+    },
+    "funFact": {
+      "nb": "Lekene i Nagano gikk 7.–22. februar, Oscar-utdelingen var 23. mars, Belfast-avtalen ble signert 10. april, sentralbanken opprettet 1. juni, VM-finalen spilt 12. juli, Google grunnlagt 4. september og Zarya-modulen skutt opp 20. november.",
+      "sv": "Spelen i Nagano hölls 7–22 februari, Oscarsgalan var den 23 mars, Belfastavtalet undertecknades den 10 april, centralbanken grundades den 1 juni, VM-finalen spelades den 12 juli, Google grundades den 4 september och Zarya-modulen sköts upp den 20 november."
+    },
+    "source": "en.wikipedia.org – «1998»"
+  },
+  {
+    "id": "natt-m-07",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Sjangeren har navn etter det italienske ordet notturno, «nattlig», og skal ha et rolig, lyrisk og av og til dystert uttrykk. Ireren John Field utviklet formen som romantisk pianosjanger, men én komponist skrev hele 21 av dem og er blitt selve navnet på sjangeren. Hvem?",
+      "sv": "Genren har namn efter det italienska ordet notturno, «nattlig», och ska ha ett lugnt, lyriskt och ibland dystert uttryck. Iren John Field utvecklade formen som romantisk pianogenre, men en tonsättare skrev hela 21 av dem och har blivit själva namnet på genren. Vem?"
+    },
+    "answer": "Frédéric Chopin",
+    "answerKind": "person",
+    "person": {
+      "given": "Frédéric",
+      "family": "Chopin"
+    },
+    "hint": {
+      "nb": "Formen forbindes først og fremst med karakterstykker for piano fra romantikken.",
+      "sv": "Formen förknippas främst med karaktärsstycken för piano från romantiken."
+    },
+    "funFact": {
+      "nb": "John Field levde fra 1782 til 1837 og skrev soloverk for piano med sangbar melodi over brutte akkorder. Betegnelsen ble senere brukt om ulike besetninger og former.",
+      "sv": "John Field levde 1782 till 1837 och skrev soloverk för piano med sångbar melodi över brutna ackord. Beteckningen användes senare om olika besättningar och former."
+    },
+    "source": "Store norske leksikon – «nokturne»"
+  },
+  {
+    "id": "natt-m-08",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Hormonet dannes i epifysen og føres med blodet til mange organer. Produksjonen stimuleres av mørke og hemmes av dagslys, styrt av en nerveforbindelse mellom øyets netthinne og kjertelen. Den er større i vinterhalvåret enn i sommerhalvåret. Hva heter hormonet?",
+      "sv": "Hormonet bildas i epifysen och förs med blodet till många organ. Produktionen stimuleras av mörker och hämmas av dagsljus, styrd av en nervförbindelse mellan ögats näthinna och körteln. Den är större under vinterhalvåret än under sommarhalvåret. Vad heter hormonet?"
+    },
+    "answer": "Melatonin",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er dette hormonet som styrer døgnrytmen og søvn-våken-syklusen.",
+      "sv": "Det är detta hormon som styr dygnsrytmen och sömn-vakenhetscykeln."
+    },
+    "funFact": {
+      "nb": "Hormonet påvirker også kjønnsmodning og immunforsvar, og produksjonen avtar naturlig med alderen.",
+      "sv": "Hormonet påverkar också könsmognad och immunförsvar, och produktionen avtar naturligt med åldern."
+    },
+    "source": "Store medisinske leksikon – «melatonin»"
+  },
+  {
+    "id": "natt-m-09",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den svenske astronomen innrettet i 1742 Sveriges første astronomiske observatorium i Uppsala, med instrumenter han hadde kjøpt på reiser i Europa. Undersøkelsene hans av nattehimmelens nordlys gjorde ham kjent i hele Europa. Men navnet hans lever videre i noe helt annet. Hva het han?",
+      "sv": "Den svenske astronomen inrättade 1742 Sveriges första astronomiska observatorium i Uppsala, med instrument han köpt på resor i Europa. Hans undersökningar av natthimlens norrsken gjorde honom känd i hela Europa. Men hans namn lever vidare i något helt annat. Vad hette han?"
+    },
+    "answer": "Anders Celsius",
+    "answerKind": "person",
+    "person": {
+      "given": "Anders",
+      "family": "Celsius"
+    },
+    "hint": {
+      "nb": "Han levde bare fra 1701 til 1744.",
+      "sv": "Han levde bara från 1701 till 1744."
+    },
+    "funFact": {
+      "nb": "Skalaen han foreslo i 1741 hadde 0 grader ved vannets kokepunkt og 100 ved frysepunktet. Carl von Linné og instrumentmakeren Daniel Ekström snudde den senere om.",
+      "sv": "Skalan han föreslog 1741 hade 0 grader vid vattnets kokpunkt och 100 vid fryspunkten. Carl von Linné och instrumentmakaren Daniel Ekström vände senare på den."
+    },
+    "source": "Store norske leksikon – «Anders Celsius»"
+  },
+  {
+    "id": "natt-m-10",
+    "category": "natt",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Den svenske skuespilleren ble født i Stockholm i 1909 og debuterte på film i 1931, men fikk først roller av betydning på 1950-tallet. Han spilte væpneren i «Det sjunde inseglet» og presten i «Nattvardsgästerna» fra 1963. Hvem var han?",
+      "sv": "Den svenske skådespelaren föddes i Stockholm 1909 och debuterade på film 1931, men fick först roller av betydelse på 1950-talet. Han spelade väpnaren i «Det sjunde inseglet» och prästen i «Nattvardsgästerna» från 1963. Vem var han?"
+    },
+    "answer": "Gunnar Björnstrand",
+    "answerKind": "person",
+    "person": {
+      "given": "Gunnar",
+      "family": "Björnstrand"
+    },
+    "hint": {
+      "nb": "Han var kjent som en elegant lystspillaktør og fremragende karakterskuespiller, både på scenen og på film.",
+      "sv": "Han var känd som en elegant lustspelsaktör och framstående karaktärsskådespelare, både på scenen och på film."
+    },
+    "funFact": {
+      "nb": "Han spilte også ektemannen i «Kvinnors väntan» i 1952 og faren i «Såsom i en spegel» i 1961. Siste rolle var i «Fanny och Alexander» i 1982.",
+      "sv": "Han spelade också maken i «Kvinnors väntan» 1952 och fadern i «Såsom i en spegel» 1961. Sista rollen var i «Fanny och Alexander» 1982."
+    },
+    "source": "Store norske leksikon – «Gunnar Björnstrand»"
   }
 ]
