@@ -67,6 +67,13 @@ export interface Coverage {
   /** Dagsaktuelle spørsmål som fortsatt er ferske, per nivå. Kommer i tillegg til måltallet. */
   topicalPerDifficulty: Record<Difficulty, number>
   topicalTotal: number
+  /**
+   * Spørsmål med «på denne dag»-varianter, uansett hvilken dato variantene
+   * gjelder. Teller spørsmål, ikke varianter – ett spørsmål kan ha flere.
+   */
+  datedTotal: number
+  /** Antall «på denne dag»-varianter til sammen. */
+  datedVariants: number
 }
 
 export const QUESTIONS_PER_ROUND = 10
@@ -91,6 +98,9 @@ export function coverage(day: string = today()): Coverage[] {
       medium: topicalFor(c.id, 'medium', day).length,
       vanskelig: topicalFor(c.id, 'vanskelig', day).length,
     }
+    // «På denne dag» telles på hele banken, ikke bare det som treffer i dag –
+    // poenget er å se hvilke temaer som har fått datovarianter i det hele tatt.
+    const dated = DIFFICULTY_LIST.flatMap((d) => rawPoolFor(c.id, d)).filter((q) => q.onThisDay?.length)
     return {
       category: c.id,
       perDifficulty,
@@ -98,6 +108,8 @@ export function coverage(day: string = today()): Coverage[] {
       topicalPerDifficulty,
       topicalTotal:
         topicalPerDifficulty.lett + topicalPerDifficulty.medium + topicalPerDifficulty.vanskelig,
+      datedTotal: dated.length,
+      datedVariants: dated.reduce((sum, q) => sum + (q.onThisDay?.length ?? 0), 0),
     }
   })
 }

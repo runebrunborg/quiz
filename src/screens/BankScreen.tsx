@@ -20,6 +20,9 @@ export default function BankScreen() {
   const target = CATEGORIES.length * DIFFICULTIES.length * POOL_TARGET
   const have = ALL_QUESTIONS.filter((q) => !q.topical).length
   const topicalHave = rows.reduce((sum, r) => sum + r.topicalTotal, 0)
+  const datedHave = rows.reduce((sum, r) => sum + r.datedTotal, 0)
+  const datedVariants = rows.reduce((sum, r) => sum + r.datedVariants, 0)
+  const datedCategories = rows.filter((r) => r.datedTotal > 0).length
   const topicalTarget = CATEGORIES.length * DIFFICULTIES.length * TOPICAL_PER_ROUND
 
   return (
@@ -34,6 +37,11 @@ export default function BankScreen() {
           {QUESTIONS_PER_ROUND} fra puljen etter kvote: velger du norsk blir fem norskforankrede, to svenske og tre
           internasjonale. En norsk og en svensk runde av samme tema deler derfor bare rundt halvparten av
           spørsmålene. Grønn prikk = nivået er fullt. Be Claude fylle på et tema, så dukker det opp her.
+        </p>
+        <p className="setup__note">
+          «På denne dag»: <strong className="tabular">{datedHave}</strong> spørsmål har datovarianter
+          {datedVariants > datedHave ? ` (til sammen ${datedVariants} datoer)` : ''}, fordelt på {datedCategories} av{' '}
+          {CATEGORIES.length} temaer. Treffer dagens dato en variant, byttes hele spørsmålsteksten ut den dagen.
         </p>
         <p className="setup__note">
           I tillegg kommer de dagsaktuelle: <strong className="tabular">{topicalHave}</strong> av {topicalTarget} (
@@ -54,6 +62,7 @@ export default function BankScreen() {
               ))}
               <th style={{ textAlign: 'right' }}>Sum</th>
               <th style={{ textAlign: 'right' }}>Aktuelt</th>
+              <th style={{ textAlign: 'right' }}>På denne dag</th>
             </tr>
           </thead>
           <tbody>
@@ -86,6 +95,10 @@ export default function BankScreen() {
                       }`}
                     />
                     {row.topicalTotal}
+                  </td>
+                  <td className="num">
+                    <span className={`dot dot--${row.datedTotal > 0 ? 'part' : 'empty'}`} />
+                    {row.datedTotal}
                   </td>
                 </tr>
               )
