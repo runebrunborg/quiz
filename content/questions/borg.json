@@ -4,14 +4,19 @@
     "category": "borg",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["sport"],
+    "topics": [
+      "sport"
+    ],
     "prompt": {
       "nb": "Mellom 1976 og 1980 vant han Wimbledon fem ganger på rad, og i French Open tok han seks titler. Så la han opp allerede som 26-åring, i 1983. Hvilken svensk tennisspiller?",
       "sv": "Mellan 1976 och 1980 vann han Wimbledon fem gånger i rad, och i Franska öppna tog han sex titlar. Sedan lade han av redan som 26-åring, 1983. Vilken svensk tennisspelare?"
     },
     "answer": "Björn Borg",
     "answerKind": "person",
-    "person": { "given": "Björn", "family": "Borg" },
+    "person": {
+      "given": "Björn",
+      "family": "Borg"
+    },
     "hint": {
       "nb": "Han har også gitt navnet sitt til et kjent undertøysmerke.",
       "sv": "Han har också gett sitt namn till ett känt underklädesmärke."
@@ -27,7 +32,9 @@
     "category": "borg",
     "difficulty": "lett",
     "origin": "se",
-    "topics": ["geografi"],
+    "topics": [
+      "geografi"
+    ],
     "prompt": {
       "nb": "Gustav 2. Adolf anla byen ved Göta älvs munning i 1619, og den fikk sine privilegier to år senere. I dag er den Sveriges nest største by, med over en halv million innbyggere. Hvilken by?",
       "sv": "Gustav II Adolf anlade staden vid Göta älvs mynning 1619, och den fick sina privilegier två år senare. I dag är den Sveriges näst största stad, med över en halv miljon invånare. Vilken stad?"
@@ -49,12 +56,17 @@
     "category": "borg",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["arkitektur"],
+    "topics": [
+      "arkitektur"
+    ],
     "prompt": {
       "nb": "Årringene i tømmeret viser at trærne ble felt vinteren 1180–81. Kirken ligger i Lærdal i Indre Sogn, har dragehoder på takrytterne og regnes som den best bevarte av de norske stavkirkene. Hvilken kirke?",
       "sv": "Årsringarna i timret visar att träden fälldes vintern 1180–81. Kyrkan ligger i Lærdal i Indre Sogn, har drakhuvuden på takryttarna och räknas som den bäst bevarade av de norska stavkyrkorna. Vilken kyrka?"
     },
-    "answer": { "nb": "Borgund stavkirke", "sv": "Borgunds stavkyrka" },
+    "answer": {
+      "nb": "Borgund stavkirke",
+      "sv": "Borgunds stavkyrka"
+    },
     "answerKind": "annet",
     "hint": {
       "nb": "Den heter det samme som bygda i Lærdal der den står.",
@@ -71,7 +83,9 @@
     "category": "borg",
     "difficulty": "lett",
     "origin": "no",
-    "topics": ["fotball"],
+    "topics": [
+      "fotball"
+    ],
     "prompt": {
       "nb": "Fra 1992 til 2004 vant klubben seriemesterskapet tretten år på rad, og Nils Arne Eggen formet den til det dominerende laget i norsk fotball. Hvilken Trondheims-klubb?",
       "sv": "Från 1992 till 2004 vann klubben seriemästerskapet tretton år i rad, och Nils Arne Eggen formade den till det dominerande laget i norsk fotboll. Vilken Trondheimsklubb?"
@@ -93,7 +107,9 @@
     "category": "borg",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["litteratur"],
+    "topics": [
+      "litteratur"
+    ],
     "prompt": {
       "nb": "Shakespeare la handlingen i «Hamlet» til en dansk borg ved det smaleste stedet i Øresund, i byen han kalte Elsinore. Borgen ble reist for å kontrollere skipstrafikken og kreve inn øresundstollen. Hvilken borg?",
       "sv": "Shakespeare lade handlingen i «Hamlet» till en dansk borg vid det smalaste stället i Öresund, i staden han kallade Elsinore. Borgen restes för att kontrollera sjöfarten och kräva in öresundstullen. Vilken borg?"
@@ -115,7 +131,9 @@
     "category": "borg",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["transport"],
+    "topics": [
+      "transport"
+    ],
     "prompt": {
       "nb": "Tysklands stolteste luftskip var fylt med hydrogen. Den 6. mai 1937 tok det fyr under innflygingen mot fortøyningsmasten i Lakehurst i New Jersey, og 35 av de 97 om bord omkom. Hvilket luftskip?",
       "sv": "Tysklands stoltaste luftskepp var fyllt med vätgas. Den 6 maj 1937 fattade det eld under inflygningen mot förtöjningsmasten i Lakehurst i New Jersey, och 35 av de 97 ombord omkom. Vilket luftskepp?"
@@ -137,7 +155,9 @@
     "category": "borg",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["teknologi"],
+    "topics": [
+      "teknologi"
+    ],
     "prompt": {
       "nb": "Ordet ble satt sammen av «kybernetikk» og «organisme» på 1960-tallet, og beskrev opprinnelig et menneske forsterket med teknologi for å tåle verdensrommet. I dag brukes det om et vesen som er halvt biologi, halvt maskin. Hvilket ord?",
       "sv": "Ordet sattes samman av «cybernetik» och «organism» på 1960-talet, och beskrev ursprungligen en människa förstärkt med teknik för att tåla rymden. I dag används det om en varelse som är hälften biologi, hälften maskin. Vilket ord?"
@@ -159,7 +179,9 @@
     "category": "borg",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["kongehus"],
+    "topics": [
+      "kongehus"
+    ],
     "prompt": {
       "nb": "Slekten tok navn etter en borg i Aargau i dagens Sveits, reist rundt år 1020. Derfra vokste den til å styre Østerrike, Ungarn og Böhmen, og en periode også Spania – helt til 1918. Hvilken slekt?",
       "sv": "Ätten tog namn efter en borg i Aargau i dagens Schweiz, rest omkring år 1020. Därifrån växte den till att styra Österrike, Ungern och Böhmen, och en period även Spanien – ända till 1918. Vilken ätt?"
@@ -181,29 +203,33 @@
     "category": "borg",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["tv"],
+    "topics": [
+      "tv"
+    ],
     "prompt": {
-      "nb": "I den danske dramaserien fra 2010 blir Birgitte Nyborg uventet landets første kvinnelige statsminister. Tittelen er det uformelle kallenavnet på maktens hus i København, der både Folketinget, statsministeren og Høyesterett holder til. Hva heter serien?",
-      "sv": "I den danska dramaserien från 2010 blir Birgitte Nyborg oväntat landets första kvinnliga statsminister. Titeln är det informella smeknamnet på maktens hus i Köpenhamn, där både Folketinget, statsministern och Högsta domstolen håller till. Vad heter serien?"
+      "nb": "I den danske dramaserien fra 2010 blir Birgitte Nyborg uventet landets første kvinnelige statsminister. Tittelen er det uformelle kallenavnet på maktens hus i København, der Folketinget, statsministeren og Høyesterett holder til. Hva heter bygningen offisielt?",
+      "sv": "I den danska dramaserien från 2010 blir Birgitte Nyborg oväntat landets första kvinnliga statsminister. Titeln är det informella smeknamnet på maktens hus i Köpenhamn, där Folketinget, statsministern och Högsta domstolen håller till. Vad heter byggnaden officiellt?"
     },
-    "answer": "Borgen",
+    "answer": "Christiansborg",
     "answerKind": "annet",
     "hint": {
-      "nb": "Sidse Babett Knudsen spiller hovedrollen.",
-      "sv": "Sidse Babett Knudsen spelar huvudrollen."
+      "nb": "Bygningen ligger på Slotsholmen, en øy sørøst for den eldste bykjernen.",
+      "sv": "Byggnaden ligger på Slotsholmen, en ö sydost om den äldsta stadskärnan."
     },
     "funFact": {
-      "nb": "Kallenavnet sikter til Christiansborg slott. Serien hadde premiere på DR 26. september 2010, og de tre første sesongene ble laget der.",
-      "sv": "Smeknamnet syftar på Christiansborgs slott. Serien hade premiär på DR den 26 september 2010, och de tre första säsongerna gjordes där."
+      "nb": "Dagens bygning er den tredje på tomta – de to første brant i 1794 og 1884. Folketinget flyttet inn i 1918 og Høyesterett i 1919. Sidse Babett Knudsen spilte Birgitte Nyborg.",
+      "sv": "Dagens byggnad är den tredje på tomten – de två första brann 1794 och 1884. Folketinget flyttade in 1918 och Högsta domstolen 1919. Sidse Babett Knudsen spelade Birgitte Nyborg."
     },
-    "source": "DR / Wikipedia – Borgen (TV-serie)"
+    "source": "Store norske leksikon – «Christiansborg – slott i København»"
   },
   {
     "id": "borg-l-10",
     "category": "borg",
     "difficulty": "lett",
     "origin": "int",
-    "topics": ["historie"],
+    "topics": [
+      "historie"
+    ],
     "prompt": {
       "nb": "Den spansk-italienske adelsslekten kom fra Valencia og steg til topps i renessansens Italia. Rodrigo ble pave Alexander 6. i 1492, og barna hans Cesare og Lucrezia er blitt selve bildet på tidens intriger. Hvilken slekt?",
       "sv": "Den spansk-italienska adelsätten kom från Valencia och steg till toppen i renässansens Italien. Rodrigo blev påve Alexander VI år 1492, och hans barn Cesare och Lucrezia har blivit själva bilden av tidens intriger. Vilken ätt?"

@@ -59,20 +59,20 @@
       "vitenskap"
     ],
     "prompt": {
-      "nb": "Måleenheten ble avviklet i Norge da metersystemet kom i 1875, men lever i beste velgående i engelsktalende land. Siden 1959 har den britiske varianten hatt den nøyaktige verdien 30,48 centimeter. Hvilken enhet er dette?",
-      "sv": "Måttenheten avvecklades i Norge när metersystemet kom 1875, men lever i högsta grad kvar i engelsktalande länder. Sedan 1959 har den brittiska varianten det exakta värdet 30,48 centimeter. Vilken enhet är detta?"
+      "nb": "Måleenheten var opprinnelig basert på lengden av en middels fotsåle, rundt 30 centimeter. I Norge var den 31,63 centimeter i 1541 og 31,374 i 1824. I 1875 ble den avviklet her til lands, fordi noe helt annet ble innført. Hva ble innført?",
+      "sv": "Måttenheten byggde ursprungligen på längden av en medelstor fotsula, omkring 30 centimeter. I Norge var den 31,63 centimeter 1541 och 31,374 år 1824. År 1875 avvecklades den i Norge, eftersom något helt annat infördes. Vad infördes?"
     },
-    "answer": "fot",
+    "answer": "Metersystemet",
     "answerKind": "annet",
     "hint": {
-      "nb": "På engelsk heter enheten foot, i flertall feet.",
-      "sv": "På engelska heter enheten foot, i plural feet."
+      "nb": "Den britiske varianten av den gamle enheten har siden 1959 hatt den eksakte verdien 30,48 centimeter.",
+      "sv": "Den brittiska varianten av den gamla enheten har sedan 1959 det exakta värdet 30,48 centimeter."
     },
     "funFact": {
-      "nb": "Navnet kommer av kroppsdelen enheten opprinnelig ble målt med, og lengden varierte derfor fra sted til sted før den ble standardisert.",
-      "sv": "Namnet kommer av kroppsdelen enheten ursprungligen mättes med, och längden varierade därför från plats till plats innan den standardiserades."
+      "nb": "Den gamle enheten lever i beste velgående i engelsktalende land. I Norge var verdien 31,47 centimeter i 1683 – lengden varierte altså både med tid og sted.",
+      "sv": "Den gamla enheten lever i högsta grad kvar i engelsktalande länder. I Norge var värdet 31,47 centimeter 1683 – längden varierade alltså både med tid och plats."
     },
-    "source": "Store norske leksikon – fot (lengdemål)"
+    "source": "Store norske leksikon – «fot – lengdemål»"
   },
   {
     "id": "fot-l-04",
