@@ -1,0 +1,246 @@
+[
+  {
+    "id": "borg-m-11",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Borgen i Paris ble reist mellom 1370 og 1382 og brukt som statsfengsel, blant annet for Voltaire og markien de Sade. Da folkemengden stormet den 14. juli 1789, satt det bare sju fanger igjen der. Hvilken borg?",
+      "sv": "Borgen i Paris restes mellan 1370 och 1382 och användes som statsfängelse, bland annat för Voltaire och markisen de Sade. När folkmassan stormade den den 14 juli 1789 satt bara sju fångar kvar där. Vilken borg?"
+    },
+    "answer": "Bastillen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Datoen ble Frankrikes nasjonaldag i 1880.",
+      "sv": "Datumet blev Frankrikes nationaldag 1880."
+    },
+    "funFact": {
+      "nb": "Rundt hundre opprørere døde før borgen overga seg. Bare én av de sju fangene satt der av politiske grunner; to var psykisk syke.",
+      "sv": "Omkring hundra upprorsmän dog innan borgen kapitulerade. Bara en av de sju fångarna satt där av politiska skäl; två var psykiskt sjuka."
+    },
+    "source": "Store norske leksikon – «Bastillen»"
+  },
+  {
+    "id": "borg-m-12",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vikingtid"
+    ],
+    "prompt": {
+      "nb": "Harald Blåtann lot den bygge sørvest for Slagelse på Sjælland, og årringene i tømmeret daterer den til 980 eller 981. Ringvollen måler 136 meter tvers over, med fire porter mot himmelretningene og seksten like langhus inne. Hva heter anlegget?",
+      "sv": "Harald Blåtand lät bygga den sydväst om Slagelse på Själland, och årsringarna i timret daterar den till 980 eller 981. Ringvallen mäter 136 meter tvärs över, med fyra portar mot väderstrecken och sexton likadana långhus inne. Vad heter anläggningen?"
+    },
+    "answer": "Trelleborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Anlegget kom på Unescos verdensarvliste i 2023, sammen med fire andre danske ringborger.",
+      "sv": "Anläggningen kom på Unescos världsarvslista 2023, tillsammans med fyra andra danska ringborgar."
+    },
+    "funFact": {
+      "nb": "Vollen var fem meter høy og 17,5 meter bred ved foten, og borgen kunne romme rundt 1300 mennesker. Hvert langhus var omtrent 29 meter langt.",
+      "sv": "Vallen var fem meter hög och 17,5 meter bred vid foten, och borgen kunde rymma omkring 1300 människor. Varje långhus var ungefär 29 meter långt."
+    },
+    "source": "Store norske leksikon – «Trelleborg – Slagelse»; en.wikipedia.org – «Trelleborg (Slagelse)» (hentet 05.09.2026)"
+  },
+  {
+    "id": "borg-m-13",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Den argentinske forfatteren ble født i Buenos Aires i 1899 og døde i Genève i 1986. Han ledet Argentinas nasjonalbibliotek fra 1955 til 1973, mot slutten nesten helt blind, og skrev novellesamlingene «Ficciones» og «El Aleph». Hvem var han?",
+      "sv": "Den argentinske författaren föddes i Buenos Aires 1899 och dog i Genève 1986. Han ledde Argentinas nationalbibliotek från 1955 till 1973, mot slutet nästan helt blind, och skrev novellsamlingarna «Ficciones» och «El Aleph». Vem var han?"
+    },
+    "answer": "Jorge Luis Borges",
+    "answerKind": "person",
+    "person": {
+      "given": "Jorge Luis",
+      "family": "Borges"
+    },
+    "hint": {
+      "nb": "Han fikk Premio Miguel de Cervantes i 1979, den høyeste utmerkelsen i spanskspråklig litteratur.",
+      "sv": "Han fick Premio Miguel de Cervantes 1979, den högsta utmärkelsen inom spanskspråkig litteratur."
+    },
+    "funFact": {
+      "nb": "Han ga også ut «El informe de Brodie» i 1970 og «El libro de arena» i 1975. Han ble 87 år gammel.",
+      "sv": "Han gav också ut «El informe de Brodie» 1970 och «El libro de arena» 1975. Han blev 87 år gammal."
+    },
+    "source": "Store norske leksikon – «Jorge Luis Borges»"
+  },
+  {
+    "id": "borg-m-14",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Bilmerket fra Eisenach i Øst-Tyskland ble gjenopplivet i 1955 og levde til 1991. Modellene hadde tresylindret totaktsmotor og forhjulsdrift, og navnet var hentet fra borgen som rager over byen. Hva het merket?",
+      "sv": "Bilmärket från Eisenach i Östtyskland återupplivades 1955 och levde till 1991. Modellerna hade trecylindrig tvåtaktsmotor och framhjulsdrift, och namnet var hämtat från borgen som reser sig över staden. Vad hette märket?"
+    },
+    "answer": "Wartburg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fabrikken het VEB Automobilwerk Eisenach og bygde videre på konstruksjoner fra DKW.",
+      "sv": "Fabriken hette VEB Automobilwerk Eisenach och byggde vidare på konstruktioner från DKW."
+    },
+    "funFact": {
+      "nb": "Modell 311 ble laget i over 250 000 eksemplarer og 312 i over 33 000, begge mellom 1955 og 1966. Modell 353 gikk fra 1966 til 1991.",
+      "sv": "Modell 311 tillverkades i över 250 000 exemplar och 312 i över 33 000, båda mellan 1955 och 1966. Modell 353 gick från 1966 till 1991."
+    },
+    "source": "Store norske leksikon – «Wartburg – bilmerke»"
+  },
+  {
+    "id": "borg-m-15",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Ordet kom av dem som slo seg ned rundt en borg, i det som etter hvert vokste til en by. Med tiden betegnet det bare de registrerte kjøpmennene og håndverksmestrene, ikke bønder eller uautoriserte handlende. Hva kalles denne klassen på fransk?",
+      "sv": "Ordet kom av dem som slog sig ned kring en borg, i det som så småningom växte till en stad. Med tiden betecknade det bara de registrerade köpmännen och hantverksmästarna, inte bönder eller oauktoriserade handlande. Vad kallas denna klass på franska?"
+    },
+    "answer": "bourgeoisie",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Karl Marx brukte ordet om klassen som kontrollerer produksjonsmidlene.",
+      "sv": "Karl Marx använde ordet om klassen som kontrollerar produktionsmedlen."
+    },
+    "funFact": {
+      "nb": "På norsk og svensk heter det borgerskap, og betegner en rimelig velstående, men ikke adelig middelklasse med eiendom.",
+      "sv": "På norska och svenska heter det borgerskap, och betecknar en någorlunda välbärgad, men inte adlig medelklass med egendom."
+    },
+    "source": "Store norske leksikon – «borgerskap»"
+  },
+  {
+    "id": "borg-m-16",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "I februar 1914 samlet omkring 30 000 bønder seg i Stockholm og krevde sterkere forsvar. Kongen møtte dem på borggården ved slottet og ga dem rett, og den liberale regjeringen under Karl Staaff gikk av. Hvilken konge?",
+      "sv": "I februari 1914 samlades omkring 30 000 bönder i Stockholm och krävde starkare försvar. Kungen mötte dem på borggården vid slottet och gav dem rätt, och den liberala regeringen under Karl Staaff avgick. Vilken kung?"
+    },
+    "answer": "Gustav 5.",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han regjerte fra 1907 til 1950.",
+      "sv": "Han regerade från 1907 till 1950."
+    },
+    "funFact": {
+      "nb": "Talen kalles borggårdstalen. Den utløste krav om at kongen skulle abdisere og om republikk, men verdenskrigen brøt ut samme år og ga forsvarskravet medhold.",
+      "sv": "Talet kallas borggårdstalet. Det utlöste krav på att kungen skulle abdikera och på republik, men världskriget bröt ut samma år och gav försvarskravet medhåll."
+    },
+    "source": "Store norske leksikon – «Gustav 5»"
+  },
+  {
+    "id": "borg-m-17",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Etter at Sverige mistet Finland i 1809 ble planen å trekke fienden innover i landet i stedet for å stoppe ham ved kysten. Anlegget ved Vättern, der Göta kanal munner ut, ble påbegynt i 1819 og først regnet som ferdig i 1907. Hvilken festning?",
+      "sv": "Efter att Sverige förlorat Finland 1809 blev planen att dra fienden inåt landet i stället för att stoppa honom vid kusten. Anläggningen vid Vättern, där Göta kanal mynnar ut, påbörjades 1819 och räknades som färdig först 1907. Vilken fästning?"
+    },
+    "answer": "Karlsborg festning",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den skulle romme en hel by, og i krig huse kongen, regjeringen, riksbanken og riksdagen.",
+      "sv": "Den skulle rymma en hel stad och i krig hysa kungen, regeringen, riksbanken och riksdagen."
+    },
+    "funFact": {
+      "nb": "Byggingen tok 88 år. Den mest slående delen er den 678 meter lange forsvars- og kasernebygningen. Festningen var i bruk til 1925 og er i dag delvis museum.",
+      "sv": "Bygget tog 88 år. Den mest slående delen är den 678 meter långa försvars- och kasernbyggnaden. Fästningen var i bruk till 1925 och är i dag delvis museum."
+    },
+    "source": "Store norske leksikon – «Karlsborg festning»"
+  },
+  {
+    "id": "borg-m-18",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Håkon 5. Magnusson satte i gang byggingen på Bagaholmen i Nordre älv ved Kungälv, etter et råd fra grev Jakob av Halland i 1308. Ved freden i Roskilde i 1658 gikk den over til Sverige og ble grensefestning. Hvilken borg?",
+      "sv": "Håkon 5 Magnusson satte i gång bygget på Bagaholmen i Nordre älv vid Kungälv, efter ett råd från greve Jakob av Halland 1308. Vid freden i Roskilde 1658 gick den över till Sverige och blev gränsfästning. Vilken borg?"
+    },
+    "answer": "Bohus festning",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Borgen ble beleiret fjorten ganger, men aldri tatt.",
+      "sv": "Borgen belägrades fjorton gånger, men intogs aldrig."
+    },
+    "funFact": {
+      "nb": "Christian 2. angrep i 1531, svenskene under Hannibalfeiden i 1645 og flere ganger under Den skånske krigen 1675–1679. Etter en norsk beleiring i 1788 ble den nedlagt året etter.",
+      "sv": "Kristian 2 angrep 1531, svenskarna under Hannibalfejden 1645 och flera gånger under Skånska kriget 1675–1679. Efter en norsk belägring 1788 lades den ned året därpå."
+    },
+    "source": "Store norske leksikon – «Bohus festning»"
+  },
+  {
+    "id": "borg-m-19",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Her ble den nordiske unionen mellom Danmark, Norge og Sverige beseglet i 1397. Gustav Vasa bygde borgen om på 1540-tallet, og under Johan 3. gjorde arkitekter fra familien Pahr den om til renessanseslott på 1570-tallet. Hvilket slott?",
+      "sv": "Här beseglades den nordiska unionen mellan Danmark, Norge och Sverige 1397. Gustav Vasa byggde om borgen på 1540-talet, och under Johan 3 gjorde arkitekter från familjen Pahr den till renässansslott på 1570-talet. Vilket slott?"
+    },
+    "answer": "Kalmar slott",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Befestningene ble fullført mellom 1600 og 1609 under Karl 9.",
+      "sv": "Befästningarna fullbordades mellan 1600 och 1609 under Karl 9."
+    },
+    "funFact": {
+      "nb": "Unionen som ble inngått her, bærer byens navn. Slottet ble restaurert i årene 1860–1890 og videre fra 1919.",
+      "sv": "Unionen som ingicks här bär stadens namn. Slottet restaurerades åren 1860–1890 och vidare från 1919."
+    },
+    "source": "Store norske leksikon – «Kalmar slott»"
+  },
+  {
+    "id": "borg-m-20",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Byen ligger på vestkysten av Öland og hadde 4409 innbyggere i 2016. Over den rager ruinen av et slott som byggmestrene Johan Baptista og Dominicus Pahr begynte på i 1572, og som brant ned i 1806. Hvilken by?",
+      "sv": "Staden ligger på Ölands västkust och hade 4409 invånare 2016. Över den reser sig ruinen av ett slott som byggmästarna Johan Baptista och Dominicus Pahr började på 1572, och som brann ned 1806. Vilken stad?"
+    },
+    "answer": "Borgholm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ruinen er i dag turistattraksjon og arena for konserter og arrangementer om sommeren.",
+      "sv": "Ruinen är i dag turistattraktion och arena för konserter och arrangemang på sommaren."
+    },
+    "funFact": {
+      "nb": "De samme byggmestrene fra familien Pahr sto bak ombyggingen av Kalmar slott på 1570-tallet.",
+      "sv": "Samma byggmästare från familjen Pahr stod bakom ombyggnaden av Kalmar slott på 1570-talet."
+    },
+    "source": "Store norske leksikon – «Borgholm»"
+  }
+]
