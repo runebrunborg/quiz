@@ -300,5 +300,261 @@
       "sv": "Bebyggelsen täcker 0,8 kvadratkilometer. Vid sidan av fisket lever platsen på turism, med rorbuer att hyra och camping."
     },
     "source": "Store norske leksikon – «Ballstad»"
+  },
+  {
+    "id": "ball-m-01",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Stedet ligger på sørsiden av Ofotfjorden i Nordland og hadde 2470 innbyggere. Bjørkåsen Gruber drev svovelkisgruve der fra 1917 til malmen tok slutt i 1964, og i 2020 ble kommunen slått sammen med Narvik. Hva heter stedet?",
+      "sv": "Platsen ligger på södra sidan av Ofotfjorden i Nordland och hade 2470 invånare. Bjørkåsen Gruber drev svavelkisgruva där från 1917 tills malmen tog slut 1964, och 2020 slogs kommunen samman med Narvik. Vad heter platsen?"
+    },
+    "answer": "Ballangen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fra 1989 til 2002 ble det også drevet nikkel- og olivingruve i kommunen.",
+      "sv": "Från 1989 till 2002 drevs där också nickel- och olivingruva i kommunen."
+    },
+    "funFact": {
+      "nb": "Bals kobberverk ved Børsvatnet, i gang fra 1636, var den første dokumenterte gruvedriften i Nordland. Før gruvene dominerte jordbruket, særlig melkeproduksjon.",
+      "sv": "Bals kopparverk vid Børsvatnet, i gång från 1636, var den första dokumenterade gruvdriften i Nordland. Före gruvorna dominerade jordbruket, särskilt mjölkproduktion."
+    },
+    "source": "Store norske leksikon – «Ballangen»"
+  },
+  {
+    "id": "ball-m-02",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Idretten oppsto i Danmark og Tyskland omkring 1900, opprinnelig utendørs med elleve på hvert lag. I dag er det sju på banen, seks utespillere og en keeper. Det norske kvinnelandslaget har vært det mestvinnende siden 1980-tallet. Hvilken idrett?",
+      "sv": "Idrotten uppstod i Danmark och Tyskland omkring 1900, ursprungligen utomhus med elva i varje lag. I dag är det sju på planen, sex utespelare och en målvakt. Det norska damlandslaget har varit det mest framgångsrika sedan 1980-talet. Vilken idrott?"
+    },
+    "answer": "håndball",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det norske laget tok OL-gull både i 2008 og i 2012.",
+      "sv": "Det norska laget tog OS-guld både 2008 och 2012."
+    },
+    "funFact": {
+      "nb": "Kvinnelandslaget har også VM-gull fra 1999, 2011 og 2015, og sju EM-gull mellom 1998 og 2016 – i alt 27 medaljer i mesterskap mellom 1986 og 2019.",
+      "sv": "Damlandslaget har också VM-guld från 1999, 2011 och 2015, och sju EM-guld mellan 1998 och 2016 – sammanlagt 27 medaljer i mästerskap mellan 1986 och 2019."
+    },
+    "source": "Store norske leksikon – «håndball»"
+  },
+  {
+    "id": "ball-m-03",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "Han regjerte fra 1771 og grunnla Kungliga Operan, Svenska Akademien og Vitterhetsakademien. Den 16. mars 1792 ble han skutt av Jacob Johan Anckarström under en maskerade på operaen i Stockholm, og døde tretten dager senere. Hvilken konge?",
+      "sv": "Han regerade från 1771 och grundade Kungliga Operan, Svenska Akademien och Vitterhetsakademien. Den 16 mars 1792 sköts han av Jacob Johan Anckarström under en maskerad på operan i Stockholm, och dog tretton dagar senare. Vilken kung?"
+    },
+    "answer": "Gustav 3.",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han ble gravlagt i Riddarholmskyrkan i Stockholm.",
+      "sv": "Han begravdes i Riddarholmskyrkan i Stockholm."
+    },
+    "funFact": {
+      "nb": "Han skrev selv drama, blant annet operaen «Gustaf Wasa» sammen med Johan Henric Kellgren, og ga navn til den gustavianske stilen i svensk arkitektur og møbelkunst.",
+      "sv": "Han skrev själv dramatik, bland annat operan «Gustaf Wasa» tillsammans med Johan Henric Kellgren, och gav namn åt den gustavianska stilen i svensk arkitektur och möbelkonst."
+    },
+    "source": "Store norske leksikon – «Gustav 3»"
+  },
+  {
+    "id": "ball-m-04",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Den svenske koreografen levde fra 1908 til 1999. «Fröken Julie» fra 1950 er den mest kjente balletten hennes, fulgt av «Medea» i 1953 og «Månrenen» i 1957. Fra 1967 ledet hun sitt eget kompani ved Svenska Riksteatern. Hvem var hun?",
+      "sv": "Den svenska koreografen levde 1908 till 1999. «Fröken Julie» från 1950 är hennes mest kända balett, följd av «Medea» 1953 och «Månrenen» 1957. Från 1967 ledde hon sitt eget kompani vid Svenska Riksteatern. Vem var hon?"
+    },
+    "answer": "Birgit Cullberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Birgit",
+      "family": "Cullberg"
+    },
+    "hint": {
+      "nb": "Hun startet Svenska Dansteatern i 1946 sammen med Ivo Cramér.",
+      "sv": "Hon startade Svenska Dansteatern 1946 tillsammans med Ivo Cramér."
+    },
+    "funFact": {
+      "nb": "Kompaniet hun ledet fra 1967, er kjent som Cullbergbaletten. «Kvinnan vid havet» kom i 1960.",
+      "sv": "Kompaniet hon ledde från 1967 är känt som Cullbergbaletten. «Kvinnan vid havet» kom 1960."
+    },
+    "source": "Store norske leksikon – «Birgit Ragnhild Cullberg»"
+  },
+  {
+    "id": "ball-m-05",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Mayaene og aztekerne bygde baner av stein ved templene sine, der spillerne skulle få ballen gjennom en ring montert på veggen. Spillet hørte til religionen og skulle blidgjøre gudene, så det kom regn og god høst. Hva var ballen laget av?",
+      "sv": "Mayafolket och aztekerna byggde banor av sten vid sina tempel, där spelarna skulle få bollen genom en ring monterad på väggen. Spelet hörde till religionen och skulle blidka gudarna, så att det kom regn och god skörd. Vad var bollen gjord av?"
+    },
+    "answer": "gummi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stoffet utvinnes av melkesaften i et tre, og strekker seg til flere ganger sin egen lengde før det går tilbake.",
+      "sv": "Ämnet utvinns ur mjölksaften i ett träd och sträcker sig till flera gånger sin egen längd innan det går tillbaka."
+    },
+    "funFact": {
+      "nb": "Nesten alt naturmateriale av dette slaget kommer i dag fra lateks fra gummitreet Hevea brasiliensis. Charles Goodyear fant vulkaniseringen i 1839.",
+      "sv": "Nästan allt naturmaterial av det här slaget kommer i dag från latex från gummiträdet Hevea brasiliensis. Charles Goodyear fann vulkaniseringen 1839."
+    },
+    "source": "Store norske leksikon – «ballspill» og «gummi»"
+  },
+  {
+    "id": "ball-m-06",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den sveitsisk-belgiske fysikeren steg i mai 1931 til 15 781 meter i en ballong med lukket, kulerund aluminiumsgondol, og året etter til 16 940 meter. I 1953 gikk han motsatt vei og nådde 3150 meters dyp. Hvem var han?",
+      "sv": "Den schweizisk-belgiske fysikern steg i maj 1931 till 15 781 meter i en ballong med sluten, klotrund aluminiumgondol, och året därpå till 16 940 meter. År 1953 gick han motsatt väg och nådde 3150 meters djup. Vem var han?"
+    },
+    "answer": "Auguste Piccard",
+    "answerKind": "person",
+    "person": {
+      "given": "Auguste",
+      "family": "Piccard"
+    },
+    "hint": {
+      "nb": "Ballongen rommet 14 000 kubikkmeter og var fylt med hydrogen.",
+      "sv": "Ballongen rymde 14 000 kubikmeter och var fylld med vätgas."
+    },
+    "funFact": {
+      "nb": "Han ble født i Basel i 1884 og døde i Lausanne i 1962. Dykkerfarkosten han bygde for å nå dypet, kalles batyskaf.",
+      "sv": "Han föddes i Basel 1884 och dog i Lausanne 1962. Dykfarkosten han byggde för att nå djupet kallas batyskaf."
+    },
+    "source": "Store norske leksikon – «Auguste Piccard»"
+  },
+  {
+    "id": "ball-m-07",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "I dette inngrepet føres et kateter med en ballong inn i en blodåre, og åren utvides eller åpnes ved at ballongen blåses opp. Metoden brukes særlig mot åreforkalkning, i dag oftest i kransårene på hjertet. Hva heter inngrepet?",
+      "sv": "I det här ingreppet förs en kateter med en ballong in i ett blodkärl, och kärlet vidgas eller öppnas genom att ballongen blåses upp. Metoden används särskilt mot åderförkalkning, i dag oftast i hjärtats kranskärl. Vad heter ingreppet?"
+    },
+    "answer": "angioplastikk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortelsen er PTA, for perkutan transvasal utvidelse.",
+      "sv": "Förkortningen är PTA, för perkutan transvasal vidgning."
+    },
+    "funFact": {
+      "nb": "Metoden ble først brukt på nyrearterier og på arterier i bekken og bein, før den ble vanlig i kransårene.",
+      "sv": "Metoden användes först på njurartärer och på artärer i bäcken och ben, innan den blev vanlig i kranskärlen."
+    },
+    "source": "Store medisinske leksikon – «angioplastikk»"
+  },
+  {
+    "id": "ball-m-08",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "Det franske bladet France Football har siden 1956 delt ut prisen Ballon d'Or til verdens beste mannlige fotballspiller. Journalister fra de hundre høyest rangerte FIFA-nasjonene stemmer, én fra hvert land. Hvem har vunnet prisen åtte ganger?",
+      "sv": "Den franska tidningen France Football har sedan 1956 delat ut priset Ballon d'Or till världens bäste manlige fotbollsspelare. Journalister från de hundra högst rankade Fifa-nationerna röstar, en från varje land. Vem har vunnit priset åtta gånger?"
+    },
+    "answer": "Lionel Messi",
+    "answerKind": "person",
+    "person": {
+      "given": "Lionel",
+      "family": "Messi"
+    },
+    "hint": {
+      "nb": "Prisen har siden 2018 også gått til verdens beste kvinnelige spiller, der Aitana Bonmatí leder med tre.",
+      "sv": "Priset har sedan 2018 också gått till världens bästa kvinnliga spelare, där Aitana Bonmatí leder med tre."
+    },
+    "funFact": {
+      "nb": "Kandidatene rangeres med et poengsystem fra 15 ned til 1. I kvinneklassen stemmer femti journalister.",
+      "sv": "Kandidaterna rangordnas med ett poängsystem från 15 ned till 1. I damklassen röstar femtio journalister."
+    },
+    "source": "Store norske leksikon – «Ballon d'Or»"
+  },
+  {
+    "id": "ball-m-09",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Ordet kom fra italiensk og betydde opprinnelig bare «danserinne». I dag brukes det om en kvinnelig danser med fremragende ferdigheter i et ballettkompani, og med «prima» foran betyr det den ledende av dem. Hva er ordet?",
+      "sv": "Ordet kom från italienskan och betydde ursprungligen bara «danserska». I dag används det om en kvinnlig dansare med framstående färdigheter i ett balettkompani, och med «prima» framför betyder det den ledande av dem. Vad är ordet?"
+    },
+    "answer": "ballerina",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den sjeldne toppgraden ble gitt til Margot Fonteyn i London i 1979 og til Anneli Alhanko i Moskva i 1984.",
+      "sv": "Den sällsynta toppgraden gavs till Margot Fonteyn i London 1979 och till Anneli Alhanko i Moskva 1984."
+    },
+    "funFact": {
+      "nb": "Toppgraden heter prima ballerina assoluta. Den var særlig vanlig i Russland tidlig på 1900-tallet og er sjelden i dag.",
+      "sv": "Toppgraden heter prima ballerina assoluta. Den var särskilt vanlig i Ryssland tidigt på 1900-talet och är sällsynt i dag."
+    },
+    "source": "Store norske leksikon – «ballerina»"
+  },
+  {
+    "id": "ball-m-10",
+    "category": "ball",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Spanjolen levde fra 1475 til 1519 og var den første oppdageren som fikk varig fotfeste på det amerikanske fastlandet. I 1513 krysset han landtangen i Panama og ble den første europeeren som nådde Stillehavet fra Amerika. Hvem var han?",
+      "sv": "Spanjoren levde 1475 till 1519 och var den förste upptäckaren som fick varaktigt fotfäste på det amerikanska fastlandet. År 1513 korsade han näset i Panama och blev den förste europén som nådde Stilla havet från Amerika. Vem var han?"
+    },
+    "answer": "Vasco Núñez de Balboa",
+    "answerKind": "person",
+    "person": {
+      "given": "Vasco",
+      "family": "Núñez de Balboa"
+    },
+    "hint": {
+      "nb": "Han kalte havet han fant, for Sydhavet.",
+      "sv": "Han kallade havet han fann för Sydhavet."
+    },
+    "funFact": {
+      "nb": "Han ble halshugd i Acla i Panama i 1519, etter å ha kommet på kant med guvernøren Pedrarias Dávila mens han planla en ferd til Peru.",
+      "sv": "Han halshöggs i Acla i Panama 1519, efter att ha kommit på kant med guvernören Pedrarias Dávila medan han planerade en färd till Peru."
+    },
+    "source": "Store norske leksikon – «Vasco Núñez de Balboa»"
   }
 ]
