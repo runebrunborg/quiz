@@ -292,5 +292,269 @@
         }
       }
     ]
+  },
+  {
+    "id": "brun-m-01",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Hos pattedyr følger den seksuelle atferden en syklus med to faser: modning av eggblæren, og gulkroppens produksjon av progesteron. Hos reinen kommer perioden om høsten, og hos hannene varer den lenger enn hos hunnene. Hva kalles perioden?",
+      "sv": "Hos däggdjur följer det sexuella beteendet en cykel med två faser: mognad av äggblåsan, och gulkroppens produktion av progesteron. Hos renen kommer perioden på hösten, och hos hanarna varar den längre än hos honorna. Vad kallas perioden?"
+    },
+    "answer": "brunst",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet brukes også om hest, storfe, hund, katt og gris.",
+      "sv": "Ordet används också om häst, nötkreatur, hund, katt och gris."
+    },
+    "funFact": {
+      "nb": "Hos noen arter er hannenes aktivitet konstant, mens hunnene viser det typiske mønsteret. Hos hunnene faller perioden sammen med eggløsningen.",
+      "sv": "Hos vissa arter är hanarnas aktivitet konstant, medan honorna visar det typiska mönstret. Hos honorna sammanfaller perioden med ägglossningen."
+    },
+    "source": "Store norske leksikon – «brunst»"
+  },
+  {
+    "id": "brun-m-02",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Stortare er den største av brunalgene langs kysten vår, med flerårig stilk og ettårig bladdel. Etter tall fra 2004 blir rundt 160 000 tonn tråla opp i året, og hele fangsten går til én industri der Norge er blant verdens største. Hva lages det av?",
+      "sv": "Stortare är den största av brunalgerna längs vår kust, med flerårig stjälk och ettårig bladdel. Enligt siffror från 2004 trålas omkring 160 000 ton upp per år, och hela fångsten går till en industri där Norge är bland världens största. Vad tillverkas det av den?"
+    },
+    "answer": "alginat",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Industrien henter navnet sitt fra algene råstoffet kommer fra.",
+      "sv": "Industrin hämtar sitt namn från algerna som råvaran kommer från."
+    },
+    "funFact": {
+      "nb": "Fingertare og sukkertare er de andre vanlige artene. I Øst-Asia dyrkes tare i stor skala, blant annet artene Laminaria og Undaria.",
+      "sv": "Fingertare och sockertare är de andra vanliga arterna. I Östasien odlas tare i stor skala, bland annat arterna Laminaria och Undaria."
+    },
+    "source": "Store norske leksikon – «tare» og «brunalger»"
+  },
+  {
+    "id": "brun-m-03",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Den svenske arkitekten og møbeldesigneren levde fra 1907 til 1988 og kom fra en slekt av møbelsnekkere i Värnamo. Møblene hans i laminert tre gjorde ham verdenskjent, og liggestolen nr. 36 fra 1936 er fortsatt i produksjon. Hvem var han?",
+      "sv": "Den svenske arkitekten och möbelformgivaren levde 1907 till 1988 och kom från en släkt av möbelsnickare i Värnamo. Hans möbler i laminerat trä gjorde honom världsberömd, och fåtöljen nr 36 från 1936 är fortfarande i produktion. Vem var han?"
+    },
+    "answer": "Bruno Mathsson",
+    "answerKind": "person",
+    "person": {
+      "given": "Bruno",
+      "family": "Mathsson"
+    },
+    "hint": {
+      "nb": "Han stilte ut på verdensutstillingene i Paris i 1937 og New York i 1939, og løftet Sverige som designnasjon.",
+      "sv": "Han ställde ut på världsutställningarna i Paris 1937 och New York 1939, och lyfte Sverige som designnation."
+    },
+    "funFact": {
+      "nb": "Familiebedriften i Värnamo het Karl Mathsson. Han var inspirert av funksjonalismen, og flere av møblene har vært i sammenhengende produksjon siden 1930- og 1940-tallet.",
+      "sv": "Familjeföretaget i Värnamo hette Karl Mathsson. Han var inspirerad av funktionalismen, och flera av möblerna har varit i sammanhängande produktion sedan 1930- och 1940-talen."
+    },
+    "source": "Store norske leksikon – «Bruno Mathsson»"
+  },
+  {
+    "id": "brun-m-04",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Den svenske skuespilleren og teatersjefen levde fra 1881 til 1954. Hun utmerket seg i store karakterroller ved Svenska teatern, gjorde Oscarsteatern til en anerkjent scene, og ledet Kungliga Dramatiska Teatern fra 1938 til 1948. Hvem var hun?",
+      "sv": "Den svenska skådespelaren och teaterchefen levde 1881 till 1954. Hon utmärkte sig i stora karaktärsroller vid Svenska teatern, gjorde Oscarsteatern till en ansedd scen, och ledde Kungliga Dramatiska Teatern från 1938 till 1948. Vem var hon?"
+    },
+    "answer": "Pauline Brunius",
+    "answerKind": "person",
+    "person": {
+      "given": "Pauline",
+      "family": "Brunius"
+    },
+    "hint": {
+      "nb": "Hun ble født i februar 1881 og døde i mars 1954, begge deler i Stockholm.",
+      "sv": "Hon föddes i februari 1881 och dog i mars 1954, båda delarna i Stockholm."
+    },
+    "funFact": {
+      "nb": "Oscarsteatern bygde hun opp sammen med mannen sin og skuespilleren Gösta Ekman.",
+      "sv": "Oscarsteatern byggde hon upp tillsammans med sin man och skådespelaren Gösta Ekman."
+    },
+    "source": "Store norske leksikon – «Pauline Brunius»"
+  },
+  {
+    "id": "brun-m-05",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Den tysk-amerikanske ingeniøren var teknisk sjef i Peenemünde fra 1937 og sto bak A-4-raketten. I 1945 overga han seg med 117 kolleger til amerikanerne, og fra juli 1960 ledet han Marshall Space Flight Center i Huntsville. Hvem var han?",
+      "sv": "Den tysk-amerikanske ingenjören var teknisk chef i Peenemünde från 1937 och stod bakom A-4-raketen. År 1945 överlämnade han sig med 117 kollegor till amerikanerna, och från juli 1960 ledde han Marshall Space Flight Center i Huntsville. Vem var han?"
+    },
+    "answer": "Wernher von Braun",
+    "answerKind": "person",
+    "person": {
+      "given": "Wernher",
+      "family": "von Braun"
+    },
+    "hint": {
+      "nb": "Saturn V-raketten blir kalt mesterverket hans.",
+      "sv": "Saturn V-raketen kallas hans mästerverk."
+    },
+    "funFact": {
+      "nb": "Første vellykkede oppskyting av A-4 var 3. oktober 1942. Han ble amerikansk statsborger 14. april 1955 og forlot NASA i mai 1972.",
+      "sv": "Första lyckade uppskjutningen av A-4 var den 3 oktober 1942. Han blev amerikansk medborgare den 14 april 1955 och lämnade Nasa i maj 1972."
+    },
+    "source": "Store norske leksikon – «Wernher von Braun»"
+  },
+  {
+    "id": "brun-m-06",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I 1827 studerte en botaniker en vanndråpe med fint pollen i mikroskop, og så at partiklene inne i pollencellene beveget seg uopphørlig og uregelmessig – uten at det skyldtes liv. Albert Einstein forklarte fenomenet i 1905. Hvem oppdaget det?",
+      "sv": "År 1827 studerade en botaniker en vattendroppe med fint pollen i mikroskop, och såg att partiklarna inne i pollencellerna rörde sig oupphörligt och oregelbundet – utan att det berodde på liv. Albert Einstein förklarade fenomenet 1905. Vem upptäckte det?"
+    },
+    "answer": "Robert Brown",
+    "answerKind": "person",
+    "person": {
+      "given": "Robert",
+      "family": "Brown"
+    },
+    "hint": {
+      "nb": "Fenomenet er oppkalt etter ham.",
+      "sv": "Fenomenet är uppkallat efter honom."
+    },
+    "funFact": {
+      "nb": "Fenomenet heter brownske bevegelser, og gjelder uregelmessige og ustanselige bevegelser av svært små partikler i et stoff.",
+      "sv": "Fenomenet heter brownska rörelser, och gäller oregelbundna och oupphörliga rörelser hos mycket små partiklar i ett ämne."
+    },
+    "source": "Store norske leksikon – «brownske bevegelser»"
+  },
+  {
+    "id": "brun-m-07",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "En brun dvergstjerne har mellom 10 og 100 ganger Jupiters masse, og blir aldri en fullverdig stjerne. Kjernen når ikke de tre millioner kelvin som skal til. Hvilket grunnstoff er det den ikke klarer å brenne til helium?",
+      "sv": "En brun dvärgstjärna har mellan 10 och 100 gånger Jupiters massa och blir aldrig en fullvärdig stjärna. Kärnan når inte de tre miljoner kelvin som krävs. Vilket grundämne är det den inte klarar att bränna till helium?"
+    },
+    "answer": "hydrogen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det trengs rundt 80 Jupiter-masser, altså åtte prosent av solas masse, for at prosessen skal starte.",
+      "sv": "Det krävs omkring 80 Jupitermassor, alltså åtta procent av solens massa, för att processen ska starta."
+    },
+    "funFact": {
+      "nb": "Den første som ble observert, var Gliese 229B i 1994, med rundt 40 Jupiter-masser og en overflate på omkring 1000 kelvin. Shiv S. Kumar forutsa slike objekter teoretisk i 1963.",
+      "sv": "Den första som observerades var Gliese 229B 1994, med omkring 40 Jupitermassor och en yta på cirka 1000 kelvin. Shiv S. Kumar förutsade sådana objekt teoretiskt 1963."
+    },
+    "source": "Store norske leksikon – «brun dvergstjerne»"
+  },
+  {
+    "id": "brun-m-08",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "De brune pigmentene er stort sett jernholdige jordarter – umbra, sienajord og caput mortuum. Ett av dem er derimot ingen jordart i det hele tatt, men laget av blekket fra en blekksprut, og brukes helst til akvarell. Hva heter det?",
+      "sv": "De bruna pigmenten är mestadels järnhaltiga jordarter – umbra, sienajord och caput mortuum. Ett av dem är däremot ingen jordart alls, utan gjort av bläcket från en bläckfisk, och används helst till akvarell. Vad heter det?"
+    },
+    "answer": "sepia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stoffet henter navnet sitt fra dyret det kommer fra.",
+      "sv": "Ämnet hämtar sitt namn från djuret det kommer från."
+    },
+    "funFact": {
+      "nb": "Brunt regnes til jordfargene, med toner fra varmgult til rødt. Titian og Rembrandt brukte dempede brunfarger i clairobscur.",
+      "sv": "Brunt räknas till jordfärgerna, med toner från varmgult till rött. Tizian och Rembrandt använde dämpade bruna färger i clairobscur."
+    },
+    "source": "Store norske leksikon – «brunt»"
+  },
+  {
+    "id": "brun-m-09",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Amerikaneren levde fra 1933 til 2006 og regnes som en av soulens skapere og som funkens grunnlegger. «Papa's Got A Brand New Bag» og «I Got You (I Feel Good)» kom begge i 1965, og «Cold Sweat» i 1967. Hvem var han?",
+      "sv": "Amerikanen levde 1933 till 2006 och räknas som en av soulens skapare och som funkens grundare. «Papa's Got A Brand New Bag» och «I Got You (I Feel Good)» kom båda 1965, och «Cold Sweat» 1967. Vem var han?"
+    },
+    "answer": "James Brown",
+    "answerKind": "person",
+    "person": {
+      "given": "James",
+      "family": "Brown"
+    },
+    "hint": {
+      "nb": "Han var den mest populære svarte artisten på 1960- og 1970-tallet, og en fremragende danser.",
+      "sv": "Han var den mest populära svarta artisten på 1960- och 1970-talen, och en framstående dansare."
+    },
+    "funFact": {
+      "nb": "«Say It Loud – I'm Black And I'm Proud» kom i 1968 og «Living In America» i 1985. Han ble født 3. mai i Barnwell i South Carolina og døde første juledag i Atlanta.",
+      "sv": "«Say It Loud – I'm Black And I'm Proud» kom 1968 och «Living In America» 1985. Han föddes den 3 maj i Barnwell i South Carolina och dog på juldagen i Atlanta."
+    },
+    "source": "Store norske leksikon – «James Brown»"
+  },
+  {
+    "id": "brun-m-10",
+    "category": "brun",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Tyskeren, født i 1932, var designsjef i selskapet Braun fra 1962 til 1997. Han formulerte et program på ti punkter for god formgiving, og mottoet hans var «Weniger, aber besser» – færre, men bedre. Hvem er han?",
+      "sv": "Tysken, född 1932, var designchef i företaget Braun från 1962 till 1997. Han formulerade ett program på tio punkter för god formgivning, och hans motto var «Weniger, aber besser» – färre, men bättre. Vem är han?"
+    },
+    "answer": "Dieter Rams",
+    "answerKind": "person",
+    "person": {
+      "given": "Dieter",
+      "family": "Rams"
+    },
+    "hint": {
+      "nb": "Han sto bak radiogrammofonen SK4 fra 1956, sammen med Hans Gugelot.",
+      "sv": "Han stod bakom radiogrammofonen SK4 från 1956, tillsammans med Hans Gugelot."
+    },
+    "funFact": {
+      "nb": "Lommeradioen fra 1959 og bordlighteren Cylindric T2 fra 1968 er blant arbeidene hans. Ett av de ti punktene lyder at design skal være så lite design som mulig.",
+      "sv": "Fickradion från 1959 och bordständaren Cylindric T2 från 1968 hör till hans arbeten. En av de tio punkterna lyder att design ska vara så lite design som möjligt."
+    },
+    "source": "Store norske leksikon – «Dieter Rams»"
   }
 ]
