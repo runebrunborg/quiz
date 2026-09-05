@@ -256,5 +256,259 @@
       "sv": "Bygget skulle enligt planen öppna i januari 1963, men stod inte färdigt förrän i oktober 1973. År 2007 kom det på Unescos världsarvslista."
     },
     "source": "Store norske leksikon – «Sydney Opera House»"
+  },
+  {
+    "id": "hus-m-01",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "Fram til 1901 het det britiske dynastiet Hannover, deretter Sachsen-Coburg-Gotha etter prins Albert. Under første verdenskrig gjorde tyskfiendtlige stemninger navnet umulig, og Georg 5. døpte huset om i 1917 – etter et av familiens slott. Hva heter det nå?",
+      "sv": "Fram till 1901 hette den brittiska dynastin Hannover, därefter Sachsen-Coburg-Gotha efter prins Albert. Under första världskriget gjorde tyskfientliga stämningar namnet omöjligt, och Georg V döpte om huset 1917 – efter ett av familjens slott. Vad heter det nu?"
+    },
+    "answer": "Windsor",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Overgangen fra Hannover kom i 1901, da Edvard 7. ble konge etter dronning Victoria.",
+      "sv": "Övergången från Hannover kom 1901, då Edvard VII blev kung efter drottning Victoria."
+    },
+    "funFact": {
+      "nb": "Navnet ble hentet fra et av kongefamiliens slott. Sachsen-Coburg-Gotha kom fra prins Albert, som var tysk adelsmann.",
+      "sv": "Namnet hämtades från ett av kungafamiljens slott. Sachsen-Coburg-Gotha kom från prins Albert, som var tysk adelsman."
+    },
+    "source": "Store norske leksikon – «Det britiske kongehuset»"
+  },
+  {
+    "id": "hus-m-02",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Klassen er den nest mest artsrike blant virvelløse dyr, etter insektene, med minst 60 000 nålevende arter i hav, ferskvann og på land. De fleste bærer et uparet hus på ryggen, formet etter organene det verner. Hvilken dyregruppe?",
+      "sv": "Klassen är den näst artrikaste bland ryggradslösa djur, efter insekterna, med minst 60 000 nu levande arter i hav, sötvatten och på land. De flesta bär ett oparat hus på ryggen, format efter de organ det skyddar. Vilken djurgrupp?"
+    },
+    "answer": {
+      "nb": "Snegler",
+      "sv": "Snäckor"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I Norge finnes 419 marine arter, 28 i ferskvann og 100 på land.",
+      "sv": "I Norge finns 419 marina arter, 28 i sötvatten och 100 på land."
+    },
+    "funFact": {
+      "nb": "Husets form varierer fra lave skålformer til høye spiraler. Lungesneglene mangler gjeller helt – hos dem fungerer veggen i kappehulen som lunge.",
+      "sv": "Husets form varierar från låga skålformer till höga spiraler. Lungsnäckorna saknar gälar helt – hos dem fungerar väggen i mantelhålan som lunga."
+    },
+    "source": "Store norske leksikon – «snegler»"
+  },
+  {
+    "id": "hus-m-03",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Vinterboligen bygges av snøblokker skåret med beinkniv og lagt i en spiral som heller innover, til en halvkule. Den siste blokken settes inn ovenfra. Ordet kommer fra inuktitut og betyr rett og slett hus. Hva heter den?",
+      "sv": "Vinterbostaden byggs av snöblock skurna med benkniv och lagda i en spiral som lutar inåt, till ett halvklot. Det sista blocket sätts in uppifrån. Ordet kommer från inuktitut och betyder helt enkelt hus. Vad heter den?"
+    },
+    "answer": "Iglo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den lave inngangen hindrer kald luft i å strømme inn, og en åpning i taket sørger for lufting.",
+      "sv": "Den låga ingången hindrar kall luft från att strömma in, och en öppning i taket sörjer för ventilation."
+    },
+    "funFact": {
+      "nb": "De største var tre meter høye med fem meters tverrmål og tjente som faste vinterboliger. I dag bor de fleste inuitter i helårshus, men byggingen læres fortsatt bort på skoler i Nunavut.",
+      "sv": "De största var tre meter höga med fem meters diameter och tjänade som fasta vinterbostäder. I dag bor de flesta inuiter i åretrunthus, men byggandet lärs fortfarande ut i skolor i Nunavut."
+    },
+    "source": "Store norske leksikon – «iglo»"
+  },
+  {
+    "id": "hus-m-04",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Kontoret ble grunnlagt i 1989 av Craig Dykers, Christoph Kapeller og Kjetil Trædal Thorsen. Gjennombruddet kom med biblioteket i Alexandria i 2001, og operahuset i Bjørvika fra 2008 ga dem Mies van der Rohe-prisen året etter. Hva heter kontoret?",
+      "sv": "Kontoret grundades 1989 av Craig Dykers, Christoph Kapeller och Kjetil Trædal Thorsen. Genombrottet kom med biblioteket i Alexandria 2001, och operahuset i Bjørvika från 2008 gav dem Mies van der Rohe-priset året därpå. Vad heter kontoret?"
+    },
+    "answer": "Snøhetta",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De står også bak Lillehammer Kunstmuseum fra 1992 og besøkssenteret for hulemaleriene i Lascaux fra 2016.",
+      "sv": "De står också bakom Lillehammer Kunstmuseum från 1992 och besökscentret för grottmålningarna i Lascaux från 2016."
+    },
+    "funFact": {
+      "nb": "Kontoret har hovedkontor i Oslo og avdelinger i USA, Australia, Hongkong og flere europeiske land, og har siden 2000 vært Norges mest profilerte arkitektpraksis.",
+      "sv": "Kontoret har huvudkontor i Oslo och avdelningar i USA, Australien, Hongkong och flera europeiska länder, och har sedan 2000 varit Norges mest profilerade arkitektpraktik."
+    },
+    "source": "Store norske leksikon – «Snøhetta – arkitektkontor»"
+  },
+  {
+    "id": "hus-m-05",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Friluftsmuseet på en høyde på Djurgården i Stockholm ble grunnlagt av Artur Hazelius i 1891. Rundt 150 gamle hus fra hele Sverige er flyttet dit, fra middelalder til 1900-tall, og der er også en dyrepark med nordisk fauna. Hva heter museet?",
+      "sv": "Friluftsmuseet på en höjd på Djurgården i Stockholm grundades av Artur Hazelius 1891. Omkring 150 gamla hus från hela Sverige är flyttade dit, från medeltid till 1900-tal, och där finns också en djurpark med nordisk fauna. Vad heter museet?"
+    },
+    "answer": "Skansen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Museet regnes som et forbilde for friluftsmuseer over hele verden.",
+      "sv": "Museet räknas som en förebild för friluftsmuseer över hela världen."
+    },
+    "funFact": {
+      "nb": "Barneavdelingen heter Lill-Skansen, og der er også et moderne akvarium med terrarium. Museet er kjent for store folkefester.",
+      "sv": "Barnavdelningen heter Lill-Skansen, och där finns också ett modernt akvarium med terrarium. Museet är känt för stora folkfester."
+    },
+    "source": "Store norske leksikon – «Skansen – svensk museum»"
+  },
+  {
+    "id": "hus-m-06",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Den tsjekkiske predikanten fra Böhmen levde fra 1371 til 1415, talte mot prestenes maktmisbruk og fremmet tsjekkisk språk i kirken. Han ble arrestert i 1414, nektet å tilbakekalle læren sin, og brent på bål ved Rhinen 6. juli 1415. Hva het han?",
+      "sv": "Den tjeckiske predikanten från Böhmen levde 1371 till 1415, talade mot prästernas maktmissbruk och främjade tjeckiskan i kyrkan. Han arresterades 1414, vägrade ta tillbaka sin lära och brändes på bål vid Rhen den 6 juli 1415. Vad hette han?"
+    },
+    "answer": "Jan Hus",
+    "answerKind": "person",
+    "person": {
+      "given": "Jan",
+      "family": "Hus"
+    },
+    "hint": {
+      "nb": "Han regnes som en forløper for og inspirator til reformasjonen.",
+      "sv": "Han räknas som en föregångare till och inspiratör för reformationen."
+    },
+    "funFact": {
+      "nb": "Slagordet hans, at sannheten til slutt vil seire, ble tilhengernes motto og havnet i 1918 på banneret til den tsjekkoslovakiske presidenten. Herrnhuterne sprang også ut av bevegelsen.",
+      "sv": "Hans slagord, att sanningen till slut ska segra, blev anhängarnas motto och hamnade 1918 på den tjeckoslovakiske presidentens banér. Herrnhutarna sprang också ur rörelsen."
+    },
+    "source": "Store norske leksikon – «Jan Hus»"
+  },
+  {
+    "id": "hus-m-07",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Ordet er satt sammen av to greske ord: oikos, som betyr hus og hjem, og nomos, som betyr lov. Til sammen blir det læren om å styre en husholdning. I dag dekker det produksjon, forbruk, omsetning og forvaltning av ressurser. Hvilket ord?",
+      "sv": "Ordet är sammansatt av två grekiska ord: oikos, som betyder hus och hem, och nomos, som betyder lag. Tillsammans blir det läran om att styra ett hushåll. I dag täcker det produktion, konsumtion, omsättning och förvaltning av resurser. Vilket ord?"
+    },
+    "answer": {
+      "nb": "Økonomi",
+      "sv": "Ekonomi"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet brukes både om et system, om et fagfelt og om en privatpersons inntekt og formue.",
+      "sv": "Ordet används både om ett system, om ett ämnesområde och om en privatpersons inkomst och förmögenhet."
+    },
+    "funFact": {
+      "nb": "Det kan også bety å bruke minst mulig ressurser for å nå et mål – å være sparsommelig med noe.",
+      "sv": "Det kan också betyda att använda minsta möjliga resurser för att nå ett mål – att vara sparsam med något."
+    },
+    "source": "Store norske leksikon – «økonomi»"
+  },
+  {
+    "id": "hus-m-08",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Eneboligen fra 1936–37 henger dramatisk ut over en foss ved Bear Run nær Pittsburgh, og heter «Falling Water». Arkitekten sto også bak Guggenheim-museet i New York og rundt femti såkalte prærihus. Hvem var han?",
+      "sv": "Enfamiljshuset från 1936–37 hänger dramatiskt ut över ett vattenfall vid Bear Run nära Pittsburgh och heter «Falling Water». Arkitekten stod också bakom Guggenheimmuseet i New York och omkring femtio så kallade prärihus. Vem var han?"
+    },
+    "answer": "Frank Lloyd Wright",
+    "answerKind": "person",
+    "person": {
+      "given": "Frank Lloyd",
+      "family": "Wright"
+    },
+    "hint": {
+      "nb": "Han levde fra 1867 til 1959, og Guggenheim stod ferdig samme år som han døde.",
+      "sv": "Han levde 1867 till 1959, och Guggenheim stod färdigt samma år som han dog."
+    },
+    "funFact": {
+      "nb": "Prærihusene fra 1900–1910 har lave valmtak med kraftige takutstikk, og åpner seg i flere retninger fra en kjerne med kjøkken, oppvarming og sanitær.",
+      "sv": "Prärihusen från 1900–1910 har låga valmtak med kraftiga takutsprång, och öppnar sig i flera riktningar från en kärna med kök, uppvärmning och sanitet."
+    },
+    "source": "Store norske leksikon – «Frank Lloyd Wright»"
+  },
+  {
+    "id": "hus-m-09",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Statsorganet ble opprettet ved lov 1. mars 1946 for å få opp boligbyggingen og bedre boforholdene. Det bidro sterkt til gjenreisingen etter krigen, og i årene 1988–1996 finansierte det nesten all boligbygging i landet. Hva heter det?",
+      "sv": "Det statliga organet inrättades genom lag den 1 mars 1946 för att få upp bostadsbyggandet och förbättra boendeförhållandena. Det bidrog starkt till återuppbyggnaden efter kriget, och åren 1988–1996 finansierade det nästan allt bostadsbyggande i landet. Vad heter det?"
+    },
+    "answer": "Husbanken",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det ligger under Kommunal- og distriktsdepartementet.",
+      "sv": "Det ligger under det norska kommunal- och distriktsdepartementet."
+    },
+    "funFact": {
+      "nb": "I dag står det for omtrent 15–20 prosent av nye boliger. I 2025 delte det ut 45 milliarder kroner i lån, tilskudd og bostøtte til rundt 134 000 husstander.",
+      "sv": "I dag står det för omkring 15–20 procent av nya bostäder. År 2025 delade det ut 45 miljarder kronor i lån, bidrag och bostadsstöd till omkring 134 000 hushåll."
+    },
+    "source": "Store norske leksikon – «Husbanken»"
+  },
+  {
+    "id": "hus-m-10",
+    "category": "hus",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "Gustav 2. Adolf opprettet i 1625 en forsamling for adelen, det fremste av de fire stendene i den gamle svenske riksdagen. Bygningen deres i nordvestre hjørne av Gamla stan ble reist mellom 1641 og 1674. I 2025 hadde institusjonen 656 medlemsslekter. Hva heter den?",
+      "sv": "Gustav II Adolf inrättade 1625 en församling för adeln, det främsta av de fyra stånden i den gamla svenska riksdagen. Deras byggnad i nordvästra hörnet av Gamla stan restes mellan 1641 och 1674. År 2025 hade institutionen 656 medlemsätter. Vad heter den?"
+    },
+    "answer": "Riddarhuset",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Institusjonen finnes også i Finland, med bygning i Helsingfors reist mellom 1850 og 1862.",
+      "sv": "Institutionen finns också i Finland, med byggnad i Helsingfors rest mellan 1850 och 1862."
+    },
+    "funFact": {
+      "nb": "Den er i dag en privat organisasjon som samler adelen til møte hvert tredje år. Den finske institusjonen hadde 144 introduserte adelsslekter i 2012.",
+      "sv": "Den är i dag en privat organisation som samlar adeln till möte vart tredje år. Den finska institutionen hade 144 introducerade adelsätter 2012."
+    },
+    "source": "Store norske leksikon – «Riddarhuset»"
   }
 ]
