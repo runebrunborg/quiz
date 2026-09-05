@@ -185,8 +185,6 @@ export interface Category {
   id: string
   /** Kort tittel, f.eks. «Blå». */
   name: L10n
-  /** Én linje som selger temaet. */
-  tagline: L10n
   /** Navn på SVG-scenen i `src/themes/`. */
   scene: string
   /** Fargestopp for kategorikortets gradient. */

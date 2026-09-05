@@ -33,7 +33,6 @@ export function CategoryCard({ category, lang, selected, available, needed, date
         <span className="cat-card__today pill pill--pink">{lang === 'sv' ? 'I dag' : 'I dag'}</span>
       )}
       <span className="cat-card__name">{t(category.name, lang)}</span>
-      <span className="cat-card__tagline">{t(category.tagline, lang)}</span>
       <span className="cat-card__meter">
         <span className="meter">
           <span className="meter__fill" style={{ width: `${fill}%` }} />

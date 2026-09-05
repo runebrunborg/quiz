@@ -75,12 +75,6 @@
   letter-spacing: -0.03em;
 }
 
-.cat-card__tagline {
-  font-size: var(--step--1);
-  color: var(--mist-200);
-  text-wrap: balance;
-}
-
 .cat-card__meter {
   margin-top: var(--sp-3);
   display: flex;
