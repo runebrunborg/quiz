@@ -1,0 +1,259 @@
+[
+  {
+    "id": "linn-l-01",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den svenske naturforskeren, født i Råshult i 1707, var professor i Uppsala og innførte det todelte latinske artsnavnet som fortsatt er i bruk. Han beskrev rundt 10 000 plantearter og 6000 dyrearter. Hvem var han?",
+      "sv": "Den svenske naturforskaren, född i Råshult 1707, var professor i Uppsala och införde det tvådelade latinska artnamnet som fortfarande används. Han beskrev omkring 10 000 växtarter och 6000 djurarter. Vem var han?"
+    },
+    "answer": "Carl von Linné",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl",
+      "family": "von Linné"
+    },
+    "hint": {
+      "nb": "Hovedverkene er «Systema Naturae» fra 1735 og «Species Plantarum» fra 1753.",
+      "sv": "Huvudverken är «Systema Naturae» från 1735 och «Species Plantarum» från 1753."
+    },
+    "funFact": {
+      "nb": "Han sendte elevene sine til fjerne land for å samle inn arter. Den lille skogplanten linnea er oppkalt etter ham – Jan Frederik Gronovius ga den navnet i 1737, og han tok den selv inn i våpenskjoldet sitt.",
+      "sv": "Han sände sina elever till avlägsna länder för att samla in arter. Den lilla skogsväxten linnea är uppkallad efter honom – Jan Frederik Gronovius gav den namnet 1737, och han tog själv in den i sin vapensköld."
+    },
+    "source": "Store norske leksikon – «Carl von Linné» og «linnea»"
+  },
+  {
+    "id": "linn-l-02",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fibrene sitter i stengelen på en av menneskets eldste kulturvekster, dyrket i over 10 000 år. Egypterne, grekerne og romerne satte stoffet høyt, og det ble særlig brukt til undertøy og sengetøy. Hva kalles dette stoffet?",
+      "sv": "Fibrerna sitter i stjälken på en av människans äldsta kulturväxter, odlad i över 10 000 år. Egyptierna, grekerna och romarna satte tyget högt, och det användes särskilt till underkläder och sängkläder. Vad kallas detta tyg?"
+    },
+    "answer": {
+      "nb": "Linned",
+      "sv": "Linne"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Planten heter Linum usitatissimum på latin.",
+      "sv": "Växten heter Linum usitatissimum på latin."
+    },
+    "funFact": {
+      "nb": "Forbruket skjøt i været i Europa på 1500-tallet, men falt på 1700- og 1800-tallet. Fiberen har vakker glans, men lite elastisitet – derfor krøller den lett.",
+      "sv": "Förbrukningen sköt i höjden i Europa på 1500-talet, men föll på 1700- och 1800-talet. Fibern har vacker lyster men liten elasticitet – därför skrynklar den lätt."
+    },
+    "source": "Store norske leksikon – «lin»"
+  },
+  {
+    "id": "linn-l-03",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Bastplanten som gir tekstilfiber, dyrkes også for frøenes skyld. De presses til en fet, tørkende olje, og selges dessuten hele til baking og som kosttilskudd. Hva kalles disse frøene?",
+      "sv": "Bastväxten som ger textilfiber odlas också för fröens skull. De pressas till en fet, torkande olja och säljs dessutom hela till bakning och som kosttillskott. Vad kallas dessa frön?"
+    },
+    "answer": {
+      "nb": "Linfrø",
+      "sv": "Linfrö"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Planten dyrkes i Norge bare i liten skala, som husflidsproduksjon.",
+      "sv": "Växten odlas i Norge bara i liten skala, som hemslöjdsproduktion."
+    },
+    "funFact": {
+      "nb": "Europa står for 80–85 prosent av verdensproduksjonen av planten, med Frankrike i spissen. I 2021 ble det produsert rundt 897 600 tonn på verdensbasis.",
+      "sv": "Europa står för 80–85 procent av världsproduktionen av växten, med Frankrike i spetsen. År 2021 producerades omkring 897 600 ton i hela världen."
+    },
+    "source": "Store norske leksikon – «lin»"
+  },
+  {
+    "id": "linn-l-04",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Oljen kaldpresses av frø, befris for slimstoffer og blekes. Den er tørkende: den reagerer med oksygenet i lufta og herdner til en fast, seig film i løpet av noen dager. Derfor har den i århundrer bundet pigmentene i maling og trykkfarger. Hva heter oljen?",
+      "sv": "Oljan kallpressas av frön, befrias från slemämnen och bleks. Den är torkande: den reagerar med syret i luften och härdnar till en fast, seg film på några dagar. Därför har den i århundraden bundit pigmenten i färg och tryckfärg. Vad heter oljan?"
+    },
+    "answer": {
+      "nb": "Linolje",
+      "sv": "Linolja"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I dag går det meste med til å lage alkydharpikser for maling- og lakkindustrien.",
+      "sv": "I dag går det mesta åt till att göra alkydhartser för färg- och lackindustrin."
+    },
+    "funFact": {
+      "nb": "Den inngår også i kitt. Tilsettes tørrestoffer, herdner filmen raskere enn de par dagene den ellers bruker.",
+      "sv": "Den ingår också i kitt. Tillsätts torkmedel härdnar filmen snabbare än de par dagar den annars behöver."
+    },
+    "source": "Store norske leksikon – «linolje»"
+  },
+  {
+    "id": "linn-l-05",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Briten F. Walton fant i 1860 opp et slitesterkt og lyddempende gulvbelegg: jutestrie belagt med oksidert olje fra en plante, harpiks, fyllstoff og pigment. Navnet er satt sammen av de latinske ordene for nettopp planten og oljen. Hva heter belegget?",
+      "sv": "Britten F. Walton uppfann 1860 ett slitstarkt och ljuddämpande golvmaterial: jutevävnad belagd med oxiderad olja från en växt, harts, fyllmedel och pigment. Namnet är sammansatt av de latinska orden för just växten och oljan. Vad heter materialet?"
+    },
+    "answer": "Linoleum",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De to latinske ordene er linum og oleum.",
+      "sv": "De två latinska orden är linum och oleum."
+    },
+    "funFact": {
+      "nb": "Materialet dominerte gulvene i nesten hundre år før vinyl tok over. Det finnes i to hovedtyper: innlagt, der mønsteret går gjennom hele tykkelsen, og trykt, der mønsteret slites bort om det ikke vedlikeholdes.",
+      "sv": "Materialet dominerade golven i nästan hundra år innan vinyl tog över. Det finns i två huvudtyper: inlagt, där mönstret går genom hela tjockleken, och tryckt, där mönstret slits bort om det inte underhålls."
+    },
+    "source": "Store norske leksikon – «linoleum»"
+  },
+  {
+    "id": "linn-l-06",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Lin var i tusenvis av år den viktigste tekstilfiberen i Europa, og forbruket toppet seg på 1500-tallet. På 1700- og 1800-tallet falt det kraftig, fordi en billigere fiber tok over markedet. Hvilken fiber var det?",
+      "sv": "Lin var i tusentals år den viktigaste textilfibern i Europa, och förbrukningen toppade på 1500-talet. På 1700- och 1800-talet föll den kraftigt, eftersom en billigare fiber tog över marknaden. Vilken fiber var det?"
+    },
+    "answer": "Bomull",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Lin er i dag verdens fjerde viktigste plantefiber; den som tok over ligger langt foran.",
+      "sv": "Lin är i dag världens fjärde viktigaste växtfiber; den som tog över ligger långt före."
+    },
+    "funFact": {
+      "nb": "Lin utgjør i dag under én prosent av verdens fibermarked, men er fortsatt den fjerde viktigste plantefiberen.",
+      "sv": "Lin utgör i dag under en procent av världens fibermarknad, men är fortfarande den fjärde viktigaste växtfibern."
+    },
+    "source": "Store norske leksikon – «lin»"
+  },
+  {
+    "id": "linn-l-07",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "I denne grafiske teknikken skjærer kunstneren bort alt som skal bli hvitt fra en plate av mykt gulvbelegg, farger inn resten og presser papiret mot platen. «Spansk kvinne» fra 1926, som henger på Albertina i Wien, er et kjent eksempel. Hvem laget den?",
+      "sv": "I denna grafiska teknik skär konstnären bort allt som ska bli vitt från en platta av mjukt golvmaterial, färgar in resten och pressar papperet mot plattan. «Spansk kvinna» från 1926, som hänger på Albertina i Wien, är ett känt exempel. Vem gjorde den?"
+    },
+    "answer": "Pablo Picasso",
+    "answerKind": "person",
+    "person": {
+      "given": "Pablo",
+      "family": "Picasso"
+    },
+    "hint": {
+      "nb": "Teknikken regnes sammen med tresnitt som de viktigste høytrykksmetodene i grafikken.",
+      "sv": "Tekniken räknas tillsammans med träsnitt som de viktigaste högtrycksmetoderna inom grafiken."
+    },
+    "funFact": {
+      "nb": "Teknikken heter linoleumssnitt, og gir skarpe, klart avgrensede flater og en jevn, udifferensiert fargefordeling.",
+      "sv": "Tekniken heter linoleumssnitt och ger skarpa, klart avgränsade ytor och en jämn, odifferentierad färgfördelning."
+    },
+    "source": "Store norske leksikon – «linoleumssnitt»"
+  },
+  {
+    "id": "linn-l-08",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Byen i Östergötland ble bispesete på 1100-tallet og har Sveriges best bevarte middelalderkatedral, bygd om fra omkring 1230. I dag er Saab og en stor IT-sektor viktigst, og universitetet ble opprettet i 1970. Hvilken by?",
+      "sv": "Staden i Östergötland blev biskopssäte på 1100-talet och har Sveriges bäst bevarade medeltidskatedral, ombyggd från omkring 1230. I dag är Saab och en stor IT-sektor viktigast, och universitetet grundades 1970. Vilken stad?"
+    },
+    "answer": "Linköping",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen er länshovedstad og jernbaneknutepunkt, med regionsykehus og et flyvåpenmuseum i Malmslätt.",
+      "sv": "Staden är länshuvudstad och järnvägsknut, med regionsjukhus och ett flygvapenmuseum i Malmslätt."
+    },
+    "funFact": {
+      "nb": "Altertavlen i domkirken er malt av nordmannen Henrik Sørensen i 1934. Byen hadde 115 700 innbyggere i 2020, kommunen 166 000 i 2022.",
+      "sv": "Altartavlan i domkyrkan är målad av norrmannen Henrik Sørensen 1934. Staden hade 115 700 invånare 2020, kommunen 166 000 år 2022."
+    },
+    "source": "Store norske leksikon – «Linköping»"
+  },
+  {
+    "id": "linn-l-09",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Fra 1900 til 1968 lå Norges eneste fabrikk for et oljebasert gulvbelegg her, en av bare to i hele Norden. Råstoffene kom med båt: jute fra India, kork fra Portugal og olje fra Nederland. Etter nedleggelsen ble bygningene et kjøpesenter. Hvilket sted i Bærum?",
+      "sv": "Från 1900 till 1968 låg Norges enda fabrik för ett oljebaserat golvmaterial här, en av bara två i hela Norden. Råvarorna kom med båt: jute från Indien, kork från Portugal och olja från Nederländerna. Efter nedläggningen blev byggnaderna ett köpcentrum. Vilken plats i Bærum?"
+    },
+    "answer": "Sandvika",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tre generasjoner av familien Heitmann ledet fabrikken, helt til den siste dagen i 1968.",
+      "sv": "Tre generationer av familjen Heitmann ledde fabriken, ända till den sista dagen 1968."
+    },
+    "funFact": {
+      "nb": "Fabrikken het Victoria Linoleumfabrik og ble grunnlagt i 1898. I 1928 kjøpte svenske Forshaga femti prosent, og i 1967 dekket bedriften omtrent halvparten av det norske forbruket. Kjøpesenteret gjorde stedet til et handelssentrum.",
+      "sv": "Fabriken hette Victoria Linoleumfabrik och grundades 1898. År 1928 köpte svenska Forshaga femtio procent, och 1967 täckte företaget ungefär hälften av den norska förbrukningen. Köpcentret gjorde platsen till ett handelscentrum."
+    },
+    "source": "Store norske leksikon – «Victoria Linoleumfabrik» og «linoleum»"
+  },
+  {
+    "id": "linn-l-10",
+    "category": "linn",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Den dansk-norske arkitekten levde fra 1787 til 1851, og fikk i 1823 oppdraget som ble livsverket hans: Det kongelige slott i Oslo, ferdig i 1848. I 1838 la han også fram forslaget om gaten som skulle binde slottet til byen. Hva het han?",
+      "sv": "Den dansk-norske arkitekten levde 1787 till 1851 och fick 1823 uppdraget som blev hans livsverk: Det kongelige slott i Oslo, färdigt 1848. År 1838 lade han också fram förslaget om gatan som skulle binda slottet till staden. Vad hette han?"
+    },
+    "answer": "Linstow",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han grunnla Den Kongelige Tegne- og Kunstskole i 1818, og tegnet rundt 70 kirker etter mønstertegninger som ble spredt over hele landet.",
+      "sv": "Han grundade Den Kongelige Tegne- og Kunstskole 1818 och ritade omkring 70 kyrkor efter mönsterritningar som spreds över hela landet."
+    },
+    "funFact": {
+      "nb": "Gaten han foreslo, ble Karl Johans gate. Han innførte også sveitserstilen i norsk trearkitektur på 1830- og 1840-tallet, og tok tidlig til orde for boliger til arbeiderklassen.",
+      "sv": "Gatan han föreslog blev Karl Johans gate. Han införde också schweizerstilen i norsk träarkitektur på 1830- och 1840-talet, och tog tidigt till orda för bostäder åt arbetarklassen."
+    },
+    "source": "Store norske leksikon – «Hans Ditlev Franciscus Linstow»"
+  }
+]
