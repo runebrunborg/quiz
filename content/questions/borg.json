@@ -275,5 +275,249 @@
         }
       }
     ]
+  },
+  {
+    "id": "borg-m-01",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Anlegget på Søndre Kaholmen i Drøbaksundet ble bygd mellom 1845 og 1855. Klokka 04.21 den 9. april 1940 ga oberst Birger Eriksen ordre om å skyte, og den tyske krysseren «Blücher» gikk ned to timer senere. Hvilken festning?",
+      "sv": "Anläggningen på Søndre Kaholmen i Drøbaksundet byggdes mellan 1845 och 1855. Klockan 04.21 den 9 april 1940 gav överste Birger Eriksen order om att skjuta, och den tyska kryssaren «Blücher» gick ned två timmar senare. Vilken fästning?"
+    },
+    "answer": "Oscarsborg festning",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Festningen ligger på en øy, og har navn etter en konge fra 1800-tallet.",
+      "sv": "Fästningen ligger på en ö och har namn efter en kung från 1800-talet."
+    },
+    "funFact": {
+      "nb": "«Blücher» ble truffet av to torpedoer og sank klokka 06.22. Forsinkelsen ga kongen, regjeringen og Stortinget tid til å komme seg ut av Oslo.",
+      "sv": "«Blücher» träffades av två torpeder och sjönk klockan 06.22. Fördröjningen gav kungen, regeringen och Stortinget tid att ta sig ut ur Oslo."
+    },
+    "source": "Store norske leksikon – «Oscarsborg festning»"
+  },
+  {
+    "id": "borg-m-02",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Håkon 5. begynte å bygge borgen omkring år 1300, og den motsto svenske beleiringer både i 1567 og i 1716, den siste på 39 dager. Christian 4. bygde den senere om til renessanseslott. Hvilket anlegg i Oslo?",
+      "sv": "Håkon 5 började bygga borgen omkring år 1300, och den motstod svenska belägringar både 1567 och 1716, den sista på 39 dagar. Kristian 4 byggde den senare om till renässansslott. Vilken anläggning i Oslo?"
+    },
+    "answer": "Akershus festning",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Anlegget har gitt navn til fylket rundt hovedstaden.",
+      "sv": "Anläggningen har gett namn åt länet runt huvudstaden."
+    },
+    "funFact": {
+      "nb": "Hans van Steenwinckel den eldre sto for ombyggingen, i to omganger: 1593–1604 og 1616–1646. Hovedtårnet i middelalderborgen het Vågehals.",
+      "sv": "Hans van Steenwinckel den äldre stod för ombyggnaden, i två omgångar: 1593–1604 och 1616–1646. Huvudtornet i medeltidsborgen hette Vågehals."
+    },
+    "source": "Store norske leksikon – «Akershus slott og festning»"
+  },
+  {
+    "id": "borg-m-03",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Olav 2. Haraldsson grunnla byen i 1016 ved fossen i Glomma. Svenskene brente den i 1567, og bystatusen ble flyttet ut til elvemunningen, der Fredrikstad vokste fram. Først i 1839 fikk den bystatus igjen. Hvilken by?",
+      "sv": "Olav 2 Haraldsson grundade staden 1016 vid fallet i Glomma. Svenskarna brände den 1567, och stadsrätten flyttades ut till älvmynningen, där Fredrikstad växte fram. Först 1839 fick den stadsrätt igen. Vilken stad?"
+    },
+    "answer": "Sarpsborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kommunen slo seg i 1992 sammen med Varteig, Skjeberg og Tune.",
+      "sv": "Kommunen slogs 1992 samman med Varteig, Skjeberg och Tune."
+    },
+    "funFact": {
+      "nb": "Byen het opprinnelig bare Borg. Dagens navn kom på 1200-tallet, satt sammen av fossenavnet Sarpr – «den glupske» – og borg, for å skille den fra andre steder med borg i navnet.",
+      "sv": "Staden hette ursprungligen bara Borg. Dagens namn kom på 1200-talet, sammansatt av fallnamnet Sarpr – «den glupska» – och borg, för att skilja den från andra platser med borg i namnet."
+    },
+    "source": "Store norske leksikon – «Sarpsborg»"
+  },
+  {
+    "id": "borg-m-04",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Kongen reiste den trolig i 1182–83 på Steinberget sørvest for Nidaros, og den regnes som Norges eldste steinborg. Kuvlungene angrep den i 1188 og baglerne i 1197. I dag ligger Trøndelag Folkemuseum rundt ruinene. Hva heter borgen?",
+      "sv": "Kungen reste den troligen 1182–83 på Steinberget sydväst om Nidaros, och den räknas som Norges äldsta stenborg. Kuvlungarna angrep den 1188 och baglarna 1197. I dag ligger Trøndelag Folkemuseum runt ruinerna. Vad heter borgen?"
+    },
+    "answer": "Sverresborg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Borgen bærer navnet til kongen som bygde den.",
+      "sv": "Borgen bär namnet på kungen som byggde den."
+    },
+    "funFact": {
+      "nb": "Håkon Håkonsson bygde borgen opp igjen etter angrepene. Ruinene man ser i dag er en rekonstruksjon etter arkeologisk arbeid av blant andre Gerhard Fischer.",
+      "sv": "Håkon Håkonsson byggde upp borgen igen efter angreppen. Ruinerna man ser i dag är en rekonstruktion efter arkeologiskt arbete av bland andra Gerhard Fischer."
+    },
+    "source": "Store norske leksikon – «Sverresborg – borg i Trondheim»"
+  },
+  {
+    "id": "borg-m-05",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Tittelen kom fra tysk og betegnet lederen for borgerne i en norsk eller dansk by. I 1938 ble den erstattet av «rådmann», som i 1992 ble til «administrasjonssjef». Hva heter den øverste administrative stillingen i norske kommuner fra 2018?",
+      "sv": "Titeln kom från tyskan och betecknade ledaren för borgarna i en norsk eller dansk stad. År 1938 ersattes den av «rådmann», som 1992 blev «administrasjonssjef». Vad heter den högsta administrativa tjänsten i norska kommuner från 2018?"
+    },
+    "answer": "kommunedirektør",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Stillingen er den administrative motparten til ordføreren, som er den folkevalgte lederen.",
+      "sv": "Tjänsten är den administrativa motparten till ordföranden, som är den folkvalda ledaren."
+    },
+    "funFact": {
+      "nb": "Magistratembetene ble avskaffet i 1922, og fra da av var stillingen helt kommunal. Ordet kommer av tyske Bürgermeister, som svarer til franske maire og engelske mayor.",
+      "sv": "Magistratsämbetena avskaffades 1922, och från då av var tjänsten helt kommunal. Ordet kommer av tyska Bürgermeister, som motsvarar franska maire och engelska mayor."
+    },
+    "source": "Store norske leksikon – «borgermester» og «ordfører»"
+  },
+  {
+    "id": "borg-m-06",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Borgen over Halden regnes som etablert i 1661, og ble aldri inntatt. Den 11. desember 1718 falt den svenske kongen Karl 12. utenfor murene, trolig truffet av et prosjektil avfyrt fra anlegget, og beleiringen ble hevet. Hvilken festning?",
+      "sv": "Borgen ovanför Halden räknas som etablerad 1661 och intogs aldrig. Den 11 december 1718 föll den svenske kungen Karl 12 utanför murarna, troligen träffad av en projektil avfyrad från anläggningen, och belägringen hävdes. Vilken fästning?"
+    },
+    "answer": "Fredriksten festning",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den bærer navnet til en dansk-norsk konge fra 1600-tallet.",
+      "sv": "Den bär namnet på en dansk-norsk kung från 1600-talet."
+    },
+    "funFact": {
+      "nb": "De første befestningene ble bygd i 1640-årene. Karl 12. hadde angrepet festningen forgjeves også i 1716, og de nøyaktige omstendighetene rundt dødsfallet er fortsatt omstridt.",
+      "sv": "De första befästningarna byggdes på 1640-talet. Karl 12 hade angripit fästningen förgäves även 1716, och de exakta omständigheterna kring dödsfallet är fortfarande omstridda."
+    },
+    "source": "Store norske leksikon – «Fredriksten festning»"
+  },
+  {
+    "id": "borg-m-07",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Alternativet til kirkens konfirmasjon ble lenge kalt borgerlig konfirmasjon. Organisasjonen som arrangerer den, ble stiftet i 1956 etter en innbydelse fra biologen Kristian Horn, og i dag velger nesten hver fjerde ungdom denne seremonien. Hvilken organisasjon?",
+      "sv": "Alternativet till kyrkans konfirmation kallades länge borgerlig konfirmation. Organisationen som arrangerar den grundades 1956 efter en inbjudan från biologen Kristian Horn, och i dag väljer nästan var fjärde ungdom den ceremonin. Vilken organisation?"
+    },
+    "answer": "Human-Etisk Forbund",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet inneholder både ordet for menneske og ordet for moral.",
+      "sv": "Namnet innehåller både ordet för människa och ordet för moral."
+    },
+    "funFact": {
+      "nb": "Stiftelsesmøtet samlet rundt 400 personer. Seremonien kalles i dag helst humanistisk konfirmasjon.",
+      "sv": "Grundningsmötet samlade omkring 400 personer. Ceremonin kallas i dag helst humanistisk konfirmation."
+    },
+    "source": "Store norske leksikon – «Human-Etisk Forbund»"
+  },
+  {
+    "id": "borg-m-08",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "I norsk rett heter det kausjon når en tredjeperson gjør seg ansvarlig for lånet til en annen, ved siden av låntakeren selv. Et eldre norsk ord for det samme er borgen – man går i borgen for noen. Hva kalles den som påtar seg ansvaret?",
+      "sv": "I norsk rätt heter det kausjon när en tredje person gör sig ansvarig för någon annans lån, vid sidan av låntagaren själv. Ett äldre norskt ord för samma sak är borgen – man går i borgen för någon. Vad kallas den som åtar sig ansvaret?"
+    },
+    "answer": "kausjonist",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet er dannet av selve avtalens navn, med endelsen -ist.",
+      "sv": "Ordet är bildat av själva avtalets namn, med ändelsen -ist."
+    },
+    "funFact": {
+      "nb": "Avtalen kalles i eldre norsk også forløfte. Långiveren kalles kreditor og låntakeren debitor.",
+      "sv": "Avtalet kallas på äldre norska även forløfte. Långivaren kallas kreditor och låntagaren debitor."
+    },
+    "source": "Store norske leksikon – «kausjon – garanti»"
+  },
+  {
+    "id": "borg-m-09",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I boka fra 1981 blir borgen delt i to av et lynnedslag samme natt som hovedpersonen blir født, og røverflokkene til Mattis og Borka får hver sin halvdel. Netflix laget en tolvdelt serie av den i 2024. Hvem skrev boka?",
+      "sv": "I boken från 1981 delas borgen i två av ett blixtnedslag samma natt som huvudpersonen föds, och rövarflockarna kring Mattis och Borka får var sin halva. Netflix gjorde en tolvdelad serie av den 2024. Vem skrev boken?"
+    },
+    "answer": "Astrid Lindgren",
+    "answerKind": "person",
+    "person": {
+      "given": "Astrid",
+      "family": "Lindgren"
+    },
+    "hint": {
+      "nb": "Den første filmen kom i 1984, regissert av Tage Danielsson, med Hanna Zetterberg i tittelrollen.",
+      "sv": "Den första filmen kom 1984, regisserad av Tage Danielsson, med Hanna Zetterberg i titelrollen."
+    },
+    "funFact": {
+      "nb": "Hovedpersonen og Birk er datter og sønn av rivaliserende røverhøvdinger, og forholdet deres speiler Romeo og Julie. Netflix-serien fra 2024 er regissert av Lisa James Larsson.",
+      "sv": "Huvudpersonen och Birk är dotter och son till rivaliserande rövarhövdingar, och deras förhållande speglar Romeo och Julia. Netflix-serien från 2024 är regisserad av Lisa James Larsson."
+    },
+    "source": "Store norske leksikon – «Ronja Røverdatter»"
+  },
+  {
+    "id": "borg-m-10",
+    "category": "borg",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Landet har navn etter en middelalderborg, og den eldste formen «Lucilinburhuc» betyr rett og slett «liten borg». Det ble grevskap i 963, hertugdømme i 1354 og selvstendig i 1890, og er verdens eneste storhertugdømme. Hvilket land?",
+      "sv": "Landet har namn efter en medeltidsborg, och den äldsta formen «Lucilinburhuc» betyder helt enkelt «liten borg». Det blev grevskap 963, hertigdöme 1354 och självständigt 1890, och är världens enda storhertigdöme. Vilket land?"
+    },
+    "answer": "Luxembourg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Landet har verdens høyeste bruttonasjonalprodukt per innbygger.",
+      "sv": "Landet har världens högsta bruttonationalprodukt per invånare."
+    },
+    "funFact": {
+      "nb": "Med 2574 kvadratkilometer og 677 717 innbyggere i 2024 er landet blant Europas aller minste, både i areal og folketall.",
+      "sv": "Med 2574 kvadratkilometer och 677 717 invånare 2024 är landet bland Europas allra minsta, både till yta och folkmängd."
+    },
+    "source": "Store norske leksikon – «Luxembourg»"
   }
 ]
