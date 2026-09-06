@@ -917,3 +917,8 @@ select.input option {
 .archive .cat-grid {
   margin-top: var(--sp-3);
 }
+
+/* Toppbaren er sticky, så et hopp til spørsmålslista må stoppe under den. */
+.q-list {
+  scroll-margin-top: 76px;
+}

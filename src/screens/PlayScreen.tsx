@@ -52,12 +52,19 @@ export default function PlayScreen() {
   // Telleren bytter animasjon uten å røre resultatet – frøet er `id|replay`.
   const [replay, setReplay] = useState(0)
   const resultRef = useRef<HTMLDivElement>(null)
+  const listRef = useRef<HTMLOListElement>(null)
 
   // Resultatet dukker opp nederst på en lang side. Uten dette står brukeren
   // igjen midt i spørsmålslista mens feiringen spilles utenfor synsfeltet.
   useEffect(() => {
     if (saved) resultRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' })
   }, [saved])
+
+  // Fasit vises for alle ti på én gang, og vurderingen begynner på spørsmål 1.
+  // Knappen står nederst, så uten dette blir man stående der man trykket.
+  useEffect(() => {
+    if (revealed && !saved) listRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+  }, [revealed, saved])
 
   if (!meta || questions.length === 0) {
     return (
@@ -110,7 +117,7 @@ export default function PlayScreen() {
         </div>
       </div>
 
-      <ol className="q-list" style={{ listStyle: 'none', padding: 0, margin: 0 }}>
+      <ol ref={listRef} className="q-list" style={{ listStyle: 'none', padding: 0, margin: 0 }}>
         {questions.map((q, i) => (
           <QuestionCard
             key={q.id}
