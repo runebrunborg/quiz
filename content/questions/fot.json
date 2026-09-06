@@ -292,5 +292,253 @@
       "sv": "Utöver sommarlederna märker föreningen ut omkring 7000 kilometer vinterleder, och den driver 550 stugor spridda över hela landet."
     },
     "source": "Store norske leksikon – Den Norske Turistforening"
+  },
+  {
+    "id": "fot-m-01",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "Hun er født i 1995, spiller for Olympique Lyonnais og har rekorden i Mesterligaen med 66 mål. I 2018 ble hun den første som fikk Ballon d'Or på kvinnesiden, og den første norske spilleren av begge kjønn som fikk prisen. Hvem er hun?",
+      "sv": "Hon är född 1995, spelar för Olympique Lyonnais och har rekordet i Champions League med 66 mål. År 2018 blev hon den första som fick Ballon d'Or på damsidan, och den första norska spelaren av båda könen som fick priset. Vem är hon?"
+    },
+    "answer": "Ada Hegerberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Ada",
+      "family": "Hegerberg"
+    },
+    "hint": {
+      "nb": "Hun ble kaptein for landslaget i februar 2025.",
+      "sv": "Hon blev lagkapten för landslaget i februari 2025."
+    },
+    "funFact": {
+      "nb": "Hun trakk seg fra landslaget etter EM i 2017 etter konflikt med forbundet og landslagssjef Martin Sjögren, og kom tilbake i mars 2022. Mesterligaen har hun vunnet seks ganger.",
+      "sv": "Hon drog sig ur landslaget efter EM 2017 efter konflikt med förbundet och landslagschefen Martin Sjögren, och kom tillbaka i mars 2022. Champions League har hon vunnit sex gånger."
+    },
+    "source": "Store norske leksikon – «Ada Hegerberg»"
+  },
+  {
+    "id": "fot-m-02",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Målet ble innført av den kanadiske professoren William Rees i 1992 og regnes i globale hektar. En nordmann lå i 2019 på 5,5, mot 2,75 i verdenssnitt og 1,63 som er det jorda faktisk har å gi. Hva heter målet?",
+      "sv": "Måttet infördes av den kanadensiske professorn William Rees 1992 och räknas i globala hektar. En norrman låg 2019 på 5,5, mot 2,75 i världsgenomsnitt och 1,63 som är det jorden faktiskt har att ge. Vad heter måttet?"
+    },
+    "answer": "økologisk fotavtrykk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dagen da verden har brukt opp årets ressurser, falt i 2026 på 30. juli.",
+      "sv": "Dagen då världen har gjort slut på årets resurser inföll 2026 den 30 juli."
+    },
+    "funFact": {
+      "nb": "Norges biologiske kapasitet er 7,3 globale hektar per person. Levde alle som nordmenn, ville det krevd rundt tre jordkloder. Verden bruker i dag 1,7 ganger det naturen rekker å fornye.",
+      "sv": "Norges biologiska kapacitet är 7,3 globala hektar per person. Om alla levde som norrmän skulle det krävas ungefär tre jordklot. Världen använder i dag 1,7 gånger det naturen hinner förnya."
+    },
+    "source": "Store norske leksikon – «økologisk fotavtrykk»"
+  },
+  {
+    "id": "fot-m-03",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Svenska Turistföreningen merket den tidlig på 1900-tallet. Den går fra Hemavan ved Ume älv nordvest for Tärnaby til Abisko ved Torneträsk, er rundt 400 kilometer lang og passerer nasjonalparkene Pieljekaise, Sarek og Stora Sjöfallet. Hva heter den?",
+      "sv": "Svenska Turistföreningen märkte upp den tidigt på 1900-talet. Den går från Hemavan vid Ume älv nordväst om Tärnaby till Abisko vid Torneträsk, är omkring 400 kilometer lång och passerar nationalparkerna Pieljekaise, Sarek och Stora Sjöfallet. Vad heter den?"
+    },
+    "answer": "Kungsleden",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Løypa går forbi fjellet Kebnekaise.",
+      "sv": "Leden går förbi fjället Kebnekaise."
+    },
+    "funFact": {
+      "nb": "Den nordligste enden ligger ved Torneträsk, den sørligste nordvest for Tärnaby. Også Abisko nasjonalpark ligger langs traseen.",
+      "sv": "Den nordligaste änden ligger vid Torneträsk, den sydligaste nordväst om Tärnaby. Även Abisko nationalpark ligger längs sträckningen."
+    },
+    "source": "Store norske leksikon – «Kungsleden»"
+  },
+  {
+    "id": "fot-m-04",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "fotball"
+    ],
+    "prompt": {
+      "nb": "Tre svensker spilte sammen i AC Milan og bidro til at klubben vant det italienske seriemesterskapet i 1951. De het Gunnar Gren, Gunnar Nordahl og Nils Liedholm. Under hvilket kallenavn gikk trioen, satt sammen av de to første bokstavene i hvert etternavn?",
+      "sv": "Tre svenskar spelade tillsammans i AC Milan och bidrog till att klubben vann det italienska seriemästerskapet 1951. De hette Gunnar Gren, Gunnar Nordahl och Nils Liedholm. Under vilket smeknamn gick trion, sammansatt av de två första bokstäverna i varje efternamn?"
+    },
+    "answer": "Gre-No-Li",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet lyder nesten italiensk, men er bare tre etternavn satt etter hverandre.",
+      "sv": "Namnet låter nästan italienskt, men är bara tre efternamn satta efter varandra."
+    },
+    "funFact": {
+      "nb": "Kallenavnet er satt sammen slik: Gre for Gren, No for Nordahl og Li for Liedholm.",
+      "sv": "Smeknamnet är sammansatt så här: Gre för Gren, No för Nordahl och Li för Liedholm."
+    },
+    "source": "Store norske leksikon – «AC Milan»"
+  },
+  {
+    "id": "fot-m-05",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "spill"
+    ],
+    "prompt": {
+      "nb": "I antikkens Hellas var knokler fra sau et yndet leketøy for barn. Beinet fra fotroten har prismeform med fire nokså jevne sider, merket med verdiene 1, 3, 4 og 6, og fire av dem ble kastet sammen. Hva kalles beinet?",
+      "sv": "I antikens Grekland var knotor från får en omtyckt leksak för barn. Benet från fotroten har prismaform med fyra ganska jämna sidor, märkta med värdena 1, 3, 4 och 6, och fyra av dem kastades tillsammans. Vad kallas benet?"
+    },
+    "answer": "astragalus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Lykkekastet, der fire ulike sider kom opp, ble kalt Venus og vant alt.",
+      "sv": "Lyckokastet, där fyra olika sidor kom upp, kallades Venus och vann allt."
+    },
+    "funFact": {
+      "nb": "Det er det øverste av de små beina i fotroten. Hvert kast hadde sitt eget navn og sin egen symbolske betydning, og motivet går igjen i gresk billedkunst.",
+      "sv": "Det är det översta av de små benen i fotroten. Varje kast hade sitt eget namn och sin egen symboliska betydelse, och motivet återkommer i grekisk bildkonst."
+    },
+    "source": "Store norske leksikon – «astragalus – spill med knokler»"
+  },
+  {
+    "id": "fot-m-06",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Den minste rytmiske enheten i en verselinje har i germanske språk minst to stavelser, og minst én av dem er tung. Jambe er lett-tung, som i «forstå», og troké er tung-lett, som i «løpe». Hva heter den som er tung-lett-lett?",
+      "sv": "Den minsta rytmiska enheten i en versrad har i germanska språk minst två stavelser, och minst en av dem är tung. Jamb är lätt-tung, som i «förstå», och troké är tung-lätt, som i «löpa». Vad heter den som är tung-lätt-lätt?"
+    },
+    "answer": "daktyl",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Motstykket er anapest, lett-lett-tung, som i «elegant».",
+      "sv": "Motstycket är anapest, lätt-lätt-tung, som i «elegant»."
+    },
+    "funFact": {
+      "nb": "Begrepene kommer fra gresk og latinsk verselære, der mønstrene bygde på stavelseslengde og ikke på trykk.",
+      "sv": "Begreppen kommer från grekisk och latinsk verslära, där mönstren byggde på stavelselängd och inte på tryck."
+    },
+    "source": "Store norske leksikon – «versefot»"
+  },
+  {
+    "id": "fot-m-07",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Den skotske dronningen tapte slaget ved Langside i 1568 og flyktet til England for å få hjelp av kusinen Elizabeth. Det ble starten på tjue års fangenskap, som endte med at hun ble halshugget 8. februar 1587. På hvilket slott?",
+      "sv": "Den skotska drottningen förlorade slaget vid Langside 1568 och flydde till England för att få hjälp av kusinen Elizabeth. Det blev början på tjugo års fångenskap, som slutade med att hon halshöggs den 8 februari 1587. På vilket slott?"
+    },
+    "answer": "Fotheringay",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Slottet lå i England, ikke i Skottland.",
+      "sv": "Slottet låg i England, inte i Skottland."
+    },
+    "funFact": {
+      "nb": "Maria Stuart ble født 8. desember 1542 og levde til 1587. Navnet på slottet skrives også Fotheringhay.",
+      "sv": "Maria Stuart föddes den 8 december 1542 och levde till 1587. Namnet på slottet skrivs också Fotheringhay."
+    },
+    "source": "Store norske leksikon – «Maria Stuart – skotsk dronning»"
+  },
+  {
+    "id": "fot-m-08",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den danske astronomen levde fra 1644 til 1710 og reformerte fotmålet i Danmark og Norge. Mest kjent er han for noe annet: i 1676 så han at formørkelsene av Jupiters måne Io kom senere når jorda var lenger unna. Hvem var han?",
+      "sv": "Den danske astronomen levde 1644 till 1710 och reformerade fotmåttet i Danmark och Norge. Mest känd är han för något annat: 1676 såg han att förmörkelserna av Jupiters måne Io kom senare när jorden var längre bort. Vem var han?"
+    },
+    "answer": "Ole Rømer",
+    "answerKind": "person",
+    "person": {
+      "given": "Ole",
+      "family": "Rømer"
+    },
+    "hint": {
+      "nb": "Christiaan Huygens brukte tallene hans i 1678 til å regne seg fram til omkring 212 000 kilometer i sekundet.",
+      "sv": "Christiaan Huygens använde hans siffror 1678 för att räkna sig fram till omkring 212 000 kilometer i sekunden."
+    },
+    "funFact": {
+      "nb": "Det var rundt 71 prosent av dagens verdi. Han fant også opp meridiansirkelen og altazimuten, og innførte gatelys i København.",
+      "sv": "Det var omkring 71 procent av dagens värde. Han uppfann också meridiancirkeln och altazimuten, och införde gatubelysning i Köpenhamn."
+    },
+    "source": "Store norske leksikon – «Ole Rømer» og «fot – lengdemål»"
+  },
+  {
+    "id": "fot-m-09",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Ordet kommer fra fransk og går tilbake på «infante», som bokstavelig betyr unge fotsoldater. I norsk militærhistorie ble de samme soldatene kalt fotfolk, til forskjell fra rytterne. Oppgaven har alltid vært å ta eller holde et landområde. Hva heter våpengrenen?",
+      "sv": "Ordet kommer från franskan och går tillbaka på «infante», som bokstavligt betyder unga fotsoldater. I norsk militärhistoria kallades samma soldater fotfolk, till skillnad från ryttarna. Uppgiften har alltid varit att ta eller hålla ett landområde. Vad heter vapenslaget?"
+    },
+    "answer": "infanteri",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er den eldste forsvarsformen, og kjernen i de fleste forsvar den dag i dag.",
+      "sv": "Det är den äldsta försvarsformen, och kärnan i de flesta försvar än i dag."
+    },
+    "funFact": {
+      "nb": "Betegnelsen fotsoldater ble særlig brukt etter hærordningen av 1628, og både fotfolk og fotsoldater var i bruk inn på 1900-tallet.",
+      "sv": "Beteckningen fotsoldater användes särskilt efter härordningen av 1628, och både fotfolk och fotsoldater var i bruk in på 1900-talet."
+    },
+    "source": "Store norske leksikon – «infanteri»"
+  },
+  {
+    "id": "fot-m-10",
+    "category": "fot",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Ordet kommer av latin «ped-», som betyr fot. På orgelet er det et helt klaviatur for føttene, på flygelet løfter den høyre demperne så tonen klinger videre, og på elgitar finnes fuzz og wah-wah. Hva heter innretningen?",
+      "sv": "Ordet kommer av latinets «ped-», som betyder fot. På orgeln är det ett helt klaviatur för fötterna, på flygeln lyfter den högra dämparna så att tonen klingar vidare, och på elgitarr finns fuzz och wah-wah. Vad heter anordningen?"
+    },
+    "answer": "pedal",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Harpe og pauker bruker den til å stemme om underveis.",
+      "sv": "Harpa och pukor använder den för att stämma om under vägen."
+    },
+    "funFact": {
+      "nb": "På orgelet kalles det pedalverket. Venstre side på flygelet gjør det motsatte av høyre og demper lyden. Sykler og biler har dem også.",
+      "sv": "På orgeln kallas det pedalverket. Vänstra sidan på flygeln gör tvärtom mot den högra och dämpar ljudet. Cyklar och bilar har dem också."
+    },
+    "source": "Store norske leksikon – «pedal»"
   }
 ]
