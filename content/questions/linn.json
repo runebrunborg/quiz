@@ -285,5 +285,257 @@
         }
       }
     ]
+  },
+  {
+    "id": "linn-m-01",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Lyset her ble tent for første gang 27. februar 1656, som det første i landet. Dagens tårn i støpejern med elektrisk lys kom i 1915, og i dag tar besøkssenteret med museum og værsimulator imot rundt 100 000 mennesker i året. Hvilket fyr?",
+      "sv": "Ljuset här tändes för första gången den 27 februari 1656, som det första i landet. Dagens torn i gjutjärn med elektriskt ljus kom 1915, och i dag tar besökscentret med museum och vädersimulator emot omkring 100 000 människor per år. Vilken fyr?"
+    },
+    "answer": "Lindesnes fyr",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fyret ligger på halvøya med samme navn, i Agder.",
+      "sv": "Fyren ligger på halvön med samma namn, i Agder."
+    },
+    "funFact": {
+      "nb": "I 2000 ble stedet utpekt til Vest-Agders tusenårssted. To fyrvoktere er fortsatt ansatt, til vedlikehold, observasjoner og omvisning.",
+      "sv": "År 2000 utsågs platsen till Vest-Agders tusenårsplats. Två fyrvaktare är fortfarande anställda, för underhåll, observationer och visningar."
+    },
+    "source": "Store norske leksikon – «Lindesnes fyr»"
+  },
+  {
+    "id": "linn-m-02",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Uhyret i nordisk folketro holdt til i fjellhuler, under jorda eller under store eiketrær. Det spydde ikke ild som dragen, men var sterkere og farligere, med store hoggtenner og ofte vinger. Hva heter det?",
+      "sv": "Odjuret i nordisk folktro höll till i bergsgrottor, under jorden eller under stora ekar. Det sprutade inte eld som draken, men var starkare och farligare, med stora huggtänder och ofta vingar. Vad heter det?"
+    },
+    "answer": "linnorm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av norrønt, der første ledd trolig betyr myk og bøyelig.",
+      "sv": "Namnet kommer av fornnordiska, där första ledet troligen betyder mjuk och böjlig."
+    },
+    "funFact": {
+      "nb": "Den skulle vokte skatter og kunne slå seg til under kirker og leve av lik fra gravene. Den er våpenmerke for kommunene Stjørdal og Skiptvet.",
+      "sv": "Den skulle vakta skatter och kunde slå sig ned under kyrkor och leva av lik från gravarna. Den är vapenmärke för kommunerna Stjørdal och Skiptvet."
+    },
+    "source": "Store norske leksikon – «linnorm»"
+  },
+  {
+    "id": "linn-m-03",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Sopranen ble født i Stockholm i 1820 og døde i Worcestershire i 1887. Hun turnerte blant annet i USA, der hun i 1852 giftet seg med akkompagnatøren Otto Goldschmidt, og hun hadde et nært vennskap med H.C. Andersen. Hvem var hun?",
+      "sv": "Sopranen föddes i Stockholm 1820 och dog i Worcestershire 1887. Hon turnerade bland annat i USA, där hon 1852 gifte sig med ackompanjatören Otto Goldschmidt, och hon hade en nära vänskap med H.C. Andersen. Vem var hon?"
+    },
+    "answer": "Jenny Lind",
+    "answerKind": "person",
+    "person": {
+      "given": "Jenny",
+      "family": "Lind"
+    },
+    "hint": {
+      "nb": "Hun ble kalt den svenske nattergalen.",
+      "sv": "Hon kallades den svenska näktergalen."
+    },
+    "funFact": {
+      "nb": "Hun ble født 6. oktober og døde 2. november. Vennskapet med H.C. Andersen har satt spor i flere av eventyrene hans.",
+      "sv": "Hon föddes den 6 oktober och dog den 2 november. Vänskapen med H.C. Andersen har satt spår i flera av hans sagor."
+    },
+    "source": "Store norske leksikon – «Jenny Lind»"
+  },
+  {
+    "id": "linn-m-04",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Den svenske lyrikeren levde fra 1889 til 1941, var redaktør for vittighetsbladet Naggen fra 1913 til 1922, og fant opp bokfilmen – krøniker satt sammen av bilder og avistekst. Han huskes helst som Stockholms-skildrer og kjærlighetslyriker. Hvem var han?",
+      "sv": "Den svenske lyrikern levde 1889 till 1941, var redaktör för skämttidningen Naggen från 1913 till 1922, och uppfann bokfilmen – krönikor sammansatta av bilder och tidningstext. Han minns helst som Stockholmsskildrare och kärlekslyriker. Vem var han?"
+    },
+    "answer": "Erik Lindorm",
+    "answerKind": "person",
+    "person": {
+      "given": "Erik",
+      "family": "Lindorm"
+    },
+    "hint": {
+      "nb": "Han ble født i juli 1889 og døde i januar 1941, begge deler i Stockholm.",
+      "sv": "Han föddes i juli 1889 och dog i januari 1941, båda delarna i Stockholm."
+    },
+    "funFact": {
+      "nb": "«Tal till mitt hjärta» kom i 1912 og «Domedagar» i 1920. Han skrev seg fra revolusjonær sosialisme i ungdommen mot borgerlige idyller senere.",
+      "sv": "«Tal till mitt hjärta» kom 1912 och «Domedagar» 1920. Han skrev sig från revolutionär socialism i ungdomen mot borgerliga idyller senare."
+    },
+    "source": "Store norske leksikon – «Erik Lindorm»"
+  },
+  {
+    "id": "linn-m-05",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den gjennomsiktige gjenstanden brukes i kikkert, mikroskop, forstørrelsesglass og briller. Den konvekse samler lysstrålene mot et brennpunkt, den konkave sprer dem. Navnet kommer fra latin, av ordet for en belgfrukt den ligner på. Hva heter den?",
+      "sv": "Det genomskinliga föremålet används i kikare, mikroskop, förstoringsglas och glasögon. Den konvexa samlar ljusstrålarna mot en brännpunkt, den konkava sprider dem. Namnet kommer från latinet, av ordet för en baljväxt den liknar. Vad heter det?"
+    },
+    "answer": "linse",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Avstanden fram til brennpunktet kalles brennvidden.",
+      "sv": "Avståndet fram till brännpunkten kallas brännvidden."
+    },
+    "funFact": {
+      "nb": "Fordi lyset kan gå gjennom begge veier, har hver av dem to brennpunkter. Flatene kan være sfæriske, asfæriske eller sylindriske.",
+      "sv": "Eftersom ljuset kan gå igenom åt båda hållen har var och en av dem två brännpunkter. Ytorna kan vara sfäriska, asfäriska eller cylindriska."
+    },
+    "source": "Store norske leksikon – «linse – optikk»"
+  },
+  {
+    "id": "linn-m-06",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Bastplanten Linum usitatissimum blir 60 til 120 centimeter høy og har blå eller hvite blomster. I 2021 ble det dyrket 896 600 tonn i verden, og 80 til 85 prosent av den europeiske avlingen kommer fra ett land. Hvilket?",
+      "sv": "Bastväxten Linum usitatissimum blir 60 till 120 centimeter hög och har blå eller vita blommor. År 2021 odlades 896 600 ton i världen, och 80 till 85 procent av den europeiska skörden kommer från ett land. Vilket?"
+    },
+    "answer": "Frankrike",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fibrene fra planten blir sterkere våte enn tørre, i motsetning til de fleste andre tekstilfibre.",
+      "sv": "Fibrerna från växten blir starkare våta än torra, till skillnad från de flesta andra textilfibrer."
+    },
+    "funFact": {
+      "nb": "Planten har vært brukt i Skandinavia siden jernalderen, og frø er funnet i Osebergskipet. Fibrene er 25 til 80 centimeter lange og har vakker glans.",
+      "sv": "Växten har använts i Skandinavien sedan järnåldern, och frön har hittats i Osebergsskeppet. Fibrerna är 25 till 80 centimeter långa och har vacker lyster."
+    },
+    "source": "Store norske leksikon – «lin»"
+  },
+  {
+    "id": "linn-m-07",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Redskapet lages av tre, metall eller plast, og brukes til å måle og til å trekke rette streker. Navnet kommer av latin «lineale», av «linea», som betyr nettopp strek. Hva heter redskapet?",
+      "sv": "Redskapet tillverkas av trä, metall eller plast och används för att mäta och för att dra raka streck. Namnet kommer av latinets «lineale», av «linea», som betyder just streck. Vad heter redskapet?"
+    },
+    "answer": "linjal",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det ligger i pennalet ved siden av passeren.",
+      "sv": "Det ligger i pennskrinet bredvid passaren."
+    },
+    "funFact": {
+      "nb": "Samme latinske rot ligger bak ord som linje, lineær og linjal på flere språk.",
+      "sv": "Samma latinska rot ligger bakom ord som linje, linjär och linjal på flera språk."
+    },
+    "source": "Store norske leksikon – «linjal»"
+  },
+  {
+    "id": "linn-m-08",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "I sentralperspektivet blir tingene mindre jo lenger bak de ligger, og strekene som følger dybden møtes i forsvinningspunktet på horisonten. Teknikken slo gjennom i renessansen. Hva kalles disse strekene, som også har navnet ortogonaler?",
+      "sv": "I centralperspektivet blir tingen mindre ju längre bak de ligger, och strecken som följer djupet möts i försvinningspunkten på horisonten. Tekniken slog igenom under renässansen. Vad kallas dessa streck, som också har namnet ortogonaler?"
+    },
+    "answer": "flyktlinjer",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet sier at de flykter innover i bildet.",
+      "sv": "Namnet säger att de flyr inåt i bilden."
+    },
+    "funFact": {
+      "nb": "Forsvinningspunktet ligger på horisontlinjen og trenger ikke stå midt i bildet. I interiører uten utsyn erstattes horisonten av vinduskarmer eller møbler.",
+      "sv": "Försvinningspunkten ligger på horisontlinjen och behöver inte stå mitt i bilden. I interiörer utan utsikt ersätts horisonten av fönsterkarmar eller möbler."
+    },
+    "source": "Store norske leksikon – «sentralperspektiv»"
+  },
+  {
+    "id": "linn-m-09",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "vikingtid"
+    ],
+    "prompt": {
+      "nb": "Klosteret på øya utenfor Northumberland ble grunnlagt på 600-tallet av den irske munken Aidan, som kom fra Iona. Den 8. juni 793 ble stedet plyndret og ødelagt, i det som regnes som starten på historisk tid for Norge. Hvilken øy?",
+      "sv": "Klostret på ön utanför Northumberland grundades på 600-talet av den irländske munken Aidan, som kom från Iona. Den 8 juni 793 plundrades och förstördes platsen, i det som räknas som början på historisk tid för Norge. Vilken ö?"
+    },
+    "answer": "Lindisfarne",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Øya kalles også Holy Island, og henger sammen med fastlandet ved fjære sjø.",
+      "sv": "Ön kallas också Holy Island och hänger ihop med fastlandet vid ebb."
+    },
+    "funFact": {
+      "nb": "Øya er fem kvadratkilometer stor. Klosteret ble bygd opp igjen i 1093 og var i drift til reformasjonen.",
+      "sv": "Ön är fem kvadratkilometer stor. Klostret byggdes upp igen 1093 och var i drift till reformationen."
+    },
+    "source": "Store norske leksikon – «Lindisfarne»"
+  },
+  {
+    "id": "linn-m-10",
+    "category": "linn",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Den 20. og 21. mai 1927 fløy amerikaneren av svensk ætt over 5800 kilometer fra New York til Paris i det enmotors flyet «Spirit of St. Louis». Turen tok 33 timer og 39 minutter, og han var alene. Hvem var han?",
+      "sv": "Den 20 och 21 maj 1927 flög amerikanen av svensk härkomst över 5800 kilometer från New York till Paris i det enmotoriga planet «Spirit of St. Louis». Resan tog 33 timmar och 39 minuter, och han var ensam. Vem var han?"
+    },
+    "answer": "Charles Lindbergh",
+    "answerKind": "person",
+    "person": {
+      "given": "Charles",
+      "family": "Lindbergh"
+    },
+    "hint": {
+      "nb": "Han ble født i Detroit i 1902 og døde i 1974.",
+      "sv": "Han föddes i Detroit 1902 och dog 1974."
+    },
+    "funFact": {
+      "nb": "Han var den første som fløy direkte fra New York til Paris alene. Ferden vakte enorm oppsikt både i Europa og i USA.",
+      "sv": "Han var den förste som flög direkt från New York till Paris ensam. Färden väckte enorm uppmärksamhet både i Europa och i USA."
+    },
+    "source": "Store norske leksikon – «Charles Lindbergh»"
   }
 ]
