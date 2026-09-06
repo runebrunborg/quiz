@@ -840,6 +840,29 @@ const scenes: Record<string, () => ReactElement> = {
       <path d="M0 250h400v10H0z" fill="#0B1430" opacity="0.7" />
     </Frame>
   ),
+  vest: () => (
+    <Frame id="s-vest" sky={['#FF7A3D', '#1B2B5E']}>
+      <circle cx="200" cy="150" r="46" fill="#FFD54A" opacity="0.95" />
+      <g className="sc-svai" style={{ animationDuration: '23s' }}>
+        <g stroke="#FFE9A8" strokeWidth="3" fill="none" opacity="0.35" strokeLinecap="round">
+          <path d="M108 96h34M258 96h34M124 68h26M250 68h26" />
+        </g>
+      </g>
+      <path d="M0 150h400v110H0z" fill="#2B5CE6" opacity="0.75" />
+      <g fill="#FFD54A" opacity="0.55">
+        <rect x="186" y="156" width="28" height="8" rx="4" />
+        <rect x="176" y="176" width="48" height="7" rx="3.5" />
+        <rect x="164" y="198" width="72" height="6" rx="3" />
+        <rect x="148" y="222" width="104" height="5" rx="2.5" />
+      </g>
+      <path d="M46 150l14-30 14 30z" fill="#0B1430" opacity="0.8" />
+      <path d="M330 150l18-38 18 38z" fill="#0B1430" opacity="0.8" />
+      <g stroke="#0B1430" strokeWidth="5" fill="none" opacity="0.85" strokeLinecap="round">
+        <path d="M60 120v-34M348 112v-30" />
+      </g>
+      <path d="M0 250h400v10H0z" fill="#0B1430" opacity="0.7" />
+    </Frame>
+  ),
 }
 
 export function ThemeScene({ scene }: { scene: string }) {

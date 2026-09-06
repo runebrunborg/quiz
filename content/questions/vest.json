@@ -1,0 +1,242 @@
+[
+  {
+    "id": "vest-l-01",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Øydistriktet ligger lengst nordvest i Nordland, rett nord for Lofoten, og består av kommunene Andøy, Bø, Hadsel, Sortland og Øksnes. Langøya her er landets tredje største øy. Hva heter distriktet?",
+      "sv": "Ödistriktet ligger längst nordväst i Nordland, rakt norr om Lofoten, och består av kommunerna Andøy, Bø, Hadsel, Sortland och Øksnes. Langøya här är landets tredje största ö. Vad heter distriktet?"
+    },
+    "answer": "Vesterålen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Møysalen på 1262 meter er høyeste punkt, og ble nasjonalpark i 2003.",
+      "sv": "Møysalen på 1262 meter är högsta punkten, och blev nationalpark 2003."
+    },
+    "funFact": {
+      "nb": "Distriktet har 30 869 innbyggere og rundt 1325 mindre øyer, de fleste ubebodde. Hurtigruta har fortsatt stor betydning her.",
+      "sv": "Distriktet har 30 869 invånare och omkring 1325 mindre öar, de flesta obebodda. Hurtigruten har fortfarande stor betydelse här."
+    },
+    "source": "Store norske leksikon – «Vesterålen»"
+  },
+  {
+    "id": "vest-l-02",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Plagget er fylt med skumplast sydd inn i rødt eller oransje stoff, og skal holde hodet til den som bruker det over vann. Før brukte man kork og kapok, som ikke lenger er tillatt. Hva heter plagget?",
+      "sv": "Plagget är fyllt med skumplast insytt i rött eller orange tyg, och ska hålla huvudet på den som bär det ovanför vattnet. Förr använde man kork och kapock, som inte längre är tillåtet. Vad heter plagget?"
+    },
+    "answer": "redningsvest",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I fritidsbåt under åtte meter må alle om bord ha på seg flyteutstyr når båten er i fart.",
+      "sv": "I fritidsbåt under åtta meter måste alla ombord bära flytutrustning när båten är i fart."
+    },
+    "funFact": {
+      "nb": "Utstyret skal være CE-merket og tilpasses høyden og vekten til den som bruker det. Alle av dette slaget er flytevester, men ikke omvendt.",
+      "sv": "Utrustningen ska vara CE-märkt och anpassas efter längden och vikten hos den som bär den. Alla av det här slaget är flytvästar, men inte tvärtom."
+    },
+    "source": "Store norske leksikon – «redningsvest»"
+  },
+  {
+    "id": "vest-l-03",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Landskapet ligger i Norrland og dekker de midtre og østlige delene av länet med samme navn. Umeå er største by, og Skellefteälven og Umeälven renner gjennom det fra Lappland. Hva heter landskapet?",
+      "sv": "Landskapet ligger i Norrland och täcker de mellersta och östra delarna av länet med samma namn. Umeå är största stad, och Skellefteälven och Umeälven rinner genom det från Lappland. Vad heter landskapet?"
+    },
+    "answer": "Västerbotten",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skelleftefeltet har rike forekomster av sulfidmalm med kobber og sink.",
+      "sv": "Skelleftefältet har rika förekomster av sulfidmalm med koppar och zink."
+    },
+    "funFact": {
+      "nb": "Landskapet er 15 093 kvadratkilometer med 231 800 innbyggere, og havnene er islagt omkring seks måneder i året.",
+      "sv": "Landskapet är 15 093 kvadratkilometer med 231 800 invånare, och hamnarna är islagda omkring sex månader om året."
+    },
+    "source": "Store norske leksikon – «Västerbotten»"
+  },
+  {
+    "id": "vest-l-04",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Byen ligger 85 kilometer nordvest for Stockholm, der Svartån renner ut i Mälaren. Industribyen vokste rundt hjørnesteinsbedriften ASEA, i dag ABB, som har hatt både hovedkontor og store fabrikkbygg midt i sentrum. Hvilken by?",
+      "sv": "Staden ligger 85 kilometer nordväst om Stockholm, där Svartån rinner ut i Mälaren. Industristaden växte kring hörnstensföretaget ASEA, i dag ABB, som haft både huvudkontor och stora fabriksbyggnader mitt i centrum. Vilken stad?"
+    },
+    "answer": "Västerås",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Her ble reformasjonsriksdagen holdt i 1527.",
+      "sv": "Här hölls reformationsriksdagen 1527."
+    },
+    "funFact": {
+      "nb": "Byen hadde 128 700 innbyggere i 2020 og kommunen 158 400 i 2022. Metallvareindustri, grafisk industri og næringsmiddelindustri finnes også.",
+      "sv": "Staden hade 128 700 invånare 2020 och kommunen 158 400 år 2022. Metallvaruindustri, grafisk industri och livsmedelsindustri finns också."
+    },
+    "source": "Store norske leksikon – «Västerås»"
+  },
+  {
+    "id": "vest-l-05",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Vestfronten gikk 650 kilometer gjennom Frankrike og Belgia, fra sveitsergrensa til Nordsjøen. Etter Marne i september og Ypres i oktober 1914 stivnet den raske bevegelseskrigen til noe helt annet. Hva slags system utviklet soldatene seg da ned i?",
+      "sv": "Västfronten gick 650 kilometer genom Frankrike och Belgien, från schweizgränsen till Nordsjön. Efter Marne i september och Ypres i oktober 1914 stelnade det snabba rörelsekriget till något helt annat. Vad slags system grävde sig soldaterna då ned i?"
+    },
+    "answer": "skyttergraver",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De allierte var i hovedsak Storbritannia, Frankrike og Belgia, sentralmaktene i hovedsak Tyskland.",
+      "sv": "De allierade var i huvudsak Storbritannien, Frankrike och Belgien, centralmakterna i huvudsak Tyskland."
+    },
+    "funFact": {
+      "nb": "Ved Verdun i 1916 ble rundt 300 000 drept eller såret på hver side. Somme samme år kostet 1,2 millioner mann til sammen.",
+      "sv": "Vid Verdun 1916 dödades eller sårades omkring 300 000 på varje sida. Somme samma år kostade 1,2 miljoner man sammanlagt."
+    },
+    "source": "Store norske leksikon – «Vestfronten – første verdenskrig»"
+  },
+  {
+    "id": "vest-l-06",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Helmut Kohl hadde vært kansler i Vest-Tyskland siden 1982, og la fram tipunktsplanen sin sent året før. Samarbeidsavtalen ble undertegnet 18. mai, «to pluss fire»-avtalen i Moskva 12. september, og 3. oktober ble de to tyske statene til én. Hvilket år?",
+      "sv": "Helmut Kohl hade varit förbundskansler i Västtyskland sedan 1982, och lade fram sin tiopunktsplan sent året innan. Samarbetsavtalet undertecknades den 18 maj, «två plus fyra»-avtalet i Moskva den 12 september, och den 3 oktober blev de två tyska staterna en. Vilket år?"
+    },
+    "answer": "1990",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kohl ble sittende som kansler helt til 1998, lengst av alle i forbundsrepublikken.",
+      "sv": "Kohl satt kvar som förbundskansler ända till 1998, längst av alla i förbundsrepubliken."
+    },
+    "funFact": {
+      "nb": "Han sikret godkjenning fra de fire allierte maktene både for samlingen og for at det samlede Tyskland skulle være med i Nato.",
+      "sv": "Han säkrade godkännande från de fyra allierade makterna både för samlingen och för att det samlade Tyskland skulle vara med i Nato."
+    },
+    "source": "Store norske leksikon – «Helmut Kohl»"
+  },
+  {
+    "id": "vest-l-07",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "På vindrosen står nord, sør, øst og vest, men magnetnåla peker ikke mot geografisk nord – den stiller seg etter feltlinjene mot den magnetiske polen. Columbus oppdaget i 1492 at avviket forandret seg med lengdegraden. Hva kalles denne vinkelen?",
+      "sv": "På vindrosen står nord, syd, öst och väst, men magnetnålen pekar inte mot geografisk nord – den ställer in sig efter fältlinjerna mot den magnetiska polen. Columbus upptäckte 1492 att avvikelsen ändrades med longituden. Vad kallas denna vinkel?"
+    },
+    "answer": "misvisning",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Skipsføreren må ta hensyn til både denne og til deviasjon når kursen settes.",
+      "sv": "Skepparen måste ta hänsyn till både denna och till deviation när kursen sätts."
+    },
+    "funFact": {
+      "nb": "Skipskompasset regnes som oppfunnet i 1302, da en ukjent navigatør fra Amalfi ved Napoli satte vindrosen på nåla. Araberne brukte magneter om bord alt på 700-tallet.",
+      "sv": "Skeppskompassen räknas som uppfunnen 1302, då en okänd navigatör från Amalfi vid Neapel satte vindrosen på nålen. Araberna använde magneter ombord redan på 700-talet."
+    },
+    "source": "Store norske leksikon – «kompass»"
+  },
+  {
+    "id": "vest-l-08",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Rommet er et forrom eller en inngangshall i en bygning, som resepsjonsområdet på et hotell, og er gjerne mindre enn en foaje. Ordet kom til norsk via fransk, fra et latinsk ord som betyr forgård eller hall. Hva heter rommet?",
+      "sv": "Rummet är ett förrum eller en entréhall i en byggnad, som receptionsområdet på ett hotell, och är gärna mindre än en foajé. Ordet kom till svenskan via franskan, från ett latinskt ord som betyder förgård eller hall. Vad heter rummet?"
+    },
+    "answer": "vestibyle",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er det første rommet du kommer inn i etter ytterdøra.",
+      "sv": "Det är det första rummet du kommer in i efter ytterdörren."
+    },
+    "funFact": {
+      "nb": "I romerske hus var det den lille passasjen mellom porten mot gata og atriet.",
+      "sv": "I romerska hus var det den lilla passagen mellan porten mot gatan och atriet."
+    },
+    "source": "Store norske leksikon – «vestibyle»"
+  },
+  {
+    "id": "vest-l-09",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Stephanie Kwolek oppdaget polymeren hos DuPont i 1965, og kollegaen Herbert Blades spant fibrene. Styrken i forhold til vekta er flere ganger større enn hos stål, og materialet er kjent fra skuddsikre vester. Hva heter det?",
+      "sv": "Stephanie Kwolek upptäckte polymeren hos DuPont 1965, och kollegan Herbert Blades spann fibrerna. Styrkan i förhållande till vikten är flera gånger större än hos stål, och materialet är känt från skottsäkra västar. Vad heter det?"
+    },
+    "answer": "kevlar",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "DuPont lanserte varemerket kommersielt i 1971.",
+      "sv": "DuPont lanserade varumärket kommersiellt 1971."
+    },
+    "funFact": {
+      "nb": "Strekkfastheten i verneutstyr ligger på 3,4 til 3,6 gigapascal. Fibrene brytes ned rundt 500 grader og taper styrke i ultrafiolett lys.",
+      "sv": "Draghållfastheten i skyddsutrustning ligger på 3,4 till 3,6 gigapascal. Fibrerna bryts ned kring 500 grader och tappar styrka i ultraviolett ljus."
+    },
+    "source": "Store norske leksikon – «Kevlar»"
+  },
+  {
+    "id": "vest-l-10",
+    "category": "vest",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Sjangeren er lagt til det amerikanske vesten mellom 1850 og 1900, blant nybyggere og åpne landskap. John Ford laget «Stagecoach» i 1939 og «The Searchers» i 1956, ofte med John Wayne. Hva kalles sjangeren?",
+      "sv": "Genren utspelar sig i amerikanska västern mellan 1850 och 1900, bland nybyggare och öppna landskap. John Ford gjorde «Stagecoach» 1939 och «The Searchers» 1956, ofta med John Wayne. Vad kallas genren?"
+    },
+    "answer": "western",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den italiensk-spanske varianten fra 1960-tallet har fått navn etter en pastarett.",
+      "sv": "Den italiensk-spanska varianten från 1960-talet har fått namn efter en pastarätt."
+    },
+    "funFact": {
+      "nb": "Sergio Leone laget «For en neve dollar» i 1964 og gjorde Clint Eastwood til stjerne. «Unforgiven» fra 1992 snudde sjangeren mot seg selv.",
+      "sv": "Sergio Leone gjorde «För en handfull dollar» 1964 och gjorde Clint Eastwood till stjärna. «Unforgiven» från 1992 vände genren mot sig själv."
+    },
+    "source": "Store norske leksikon – «western»"
+  }
+]

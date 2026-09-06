@@ -1,0 +1,49 @@
+{
+  "category": "vest",
+  "lines": {
+    "0": [
+      { "nb": "Kompassnåla står stille og peker rett ned. Her har det ikke vært noen retning i det hele tatt.", "sv": "Kompassnålen står stilla och pekar rakt ned. Här har det inte funnits någon riktning alls." },
+      { "nb": "Sola gikk ned før du kom deg ut av salongen. Ingen hest, ingen sadel, ingen horisont.", "sv": "Solen gick ned innan du kom ut ur salongen. Ingen häst, ingen sadel, ingen horisont." }
+    ],
+    "1": [
+      { "nb": "Ett skudd traff blinken, resten gikk i lufta over prærien. Det holder til en historie, ikke til en seier.", "sv": "Ett skott träffade tavlan, resten gick i luften över prärien. Det räcker till en historia, inte till en seger." },
+      { "nb": "Du fant vestlig retning én gang, og gikk så i ring resten av dagen.", "sv": "Du hittade västlig riktning en gång, och gick sedan i ring resten av dagen." }
+    ],
+    "2": [
+      { "nb": "To riktige, som to milepæler langs en vei som fortsatt er lang og støvete.", "sv": "Två rätta, som två milstolpar längs en väg som fortfarande är lång och dammig." },
+      { "nb": "Solnedgangen er vakker, men du står fortsatt et godt stykke øst for der du skulle.", "sv": "Solnedgången är vacker, men du står fortfarande en bra bit öster om där du skulle." }
+    ],
+    "3": [
+      { "nb": "Tre treff. Vogntoget har begynt å rulle, men hjulene knirker fortsatt betenkelig.", "sv": "Tre träffar. Vagntåget har börjat rulla, men hjulen gnisslar fortfarande betänkligt." },
+      { "nb": "Du har funnet vestavinden, men seilet er ikke helt oppe ennå.", "sv": "Du har hittat västanvinden, men seglet är inte riktigt uppe ännu." }
+    ],
+    "4": [
+      { "nb": "Fire av ti. Nybyggeren har satt opp veggene, men taket mangler før vinteren kommer.", "sv": "Fyra av tio. Nybyggaren har satt upp väggarna, men taket saknas innan vintern kommer." },
+      { "nb": "Godt under halvveis, men kursen peker i riktig retning nå.", "sv": "Bra under halvvägs, men kursen pekar åt rätt håll nu." }
+    ],
+    "5": [
+      { "nb": "Nøyaktig halvveis, som en front som har stivnet midt mellom fjellet og havet.", "sv": "Exakt halvvägs, som en front som stelnat mitt emellan berget och havet." },
+      { "nb": "Halve horisonten er din. Den andre halvparten ligger fortsatt i motlys.", "sv": "Halva horisonten är din. Den andra halvan ligger fortfarande i motljus." }
+    ],
+    "6": [
+      { "nb": "Flertallet er sikret. Du kunne ledet et vogntog over slettene uten å miste for mange.", "sv": "Majoriteten är säkrad. Du kunde lett ett vagntåg över slätterna utan att förlora för många." },
+      { "nb": "Seks treff, og redningsvesten har du ikke trengt å bruke en eneste gang.", "sv": "Sex träffar, och räddningsvästen har du inte behövt använda en enda gång." }
+    ],
+    "7": [
+      { "nb": "Sju av ti. Sheriffstjerna sitter, selv om et par mistenkte kom seg unna i mørket.", "sv": "Sju av tio. Sheriffstjärnan sitter, även om ett par misstänkta kom undan i mörkret." },
+      { "nb": "Solid vestlig kurs. Bare noen få grader misvisning igjen å rette opp.", "sv": "Solid västlig kurs. Bara några få graders missvisning kvar att räta upp." }
+    ],
+    "8": [
+      { "nb": "Åtte treff er sterkt. Du kjenner både himmelretningen, plagget og landskapet.", "sv": "Åtta träffar är starkt. Du känner både väderstrecket, plagget och landskapet." },
+      { "nb": "Nesten hele veien til kysten. Bare et par pass igjen over fjellet.", "sv": "Nästan hela vägen till kusten. Bara ett par pass kvar över berget." }
+    ],
+    "9": [
+      { "nb": "Ni av ti, og det ene bommet forsvinner i solnedgangen bak deg.", "sv": "Nio av tio, och den enda missen försvinner i solnedgången bakom dig." },
+      { "nb": "Så nær fullt hus at det svir. Ett spørsmål red ut av byen uten deg.", "sv": "Så nära fullt hus att det svider. En fråga red ut ur staden utan dig." }
+    ],
+    "10": [
+      { "nb": "Alt riktig. Du gikk mot solnedgangen og traff hvert eneste landemerke på veien.", "sv": "Allt rätt. Du gick mot solnedgången och träffade varje enda landmärke på vägen." },
+      { "nb": "Feilfritt fra grensa til havet. Ingen misvisning, ingen omvei, ingen tvil.", "sv": "Felfritt från gränsen till havet. Ingen missvisning, ingen omväg, inget tvivel." }
+    ]
+  }
+}

@@ -67,6 +67,7 @@ const ANCHORS = {
   sol: ['sol', 'sola', 'solen', 'sun', 'the sun', 'sole', 'soleil', 'sonne'],
   natt: ['natt', 'natten', 'natta', 'night', 'the night', 'nacht', 'nuit'],
   hus: ['hus', 'huset', 'house', 'the house', 'haus', 'maison'],
+  vest: ['vest', 'vesten', 'väst', 'västen', 'west', 'westen', 'ouest'],
 }
 
 /**
