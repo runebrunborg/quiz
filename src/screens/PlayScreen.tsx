@@ -5,6 +5,7 @@ import { langForRegion, t } from '../../shared/types'
 import { QuestionCard } from '../components/QuestionCard'
 import { syncOutbox } from '../lib/api'
 import { CATEGORY_BY_ID, pickQuestions, QUESTIONS_PER_ROUND } from '../lib/content'
+import { markPlayed } from '../lib/played'
 import { queueForSync, saveSession } from '../lib/storage'
 import { DIFFICULTY_LABELS, ORIGIN_LABELS, ui } from '../lib/ui'
 import { verdictFor } from '../lib/verdicts'
@@ -87,6 +88,7 @@ export default function PlayScreen() {
       questions: asked,
     }
     saveSession(session)
+    markPlayed(session)
     queueForSync(session.id)
     setSaved(true)
     void syncOutbox().catch(() => undefined)

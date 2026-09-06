@@ -18,7 +18,8 @@
     "cf:setup": "bash scripts/setup-cloudflare.sh",
     "test:api": "node scripts/api-smoke.mjs",
     "content:regions": "node scripts/region-mix.mjs",
-    "content:feedback": "node scripts/feedback-export.mjs"
+    "content:feedback": "node scripts/feedback-export.mjs",
+    "scenes:sheet": "node scripts/scenes-sheet.mjs"
   },
   "dependencies": {
     "hono": "^4.6.14",

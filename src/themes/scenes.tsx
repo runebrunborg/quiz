@@ -31,15 +31,21 @@ const scenes: Record<string, () => ReactElement> = {
   blaa: () => (
     <Frame id="s-blaa" sky={['#123AA8', '#0B1747']}>
       <circle cx="312" cy="62" r="34" fill="#FF2D8E" opacity="0.55" />
-      <path
-        d="M40 178c34-30 78-38 118-18 26 13 47 8 62-8 14-15 34-19 52-11 16 7 22 22 18 36-5 19-24 29-46 29H62c-16 0-27-13-22-28z"
-        fill="#2F6BE8"
-        opacity="0.85"
-      />
-      <path d="M96 176c22-26 62-28 84-2 6 7 3 14-6 14h-72c-9 0-12-6-6-12z" fill="#0B1747" opacity="0.55" />
-      <g stroke="#7FB2FF" strokeWidth="3" fill="none" opacity="0.75" strokeLinecap="round">
-        <path d="M0 216c22-14 44-14 66 0s44 14 66 0 44-14 66 0 44 14 66 0 44-14 66 0" />
-        <path d="M-20 240c22-14 44-14 66 0s44 14 66 0 44-14 66 0 44 14 66 0 44-14 66 0" />
+      {/* Blåhval: kropp, buk, sprut og en hale som bryter vannflaten. */}
+      <g fill="#2F6BE8">
+        <path d="M62 168c26-34 74-52 128-52 46 0 84 14 108 34 10 8 22 10 34 6l24-8-12 24 12 22-26-6c-12-3-24 0-33 8-24 20-60 32-104 32-58 0-108-24-131-60z" />
+        <path d="M300 138l38-30 6 46z" />
+      </g>
+      <path d="M96 178c26 20 66 30 108 30 26 0 50-4 70-12-22 18-56 28-96 28-38 0-70-16-82-46z" fill="#8FC4FF" opacity="0.55" />
+      <circle cx="152" cy="150" r="6" fill="#0B1747" />
+      <g stroke="#BFE0FF" strokeWidth="5" fill="none" strokeLinecap="round" opacity="0.7">
+        <path d="M120 112c-6-16-2-28 6-36M132 110c2-16 10-26 22-30" />
+      </g>
+      <g className="sc-svai" style={{ animationDuration: '21s' }}>
+        <g stroke="#7FB2FF" strokeWidth="3" fill="none" opacity="0.75" strokeLinecap="round">
+          <path d="M-30 218c22-14 44-14 66 0s44 14 66 0 44-14 66 0 44 14 66 0 44-14 66 0 44 14 66 0 44-14 66 0" />
+          <path d="M-50 242c22-14 44-14 66 0s44 14 66 0 44-14 66 0 44 14 66 0 44-14 66 0 44 14 66 0 44-14 66 0" />
+        </g>
       </g>
     </Frame>
   ),
@@ -47,8 +53,10 @@ const scenes: Record<string, () => ReactElement> = {
   /* ------------------------------------------------------------------ Rød */
   rod: () => (
     <Frame id="s-rod" sky={['#8E0F3A', '#2A0A26']}>
-      <circle cx="200" cy="126" r="66" fill="#FF3D2E" opacity="0.7" />
-      <circle cx="200" cy="126" r="42" fill="#FF7A3D" opacity="0.7" />
+      <g className="sc-pust" style={{ animationDuration: '12s', transformOrigin: '200px 126px' }}>
+        <circle cx="200" cy="126" r="66" fill="#FF3D2E" opacity="0.7" />
+        <circle cx="200" cy="126" r="42" fill="#FF7A3D" opacity="0.7" />
+      </g>
       <path d="M0 200h400v60H0z" fill="#4A0A22" />
       <path
         d="M118 200c0-30 18-52 44-52-8 16-4 28 8 34-4-22 10-40 32-44-6 18 2 30 16 38 12 7 18 14 18 24z"
@@ -66,8 +74,10 @@ const scenes: Record<string, () => ReactElement> = {
   /* ----------------------------------------------------------------- Gull */
   gull: () => (
     <Frame id="s-gull" sky={['#7A4A05', '#2C1030']}>
-      <g stroke="#F5C242" strokeWidth="8" opacity="0.35" strokeLinecap="round">
-        <path d="M200 130 60 10M200 130 340 10M200 130 10 96M200 130 390 96M200 130 90 250M200 130 310 250" />
+      <g className="sc-spinn" style={{ animationDuration: '168s' }}>
+        <g stroke="#F5C242" strokeWidth="8" opacity="0.35" strokeLinecap="round">
+          <path d="M200 130 40 -10M200 130 360 -10M200 130 -10 90M200 130 410 90M200 130 70 270M200 130 330 270" />
+        </g>
       </g>
       <circle cx="200" cy="130" r="56" fill="#F5A623" />
       <circle cx="200" cy="130" r="42" fill="#FFD778" />
@@ -80,18 +90,30 @@ const scenes: Record<string, () => ReactElement> = {
   vikinger: () => (
     <Frame id="s-vikinger" sky={['#4A2496', '#15083A']}>
       <circle cx="308" cy="66" r="40" fill="#FF2D8E" opacity="0.6" />
-      <path d="M0 196h400v64H0z" fill="#1B0C4A" />
-      <g>
-        <path d="M92 196h216l-26 30H118z" fill="#2A1560" />
-        <path d="M108 196c-14-10-22-24-22-38 16 10 30 14 44 12" fill="none" stroke="#FFC2DF" strokeWidth="6" />
-        <path d="M292 196c14-10 22-24 22-38-16 10-30 14-44 12" fill="none" stroke="#FFC2DF" strokeWidth="6" />
-        <rect x="196" y="66" width="6" height="130" fill="#FFC2DF" />
-        <path d="M202 78h74l-14 28 14 28h-74z" fill="#FF2D8E" />
-        <path d="M202 78h74l-14 28 14 28h-74z" fill="none" stroke="#FFE3F1" strokeWidth="3" />
-        <path d="M232 78v56M258 78v56" stroke="#FFE3F1" strokeWidth="4" opacity="0.6" />
+      <path d="M0 186h400v74H0z" fill="#1B0C4A" />
+      {/* Langskipet ligger høyt nok til at skroget ikke beskjæres bort. */}
+      <g className="sc-svai" style={{ animationDuration: '19s' }}>
+        <g>
+          <path d="M86 158h228l-28 34H114z" fill="#4A2A96" />
+          <path d="M86 158h228v10H86z" fill="#6D4ECF" />
+          <path d="M102 158c-16-10-25-26-25-42 18 11 34 15 50 13" fill="none" stroke="#FFC2DF" strokeWidth="6" />
+          <path d="M298 158c16-10 25-26 25-42-18 11-34 15-50 13" fill="none" stroke="#FFC2DF" strokeWidth="6" />
+          <rect x="197" y="44" width="6" height="114" fill="#FFC2DF" />
+          <path d="M203 56h72l-14 28 14 28h-72z" fill="#FF2D8E" />
+          <path d="M203 56h72l-14 28 14 28h-72z" fill="none" stroke="#FFE3F1" strokeWidth="3" />
+          <path d="M231 56v56M257 56v56" stroke="#FFE3F1" strokeWidth="4" opacity="0.6" />
+          <g fill="#2A1560">
+            <circle cx="126" cy="176" r="7" />
+            <circle cx="156" cy="176" r="7" />
+            <circle cx="186" cy="176" r="7" />
+            <circle cx="216" cy="176" r="7" />
+            <circle cx="246" cy="176" r="7" />
+            <circle cx="276" cy="176" r="7" />
+          </g>
+        </g>
       </g>
       <g stroke="#6D4ECF" strokeWidth="3" fill="none" opacity="0.8" strokeLinecap="round">
-        <path d="M0 238c26-12 52-12 78 0s52 12 78 0 52-12 78 0 52 12 78 0 52-12 78 0" />
+        <path d="M-40 230c26-12 52-12 78 0s52 12 78 0 52-12 78 0 52 12 78 0 52-12 78 0 52 12 78 0" />
       </g>
     </Frame>
   ),
@@ -106,8 +128,8 @@ const scenes: Record<string, () => ReactElement> = {
       <g stroke="#8E2B6B" strokeWidth="7" strokeLinecap="round" fill="none">
         <path d="M22 260V96M84 260V96" />
       </g>
-      <path d="M6 88h96M12 108h84" stroke="#FF2D8E" strokeWidth="9" strokeLinecap="round" />
-      <g fill="#FFC2DF">
+      <path d="M10 88h96M16 108h84" stroke="#FF2D8E" strokeWidth="9" strokeLinecap="round" />
+      <g className="sc-glo" style={{ animationDuration: '27s' }} fill="#FFC2DF">
         {[
           [300, 60],
           [326, 84],
@@ -132,6 +154,7 @@ const scenes: Record<string, () => ReactElement> = {
   /* ---------------------------------------------------------------- Månen */
   manen: () => (
     <Frame id="s-manen" sky={['#141A5E', '#050818']}>
+      <g className="sc-glo" style={{ animationDuration: '24s' }}>
       <g fill="#FFFFFF" opacity="0.8">
         {[
           [40, 40, 1.6],
@@ -146,6 +169,7 @@ const scenes: Record<string, () => ReactElement> = {
         ].map(([cx, cy, r], i) => (
           <circle key={i} cx={cx} cy={cy} r={r} />
         ))}
+      </g>
       </g>
       <circle cx="212" cy="118" r="62" fill="#FFE3F1" />
       <g fill="#E5C6DA">
@@ -162,16 +186,18 @@ const scenes: Record<string, () => ReactElement> = {
   /* ---------------------------------------------------------------- Kaffe */
   kaffe: () => (
     <Frame id="s-kaffe" sky={['#5A2E18', '#241026']}>
-      <g stroke="#FFC2DF" strokeWidth="5" fill="none" opacity="0.5" strokeLinecap="round">
-        <path d="M172 96c-14-16 14-26 0-42M200 92c-14-18 14-28 0-46M228 96c-14-16 14-26 0-42" />
+      <g className="sc-svai" style={{ animationDuration: '17s' }}>
+        <g stroke="#FFC2DF" strokeWidth="5" fill="none" opacity="0.5" strokeLinecap="round">
+          <path d="M172 78c-14-16 14-26 0-42M200 74c-14-18 14-28 0-46M228 78c-14-16 14-26 0-42" />
+        </g>
       </g>
-      <path d="M136 118h128v40c0 30-24 52-56 52h-16c-32 0-56-22-56-52z" fill="#FF2D8E" />
-      <path d="M264 130h16c16 0 26 12 26 26s-10 26-26 26h-12" fill="none" stroke="#FF2D8E" strokeWidth="12" />
-      <ellipse cx="200" cy="118" rx="64" ry="12" fill="#3A1A0E" />
-      <rect x="104" y="212" width="192" height="12" rx="6" fill="#FFC2DF" opacity="0.8" />
+      <path d="M136 100h128v40c0 30-24 52-56 52h-16c-32 0-56-22-56-52z" fill="#FF2D8E" />
+      <path d="M264 112h16c16 0 26 12 26 26s-10 26-26 26h-12" fill="none" stroke="#FF2D8E" strokeWidth="12" />
+      <ellipse cx="200" cy="100" rx="64" ry="12" fill="#3A1A0E" />
+      <rect x="104" y="194" width="192" height="12" rx="6" fill="#FFC2DF" opacity="0.8" />
       <g fill="#8A4A2B">
-        <ellipse cx="52" cy="222" rx="15" ry="10" transform="rotate(-24 52 222)" />
-        <ellipse cx="346" cy="212" rx="15" ry="10" transform="rotate(18 346 212)" />
+        <ellipse cx="330" cy="196" rx="15" ry="10" transform="rotate(18 330 196)" />
+        <ellipse cx="356" cy="176" rx="13" ry="9" transform="rotate(-14 356 176)" />
       </g>
     </Frame>
   ),
@@ -179,11 +205,14 @@ const scenes: Record<string, () => ReactElement> = {
   /* ----------------------------------------------------------- Kongelige */
   kongelige: () => (
     <Frame id="s-kongelige" sky={['#2A2BA8', '#0C0A3E']}>
-      <g fill="#101A5A">
+      <g fill="#2C3C96">
         <rect x="40" y="150" width="60" height="110" />
         <rect x="300" y="150" width="60" height="110" />
         <rect x="100" y="182" width="200" height="78" />
         <path d="M40 150l30-40 30 40zM300 150l30-40 30 40zM100 182l100-46 100 46z" />
+      </g>
+      <g fill="#4457C4">
+        <path d="M40 150l30-40 30 40zM300 150l30-40 30 40z" />
       </g>
       <path d="M140 92l22 34 20-46 18 46 20-34 14 46h-108z" fill="#F5C242" />
       <rect x="132" y="138" width="136" height="14" rx="4" fill="#F5C242" />
@@ -192,10 +221,14 @@ const scenes: Record<string, () => ReactElement> = {
         <circle cx="200" cy="70" r="7" />
         <circle cx="218" cy="86" r="7" />
       </g>
-      <g fill="#FFC2DF" opacity="0.6">
-        <rect x="126" y="204" width="14" height="24" rx="7" />
-        <rect x="192" y="204" width="14" height="24" rx="7" />
-        <rect x="258" y="204" width="14" height="24" rx="7" />
+      <g className="sc-glo" style={{ animationDuration: '23s' }}>
+        <g fill="#FFE0A0" opacity="0.85">
+          <rect x="192" y="198" width="14" height="24" rx="7" />
+          <rect x="258" y="198" width="14" height="24" rx="7" />
+          <rect x="126" y="198" width="14" height="24" rx="7" />
+          <rect x="58" y="166" width="14" height="22" rx="7" />
+          <rect x="322" y="166" width="14" height="22" rx="7" />
+        </g>
       </g>
     </Frame>
   ),
@@ -203,7 +236,9 @@ const scenes: Record<string, () => ReactElement> = {
   /* ----------------------------------------------------------------- Fjell */
   fjell: () => (
     <Frame id="s-fjell" sky={['#3E7FB8', '#12184E']}>
-      <circle cx="326" cy="58" r="28" fill="#FFC2DF" opacity="0.8" />
+      <g className="sc-pust" style={{ animationDuration: '13s', transformOrigin: '326px 58px' }}>
+        <circle cx="326" cy="58" r="28" fill="#FFC2DF" opacity="0.8" />
+      </g>
       <path d="M0 190l84-98 62 72 44-52 76 88 62-52 72 70v42H0z" fill="#233A86" />
       <path d="M84 92l30 36-30 12-28-12zM190 112l24 28-24 10-22-10z" fill="#F7F3FA" />
       <path d="M0 214l96-64 68 44 60-30 84 52 92-38v82H0z" fill="#141B54" />
@@ -219,10 +254,12 @@ const scenes: Record<string, () => ReactElement> = {
       <path d="M264 74h16M262 96h20M260 118h24" stroke="#FF2D8E" strokeWidth="8" />
       <rect x="258" y="46" width="28" height="16" rx="4" fill="#FFC94D" />
       <path d="M0 150c50-18 92 6 140 6s86-24 130-14 78 20 130 4v114H0z" fill="#0A3A52" />
-      <g stroke="#3AD6E0" strokeWidth="3.5" fill="none" opacity="0.7" strokeLinecap="round">
-        <path d="M-10 196c24-14 48-14 72 0s48 14 72 0 48-14 72 0 48 14 72 0 48-14 72 0" />
-        <path d="M-10 224c24-14 48-14 72 0s48 14 72 0 48-14 72 0 48 14 72 0 48-14 72 0" />
-        <path d="M-10 252c24-14 48-14 72 0s48 14 72 0 48-14 72 0 48 14 72 0 48-14 72 0" />
+      <g className="sc-svai" style={{ animationDuration: '23s' }}>
+        <g stroke="#3AD6E0" strokeWidth="3.5" fill="none" opacity="0.7" strokeLinecap="round">
+          <path d="M-40 196c24-14 48-14 72 0s48 14 72 0 48-14 72 0 48 14 72 0 48-14 72 0 48 14 72 0" />
+          <path d="M-40 224c24-14 48-14 72 0s48 14 72 0 48-14 72 0 48 14 72 0 48-14 72 0 48 14 72 0" />
+          <path d="M-40 252c24-14 48-14 72 0s48 14 72 0 48-14 72 0 48 14 72 0 48-14 72 0 48 14 72 0" />
+        </g>
       </g>
     </Frame>
   ),
@@ -231,11 +268,13 @@ const scenes: Record<string, () => ReactElement> = {
   ild: () => (
     <Frame id="s-ild" sky={['#5E0E24', '#1C0418']}>
       <path d="M0 210l110-96 52 40 62-64 82 78 94-38v130H0z" fill="#2C0A1E" />
-      <path
-        d="M200 58c26 30 40 52 40 74 0 30-20 50-40 50s-40-20-40-50c0-22 14-44 40-74z"
-        fill="#FF3D2E"
-      />
-      <path d="M200 96c14 18 22 32 22 46 0 18-10 30-22 30s-22-12-22-30c0-14 8-28 22-46z" fill="#FFC94D" />
+      <g className="sc-pust" style={{ animationDuration: '9s', transformOrigin: '200px 182px' }}>
+        <path
+          d="M200 58c26 30 40 52 40 74 0 30-20 50-40 50s-40-20-40-50c0-22 14-44 40-74z"
+          fill="#FF3D2E"
+        />
+        <path d="M200 96c14 18 22 32 22 46 0 18-10 30-22 30s-22-12-22-30c0-14 8-28 22-46z" fill="#FFC94D" />
+      </g>
       <g fill="#FF7A3D" opacity="0.8">
         <path d="M96 168c10 12 16 22 16 32 0 13-8 22-16 22s-16-9-16-22c0-10 6-20 16-32z" />
         <path d="M308 178c9 11 14 20 14 29 0 12-7 20-14 20s-14-8-14-20c0-9 5-18 14-29z" />
@@ -247,16 +286,27 @@ const scenes: Record<string, () => ReactElement> = {
   /* --------------------------------------------------------------- Rovdyr */
   rovdyr: () => (
     <Frame id="s-rovdyr" sky={['#3A2E7E', '#0C0724']}>
-      <circle cx="292" cy="70" r="38" fill="#FFE3F1" opacity="0.9" />
+      <g className="sc-pust" style={{ animationDuration: '14s', transformOrigin: '292px 70px' }}>
+        <circle cx="292" cy="70" r="38" fill="#FFE3F1" opacity="0.9" />
+      </g>
       <g fill="#160B3E">
         <path d="M0 200l40-46 34 30 44-56 40 44 56-60 50 62 46-38 90 64v60H0z" />
       </g>
+      {/* Ulvehode: spisse ører, smalnende snute – tegnet lysere enn himmelen bak. */}
+      <g fill="#4A3AA0">
+        <path d="M148 96l36 30-34 24z" />
+        <path d="M252 96l-36 30 34 24z" />
+      </g>
       <path
-        d="M118 232c0-34 12-56 28-70l-8-32 26 18c10-4 20-6 30-6l16-26 6 30c18 10 30 32 30 56v30z"
-        fill="#0B0620"
+        d="M200 110c31 0 54 23 54 54 0 21-9 38-24 49l-30 21-30-21c-15-11-24-28-24-49 0-31 23-54 54-54z"
+        fill="#6A57C8"
       />
-      <path d="M154 176c4 0 7 3 7 7s-3 7-7 7-7-3-7-7 3-7 7-7z" fill="#FF2D8E" />
-      <path d="M196 176c4 0 7 3 7 7s-3 7-7 7-7-3-7-7 3-7 7-7z" fill="#FF2D8E" />
+      <path d="M200 178c14 0 24 9 24 21 0 10-6 18-14 24l-10 7-10-7c-8-6-14-14-14-24 0-12 10-21 24-21z" fill="#9A88E8" />
+      <g fill="#FF2D8E">
+        <ellipse cx="178" cy="156" rx="9" ry="7" />
+        <ellipse cx="222" cy="156" rx="9" ry="7" />
+      </g>
+      <path d="M200 194l-11 9h22z" fill="#22124E" />
       <path d="M0 244h400v16H0z" fill="#070418" />
     </Frame>
   ),
@@ -274,6 +324,7 @@ const scenes: Record<string, () => ReactElement> = {
         <rect x="234" y="96" width="66" height="24" rx="10" fill="#FFE3F1" />
         <rect x="300" y="126" width="24" height="46" rx="12" fill="none" stroke="#F5A623" strokeWidth="10" />
       </g>
+      <g className="sc-glo" style={{ animationDuration: '29s' }}>
       <g fill="#8E2B6B" opacity="0.8">
         {[
           [56, 150],
@@ -286,6 +337,7 @@ const scenes: Record<string, () => ReactElement> = {
           <circle key={i} cx={cx} cy={cy} r="11" />
         ))}
       </g>
+      </g>
       <path d="M0 216h400v44H0z" fill="#1A0616" />
     </Frame>
   ),
@@ -297,10 +349,16 @@ const scenes: Record<string, () => ReactElement> = {
       <g stroke="#2A3A80" strokeWidth="6">
         <path d="M20 150v70M64 150v70M340 150v70M380 150v70" />
       </g>
-      <g fill="#101A50">
+      <g className="sc-svai" style={{ animationDuration: '21s' }}>
+      <g fill="#3B52B8">
         <rect x="40" y="132" width="150" height="70" rx="12" />
         <rect x="200" y="140" width="82" height="62" rx="10" />
         <rect x="292" y="140" width="82" height="62" rx="10" />
+      </g>
+      <g fill="#6E86E8">
+        <rect x="40" y="132" width="150" height="12" rx="6" />
+        <rect x="200" y="140" width="82" height="10" rx="5" />
+        <rect x="292" y="140" width="82" height="10" rx="5" />
       </g>
       <g fill="#FF2D8E">
         <rect x="56" y="148" width="34" height="28" rx="6" />
@@ -319,6 +377,7 @@ const scenes: Record<string, () => ReactElement> = {
         <circle cx="314" cy="210" r="10" />
         <circle cx="356" cy="210" r="10" />
       </g>
+      </g>
       <rect x="0" y="224" width="400" height="7" fill="#3A4AA0" />
       <rect x="0" y="238" width="400" height="7" fill="#26357C" />
     </Frame>
@@ -332,9 +391,11 @@ const scenes: Record<string, () => ReactElement> = {
         <path d="M140 150c-14-24-6-52 14-64 8 24 4 48-14 64zM260 150c14-24 6-52-14-64-8 24-4 48 14 64z" />
         <path d="M124 190c-22-16-24-46-10-62 16 18 20 44 10 62zM276 190c22-16 24-46 10-62-16 18-20 44-10 62z" />
       </g>
-      <circle cx="200" cy="152" r="50" fill="#F5C242" />
-      <circle cx="200" cy="152" r="38" fill="#FFE0A0" />
-      <circle cx="200" cy="152" r="18" fill="#8A5A05" opacity="0.5" />
+      <g className="sc-pust" style={{ animationDuration: '11s', transformOrigin: '200px 152px' }}>
+        <circle cx="200" cy="152" r="50" fill="#F5C242" />
+        <circle cx="200" cy="152" r="38" fill="#FFE0A0" />
+        <circle cx="200" cy="152" r="18" fill="#8A5A05" opacity="0.5" />
+      </g>
       <rect x="186" y="46" width="28" height="60" rx="6" fill="#FF2D8E" />
       <g fill="#FFFFFF" opacity="0.7">
         <circle cx="60" cy="60" r="2" />
@@ -348,6 +409,7 @@ const scenes: Record<string, () => ReactElement> = {
   /* ----------------------------------------------------------- Sjokolade */
   sjokolade: () => (
     <Frame id="s-sjokolade" sky={['#4A2418', '#1E0A1A']}>
+      <g className="sc-svai" style={{ animationDuration: '25s' }}>
       <g transform="rotate(-8 200 140)">
         <rect x="96" y="70" width="208" height="150" rx="12" fill="#6B3A2A" />
         {[0, 1, 2].map((r) =>
@@ -366,10 +428,11 @@ const scenes: Record<string, () => ReactElement> = {
           )),
         )}
       </g>
+      </g>
       <g fill="#FF2D8E" opacity="0.55">
-        <circle cx="48" cy="200" r="16" />
+        <circle cx="52" cy="72" r="16" />
         <circle cx="352" cy="76" r="13" />
-        <circle cx="356" cy="216" r="9" />
+        <circle cx="358" cy="196" r="9" />
       </g>
     </Frame>
   ),
@@ -377,6 +440,7 @@ const scenes: Record<string, () => ReactElement> = {
   /* --------------------------------------------------------------- Vinter */
   vinter: () => (
     <Frame id="s-vinter" sky={['#3FA9D8', '#101A52']}>
+      <g className="sc-glo" style={{ animationDuration: '31s' }}>
       <g stroke="#FFFFFF" strokeWidth="2.5" opacity="0.75" strokeLinecap="round">
         {[
           [58, 52, 14],
@@ -390,6 +454,7 @@ const scenes: Record<string, () => ReactElement> = {
           </g>
         ))}
       </g>
+      </g>
       <path d="M0 196l70-92 56 92zM150 200l58-78 56 78zM278 202l48-64 46 64z" fill="#122060" />
       <path d="M0 206c70-22 120 6 176 6s90-24 146-16 78 18 78 18v46H0z" fill="#F7F3FA" />
       <path d="M0 236c80-14 130 8 190 8s130-18 210-10v26H0z" fill="#FFE3F1" />
@@ -401,11 +466,13 @@ const scenes: Record<string, () => ReactElement> = {
   fugler: () => (
     <Frame id="s-fugler" sky={['#1E9E7A', '#0C1A46']}>
       <circle cx="86" cy="66" r="34" fill="#FFC94D" opacity="0.75" />
-      <g stroke="#0A1234" strokeWidth="7" fill="none" strokeLinecap="round">
-        <path d="M150 88c14-16 28-16 42 0 14-16 28-16 42 0" />
-        <path d="M232 132c11-13 22-13 33 0 11-13 22-13 33 0" />
-        <path d="M96 148c9-11 18-11 27 0 9-11 18-11 27 0" />
-        <path d="M300 62c8-9 16-9 24 0 8-9 16-9 24 0" />
+      <g className="sc-svai" style={{ animationDuration: '18s' }}>
+        <g stroke="#0A1234" strokeWidth="7" fill="none" strokeLinecap="round">
+          <path d="M150 88c14-16 28-16 42 0 14-16 28-16 42 0" />
+          <path d="M232 132c11-13 22-13 33 0 11-13 22-13 33 0" />
+          <path d="M96 148c9-11 18-11 27 0 9-11 18-11 27 0" />
+          <path d="M300 62c8-9 16-9 24 0 8-9 16-9 24 0" />
+        </g>
       </g>
       <path d="M0 200c60 12 100-8 150-6s86 22 140 12 110-14 110-14v68H0z" fill="#0C2A46" />
       <g>
@@ -426,10 +493,12 @@ const scenes: Record<string, () => ReactElement> = {
       <g stroke="#FFC2DF" strokeWidth="4" fill="none">
         <path d="M0 168c60-70 100-70 120 0M120 168c60-70 100-70 120 0M240 168c60-70 100-70 120 0" opacity="0.85" />
       </g>
+      <g className="sc-glo" style={{ animationDuration: '28s' }}>
       <g stroke="#FF8AC2" strokeWidth="2" opacity="0.6">
         {Array.from({ length: 22 }, (_, i) => 12 + i * 18).map((x) => (
           <path key={x} d={`M${x} 168V${168 - Math.abs(Math.sin(((x % 120) / 120) * Math.PI)) * 62}`} />
         ))}
+      </g>
       </g>
       <rect x="0" y="168" width="400" height="12" fill="#F7F3FA" />
       <g fill="#101A5A">
@@ -460,10 +529,12 @@ const scenes: Record<string, () => ReactElement> = {
         })}
       </g>
       <path d="M200 128V78" stroke="#FFFFFF" strokeWidth="7" strokeLinecap="round" />
-      <path d="M200 128l38 24" stroke="#FF2D8E" strokeWidth="7" strokeLinecap="round" />
+      <g className="sc-spinn" style={{ animationDuration: '180s', transformOrigin: '200px 128px' }}>
+        <path d="M200 128l38 24" stroke="#FF2D8E" strokeWidth="7" strokeLinecap="round" />
+      </g>
       <circle cx="200" cy="128" r="7" fill="#FF2D8E" />
       <g fill="none" stroke="#F5C242" strokeWidth="6" opacity="0.55">
-        <circle cx="54" cy="212" r="26" />
+        <circle cx="58" cy="72" r="26" />
         <circle cx="348" cy="60" r="20" />
       </g>
     </Frame>
@@ -477,7 +548,9 @@ const scenes: Record<string, () => ReactElement> = {
         opacity="0.8"
       />
       <path d="M40 84c-16 0-28-12-28-26s12-26 28-26c6-18 24-30 44-30s38 12 44 30c18 2 32 16 32 34H40z" fill="#6E86C8" opacity="0.55" />
-      <path d="M214 118l34-2-20 36 40-4-58 66 14-44-30 4z" fill="#FFD84D" />
+      <g className="sc-pust" style={{ animationDuration: '8s', transformOrigin: '232px 156px' }}>
+        <path d="M214 118l34-2-20 36 40-4-58 66 14-44-30 4z" fill="#FFD84D" />
+      </g>
       <g stroke="#9DB6F0" strokeWidth="4" strokeLinecap="round" opacity="0.7">
         <path d="M70 168l-22 54" />
         <path d="M108 176l-22 54" />
@@ -495,25 +568,38 @@ const scenes: Record<string, () => ReactElement> = {
       <circle cx="322" cy="58" r="30" fill="#FFE9A8" opacity="0.7" />
       <path d="M-10 150h420v46H-10z" fill="#12889E" opacity="0.55" />
       <path d="M-10 178c40 10 80 10 120 0s80-10 120 0 80 10 120 0 60-8 70-4v92H-10z" fill="#E8F4F7" opacity="0.9" />
-      <g fill="#FFFFFF" opacity="0.85">
-        <rect x="74" y="196" width="18" height="18" transform="rotate(12 83 205)" />
-        <rect x="150" y="212" width="12" height="12" transform="rotate(-18 156 218)" />
-        <rect x="252" y="200" width="22" height="22" transform="rotate(24 263 211)" />
-        <rect x="330" y="220" width="14" height="14" transform="rotate(-8 337 227)" />
+      {/* Saltkrystaller: kuber i motivfeltet, ikke prikker nede ved tittelen. */}
+      <g className="sc-glo" style={{ animationDuration: '22s' }}>
+        <g fill="#FFFFFF" opacity="0.9">
+          <path d="M200 58l40 23v46l-40 23-40-23V81z" />
+          <path d="M200 58l40 23-40 23-40-23z" fill="#E8F4F7" />
+          <path d="M200 104v46l-40-23V81z" fill="#BBD8E2" />
+        </g>
+        <g fill="#FFFFFF" opacity="0.75">
+          <path d="M108 122l24 14v28l-24 14-24-14v-28z" />
+          <path d="M108 122l24 14-24 14-24-14z" fill="#E8F4F7" />
+          <path d="M108 150v28l-24-14v-28z" fill="#BBD8E2" />
+        </g>
+        <g fill="#FFFFFF" opacity="0.6">
+          <path d="M296 140l18 10v21l-18 10-18-10v-21z" />
+          <path d="M296 140l18 10-18 11-18-11z" fill="#E8F4F7" />
+          <path d="M296 161v20l-18-10v-21z" fill="#BBD8E2" />
+        </g>
       </g>
-      <path d="M96 150c0-30 22-54 50-54s50 24 50 54z" fill="#07202C" opacity="0.35" />
     </Frame>
   ),
 
   /* --------------------------------------------------------------- Hjerte */
   hjerte: () => (
     <Frame id="s-hjerte" sky={['#7A0E33', '#2A0616']}>
-      <path
-        d="M200 224c-64-42-104-74-104-116 0-26 20-46 46-46 22 0 36 12 44 26 8-14 22-26 44-26 26 0 46 20 46 46 0 42-40 74-104 116z"
-        fill="#FF3D6E"
-        opacity="0.9"
-      />
-      <path d="M170 112c0-16 12-28 28-30" stroke="#FFC2D2" strokeWidth="6" fill="none" strokeLinecap="round" opacity="0.8" />
+      <g className="sc-pust" style={{ animationDuration: '10s', transformOrigin: '200px 150px' }}>
+        <path
+          d="M200 214c-62-40-100-71-100-112 0-25 19-44 44-44 21 0 35 11 42 25 7-14 21-25 42-25 25 0 44 19 44 44 0 41-38 72-100 112z"
+          fill="#FF3D6E"
+          opacity="0.9"
+        />
+        <path d="M170 106c0-16 12-28 28-30" stroke="#FFC2D2" strokeWidth="6" fill="none" strokeLinecap="round" opacity="0.8" />
+      </g>
       <g stroke="#FF8AA8" strokeWidth="3" fill="none" opacity="0.6" strokeLinecap="round">
         <path d="M-10 62h80l14-24 16 48 14-24h60" />
         <path d="M226 62h60l14-24 16 48 14-24h80" />
@@ -528,21 +614,25 @@ const scenes: Record<string, () => ReactElement> = {
   /* -------------------------------------------------------------- Linn */
   linn: () => (
     <Frame id="s-linn" sky={['#1E5C3A', '#0C2A1E']}>
-      <g stroke="#7FD9A4" strokeWidth="4" fill="none" strokeLinecap="round" opacity="0.85">
-        <path d="M200 250v-88" />
-        <path d="M200 162c-20 0-32 10-34 26M200 162c20 0 32 10 34 26" />
-      </g>
-      <g fill="#FF5FA8">
-        <path d="M160 186h12c8 0 12 7 11 15l-3 18c-1 10-8 17-14 17s-13-7-14-17l-3-18c-1-8 3-15 11-15z" />
-        <path d="M228 186h12c8 0 12 7 11 15l-3 18c-1 10-8 17-14 17s-13-7-14-17l-3-18c-1-8 3-15 11-15z" />
-      </g>
-      <g fill="#FFC2DF" opacity="0.8">
-        <ellipse cx="166" cy="232" rx="12" ry="5" />
-        <ellipse cx="234" cy="232" rx="12" ry="5" />
+      {/* Linnea: to hengende klokker på delt stilk, løftet opp i motivfeltet. */}
+      <g className="sc-svai" style={{ animationDuration: '16s' }}>
+        <g stroke="#7FD9A4" strokeWidth="4" fill="none" strokeLinecap="round" opacity="0.9">
+          <path d="M200 210V64" />
+          <path d="M200 78c-24 0-38 12-40 30M200 78c24 0 38 12 40 30" />
+        </g>
+        <g fill="#FF5FA8">
+          <path d="M148 104h24c9 0 14 8 12 17l-4 20c-2 11-9 19-20 19s-18-8-20-19l-4-20c-2-9 3-17 12-17z" />
+          <path d="M228 104h24c9 0 14 8 12 17l-4 20c-2 11-9 19-20 19s-18-8-20-19l-4-20c-2-9 3-17 12-17z" />
+        </g>
+        <g fill="#FFC2DF" opacity="0.85">
+          <ellipse cx="160" cy="158" rx="14" ry="6" />
+          <ellipse cx="240" cy="158" rx="14" ry="6" />
+        </g>
       </g>
       <g fill="#3FA66A" opacity="0.7">
-        <ellipse cx="146" cy="248" rx="32" ry="12" />
-        <ellipse cx="254" cy="252" rx="36" ry="12" />
+        <ellipse cx="132" cy="212" rx="40" ry="14" />
+        <ellipse cx="268" cy="218" rx="44" ry="14" />
+        <ellipse cx="200" cy="228" rx="52" ry="16" />
       </g>
       <circle cx="320" cy="56" r="26" fill="#FFC2DF" opacity="0.35" />
     </Frame>
@@ -551,7 +641,9 @@ const scenes: Record<string, () => ReactElement> = {
   /* -------------------------------------------------------------- Brun */
   brun: () => (
     <Frame id="s-brun" sky={['#4A2716', '#1C0E1E']}>
-      <circle cx="316" cy="58" r="30" fill="#FFC94D" opacity="0.5" />
+      <g className="sc-pust" style={{ animationDuration: '14s', transformOrigin: '316px 58px' }}>
+        <circle cx="316" cy="58" r="30" fill="#FFC94D" opacity="0.5" />
+      </g>
       <path d="M0 226c60-30 120-30 180 0s160 22 220-10v44H0z" fill="#3A1D10" opacity="0.85" />
       <g fill="#8A4A2B">
         <circle cx="164" cy="130" r="18" />
@@ -578,11 +670,13 @@ const scenes: Record<string, () => ReactElement> = {
       <path d="M60 96h12V78h16v18h16V78h12v18" fill="#4A579A" />
       <path d="M284 96h12V78h16v18h16V78h12v18" fill="#4A579A" />
       <path d="M180 250v-58c0-11 9-20 20-20s20 9 20 20v58z" fill="#0A0E28" opacity="0.8" />
-      <g fill="#FFC94D" opacity="0.85">
-        <rect x="76" y="130" width="16" height="24" rx="8" />
-        <rect x="308" y="130" width="16" height="24" rx="8" />
-        <rect x="140" y="160" width="14" height="22" rx="7" />
-        <rect x="246" y="160" width="14" height="22" rx="7" />
+      <g className="sc-glo" style={{ animationDuration: '20s' }}>
+        <g fill="#FFC94D" opacity="0.85">
+          <rect x="76" y="130" width="16" height="24" rx="8" />
+          <rect x="308" y="130" width="16" height="24" rx="8" />
+          <rect x="140" y="160" width="14" height="22" rx="7" />
+          <rect x="246" y="160" width="14" height="22" rx="7" />
+        </g>
       </g>
     </Frame>
   ),
@@ -598,6 +692,7 @@ const scenes: Record<string, () => ReactElement> = {
         <circle cx="243" cy="76" r="9" />
         <circle cx="261" cy="88" r="7.5" />
       </g>
+      <g className="sc-glo" style={{ animationDuration: '30s' }}>
       <g fill="#1F7A4D" opacity="0.5">
         <path d="M74 178c17 0 28 11 28 25 0 11-6 18-6 28 0 15-9 25-22 25s-22-10-22-25c0-10-6-17-6-28 0-14 11-25 28-25z" />
         <ellipse cx="52" cy="163" rx="8" ry="10" transform="rotate(-20 52 163)" />
@@ -605,6 +700,7 @@ const scenes: Record<string, () => ReactElement> = {
         <circle cx="83" cy="152" r="5.5" />
         <circle cx="95" cy="156" r="5" />
         <circle cx="105" cy="163" r="4" />
+      </g>
       </g>
       <path d="M0 246h400v14H0z" fill="#0A1A22" opacity="0.7" />
     </Frame>
@@ -616,12 +712,14 @@ const scenes: Record<string, () => ReactElement> = {
       <g stroke="#FFC2DF" strokeWidth="4" fill="none" opacity="0.5" strokeLinecap="round">
         <path d="M40 74c26-18 52-18 78 0M28 106c34-24 68-24 102 0" />
       </g>
-      <circle cx="228" cy="146" r="72" fill="#FFF3E0" />
-      <g fill="#2A1030">
-        <path d="M228 96l26 19-10 31h-32l-10-31z" />
-        <path d="M228 74l-30 22-16-12 22-24zM228 74l30 22 16-12-22-24z" opacity="0.85" />
-        <path d="M186 190l10-30-30-10-14 24zM270 190l-10-30 30-10 14 24z" opacity="0.85" />
-        <path d="M212 218h32l10-30h-52z" opacity="0.85" />
+      <g className="sc-spinn" style={{ animationDuration: '200s', transformOrigin: '228px 146px' }}>
+        <circle cx="228" cy="146" r="72" fill="#FFF3E0" />
+        <g fill="#2A1030">
+          <path d="M228 96l26 19-10 31h-32l-10-31z" />
+          <path d="M228 74l-30 22-16-12 22-24zM228 74l30 22 16-12-22-24z" opacity="0.85" />
+          <path d="M186 190l10-30-30-10-14 24zM270 190l-10-30 30-10 14 24z" opacity="0.85" />
+          <path d="M212 218h32l10-30h-52z" opacity="0.85" />
+        </g>
       </g>
       <ellipse cx="228" cy="238" rx="70" ry="12" fill="#2A1030" opacity="0.45" />
     </Frame>
@@ -634,9 +732,13 @@ const scenes: Record<string, () => ReactElement> = {
       <g fill="#6E7488">
         <ellipse cx="200" cy="234" rx="84" ry="24" />
         <ellipse cx="196" cy="192" rx="62" ry="22" />
-        <ellipse cx="204" cy="154" rx="46" ry="19" />
-        <ellipse cx="198" cy="122" rx="32" ry="15" />
-        <ellipse cx="202" cy="98" rx="20" ry="11" />
+      </g>
+      <g className="sc-svai" style={{ animationDuration: '24s' }}>
+        <g fill="#6E7488">
+          <ellipse cx="204" cy="154" rx="46" ry="19" />
+          <ellipse cx="198" cy="122" rx="32" ry="15" />
+          <ellipse cx="202" cy="98" rx="20" ry="11" />
+        </g>
       </g>
       <g fill="#9AA1B5" opacity="0.65">
         <ellipse cx="176" cy="228" rx="30" ry="8" />
@@ -650,9 +752,11 @@ const scenes: Record<string, () => ReactElement> = {
   /* --------------------------------------------------------------- Ring */
   ring: () => (
     <Frame id="s-ring" sky={['#2A2450', '#0E0C24']}>
-      <g fill="none" opacity="0.35" stroke="#8FA8FF">
-        <circle cx="200" cy="140" r="112" strokeWidth="3" />
-        <circle cx="200" cy="140" r="136" strokeWidth="2" />
+      <g className="sc-spinn" style={{ animationDuration: '160s', transformOrigin: '200px 140px' }}>
+        <g fill="none" opacity="0.35" stroke="#8FA8FF">
+          <circle cx="200" cy="140" r="112" strokeWidth="3" strokeDasharray="420 120" />
+          <circle cx="200" cy="140" r="136" strokeWidth="2" strokeDasharray="500 140" />
+        </g>
       </g>
       <circle cx="200" cy="152" r="62" fill="none" stroke="#D4A017" strokeWidth="18" />
       <circle cx="200" cy="152" r="62" fill="none" stroke="#FFE08A" strokeWidth="6" opacity="0.8" />
@@ -669,15 +773,17 @@ const scenes: Record<string, () => ReactElement> = {
   /* ---------------------------------------------------------------- Sol */
   sol: () => (
     <Frame id="s-sol" sky={['#B8560C', '#2A1030']}>
-      <g stroke="#FFD54A" strokeWidth="7" opacity="0.55" strokeLinecap="round">
-        <path d="M200 128V26M200 128l72-72M200 128l102-30M200 128L128 56M200 128L98 98M200 128l112 26M200 128L88 154" />
+      <g className="sc-spinn" style={{ animationDuration: '140s', transformOrigin: '200px 128px' }}>
+        <g stroke="#FFD54A" strokeWidth="7" opacity="0.55" strokeLinecap="round">
+          <path d="M200 128V16M200 128l80-80M200 128l112-32M200 128L120 48M200 128L88 96M200 128l112 32M200 128L88 160M200 128l80 80M200 128l-80 80" />
+        </g>
       </g>
       <circle cx="200" cy="128" r="58" fill="#FFD54A" />
       <circle cx="200" cy="128" r="44" fill="#FFF0B8" opacity="0.85" />
       <path d="M0 196h400v64H0z" fill="#2A1030" opacity="0.55" />
       <g stroke="#FF7A3D" strokeWidth="4" fill="none" opacity="0.7" strokeLinecap="round">
-        <path d="M0 214c26-12 52-12 78 0s52 12 78 0 52-12 78 0 52 12 78 0 52-12 78 0" />
-        <path d="M-16 240c26-12 52-12 78 0s52 12 78 0 52-12 78 0 52 12 78 0 52-12 78 0" />
+        <path d="M-40 214c26-12 52-12 78 0s52 12 78 0 52-12 78 0 52 12 78 0 52-12 78 0 52 12 78 0" />
+        <path d="M-56 240c26-12 52-12 78 0s52 12 78 0 52-12 78 0 52 12 78 0 52-12 78 0 52 12 78 0" />
       </g>
     </Frame>
   ),
@@ -694,17 +800,19 @@ const scenes: Record<string, () => ReactElement> = {
         <circle cx="228" cy="42" r="2" />
         <circle cx="96" cy="120" r="1.5" />
       </g>
-      <g fill="#0A1030">
+      <g fill="#1B2A66">
         <path d="M0 260v-84h44v-30h30v30h34v-52h40v52h32v-40h38v40h44v-26h34v26h40v-44h32v44h32v84z" />
       </g>
-      <g fill="#3AD6E0" opacity="0.8">
-        <rect x="58" y="192" width="8" height="10" />
-        <rect x="118" y="176" width="8" height="10" />
-        <rect x="196" y="164" width="8" height="10" />
-        <rect x="262" y="186" width="8" height="10" />
-        <rect x="330" y="172" width="8" height="10" />
-        <rect x="86" y="216" width="8" height="10" />
-        <rect x="230" y="210" width="8" height="10" />
+      <g className="sc-glo" style={{ animationDuration: '23s' }}>
+        <g fill="#3AD6E0" opacity="0.9">
+          <rect x="118" y="176" width="8" height="10" />
+          <rect x="196" y="164" width="8" height="10" />
+          <rect x="262" y="186" width="8" height="10" />
+          <rect x="330" y="172" width="8" height="10" />
+          <rect x="240" y="152" width="8" height="10" />
+          <rect x="352" y="148" width="8" height="10" />
+          <rect x="300" y="178" width="8" height="10" />
+        </g>
       </g>
     </Frame>
   ),
@@ -713,8 +821,10 @@ const scenes: Record<string, () => ReactElement> = {
   hus: () => (
     <Frame id="s-hus" sky={['#1E3A63', '#0B1430']}>
       <circle cx="322" cy="56" r="22" fill="#FFC2DF" opacity="0.4" />
-      <g stroke="#C3B6D2" strokeWidth="4" fill="none" opacity="0.45" strokeLinecap="round">
-        <path d="M262 62c0-12 10-20 22-16M254 44c0-14 12-22 26-18" />
+      <g className="sc-svai" style={{ animationDuration: '19s' }}>
+        <g stroke="#C3B6D2" strokeWidth="4" fill="none" opacity="0.45" strokeLinecap="round">
+          <path d="M262 62c0-12 10-20 22-16M254 44c0-14 12-22 26-18" />
+        </g>
       </g>
       <rect x="244" y="70" width="18" height="42" rx="9" fill="#5A4A6E" />
       <path d="M104 132l96-62 96 62v118H104z" fill="#FF5FA8" />

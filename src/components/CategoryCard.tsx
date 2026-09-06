@@ -6,16 +6,27 @@ interface Props {
   category: Category
   lang: Lang
   selected: boolean
+  /** Antall ordinære spørsmål på det valgte nivået. 0 betyr at kortet ikke kan velges. */
   available: number
-  needed: number
   /** Temaet har et spørsmål med «på denne dag»-variant for dagens dato. */
   datedToday?: boolean
+  /** Puljen har vokst siden spilleren sist spilte temaet på dette nivået. */
+  hasNew?: boolean
+  /** Vises i arkivet: når temaet sist ble spilt. */
+  note?: string
   onSelect: () => void
 }
 
-export function CategoryCard({ category, lang, selected, available, needed, datedToday, onSelect }: Props) {
-  const ready = available >= needed
-  const fill = Math.min(100, Math.round((available / needed) * 100))
+export function CategoryCard({
+  category,
+  lang,
+  selected,
+  available,
+  datedToday,
+  hasNew,
+  note,
+  onSelect,
+}: Props) {
   return (
     <button
       type="button"
@@ -29,21 +40,14 @@ export function CategoryCard({ category, lang, selected, available, needed, date
         <ThemeScene scene={category.scene} />
       </span>
       <span className="cat-card__veil" />
-      {datedToday && (
-        <span className="cat-card__today pill pill--pink">{lang === 'sv' ? 'I dag' : 'I dag'}</span>
+      {(datedToday || hasNew) && (
+        <span className="cat-card__flags">
+          {datedToday && <span className="pill pill--pink">I dag</span>}
+          {hasNew && <span className="pill pill--pink">Nytt stoff</span>}
+        </span>
       )}
       <span className="cat-card__name">{t(category.name, lang)}</span>
-      <span className="cat-card__meter">
-        <span className="meter">
-          <span className="meter__fill" style={{ width: `${fill}%` }} />
-        </span>
-        <span className="tabular">
-          {available}/{needed}
-        </span>
-      </span>
-      {!ready && available > 0 && (
-        <span className="visually-hidden">Ikke nok spørsmål på dette nivået ennå</span>
-      )}
+      {note && <span className="cat-card__note">{note}</span>}
     </button>
   )
 }

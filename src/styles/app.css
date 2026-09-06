@@ -58,11 +58,18 @@
   background: linear-gradient(to top, rgba(5, 8, 30, 0.95) 8%, rgba(5, 8, 30, 0.55) 48%, rgba(5, 8, 30, 0.1) 100%);
 }
 
-/* «I dag»-merket på temaer som har et spørsmål for dagens dato. */
-.cat-card__today {
+/* Merker i toppen av kortet: «I dag» og «Nytt stoff». */
+.cat-card__flags {
   position: absolute;
   top: var(--sp-3);
   right: var(--sp-3);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 4px;
+}
+
+.cat-card__flags .pill {
   backdrop-filter: blur(6px);
   font-size: var(--step--1);
   padding: 3px 9px;
@@ -75,11 +82,8 @@
   letter-spacing: -0.03em;
 }
 
-.cat-card__meter {
-  margin-top: var(--sp-3);
-  display: flex;
-  align-items: center;
-  gap: var(--sp-2);
+.cat-card__note {
+  margin-top: 2px;
   font-size: var(--step--1);
   color: var(--text-faint);
 }
@@ -867,4 +871,49 @@ select.input option {
   margin: 0;
   font-size: var(--step--1);
   color: var(--text-muted);
+}
+
+/* --------------------------------------------------------------- arkivet */
+/* Temaer spilleren har spilt ferdig. De ligger her til puljen vokser. */
+.archive {
+  margin-top: var(--sp-6);
+  border-top: 1px solid var(--border);
+  padding-top: var(--sp-4);
+}
+
+.archive__summary {
+  cursor: pointer;
+  font-size: var(--step--1);
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+}
+
+.archive__summary::-webkit-details-marker {
+  display: none;
+}
+
+.archive__summary::before {
+  content: '';
+  width: 6px;
+  height: 6px;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform var(--dur) var(--ease);
+}
+
+.archive[open] .archive__summary::before {
+  transform: rotate(45deg);
+}
+
+.archive__summary:hover {
+  color: var(--text);
+}
+
+.archive .cat-grid {
+  margin-top: var(--sp-3);
 }

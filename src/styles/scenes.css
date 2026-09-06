@@ -1,0 +1,98 @@
+/* --------------------------------------------------------- bevegelse i scenene
+ * Fire klasser, én per scene. Reglene står i src/themes/SCENES.md.
+ *
+ * Bare `transform` og `opacity` – de går på kompositoren og tvinger ikke fram
+ * ny layout. 33 kort ligger på startskjermen samtidig, så det er forskjellen
+ * mellom en skjerm som puster og en vifte som starter.
+ *
+ * Varigheten settes per scene med `style={{ animationDuration: '19s' }}`, og
+ * pivoten for rotasjon med `style={{ transformOrigin: '200px 128px' }}`.
+ */
+
+.sc-svai,
+.sc-pust,
+.sc-spinn,
+.sc-glo {
+  animation-iteration-count: infinite;
+}
+
+/* Glir noen få piksler sidelengs og tilbake. Elementet må stikke utenfor
+   kanten på begge sider, ellers blir svaiet en glipe. */
+.sc-svai {
+  animation-name: sc-svai;
+  animation-duration: 22s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+}
+
+@keyframes sc-svai {
+  from {
+    transform: translateX(-4px);
+  }
+  to {
+    transform: translateX(4px);
+  }
+}
+
+/* Ånder: litt opasitet, en anelse skala. Pivoten er midten av viewBox
+   om scenen ikke sier noe annet. */
+.sc-pust {
+  animation-name: sc-pust;
+  animation-duration: 11s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+  transform-box: view-box;
+  transform-origin: 200px 130px;
+}
+
+@keyframes sc-pust {
+  from {
+    opacity: 0.78;
+    transform: scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1.02);
+  }
+}
+
+/* Så langsom at man ser at den har flyttet seg, ikke at den beveger seg. */
+.sc-spinn {
+  animation-name: sc-spinn;
+  animation-duration: 150s;
+  animation-timing-function: linear;
+  transform-box: view-box;
+  transform-origin: 200px 130px;
+}
+
+@keyframes sc-spinn {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Bare lys. For stjerner, gnister og vinduer. */
+.sc-glo {
+  animation-name: sc-glo;
+  animation-duration: 26s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+}
+
+@keyframes sc-glo {
+  from {
+    opacity: 0.55;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sc-svai,
+  .sc-pust,
+  .sc-spinn,
+  .sc-glo {
+    animation: none !important;
+  }
+}

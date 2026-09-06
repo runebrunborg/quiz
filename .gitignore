@@ -8,3 +8,6 @@ vitest.config.ts.timestamp-*
 
 # Genererte tilbakemeldingsrapporter
 content/feedback/
+
+# Kontaktarket fra npm run scenes:sheet
+sheet.html

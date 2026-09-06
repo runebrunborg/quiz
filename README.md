@@ -131,7 +131,7 @@ på.
 content/          spørsmålsbanken + domsetninger + kategoridefinisjoner + SPEC-ene
 shared/           typer og datohjelpere delt mellom frontend og worker
 src/              React-frontend
-  themes/         SVG-scenene, temamotivene og feiringsanimasjonene
+  themes/         SVG-scenene (regler i SCENES.md), temamotivene og feiringsanimasjonene
   styles/         designtokens og komponentstiler
   lib/            innholdslasting, hint, lagring, statistikk, API-klient
   screens/        Spill, Statistikk, Venner, Banken
@@ -139,6 +139,13 @@ worker/           Cloudflare Worker (Hono) – API på /api
 migrations/       D1-skjema
 scripts/          innholdsvalidering og statusrapport
 ```
+
+## Temascenene
+
+Hvert tema har én håndtegnet SVG-scene i `src/themes/scenes.tsx`, med én subtil
+bevegelse hver. **Reglene står i `src/themes/SCENES.md` – les den før du tegner
+en ny scene.** `npm run scenes:sheet` skriver `sheet.html` med alle scenene som
+temakort; åpne den i nettleseren for å se komposisjon og bevegelse sammen.
 
 ## Design
 
