@@ -238,5 +238,257 @@
       "sv": "Sergio Leone gjorde «För en handfull dollar» 1964 och gjorde Clint Eastwood till stjärna. «Unforgiven» från 1992 vände genren mot sig själv."
     },
     "source": "Store norske leksikon – «western»"
+  },
+  {
+    "id": "vest-m-01",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "vikingtid"
+    ],
+    "prompt": {
+      "nb": "Fylket er landets minste i areal utenom Oslo, har Tønsberg som administrasjonssenter og en kystlinje på nesten 1000 kilometer. Her ligger både Oseberghaugen, Gokstadhaugen og handelsplassen Kaupang ved Viksfjord. Hvilket fylke?",
+      "sv": "Fylket är landets minsta till ytan bortsett från Oslo, har Tønsberg som administrationssäte och en kustlinje på nästan 1000 kilometer. Här ligger både Osebergshögen, Gokstadshögen och handelsplatsen Kaupang vid Viksfjord. Vilket fylke?"
+    },
+    "answer": "Vestfold",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Borrehaugene ved Horten er Nord-Europas største samling av graver fra vikingtiden.",
+      "sv": "Borrehögarna vid Horten är Nordeuropas största samling av gravar från vikingatiden."
+    },
+    "funFact": {
+      "nb": "Fylket ble opprettet på 1600-tallet, slått sammen med Telemark i 2020 og gjenopprettet 1. januar 2024. Kaupang regnes som Norges eldste bymessige bosetning.",
+      "sv": "Fylket inrättades på 1600-talet, slogs samman med Telemark 2020 och återupprättades den 1 januari 2024. Kaupang räknas som Norges äldsta stadsliknande bosättning."
+    },
+    "source": "Store norske leksikon – «Vestfold»"
+  },
+  {
+    "id": "vest-m-02",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "musikk",
+      "film"
+    ],
+    "prompt": {
+      "nb": "Leonard Bernstein skrev musikken, Stephen Sondheim tekstene og Jerome Robbins koreografien til musikalen som hadde premiere i New York i 1957. Handlingen flytter Shakespeares «Romeo og Julie» til vår tid, der gjengene Jets og Sharks står mot hverandre. Hva heter musikalen?",
+      "sv": "Leonard Bernstein skrev musiken, Stephen Sondheim texterna och Jerome Robbins koreografin till musikalen som hade premiär i New York 1957. Handlingen flyttar Shakespeares «Romeo och Julia» till vår tid, där gängen Jets och Sharks står mot varandra. Vad heter musikalen?"
+    },
+    "answer": "West Side Story",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Robert Wise og Robbins filmatiserte den i 1961, med Natalie Wood, og filmen vant ti Oscar-statuetter.",
+      "sv": "Robert Wise och Robbins filmatiserade den 1961, med Natalie Wood, och filmen vann tio Oscarsstatyetter."
+    },
+    "funFact": {
+      "nb": "Steven Spielberg laget en ny filmversjon i 2021, med manus av Tony Kushner. Musikalen ble første gang spilt i Norge i 1965, på Det Norske Teatret.",
+      "sv": "Steven Spielberg gjorde en ny filmversion 2021, med manus av Tony Kushner. Musikalen spelades första gången i Norge 1965, på Det Norske Teatret."
+    },
+    "source": "Store norske leksikon – «West Side Story»"
+  },
+  {
+    "id": "vest-m-03",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "transport",
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Kulelagerprodusenten SKF startet virksomheten i Göteborg på vestkysten i 1927, med Assar Gabrielsson og Gustaf Larson i spissen. Navnet er latin og betyr «jeg ruller». De første modellene het ÖV, for åpen vogn, og PV, for personvogn. Hvilket bilmerke?",
+      "sv": "Kullagertillverkaren SKF startade verksamheten i Göteborg på västkusten 1927, med Assar Gabrielsson och Gustaf Larson i spetsen. Namnet är latin och betyder «jag rullar». De första modellerna hette ÖV, för öppen vagn, och PV, för personvagn. Vilket bilmärke?"
+    },
+    "answer": "Volvo",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Personbildelen ble solgt til Ford i 1999 og videre til kinesiske Geely i 2010.",
+      "sv": "Personbilsdelen såldes till Ford 1999 och vidare till kinesiska Geely 2010."
+    },
+    "funFact": {
+      "nb": "Lastebiler, busser, båtmotorer og anleggsmaskiner ligger fortsatt i det svenske konsernet, som er skilt fra personbilene. Båtmotorene går under navnet Penta.",
+      "sv": "Lastbilar, bussar, båtmotorer och anläggningsmaskiner ligger fortfarande i den svenska koncernen, som är skild från personbilarna. Båtmotorerna går under namnet Penta."
+    },
+    "source": "Store norske leksikon – «Volvo»"
+  },
+  {
+    "id": "vest-m-04",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Sjøveien mellom Atlanterhavet og Stillehavet gjennom det kanadiske øyriket ble lett etter i over 400 år. John Franklins ekspedisjon forsvant i isen i 1845, og Roald Amundsen kom først helt gjennom med skuta Gjøa mellom 1903 og 1906. Hva heter sjøveien?",
+      "sv": "Sjövägen mellan Atlanten och Stilla havet genom den kanadensiska övärlden söktes i över 400 år. John Franklins expedition försvann i isen 1845, och Roald Amundsen kom först hela vägen igenom med skutan Gjøa mellan 1903 och 1906. Vad heter sjövägen?"
+    },
+    "answer": "Nordvestpassasjen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ruten er rundt 3600 kilometer lang og går fra Baffinbukta til Alaska.",
+      "sv": "Rutten är omkring 3600 kilometer lång och går från Baffinbukten till Alaska."
+    },
+    "funFact": {
+      "nb": "Robert McClure tok seg gjennom allerede mellom 1850 og 1854, men måtte forlate skipet halvveis. Amundsen valgte en liten skute som tålte grunt vann.",
+      "sv": "Robert McClure tog sig igenom redan mellan 1850 och 1854, men fick överge fartyget halvvägs. Amundsen valde en liten skuta som klarade grunt vatten."
+    },
+    "source": "Store norske leksikon – «Nordvestpassasjen»"
+  },
+  {
+    "id": "vest-m-05",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "arkitektur",
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "Kirken ved Themsen, like ved parlamentsbygningen i London, har vært kroningskirke for britiske monarker siden Vilhelm Erobreren i 1066. Henrik 3. bygde den om i fransk gotikk fra 1245, og i det sørlige tverrskipet ligger Poets' Corner. Hva heter kirken?",
+      "sv": "Kyrkan vid Themsen, alldeles intill parlamentsbyggnaden i London, har varit kröningskyrka för brittiska monarker sedan Vilhelm Erövraren 1066. Henrik III byggde om den i fransk gotik från 1245, och i det södra tvärskeppet ligger Poets' Corner. Vad heter kyrkan?"
+    },
+    "answer": "Westminster Abbey",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det offisielle navnet er kollegiatkirken St. Peter, og den ukjente soldaten fra første verdenskrig er gravlagt innenfor døra.",
+      "sv": "Det officiella namnet är kollegiatkyrkan S:t Peter, och den okände soldaten från första världskriget är begravd innanför dörren."
+    },
+    "funFact": {
+      "nb": "Elizabeth 2. ble kronet her 2. juni 1953. Tårnene mot vest sto ferdig først mellom 1734 og 1745, etter tegninger av Nicholas Hawksmoor.",
+      "sv": "Elizabeth II kröntes här den 2 juni 1953. Tornen mot väster stod färdiga först mellan 1734 och 1745, efter ritningar av Nicholas Hawksmoor."
+    },
+    "source": "Store norske leksikon – «Westminster Abbey»"
+  },
+  {
+    "id": "vest-m-06",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Franske bilister er pålagt å ha et bestemt plagg i bilen og ta det på ved havari. Høsten 2018 ble plagget symbolet på en folkelig protestbevegelse mot økte drivstoffavgifter, som blokkerte rundkjøringer over hele landet. Hva ble bevegelsen kalt?",
+      "sv": "Franska bilister är skyldiga att ha ett visst plagg i bilen och ta på sig det vid haveri. Hösten 2018 blev plagget symbol för en folklig proteströrelse mot höjda drivmedelsskatter, som blockerade rondeller över hela landet. Vad kallades rörelsen?"
+    },
+    "answer": {
+      "nb": "de gule vestene",
+      "sv": "de gula västarna"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bevegelsen brøt ut 17. november 2018, og navnet kommer av fargen på plagget.",
+      "sv": "Rörelsen bröt ut den 17 november 2018, och namnet kommer av färgen på plagget."
+    },
+    "funFact": {
+      "nb": "Regjeringen utsatte avgiftsøkningen 4. desember 2018 og innførte i tillegg høyere minstelønn og skattelette på overtid og bonuser.",
+      "sv": "Regeringen sköt upp skattehöjningen den 4 december 2018 och införde dessutom högre minimilön och skattelättnad på övertid och bonusar."
+    },
+    "source": "Engelsk Wikipedia – «Yellow vests protests»"
+  },
+  {
+    "id": "vest-m-07",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "se",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Landskapet ligger mellom Vänern og Vättern og strekker seg ut til kysten ved Sveriges nest største by. Kinnekulle og Billingen hever seg over slettene, og ved Hornborgasjön samles tusenvis av traner hver vår. Skara er gammelt bispesete. Hva heter landskapet?",
+      "sv": "Landskapet ligger mellan Vänern och Vättern och sträcker sig ut till kusten vid Sveriges näst största stad. Kinnekulle och Billingen höjer sig över slätterna, och vid Hornborgasjön samlas tusentals tranor varje vår. Skara är gammalt biskopssäte. Vad heter landskapet?"
+    },
+    "answer": "Västergötland",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Trollhättefallene ga kraft til industrien, og Borås er kjent for tekstil.",
+      "sv": "Trollhättefallen gav kraft till industrin, och Borås är känt för textil."
+    },
+    "funFact": {
+      "nb": "Landskapet er 16 709 kvadratkilometer, og de største byene er Göteborg, Borås, Trollhättan, Mölndal, Lidköping og Skövde. Klosterruinen i Gudhem er fra 1100-tallet.",
+      "sv": "Landskapet är 16 709 kvadratkilometer, och de största städerna är Göteborg, Borås, Trollhättan, Mölndal, Lidköping och Skövde. Klosterruinen i Gudhem är från 1100-talet."
+    },
+    "source": "Store norske leksikon – «Västergötland»"
+  },
+  {
+    "id": "vest-m-08",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "no",
+    "topics": [
+      "okonomi",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Norsk sokkel strekker seg vestover til delelinja mot Storbritannia. Der, 290 kilometer sørvest for kysten, gjorde Phillips Petroleum et funn 25. oktober 1969 med riggen Ocean Viking. Det var verdens største oljefelt til havs, og produksjonen startet 15. juni 1971. Hva heter feltet?",
+      "sv": "Norsk sockel sträcker sig västerut till delningslinjen mot Storbritannien. Där, 290 kilometer sydväst om kusten, gjorde Phillips Petroleum ett fynd den 25 oktober 1969 med riggen Ocean Viking. Det var världens största oljefält till havs, och produktionen startade den 15 juni 1971. Vad heter fältet?"
+    },
+    "answer": "Ekofisk",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Feltet ligger i blokk 2/4, på 70 til 80 meters havdyp, og regnes som starten på det norske oljeeventyret.",
+      "sv": "Fältet ligger i block 2/4, på 70 till 80 meters havsdjup, och räknas som starten på det norska oljeäventyret."
+    },
+    "funFact": {
+      "nb": "Produksjonen startet fra plattformen Gulftide. ConocoPhillips Skandinavia driver feltet i dag, med hovedkontor i Stavanger.",
+      "sv": "Produktionen startade från plattformen Gulftide. ConocoPhillips Skandinavia driver fältet i dag, med huvudkontor i Stavanger."
+    },
+    "source": "Store norske leksikon – «Ekofisk»"
+  },
+  {
+    "id": "vest-m-09",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Kometen Shoemaker-Levy 9 treffer Jupiter. Nelson Mandela blir president i Sør-Afrika. Kanaltunnelen åpner mellom England og Frankrike. Sony slipper PlayStation i Japan. Fotball-VM spilles i USA. Vinter-OL holdes i Lillehammer. «Løvenes konge» har premiere. Justin Bieber fødes. Richard Nixon dør. Hvilket år?",
+      "sv": "Kometen Shoemaker-Levy 9 träffar Jupiter. Nelson Mandela blir president i Sydafrika. Kanaltunneln öppnar mellan England och Frankrike. Sony släpper PlayStation i Japan. Fotbolls-VM spelas i USA. Vinter-OS hålls i Lillehammer. «Lejonkungen» har premiär. Justin Bieber föds. Richard Nixon dör. Vilket år?"
+    },
+    "answer": "1994",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det er midt på 1990-tallet, og vinterlekene ble holdt bare to år etter de forrige.",
+      "sv": "Det är mitt på 1990-talet, och vinterspelen hölls bara två år efter de föregående."
+    },
+    "funFact": {
+      "nb": "Kanaltunnelen åpnet 6. mai etter mer enn sju års arbeid med 15 000 folk. Mandela ble tatt i ed 10. mai, og PlayStation kom i japanske butikker 3. desember.",
+      "sv": "Kanaltunneln öppnade den 6 maj efter mer än sju års arbete med 15 000 personer. Mandela svors in den 10 maj, och PlayStation kom i japanska butiker den 3 december."
+    },
+    "source": "Engelsk Wikipedia – «1994»; Store norske leksikon – «Richard M. Nixon»"
+  },
+  {
+    "id": "vest-m-10",
+    "category": "vest",
+    "difficulty": "medium",
+    "origin": "int",
+    "topics": [
+      "film",
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Den amerikanske skuespilleren fra Brooklyn ble kjent for dristige komiske replikker og en dyp stemme, og slo gjennom på film med «She Done Him Wrong» i 1933. Allierte flygere i andre verdenskrig døpte den oppblåsbare redningsvesten etter henne. Hvem var hun?",
+      "sv": "Den amerikanska skådespelaren från Brooklyn blev känd för djärva komiska repliker och en djup röst, och slog igenom på film med «She Done Him Wrong» 1933. Allierade flygare under andra världskriget döpte den uppblåsbara flytvästen efter henne. Vem var hon?"
+    },
+    "answer": "Mae West",
+    "answerKind": "person",
+    "person": {
+      "given": "Mae",
+      "family": "West"
+    },
+    "hint": {
+      "nb": "Hun begynte i vaudeville, hadde suksess på Broadway fra 1926 og kom til filmen i 1932.",
+      "sv": "Hon började i vaudeville, hade framgång på Broadway från 1926 och kom till filmen 1932."
+    },
+    "funFact": {
+      "nb": "Hun skrev selv manus til flere av filmene sine, blant dem «I'm No Angel» fra 1933. Hun forsøkte comeback med «Myra Breckinridge» i 1970.",
+      "sv": "Hon skrev själv manus till flera av sina filmer, bland dem «I'm No Angel» från 1933. Hon försökte göra comeback med «Myra Breckinridge» 1970."
+    },
+    "source": "Store norske leksikon – «Mae West»; engelsk Wikipedia – «Mae West»"
   }
 ]
