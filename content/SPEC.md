@@ -23,6 +23,11 @@ nøyaktig 30 objekter – 10 `lett`, 10 `medium`, 10 `vanskelig`.
   "funFact": { "nb": "…", "sv": "…" },    // 1–3 setninger som vises når svaret ekspanderes
   "source": "Navn på troverdig kilde",    // fri tekst, gjerne institusjon + verk
 
+  // Valgfritt. Settes av KONTROLLRUNDEN, ikke av den som skriver – se content/VERIFY.md.
+  "verifiedAt": "2026-09-09",
+  "verifiedBy": "kontrollrunde",
+  "verifiedUrl": "https://snl.no/Bj%C3%B6rn_Borg",
+
   // Valgfritt. Bare på dagsaktuelle spørsmål – se eget kapittel nederst.
   "topical": { "event": "2026-02-22", "until": "2027-02-28", "evergreen": true },
 
@@ -94,6 +99,10 @@ node scripts/validate-content.mjs
 ```
 
 Den skal si `0 feil`. Advarsler bør også ryddes bort.
+
+`npm run content:verify` viser i tillegg kontrollkøen — hvor mye av banken en
+annen enn skriveren har etterprøvd, og hva som står for tur. Se
+`content/VERIFY.md`.
 
 ---
 
@@ -286,6 +295,46 @@ Temaer som har et spørsmål med treff på dagens dato, **legges først** i
 temalisten på startskjermen og merkes «I dag». Runden garanterer da at
 spørsmålet faktisk kommer med – ellers ville løftet på startskjermen være tomt.
 Datospørsmålet stokkes inn blant de vanlige; de dagsaktuelle står til slutt.
+
+## Uavhengig kontroll
+
+Kilden i `source` er den *skriveren* oppga. Den sier ikke at noen andre har sett
+etter om kilden faktisk dekker påstanden — og validatoren kan ikke se det:
+ordtelling og lekkasjesjekk består et oppdiktet årstall uten å blunke.
+
+Derfor har hvert spørsmål tre valgfrie felter som en **kontrollrunde** setter:
+
+```jsonc
+"verifiedAt":  "2026-09-09",                  // dagen kontrollen ble gjort
+"verifiedBy":  "kontrollrunde",               // hvem — aldri den som skrev det
+"verifiedUrl": "https://snl.no/Bj%C3%B6rn_Borg"  // URL-en som faktisk ble hentet
+```
+
+De tre settes samtidig. En dato uten URL er ingen kontroll, bare en påstand om
+at noen så på det, og validatoren avviser den halve varianten.
+
+Går kontrollen ikke gjennom, og spørsmålet heller ikke lar seg redde, flagges
+det:
+
+```jsonc
+"flagged": { "at": "2026-09-09", "by": "kontrollrunde", "reason": "SNL oppgir 1904, ikke 1902" }
+```
+
+**Et flagget spørsmål trekkes ikke** — det filtreres ut av puljene på samme måte
+som et utløpt dagsaktuelt, men blir liggende i fila til noen retter eller stryker
+det. Et spørsmål kan ikke være både flagget og kontrollert.
+
+Skriver du nye spørsmål, setter du **ingen** av disse feltene. Å kontrollere sitt
+eget arbeid er ikke en kontroll. Hele framgangsmåten — hva som teller som en
+kontroll, hvordan køa sorteres, og de tre utfallene — står i
+`content/VERIFY.md`.
+
+```
+npm run content:verify
+```
+
+viser hvor stor andel av banken som er kontrollert, hva som står for tur, og om
+denne kjøringen skal kontrollere eller skrive.
 
 ## Domsetninger
 

@@ -18,6 +18,14 @@ const TOPICS = new Set(
   [...typesSrc.matchAll(/export const TOPICS = \[([\s\S]*?)\] as const/g)]
     .flatMap((m) => [...m[1].matchAll(/'([^']+)'/g)].map((x) => x[1])),
 )
+function hostList(name) {
+  const m = typesSrc.match(new RegExp(`export const ${name} = \\[([\\s\\S]*?)\\] as const`))
+  return new Set(m ? [...m[1].matchAll(/'([^']+)'/g)].map((x) => x[1]) : [])
+}
+const SOURCE_HOSTS_KNOWN = hostList('SOURCE_HOSTS_KNOWN')
+const SOURCE_HOSTS_BLOCKED = hostList('SOURCE_HOSTS_BLOCKED')
+const VERIFY_STALE_MONTHS = Number(typesSrc.match(/export const VERIFY_STALE_MONTHS = (\d+)/)?.[1] ?? 12)
+
 const CATEGORIES = new Set(
   [...readFileSync(join(root, 'content', 'categories.ts'), 'utf8').matchAll(/^\s*id: '([^']+)',$/gm)].map((m) => m[1]),
 )
@@ -124,6 +132,8 @@ const seenIds = new Map()
 const seenAnswers = new Map()
 /** Dagsaktuelle per tema+nivå, for å fange at noen skriver flere enn de to som får plass. */
 const topicalPerKey = new Map()
+/** Kontrollstatus, for oppsummeringa nederst. */
+const verifyStats = { verified: 0, flagged: 0, stale: 0 }
 /** «På denne dag»-datoer per tema, for å fange kollisjoner på samme dato. */
 const datedPerCategory = new Map()
 let count = 0
@@ -230,6 +240,79 @@ for (const file of files) {
 
     if (typeof q?.source !== 'string' || q.source.trim().length < 4) {
       errors.push(`${where}: mangler kilde`)
+    }
+
+    /* -------------------------------------------------- uavhengig kontroll
+
+       `source` er skriverens egen henvisning. Feltene under er en ANNENS
+       kontroll av den, og de tre henger sammen: en dato uten URL sier bare at
+       noen mener de så på det. Kontrakten står i `content/VERIFY.md`.        */
+
+    const verifyFields = ['verifiedAt', 'verifiedBy', 'verifiedUrl'].filter((f) => q?.[f] !== undefined)
+    if (verifyFields.length > 0 && verifyFields.length < 3) {
+      const missing = ['verifiedAt', 'verifiedBy', 'verifiedUrl'].filter((f) => q[f] === undefined)
+      errors.push(`${where}: kontrollen er halv – mangler ${missing.join(', ')}`)
+    }
+
+    if (q?.verifiedAt !== undefined) {
+      if (typeof q.verifiedAt !== 'string' || !ISO_DAY.test(q.verifiedAt)) {
+        errors.push(`${where}: verifiedAt må være en dato på formen YYYY-MM-DD`)
+      } else if (q.verifiedAt > TODAY) {
+        errors.push(`${where}: verifiedAt ligger fram i tid (${q.verifiedAt})`)
+      } else if (monthsAgo(q.verifiedAt) > VERIFY_STALE_MONTHS) {
+        verifyStats.stale += 1
+        warnings.push(`${where}: kontrollen er ${monthsAgo(q.verifiedAt)} måneder gammel – bør gjøres om igjen`)
+      }
+    }
+
+    if (q?.verifiedBy !== undefined && (typeof q.verifiedBy !== 'string' || q.verifiedBy.trim().length < 2)) {
+      errors.push(`${where}: verifiedBy må navngi den som kontrollerte`)
+    }
+
+    if (q?.verifiedUrl !== undefined) {
+      let url = null
+      try {
+        url = new URL(q.verifiedUrl)
+      } catch {
+        errors.push(`${where}: verifiedUrl er ikke en URL ("${q.verifiedUrl}")`)
+      }
+      if (url) {
+        if (url.protocol !== 'https:') errors.push(`${where}: verifiedUrl må være https`)
+        else if (SOURCE_HOSTS_BLOCKED.has(url.hostname)) {
+          // Disse svarer ikke, eller svarer med noe annet enn de later som.
+          // En URL hit betyr at ingen faktisk hentet den i kontrolløkta.
+          errors.push(`${where}: verifiedUrl peker på ${url.hostname}, som ikke lar seg hente – kontrollen kan ikke ha lest den`)
+        } else if (!SOURCE_HOSTS_KNOWN.has(url.hostname)) {
+          warnings.push(`${where}: verifiedUrl på ukjent vert (${url.hostname}) – greit, men verdt et blikk`)
+        }
+        if (url.pathname === '/' && !url.search) {
+          errors.push(`${where}: verifiedUrl peker på en forside, ikke på oppslaget som ble lest`)
+        }
+      }
+      if (typeof q.verifiedAt === 'string' && ISO_DAY.test(q.verifiedAt) && typeof q.verifiedBy === 'string') {
+        verifyStats.verified += 1
+      }
+    }
+
+    if (q?.flagged !== undefined) {
+      const f = q.flagged
+      if (typeof f !== 'object' || f === null || Array.isArray(f)) {
+        errors.push(`${where}: "flagged" må være et objekt med at, by og reason`)
+      } else {
+        verifyStats.flagged += 1
+        if (typeof f.at !== 'string' || !ISO_DAY.test(f.at)) errors.push(`${where}: flagged.at må være YYYY-MM-DD`)
+        else if (f.at > TODAY) errors.push(`${where}: flagged.at ligger fram i tid (${f.at})`)
+        if (typeof f.by !== 'string' || f.by.trim().length < 2) errors.push(`${where}: flagged.by må navngi den som flagget`)
+        if (typeof f.reason !== 'string' || f.reason.trim().length < 10) {
+          errors.push(`${where}: flagged.reason må si hva kilden ikke dekket`)
+        }
+        if (q.verifiedAt !== undefined) {
+          errors.push(`${where}: både flagget og kontrollert – ta stilling, fjern det ene`)
+        }
+        // Et flagget spørsmål trekkes ikke. Advarselen står i hvert bygg så det
+        // ikke blir liggende og gjemme seg.
+        warnings.push(`${where}: FLAGGET og tatt ut av trekningen – ${typeof f.reason === 'string' ? f.reason : ''}`)
+      }
     }
 
     if (isL10n(q?.prompt)) {
@@ -454,7 +537,13 @@ for (const file of verdictFiles) {
 for (const w of warnings) console.warn(`⚠  ${w}`)
 for (const e of errors) console.error(`✖  ${e}`)
 
+const pct = count > 0 ? Math.round((verifyStats.verified / count) * 100) : 0
 console.log(
   `\n${count} spørsmål i ${files.length} filer · ${verdictLines} domsetninger i ${verdictFiles.length} filer · ${errors.length} feil · ${warnings.length} advarsler`,
+)
+console.log(
+  `Kontrollert: ${verifyStats.verified} av ${count} (${pct} %)` +
+    (verifyStats.stale > 0 ? ` · ${verifyStats.stale} utdaterte` : '') +
+    (verifyStats.flagged > 0 ? ` · ${verifyStats.flagged} flagget og ute av trekningen` : ''),
 )
 process.exit(errors.length > 0 ? 1 : 0)

@@ -1,3 +1,4 @@
+import { execFileSync } from 'node:child_process'
 import { describe, expect, it } from 'vitest'
 import { DIFFICULTIES, TOPICS, langForRegion, t, type Difficulty, type Question } from '../../../shared/types'
 import { isoWeek, recentWeeks } from '../../../shared/time'
@@ -15,7 +16,17 @@ import {
   QUESTIONS_PER_ROUND,
   TOPICAL_PER_ROUND,
 } from '../content'
-import { hasOnThisDay, isRetired, isTopicalActive, onThisDayFor, promptFor } from '../../../shared/questions'
+import {
+  hasOnThisDay,
+  isFlagged,
+  isRetired,
+  isTopicalActive,
+  isVerificationStale,
+  isVerified,
+  isWithdrawn,
+  onThisDayFor,
+  promptFor,
+} from '../../../shared/questions'
 import { answerShape, firstLetter, hintCount, letterOptions, revealLetter } from '../hints'
 import { byTopic, byWeek, pct, totals } from '../stats'
 
@@ -386,5 +397,92 @@ describe('rekkefølgen på startskjermen', () => {
         expect(tail.every((q) => isTopicalActive(q, day)), `${c.id}/${difficulty}`).toBe(true)
       }
     }
+  })
+})
+
+/* ---------------------------------------------------------------- kontroll */
+
+describe('uavhengig kontroll', () => {
+  const kontrollert = q({
+    id: 'x-l-k1',
+    verifiedAt: '2026-09-01',
+    verifiedBy: 'kontrollrunde',
+    verifiedUrl: 'https://snl.no/blaahval',
+  })
+  const halv = q({ id: 'x-l-k2', verifiedAt: '2026-09-01' })
+  const flagget = q({
+    id: 'x-l-k3',
+    flagged: { at: '2026-09-01', by: 'kontrollrunde', reason: 'SNL oppgir 1904, ikke 1902' },
+  })
+
+  it('krever alle tre feltene før noe regnes som kontrollert', () => {
+    expect(isVerified(kontrollert)).toBe(true)
+    // En dato uten URL sier bare at noen mener de så på det.
+    expect(isVerified(halv)).toBe(false)
+    expect(isVerified(q({ id: 'x-l-k4' }))).toBe(false)
+  })
+
+  it('regner kontrollen som utdatert etter tolv måneder', () => {
+    expect(isVerificationStale(kontrollert, '2027-08-01')).toBe(false)
+    expect(isVerificationStale(kontrollert, '2027-09-02')).toBe(true)
+    // Et ukontrollert spørsmål er ikke «utdatert» – det er bare ukontrollert.
+    expect(isVerificationStale(q({ id: 'x-l-k5' }), '2030-01-01')).toBe(false)
+  })
+
+  it('trekker flaggede spørsmål ut av puljen', () => {
+    expect(isFlagged(flagget)).toBe(true)
+    expect(isWithdrawn(flagget, DAY)).toBe(true)
+    // Flagget er uavhengig av dato – i motsetning til pensjonering.
+    expect(isRetired(flagget, DAY)).toBe(false)
+    expect(isWithdrawn(kontrollert, DAY)).toBe(false)
+  })
+
+  it('holder et flagget spørsmål utenfor runden', () => {
+    const pool = [flagget, ...Array.from({ length: 14 }, (_, i) => q({ id: `x-l-f${i}` }))]
+    const round = composeRound(pool, 'no', 'frø', QUESTIONS_PER_ROUND, DAY)
+    expect(round).toHaveLength(QUESTIONS_PER_ROUND)
+    expect(round.map((r) => r.id)).not.toContain('x-l-k3')
+  })
+
+  it('slipper et flagget spørsmål inn igjen når flagget fjernes', () => {
+    const { flagged: _flagged, ...rettet } = flagget
+    const pool = [rettet as Question, ...Array.from({ length: 9 }, (_, i) => q({ id: `x-l-r${i}` }))]
+    const round = composeRound(pool, 'no', 'frø', QUESTIONS_PER_ROUND, DAY)
+    expect(round.map((r) => r.id)).toContain('x-l-k3')
+  })
+
+  it('ingen spørsmål i banken er både flagget og kontrollert', () => {
+    // Validatoren avviser det, men banken er sannheten.
+    expect(ALL_QUESTIONS.filter((x) => x.flagged && x.verifiedAt)).toEqual([])
+  })
+})
+
+describe('kontrollkøen', () => {
+  const TIER_ORDER = ['nedstemt', 'dagsaktuelt', 'kilde-utenfor-rekkevidde', 'utdatert-kontroll', 'ikke-kontrollert']
+
+  const køen = JSON.parse(
+    execFileSync('node', ['scripts/verify-queue.mjs', '--json'], {
+      cwd: new URL('../../../', import.meta.url).pathname,
+      encoding: 'utf8',
+    }),
+  )
+
+  it('velger modus etter hvor lang køen er', () => {
+    // Ti nye spørsmål lager ti nye plasser i køen, så vekslingen går av seg selv.
+    expect(køen.mode).toBe(køen.pending >= 10 ? 'verifiser' : 'skriv')
+  })
+
+  it('sorterer puljen risiko først', () => {
+    const ranks = køen.batch.map((b: { tier: string }) => TIER_ORDER.indexOf(b.tier))
+    expect(ranks).not.toContain(-1)
+    expect([...ranks].sort((a: number, b: number) => a - b)).toEqual(ranks)
+  })
+
+  it('setter aldri et kontrollert eller flagget spørsmål i køen', () => {
+    const iKø = new Set(køen.batch.map((b: { id: string }) => b.id))
+    for (const x of ALL_QUESTIONS) {
+      if (iKø.has(x.id)) expect(x.flagged).toBeUndefined()
+    }
+    expect(køen.verified + køen.flagged + køen.pending).toBe(køen.total)
   })
 })

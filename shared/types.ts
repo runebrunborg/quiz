@@ -153,6 +153,44 @@ export interface OnThisDay {
   prompt: L10n
 }
 
+/**
+ * Verter kontrollen normalt henter fra. Ikke en hard liste – et museum, et
+ * forbund eller en bedrifts egne sider er ofte den beste kilden – men en URL
+ * utenfor lista fortjener et blikk til, og validatoren sier fra.
+ */
+export const SOURCE_HOSTS_KNOWN = [
+  'snl.no',
+  'sml.snl.no',
+  'nbl.snl.no',
+  'nkl.snl.no',
+  'en.wikipedia.org',
+] as const
+
+/**
+ * Verter en kontroll aldri kan lene seg på. `no.wikipedia.org` og
+ * `sv.wikipedia.org` er cache-only herfra og kan ikke hentes; `tv2.no` svarer
+ * med innhold fra 2016. En `verifiedUrl` hit betyr at ingen faktisk leste den.
+ */
+export const SOURCE_HOSTS_BLOCKED = ['no.wikipedia.org', 'sv.wikipedia.org', 'tv2.no', 'www.wikidata.org', 'wikidata.org'] as const
+
+/** Hvor lenge en kontroll står seg før spørsmålet skal ses på igjen. */
+export const VERIFY_STALE_MONTHS = 12
+
+/**
+ * Satt når kontrollen ikke gikk gjennom og spørsmålet heller ikke lot seg
+ * redde: kilden sier ikke det spørsmålet påstår, og ingen hentbar kilde gjør
+ * det. Et flagget spørsmål trekkes ikke – det blir liggende i fila til noen
+ * retter eller stryker det.
+ */
+export interface Flagged {
+  /** Dagen det ble flagget, `YYYY-MM-DD`. */
+  at: IsoDate
+  /** Hvem som flagget. */
+  by: string
+  /** En setning om hva kilden ikke dekket. */
+  reason: string
+}
+
 export interface Question {
   /** Stabil id: `<kategori>-<nivå-initial>-<nn>`, f.eks. `blaa-l-01`. Endres aldri – statistikken henger på den. */
   id: string
@@ -179,6 +217,20 @@ export interface Question {
   topical?: Topical
   /** Datovarianter av spørsmålsteksten. Se `OnThisDay`. */
   onThisDay?: OnThisDay[]
+
+  /* ------------------------------------------------ uavhengig kontroll
+     Kilden i `source` er den skriveren oppga. Feltene under sier at en
+     ANNEN har hentet den på nytt og sett at den dekker påstanden.
+     Kontrakten står i `content/VERIFY.md`. Alle tre settes samtidig. */
+
+  /** Dagen kontrollen ble gjort, `YYYY-MM-DD`. */
+  verifiedAt?: IsoDate
+  /** Hvem som kontrollerte. Aldri den samme som skrev spørsmålet. */
+  verifiedBy?: string
+  /** URL-en som faktisk ble hentet i kontrolløkta – ikke en URL man antar finnes. */
+  verifiedUrl?: string
+  /** Satt når kontrollen ikke gikk gjennom. Se `Flagged`. */
+  flagged?: Flagged
 }
 
 export interface Category {

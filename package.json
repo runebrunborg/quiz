@@ -19,6 +19,7 @@
     "test:api": "node scripts/api-smoke.mjs",
     "content:regions": "node scripts/region-mix.mjs",
     "content:feedback": "node scripts/feedback-export.mjs",
+    "content:verify": "node scripts/verify-queue.mjs",
     "scenes:sheet": "node scripts/scenes-sheet.mjs"
   },
   "dependencies": {

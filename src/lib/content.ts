@@ -1,5 +1,5 @@
 import type { Category, Difficulty, Question, Region } from '../../shared/types'
-import { hasOnThisDay, isRetired, isTopicalActive, today } from '../../shared/questions'
+import { hasOnThisDay, isTopicalActive, isWithdrawn, today } from '../../shared/questions'
 import { CATEGORIES, CATEGORY_BY_ID } from '../../content/categories'
 
 /**
@@ -34,7 +34,7 @@ export function rawPoolFor(category: string, difficulty: Difficulty): Question[]
  * men trekkes ikke.
  */
 export function poolFor(category: string, difficulty: Difficulty, day: string = today()): Question[] {
-  return rawPoolFor(category, difficulty).filter((q) => !isRetired(q, day))
+  return rawPoolFor(category, difficulty).filter((q) => !isWithdrawn(q, day))
 }
 
 /** Puljen uten de dagsaktuelle – det er disse som måles mot `POOL_TARGET`. */
@@ -222,7 +222,7 @@ export function composeRound(
   count = QUESTIONS_PER_ROUND,
   day: string = today(),
 ): Question[] {
-  const pool = raw.filter((q) => !isRetired(q, day))
+  const pool = raw.filter((q) => !isWithdrawn(q, day))
   // Utgangspunktet er en del av frøet. Uten det stokkes gruppene likt for alle
   // tre valgene, og den norske runden blir bare den svenske med to spørsmål
   // byttet ut. Med det i frøet trekkes hver region uavhengig.

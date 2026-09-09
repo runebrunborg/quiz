@@ -108,6 +108,7 @@ spilt en stund, følger historikken på enheten med.
 npm run content:status      # hva finnes, hva mangler
 npm run content:validate    # struktur, id-er, tags, duplikater, begge språk
 npm run content:regions     # hva regionvalget faktisk gjør med sammensetningen
+npm run content:verify      # kontrollkøen: hva en annen enn skriveren har etterprøvd
 ```
 
 `content/SPEC.md` er kontrakten for hvordan et spørsmål skrives, og
@@ -124,6 +125,12 @@ hvis en kategori mangler fila, så en ny kategori må ha domsetninger fra dag é
 Alle spørsmål har en kildehenvisning i `source`-feltet. Finner du en feil, rett
 den i JSON-filen – id-en skal aldri endres, den er nøkkelen statistikken henger
 på.
+
+`source` er henvisningen **skriveren** oppga. En egen **kontrollrunde** henter
+den på nytt og setter `verifiedAt` / `verifiedBy` / `verifiedUrl` når kilden
+faktisk dekker påstanden — eller `flagged`, og da tas spørsmålet ut av
+trekningen til noen retter det. Kontrakten er `content/VERIFY.md`, og
+`npm run content:verify` viser dekningen og hva som står for tur.
 
 ## Prosjektstruktur
 

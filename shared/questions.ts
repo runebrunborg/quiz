@@ -6,7 +6,7 @@
  * tester bruker de samme.
  */
 import type { Lang, OnThisDay, Question } from './types'
-import { t } from './types'
+import { t, VERIFY_STALE_MONTHS } from './types'
 import { isoDay, monthDay } from './time'
 
 /** Dagens dato som `YYYY-MM-DD`. Sendes eksplisitt videre, så tester kan late som. */
@@ -26,6 +26,42 @@ export function isTopicalActive(q: Question, day: string): boolean {
  */
 export function isRetired(q: Question, day: string): boolean {
   return Boolean(q.topical) && day > q.topical!.until && !q.topical!.evergreen
+}
+
+/**
+ * Har spørsmålet vært gjennom uavhengig kontroll? Alle tre feltene må stå –
+ * en dato uten URL er ingen kontroll, bare en påstand om at noen så på det.
+ */
+export function isVerified(q: Question): boolean {
+  return Boolean(q.verifiedAt && q.verifiedBy && q.verifiedUrl)
+}
+
+/**
+ * Flagget av en kontroll som ikke gikk gjennom. Flagget overstyrer alt annet:
+ * et spørsmål ingen kan stå inne for skal ikke stilles, uansett hvor godt det
+ * ellers passer i runden.
+ */
+export function isFlagged(q: Question): boolean {
+  return Boolean(q.flagged)
+}
+
+/**
+ * Alt som ikke skal trekkes i dag – utløpte dagsaktuelle og flaggede. Dette er
+ * filteret puljene bruker; `isRetired` alene ser bare på datoen.
+ */
+export function isWithdrawn(q: Question, day: string): boolean {
+  return isRetired(q, day) || isFlagged(q)
+}
+
+/**
+ * Er kontrollen gammel nok til at spørsmålet bør ses på igjen? Lenker råtner og
+ * leksikonartikler skrives om, så en kontroll er ferskvare den også.
+ */
+export function isVerificationStale(q: Question, day: string, months: number = VERIFY_STALE_MONTHS): boolean {
+  if (!isVerified(q)) return false
+  const [y, m, d] = q.verifiedAt!.split('-').map(Number)
+  const then = Date.UTC(y, m - 1 + months, d)
+  return Date.parse(`${day}T00:00:00Z`) > then
 }
 
 /** Datovarianten som gjelder i dag, om noen. */
