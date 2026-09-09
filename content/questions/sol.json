@@ -548,5 +548,270 @@
       "sv": "Han var särskilt känd för stiliserade, dekorativa porträtt av filmstjärnor, och ritade också ett porträtt av kung Harald V. Carl Wilhelmson var en av hans lärare."
     },
     "source": "Store norske leksikon – «Einar Nerman»"
+  },
+  {
+    "id": "sol-v-01",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Faller sollys på en metallflate, slår det løs elektroner – men bare hvis lyset har kort nok bølgelengde, uansett hvor sterkt det er. Forklaringen kom i 1905 og ga Nobelprisen i fysikk for 1921, ikke relativitetsteorien. Hvem fikk den?",
+      "sv": "Faller solljus på en metallyta slår det loss elektroner – men bara om ljuset har tillräckligt kort våglängd, hur starkt det än är. Förklaringen kom 1905 och gav Nobelpriset i fysik för 1921, inte relativitetsteorin. Vem fick det?"
+    },
+    "answer": "Albert Einstein",
+    "answerKind": "person",
+    "person": {
+      "given": "Albert",
+      "family": "Einstein"
+    },
+    "hint": {
+      "nb": "Lyskvantteorien hans, utviklet fra samme år, er opphavet til det vi i dag kaller fotoner.",
+      "sv": "Hans ljuskvantteori, utvecklad från samma år, är upphovet till det vi i dag kallar fotoner."
+    },
+    "funFact": {
+      "nb": "Prisen ble gitt «for arbeider i teoretisk fysikk, spesielt for hans oppdagelse av loven for den fotoelektriske effekt». Lyskvantteorien utviklet han videre i artikler i 1906, 1909 og 1911.",
+      "sv": "Priset gavs «för arbeten i teoretisk fysik, särskilt för hans upptäckt av lagen för den fotoelektriska effekten». Ljuskvantteorin utvecklade han vidare i artiklar 1906, 1909 och 1911."
+    },
+    "source": "Store norske leksikon – «Albert Einstein»"
+  },
+  {
+    "id": "sol-v-02",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Med en kikkert han selv hadde forbedret til tretti gangers forstørrelse, så en italiener i 1610 flekker og fakler på soloverflaten som flyttet seg – et bevis på at også dette himmellegemet dreier om en akse. Hvem var han?",
+      "sv": "Med en kikare han själv hade förbättrat till trettio gångers förstoring såg en italienare 1610 fläckar och facklor på solytan som flyttade sig – ett bevis för att även denna himlakropp roterar kring en axel. Vem var han?"
+    },
+    "answer": "Galileo Galilei",
+    "answerKind": "person",
+    "person": {
+      "given": "Galileo",
+      "family": "Galilei"
+    },
+    "hint": {
+      "nb": "Samme år oppdaget han også fire måner i bane rundt Jupiter.",
+      "sv": "Samma år upptäckte han också fyra månar i bana runt Jupiter."
+    },
+    "funFact": {
+      "nb": "Observasjonene av sola skadet øynene hans, og han ble til slutt nesten blind. 22. juni 1633 måtte han sverge seg fra læren om at jorda beveger seg.",
+      "sv": "Observationerna av solen skadade hans ögon, och han blev till slut nästan blind. Den 22 juni 1633 tvingades han avsvärja sig läran om att jorden rör sig."
+    },
+    "source": "Store norske leksikon – «Galileo Galilei»"
+  },
+  {
+    "id": "sol-v-03",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "I det gamle Egypt ble han født av horisonten i øst hver morgen, stod på sitt høyeste midt på dagen og forsvant bak ørkenfjellene i vest om kvelden. Om natten kjempet han mot slangen Apofis. Hvilken gud?",
+      "sv": "I det gamla Egypten föddes han ur horisonten i öster varje morgon, stod som högst mitt på dagen och försvann bakom ökenbergen i väster om kvällen. Om natten kämpade han mot ormen Apofis. Vilken gud?"
+    },
+    "answer": "Ra",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kultstedet hans lå i Heliopolis, like nord for dagens Kairo, og tempelet der var fullt av obelisker.",
+      "sv": "Hans kultplats låg i Heliopolis, strax norr om dagens Kairo, och templet där var fullt av obelisker."
+    },
+    "funFact": {
+      "nb": "Han ble avbildet med mannskropp og falkehode, med en solskive og en beskyttende uraeusslange på hodet. Smeltet sammen med Amon ble han riksgud, med tempel i Karnak ved Theben.",
+      "sv": "Han avbildades med manskropp och falkhuvud, med en solskiva och en skyddande uraeusorm på huvudet. Sammansmält med Amon blev han riksgud, med tempel i Karnak vid Thebe."
+    },
+    "source": "Store norske leksikon – «Ra – gammelegyptisk gud»"
+  },
+  {
+    "id": "sol-v-04",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Det ytterste laget i solatmosfæren er over en million grader – langt varmere enn overflaten under, som holder rundt 6000. Det er så lyssvakt at det bare kan ses som en blågrønn strålekrans under en total formørkelse. Hva heter laget?",
+      "sv": "Det yttersta lagret i solatmosfären är över en miljon grader – långt varmare än ytan under, som håller omkring 6000. Det är så ljussvagt att det bara syns som en blågrön strålkrans under en total förmörkelse. Vad heter lagret?"
+    },
+    "answer": {
+      "nb": "Koronaen",
+      "sv": "Koronan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Mellom dette laget og overflaten ligger den rosafargede kromosfæren.",
+      "sv": "Mellan detta lager och ytan ligger den rosafärgade kromosfären."
+    },
+    "funFact": {
+      "nb": "Temperaturen ligger på 1–2 millioner kelvin, mot rundt 6000 i fotosfæren under. Kromosfæren mellom dem er en rosa krans på 3000–5000 kilometer.",
+      "sv": "Temperaturen ligger på 1–2 miljoner kelvin, mot omkring 6000 i fotosfären under. Kromosfären mellan dem är en rosa krans på 3000–5000 kilometer."
+    },
+    "source": "Store norske leksikon – «Sola»"
+  },
+  {
+    "id": "sol-v-05",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "I 1975 kom Norges første helaftens animasjonsfilm, med figurene til Kjell Aukrust: oppfinneren Reodor Felgen, den optimistiske Solan Gundersen og pinnsvinet Ludvig. Over 5,5 millioner kinobilletter er solgt. Hvem regisserte den?",
+      "sv": "År 1975 kom Norges första långfilm i animation, med Kjell Aukrusts figurer: uppfinnaren Reodor Felgen, den optimistiske Solan Gundersen och igelkotten Ludvig. Över 5,5 miljoner biobiljetter har sålts. Vem regisserade den?"
+    },
+    "answer": "Ivo Caprino",
+    "answerKind": "person",
+    "person": {
+      "given": "Ivo",
+      "family": "Caprino"
+    },
+    "hint": {
+      "nb": "Han var også produsent, og filmen kombinerer dukker som beveges foran kamera med enkeltbildeteknikk.",
+      "sv": "Han var också producent, och filmen kombinerar dockor som rörs framför kameran med stop motion."
+    },
+    "funFact": {
+      "nb": "Premieren var 28. august 1975, og filmen varer 88 minutter. I tillegg til kinobillettene er over to millioner VHS- og DVD-eksemplarer solgt i Norge.",
+      "sv": "Premiären var den 28 augusti 1975, och filmen är 88 minuter lång. Utöver biobiljetterna har över två miljoner VHS- och DVD-exemplar sålts i Norge."
+    },
+    "source": "Store norske leksikon – «Flåklypa Grand Prix» og «Ivo Caprino»"
+  },
+  {
+    "id": "sol-v-06",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Nordlys oppstår når energirike partikler slynges fra sola mot jorda og treffer atmosfæren. En astronom i Uppsala ble berømt i Europa for nordlysforskningen sin, og foreslo i 1741 en temperaturskala der 0 var kokepunktet. Hvem?",
+      "sv": "Norrsken uppstår när energirika partiklar slungas från solen mot jorden och träffar atmosfären. En astronom i Uppsala blev berömd i Europa för sin norrskensforskning och föreslog 1741 en temperaturskala där 0 var kokpunkten. Vem?"
+    },
+    "answer": "Anders Celsius",
+    "answerKind": "person",
+    "person": {
+      "given": "Anders",
+      "family": "Celsius"
+    },
+    "hint": {
+      "nb": "Carl von Linné og instrumentmakeren Daniel Ekström snudde skalaen til den formen vi bruker i dag.",
+      "sv": "Carl von Linné och instrumentmakaren Daniel Ekström vände på skalan till den form vi använder i dag."
+    },
+    "funFact": {
+      "nb": "Han levde fra 1701 til 1744, ble professor i astronomi i Uppsala i 1730 og deltok fra 1732 i den franske gradmålingsekspedisjonen til Lappland, som viste at jorda er flatklemt ved polene. I 1742 grunnla han Sveriges første astronomiske observatorium.",
+      "sv": "Han levde 1701–1744, blev professor i astronomi i Uppsala 1730 och deltog från 1732 i den franska gradmätningsexpeditionen till Lappland, som visade att jorden är tillplattad vid polerna. År 1742 grundade han Sveriges första astronomiska observatorium."
+    },
+    "source": "Store norske leksikon – «Anders Celsius» og «nordlys»"
+  },
+  {
+    "id": "sol-v-07",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "geografi",
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Byen i Tinn i Telemark ligger så dypt i dalen at sola ikke når torget fem måneder i året. Ideen fra 1923 om å sende den ned med speil i fjellsiden ble først satt ut i livet i 2013. Hvilken by?",
+      "sv": "Staden i Tinn i Telemark ligger så djupt i dalen att solen inte når torget fem månader om året. Idén från 1923 om att skicka ner den med speglar i bergssidan förverkligades först 2013. Vilken stad?"
+    },
+    "answer": "Rjukan",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Norsk Hydro bygde byen i årene 1908–1920 for å lage kunstgjødsel av krafta i fossen ovenfor.",
+      "sv": "Norsk Hydro byggde staden åren 1908–1920 för att göra konstgödsel av kraften i fallet ovanför."
+    },
+    "funFact": {
+      "nb": "Speilet ble foreslått av Oscar Kittelsen og Sam Eyde i 1923, realisert av Tinn kommune i 2013 og forbedret i 2023. Byen kom på UNESCOs verdensarvliste i 2015 som industriarv.",
+      "sv": "Spegeln föreslogs av Oscar Kittelsen och Sam Eyde 1923, förverkligades av Tinns kommun 2013 och förbättrades 2023. Staden fördes 2015 upp på Unescos världsarvslista som industriarv."
+    },
+    "source": "Store norske leksikon – «Rjukan»"
+  },
+  {
+    "id": "sol-v-08",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "arkitektur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Verdens største permanente modell av solsystemet står i Sverige, i målestokk 1:20 000 000. Sola er en kuleformet arena i Stockholm på 110 meter i tverrmål, og Saturn står på Celsiustorget i Uppsala. Hvilken bygning er sola?",
+      "sv": "Världens största permanenta modell av solsystemet står i Sverige, i skala 1:20 000 000. Solen är en klotformad arena i Stockholm på 110 meter i diameter, och Saturnus står på Celsiustorget i Uppsala. Vilken byggnad är solen?"
+    },
+    "answer": "Globen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Bygningen åpnet i februar 1989 og er verdens nest største halvkuleformede bygning.",
+      "sv": "Byggnaden invigdes i februari 1989 och är världens näst största halvklotformade byggnad."
+    },
+    "funFact": {
+      "nb": "Arenaen heter i dag Avicii Arena. Modellen ble startet i 1989 av professorene Nils Brenning og Gösta Gahm, og strekker seg fra Merkur ved Stockholms stadsmuseum til Pluto ved Dellensjøene i Delsbo, 291 kilometer unna.",
+      "sv": "Arenan heter i dag Avicii Arena. Modellen startades 1989 av professorerna Nils Brenning och Gösta Gahm och sträcker sig från Merkurius vid Stockholms stadsmuseum till Pluto vid Dellensjöarna i Delsbo, 291 kilometer bort."
+    },
+    "source": "Wikipedia (engelsk) – «Sweden Solar System»"
+  },
+  {
+    "id": "sol-v-09",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Chang’e 4 lander på månens bakside. Notre-Dame brenner. Boris Johnson blir britisk statsminister. En total solformørkelse går over Sør-Amerika. Det første bildet av et svart hull vises fram. Greta Thunberg seiler til New York. «Game of Thrones» avsluttes. Karl Lagerfeld dør. Hvilket år?",
+      "sv": "Chang’e 4 landar på månens baksida. Notre-Dame brinner. Boris Johnson blir brittisk premiärminister. En total solförmörkelse går över Sydamerika. Den första bilden av ett svart hål visas upp. Greta Thunberg seglar till New York. «Game of Thrones» avslutas. Karl Lagerfeld dör. Vilket år?"
+    },
+    "answer": "2019",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hendelsene skjedde i siste halvdel av 2010-tallet.",
+      "sv": "Händelserna inträffade under andra halvan av 2010-talet."
+    },
+    "funFact": {
+      "nb": "Solformørkelsen 2. juli var synlig fra Chile og Argentina, og bildet av det svarte hullet i galaksen M87 ble lagt fram 10. april av Event Horizon Telescope. Notre-Dame brant 15. april.",
+      "sv": "Solförmörkelsen den 2 juli syntes från Chile och Argentina, och bilden av det svarta hålet i galaxen M87 lades fram den 10 april av Event Horizon Telescope. Notre-Dame brann den 15 april."
+    },
+    "source": "Wikipedia (engelsk) – «2019»; Store norske leksikon – «Greta Thunberg», «Karl Lagerfeld» og «Game of Thrones»"
+  },
+  {
+    "id": "sol-v-10",
+    "category": "sol",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Romanen «Solaris» fra 1961 handler om forskere på en romstasjon ved en planet dekket av et intelligent hav, og om menneskenes fånyttes forsøk på å få kontakt med noe fremmed. Hvilken polsk forfatter skrev den?",
+      "sv": "Romanen «Solaris» från 1961 handlar om forskare på en rymdstation vid en planet täckt av ett intelligent hav, och om människornas fåfänga försök att få kontakt med något främmande. Vilken polsk författare skrev den?"
+    },
+    "answer": "Stanisław Lem",
+    "answerKind": "person",
+    "person": {
+      "given": "Stanisław",
+      "family": "Lem"
+    },
+    "hint": {
+      "nb": "Andrej Tarkovskij filmatiserte boka i 1972, og Steven Soderbergh laget en ny versjon i 2002 med George Clooney.",
+      "sv": "Andrej Tarkovskij filmatiserade boken 1972, och Steven Soderbergh gjorde en ny version 2002 med George Clooney."
+    },
+    "funFact": {
+      "nb": "Han levde fra 1921 til 2006 og er en av verdens mest leste science fiction-forfattere. Blant de andre bøkene hans er «Stjernedagbøker» (1957), «Eden» (1959) og «Kyberiaden» (1965).",
+      "sv": "Han levde 1921–2006 och är en av världens mest lästa science fiction-författare. Bland hans andra böcker finns «Stjärndagböcker» (1957), «Eden» (1959) och «Cyberiaden» (1965)."
+    },
+    "source": "Store norske leksikon – «Stanisław Lem» og «Solaris»"
   }
 ]
