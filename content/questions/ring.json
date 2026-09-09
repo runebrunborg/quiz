@@ -546,5 +546,283 @@
       "sv": "Svenska arkeologer har grävt där sedan 1964, och fynden visas på platsen. En del av husen är rekonstruerade."
     },
     "source": "Store norske leksikon – «Eketorps borg»"
+  },
+  {
+    "id": "ring-v-01",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Rundt Stillehavet ligger ildringen, et hesteskoformet belte med de fleste av verdens aktive vulkaner. Én av dem sprengte seg selv i stykker 26. august 1883 i Sundastredet mellom Sumatra og Java, og smellet ble hørt over 4600 kilometer unna. Hvilken vulkan?",
+      "sv": "Runt Stilla havet ligger eldringen, ett hästskoformat bälte med de flesta av världens aktiva vulkaner. En av dem sprängde sig själv i stycken den 26 augusti 1883 i Sundasundet mellan Sumatra och Java, och knallen hördes över 4600 kilometer bort. Vilken vulkan?"
+    },
+    "answer": "Krakatau",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Utbrudd i samme kaldera bygde fra 1927 opp en ny øy, som brukes til å kalle vulkanen for et barn av den gamle.",
+      "sv": "Utbrott i samma kaldera byggde från 1927 upp en ny ö, som gett vulkanen namn av att vara ett barn till den gamla."
+    },
+    "funFact": {
+      "nb": "Rundt 21 kubikkilometer stein og aske ble kastet opptil 27 kilometer opp i atmosfæren. Det fine støvet ga rødlige skumringsfenomener i årevis, og den globale temperaturen falt 1,2 grader.",
+      "sv": "Omkring 21 kubikkilometer sten och aska kastades upp till 27 kilometer upp i atmosfären. Det fina stoftet gav rödaktiga skymningsfenomen i åratal, och den globala temperaturen sjönk 1,2 grader."
+    },
+    "source": "Store norske leksikon – «Krakatau»"
+  },
+  {
+    "id": "ring-v-02",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Da de første telefonapparatene fikk en liten klokke som varslet innkommende samtaler, ble «å ringe» ordet vi bruker om å bruke telefonen. Et svensk verksted for telegrafreparasjoner fra 1876 lagde verdens første bordtelefon i 1892. Hvilket selskap vokste ut av det?",
+      "sv": "När de första telefonapparaterna fick en liten klocka som signalerade inkommande samtal blev «att ringa» ordet vi använder om att telefonera. En svensk verkstad för telegrafreparationer från 1876 gjorde världens första bordstelefon 1892. Vilket företag växte fram ur den?"
+    },
+    "answer": "Ericsson",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kobratelefonen fra 1956 var deres, og hovedkvarteret ligger i Kista i Stockholm.",
+      "sv": "Kobratelefonen från 1956 var deras, och huvudkontoret ligger i Kista i Stockholm."
+    },
+    "funFact": {
+      "nb": "Grunnleggeren het Lars Magnus Ericsson og startet med å reparere telegrafer i Stockholm. AXE-sentralene på 1970-tallet og siden mobilnett gjorde selskapet til en av verdens store leverandører av telekomutstyr.",
+      "sv": "Grundaren hette Lars Magnus Ericsson och började med att reparera telegrafer i Stockholm. AXE-stationerna på 1970-talet och sedan mobilnät gjorde företaget till en av världens stora leverantörer av telekomutrustning."
+    },
+    "source": "Store norske leksikon – «Ericsson»"
+  },
+  {
+    "id": "ring-v-03",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "musikk",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I Ringsaker på Hedmarken ligger husmannsplassen Rudshøgda, der en visedikter og forfatter ble født i 1914. Han skrev «Trost i taklampa», «Tango for to» og bøkene om kjerringa som ble så lita som ei teskje. Hvem?",
+      "sv": "I Ringsaker på Hedmarken ligger torpet Rudshøgda, där en visdiktare och författare föddes 1914. Han skrev «Trost i taklampa», «Tango for to» och böckerna om gumman som blev så liten som en tesked. Vem?"
+    },
+    "answer": "Alf Prøysen",
+    "answerKind": "person",
+    "person": {
+      "given": "Alf",
+      "family": "Prøysen"
+    },
+    "hint": {
+      "nb": "Han var å høre overalt i NRK, blant annet i «Barnetimen for de minste».",
+      "sv": "Han hördes överallt i NRK, bland annat i «Barnetimen for de minste»."
+    },
+    "funFact": {
+      "nb": "«Drengestu’viser» kom i 1948 og romanen «Trost i taklampa» i 1950, mens boka om teskjekjerringa kom i 1957. Han døde i Oslo i november 1970.",
+      "sv": "«Drengestu’viser» kom 1948 och romanen «Trost i taklampa» 1950, medan boken om teskedsgumman kom 1957. Han dog i Oslo i november 1970."
+    },
+    "source": "Store norske leksikon – «Alf Prøysen»"
+  },
+  {
+    "id": "ring-v-04",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart"
+    ],
+    "prompt": {
+      "nb": "Ringtåken i stjernebildet Lyra er gass en døende stjerne blåste av seg, og skallet utvider seg fortsatt med 70 000 kilometer i timen. Midt i ringen ligger det som er igjen av stjernen selv: en bitte liten, ekstremt tett stjernerest. Hva kalles en slik rest?",
+      "sv": "Ringnebulosan i stjärnbilden Lyran är gas som en döende stjärna blåste av sig, och skalet expanderar fortfarande med 70 000 kilometer i timmen. Mitt i ringen ligger det som är kvar av stjärnan själv: en pytteliten, extremt tät stjärnrest. Vad kallas en sådan rest?"
+    },
+    "answer": {
+      "nb": "Hvit dverg",
+      "sv": "Vit dvärg"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet har både en farge og en størrelse i seg.",
+      "sv": "Namnet har både en färg och en storlek i sig."
+    },
+    "funFact": {
+      "nb": "Tåken er nummer 57 i Charles Messiers katalog, ført opp 31. januar 1779 som den andre planetariske tåken som var oppdaget. Den ligger rundt 2000 lysår unna og er cirka ett lysår i diameter.",
+      "sv": "Nebulosan är nummer 57 i Charles Messiers katalog, införd den 31 januari 1779 som den andra planetariska nebulosa som upptäckts. Den ligger omkring 2000 ljusår bort och är cirka ett ljusår i diameter."
+    },
+    "source": "Store norske leksikon – «Ringtåken»"
+  },
+  {
+    "id": "ring-v-05",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Kroppen har flere ringformede muskler som lukker en åpning når de trekker seg sammen, og åpner den når de slapper av. Én av dem styrer pupillens størrelse i iris, en annen slipper maten videre fra magesekken. Hva kalles slike muskler med et fagord?",
+      "sv": "Kroppen har flera ringformade muskler som stänger en öppning när de dras samman och öppnar den när de slappnar av. En av dem styr pupillens storlek i iris, en annan släpper maten vidare från magsäcken. Vad kallas sådana muskler med en fackterm?"
+    },
+    "answer": "Sfinkter",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Ordet kommer fra gresk, og det norske synonymet er «lukkemuskel».",
+      "sv": "Ordet kommer från grekiskan, och den svenska synonymen är «slutmuskel»."
+    },
+    "funFact": {
+      "nb": "Blant dem er musculus sphincter pupillae i iris, musculus sphincter pylori ved magesekkens utgang, og Oddis sfinkter, som omgir det felles utløpet av gallegangen.",
+      "sv": "Bland dem finns musculus sphincter pupillae i iris, musculus sphincter pylori vid magmunnen, och Oddis sfinkter, som omger gallgångens gemensamma utlöpp."
+    },
+    "source": "Store medisinske leksikon – «sfinkter» og «lukkemuskel»"
+  },
+  {
+    "id": "ring-v-06",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "romfart",
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den 10. april 2019 la et nettverk av radioteleskoper fram det første bildet av et supermassivt svart hull, i galaksen M87. Bildet viser ikke hullet selv, men en glødende ring av gass omkring. Hva kalles grensen der ikke selv lys slipper unna?",
+      "sv": "Den 10 april 2019 lade ett nätverk av radioteleskop fram den första bilden av ett supermassivt svart hål, i galaxen M87. Bilden visar inte hålet självt utan en glödande ring av gas runt om. Vad kallas gränsen där inte ens ljuset kommer undan?"
+    },
+    "answer": {
+      "nb": "Hendelseshorisonten",
+      "sv": "Händelsehorisonten"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Teleskopnettverket som tok bildet, er oppkalt etter nettopp denne grensen.",
+      "sv": "Teleskopnätverket som tog bilden är uppkallat efter just denna gräns."
+    },
+    "funFact": {
+      "nb": "Nettverket heter Event Horizon Telescope. Grensen markerer det svarte hullets størrelse, selv om massen er samlet i sentrum.",
+      "sv": "Nätverket heter Event Horizon Telescope. Gränsen markerar det svarta hålets storlek, även om massan är samlad i mitten."
+    },
+    "source": "Store norske leksikon – «svart hull»"
+  },
+  {
+    "id": "ring-v-07",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie",
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "I 1857 ga keiseren av Østerrike ordre om å rive bymuren og vollgravene rundt gamlebyen i Wien. På det frilagte beltet ble det anlagt en 5,3 kilometer lang praktboulevard i ring, med opera, parlament og Burgtheater. Hvilken keiser?",
+      "sv": "År 1857 gav kejsaren av Österrike order om att riva stadsmuren och vallgravarna runt gamla stan i Wien. På det frilagda bältet anlades en 5,3 kilometer lång paradboulevard i ring, med opera, parlament och Burgtheater. Vilken kejsare?"
+    },
+    "answer": {
+      "nb": "Franz Joseph",
+      "sv": "Frans Josef"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": {
+        "nb": "Franz",
+        "sv": "Frans"
+      },
+      "family": {
+        "nb": "Joseph",
+        "sv": "Josef"
+      }
+    },
+    "hint": {
+      "nb": "Han satt på tronen i 68 år, fra 1848 til 1916, og var gift med Elisabeth av Bayern, kalt «Sissi».",
+      "sv": "Han satt på tronen i 68 år, från 1848 till 1916, och var gift med Elisabeth av Bayern, kallad «Sissi»."
+    },
+    "funFact": {
+      "nb": "Boulevarden ga navn til en egen stil, Ringstraßenstil, og var ikke ferdig utbygd før i 1913. Keiserens valgspråk var «Viribus Unitis» – «med forente krefter».",
+      "sv": "Boulevarden gav namn till en egen stil, Ringstraßenstil, och var inte färdigbyggd förrän 1913. Kejsarens valspråk var «Viribus Unitis» – «med förenade krafter»."
+    },
+    "source": "Wikipedia (engelsk) – «Ringstrasse»; Store norske leksikon – «Franz Joseph»"
+  },
+  {
+    "id": "ring-v-08",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "arkitektur",
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Tømmeret ble felt vintrene 1192 og 1193, og under gulvet er det påvist en enda eldre stolpekirke. På 1630-tallet bygde Werner Olsen kirken om til korskirke og reiste tårnet og spiret. Hvilken stavkirke i Gudbrandsdalen er dette?",
+      "sv": "Timret fälldes vintrarna 1192 och 1193, och under golvet har man påvisat en ännu äldre stolpkyrka. På 1630-talet byggde Werner Olsen om kyrkan till korskyrka och reste tornet och spiran. Vilken stavkyrka i Gudbrandsdalen är detta?"
+    },
+    "answer": {
+      "nb": "Ringebu stavkirke",
+      "sv": "Ringebu stavkyrka"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kirken ligger noen kilometer sørøst for tettstedet med samme navn, i Innlandet.",
+      "sv": "Kyrkan ligger några kilometer sydost om tätorten med samma namn, i Innlandet."
+    },
+    "funFact": {
+      "nb": "Altertavla er fra 1680-årene og hører til de tidligste akantusskjæringene i Gudbrandsdalen. Kirken ble restaurert i 1921, og en prest i bygda er nevnt i kildene alt i 1270.",
+      "sv": "Altartavlan är från 1680-talet och hör till de tidigaste akantusskärningarna i Gudbrandsdalen. Kyrkan restaurerades 1921, och en präst i bygden nämns i källorna redan 1270."
+    },
+    "source": "Store norske leksikon – «Ringebu stavkirke»"
+  },
+  {
+    "id": "ring-v-09",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "natur",
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "I Dalarna ligger en ringformet struktur på 52 kilometer i tverrmål, den største av sitt slag i Europa. Den ble dannet for rundt 377 millioner år siden, og Sveriges sjette største sjø ligger i sørvestkanten av den. Hva slags hendelse skapte ringen?",
+      "sv": "I Dalarna ligger en ringformad struktur på 52 kilometer i diameter, den största av sitt slag i Europa. Den bildades för omkring 377 miljoner år sedan, och Sveriges sjätte största sjö ligger i dess sydvästra kant. Vad slags händelse skapade ringen?"
+    },
+    "answer": {
+      "nb": "Et meteorittnedslag",
+      "sv": "Ett meteoritnedslag"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Strukturen kalles Siljansringen etter sjøen, og på 1980-tallet ble det boret dypt i den på jakt etter olje og gass.",
+      "sv": "Strukturen kallas Siljansringen efter sjön, och på 1980-talet borrades det djupt i den på jakt efter olja och gas."
+    },
+    "funFact": {
+      "nb": "Boringene, inspirert av astrofysikeren Thomas Golds teori om olje av ikke-biologisk opprinnelse, ga ikke noe klart svar. Strukturen er blant de femten største kjente av sitt slag på jorden.",
+      "sv": "Borrningarna, inspirerade av astrofysikern Thomas Golds teori om olja av icke-biologiskt ursprung, gav inget klart svar. Strukturen är bland de femton största kända av sitt slag på jorden."
+    },
+    "source": "Wikipedia (engelsk) – «Siljan Ring»"
+  },
+  {
+    "id": "ring-v-10",
+    "category": "ring",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Sender staten penger inn i økonomien, brer virkningen seg videre som ringer i vann: de som får arbeid, bruker lønna, og forbruket blir andres inntekt. Tallet som viser hvor stor den samlede virkningen blir, fikk navn etter en britisk økonom som skrev hovedverket sitt i 1936. Hvem?",
+      "sv": "Skickar staten pengar in i ekonomin sprider verkan sig vidare som ringar i vattnet: de som får arbete använder lönen, och konsumtionen blir andras inkomst. Talet som visar hur stor den samlade verkan blir fick namn efter en brittisk ekonom som skrev sitt huvudverk 1936. Vem?"
+    },
+    "answer": "John Maynard Keynes",
+    "answerKind": "person",
+    "person": {
+      "given": "John Maynard",
+      "family": "Keynes"
+    },
+    "hint": {
+      "nb": "Hovedverket heter «The General Theory of Employment, Interest and Money», og teorien ble utformet under depresjonen på 1930-tallet.",
+      "sv": "Huvudverket heter «The General Theory of Employment, Interest and Money», och teorin utformades under depressionen på 1930-talet."
+    },
+    "funFact": {
+      "nb": "Tallet kalles multiplikatoren og regnes som 1 delt på 1 minus den delen av økt inntekt som brukes til forbruk. Er den delen 0,8, blir multiplikatoren 5.",
+      "sv": "Talet kallas multiplikatorn och räknas som 1 delat på 1 minus den del av ökad inkomst som används till konsumtion. Är den delen 0,8 blir multiplikatorn 5."
+    },
+    "source": "Store norske leksikon – «multiplikator – økonomi»"
   }
 ]
