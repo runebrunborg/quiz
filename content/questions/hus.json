@@ -540,5 +540,258 @@
       "sv": "Den är i dag en privat organisation som samlar adeln till möte vart tredje år. Den finska institutionen hade 144 introducerade adelsätter 2012."
     },
     "source": "Store norske leksikon – «Riddarhuset»"
+  },
+  {
+    "id": "hus-v-01",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "spill"
+    ],
+    "prompt": {
+      "nb": "Brettspillet kom til i USA like etter 1900, og Charles B. Darrow ga tomtene gatenavn fra Atlantic City før Parker Brothers tok patent på varemerket i 1935. Du bygger hus og siden hoteller for å øke leia. Hva heter spillet, med et navn som betyr enerett?",
+      "sv": "Brädspelet kom till i USA strax efter 1900, och Charles B. Darrow gav tomterna gatunamn från Atlantic City innan Parker Brothers tog patent på varumärket 1935. Du bygger hus och sedan hotell för att öka hyran. Vad heter spelet, med ett namn som betyder ensamrätt?"
+    },
+    "answer": "Monopol",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den norske utgaven bruker tradisjonelt gatenavn fra Oslo.",
+      "sv": "Den svenska utgåvan använder traditionellt gatunamn från Stockholm."
+    },
+    "funFact": {
+      "nb": "Spillet er for 2–8 spillere, og poenget er å tjene mest mulig på å «leie ut» eiendommene man kjøper. Darrow levde fra 1889 til 1967.",
+      "sv": "Spelet är för 2–8 spelare, och poängen är att tjäna mest möjligt på att «hyra ut» fastigheterna man köper. Darrow levde 1889–1967."
+    },
+    "source": "Store norske leksikon – «Monopol – brettspill»"
+  },
+  {
+    "id": "hus-v-02",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "På den norske gården stod forrådshuset på korte, avkuttede trestammer eller på stein, med utstikkende heller på toppen. Hensikten var å holde mus og rotter unna kornet, mjølet, kjøttet og flatbrødet. Hva heter huset?",
+      "sv": "På den norska gården stod förrådshuset på korta, avkapade trädstammar eller på sten, med utskjutande hällar överst. Meningen var att hålla möss och råttor borta från säden, mjölet, köttet och tunnbrödet. Vad heter huset?"
+    },
+    "answer": "Stabbur",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av de korte trestammene bygningen står på.",
+      "sv": "Namnet kommer av de korta trädstammar som byggnaden står på."
+    },
+    "funFact": {
+      "nb": "De eldste hadde én etasje; senere ble to og av og til tre vanlig, med svalgang mot tunet. I midtre og østre Telemark finnes en variant med svalgang på to sider, kalt vengebur.",
+      "sv": "De äldsta hade en våning; senare blev två och ibland tre vanligt, med svalgång mot gårdsplanen. I mellersta och östra Telemark finns en variant med svalgång på två sidor, kallad vengebur."
+    },
+    "source": "Store norske leksikon – «stabbur»"
+  },
+  {
+    "id": "hus-v-03",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Bakkroppen er bløt og uten skall, så dyret flytter inn i tomme sneglehus og bærer huset med seg. Når det vokser, gransker det et nytt hus nøye før det raskt bytter. Hva heter denne familien tifotkreps?",
+      "sv": "Bakkroppen är mjuk och utan skal, så djuret flyttar in i tomma snäckhus och bär huset med sig. När det växer granskar det ett nytt hus noga innan det snabbt byter. Vad heter denna familj tiofotkräftor?"
+    },
+    "answer": {
+      "nb": "Eremittkreps",
+      "sv": "Eremitkräfta"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den største norske arten heter Pagurus bernhardus og blir opptil ti centimeter.",
+      "sv": "Den största nordiska arten heter Pagurus bernhardus och blir upp till tio centimeter."
+    },
+    "funFact": {
+      "nb": "Familien har mer enn 700 arter på verdensbasis, sju av dem i Norge. De lever på steinbunn og på dypere vann langs kysten.",
+      "sv": "Familjen har mer än 700 arter i världen, sju av dem i Norge. De lever på stenbotten och på djupare vatten längs kusten."
+    },
+    "source": "Store norske leksikon – «eremittkreps»"
+  },
+  {
+    "id": "hus-v-04",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "«The House of the Rising Sun» var en gammel folkevise da et band fra Newcastle spilte den inn i 1964, med Alan Price på orgel og Eric Burdon på vokal. Innspillingen gikk til topps verden over. Hvilket band?",
+      "sv": "«The House of the Rising Sun» var en gammal folkvisa när ett band från Newcastle spelade in den 1964, med Alan Price på orgel och Eric Burdon på sång. Inspelningen gick till toppen världen över. Vilket band?"
+    },
+    "answer": "The Animals",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Eric Burdon førte gruppa videre under eget navn etter at den ble oppløst i 1966.",
+      "sv": "Eric Burdon förde gruppen vidare under eget namn efter att den upplöstes 1966."
+    },
+    "funFact": {
+      "nb": "Gruppa ble dannet i Newcastle-upon-Tyne i 1963 av Eric Burdon, Alan Price, Chas Chandler, John Steel og Hilton Valentine, og hentet mye fra amerikansk rhythm and blues.",
+      "sv": "Gruppen bildades i Newcastle-upon-Tyne 1963 av Eric Burdon, Alan Price, Chas Chandler, John Steel och Hilton Valentine, och hämtade mycket från amerikansk rhythm and blues."
+    },
+    "source": "Store norske leksikon – «The Animals»"
+  },
+  {
+    "id": "hus-v-05",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Etter storbrannen i Roma i år 64 la keiseren beslag på et stort område på Esquilin-høyden og bygde et palass med en roterende kuppel som skulle gi inntrykk av himmelhvelvet. Anlegget ble kalt det gylne hus. Hvilken keiser?",
+      "sv": "Efter storbranden i Rom år 64 lade kejsaren beslag på ett stort område på Esquilinen och byggde ett palats med en roterande kupol som skulle ge intryck av himlavalvet. Anläggningen kallades det gyllene huset. Vilken kejsare?"
+    },
+    "answer": "Nero",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Etter hans død ryddet de flaviske keiserne området, og Vespasian reiste Colosseum der.",
+      "sv": "Efter hans död röjde de flaviska kejsarna området, och Vespasianus reste Colosseum där."
+    },
+    "funFact": {
+      "nb": "Palasset het Domus Aurea, og foran det lå en park som dekket et stort område. Colosseum ble bygd på tomta i årene 70–80 og ga området tilbake til folket.",
+      "sv": "Palatset hette Domus Aurea, och framför det låg en park som täckte ett stort område. Colosseum byggdes på tomten åren 70–80 och gav området tillbaka till folket."
+    },
+    "source": "Store norske leksikon – «Romas arkitekturhistorie i keisertiden»"
+  },
+  {
+    "id": "hus-v-06",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Novellen «Huset Ushers fall» er en av skrekklitteraturens mest kjente. Samme amerikaner skrev «Mordene i Rue Morgue» i 1841, regnet som verdens første detektivfortelling, og diktet «Ravnen» i 1845. Hvem var han?",
+      "sv": "Novellen om det förfallna huset Usher är en av skräcklitteraturens mest kända. Samme amerikan skrev «Morden på Rue Morgue» 1841, räknad som världens första detektivberättelse, och dikten «Korpen» 1845. Vem var han?"
+    },
+    "answer": "Edgar Allan Poe",
+    "answerKind": "person",
+    "person": {
+      "given": "Edgar Allan",
+      "family": "Poe"
+    },
+    "hint": {
+      "nb": "Mesterdetektiven hans het C. Auguste Dupin.",
+      "sv": "Hans mästerdetektiv hette C. Auguste Dupin."
+    },
+    "funFact": {
+      "nb": "Han ble født i Boston i 1809 og døde i 1849. Den eneste romanen hans, fra 1838, regnes som en forløper for science fiction-sjangeren.",
+      "sv": "Han föddes i Boston 1809 och dog 1849. Hans enda roman, från 1838, räknas som en föregångare till science fiction-genren."
+    },
+    "source": "Store norske leksikon – «Edgar Allan Poe»"
+  },
+  {
+    "id": "hus-v-07",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "Slekten var borgerlig og kom fra Béarn sør i Frankrike. En fransk marskalk ble i 1810 adoptert av den barnløse Karl 13. og valgt til svensk kronprins, og i 1818 besteg han tronen som Karl 3. Johan. Hvilket kongehus?",
+      "sv": "Släkten var borgerlig och kom från Béarn i södra Frankrike. En fransk marskalk adopterades 1810 av den barnlöse Karl XIII och valdes till svensk kronprins, och 1818 besteg han tronen som Karl XIV Johan. Vilket kungahus?"
+    },
+    "answer": "Bernadotte",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Marskalken het Jean Baptiste Jules til fornavn og levde fra 1763 til 1844.",
+      "sv": "Marskalken hette Jean Baptiste Jules i förnamn och levde 1763–1844."
+    },
+    "funFact": {
+      "nb": "Slekten satt på tronen i både Sverige og Norge fra 1818 til unionen ble oppløst i 1905.",
+      "sv": "Släkten satt på tronen i både Sverige och Norge från 1818 till unionen upplöstes 1905."
+    },
+    "source": "Store norske leksikon – «Bernadotte»"
+  },
+  {
+    "id": "hus-v-08",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "De røde trehusene på den svenske landsbygda skylder fargen sin en gruve i Dalarna. Fra 1600-tallet ble jernoksidholdig rødmold der et biprodukt av kobberutvinningen, og fra 1764 ble pigmentet laget industrielt. Hva heter fargestoffet?",
+      "sv": "De röda trähusen på den svenska landsbygden har sin färg från en gruva i Dalarna. Från 1600-talet blev järnoxidhaltig rödmull där en biprodukt av kopparutvinningen, och från 1764 tillverkades pigmentet industriellt. Vad heter färgämnet?"
+    },
+    "answer": {
+      "nb": "Falurødt",
+      "sv": "Falu rödfärg"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen gruva ligger i, har gitt fargen navnet sitt.",
+      "sv": "Staden där gruvan ligger har gett färgen dess namn."
+    },
+    "funFact": {
+      "nb": "Blandet med vann, parafin eller lignende ble det brukt til utvendig impregnering og maling av trehus. Først var det de velstående som brukte det; fra slutten av 1700-tallet vant det innpass hos allmuen.",
+      "sv": "Blandad med vatten, paraffin eller liknande användes den till utvändig impregnering och målning av trähus. Först var det de välbärgade som använde den; från slutet av 1700-talet vann den insteg hos allmogen."
+    },
+    "source": "Store norske leksikon – «falurødt»"
+  },
+  {
+    "id": "hus-v-09",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Cecilie Christine Schøller bygde i årene 1774–1778 et trehus på 1150 kvadratmeter i Trondheim, Nordens største fyrstebolig i tre. Staten kjøpte det i 1800, og fra 1906 har det vært kongelig residens i byen. Hva heter det?",
+      "sv": "Cecilie Christine Schøller byggde åren 1774–1778 ett trähus på 1150 kvadratmeter i Trondheim, Nordens största furstebostad i trä. Staten köpte det 1800, och sedan 1906 är det kunglig residens i staden. Vad heter det?"
+    },
+    "answer": {
+      "nb": "Stiftsgården",
+      "sv": "Stiftsgården"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedfløyen har sju selskapsrom på rad, og to av salene er på 113 kvadratmeter hver.",
+      "sv": "Huvudflygeln har sju sällskapsrum i rad, och två av salarna är på 113 kvadratmeter var."
+    },
+    "funFact": {
+      "nb": "Bygningen er i nyklassisisme med barokke og rokokko-trekk, lagt i U-form rundt et gårdsrom, med mansardtak på hovedfløyen. Når kongehuset ikke bruker den, er selskapsrommene åpne for publikum.",
+      "sv": "Byggnaden är i nyklassicism med barock- och rokokodrag, lagd i U-form runt en gårdsplan, med mansardtak på huvudflygeln. När kungahuset inte använder den är sällskapsrummen öppna för allmänheten."
+    },
+    "source": "Store norske leksikon – «Stiftsgården i Trondheim»"
+  },
+  {
+    "id": "hus-v-10",
+    "category": "hus",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Til verdensutstillingen i Hyde Park i 1851 tegnet gartneren Joseph Paxton en bygning av støpejern og glass, 563 meter lang, med 293 000 glassruter. Den ble senere flyttet til Sydenham og brant ned i 1936. Hva het bygningen?",
+      "sv": "Till världsutställningen i Hyde Park 1851 ritade trädgårdsmästaren Joseph Paxton en byggnad av gjutjärn och glas, 563 meter lång, med 293 000 glasrutor. Den flyttades senare till Sydenham och brann ner 1936. Vad hette byggnaden?"
+    },
+    "answer": "Crystal Palace",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den ble reist på nytt på Sydenham Hill i 1854 og stod der i over åtti år.",
+      "sv": "Den restes på nytt på Sydenham Hill 1854 och stod där i över åttio år."
+    },
+    "funFact": {
+      "nb": "Bygningen hvilte på over tusen jernsøyler. I Hyde Park var den 563 meter lang og 139 meter bred, med 39 meter opp under taket. Utstillingen varte fra 1. mai til 15. oktober 1851.",
+      "sv": "Byggnaden vilade på över tusen järnpelare. I Hyde Park var den 563 meter lång och 139 meter bred, med 39 meter upp under taket. Utställningen varade från 1 maj till 15 oktober 1851."
+    },
+    "source": "Wikipedia (engelsk) – «The Crystal Palace»"
   }
 ]
