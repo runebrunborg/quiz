@@ -564,5 +564,271 @@
       "sv": "Han spelade också maken i «Kvinnors väntan» 1952 och fadern i «Såsom i en spegel» 1961. Sista rollen var i «Fanny och Alexander» 1982."
     },
     "source": "Store norske leksikon – «Gunnar Björnstrand»"
+  },
+  {
+    "id": "natt-v-01",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "De er de eneste pattedyrene som kan fly, og de fleste artene er helt nattaktive. De roper og lytter etter ekkoet, og fanger små insekter i stummende mørke. Det finnes minst 1439 kjente arter, tolv av dem i Norge. Hvilken dyregruppe?",
+      "sv": "De är de enda däggdjuren som kan flyga, och de flesta arterna är helt nattaktiva. De ropar och lyssnar efter ekot och fångar små insekter i kolmörker. Det finns minst 1439 kända arter, tolv av dem i Norge. Vilken djurgrupp?"
+    },
+    "answer": {
+      "nb": "Flaggermus",
+      "sv": "Fladdermöss"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vingene er hudseil mellom forlengede fingerbein, ikke stive fjær.",
+      "sv": "Vingarna är hudsegel mellan förlängda fingerben, inte styva fjädrar."
+    },
+    "funFact": {
+      "nb": "Gruppen er den nest største ordenen av pattedyr etter gnagerne, med over 20 prosent av alle pattedyrarter. I dvale kan hjertet gå ned mot ti slag i minuttet, mot 450 i hvile og 800 under flukt.",
+      "sv": "Gruppen är den näst största ordningen av däggdjur efter gnagarna, med över 20 procent av alla däggdjursarter. I dvala kan hjärtat gå ner mot tio slag i minuten, mot 450 i vila och 800 under flykt."
+    },
+    "source": "Store norske leksikon – «flaggermus»"
+  },
+  {
+    "id": "natt-v-02",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "religion"
+    ],
+    "prompt": {
+      "nb": "Sagnet forteller om en ung kristen kvinne fra Syracuse på Sicilia, henrettet i år 303 under forfølgelsene til keiser Diocletian. Det moderne lystoget i hvite kjortler oppsto i Sverige på 1920-tallet, og Stockholm hadde eget opptog fra 1928. Hvilken helgen?",
+      "sv": "Sägnen berättar om en ung kristen kvinna från Syrakusa på Sicilien, avrättad år 303 under kejsar Diocletianus förföljelser. Det moderna ljuståget i vita dräkter uppstod i Sverige på 1920-talet, och Stockholm hade eget tåg från 1928. Vilket helgon?"
+    },
+    "answer": "Lucia",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Dagen er 13. desember, og i Norge følger det saffranbakst med.",
+      "sv": "Dagen är den 13 december, och saffransbaket hör till."
+    },
+    "funFact": {
+      "nb": "13. desember var etter den julianske kalenderen årets lengste og mørkeste natt. Skikken kom til Norge på 1950-tallet og feires mest i skoler, barnehager og kirker.",
+      "sv": "Den 13 december var enligt den julianska kalendern årets längsta och mörkaste natt. Seden kom till Norge på 1950-talet och firas mest i skolor, förskolor och kyrkor."
+    },
+    "source": "Store norske leksikon – «luciadagen»"
+  },
+  {
+    "id": "natt-v-03",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Voksne går i grupper langs gater og plasser der ungdom samles på kvelds- og nattetid, for å virke forebyggende mot rus, vold og hærverk. Bevegelsen kom fra Sverige på slutten av 1980-tallet, og den norske regnes som stiftet 1. mai 1990. Hva kalles de?",
+      "sv": "Vuxna går i grupper längs gator och platser där ungdomar samlas kvälls- och nattetid, för att verka förebyggande mot droger, våld och skadegörelse. Rörelsen kom från Sverige i slutet av 1980-talet, och den norska räknas som stiftad den 1 maj 1990. Vad kallas de?"
+    },
+    "answer": "Natteravnene",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet spiller på en fugl som er våken når andre sover.",
+      "sv": "Namnet anspelar på en fågel som är vaken när andra sover."
+    },
+    "funFact": {
+      "nb": "Hundrevis av grupper er ute i helgene. En strid om organisering og kommersielle samarbeid tidlig på 2000-tallet endte med at Stiftelsen Natteravnene ble opprettet i 2005, ved siden av den opprinnelige.",
+      "sv": "Hundratals grupper är ute på helgerna. En strid om organisering och kommersiella samarbeten i början av 2000-talet slutade med att Stiftelsen Natteravnene bildades 2005, vid sidan av den ursprungliga."
+    },
+    "source": "Store norske leksikon – «Natteravnbevegelsen»"
+  },
+  {
+    "id": "natt-v-04",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "I rammefortellingen til den arabiske eventyrsamlingen gifter en konge seg med en ny kvinne hver kveld. Vesirens datter berger seg ved å fortelle historier som alltid stopper på det mest spennende, så kongen må høre fortsettelsen. Hva heter hun?",
+      "sv": "I ramberättelsen till den arabiska sagosamlingen gifter sig en kung med en ny kvinna varje kväll. Vesirens dotter räddar sig genom att berätta historier som alltid stannar på det mest spännande, så att kungen måste höra fortsättningen. Vad heter hon?"
+    },
+    "answer": "Scheherazade",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Samlingen rommer Aladdin og den magiske lampen, Ali Baba og de førti røverne, og Sindbad Sjøfareren.",
+      "sv": "Samlingen rymmer Aladdin och den magiska lampan, Ali Baba och de fyrtio rövarna, och Sindbad Sjöfararen."
+    },
+    "funFact": {
+      "nb": "Stoffet ble oversatt til arabisk på 800-tallet og har indiske, persiske, jødiske, egyptiske og arabiske kilder. Den endelige samlingen kom på 1500-tallet, og Europa fikk den gjennom Gallands franske oversettelse på 1700-tallet.",
+      "sv": "Stoffet översattes till arabiska på 800-talet och har indiska, persiska, judiska, egyptiska och arabiska källor. Den slutliga samlingen kom på 1500-talet, och Europa fick den genom Gallands franska översättning på 1700-talet."
+    },
+    "source": "Store norske leksikon – «Tusen og én natt»"
+  },
+  {
+    "id": "natt-v-05",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "I denne søvnfasen beveger øynene seg raskt, muskelspenningen faller bort og puls og pust blir uregelmessige. Drømmene er hyppigere og livligere enn ellers, og fasen tar rundt en femdel av natten, mest i andre halvdel. Hva heter den?",
+      "sv": "I denna sömnfas rör sig ögonen snabbt, muskelspänningen faller bort och puls och andning blir oregelbundna. Drömmarna är tätare och livligare än annars, och fasen tar omkring en femtedel av natten, mest under andra halvan. Vad heter den?"
+    },
+    "answer": {
+      "nb": "REM-søvn",
+      "sv": "REM-sömn"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortelsen er engelsk og beskriver nettopp det øynene gjør.",
+      "sv": "Förkortningen är engelsk och beskriver just det ögonen gör."
+    },
+    "funFact": {
+      "nb": "En søvnsyklus varer omkring 90 minutter og rommer 20–30 minutter av fasen; voksne har fire til fem sykluser per natt. Nyfødte ligger i den opptil halve søvnen, eldre bare 15–20 prosent.",
+      "sv": "En sömncykel varar omkring 90 minuter och rymmer 20–30 minuter av fasen; vuxna har fyra till fem cykler per natt. Nyfödda ligger i den upp till halva sömnen, äldre bara 15–20 procent."
+    },
+    "source": "Store medisinske leksikon – «REM-søvn»"
+  },
+  {
+    "id": "natt-v-06",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "I folketrua var det som regel en kvinnelig kveledemon som kom om kvelden og red på sovende folk og dyr, så de fikk vonde drømmer og trykk over brystet. Det vanlige ordet for vond drøm er satt sammen av navnet hennes og «ritt». Hva het skapningen?",
+      "sv": "I folktron var det oftast en kvinnlig kvävdemon som kom om kvällen och red på sovande folk och djur, så att de fick onda drömmar och tryck över bröstet. Det vanliga ordet för ond dröm är satt samman av hennes namn och «ritt». Vad hette varelsen?"
+    },
+    "answer": {
+      "nb": "Mare",
+      "sv": "Mara"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det engelske ordet for det samme fenomenet er bygd på samme skapning, med «night» foran.",
+      "sv": "Det engelska ordet för samma fenomen är byggt på samma varelse, med «night» framför."
+    },
+    "funFact": {
+      "nb": "Stål og marekvist skulle verne mot henne, slik Ludvig Holberg beskrev i 1702. Hun kunne også vise seg i dyreskikkelse.",
+      "sv": "Stål och markvist skulle värja mot henne, som Ludvig Holberg beskrev 1702. Hon kunde också visa sig i djurskepnad."
+    },
+    "source": "Store norske leksikon – «mare»"
+  },
+  {
+    "id": "natt-v-07",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Om sommeren, gjerne lørdag kveld, dro unge menn på besøk til gifteferdige jenter, som sov påkledd i sine beste klær og selv valgte hvem de slapp inn. Skikken het «gjekk på sjau» i Nordfjord og «utpågang» i Trøndelag. Hva het den vanligst?",
+      "sv": "På sommaren, gärna lördagskväll, gav sig unga män ut till giftasvuxna flickor, som sov påklädda i sina bästa kläder och själva valde vem de släppte in. Seden hette «gjekk på sjau» i Nordfjord och «utpågang» i Trøndelag. Vad hette den vanligast?"
+    },
+    "answer": {
+      "nb": "Nattefriing",
+      "sv": "Nattfrieri"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet sier både når det foregikk og hva formålet var.",
+      "sv": "Namnet säger både när det ägde rum och vad syftet var."
+    },
+    "funFact": {
+      "nb": "Skikken fantes også i andre germanske områder og går århundrer tilbake. På 1800-tallet gikk presteskapet hardt ut mot den, selv om sedvanen hadde klare regler for hva som var akseptabelt.",
+      "sv": "Seden fanns också i andra germanska områden och går århundraden tillbaka. På 1800-talet gick prästerskapet hårt ut mot den, även om sedvänjan hade tydliga regler för vad som var acceptabelt."
+    },
+    "source": "Store norske leksikon – «nattefriing»"
+  },
+  {
+    "id": "natt-v-08",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Operaen i tre akter bygger på H.C. Andersens eventyr om keiseren og fuglen, med libretto av Stepan Mitusov. Den ble skrevet i årene 1908–1914 og hadde premiere i Paris i 1914, med Sergej Djagilev som drivkraft. Hvem komponerte den?",
+      "sv": "Operan i tre akter bygger på H.C. Andersens saga om kejsaren och fågeln, med libretto av Stepan Mitusov. Den skrevs åren 1908–1914 och hade premiär i Paris 1914, med Sergej Djagilev som drivkraft. Vem komponerade den?"
+    },
+    "answer": {
+      "nb": "Igor Stravinskij",
+      "sv": "Igor Stravinskij"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": "Igor",
+      "family": "Stravinskij"
+    },
+    "hint": {
+      "nb": "Samme komponist skrev «Ildfuglen» og «Vårofferet» for de samme russiske balletturneene.",
+      "sv": "Samme tonsättare skrev «Eldfågeln» och «Våroffer» för samma ryska balettturnéer."
+    },
+    "funFact": {
+      "nb": "Ved premieren sang solistene i orkestergraven mens dansere mimet rollene på scenen. I 1917 skrev han om andre og tredje akt til det symfoniske diktet «Le chant du rossignol».",
+      "sv": "Vid premiären sjöng solisterna i orkesterdiket medan dansare mimade rollerna på scenen. År 1917 skrev han om andra och tredje akten till den symfoniska dikten «Le chant du rossignol»."
+    },
+    "source": "Lex – Danmarks Nationalleksikon – «Nattergalen»"
+  },
+  {
+    "id": "natt-v-09",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Operasangeren fra Stockholm levde fra 1820 til 1887 og ble Sveriges første internasjonale superstjerne. Kallenavnet hennes var «den svenska näktergalen». Da hun kom til New York 1. september 1850, møtte 30 000 mennesker opp på kaia. Hvem var hun?",
+      "sv": "Operasångerskan från Stockholm levde 1820–1887 och blev Sveriges första internationella superstjärna. Hennes smeknamn var «den svenska näktergalen». När hon kom till New York den 1 september 1850 mötte 30 000 människor upp på kajen. Vem var hon?"
+    },
+    "answer": "Jenny Lind",
+    "answerKind": "person",
+    "person": {
+      "given": "Jenny",
+      "family": "Lind"
+    },
+    "hint": {
+      "nb": "Det var sirkusmannen Phineas T. Barnum som arrangerte turneen hennes i USA.",
+      "sv": "Det var cirkusmannen Phineas T. Barnum som arrangerade hennes turné i USA."
+    },
+    "funFact": {
+      "nb": "Hun het egentlig Johanna Maria, og USA-turneen i 1850–1852 rommet over hundre konserter.",
+      "sv": "Hon hette egentligen Johanna Maria, och USA-turnén 1850–1852 rymde över hundra konserter."
+    },
+    "source": "Svenskt kvinnobiografiskt lexikon – «Lind, Johanna (Jenny) Maria»"
+  },
+  {
+    "id": "natt-v-10",
+    "category": "natt",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Er universet uendelig gammelt og fylt av stjerner i alle retninger, burde blikket ditt før eller siden treffe en stjerne uansett hvor du ser. Likevel er nattehimmelen mørk. Astrofysikken forklarer det med at universet utvider seg. Hva kalles dette paradokset?",
+      "sv": "Är universum oändligt gammalt och fyllt av stjärnor åt alla håll borde blicken förr eller senare träffa en stjärna vart du än ser. Ändå är natthimlen mörk. Astrofysiken förklarar det med att universum expanderar. Vad kallas denna paradox?"
+    },
+    "answer": {
+      "nb": "Olbers' paradoks",
+      "sv": "Olbers paradox"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det bærer navnet til en tysk astronom og lege som formulerte det i 1823.",
+      "sv": "Den bär namnet på en tysk astronom och läkare som formulerade den 1823."
+    },
+    "funFact": {
+      "nb": "Den første moderne formuleringen kom alt i 1744, hos sveitseren Jean-Philippe Loys de Cheseaux. Utvidelsen øker avstanden mellom stjernene og rødforskyver lyset, så mindre av det når fram.",
+      "sv": "Den första moderna formuleringen kom redan 1744, hos schweizaren Jean-Philippe Loys de Cheseaux. Expansionen ökar avståndet mellan stjärnorna och rödförskjuter ljuset, så att mindre av det når fram."
+    },
+    "source": "Store norske leksikon – «Olbers' paradoks»"
   }
 ]
