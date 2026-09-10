@@ -519,5 +519,257 @@
       "sv": "Med 2574 kvadratkilometer och 677 717 invånare 2024 är landet bland Europas allra minsta, både till yta och folkmängd."
     },
     "source": "Store norske leksikon – «Luxembourg»"
+  },
+  {
+    "id": "borg-v-01",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Tyske utvandrere tok med seg en rett av kvernet, stekt storfekjøtt til USA sent på 1800-tallet, og den fikk navn etter havnebyen de reiste fra – ikke etter svinekjøtt, som mange tror. Retten slo gjennom på verdensutstillingen i St. Louis i 1904. Hvilken by?",
+      "sv": "Tyska utvandrare tog med sig en rätt av malet, stekt nötkött till USA i slutet av 1800-talet, och den fick namn efter hamnstaden de reste från – inte efter fläsk, som många tror. Rätten slog igenom på världsutställningen i St. Louis 1904. Vilken stad?"
+    },
+    "answer": "Hamburg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den første amerikanske kjeden som solgte retten, åpnet i Kansas i 1921 og het White Castle.",
+      "sv": "Den första amerikanska kedjan som sålde rätten öppnade i Kansas 1921 och hette White Castle."
+    },
+    "funFact": {
+      "nb": "«Ham» er engelsk for skinke, og det er nettopp den forvekslingen navnet inviterer til. Retten er i dag verdens mest utbredte hurtigmat; McDonald's åpnet i Oslo i 1983.",
+      "sv": "«Ham» är engelska för skinka, och det är just den förväxlingen namnet inbjuder till. Rätten är i dag världens mest spridda snabbmat; McDonald's öppnade i Oslo 1983."
+    },
+    "source": "Store norske leksikon – «hamburger»"
+  },
+  {
+    "id": "borg-v-02",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Tsaren anla i 1703 en ny hovedstad i sumpene ved Nevas munning, bygd av 40 000 tvangsutskrevne arbeidere og ferdig i 1712. Byen het Petrograd fra 1914 og Leningrad fra 1924 til 1991. Hva heter den i dag?",
+      "sv": "Tsaren anlade 1703 en ny huvudstad i sumpmarkerna vid Nevas mynning, byggd av 40 000 tvångsutskrivna arbetare och färdig 1712. Staden hette Petrograd från 1914 och Leningrad från 1924 till 1991. Vad heter den i dag?"
+    },
+    "answer": "Sankt Petersburg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Innbyggerne stemte selv for å ta tilbake det opprinnelige navnet etter Sovjetunionens fall.",
+      "sv": "Invånarna röstade själva för att ta tillbaka det ursprungliga namnet efter Sovjetunionens fall."
+    },
+    "funFact": {
+      "nb": "Navnerekka er 1703–1914, så Petrograd fra 1914 til 1924, Leningrad fra 1924 til 1991 – og deretter tilbake til utgangspunktet.",
+      "sv": "Namnraden är 1703–1914, sedan Petrograd från 1914 till 1924, Leningrad från 1924 till 1991 – och därefter tillbaka till utgångspunkten."
+    },
+    "source": "Store norske leksikon – «Sankt Petersburg»"
+  },
+  {
+    "id": "borg-v-03",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "spill"
+    ],
+    "prompt": {
+      "nb": "Brettspillet for to til fem spillere har ikke noe ferdig brett: spillerne legger ut brikker med veier, enger og middelalderborger, og får poeng når et område er lukket. Det vant Spiel des Jahres i 2001 og er oppkalt etter en fransk festningsby. Hva heter spillet?",
+      "sv": "Brädspelet för två till fem spelare har inget färdigt bräde: spelarna lägger ut brickor med vägar, ängar och medeltidsborgar och får poäng när ett område är slutet. Det vann Spiel des Jahres 2001 och är uppkallat efter en fransk fästningsstad. Vad heter spelet?"
+    },
+    "answer": "Carcassonne",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Spillet har fått en lang rekke utvidelser siden det kom.",
+      "sv": "Spelet har fått en lång rad expansioner sedan det kom."
+    },
+    "funFact": {
+      "nb": "Spiel des Jahres regnes som brettspillenes viktigste utmerkelse. Byen spillet er oppkalt etter, står også i Store norske leksikon som eget oppslag.",
+      "sv": "Spiel des Jahres räknas som brädspelens viktigaste utmärkelse. Staden spelet är uppkallat efter har också ett eget uppslag i Store norske leksikon."
+    },
+    "source": "Store norske leksikon – «Carcassonne – brettspill»"
+  },
+  {
+    "id": "borg-v-04",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "kongehus"
+    ],
+    "prompt": {
+      "nb": "Slottet Neuschwanstein i Bayern ble reist mellom 1869 og 1886 i nyromansk stil, med fem sammenbygde fløyer og tårn. Byggherren døde i 1886, arbeidet stanset i 1892, og bare noen få av rundt 200 rom ble innredet. Hvilken konge stod bak?",
+      "sv": "Slottet Neuschwanstein i Bayern uppfördes mellan 1869 och 1886 i nyromansk stil, med fem sammanbyggda flyglar och torn. Byggherren dog 1886, arbetet stannade 1892, och bara några få av omkring 200 rum blev inredda. Vilken kung låg bakom?"
+    },
+    "answer": {
+      "nb": "Ludvig 2. av Bayern",
+      "sv": "Ludvig II av Bayern"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Slottet inspirerte Walt Disneys eventyrslott.",
+      "sv": "Slottet inspirerade Walt Disneys sagoslott."
+    },
+    "funFact": {
+      "nb": "Anlegget ligger rundt 90 kilometer sørvest for München, nær Füssen ved den østerrikske grensa, og er i dag blant Europas mest besøkte attraksjoner med cirka 1,4 millioner gjester i året.",
+      "sv": "Anläggningen ligger omkring 90 kilometer sydväst om München, nära Füssen vid den österrikiska gränsen, och är i dag bland Europas mest besökta attraktioner med cirka 1,4 miljoner besökare om året."
+    },
+    "source": "Store norske leksikon – «Neuschwanstein»"
+  },
+  {
+    "id": "borg-v-05",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Håkon 5. Magnusson fikk reist en festning ytterst i Finnmark omkring 1307, for å hevde norsk suverenitet og verge mot karelske angrep. Dagens åttekantede stjerneskanse er bygd i årene 1734–1738 og regnes som verdens nordligste. Hva heter den?",
+      "sv": "Håkon V Magnusson lät resa en fästning ytterst i Finnmark omkring 1307, för att hävda norsk suveränitet och värja mot karelska angrepp. Dagens åttauddiga stjärnskans är byggd åren 1734–1738 och räknas som världens nordligaste. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Vardøhus festning",
+      "sv": "Vardøhus fästning"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den ligger på ei øy ved landets østligste by, og er en av landets saluttfestninger.",
+      "sv": "Den ligger på en ö vid landets östligaste stad och är en av landets saluteringsfästningar."
+    },
+    "funFact": {
+      "nb": "Det norske flagget ble heist der 31. oktober 1944, som symbol på frigjøringen. Anlegget er museum og har fortsatt en militær kommandant.",
+      "sv": "Den norska flaggan hissades där den 31 oktober 1944, som symbol för befrielsen. Anläggningen är museum och har fortfarande en militär kommendant."
+    },
+    "source": "Store norske leksikon – «Vardøhus festning»"
+  },
+  {
+    "id": "borg-v-06",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Birger Jarls borganlegg fra 1200-tallet, med det runde tårnet Tre Kronor, brant ned i 1697. Nicodemus Tessin den yngre fikk oppdraget med å bygge nytt på tomta, og bygningen med over 600 rom stod innflyttingsklar i 1754. Hva heter den?",
+      "sv": "Birger Jarls borganläggning från 1200-talet, med det runda tornet Tre Kronor, brann ner 1697. Nicodemus Tessin den yngre fick uppdraget att bygga nytt på tomten, och byggnaden med över 600 rum stod inflyttningsklar 1754. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Stockholms slott",
+      "sv": "Stockholms slott"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Arbeidet stanset fra 1709 til 1727, og etter Tessins død i 1728 førte Carl Hårleman det videre.",
+      "sv": "Arbetet stannade från 1709 till 1727, och efter Tessins död 1728 förde Carl Hårleman det vidare."
+    },
+    "funFact": {
+      "nb": "Det er blant Europas største, med mer enn 600 rom. Interiørene i rokokko og gustaviansk stil er blant andre av Jean Eric Rehn og Carl Fredrik Adelcrantz.",
+      "sv": "Det är bland Europas största, med mer än 600 rum. Interiörerna i rokoko och gustaviansk stil är bland andra av Jean Eric Rehn och Carl Fredrik Adelcrantz."
+    },
+    "source": "Store norske leksikon – «Stockholms slott»"
+  },
+  {
+    "id": "borg-v-07",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "int",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Vilhelm Erobreren lot reise et steintårn ved Themsen omkring 1078. Borgen har vært kongebolig, statsfengsel fram til 1952 og oppbevaringssted for kronjuvelene siden 1300-tallet. Sagnet sier at minst seks av én bestemt fugl alltid må være der, ellers faller riket. Hvilken fugl?",
+      "sv": "Vilhelm Erövraren lät resa ett stentorn vid Themsen omkring 1078. Borgen har varit kungabostad, statsfängelse fram till 1952 och förvaringsplats för kronjuvelerna sedan 1300-talet. Sägnen säger att minst sex av en viss fågel alltid måste finnas där, annars faller riket. Vilken fågel?"
+    },
+    "answer": {
+      "nb": "Ravn",
+      "sv": "Korp"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Vaktene som passer borgen, kalles beefeaters og teller 37 pluss en sjef.",
+      "sv": "Vakterna som sköter borgen kallas beefeaters och räknar 37 plus en chef."
+    },
+    "funFact": {
+      "nb": "Tower hadde også et kongelig menasjeri i århundrer; dyrene ble flyttet til London Zoo i årene 1831–1835. Beefeaterne rekrutteres fra militære med minst 22 års tjeneste.",
+      "sv": "Tower hade också ett kungligt menageri i århundraden; djuren flyttades till London Zoo åren 1831–1835. Beefeaters rekryteras från militärer med minst 22 års tjänst."
+    },
+    "source": "Store norske leksikon – «Tower»"
+  },
+  {
+    "id": "borg-v-08",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Jens Holgersen Ulfstand fikk mellom 1499 og 1505 reist et steinhus på 30 ganger 12 meter i Skåne, med murer over to meter tykke og trappegavler 26 meter over bakken. Byggmester var Adam van Düren. Det regnes som Nordens best bevarte middelalderborg. Hva heter det?",
+      "sv": "Jens Holgersen Ulfstand lät mellan 1499 och 1505 resa ett stenhus på 30 gånger 12 meter i Skåne, med murar över två meter tjocka och trappgavlar 26 meter över marken. Byggmästare var Adam van Düren. Det räknas som Nordens bäst bevarade medeltidsborg. Vad heter det?"
+    },
+    "answer": "Glimmingehus",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det ligger en mil sørvest for Simrishamn, og har vært svensk statseiendom siden 1924.",
+      "sv": "Det ligger en mil sydväst om Simrishamn och har varit svensk statsegendom sedan 1924."
+    },
+    "funFact": {
+      "nb": "Nederst er kjøkken og tjenerrom, over det herrens sal og kamre, i tredje plan riddersal og kapell, og øverst skytteloft med skyteskår. Vollgraven ble gravd fram igjen i 1935–1937.",
+      "sv": "Nederst finns kök och tjänarrum, över det herrens sal och kamrar, på tredje planet riddarsal och kapell, och överst skytteloft med skottgluggar. Vallgraven grävdes fram igen 1935–1937."
+    },
+    "source": "Store norske leksikon – «Glimmingehus»"
+  },
+  {
+    "id": "borg-v-09",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "se",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I desember 1317 bad kong Birger Magnusson brødrene sine Erik og Valdemar til bords på borgen sin i Södermanland, og satte dem i fangehullet da måltidet var over. Ifølge Erikskrönikan sultet de i hjel. Hva kalles hendelsen?",
+      "sv": "I december 1317 bjöd kung Birger Magnusson sina bröder Erik och Valdemar till bords på sin borg i Södermanland och satte dem i fängelsehålan när måltiden var över. Enligt Erikskrönikan svalt de ihjäl. Vad kallas händelsen?"
+    },
+    "answer": "Nyköpings gästabud",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Borgen ligger i byen som har gitt hendelsen navn, ved Östersjön sør for Stockholm.",
+      "sv": "Borgen ligger i staden som gett händelsen dess namn, vid Östersjön söder om Stockholm."
+    },
+    "funFact": {
+      "nb": "Borgen var Nyköpingshus, og hendelsen er datert til 11. desember 1317. Navnet kommer av gjestebudet som gikk forut.",
+      "sv": "Borgen var Nyköpingshus, och händelsen dateras till den 11 december 1317. Namnet kommer av gästabudet som föregick den."
+    },
+    "source": "Store norske leksikon – «Nyköpings gästabud»"
+  },
+  {
+    "id": "borg-v-10",
+    "category": "borg",
+    "difficulty": "vanskelig",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Gulating, Frostating og Eidsivating var tre av middelalderens fire lagting. Det fjerde dekket kystbygdene fra riksgrensa ved Göta älv til dagens Risør, og fikk Grenland og Telemark i tillegg i 1164. Hva het det?",
+      "sv": "Gulating, Frostating och Eidsivating var tre av medeltidens fyra lagting. Det fjärde omfattade kustbygderna från riksgränsen vid Göta älv till dagens Risør, och fick Grenland och Telemark därtill 1164. Vad hette det?"
+    },
+    "answer": "Borgarting",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet lever videre som navnet på lagmannsretten for Oslo, søndre Østfold, Buskerud og deler av Akershus.",
+      "sv": "Namnet lever vidare som namnet på hovrätten för Oslo, södra Østfold, Buskerud och delar av Akershus."
+    },
+    "funFact": {
+      "nb": "Bare kristenretten i Borgartingsloven er bevart. Loven ble avløst da Magnus Lagabøtes landslov trådte i kraft i 1274.",
+      "sv": "Bara kristenrätten i Borgartingslagen är bevarad. Lagen avlöstes när Magnus Lagabøtes landslag trädde i kraft 1274."
+    },
+    "source": "Store norske leksikon – «Borgarting»"
   }
 ]
