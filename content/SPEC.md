@@ -130,21 +130,63 @@ kollidere med dem som allerede finnes i temaets originalfil – les den først.
 
 ## Kilder som faktisk lar seg hente
 
-Nettmiljøet der spørsmålene skrives er begrenset. Erfaring så langt:
+Nettmiljøet der spørsmålene skrives er begrenset. Lista under er **testet, ikke
+antatt** – hver vert er hentet fra skrivemiljøet 10. september 2026.
 
-* **Virker:** `snl.no` — både oppslag (`https://snl.no/<emne>`) og søk
-  (`https://snl.no/api/v1/search?query=...`). Store norske leksikon har god
-  dekning også av svenske emner, og er den mest pålitelige kilden her.
-* **Virker:** `en.wikipedia.org`, samt institusjoners, museers og bedrifters
-  egne sider.
-* **Virker ikke:** `no.wikipedia.org` og `sv.wikipedia.org` er «cache-only» og
-  kan ikke hentes. `WebSearch` gir HTTP 403. Wikidata, runeberg.org og
-  Riksarkivet er sperret av utgående brannmur.
+### Virker, med søk – start her
+
+Disse tre har et søke-endepunkt, og er derfor de eneste du kan *lete* i uten
+`WebSearch`:
+
+* `snl.no` – oppslag (`https://snl.no/<emne>`) og søk
+  (`https://snl.no/api/v1/search?query=...`). Også `sml.snl.no` (medisin),
+  `nbl.snl.no` (biografi) og `nkl.snl.no`. Best dekning, også av svenske emner.
+* `lex.dk` – Danmarks nasjonalleksikon, samme plattform og samme API:
+  `https://lex.dk/api/v1/search?query=...`. Søket dekker Den Store Danske,
+  Trap Danmark (`trap.lex.dk`) med flere. Redaksjonelt på nivå med SNL, med
+  dansk tyngdepunkt, men god på nordiske og internasjonale emner.
+* `skbl.se` – Svenskt kvinnobiografiskt lexikon, søk på
+  `https://skbl.se/sv/sok?q=...`. Signerte biografier med kildeliste, og den
+  korteste veien til ekte svensk-forankrede emner.
+
+### Virker, men adressen må være kjent
+
+Ingen av disse har søk herfra. Finn tittelen via et av søkene over, eller gjett
+den:
+
+* `en.wikipedia.org` – også årssidene, men de er tynne: sida for 2019 har
+  verken Disney+, prins Archie eller «Game of Thrones».
+* `de.wikipedia.org` – artiklene lar seg hente (`/wiki/<Tittel>`), men
+  `/w/api.php` er cache-only.
+* `britannica.com` – full artikkeltekst, ingen paywall på det som er prøvd.
+* `plato.stanford.edu` – Stanford Encyclopedia of Philosophy. Signert og
+  datert; idéhistorie og vitenskapsfilosofi.
+* `deutsche-biographie.de` – NDB/ADB, tyske biografier med presise datoer.
+  Adressen har formen `gnd<nummer>.html`.
+* `nobelprize.org` – offisielle prisbegrunnelser, ordrett.
+* Institusjoners, museers og bedrifters egne sider. Uten søk er de vanskelige å
+  treffe blindt – fire gjettede adresser hos Vasamuseet og Historiska museet ga
+  404 i samme økt.
+
+### Virker ikke
+
+* `no.wikipedia.org`, `sv.wikipedia.org` og `fr.wikipedia.org` er cache-only.
+  Hvilke språkutgaver som er åpne, er vilkårlig: tysk går, fransk ikke.
+* `WebSearch` gir HTTP 403.
+* Wikidata og runeberg.org er sperret. Svenskt biografiskt lexikon
+  (`sok.riksarkivet.se`) avvises av robots.txt.
+* `ne.se` svarer med intern feil, og `svenska.se` returnerer et tomt søkeskall.
+* `tv2.no` svarer, men med innhold fra 2016, og skal ikke brukes.
+
+Verts-listene i `SOURCE_HOSTS_KNOWN` og `SOURCE_HOSTS_BLOCKED` i
+`shared/types.ts` speiler dette, og styrer hva validatoren sier om en
+`verifiedUrl`.
 
 **Konsekvens for den svenske kvoten.** Flere skrivere har bommet på de fire
 svenske spørsmålene per nivå fordi de valgte emner som bare finnes på svensk
-Wikipedia. Løsningen er ikke å droppe kvoten, men å velge svenske emner som er
-kjente nok til å stå i Store norske leksikon eller på engelsk Wikipedia: ABBA,
+Wikipedia. Løsningen er ikke å droppe kvoten, men å lete i `skbl.se` – som er
+svensk og har søk – eller å velge svenske emner som er kjente nok til å stå i
+Store norske leksikon, i `lex.dk` eller på engelsk Wikipedia: ABBA,
 IKEA, Vasaloppet, Systembolaget, Nobel, Astrid Lindgren, Ingmar Bergman, Volvo,
 Saab, Zlatan, Greta Garbo, Carl von Linné, Alfred Nobel, Stockholms slott,
 Gustav Vasa, Dalahästen, Midsommar, Lucia, Pippi, Emil i Lönneberga, Björn Borg,

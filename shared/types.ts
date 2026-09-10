@@ -159,19 +159,43 @@ export interface OnThisDay {
  * utenfor lista fortjener et blikk til, og validatoren sier fra.
  */
 export const SOURCE_HOSTS_KNOWN = [
+  // Leksikon med søke-endepunkt – de eneste man kan lete i uten WebSearch.
   'snl.no',
   'sml.snl.no',
   'nbl.snl.no',
   'nkl.snl.no',
+  'lex.dk',
+  'trap.lex.dk',
+  'denstoredanske.lex.dk',
+  'skbl.se',
+  // Hentbare, men uten søk: adressen må være kjent på forhånd.
   'en.wikipedia.org',
+  'de.wikipedia.org',
+  'britannica.com',
+  'www.britannica.com',
+  'plato.stanford.edu',
+  'deutsche-biographie.de',
+  'www.deutsche-biographie.de',
+  'nobelprize.org',
+  'www.nobelprize.org',
 ] as const
 
 /**
- * Verter en kontroll aldri kan lene seg på. `no.wikipedia.org` og
- * `sv.wikipedia.org` er cache-only herfra og kan ikke hentes; `tv2.no` svarer
- * med innhold fra 2016. En `verifiedUrl` hit betyr at ingen faktisk leste den.
+ * Verter en kontroll aldri kan lene seg på. `no.`, `sv.` og `fr.wikipedia.org`
+ * er cache-only herfra og kan ikke hentes (tysk utgave går fint, se
+ * SOURCE_HOSTS_KNOWN); `sok.riksarkivet.se` avvises av robots.txt; `tv2.no`
+ * svarer med innhold fra 2016. En `verifiedUrl` hit betyr at ingen faktisk
+ * leste den.
  */
-export const SOURCE_HOSTS_BLOCKED = ['no.wikipedia.org', 'sv.wikipedia.org', 'tv2.no', 'www.wikidata.org', 'wikidata.org'] as const
+export const SOURCE_HOSTS_BLOCKED = [
+  'no.wikipedia.org',
+  'sv.wikipedia.org',
+  'fr.wikipedia.org',
+  'sok.riksarkivet.se',
+  'tv2.no',
+  'www.wikidata.org',
+  'wikidata.org',
+] as const
 
 /** Hvor lenge en kontroll står seg før spørsmålet skal ses på igjen. */
 export const VERIFY_STALE_MONTHS = 12
