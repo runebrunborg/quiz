@@ -182,6 +182,60 @@ Verts-listene i `SOURCE_HOSTS_KNOWN` og `SOURCE_HOSTS_BLOCKED` i
 `shared/types.ts` speiler dette, og styrer hva validatoren sier om en
 `verifiedUrl`.
 
+### Eskaleringsstigen
+
+At SNL ikke har emnet, er **ikke** grunn til å bytte emne. Kravet er en troverdig
+kilde, ikke en bestemt kilde. Gå nedover stigen, og bytt emne først når alle fem
+trinnene er prøvd:
+
+1. **SNL-familien** – `snl.no`, `sml.snl.no`, `nbl.snl.no`, `nkl.snl.no`.
+2. **De andre med søk** – `lex.dk` for nordisk og internasjonalt stoff,
+   `skbl.se` for svenske kvinnebiografier.
+3. **De hentbare uten søk** – `en.` og `de.wikipedia.org`, `britannica.com`,
+   `plato.stanford.edu`, `deutsche-biographie.de`, `nobelprize.org`.
+4. **Institusjonen selv** – museet som eier verket, universitetet, etaten,
+   selskapet. Dette er ofte den *beste* kilden, ikke den siste utveien:
+   Munchs «Natt i Saint-Cloud» finnes verken i SNL eller på engelsk Wikipedia
+   (artikkelsida er cache-only), men Nasjonalmuseets egen objektside har tittel,
+   år, mål, teknikk og tilblivelse.
+5. **Referansen en oppslagsartikkel peker på** – se neste avsnitt.
+
+To emner ble forkastet 10. september etter bare trinn 1. Begge lot seg belegge
+på trinn 3 dagen etter: Kirunas mørketid (11. desember–1. januar, 22 døgn) og
+Pullmans sovevogner (George Pullman, Chicago, 1862). Det er den feilen stigen
+finnes for å hindre.
+
+### Wikipedia som inngang, ikke som fasit
+
+Wikipedia er greit for ukontroversielle fakta, men er et andrehåndsledd. Står
+det en referanse under påstanden, er den referansen den bedre kilden – og den
+skal da stå i `source`.
+
+**Men bare hvis du faktisk henter den.** Å føre opp en referanse du har sett i
+litteraturlista uten å ha åpnet den, er samme feil som en `verifiedAt` uten
+`verifiedUrl`: en påstand om at noen har sett etter. Klarer du ikke å hente den,
+har du to lovlige utveier – la Wikipedia stå som kilden for et ukontroversielt
+faktum, eller fjern detaljen.
+
+Praktisk: kryssvert-omdirigeringer følges ikke automatisk. En `doi.org`-lenke
+svarer med 302 og den virkelige adressen; hent den i et nytt kall.
+
+### Tre regler som gjelder uansett hvor du er på stigen
+
+* **Kontrollen er per faktum, ikke per emne.** Ett spørsmål kan hente årstallet
+  fra én kilde og koblingen fra en annen – Celsius-spørsmålet i `sol` står på
+  «Anders Celsius» og «nordlys», og `source` navngir begge, skilt med semikolon.
+* **Sier kilden nei, er svaret nei.** Da byttes emnet, uansett hvor mange trinn
+  som gjenstår. Birkebeinerferden ble strøket fordi SNL uttrykkelig sier at
+  skituren over fjellet er Bergsliens maleri fra 1869 og ikke det kildene
+  forteller. Å lete videre til noen skriver det man ønsket, er kildeshopping.
+* **Er du i tvil om en detalj, fjernes detaljen.** Ikke spørsmålet – detaljen.
+  Krav 1 øverst i denne fila gjelder foran alt annet på denne stigen.
+
+En `verifiedUrl` til en institusjon gir «ukjent vert»-advarsel fra validatoren.
+Det er med vilje: lista over kjente verter kan ikke romme hvert museum, og en
+advarsel er ikke en feil.
+
 **Konsekvens for den svenske kvoten.** Flere skrivere har bommet på de fire
 svenske spørsmålene per nivå fordi de valgte emner som bare finnes på svensk
 Wikipedia. Løsningen er ikke å droppe kvoten, men å lete i `skbl.se` – som er
