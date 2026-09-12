@@ -1,0 +1,272 @@
+[
+  {
+    "id": "sjomat-l-01",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fisken sløyes og flekkes langs ryggbeinet og henges på hjell i to til fire måneder, til vind og kulde har trukket vannet ut. På 1300-tallet utgjorde varen over 80 prosent av Norges eksport. Hva kalles den?",
+      "sv": "Fisken rensas och fläks längs ryggbenet och hängs på hjällar i två till fyra månader, tills vind och kyla dragit ut vattnet. På 1300-talet utgjorde varan över 80 procent av Norges export. Vad kallas den?"
+    },
+    "answer": {
+      "nb": "Tørrfisk",
+      "sv": "Torrfisk"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hanseatene i Bergen hadde hånd om eksporten fra 1300 til 1754.",
+      "sv": "Hanseaterna i Bergen hade hand om exporten från 1300 till 1754."
+    },
+    "funFact": {
+      "nb": "Melkesyrebakterier arbeider mens fisken tørker og gir smaken. Henger den bare et par uker, blir det boknafisk i stedet.",
+      "sv": "Mjölksyrabakterier arbetar medan fisken torkar och ger smaken. Hänger den bara ett par veckor blir det boknafisk i stället."
+    },
+    "source": "Store norske leksikon – «tørrfisk»"
+  },
+  {
+    "id": "sjomat-l-02",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Denne torsken vokser opp i Barentshavet og vandrer hver vinter sørover til kysten for å gyte, med hovedtyngden i Lofoten og Vesterålen. Fisket varer fra januar til april og har gitt rikdom og bosetning langs kysten i all tid. Hva kalles den?",
+      "sv": "Denna torsk växer upp i Barents hav och vandrar varje vinter söderut till kusten för att leka, med tyngdpunkten i Lofoten och Vesterålen. Fisket varar från januari till april och har gett rikedom och bosättning längs kusten i alla tider. Vad kallas den?"
+    },
+    "answer": {
+      "nb": "Skrei",
+      "sv": "Skrei"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av et norrønt ord for å skride fram.",
+      "sv": "Namnet kommer av ett fornnordiskt ord för att skrida fram."
+    },
+    "funFact": {
+      "nb": "Ordet kommer av norrønt «skreið». Bestanden kalles den norsk-arktiske torskestammen, og gytingen skjer langs kysten fra Haugesund til Sørøya i Finnmark.",
+      "sv": "Ordet kommer av fornnordiska «skreið». Beståndet kallas den norsk-arktiska torskstammen, och leken sker längs kusten från Haugesund till Sørøya i Finnmark."
+    },
+    "source": "Store norske leksikon – «skrei»"
+  },
+  {
+    "id": "sjomat-l-03",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Nederlenderen Jappe Ippes fikk i 1691 kongelig privilegium til å lage og selge saltet og tørket torsk fra Fosna. Stedet skiftet siden navn, og ble hovedstaden for denne varen i Norge. Hvilken by er det?",
+      "sv": "Nederländaren Jappe Ippes fick 1691 kungligt privilegium att tillverka och sälja saltad och torkad torsk från Fosna. Platsen bytte sedan namn och blev huvudstaden för denna vara i Norge. Vilken stad är det?"
+    },
+    "answer": {
+      "nb": "Kristiansund",
+      "sv": "Kristiansund"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Byen ligger på Nordmøre, og varen kalles klippfisk.",
+      "sv": "Staden ligger på Nordmøre, och varan kallas klippfisk."
+    },
+    "funFact": {
+      "nb": "Klippfisk saltes i tre til fire uker før tørking og krever mye salt. Derfor kom metoden sent, da billig importsalt ble tilgjengelig på 1700-tallet.",
+      "sv": "Klippfisk saltas i tre till fyra veckor före torkning och kräver mycket salt. Därför kom metoden sent, när billigt importsalt blev tillgängligt på 1700-talet."
+    },
+    "source": "Store norske leksikon – «klippfisk»"
+  },
+  {
+    "id": "sjomat-l-04",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Retten består av shari – kokt ris tilsatt risvineddik, sukker og salt – kombinert med neta, som ofte er rå fisk og annen sjømat. Nigiri, maki og temaki er noen av formene den lages i. Hva heter retten?",
+      "sv": "Rätten består av shari – kokt ris tillsatt risvinäger, socker och salt – kombinerat med neta, som ofta är rå fisk och andra havsprodukter. Nigiri, maki och temaki är några av formerna den görs i. Vad heter rätten?"
+    },
+    "answer": {
+      "nb": "Sushi",
+      "sv": "Sushi"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Nori er navnet på sjøalgearket som holder rullene sammen.",
+      "sv": "Nori är namnet på sjöalgsarket som håller rullarna samman."
+    },
+    "funFact": {
+      "nb": "Risvineddiken kom inn i Muromachi-perioden, 1336–1573, og forlenget holdbarheten så gjæringen kunne droppes. Det ga opphavet til nigirizushi.",
+      "sv": "Risvinägern kom in under Muromachiperioden, 1336–1573, och förlängde hållbarheten så att jäsningen kunde slopas. Det gav upphov till nigirizushi."
+    },
+    "source": "Store norske leksikon – «sushi»"
+  },
+  {
+    "id": "sjomat-l-05",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Skjellet er skjevt: den ene halvdelen er skålformet og sitter fast på underlaget, den andre ligger over som et flatere lokk. Dyret lever av å filtrere planteplankton fra vannet, og har vært dyrket siden romertiden. Hva heter det?",
+      "sv": "Skalet är skevt: den ena halvan är skålformad och sitter fast på underlaget, den andra ligger över som ett plattare lock. Djuret lever av att filtrera växtplankton ur vattnet och har odlats sedan romartiden. Vad heter det?"
+    },
+    "answer": {
+      "nb": "Østers",
+      "sv": "Ostron"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den europeiske arten heter Ostrea edulis og finnes nordover til Trøndelag.",
+      "sv": "Den europeiska arten heter Ostrea edulis och finns norrut till Trøndelag."
+    },
+    "funFact": {
+      "nb": "Stillehavsarten Crassostrea gigas ble innført fra Canada til Nederland på 1960-tallet og har spredt seg langs norskekysten. Dyrking krever 20–25 grader i bassengene.",
+      "sv": "Stillahavsarten Crassostrea gigas infördes från Kanada till Nederländerna på 1960-talet och har spridit sig längs norska kusten. Odling kräver 20–25 grader i bassängerna."
+    },
+    "source": "Store norske leksikon – «østers»"
+  },
+  {
+    "id": "sjomat-l-06",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Fet fisk, tran og mikroalger inneholder umettede fettsyrer som kroppen ikke klarer å lage selv, og som inngår i betennelsesdempende stoffer. EPA og DHA er de viktigste av dem. Hva kalles denne gruppen fettsyrer?",
+      "sv": "Fet fisk, tran och mikroalger innehåller omättade fettsyror som kroppen inte klarar av att bilda själv och som ingår i inflammationsdämpande ämnen. EPA och DHA är de viktigaste av dem. Vad kallas denna grupp fettsyror?"
+    },
+    "answer": {
+      "nb": "Omega-3-fettsyrer",
+      "sv": "Omega-3-fettsyror"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet viser hvor i karbonkjeden den siste dobbeltbindingen sitter, regnet fra metylenden.",
+      "sv": "Namnet visar var i kolkedjan den sista dubbelbindningen sitter, räknat från metyländen."
+    },
+    "funFact": {
+      "nb": "De antas å forebygge hjerte- og karsykdom og er gunstige for immunforsvaret. De brukes også ved leddgikt, migrene og psoriasis.",
+      "sv": "De antas förebygga hjärt- och kärlsjukdom och är gynnsamma för immunförsvaret. De används också vid ledgångsreumatism, migrän och psoriasis."
+    },
+    "source": "Store medisinske leksikon – «omega-3-fettsyrer»"
+  },
+  {
+    "id": "sjomat-l-07",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1432 forliste en kjøpmann ved Røst i Lofoten, ble vinteren over hos fiskerne og skrev etterpå ned hvordan de tørket fisken. Kokken Bartolomeo Scappi anbefalte den samme varen i kokeboka si i 1570. Hvilket land kom begge fra?",
+      "sv": "År 1432 förliste en köpman vid Røst i Lofoten, blev kvar vintern över hos fiskarna och skrev sedan ner hur de torkade fisken. Kocken Bartolomeo Scappi rekommenderade samma vara i sin kokbok 1570. Vilket land kom båda från?"
+    },
+    "answer": {
+      "nb": "Italia",
+      "sv": "Italien"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Kjøpmannen het Pietro Querini.",
+      "sv": "Köpmannen hette Pietro Querini."
+    },
+    "funFact": {
+      "nb": "Querini forliste med skipet sitt og kom seg i land på Røst. Scappi ga ut kokeboka si nesten halvannet hundre år senere.",
+      "sv": "Querini förliste med sitt skepp och kom i land på Røst. Scappi gav ut sin kokbok nästan halvtannat hundra år senare."
+    },
+    "source": "Store norske leksikon – «tørrfisk»"
+  },
+  {
+    "id": "sjomat-l-08",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Saltmodnet og tørket torsk er hovedingrediensen i en rett som bærer det spanske og portugisiske navnet på selve fisken. I Norge er den kjent som en gryte med tomat, paprika og olivenolje. Hva heter retten?",
+      "sv": "Saltmognad och torkad torsk är huvudingrediensen i en rätt som bär det spanska och portugisiska namnet på själva fisken. I Norge är den känd som en gryta med tomat, paprika och olivolja. Vad heter rätten?"
+    },
+    "answer": {
+      "nb": "Bacalao",
+      "sv": "Bacalao"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De katolske landene var hovedmarkedet, fordi de spiste fisk i fastetiden.",
+      "sv": "De katolska länderna var huvudmarknaden, eftersom de åt fisk i fastetiden."
+    },
+    "funFact": {
+      "nb": "I dag tørkes råvaren i oppvarmede kanaler, ikke på klippene slik navnet på den norske varen forteller.",
+      "sv": "I dag torkas råvaran i uppvärmda kanaler, inte på klipporna som namnet på den norska varan berättar."
+    },
+    "source": "Store norske leksikon – «klippfisk»"
+  },
+  {
+    "id": "sjomat-l-09",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "mat-og-drikke"
+    ],
+    "prompt": {
+      "nb": "Østersjøsild saltes lett og gjæres i åtte uker ved 15–17 grader. Fram til 1998 var det ikke lov å selge varen før tredje torsdag i august. Den spises kald med løk, dill, tomat og potet eller brød. Hva heter den?",
+      "sv": "Östersjösill saltas lätt och jäser i åtta veckor vid 15–17 grader. Fram till 1998 fick varan inte säljas före tredje torsdagen i augusti. Den äts kall med lök, dill, tomat och potatis eller bröd. Vad heter den?"
+    },
+    "answer": {
+      "nb": "Surstrømming",
+      "sv": "Surströmming"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den kommer fra Ulvön ved Örnsköldsvik.",
+      "sv": "Den kommer från Ulvön vid Örnsköldsvik."
+    },
+    "funFact": {
+      "nb": "Skikken oppsto av nød: fiskerne fikk for mye sild og hadde for lite salt, og gjæringen som fulgte viste seg å smake godt.",
+      "sv": "Seden uppstod av nöd: fiskarna fick för mycket sill och hade för lite salt, och jäsningen som följde visade sig smaka gott."
+    },
+    "source": "Store norske leksikon – «surstrømming»"
+  },
+  {
+    "id": "sjomat-l-10",
+    "category": "sjomat",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "I august samles svensker rundt bord med papirhatter, papirlykter med mannen i månen, og smekker om halsen. Maten kokes i saltvann med kronedill og spises kald med fingrene, til snaps og øl. Hva kalles festen?",
+      "sv": "I augusti samlas svenskar kring bord med pappershattar, papperslyktor med gubben i månen och haklappar. Maten kokas i saltvatten med kronärtdill och äts kall med fingrarna, till snaps och öl. Vad kallas festen?"
+    },
+    "answer": {
+      "nb": "Kräftskiva",
+      "sv": "Kräftskiva"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det som spises, er ferskvannskreps.",
+      "sv": "Det som äts är sötvattenskräftor."
+    },
+    "funFact": {
+      "nb": "Tidspunktet henger igjen fra at krepsefisket i Sverige det meste av 1900-tallet var lovregulert til sensommeren. Premieredatoen i august har ingen rettslig betydning i dag.",
+      "sv": "Tidpunkten hänger kvar från att kräftfisket i Sverige under större delen av 1900-talet var lagreglerat till sensommaren. Premiärdatumet i augusti har ingen rättslig betydelse i dag."
+    },
+    "source": "Wikipedia (engelsk) – «Crayfish party»"
+  }
+]

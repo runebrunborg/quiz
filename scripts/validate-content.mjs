@@ -78,6 +78,7 @@ const ANCHORS = {
   vest: ['vest', 'vesten', 'väst', 'västen', 'west', 'westen', 'ouest'],
   // Navnetema: ankeret er navnet selv, i begge ledd og samlet.
   jens: ['jens', 'evensen', 'jens evensen'],
+  sjomat: ['sjømat', 'sjomat', 'sjömat', 'seafood', 'fisk', 'fisken', 'skaldjur'],
 }
 
 /**

@@ -896,6 +896,33 @@ const scenes: Record<string, () => ReactElement> = {
       </g>
     </Frame>
   ),
+
+  /* ---------------------------------------------------------------- Sjømat */
+  sjomat: () => (
+    <Frame id="s-sjomat" sky={['#0B6E72', '#03212B']}>
+      <circle cx="66" cy="52" r="22" fill="#FFE9A8" opacity="0.45" />
+      {/* Lav odde i bakgrunnen, saa fisken har et hav aa vaere i. */}
+      <path d="M-10 150c40-8 70-22 104-20 26 2 44 10 66 14v24H-10z" fill="#0A3C46" opacity="0.9" />
+      {/* Fisken: kropp, skyggeside, hale, ryggfinne og oeye. */}
+      <g>
+        <path d="M150 112c18-26 58-40 96-32 28 6 48 20 58 32-10 12-30 26-58 32-38 8-78-6-96-32z" fill="#FF7FB5" />
+        <path d="M162 122c22 16 58 24 96 18 18-3 32-9 42-15-10 12-30 24-56 30-38 8-78-6-96-32z" fill="#E8558F" />
+        <path d="M304 92l32-20-8 40 8 40-32-20z" fill="#FF7FB5" />
+        <path d="M214 82c14-10 28-13 40-11l-10 15z" fill="#E8558F" />
+        <circle cx="180" cy="104" r="5" fill="#06232B" />
+      </g>
+      {/* Kamskjell paa bunnlinja, utenfor tittelsonen. */}
+      <path d="M248 182c0-18 13-30 28-30s28 12 28 30z" fill="#FFE9A8" opacity="0.92" />
+      <g stroke="#0B6E72" strokeWidth="2" opacity="0.6">
+        <path d="M262 182l6-26M276 182v-28M290 182l-6-26" />
+      </g>
+      <path d="M-10 186h420v90H-10z" fill="#062A33" />
+      <g className="sc-svai" style={{ animationDuration: '24s' }}>
+        <path d="M-14 192c46 12 92 12 138 0s92-12 138 0 92 12 148 0v24H-14z" fill="#0E7C82" opacity="0.6" />
+        <path d="M-14 210c40 10 80 10 120 0s80-10 120 0 80 10 140 0v22H-14z" fill="#18A0A6" opacity="0.35" />
+      </g>
+    </Frame>
+  ),
 }
 
 export function ThemeScene({ scene }: { scene: string }) {
