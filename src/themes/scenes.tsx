@@ -863,6 +863,39 @@ const scenes: Record<string, () => ReactElement> = {
       <path d="M0 250h400v10H0z" fill="#0B1430" opacity="0.7" />
     </Frame>
   ),
+
+  /* --------------------------------------------------------- Jens Evensen */
+  jens: () => (
+    <Frame id="s-jens" sky={['#0E4B7A', '#03172B']}>
+      <circle cx="330" cy="52" r="24" fill="#FFD98A" opacity="0.55" />
+      {/* Kystlinje til venstre, saa havet begynner et sted. */}
+      <path d="M-10 128c30-6 58-14 88-12 22 2 34 8 52 10v16H-10z" fill="#05233B" />
+      <path d="M-10 140h420v128H-10z" fill="#0A2E4C" />
+      {/* Grenselinja: stiplet skille trukket tvers over havet, med to vimpler. */}
+      <g stroke="#FFE9A8" strokeWidth="3.5" strokeLinecap="round" opacity="0.95">
+        <path d="M196 104h16M224 104h16M252 104h16M280 104h16M308 104h16M336 104h16M364 104h14" />
+      </g>
+      <g fill="#FFE9A8" opacity="0.95">
+        <rect x="190" y="70" width="4" height="38" rx="2" />
+        <rect x="352" y="74" width="4" height="34" rx="2" />
+      </g>
+      <g fill="#FF2D8E">
+        <path d="M194 72l28 9-28 9z" />
+        <path d="M356 76l24 8-24 8z" />
+      </g>
+      {/* Fiskebaat paa innsiden av linja, godt over tittelsonen. */}
+      <g fill="#071B2E">
+        <path d="M96 128h84l-12 20H108z" />
+        <path d="M124 96h9v32h-9z" />
+      </g>
+      <path d="M133 98h32l-32 15z" fill="#8FC4FF" />
+      {/* Havflaten: to doenninger som glir sakte sidelengs. */}
+      <g className="sc-svai" style={{ animationDuration: '28s' }}>
+        <path d="M-14 148c46 12 92 12 138 0s92-12 138 0 92 12 148 0v26H-14z" fill="#12628F" opacity="0.7" />
+        <path d="M-14 172c40 10 80 10 120 0s80-10 120 0 80 10 140 0v24H-14z" fill="#1B7FB0" opacity="0.4" />
+      </g>
+    </Frame>
+  ),
 }
 
 export function ThemeScene({ scene }: { scene: string }) {

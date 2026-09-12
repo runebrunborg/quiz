@@ -1,0 +1,279 @@
+[
+  {
+    "id": "jens-l-01",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Han ble født i 1959, var norsk statsminister i to perioder, fra 2000 til 2001 og fra 2005 til 2013, og ledet deretter NATO fra 2014 til 2024. Fra februar 2025 er han finansminister. Hva heter han?",
+      "sv": "Han föddes 1959, var Norges statsminister i två perioder, 2000–2001 och 2005–2013, och ledde därefter Nato från 2014 till 2024. Sedan februari 2025 är han finansminister. Vad heter han?"
+    },
+    "answer": "Jens Stoltenberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Jens",
+      "family": "Stoltenberg"
+    },
+    "hint": {
+      "nb": "Han deler fornavn med mannen temaet er oppkalt etter.",
+      "sv": "Han delar förnamn med mannen temat är uppkallat efter."
+    },
+    "funFact": {
+      "nb": "NATO-perioden ble forlenget flere ganger, til slutt på grunn av krigen i Ukraina, og varte i ti år.",
+      "sv": "Natoperioden förlängdes flera gånger, till sist på grund av kriget i Ukraina, och varade i tio år."
+    },
+    "source": "Store norske leksikon – «Jens Stoltenberg»"
+  },
+  {
+    "id": "jens-l-02",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fra 1972 var han personlig sekretær for mannen temaet er oppkalt etter, og fulgte ham videre som statssekretær. 20. januar 1984 ble han pågrepet på vei til et møte i Wien, og året etter dømt til tjue års fengsel for spionasje. Hvem?",
+      "sv": "Från 1972 var han personlig sekreterare åt mannen temat är uppkallat efter och följde honom vidare som statssekreterare. Den 20 januari 1984 greps han på väg till ett möte i Wien, och året därpå dömdes han till tjugo års fängelse för spioneri. Vem?"
+    },
+    "answer": "Arne Treholt",
+    "answerKind": "person",
+    "person": {
+      "given": "Arne",
+      "family": "Treholt"
+    },
+    "hint": {
+      "nb": "Han ble benådet av regjeringen sommeren 1992, og levde siden i Russland og på Kypros.",
+      "sv": "Han benådades av regeringen sommaren 1992 och levde sedan i Ryssland och på Cypern."
+    },
+    "funFact": {
+      "nb": "Han var den første nordmannen som ble dømt for politisk spionasje. Dommen falt i Eidsivating lagmannsrett 20. juni 1985 og gjaldt spionasje for både Sovjetunionen og Irak.",
+      "sv": "Han var den förste norrman som dömdes för politiskt spioneri. Domen föll i Eidsivating lagmannsrett den 20 juni 1985 och gällde spioneri för både Sovjetunionen och Irak."
+    },
+    "source": "Store norske leksikon – «Arne Treholt»"
+  },
+  {
+    "id": "jens-l-03",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Som Norges første havrettsminister forhandlet han fram en omstridt avtale med Sovjetunionen om et omtvistet fiskeområde i nord, den såkalte gråsonen. I hvilket hav ligger dette området?",
+      "sv": "Som Norges första havsrättsminister förhandlade han fram ett omstritt avtal med Sovjetunionen om ett omtvistat fiskeområde i norr, den så kallade gråzonen. I vilket hav ligger detta område?"
+    },
+    "answer": {
+      "nb": "Barentshavet",
+      "sv": "Barents hav"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Havet ligger nord for Finnmark, mellom fastlandet og Svalbard.",
+      "sv": "Havet ligger norr om Finnmark, mellan fastlandet och Svalbard."
+    },
+    "funFact": {
+      "nb": "Gråsoneavtalen var blant de mest omstridte sakene i hans tid som statsråd. Han satt som havrettsminister fra 1974 til 1979, etter et år som handelsminister.",
+      "sv": "Gråzonsavtalet var bland de mest omstridda frågorna under hans tid som statsråd. Han satt som havsrättsminister från 1974 till 1979, efter ett år som handelsminister."
+    },
+    "source": "Store norske leksikon – «Jens Evensen»"
+  },
+  {
+    "id": "jens-l-04",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Navnet på temaet rommer det engelske ordet for «partall». Blant alle partall finnes det bare ett som også hører til en annen berømt tallklasse – den Euklid beviste var uendelig stor allerede i «Elementa». Hvilken tallklasse?",
+      "sv": "Namnet på temat rymmer det engelska ordet för «jämnt tal». Bland alla jämna tal finns bara ett som också hör till en annan berömd talklass – den Euklides bevisade var oändligt stor redan i «Elementa». Vilken talklass?"
+    },
+    "answer": {
+      "nb": "Primtall",
+      "sv": "Primtal"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tallet det gjelder, er det aller minste i klassen.",
+      "sv": "Talet det gäller är det allra minsta i klassen."
+    },
+    "funFact": {
+      "nb": "Alle andre tall i klassen er oddetall. Tallet 1 regnes ikke med, siden definisjonen krever tall større enn eller lik 2.",
+      "sv": "Alla andra tal i klassen är udda. Talet 1 räknas inte med, eftersom definitionen kräver tal större än eller lika med 2."
+    },
+    "source": "Store norske leksikon – «primtall»"
+  },
+  {
+    "id": "jens-l-05",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Etter årene som statsråd og folkerettsrådgiver ble han i 1985 utnevnt av FNs generalforsamling til dommer ved Den internasjonale domstolen, der han satt til 1994. I hvilken nederlandsk by ligger domstolen?",
+      "sv": "Efter åren som statsråd och folkrättsrådgivare utsågs han 1985 av FN:s generalförsamling till domare vid Internationella domstolen, där han satt till 1994. I vilken nederländsk stad ligger domstolen?"
+    },
+    "answer": {
+      "nb": "Haag",
+      "sv": "Haag"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Domstolen er FNs øverste rettsinstans mellom stater, og byen er ikke Amsterdam.",
+      "sv": "Domstolen är FN:s högsta rättsinstans mellan stater, och staden är inte Amsterdam."
+    },
+    "funFact": {
+      "nb": "Han var ambassadør og folkerettsrådgiver fra 1979 til 1985, og satt deretter som dommer i Haag i ni år.",
+      "sv": "Han var ambassadör och folkrättsrådgivare från 1979 till 1985 och satt därefter som domare i Haag i nio år."
+    },
+    "source": "Store norske leksikon – «Jens Evensen»"
+  },
+  {
+    "id": "jens-l-06",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Etternavnet i temaet er et patronym, dannet av farens fornavn pluss ordet for sønn. Ett land i Europa bruker fortsatt dette som vanlig system, med endelsene -son og -dóttir, og fører til og med telefonkatalogen på fornavn. Hvilket land?",
+      "sv": "Efternamnet i temat är ett patronymikon, bildat av faderns förnamn plus ordet för son. Ett land i Europa använder fortfarande detta som vanligt system, med ändelserna -son och -dóttir, och för till och med telefonkatalogen på förnamn. Vilket land?"
+    },
+    "answer": {
+      "nb": "Island",
+      "sv": "Island"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Nye fornavn må godkjennes av en egen navnenemnd i landet.",
+      "sv": "Nya förnamn måste godkännas av en särskild namnnämnd i landet."
+    },
+    "funFact": {
+      "nb": "Systemet gjør at mor, far og barn sjelden deler etternavn. Navnenemnda krever at nye navn lar seg bøye i språket og skrives med landets eget alfabet.",
+      "sv": "Systemet gör att mor, far och barn sällan delar efternamn. Namnnämnden kräver att nya namn går att böja i språket och skrivs med landets eget alfabet."
+    },
+    "source": "Store norske leksikon – «patronymikon»; Wikipedia (engelsk) – «Icelandic name»"
+  },
+  {
+    "id": "jens-l-07",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Etter mer enn fjorten år med forhandlinger, der mannen temaet er oppkalt etter ledet den norske delegasjonen, ble avtalen undertegnet 10. desember 1982. Den har 320 artikler, kalles «havets grunnlov» og trådte i kraft i 1994. Hva heter den?",
+      "sv": "Efter mer än fjorton år av förhandlingar, där mannen temat är uppkallat efter ledde den norska delegationen, undertecknades avtalet den 10 december 1982. Det har 320 artiklar, kallas «havets grundlag» och trädde i kraft 1994. Vad heter det?"
+    },
+    "answer": {
+      "nb": "Havrettskonvensjonen",
+      "sv": "Havsrättskonventionen"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Norge sluttet seg til i 1996; USA har fortsatt ikke gjort det.",
+      "sv": "Norge anslöt sig 1996; USA har fortfarande inte gjort det."
+    },
+    "funFact": {
+      "nb": "Den har 320 artikler i 18 deler pluss ni vedlegg, og regulerer territorialfarvann, økonomiske soner, kontinentalsokkel og åpent hav. 168 stater er part.",
+      "sv": "Den har 320 artiklar i 18 delar plus nio bilagor och reglerar territorialvatten, ekonomiska zoner, kontinentalsockel och öppet hav. 168 stater är part."
+    },
+    "source": "Store norske leksikon – «havrettskonvensjonen»"
+  },
+  {
+    "id": "jens-l-08",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Han ledet den norske delegasjonen og var visepresident på FNs tredje havrettskonferanse, der han var med på å forme regelen om at kyststaten rår over fisk og olje ut til 200 nautiske mil. Hva kalles et slikt havområde?",
+      "sv": "Han ledde den norska delegationen och var vicepresident på FN:s tredje havsrättskonferens, där han var med och formade regeln om att kuststaten råder över fisk och olja ut till 200 nautiska mil. Vad kallas ett sådant havsområde?"
+    },
+    "answer": {
+      "nb": "Økonomisk sone",
+      "sv": "Ekonomisk zon"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "I traktatspråket står det «eksklusiv» foran navnet.",
+      "sv": "I traktatspråket står det «exklusiv» framför namnet."
+    },
+    "funFact": {
+      "nb": "Han ledet «Evensen-gruppen» under konferansen, som varte fra 1973 til 1982 og la grunnlaget både for soneregelen og for reglene om kontinentalsokkelen.",
+      "sv": "Han ledde «Evensen-gruppen» under konferensen, som varade från 1973 till 1982 och lade grunden både för zonregeln och för reglerna om kontinentalsockeln."
+    },
+    "source": "Store norske leksikon – «Jens Evensen» og «havrettskonvensjonen»"
+  },
+  {
+    "id": "jens-l-09",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Den svenske juristen og diplomaten var utenriksminister i 1978–1979, ledet Det internasjonale atomenergibyrået i Wien fra 1981 til 1997, og sto i spissen for FNs våpeninspeksjoner i Irak fram til invasjonen i 2003. Hvem?",
+      "sv": "Den svenske juristen och diplomaten var utrikesminister 1978–1979, ledde Internationella atomenergiorganet i Wien från 1981 till 1997 och stod i spetsen för FN:s vapeninspektioner i Irak fram till invasionen 2003. Vem?"
+    },
+    "answer": "Hans Blix",
+    "answerKind": "person",
+    "person": {
+      "given": "Hans",
+      "family": "Blix"
+    },
+    "hint": {
+      "nb": "Han kritiserte den USA-ledede invasjonen og ga ut bok om saken i 2004.",
+      "sv": "Han kritiserade den USA-ledda invasionen och gav ut en bok om saken 2004."
+    },
+    "funFact": {
+      "nb": "Han ledet også kommisjonen for masseødeleggelsesvåpen fra 2004 til 2006, og var statssekretær i det svenske utenriksdepartementet både før og etter ministerposten.",
+      "sv": "Han ledde också kommissionen för massförstörelsevapen från 2004 till 2006 och var statssekreterare i det svenska utrikesdepartementet både före och efter ministerposten."
+    },
+    "source": "Store norske leksikon – «Hans Blix»"
+  },
+  {
+    "id": "jens-l-10",
+    "category": "jens",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Svensken overtok etter Trygve Lie som FNs generalsekretær i mars 1953, og satt til han omkom i en flystyrt nær Ndola i september 1961. Samme år fikk han Nobels fredspris posthumt. Hvem var han?",
+      "sv": "Svensken efterträdde Trygve Lie som FN:s generalsekreterare i mars 1953 och satt till dess han omkom i en flygolycka nära Ndola i september 1961. Samma år fick han Nobels fredspris postumt. Vem var han?"
+    },
+    "answer": {
+      "nb": "Dag Hammarskjöld",
+      "sv": "Dag Hammarskjöld"
+    },
+    "answerKind": "person",
+    "person": {
+      "given": "Dag",
+      "family": "Hammarskjöld"
+    },
+    "hint": {
+      "nb": "Årsaken til styrten er aldri fastslått – ulykke, sabotasje eller angrep.",
+      "sv": "Orsaken till kraschen har aldrig fastställts – olycka, sabotage eller angrepp."
+    },
+    "funFact": {
+      "nb": "Han ble valgt 31. mars 1953 og rakk to perioder før ulykken. Alle om bord mistet livet.",
+      "sv": "Han valdes den 31 mars 1953 och hann med två perioder före olyckan. Alla ombord miste livet."
+    },
+    "source": "Store norske leksikon – «Dag Hammarskjöld»"
+  }
+]

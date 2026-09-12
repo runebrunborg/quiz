@@ -76,6 +76,8 @@ const ANCHORS = {
   natt: ['natt', 'natten', 'natta', 'night', 'the night', 'nacht', 'nuit'],
   hus: ['hus', 'huset', 'house', 'the house', 'haus', 'maison'],
   vest: ['vest', 'vesten', 'väst', 'västen', 'west', 'westen', 'ouest'],
+  // Navnetema: ankeret er navnet selv, i begge ledd og samlet.
+  jens: ['jens', 'evensen', 'jens evensen'],
 }
 
 /**
