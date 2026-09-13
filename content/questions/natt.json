@@ -79,7 +79,17 @@
       "nb": "Verket regnes som det desiderte høydepunktet i den wienerske syngespilltradisjonen, og er blant de mest spilte operaene i verden.",
       "sv": "Verket räknas som den absoluta höjdpunkten i den wienska sångspelstraditionen, och är bland de mest spelade operorna i världen."
     },
-    "source": "Store norske leksikon – «Tryllefløyten»"
+    "source": "Store norske leksikon – «Tryllefløyten»",
+    "onThisDay": [
+      {
+        "day": "09-30",
+        "year": 1791,
+        "prompt": {
+          "nb": "På denne dagen i 1791 hadde et syngespill urpremiere på forstadsteateret Theater auf der Wieden i Wien, med libretto av Emanuel Schikaneder. Der synger en hevngjerrig dronning arien «Der Hölle Rache». Det ble komponistens siste opera. Hvem skrev musikken?",
+          "sv": "På denna dag 1791 hade ett sångspel urpremiär på förstadsteatern Theater auf der Wieden i Wien, med libretto av Emanuel Schikaneder. Där sjunger en hämndlysten drottning arian «Der Hölle Rache». Det blev tonsättarens sista opera. Vem skrev musiken?"
+        }
+      }
+    ]
   },
   {
     "id": "natt-l-04",
@@ -107,7 +117,17 @@
       "nb": "I 2021 viste museet bildet med de bortskårne partiene rekonstruert av et nevralt nettverk, bygget på en kopi fra 1600-tallet. Rekonstruksjonene ble bare vist midlertidig, for at ingen skulle tro de så originalen.",
       "sv": "År 2021 visade museet målningen med de bortskurna partierna rekonstruerade av ett neuralt nätverk, byggt på en kopia från 1600-talet. Rekonstruktionerna visades bara tillfälligt, för att ingen skulle tro att de såg originalet."
     },
-    "source": "en.wikipedia.org – «The Night Watch»; Rijksmuseum – «Operation Night Watch»"
+    "source": "en.wikipedia.org – «The Night Watch»; Rijksmuseum – «Operation Night Watch»",
+    "onThisDay": [
+      {
+        "day": "10-04",
+        "year": 1669,
+        "prompt": {
+          "nb": "På denne dagen i 1669 døde en nederlandsk maler i Amsterdam. Det mest kjente bildet hans, fra 1642, viser et borgerlig skyttergilde under kaptein Frans Banninck Cocq, henger i Rijksmuseum og er kjent som «Nattevakten». Hvem malte det?",
+          "sv": "På denna dag 1669 dog en nederländsk målare i Amsterdam. Hans mest kända tavla, från 1642, visar ett borgerligt skyttegille under kapten Frans Banninck Cocq, hänger på Rijksmuseum och är känd som «Nattvakten». Vem målade den?"
+        }
+      }
+    ]
   },
   {
     "id": "natt-l-05",

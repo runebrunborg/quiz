@@ -75,7 +75,17 @@
       "nb": "Christie hadde selv reist med Orientekspressen, og i februar 1929 ble toget snødd inne i seks dager nær Çerkezköy i Tyrkia. Romanen er filmatisert flere ganger, blant annet i 1974 og 2017.",
       "sv": "Christie hade själv rest med Orientexpressen, och i februari 1929 blev tåget insnöat i sex dagar nära Çerkezköy i Turkiet. Romanen har filmatiserats flera gånger, bland annat 1974 och 2017."
     },
-    "source": "Agatha Christie Ltd.; Encyclopaedia Britannica"
+    "source": "Agatha Christie Ltd.; Encyclopaedia Britannica",
+    "onThisDay": [
+      {
+        "day": "09-15",
+        "year": 1890,
+        "prompt": {
+          "nb": "På denne dagen i 1890 ble Agatha Christie født i Torquay i Devon. I romanen hennes fra 1934 blir et luksustog stående fast i en snøfonn på Balkan, med en drept passasjer bak låst dør og et helt galleri av mistenkte. Hvilken belgisk detektiv løser saken?",
+          "sv": "På denna dag 1890 föddes Agatha Christie i Torquay i Devon. I hennes roman från 1934 blir ett lyxtåg stående fast i en snödriva på Balkan, med en mördad passagerare bakom låst dörr och ett helt galleri av misstänkta. Vilken belgisk detektiv löser fallet?"
+        }
+      }
+    ]
   },
   {
     "id": "tog-l-04",

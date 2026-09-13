@@ -338,6 +338,14 @@
           "nb": "På denne dagen i 1845 sto et dikt på trykk i avisen New York Evening Mirror, om en sørgende mann som får besøk av en svart fugl. Fuglen svarer bare med det ene ordet «Nevermore». Hvem skrev diktet?",
           "sv": "På denna dag 1845 trycktes en dikt i tidningen New York Evening Mirror, om en sörjande man som får besök av en svart fågel. Fågeln svarar bara med det enda ordet «Nevermore». Vem skrev dikten?"
         }
+      },
+      {
+        "day": "10-07",
+        "year": 1849,
+        "prompt": {
+          "nb": "På denne dagen i 1849 døde en amerikansk forfatter, bare 40 år gammel. I diktet hans fra 1845 blir en sørgende mann besøkt av en svart fugl som svarer det samme ene ordet – «Nevermore» – på alt han spør om. Hvem skrev det?",
+          "sv": "På denna dag 1849 dog en amerikansk författare, bara 40 år gammal. I hans dikt från 1845 besöks en sörjande man av en svart fågel som svarar med ett enda ord – «Nevermore» – på allt han frågar om. Vem skrev den?"
+        }
       }
     ]
   },

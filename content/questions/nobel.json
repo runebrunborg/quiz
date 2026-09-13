@@ -480,7 +480,17 @@
       "nb": "I 1948 valgte komiteen å ikke dele ut fredsprisen i det hele tatt, med den begrunnelsen at det ikke fantes «noen egnet levende kandidat».",
       "sv": "År 1948 valde kommittén att inte dela ut fredspriset alls, med motiveringen att det inte fanns «någon lämplig levande kandidat»."
     },
-    "source": "Nobel Prize Outreach – «Mahatma Gandhi, the Missing Laureate»"
+    "source": "Nobel Prize Outreach – «Mahatma Gandhi, the Missing Laureate»",
+    "onThisDay": [
+      {
+        "day": "10-02",
+        "year": 1869,
+        "prompt": {
+          "nb": "På denne dagen i 1869 ble han født i Porbandar i India, og dagen markeres i dag som FNs internasjonale dag for ikkevold. Nobelinstituttets mangeårige direktør har kalt det den største forsømmelsen i fredsprisens historie at han aldri fikk prisen. Hvem?",
+          "sv": "På denna dag 1869 föddes han i Porbandar i Indien, och dagen uppmärksammas i dag som FN:s internationella dag för ickevåld. Nobelinstitutets mångårige direktör har kallat det fredsprisets största försummelse att han aldrig fick priset. Vem?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-m-07",
@@ -737,7 +747,17 @@
       "nb": "Fram til 1974 var det mulig å tildele prisen posthumt; etter det kan det bare skje dersom vinneren går bort etter kunngjøringen. Notatboka «Vägmärken» ble utgitt i 1963.",
       "sv": "Fram till 1974 var det möjligt att tilldela priset postumt; därefter kan det bara ske om pristagaren går bort efter tillkännagivandet. Anteckningsboken «Vägmärken» gavs ut 1963."
     },
-    "source": "Nobel Prize Outreach – fredsprisen 1961; Nobelstiftelsens statutter"
+    "source": "Nobel Prize Outreach – fredsprisen 1961; Nobelstiftelsens statutter",
+    "onThisDay": [
+      {
+        "day": "09-18",
+        "year": 1961,
+        "prompt": {
+          "nb": "På denne dagen i 1961 mistet FN sin generalsekretær på vei til meklingsforhandlinger i Afrika. Senere samme år ble han tildelt fredsprisen, som den eneste i prisens historie som har fått den etter sin død. Han satt også i Svenska Akademien. Hvilken svenske?",
+          "sv": "På denna dag 1961 förlorade FN sin generalsekreterare på väg till medlingsförhandlingar i Afrika. Senare samma år tilldelades han fredspriset, som den ende i prisets historia som fått det efter sin död. Han satt också i Svenska Akademien. Vilken svensk?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-v-06",

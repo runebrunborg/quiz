@@ -486,7 +486,17 @@
       "nb": "Et kjent bilde viser ham knelende ved minnesmerket for ofrene for oppstanden i Warszawagettoen i 1970 – en gest som ble husket lenge etter kanslertiden hans.",
       "sv": "En känd bild visar honom knäböjande vid minnesmärket för offren för upproret i Warszawagettot 1970 – en gest som minns länge efter kanslertiden."
     },
-    "source": "Nobel Prize Outreach – fredsprisen 1971"
+    "source": "Nobel Prize Outreach – fredsprisen 1971",
+    "onThisDay": [
+      {
+        "day": "10-08",
+        "year": 1992,
+        "prompt": {
+          "nb": "På denne dagen i 1992 døde han i Unkel i Tyskland. Fredsprisen for 1971 gikk til ham som tysk forbundskansler, for «Ostpolitik» – forsoningen med Øst-Europa og anerkjennelsen av etterkrigsgrensene. Han hadde bodd i Norge under krigen. Hvem var han?",
+          "sv": "På denna dag 1992 dog han i Unkel i Tyskland. Fredspriset för 1971 gick till honom som tysk förbundskansler, för «Ostpolitik» – försoningen med Östeuropa och erkännandet av efterkrigsgränserna. Han hade bott i Norge under kriget. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-m-19",

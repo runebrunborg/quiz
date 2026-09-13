@@ -761,7 +761,17 @@
       "nb": "Rømers anslag for lyshastigheten var lavere enn dagens aksepterte verdi, men han var den første som viste empirisk at lys faktisk bruker tid på å bevege seg, snarere enn å være momentant.",
       "sv": "Rømers uppskattning av ljushastigheten var lägre än dagens accepterade värde, men han var den förste som visade empiriskt att ljus faktiskt tar tid på sig att röra sig, snarare än att vara momentant."
     },
-    "source": "Wikipedia – «Ole Rømer»"
+    "source": "Wikipedia – «Ole Rømer»",
+    "onThisDay": [
+      {
+        "day": "09-19",
+        "year": 1710,
+        "prompt": {
+          "nb": "På denne dagen i 1710 døde en dansk astronom i København. I 1676 hadde han lagt fram en observasjon fra Paris-observatoriet: tiden mellom formørkelsene til Jupiters måne Io varierte med jordas avstand til planeten. Hvem var den første som viste at lyset bruker tid?",
+          "sv": "På denna dag 1710 dog en dansk astronom i Köpenhamn. År 1676 hade han lagt fram en observation från Parisobservatoriet: tiden mellan förmörkelserna av Jupiters måne Io varierade med jordens avstånd till planeten. Vem var den förste som visade att ljuset tar tid?"
+        }
+      }
+    ]
   },
   {
     "id": "tid-v-20",

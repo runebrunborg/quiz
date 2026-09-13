@@ -47,7 +47,17 @@
       "nb": "Hanafuda-kortene ble populære nettopp fordi Japan i 1882 forbød de fleste former for pengespill. Selskapet holdt til i bydelen Shimogyō i Kyoto.",
       "sv": "Hanafuda-korten blev populära just för att Japan 1882 förbjöd de flesta former för hasardspel. Företaget höll till i stadsdelen Shimogyō i Kyoto."
     },
-    "source": "Nintendo Co., Ltd. – selskapshistorikk"
+    "source": "Nintendo Co., Ltd. – selskapshistorikk",
+    "onThisDay": [
+      {
+        "day": "09-23",
+        "year": 1889,
+        "prompt": {
+          "nb": "På denne dagen i 1889 stiftet Fusajiro Yamauchi et selskap i Kyoto som til å begynne med lagde håndmalte spillkort av typen hanafuda. Først på 1970-tallet gikk selskapet over til elektronisk underholdning. Hvilket selskap er det?",
+          "sv": "På denna dag 1889 grundade Fusajiro Yamauchi ett företag i Kyoto som till en början tillverkade handmålade spelkort av typen hanafuda. Först på 1970-talet gick företaget över till elektronisk underhållning. Vilket företag är det?"
+        }
+      }
+    ]
   },
   {
     "id": "japan-l-03",

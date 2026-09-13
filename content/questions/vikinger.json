@@ -519,7 +519,17 @@
       "nb": "Høvdingen kalles Rollo i latinske kilder og fikk dåpsnavnet Robert. Tipptippoldebarnet hans, Vilhelm Erobreren, vant slaget ved Hastings i 1066.",
       "sv": "Hövdingen kallas Rollo i latinska källor och fick dopnamnet Robert. Hans tipptippoldebarn, Vilhelm Erövraren, vann slaget vid Hastings 1066."
     },
-    "source": "Avtalen i Saint-Clair-sur-Epte (911); Dudo av Saint-Quentin, «De moribus et actis primorum Normanniae ducum»"
+    "source": "Avtalen i Saint-Clair-sur-Epte (911); Dudo av Saint-Quentin, «De moribus et actis primorum Normanniae ducum»",
+    "onThisDay": [
+      {
+        "day": "09-28",
+        "year": 1066,
+        "prompt": {
+          "nb": "På denne dagen i 1066 gikk en hertug i land i Sørøst-England med hæren sin. Hertugdømmet hans var gitt bort i 911, da den frankiske kongen Karl den enfoldige lot en norrøn høvding få land mot at han lot seg døpe. Hva het det landområdet?",
+          "sv": "På denna dag 1066 gick en hertig i land i sydöstra England med sin här. Hans hertigdöme hade skänkts bort år 911, då frankerkungen Karl den enfaldige lät en nordisk hövding få land mot att han lät döpa sig. Vad hette det landområdet?"
+        }
+      }
+    ]
   },
   {
     "id": "vikinger-m-09",

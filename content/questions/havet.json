@@ -190,7 +190,17 @@
       "nb": "Ferden skulle vise at folk fra Sør-Amerika kunne ha nådd Polynesia med enkle flåter. Dokumentarfilmen om ekspedisjonen vant Oscar for beste dokumentar i 1952.",
       "sv": "Färden skulle visa att folk från Sydamerika kunde ha nått Polynesien med enkla flottar. Dokumentärfilmen om expeditionen vann Oscar för bästa dokumentär 1952."
     },
-    "source": "Store norske leksikon – Kon-Tiki-ekspedisjonen; Kon-Tiki Museet"
+    "source": "Store norske leksikon – Kon-Tiki-ekspedisjonen; Kon-Tiki Museet",
+    "onThisDay": [
+      {
+        "day": "10-06",
+        "year": 1914,
+        "prompt": {
+          "nb": "På denne dagen i 1914 ble han født i Larvik. I 1947 satte han og fem andre menn ut fra Callao i Peru på en flåte av balsatømmer, bygd etter gammelt søramerikansk mønster, og drev 8 000 kilometer vestover over Stillehavet. Hvem var han?",
+          "sv": "På denna dag 1914 föddes han i Larvik. År 1947 gav han och fem andra män sig av från Callao i Peru på en flotte av balsaträ, byggd efter gammalt sydamerikanskt mönster, och drev 800 mil västerut över Stilla havet. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "havet-l-08",
@@ -215,7 +225,17 @@
       "nb": "Ruta ble opprettet for post og gods, men er i dag like mye en turistrute. Skipene anløper 34 havner underveis langs kysten.",
       "sv": "Linjen inrättades för post och gods, men är i dag lika mycket en turistlinje. Fartygen anlöper 34 hamnar längs kusten."
     },
-    "source": "Store norske leksikon – Hurtigruten"
+    "source": "Store norske leksikon – Hurtigruten",
+    "onThisDay": [
+      {
+        "day": "09-18",
+        "year": 1846,
+        "prompt": {
+          "nb": "På denne dagen i 1846 ble Richard With født i Tromsø. I 1893 satte han dampskipet «Vesteraalen» inn i en rute som ga Nord-Norge fast postgang året rundt, også vinterstid. I dag går ruta mellom Bergen og Kirkenes. Hva heter denne skipsruta?",
+          "sv": "På denna dag 1846 föddes Richard With i Tromsø. År 1893 satte han in ångfartyget «Vesteraalen» i en rutt som gav Nordnorge fast postgång året runt, även vintertid. I dag går rutten mellan Bergen och Kirkenes. Vad heter denna fartygsrutt?"
+        }
+      }
+    ]
   },
   {
     "id": "havet-l-09",

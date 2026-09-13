@@ -78,6 +78,14 @@
     "source": "Store norske leksikon – Haakon 7; Kongehuset.no",
     "onThisDay": [
       {
+        "day": "09-21",
+        "year": 1957,
+        "prompt": {
+          "nb": "På denne dagen i 1957 døde Norges første konge etter unionsoppløsningen, på Det kongelige slott i Oslo, og sønnen Olav 5. overtok tronen. Han var født dansk prins og het Carl, men tok et gammelt norsk kongenavn da Stortinget valgte ham i 1905. Hvilket navn?",
+          "sv": "På denna dag 1957 dog Norges förste kung efter unionsupplösningen, på Det kongelige slott i Oslo, och sonen Olav V övertog tronen. Han var född dansk prins och hette Carl, men tog ett gammalt norskt kunganamn när Stortinget valde honom 1905. Vilket namn?"
+        }
+      },
+      {
         "day": "11-18",
         "year": 1905,
         "prompt": {
@@ -114,7 +122,17 @@
       "nb": "Han døde i 1560 etter 37 år på tronen. Ætten hans satt på den svenske tronen helt til dronning Kristina abdiserte 6. juni 1654 – på dagen 131 år etter kongevalget i Strängnäs.",
       "sv": "Han dog 1560 efter 37 år på tronen. Hans ätt satt på den svenska tronen ända tills drottning Kristina abdikerade den 6 juni 1654 – på dagen 131 år efter kungavalet i Strängnäs."
     },
-    "source": "Store norske leksikon – Gustav 1 Vasa; Nationalencyklopedin"
+    "source": "Store norske leksikon – Gustav 1 Vasa; Nationalencyklopedin",
+    "onThisDay": [
+      {
+        "day": "09-29",
+        "year": 1560,
+        "prompt": {
+          "nb": "På denne dagen i 1560 døde han i Stockholm, etter 37 år på tronen. Riksmøtet i Strängnäs hadde valgt ham til svensk konge i 1523, han førte landet ut av Kalmarunionen, gjennomførte reformasjonen og fikk riket gjort arvelig i 1544. Hvilken konge?",
+          "sv": "På denna dag 1560 dog han i Stockholm, efter 37 år på tronen. Riksmötet i Strängnäs hade valt honom till svensk kung 1523, han förde landet ut ur Kalmarunionen, genomförde reformationen och fick riket gjort ärftligt 1544. Vilken kung?"
+        }
+      }
+    ]
   },
   {
     "id": "kongelige-l-05",

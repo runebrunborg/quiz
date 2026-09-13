@@ -651,6 +651,14 @@
     "source": "Wikipedia – Anders Celsius",
     "onThisDay": [
       {
+        "day": "09-16",
+        "year": 1736,
+        "prompt": {
+          "nb": "På denne dagen i 1736 døde Daniel Gabriel Fahrenheit i Haag, mannen bak kvikksølvtermometeret og den skalaen som fortsatt brukes i USA. Skalaen resten av verden bruker, kom seks år senere, foreslått ved Uppsala universitet – opprinnelig med kokepunktet på null. Hvem foreslo den?",
+          "sv": "På denna dag 1736 dog Daniel Gabriel Fahrenheit i Haag, mannen bakom kvicksilvertermometern och den skala som fortfarande används i USA. Skalan som resten av världen använder kom sex år senare, föreslagen vid Uppsala universitet – ursprungligen med kokpunkten på noll. Vem föreslog den?"
+        }
+      },
+      {
         "day": "11-27",
         "year": 1701,
         "prompt": {

@@ -21,7 +21,17 @@
       "nb": "Engen fikk navnet Theresienwiese etter bruden, og festen kalles i dagligtale bare «Wiesn». Den aller første feiringen i 1810 var i hovedsak et hesteveddeløp.",
       "sv": "Ängen fick namnet Theresienwiese efter bruden, och festen kallas i dagligt tal bara «Wiesn». Den allra första festen 1810 var i huvudsak en hästkapplöpning."
     },
-    "source": "Wikipedia (engelsk) – «Oktoberfest»"
+    "source": "Wikipedia (engelsk) – «Oktoberfest»",
+    "onThisDay": [
+      {
+        "day": "10-12",
+        "year": 1810,
+        "prompt": {
+          "nb": "På denne dagen i 1810 giftet kronprins Ludwig av Bayern seg med prinsesse Therese, og byens innbyggere ble invitert til hesteveddeløp og folkefest på en eng utenfor bymuren. Engen bærer fortsatt brudens navn, og festen gjentas hvert år. I hvilken by?",
+          "sv": "På denna dag 1810 gifte sig kronprins Ludwig av Bayern med prinsessan Therese, och stadens invånare bjöds in till hästkapplöpning och folkfest på en äng utanför stadsmuren. Ängen bär fortfarande brudens namn, och festen upprepas varje år. I vilken stad?"
+        }
+      }
+    ]
   },
   {
     "id": "drikke-l-02",
