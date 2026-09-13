@@ -79,6 +79,7 @@ const ANCHORS = {
   // Navnetema: ankeret er navnet selv, i begge ledd og samlet.
   jens: ['jens', 'evensen', 'jens evensen'],
   sjomat: ['sjømat', 'sjomat', 'sjömat', 'seafood', 'fisk', 'fisken', 'skaldjur'],
+  hinton: ['geoffrey', 'hinton', 'hintons', 'geoffrey hinton'],
 }
 
 /**

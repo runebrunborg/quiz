@@ -1,0 +1,257 @@
+[
+  {
+    "id": "hinton-l-01",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "Mannen temaet er oppkalt etter jobbet i ti år for et amerikansk teknologiselskap, etter at det i 2013 kjøpte det lille forskningsselskapet hans. I mai 2023 sa han opp, for å kunne advare fritt mot farene ved kunstig intelligens. Hvilket selskap forlot han?",
+      "sv": "Mannen temat är uppkallat efter arbetade i tio år för ett amerikanskt teknikföretag, sedan det 2013 köpt hans lilla forskningsbolag. I maj 2023 sa han upp sig, för att fritt kunna varna för riskerna med artificiell intelligens. Vilket företag lämnade han?"
+    },
+    "answer": "Google",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Søkemotoren deres er blitt et verb på både norsk og svensk.",
+      "sv": "Deras sökmotor har blivit ett verb på både norska och svenska."
+    },
+    "funFact": {
+      "nb": "Selskapet kjøpte i 2013 forskningsselskapet DNNresearch, som han hadde startet året før sammen med to studenter. Fram til 2023 delte han tiden mellom universitetet og Google Brain.",
+      "sv": "Företaget köpte 2013 forskningsbolaget DNNresearch, som han startat året innan tillsammans med två studenter. Fram till 2023 delade han sin tid mellan universitetet och Google Brain."
+    },
+    "source": "Encyclopaedia Britannica – «Geoffrey Hinton»; engelsk Wikipedia – «Geoffrey Hinton»"
+  },
+  {
+    "id": "hinton-l-02",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Han skrev på engelsk i en tid da fransk og latin rådde ved hoffet, og fra omkring 1387 samlet han fortellingene en flokk pilegrimer underholder hverandre med underveis. Verket ble aldri fullført. Hvem var denne dikteren, kalt den engelske poesiens far?",
+      "sv": "Han skrev på engelska i en tid då franska och latin dominerade vid hovet, och från omkring 1387 samlade han berättelserna som en skara pilgrimer underhåller varandra med under vägen. Verket blev aldrig färdigt. Vem var denne diktare, kallad den engelska poesins fader?"
+    },
+    "answer": "Geoffrey Chaucer",
+    "answerKind": "person",
+    "person": {
+      "given": "Geoffrey",
+      "family": "Chaucer"
+    },
+    "hint": {
+      "nb": "Han deler fornavn med mannen temaet er oppkalt etter.",
+      "sv": "Han delar förnamn med mannen temat är uppkallat efter."
+    },
+    "funFact": {
+      "nb": "Ved siden av diktningen var han tollkontrollør i London, og i 1386 representerte han Kent i parlamentet. Dialekten hans, fra Midlands og London, ble grunnlaget for moderne engelsk skriftspråk.",
+      "sv": "Vid sidan av diktandet var han tullkontrollant i London, och 1386 representerade han Kent i parlamentet. Hans dialekt, från Midlands och London, blev grunden för modernt engelskt skriftspråk."
+    },
+    "source": "Store norske leksikon – «Geoffrey Chaucer»"
+  },
+  {
+    "id": "hinton-l-03",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film",
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Hun var seksten år da hun skrev det meste av romanen og atten da den kom ut i 1967, en fortelling fra Tulsa om kampen mellom «greasers» fra arbeiderklassen og velstående «socs». Francis Ford Coppola filmatiserte den i 1983. Hva heter boka?",
+      "sv": "Hon var sexton år när hon skrev det mesta av romanen och arton när den kom ut 1967, en berättelse från Tulsa om striden mellan arbetarklassens «greasers» och de välbärgade «socs». Francis Ford Coppola filmatiserade den 1983. Vad heter boken?"
+    },
+    "answer": "The Outsiders",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fortelleren er fjorten år gamle Ponyboy Curtis.",
+      "sv": "Berättaren är fjortonårige Ponyboy Curtis."
+    },
+    "funFact": {
+      "nb": "Forfatteren signerte med initialer, S. E. Hinton, for at mannlige anmeldere ikke skulle avvise boka på grunn av kjønnet hennes. Etternavnet er det samme som temaets.",
+      "sv": "Författaren signerade med initialer, S. E. Hinton, för att manliga recensenter inte skulle avfärda boken på grund av hennes kön. Efternamnet är detsamma som temats."
+    },
+    "source": "Encyclopaedia Britannica – «S. E. Hinton»; engelsk Wikipedia – «The Outsiders (novel)»"
+  },
+  {
+    "id": "hinton-l-04",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "I 2024 delte han og amerikaneren John Hopfield en av Alfred Nobels priser, «for grunnleggende oppdagelser og oppfinnelser som muliggjør maskinlæring med kunstige nevrale nettverk». Han er selv utdannet kognitiv psykolog. Hvilken av prisene fikk de?",
+      "sv": "År 2024 delade han och amerikanen John Hopfield ett av Alfred Nobels priser, «för grundläggande upptäckter och uppfinningar som möjliggör maskininlärning med artificiella neurala nätverk». Själv är han utbildad kognitiv psykolog. Vilket av prisen fick de?"
+    },
+    "answer": {
+      "nb": "Nobelprisen i fysikk",
+      "sv": "Nobelpriset i fysik"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Metoden hans henter matematikken sin fra statistisk fysikk.",
+      "sv": "Hans metod hämtar sin matematik från statistisk fysik."
+    },
+    "funFact": {
+      "nb": "Boltzmann-maskinen, som han utviklet mellom 1983 og 1985, brukte prinsipper fra statistisk fysikk til å lære mønstre i datasett, og ble viktig for bildegjenkjenning.",
+      "sv": "Boltzmannmaskinen, som han utvecklade mellan 1983 och 1985, använde principer från statistisk fysik för att lära sig mönster i datamängder och blev viktig för bildigenkänning."
+    },
+    "source": "Nobelprize.org – «Geoffrey Hinton – Facts»; Encyclopaedia Britannica – «Geoffrey Hinton»"
+  },
+  {
+    "id": "hinton-l-05",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Kunstige nevrale nettverk er grove forenklinger av den ekte hjernen. I 2014 fikk to forskere ved NTNU i Trondheim nobelprisen i fysiologi eller medisin, sammen med britisk-amerikanske John O'Keefe, for celler som utgjør et posisjoneringssystem i hjernen. Hvilket norsk ektepar var det?",
+      "sv": "Artificiella neurala nätverk är grova förenklingar av den riktiga hjärnan. År 2014 fick två forskare vid NTNU i Trondheim nobelpriset i fysiologi eller medicin, tillsammans med den brittisk-amerikanske John O'Keefe, för celler som utgör ett positioneringssystem i hjärnan. Vilket norskt äkta par var det?"
+    },
+    "answer": {
+      "nb": "May-Britt og Edvard Moser",
+      "sv": "May-Britt och Edvard Moser"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De fant gitterceller – nerveceller som bare var aktive når dyret var på bestemte punkter i buret.",
+      "sv": "De fann gitterceller – nervceller som bara var aktiva när djuret befann sig på bestämda punkter i buren."
+    },
+    "funFact": {
+      "nb": "John O'Keefe fikk halve prisen alene; de to nordmennene delte den andre halvdelen mellom seg.",
+      "sv": "John O'Keefe fick halva priset ensam; de två norrmännen delade den andra halvan mellan sig."
+    },
+    "source": "Nobelprize.org – «The Nobel Prize in Physiology or Medicine 2014»; Store norske leksikon – «May-Britt Moser»"
+  },
+  {
+    "id": "hinton-l-06",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "I 2018 fikk han Turing-prisen sammen med Yoshua Bengio og Yann LeCun. Sytten år tidligere gikk den samme prisen til to nordmenn, Ole-Johan Dahl og Kristen Nygaard, for et programmeringsspråk de laget på 1960-tallet. Hva het språket?",
+      "sv": "År 2018 fick han Turingpriset tillsammans med Yoshua Bengio och Yann LeCun. Sjutton år tidigare gick samma pris till två norrmän, Ole-Johan Dahl och Kristen Nygaard, för ett programmeringsspråk de skapade på 1960-talet. Vad hette språket?"
+    },
+    "answer": "Simula",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det innførte objekter, klasser og arv, og ligger under både Java og C++.",
+      "sv": "Det införde objekt, klasser och arv och ligger bakom både Java och C++."
+    },
+    "funFact": {
+      "nb": "Nygaard fikk også John von Neumann-medaljen i 2001, og ledet Nei til EU fra 1990 til 1995.",
+      "sv": "Nygaard fick också John von Neumann-medaljen 2001 och ledde Nei til EU från 1990 till 1995."
+    },
+    "source": "Store norske leksikon – «Kristen Nygaard»; engelsk Wikipedia – «Geoffrey Hinton»"
+  },
+  {
+    "id": "hinton-l-07",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "tv"
+    ],
+    "prompt": {
+      "nb": "Mens forskere bygde nettverk som lærer, bygde SVT en fortelling om «hubotar»: menneskelignende roboter med glatt hud og påfallende lyse øyne, som tjener og arbeider blant folk. Serien fra 2012 ble gjenskapt i Storbritannia som «Humans». Hva het den svenske originalen?",
+      "sv": "Medan forskare byggde nätverk som lär sig byggde SVT en berättelse om «hubotar»: människoliknande robotar med slät hud och påfallande ljusa ögon, som tjänar och arbetar bland människor. Serien från 2012 gjordes om i Storbritannien som «Humans». Vad hette det svenska originalet?"
+    },
+    "answer": "Äkta människor",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den britiske nyinnspillingen tok bare halve tittelen med seg.",
+      "sv": "Den brittiska nyinspelningen tog bara halva titeln med sig."
+    },
+    "funFact": {
+      "nb": "Lars Lundström skapte serien, som gikk i to sesonger og tjue episoder. «Humans» hadde premiere i 2015 og ble avsluttet i 2019.",
+      "sv": "Lars Lundström skapade serien, som gick i två säsonger och tjugo avsnitt. «Humans» hade premiär 2015 och avslutades 2019."
+    },
+    "source": "Engelsk Wikipedia – «Real Humans»"
+  },
+  {
+    "id": "hinton-l-08",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Siden 1987 har han vært professor i Canadas største by, hovedstaden i provinsen Ontario, som ligger ved nordbredden av innsjøen med samme navn. Over havnekvartalet der rager et 553 meter høyt kommunikasjonstårn. Hvilken by?",
+      "sv": "Sedan 1987 har han varit professor i Kanadas största stad, huvudstad i provinsen Ontario, som ligger vid norra stranden av sjön med samma namn. Över hamnkvarteret där reser sig ett 553 meter högt kommunikationstorn. Vilken stad?"
+    },
+    "answer": "Toronto",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Filmfestivalen der forkortes TIFF.",
+      "sv": "Filmfestivalen där förkortas TIFF."
+    },
+    "funFact": {
+      "nb": "Universitetet i byen ble grunnlagt i 1827 og er Canadas største. Bydeler som Chinatown og Koreatown speiler en av verdens mest sammensatte befolkninger.",
+      "sv": "Universitetet i staden grundades 1827 och är Kanadas största. Stadsdelar som Chinatown och Koreatown speglar en av världens mest sammansatta befolkningar."
+    },
+    "source": "Store norske leksikon – «Toronto»; engelsk Wikipedia – «Geoffrey Hinton»"
+  },
+  {
+    "id": "hinton-l-09",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Lenge før kunstig intelligens ble allemannseie, fikk hjemmene sine første selvgående hjelpere. I 2001 satte et svensk konsern, grunnlagt i 1919, verdens første robotstøvsuger i salg, oppkalt etter et utdødd leddyr. Hvilket konsern?",
+      "sv": "Långt innan artificiell intelligens blev var mans egendom fick hemmen sina första självgående hjälpredor. År 2001 satte en svensk koncern, grundad 1919, världens första robotdammsugare i handeln, uppkallad efter ett utdött leddjur. Vilken koncern?"
+    },
+    "answer": "Electrolux",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Modell V gjorde dem verdenskjente for støvsugere lenge før roboten.",
+      "sv": "Modell V gjorde dem världskända för dammsugare långt före roboten."
+    },
+    "funFact": {
+      "nb": "Roboten het Trilobite. Prototypen ble vist fram på BBC-programmet «Tomorrow's World» i mai 1996, fem år før den kom i salg.",
+      "sv": "Roboten hette Trilobite. Prototypen visades upp i BBC-programmet «Tomorrow's World» i maj 1996, fem år innan den kom ut i handeln."
+    },
+    "source": "Store norske leksikon – «Electrolux»; engelsk Wikipedia – «Electrolux Trilobite»"
+  },
+  {
+    "id": "hinton-l-10",
+    "category": "hinton",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Den engelske matematikeren levde fra 1815 til 1864 og var fra 1849 professor i Cork på Irland. I 1854 ga han ut «An Investigation of the Laws of Thought», der han gjorde logikken om til regnestykker. En algebra bærer fortsatt navnet hans. Hvem var han?",
+      "sv": "Den engelske matematikern levde från 1815 till 1864 och var från 1849 professor i Cork på Irland. År 1854 gav han ut «An Investigation of the Laws of Thought», där han gjorde om logiken till räkning. En algebra bär fortfarande hans namn. Vem var han?"
+    },
+    "answer": "George Boole",
+    "answerKind": "person",
+    "person": {
+      "given": "George",
+      "family": "Boole"
+    },
+    "hint": {
+      "nb": "Etternavnet hans er blitt et adjektiv i all programmering.",
+      "sv": "Hans efternamn har blivit ett adjektiv i all programmering."
+    },
+    "funFact": {
+      "nb": "Han er tipptippoldefaren til mannen temaet er oppkalt etter, som også bærer mellomnavnet Everest – etter en annen slektning.",
+      "sv": "Han är en direkt förfader, fyra generationer tillbaka, till mannen temat är uppkallat efter, som också bär mellannamnet Everest – efter en annan släkting."
+    },
+    "source": "Store norske leksikon – «George Boole»; engelsk Wikipedia – «Geoffrey Hinton»"
+  }
+]

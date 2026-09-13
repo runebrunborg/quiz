@@ -1,0 +1,115 @@
+{
+  "category": "hinton",
+  "lines": {
+    "0": [
+      {
+        "nb": "Nettverket ditt lærte ingenting av treningsdataene.",
+        "sv": "Ditt nätverk lärde sig ingenting av träningsdatan."
+      },
+      {
+        "nb": "Alle vektene stod på null da du startet, og der ble de.",
+        "sv": "Alla vikter stod på noll när du började, och där blev de."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Én node lyste opp. Resten lå mørke.",
+        "sv": "En nod lyste upp. Resten låg mörka."
+      },
+      {
+        "nb": "Gradienten forsvant før den nådde fram.",
+        "sv": "Gradienten försvann innan den nådde fram."
+      }
+    ],
+    "2": [
+      {
+        "nb": "Modellen gjettet, og gjettet feil nesten hver gang.",
+        "sv": "Modellen gissade, och gissade fel nästan varje gång."
+      },
+      {
+        "nb": "To lag dypt, og likevel altfor grunt.",
+        "sv": "Två lager djupt, och ändå alldeles för grunt."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Du trenger atskillig flere epoker med trening.",
+        "sv": "Du behöver åtskilligt fler epoker av träning."
+      },
+      {
+        "nb": "Nettverket er i gang, men langt fra ferdig lært.",
+        "sv": "Nätverket är i gång, men långt ifrån färdiglärt."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Feilen synker, men den synker sakte.",
+        "sv": "Felet sjunker, men det sjunker långsamt."
+      },
+      {
+        "nb": "Halvveis gjennom treningen peker kurven riktig vei.",
+        "sv": "Halvvägs genom träningen pekar kurvan åt rätt håll."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Halvparten satt. Modellen din generaliserer, sånn passe.",
+        "sv": "Hälften satt. Din modell generaliserar, sådär lagom."
+      },
+      {
+        "nb": "Fem treff: du står midt på læringskurven.",
+        "sv": "Fem träffar: du står mitt på inlärningskurvan."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Nå begynner mønsteret å komme fram.",
+        "sv": "Nu börjar mönstret i datan träda fram."
+      },
+      {
+        "nb": "Nettverket kjenner igjen mer enn det bommer på.",
+        "sv": "Nätverket känner igen mer än det missar."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Sju rette. Modellen er snart klar for bruk.",
+        "sv": "Sju rätt. Modellen är snart klar för bruk."
+      },
+      {
+        "nb": "Treningen har festet seg for alvor.",
+        "sv": "Träningen har satt sig på allvar."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Åtte av ti. Du ligger i toppsjiktet på testsettet.",
+        "sv": "Åtta av tio. Du ligger i toppskiktet på testmängden."
+      },
+      {
+        "nb": "Bare et par feilklassifiseringer skiller deg fra toppen.",
+        "sv": "Bara ett par felklassificeringar skiljer dig från toppen."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ni rette. Nesten ingen feil igjen å lære av.",
+        "sv": "Nio rätt. Nästan inga fel kvar att lära av."
+      },
+      {
+        "nb": "Modellen din slår de fleste referansemålene.",
+        "sv": "Din modell slår de flesta riktmärkena."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Du har ikke bare lært dataene – du forstår dem.",
+        "sv": "Full pott. Du har inte bara lärt dig datan – du förstår den."
+      },
+      {
+        "nb": "Ti av ti. Prisverdig, i ordets aller beste forstand.",
+        "sv": "Tio av tio. Prisvärt, i ordets allra bästa mening."
+      }
+    ]
+  }
+}

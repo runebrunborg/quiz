@@ -923,6 +923,32 @@ const scenes: Record<string, () => ReactElement> = {
       </g>
     </Frame>
   ),
+
+  /* ------------------------------------------------------- Geoffrey Hinton */
+  hinton: () => (
+    <Frame id="s-hinton" sky={['#3B2A8C', '#0A0824']}>
+      {/* Hodeprofil bakerst: flat form, ingen fine detaljer i tittelsonen. */}
+      <path
+        d="M150 232v-52c-30-6-52-32-52-64 0-36 30-66 70-66 34 0 58 20 64 46l14 30-16 6 6 22-18 4 2 20c1 14-10 24-26 25l-22 2v27z"
+        fill="#5140B8"
+        opacity="0.5"
+      />
+      {/* Nettet: tre lag, alle kanter trukket. */}
+      <g stroke="#9FB2FF" strokeWidth="1.3" fill="none" opacity="0.4">
+        <path d="M70 56L200 44M70 56L200 82M70 56L200 120M70 56L200 158M70 56L200 196M70 96L200 44M70 96L200 82M70 96L200 120M70 96L200 158M70 96L200 196M70 136L200 44M70 136L200 82M70 136L200 120M70 136L200 158M70 136L200 196M70 176L200 44M70 176L200 82M70 176L200 120M70 176L200 158M70 176L200 196" />
+        <path d="M200 44L330 70M200 44L330 120M200 44L330 170M200 82L330 70M200 82L330 120M200 82L330 170M200 120L330 70M200 120L330 120M200 120L330 170M200 158L330 70M200 158L330 120M200 158L330 170M200 196L330 70M200 196L330 120M200 196L330 170" />
+      </g>
+      {/* Nodene pulserer samlet; utgangen i midten lyser rosa. */}
+      <g className="sc-glo" style={{ animationDuration: '9s' }}>
+        <g fill="#D6DEFF">
+          <circle cx="70" cy="56" r="8" /><circle cx="70" cy="96" r="8" /><circle cx="70" cy="136" r="8" /><circle cx="70" cy="176" r="8" />
+          <circle cx="200" cy="44" r="8" /><circle cx="200" cy="82" r="8" /><circle cx="200" cy="120" r="8" /><circle cx="200" cy="158" r="8" /><circle cx="200" cy="196" r="8" />
+          <circle cx="330" cy="70" r="9" /><circle cx="330" cy="170" r="9" />
+        </g>
+        <circle cx="330" cy="120" r="14" fill="#FF2D8E" />
+      </g>
+    </Frame>
+  ),
 }
 
 export function ThemeScene({ scene }: { scene: string }) {
