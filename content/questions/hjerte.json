@@ -295,6 +295,14 @@
     "source": "Store norske leksikon – Christiaan Barnard",
     "onThisDay": [
       {
+        "day": "11-08",
+        "year": 1922,
+        "prompt": {
+          "nb": "På denne dagen i 1922 ble han født i Sør-Afrika. I desember 1967 utførte han i Cape Town en operasjon som gjorde ham verdensberømt over natten, og pasienten Louis Washkansky våknet opp igjen etterpå. Hvem var kirurgen?",
+          "sv": "På denna dag 1922 föddes han i Sydafrika. I december 1967 utförde han i Kapstaden en operation som gjorde honom världsberömd över en natt, och patienten Louis Washkansky vaknade upp igen efteråt. Vem var kirurgen?"
+        }
+      },
+      {
         "day": "12-03",
         "year": 1967,
         "prompt": {

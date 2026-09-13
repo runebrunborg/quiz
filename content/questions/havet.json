@@ -109,7 +109,17 @@
       "nb": "Forfatteren hentet stoff fra to virkelige hendelser: hvalfangstskipet «Essex», som ble senket av en spermhval i 1820, og fortellingene om den hvite hvalen «Mocha Dick». Først på 1920-tallet ble romanen regnet som et hovedverk.",
       "sv": "Författaren hämtade stoff från två verkliga händelser: valfångstfartyget «Essex», som sänktes av en kaskelot 1820, och berättelserna om den vita valen «Mocha Dick». Först på 1920-talet räknades romanen som ett huvudverk."
     },
-    "source": "Herman Melville: «Moby-Dick» (1851); Encyclopædia Britannica"
+    "source": "Herman Melville: «Moby-Dick» (1851); Encyclopædia Britannica",
+    "onThisDay": [
+      {
+        "day": "10-18",
+        "year": 1851,
+        "prompt": {
+          "nb": "På denne dagen i 1851 kom romanen ut for første gang, i London. Den åpner med de tre ordene «Kall meg Ismael» og følger hvalfangstskipet «Pequod» og kaptein Ahabs besettelse av en hvit spermhval. Hvem skrev den?",
+          "sv": "På denna dag 1851 kom romanen ut för första gången, i London. Den öppnar med de tre orden «Kalla mig Ismael» och följer valfångstfartyget «Pequod» och kapten Ahabs besatthet av en vit kaskelot. Vem skrev den?"
+        }
+      }
+    ]
   },
   {
     "id": "havet-l-05",

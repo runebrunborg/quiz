@@ -657,7 +657,17 @@
       "nb": "Platen er tolv tommer i diameter. På omslaget står instruksjoner for avspilling, et kart som viser hvor jorden ligger, og en markering av hvor lang tid som har gått siden oppskytingen.",
       "sv": "Skivan är tolv tum i diameter. På omslaget finns instruktioner för uppspelning, en karta som visar var jorden ligger och en markering av hur lång tid som gått sedan uppskjutningen."
     },
-    "source": "NASA – Voyager Golden Record"
+    "source": "NASA – Voyager Golden Record",
+    "onThisDay": [
+      {
+        "day": "11-09",
+        "year": 1934,
+        "prompt": {
+          "nb": "På denne dagen i 1934 ble han født i Brooklyn. Om bord på de to romsondene som ble skutt opp i 1977 ligger en forgylt kobberplate med hilsener på 55 språk og musikk fra ulike kulturer, satt sammen under hans ledelse. Hvem var han?",
+          "sv": "På denna dag 1934 föddes han i Brooklyn. Ombord på de två rymdsonderna som sköts upp 1977 finns en förgylld kopparskiva med hälsningar på 55 språk och musik från olika kulturer, sammanställd under hans ledning. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "gull-v-05",

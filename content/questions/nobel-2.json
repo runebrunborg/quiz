@@ -51,7 +51,17 @@
       "nb": "Oppdagelsen gjorde han ved Universitetet i Würzburg i 1895. Han nektet å ta patent på den, fordi han mente samfunnet burde få nyte godt av den fritt.",
       "sv": "Upptäckten gjorde han vid universitetet i Würzburg 1895. Han vägrade att ta patent på den, eftersom han ansåg att samhället borde få nytta av den fritt."
     },
-    "source": "Nobel Prize Outreach – fysikkprisen 1901"
+    "source": "Nobel Prize Outreach – fysikkprisen 1901",
+    "onThisDay": [
+      {
+        "day": "11-08",
+        "year": 1895,
+        "prompt": {
+          "nb": "På denne dagen i 1895 oppdaget en tysk fysiker ved Universitetet i Würzburg en usynlig stråling som kunne avbilde skjelettet gjennom hud og klær. Seks år senere fikk han den aller første nobelprisen i fysikk. Hvem var han?",
+          "sv": "På denna dag 1895 upptäckte en tysk fysiker vid universitetet i Würzburg en osynlig strålning som kunde avbilda skelettet genom hud och kläder. Sex år senare fick han det allra första nobelpriset i fysik. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-l-13",

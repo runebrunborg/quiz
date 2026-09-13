@@ -464,7 +464,17 @@
       "nb": "Sønnen Gustaf 5 ble i stedet innsatt uten krone, i en enklere seremoni. Kroningskronen brukes i dag ikke lenger, men vises fram som en del av riksregaliene.",
       "sv": "Sonen Gustaf V installerades i stället utan krona, i en enklare ceremoni. Kröningskronan används i dag inte längre, men visas som en del av riksregalierna."
     },
-    "source": "Wikipedia – Oscar II of Sweden; Wikipedia – Gustaf V of Sweden"
+    "source": "Wikipedia – Oscar II of Sweden; Wikipedia – Gustaf V of Sweden",
+    "onThisDay": [
+      {
+        "day": "10-26",
+        "year": 1905,
+        "prompt": {
+          "nb": "På denne dagen i 1905 frasa han seg den norske kronen, og Sverige anerkjente dermed at unionen var oppløst. Han var kronet i Storkyrkan i Stockholm i 1873 og drøyt to måneder senere i Nidarosdomen i Trondheim. Hvilken konge?",
+          "sv": "På denna dag 1905 avsade han sig den norska kronan, och Sverige erkände därmed att unionen var upplöst. Han hade krönts i Storkyrkan i Stockholm 1873 och drygt två månader senare i Nidarosdomen i Trondheim. Vilken kung?"
+        }
+      }
+    ]
   },
   {
     "id": "kongelige-m-18",

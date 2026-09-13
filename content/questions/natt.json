@@ -503,7 +503,17 @@
       "nb": "John Field levde fra 1782 til 1837 og skrev soloverk for piano med sangbar melodi over brutte akkorder. Betegnelsen ble senere brukt om ulike besetninger og former.",
       "sv": "John Field levde 1782 till 1837 och skrev soloverk för piano med sångbar melodi över brutna ackord. Beteckningen användes senare om olika besättningar och former."
     },
-    "source": "Store norske leksikon – «nokturne»"
+    "source": "Store norske leksikon – «nokturne»",
+    "onThisDay": [
+      {
+        "day": "10-17",
+        "year": 1849,
+        "prompt": {
+          "nb": "På denne dagen i 1849 døde en polskfødt komponist i Paris. Han gjorde en sjanger berømt som har navn etter det italienske ordet notturno, «nattlig», og som skal ha et rolig, lyrisk og av og til dystert uttrykk. Hvem var han?",
+          "sv": "På denna dag 1849 dog en polskfödd tonsättare i Paris. Han gjorde en genre berömd som har namn efter det italienska ordet notturno, «nattlig», och som ska ha ett lugnt, lyriskt och emellanåt dystert uttryck. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "natt-m-08",

@@ -346,7 +346,17 @@
       "nb": "Ordet «time machine» ble oppfunnet av forfatteren selv og brukes i dag nesten universelt om ethvert fiktivt kjøretøy for tidsreiser.",
       "sv": "Ordet «time machine» myntades av författaren själv och används i dag nästan universellt om varje fiktivt fordon för tidsresor."
     },
-    "source": "Britannica – «The Time Machine»"
+    "source": "Britannica – «The Time Machine»",
+    "onThisDay": [
+      {
+        "day": "10-30",
+        "year": 1938,
+        "prompt": {
+          "nb": "På denne dagen i 1938 sendte Orson Welles en radioversjon av «Klodenes kamp», om marsboere som invaderer jorden. Romanen var skrevet av en britisk forfatter som i 1895 også ga ut en kort bok om en oppfinner som reiser gjennom årene. Hvem var han?",
+          "sv": "På denna dag 1938 sände Orson Welles en radioversion av «Världarnas krig», om marsianer som invaderar jorden. Romanen var skriven av en brittisk författare som 1895 också gav ut en kort bok om en uppfinnare som reser genom åren. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "tid-m-04",

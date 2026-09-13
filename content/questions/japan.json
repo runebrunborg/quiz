@@ -287,7 +287,17 @@
       "nb": "Han vokste opp i Lafayette i Louisiana, der faren Greg – selv stavhopper – hadde bygget en hoppgrop i hagen.",
       "sv": "Han växte upp i Lafayette i Louisiana, där pappan Greg – själv stavhoppare – hade byggt en hoppgrop på tomten."
     },
-    "source": "Den internasjonale olympiske komité – Tokyo 2020; World Athletics"
+    "source": "Den internasjonale olympiske komité – Tokyo 2020; World Athletics",
+    "onThisDay": [
+      {
+        "day": "11-10",
+        "year": 1999,
+        "prompt": {
+          "nb": "På denne dagen i 1999 ble en svensk stavhopper født i Louisiana. Under sommerlekene i Tokyo, som ble utsatt ett år til 2021, vant han gull med 6,02 meter på første forsøk. Hvem er han?",
+          "sv": "På denna dag 1999 föddes en svensk stavhoppare i Louisiana. Under sommarspelen i Tokyo, som sköts upp ett år till 2021, vann han guld med 6,02 meter på första försöket. Vem är han?"
+        }
+      }
+    ]
   },
   {
     "id": "japan-m-01",

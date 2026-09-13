@@ -189,7 +189,17 @@
       "nb": "Oscaren fikk hun for «The Country Girl» fra 1954. Bryllupet i Monaco i april 1956 ble sendt på fjernsyn og fulgt av et enormt publikum på begge sider av Atlanteren.",
       "sv": "Oscarn fick hon för «The Country Girl» från 1954. Bröllopet i Monaco i april 1956 sändes i tv och följdes av en enorm publik på båda sidor av Atlanten."
     },
-    "source": "Academy of Motion Picture Arts and Sciences; Palais Princier de Monaco"
+    "source": "Academy of Motion Picture Arts and Sciences; Palais Princier de Monaco",
+    "onThisDay": [
+      {
+        "day": "11-12",
+        "year": 1929,
+        "prompt": {
+          "nb": "På denne dagen i 1929 ble hun født i USA. Hun vant Oscar for beste kvinnelige hovedrolle i 1955, spilte i tre Hitchcock-filmer, blant dem «Vindu mot bakgården», og giftet seg året etter inn i et fyrstehus. Hvem var hun?",
+          "sv": "På denna dag 1929 föddes hon i USA. Hon vann Oscar för bästa kvinnliga huvudroll 1955, spelade i tre Hitchcockfilmer, bland dem «Fönstret mot gården», och gifte sig året därpå in i ett furstehus. Vem var hon?"
+        }
+      }
+    ]
   },
   {
     "id": "kongelige-l-07",
@@ -473,7 +483,17 @@
       "nb": "Riksdagen ga ham i 1633 tilnavnet «den store». Datteren hans var bare fem år gammel da hun ble dronning etter ham.",
       "sv": "Riksdagen gav honom 1633 tillnamnet «den store». Hans dotter var bara fem år gammal när hon blev drottning efter honom."
     },
-    "source": "Store norske leksikon – Gustav 2 Adolf; Nationalencyklopedin"
+    "source": "Store norske leksikon – Gustav 2 Adolf; Nationalencyklopedin",
+    "onThisDay": [
+      {
+        "day": "11-06",
+        "year": 1632,
+        "prompt": {
+          "nb": "På denne dagen i 1632 falt han ved Lützen i Sachsen. Han var blitt svensk konge i 1611, reformerte hæren grundig og gikk inn i trettiårskrigen på protestantisk side. Datteren hans var bare fem år da hun overtok tronen. Hvilken konge?",
+          "sv": "På denna dag 1632 föll han vid Lützen i Sachsen. Han hade blivit svensk kung 1611, reformerade hären grundligt och gick in i trettioåriga kriget på protestantisk sida. Hans dotter var bara fem år när hon tog över tronen. Vilken kung?"
+        }
+      }
+    ]
   },
   {
     "id": "kongelige-m-08",

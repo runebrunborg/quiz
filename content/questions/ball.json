@@ -120,7 +120,17 @@
       "nb": "På et ball ved hoffet lar prinsen seg lure av Odile, trollmannen Rothbarts datter, og bryter løftet til Odette. Det ender tragisk for begge, men forbannelsen brytes.",
       "sv": "På en bal vid hovet låter prinsen sig luras av Odile, trollkarlen Rothbarts dotter, och bryter löftet till Odette. Det slutar tragiskt för båda, men förtrollningen bryts."
     },
-    "source": "Store norske leksikon – «Svanesjøen»"
+    "source": "Store norske leksikon – «Svanesjøen»",
+    "onThisDay": [
+      {
+        "day": "11-06",
+        "year": 1893,
+        "prompt": {
+          "nb": "På denne dagen i 1893 døde komponisten i St. Petersburg. Balletten hans hadde hatt premiere i Moskva i 1877 og falt igjennom; først da Marius Petipa og Lev Ivanov laget ny koreografi, ble den en klassiker. Hvem skrev musikken?",
+          "sv": "På denna dag 1893 dog tonsättaren i S:t Petersburg. Hans balett hade haft premiär i Moskva 1877 och föll igenom; först när Marius Petipa och Lev Ivanov gjorde ny koreografi blev den en klassiker. Vem skrev musiken?"
+        }
+      }
+    ]
   },
   {
     "id": "ball-l-05",

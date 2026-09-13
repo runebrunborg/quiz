@@ -360,7 +360,17 @@
       "nb": "Hun ble født 6. oktober og døde 2. november. Vennskapet med H.C. Andersen har satt spor i flere av eventyrene hans.",
       "sv": "Hon föddes den 6 oktober och dog den 2 november. Vänskapen med H.C. Andersen har satt spår i flera av hans sagor."
     },
-    "source": "Store norske leksikon – «Jenny Lind»"
+    "source": "Store norske leksikon – «Jenny Lind»",
+    "onThisDay": [
+      {
+        "day": "11-02",
+        "year": 1887,
+        "prompt": {
+          "nb": "På denne dagen i 1887 døde hun i Worcestershire i England. Sopranen var født i Stockholm i 1820 og turnerte blant annet i USA, der hun giftet seg i 1852. Vennskapet med H.C. Andersen satte spor i flere av eventyrene hans. Hvem var hun?",
+          "sv": "På denna dag 1887 dog hon i Worcestershire i England. Sopranen var född i Stockholm 1820 och turnerade bland annat i USA, där hon gifte sig 1852. Vänskapen med H.C. Andersen satte spår i flera av hans sagor. Vem var hon?"
+        }
+      }
+    ]
   },
   {
     "id": "linn-m-04",

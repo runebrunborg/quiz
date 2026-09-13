@@ -242,7 +242,17 @@
       "nb": "Samme år som prisen ble den amerikanske borgerrettsloven vedtatt, og året etter kom stemmerettsloven av 1965.",
       "sv": "Samma år som priset antogs den amerikanska medborgarrättslagen, och året därpå kom rösträttslagen 1965."
     },
-    "source": "Nobel Prize Outreach – fredsprisen 1964"
+    "source": "Nobel Prize Outreach – fredsprisen 1964",
+    "onThisDay": [
+      {
+        "day": "10-14",
+        "year": 1964,
+        "prompt": {
+          "nb": "På denne dagen i 1964 ble det kjent at årets fredspris gikk til en amerikansk baptistprest, «for hans ikkevoldelige kamp for borgerrettigheter for den afroamerikanske befolkningen». Samme år ble den amerikanske borgerrettsloven vedtatt. Hvem var han?",
+          "sv": "På denna dag 1964 blev det känt att årets fredspris gick till en amerikansk baptistpastor, «för hans ickevåldsliga kamp för medborgerliga rättigheter för den afroamerikanska befolkningen». Samma år antogs den amerikanska medborgarrättslagen. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-l-09",
@@ -416,7 +426,17 @@
       "nb": "Avslaget endret ikke listene – han står fortsatt oppført som prisvinner for 1964, men fikk verken medalje eller pengesum. Bare én annen har takket nei frivillig: Le Duc Tho, som avslo fredsprisen i 1973.",
       "sv": "Avböjandet ändrade inte listorna – han står fortfarande som pristagare för 1964, men fick varken medalj eller prissumma. Bara en annan har tackat nej frivilligt: Le Duc Tho, som avböjde fredspriset 1973."
     },
-    "source": "Nobel Prize Outreach – litteraturprisen 1964"
+    "source": "Nobel Prize Outreach – litteraturprisen 1964",
+    "onThisDay": [
+      {
+        "day": "10-22",
+        "year": 1964,
+        "prompt": {
+          "nb": "På denne dagen i 1964 ble det kunngjort at litteraturprisen gikk til en fransk filosof — som takket nei. Han hadde avslått utmerkelser før og mente at en forfatter ikke skal la seg gjøre om til en institusjon. Hvem var han?",
+          "sv": "På denna dag 1964 tillkännagavs att litteraturpriset gick till en fransk filosof — som tackade nej. Han hade avböjt utmärkelser förr och menade att en författare inte ska låta sig göras om till en institution. Vem var han?"
+        }
+      }
+    ]
   },
   {
     "id": "nobel-m-05",
