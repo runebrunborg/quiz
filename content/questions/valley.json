@@ -1,0 +1,246 @@
+[
+  {
+    "id": "valley-l-01",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "I 1965 skrev en amerikansk forsker ved Fairchild Semiconductor en artikkel i tidsskriftet «Electronics» om at antallet transistorer på én integrert krets fordobler seg jevnt og trutt. Tre år senere var han med og grunnla Intel. Hva kalles observasjonen?",
+      "sv": "År 1965 skrev en amerikansk forskare vid Fairchild Semiconductor en artikel i tidskriften «Electronics» om att antalet transistorer på en integrerad krets fördubblas stadigt. Tre år senare var han med och grundade Intel. Vad kallas observationen?"
+    },
+    "answer": "Moores lov",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han het Gordon til fornavn, og loven bærer etternavnet hans.",
+      "sv": "Han hette Gordon i förnamn, och lagen bär hans efternamn."
+    },
+    "funFact": {
+      "nb": "Han anslo først en dobling hvert år, og justerte i 1975 til omtrent hvert andre. Intel ble stiftet i 1968, sammen med Robert Noyce.",
+      "sv": "Han antog först en fördubbling varje år och justerade 1975 till ungefär vartannat. Intel grundades 1968, tillsammans med Robert Noyce."
+    },
+    "source": "Store norske leksikon – «Moores lov» og «Intel»; engelsk Wikipedia – «Gordon Moore»"
+  },
+  {
+    "id": "valley-l-02",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "En jernbanemagnat og kona hans grunnla i 1885 et universitet til minne om sin eneste sønn. Det åpnet i 1891 med 555 studenter, ligger i Santa Clara County nær Palo Alto, og har vært helt sentralt for framveksten av dalen. Hva heter det?",
+      "sv": "En järnvägsmagnat och hans hustru grundade 1885 ett universitet till minne av sin ende son. Det öppnade 1891 med 555 studenter, ligger i Santa Clara County nära Palo Alto och har varit helt centralt för dalens framväxt. Vad heter det?"
+    },
+    "answer": "Stanford University",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Universitetet bærer familiens etternavn, og sønnen het det samme.",
+      "sv": "Universitetet bär familjens efternamn, och sonen hette detsamma."
+    },
+    "funFact": {
+      "nb": "Ingeniørdekanen Frederick Terman foreslo i 1951 å leie ut universitetets eiendommer som kontorpark. Stanford Industrial Park koblet gründere med kapital, og Hewlett-Packard var blant de første.",
+      "sv": "Ingenjörsdekanen Frederick Terman föreslog 1951 att hyra ut universitetets marker som kontorspark. Stanford Industrial Park kopplade grundare till kapital, och Hewlett-Packard var bland de första."
+    },
+    "source": "Store norske leksikon – «Stanford University» og «Silicon Valley»; Encyclopaedia Britannica – «Stanford University»; engelsk Wikipedia – «Silicon Valley»"
+  },
+  {
+    "id": "valley-l-03",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Forskningssenteret i Palo Alto ble opprettet 1. juli 1970 og stod bak laserskriveren, Ethernet og maskinen Alto. I desember 1979 fikk Steve Jobs se det grafiske brukergrensesnittet der, og tok ideen med seg videre. Hva heter senteret?",
+      "sv": "Forskningscentret i Palo Alto inrättades den 1 juli 1970 och låg bakom laserskrivaren, Ethernet och datorn Alto. I december 1979 fick Steve Jobs se det grafiska användargränssnittet där och tog idén vidare. Vad heter centret?"
+    },
+    "answer": "Xerox PARC",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Selskapet bak er mest kjent for kopimaskiner, og forkortelsen står for Palo Alto Research Center.",
+      "sv": "Företaget bakom är mest känt för kopiatorer, och förkortningen står för Palo Alto Research Center."
+    },
+    "funFact": {
+      "nb": "Alto kom i 1973, med tre-knappers mus og en skjerm på 606 ganger 808 piksler. Jobs skal ha sagt at selskapet kunne ha eid hele dataindustrien.",
+      "sv": "Alto kom 1973, med tre-knappsmus och en skärm på 606 gånger 808 pixlar. Jobs ska ha sagt att företaget kunde ha ägt hela datorindustrin."
+    },
+    "source": "Engelsk Wikipedia – «PARC (company)» og «Xerox Alto»; Encyclopaedia Britannica – «Xerox Corporation»"
+  },
+  {
+    "id": "valley-l-04",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "To ingeniører inngikk partnerskapet sitt med et myntkast i 1939 og begynte i en garasje i Addison Avenue i Palo Alto. Første produkt var en lydoscillator; Walt Disney Studios kjøpte åtte av dem til lydtesting av «Fantasia». Hvilket selskap?",
+      "sv": "Två ingenjörer ingick sitt partnerskap med en slantsingling 1939 och började i ett garage på Addison Avenue i Palo Alto. Första produkten var en tonoscillator; Walt Disney Studios köpte åtta av dem för ljudtestning av «Fantasia». Vilket företag?"
+    },
+    "answer": "Hewlett-Packard",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Myntkastet avgjorde hvilket av de to etternavnene som skulle stå først.",
+      "sv": "Slantsinglingen avgjorde vilket av de två efternamnen som skulle stå först."
+    },
+    "funFact": {
+      "nb": "Garasjen kalles «Birthplace of Silicon Valley» og ble fredet som California Historical Landmark i 1987. Grunnleggerne het William Hewlett og David Packard.",
+      "sv": "Garaget kallas «Birthplace of Silicon Valley» och skyddades som California Historical Landmark 1987. Grundarna hette William Hewlett och David Packard."
+    },
+    "source": "Store norske leksikon – «HP»; engelsk Wikipedia – «HP Garage»"
+  },
+  {
+    "id": "valley-l-05",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Grunnstoffet har symbolet Si og atomnummer 14, metallisk glans og halvlederegenskaper. Det utgjør 27,7 vektprosent av jordskorpa, mer enn noe annet grunnstoff bortsett fra oksygen, og finnes i kvarts, sand og silikatmineraler. Hva heter det?",
+      "sv": "Grundämnet har symbolen Si och atomnummer 14, metallisk glans och halvledaregenskaper. Det utgör 27,7 viktprocent av jordskorpan, mer än något annat ämne utom syre, och finns i kvarts, sand och silikatmineral. Vad heter det?"
+    },
+    "answer": "Silisium",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den engelske formen av navnet står i temaets navn.",
+      "sv": "Den engelska formen av namnet står i temats namn."
+    },
+    "funFact": {
+      "nb": "Verdensproduksjonen var 9,7 millioner tonn i 2024, og Kina stod for over 75 prosent. Norge produserer rundt 300 000 tonn i året.",
+      "sv": "Världsproduktionen var 9,7 miljoner ton 2024, och Kina stod för över 75 procent. Norge producerar omkring 300 000 ton om året."
+    },
+    "source": "Store norske leksikon – «silisium»"
+  },
+  {
+    "id": "valley-l-06",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Dalen i California, nær grensen mot Nevada, er 225 kilometer lang, og rundt 1400 kvadratkilometer av den ligger under havnivå. Det laveste punktet i Nord-Amerika ligger her, 86 meter under havet. Hva heter dalen?",
+      "sv": "Dalen i Kalifornien, nära gränsen mot Nevada, är 225 kilometer lång, och omkring 1400 kvadratkilometer av den ligger under havsnivån. Nordamerikas lägsta punkt ligger här, 86 meter under havet. Vad heter dalen?"
+    },
+    "answer": "Death Valley",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Det laveste punktet heter Badwater Basin, og navnet på dalen lover ingenting godt.",
+      "sv": "Den lägsta punkten heter Badwater Basin, och dalens namn lovar inget gott."
+    },
+    "funFact": {
+      "nb": "Temperaturrekorden ble satt ved Furnace Creek 10. juli 1913, med 56,7 grader. Dalen ble nasjonalmonument i 1933 og nasjonalpark i 1994.",
+      "sv": "Temperaturrekordet sattes vid Furnace Creek den 10 juli 1913, med 56,7 grader. Dalen blev nationalmonument 1933 och nationalpark 1994."
+    },
+    "source": "Store norske leksikon – «Death Valley»; engelsk Wikipedia – «Badwater Basin» og «Furnace Creek»"
+  },
+  {
+    "id": "valley-l-07",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Sam Eyde grunnla selskapet i 1904, under navnet Det Norske Aktieselskab for Elektrokemisk Industri. I dag dekker det hele verdikjeden fra kvarts til ferrosilisium, og står bak Norges årsproduksjon på rundt 300 000 tonn av grunnstoffet dalen er oppkalt etter. Hva heter selskapet?",
+      "sv": "Sam Eyde grundade företaget 1904, under namnet Det Norske Aktieselskab for Elektrokemisk Industri. I dag täcker det hela värdekedjan från kvarts till ferrokisel och står bakom Norges årsproduktion på omkring 300 000 ton av ämnet dalen är uppkallad efter. Vad heter företaget?"
+    },
+    "answer": "Elkem",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er en sammentrekning av det opprinnelige, lange selskapsnavnet.",
+      "sv": "Namnet är en sammandragning av det ursprungliga, långa företagsnamnet."
+    },
+    "funFact": {
+      "nb": "Siden 2011 har selskapet vært kontrollert av det kinesiske statseide China National Bluestar.",
+      "sv": "Sedan 2011 har företaget kontrollerats av det kinesiska statsägda China National Bluestar."
+    },
+    "source": "Store norske leksikon – «Elkem» og «silisium»"
+  },
+  {
+    "id": "valley-l-08",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "teknologi"
+    ],
+    "prompt": {
+      "nb": "To utviklere begynte i 1994 på et forskningsprosjekt i Telenor, og i 1995 stiftet de sitt eget selskap rundt nettleseren de hadde laget. Den kom i offentlig versjon i 1996. Hva het selskapet?",
+      "sv": "Två utvecklare började 1994 på ett forskningsprojekt hos Telenor, och 1995 grundade de sitt eget företag kring webbläsaren de hade byggt. Den kom i offentlig version 1996. Vad hette företaget?"
+    },
+    "answer": "Opera Software",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Nettleseren har samme navn som en musikkdramatisk sjanger.",
+      "sv": "Webbläsaren har samma namn som en musikdramatisk genre."
+    },
+    "funFact": {
+      "nb": "Jon Stephenson von Tetzchner og Geir Ivarsøy stod bak. Selskapet ble kjøpt opp i 2016 og er nå i hovedsak kinesisk kontrollert, med hovedkontor i Norge.",
+      "sv": "Jon Stephenson von Tetzchner och Geir Ivarsøy låg bakom. Företaget köptes upp 2016 och är nu i huvudsak kinesiskt kontrollerat, med huvudkontor i Norge."
+    },
+    "source": "Store norske leksikon – «Opera – nettleser»; engelsk Wikipedia – «Opera (web browser)»"
+  },
+  {
+    "id": "valley-l-09",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Daniel Ek og Martin Lorentzon stiftet selskapet i 2006, og tjenesten ble lansert i Stockholm i oktober 2008. Den var blant de aller første i verden med musikk på forespørsel i strømmeform. Hva heter den?",
+      "sv": "Daniel Ek och Martin Lorentzon grundade företaget 2006, och tjänsten lanserades i Stockholm i oktober 2008. Den var bland de allra första i världen med musik på begäran i strömmad form. Vad heter den?"
+    },
+    "answer": "Spotify",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet er blitt et verb blant musikkfans, og logoen er grønn.",
+      "sv": "Namnet har blivit ett verb bland musikfans, och logotypen är grön."
+    },
+    "funFact": {
+      "nb": "I 2024 hadde tjenesten 246 millioner betalende abonnenter.",
+      "sv": "År 2024 hade tjänsten 246 miljoner betalande abonnenter."
+    },
+    "source": "Store norske leksikon – «Spotify»"
+  },
+  {
+    "id": "valley-l-10",
+    "category": "valley",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "spill"
+    ],
+    "prompt": {
+      "nb": "Den svenske programmereren slapp en tidlig versjon av byggespillet sitt 17. mai 2009, og den offisielle utgaven kom 18. november 2011. I 2014 kjøpte Microsoft spillet og selskapet hans for 2,5 milliarder dollar. Hvem er han?",
+      "sv": "Den svenske programmeraren släppte en tidig version av sitt byggspel den 17 maj 2009, och den officiella utgåvan kom den 18 november 2011. År 2014 köpte Microsoft spelet och hans företag för 2,5 miljarder dollar. Vem är han?"
+    },
+    "answer": "Markus Persson",
+    "answerKind": "person",
+    "person": {
+      "given": "Markus",
+      "family": "Persson"
+    },
+    "hint": {
+      "nb": "Spillet heter «Minecraft», og kallenavnet hans er «Notch».",
+      "sv": "Spelet heter «Minecraft», och hans smeknamn är «Notch»."
+    },
+    "funFact": {
+      "nb": "Han gikk av som hoveddesigner allerede i desember 2011 og overlot kreativ kontroll til Jens Bergensten. Spillet hadde passert 300 millioner solgte eksemplarer i oktober 2023.",
+      "sv": "Han avgick som huvuddesigner redan i december 2011 och lämnade över den kreativa kontrollen till Jens Bergensten. Spelet hade passerat 300 miljoner sålda exemplar i oktober 2023."
+    },
+    "source": "Store norske leksikon – «Minecraft»; engelsk Wikipedia – «Markus Persson»"
+  }
+]

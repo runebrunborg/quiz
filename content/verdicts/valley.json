@@ -1,0 +1,115 @@
+{
+  "category": "valley",
+  "lines": {
+    "0": [
+      {
+        "nb": "Pitchen din fikk ikke engang et møte.",
+        "sv": "Din pitch fick inte ens ett möte."
+      },
+      {
+        "nb": "Serveren gikk ned før demoen rakk å starte.",
+        "sv": "Servern gick ner innan demon hann starta."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett poeng: nok til en garasje, ikke til et selskap.",
+        "sv": "En poäng: nog till ett garage, inte till ett företag."
+      },
+      {
+        "nb": "Prototypen bootet, og så ikke stort mer.",
+        "sv": "Prototypen bootade, och sedan inte mycket mer."
+      }
+    ],
+    "2": [
+      {
+        "nb": "To rette, og investorene ble høflig tause.",
+        "sv": "Två rätt, och investerarna blev artigt tysta."
+      },
+      {
+        "nb": "Du brente gjennom kapitalen på to spørsmål.",
+        "sv": "Du brände igenom kapitalet på två frågor."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Tre poeng, og du har så vidt fått såkornmidler.",
+        "sv": "Tre poäng, och du har nätt och jämnt fått såddkapital."
+      },
+      {
+        "nb": "Betaversjonen virker, men bare på én maskin.",
+        "sv": "Betaversionen fungerar, men bara på en maskin."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Fire rette, og demoen gikk uten å krasje.",
+        "sv": "Fyra rätt, och demon gick utan att krascha."
+      },
+      {
+        "nb": "Du har et produkt, men ennå ikke et marked.",
+        "sv": "Du har en produkt, men ännu inte en marknad."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Halvparten satt. Det holder til en serie A.",
+        "sv": "Hälften satt. Det räcker till en serie A."
+      },
+      {
+        "nb": "Fem poeng er en brukbar første versjon.",
+        "sv": "Fem poäng är en användbar första version."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Nå begynner kurven å peke oppover.",
+        "sv": "Nu börjar tillväxtkurvan peka uppåt igen."
+      },
+      {
+        "nb": "Seks rette, og brukerne kommer faktisk tilbake.",
+        "sv": "Sex rätt, och användarna kommer faktiskt tillbaka."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Sju poeng, og styret nikker anerkjennende rundt bordet.",
+        "sv": "Sju poäng, och styrelsen nickar gillande runt bordet."
+      },
+      {
+        "nb": "Du har funnet tilpasningen mellom produkt og marked.",
+        "sv": "Du har hittat passformen mellan produkt och marknad."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Åtte av ti, og børsnoteringen nærmer seg.",
+        "sv": "Åtta av tio, och börsnoteringen närmar sig."
+      },
+      {
+        "nb": "Bare et par feil igjen å rette før lansering.",
+        "sv": "Bara ett par fel kvar att rätta före lansering."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ni rette. Oppkjøpstilbudet ligger allerede på bordet.",
+        "sv": "Nio rätt. Uppköpsbudet ligger redan på bordet."
+      },
+      {
+        "nb": "Nesten alt satt, og verdsettingen stiger time for time.",
+        "sv": "Nästan allt satt, och värderingen stiger timme för timme."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Du gikk fra garasje til gigant på ti spørsmål.",
+        "sv": "Full pott. Du gick från garage till gigant på tio frågor."
+      },
+      {
+        "nb": "Ti av ti: loven om dobling ser ut til å gjelde deg også.",
+        "sv": "Tio av tio: lagen om fördubbling verkar gälla dig också."
+      }
+    ]
+  }
+}

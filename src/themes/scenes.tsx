@@ -1060,6 +1060,38 @@ const scenes: Record<string, () => ReactElement> = {
       </g>
     </Frame>
   ),
+
+  /* --------------------------------------------------------- Silicon Valley */
+  valley: () => (
+    <Frame id="s-valley" sky={['#0E5A46', '#04201A']}>
+      {/* Ledningsbanene er scenens ene bevegelse. */}
+      <g className="sc-glo" style={{ animationDuration: '10s' }}>
+        <g stroke="#43B08C" strokeWidth="2.2" fill="none" opacity="0.75" strokeLinecap="round">
+          <path d="M126 96H74M126 112H54M126 128H86M126 144H62M126 160H94" />
+          <path d="M274 96H330M274 112H350M274 128H312M274 144H346M274 160H302" />
+          <path d="M160 84V52H118M200 84V36M240 84V58H290M186 172V182M222 172V180" />
+        </g>
+        <g fill="#43B08C" opacity="0.85">
+          <rect x="70" y="92" width="8" height="8" /><rect x="50" y="108" width="8" height="8" /><rect x="82" y="124" width="8" height="8" />
+          <rect x="58" y="140" width="8" height="8" /><rect x="90" y="156" width="8" height="8" />
+          <rect x="326" y="92" width="8" height="8" /><rect x="346" y="108" width="8" height="8" /><rect x="308" y="124" width="8" height="8" />
+          <rect x="342" y="140" width="8" height="8" /><rect x="298" y="156" width="8" height="8" />
+          <rect x="114" y="48" width="8" height="8" /><rect x="196" y="32" width="8" height="8" /><rect x="286" y="54" width="8" height="8" />
+        </g>
+      </g>
+      <g fill="#0A4436">
+        <rect x="120" y="92" width="16" height="6" rx="1" /><rect x="120" y="108" width="16" height="6" rx="1" /><rect x="120" y="124" width="16" height="6" rx="1" />
+        <rect x="120" y="140" width="16" height="6" rx="1" /><rect x="120" y="156" width="16" height="6" rx="1" />
+        <rect x="264" y="92" width="16" height="6" rx="1" /><rect x="264" y="108" width="16" height="6" rx="1" /><rect x="264" y="124" width="16" height="6" rx="1" />
+        <rect x="264" y="140" width="16" height="6" rx="1" /><rect x="264" y="156" width="16" height="6" rx="1" />
+      </g>
+      <rect x="136" y="80" width="128" height="94" rx="6" fill="#05281F" stroke="#2E8C72" strokeWidth="2.5" />
+      <g stroke="#1E6B55" strokeWidth="1.4" fill="none" opacity="0.9">
+        <path d="M150 96h100M150 112h100M150 128h100M150 144h100M150 158h100" />
+      </g>
+      <circle cx="152" cy="94" r="6" fill="#FF2D8E" />
+    </Frame>
+  ),
 }
 
 export function ThemeScene({ scene }: { scene: string }) {
