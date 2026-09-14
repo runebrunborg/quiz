@@ -1,0 +1,257 @@
+[
+  {
+    "id": "newyork-l-01",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Statuen på Liberty Island var en gave fra det franske folket til USA og ble avduket i 1886. I høyre hånd holder hun en fakkel, i venstre en tavle med datoen 4. juli 1776. Hva heter hun?",
+      "sv": "Statyn på Liberty Island var en gåva från det franska folket till USA och avtäcktes 1886. I höger hand håller hon en fackla, i vänster en tavla med datumet 4 juli 1776. Vad heter hon?"
+    },
+    "answer": {
+      "nb": "Frihetsgudinnen",
+      "sv": "Frihetsgudinnan"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Gustave Eiffel stod for konstruksjonen, og kobber fra Vigsnes på Karmøy gikk med.",
+      "sv": "Gustave Eiffel stod för konstruktionen, och koppar från Vigsnes på Karmøy användes."
+    },
+    "funFact": {
+      "nb": "Statuen er 92 meter høy med sokkelen, og det er 403 trappetrinn fra inngangen i sokkelen til hodet, som har plass til tolv personer. Nordmannen Joachim Gotsche Giæver konstruerte rammeverket.",
+      "sv": "Statyn är 92 meter hög med sockeln, och det är 403 trappsteg från ingången i sockeln till huvudet, som rymmer tolv personer. Norrmannen Joachim Gotsche Giæver konstruerade ramverket."
+    },
+    "source": "Store norske leksikon – «Frihetsgudinnen»"
+  },
+  {
+    "id": "newyork-l-02",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Byggearbeidene startet i 1858, og tjue tusen arbeidere flyttet millioner av kubikkmeter jord og stein og plantet en halv million trær og busker der det før lå ulendt terreng og sumpland. Hva heter denne parken på Manhattan?",
+      "sv": "Byggarbetena började 1858, och tjugo tusen arbetare flyttade miljoner kubikmeter jord och sten och planterade en halv miljon träd och buskar där det förut låg oländig terräng och sankmark. Vad heter denna park på Manhattan?"
+    },
+    "answer": "Central Park",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Frederick Law Olmsted og Calvert Vaux vant designkonkurransen med «Greensward Plan».",
+      "sv": "Frederick Law Olmsted och Calvert Vaux vann designtävlingen med «Greensward Plan»."
+    },
+    "funFact": {
+      "nb": "Deler av parken ble offisielt åpnet i 1876. Reservoaret alene utgjør en åttendedel av arealet.",
+      "sv": "Delar av parken öppnades officiellt 1876. Enbart reservoaren utgör en åttondel av arealen."
+    },
+    "source": "Store norske leksikon – «Central Park»"
+  },
+  {
+    "id": "newyork-l-03",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Bygningen har 102 etasjer og er 381 meter høy, 449 med fjernsynsmasten på toppen. Den ble reist på bare ett år og 45 dager og stod ferdig i 1931. Hva heter dette symbolet på Manhattan?",
+      "sv": "Byggnaden har 102 våningar och är 381 meter hög, 449 med tv-masten på toppen. Den restes på bara ett år och 45 dagar och stod färdig 1931. Vad heter denna symbol på Manhattan?"
+    },
+    "answer": "Empire State Building",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet kommer av kallenavnet på delstaten den står i.",
+      "sv": "Namnet kommer av smeknamnet på delstaten den står i."
+    },
+    "funFact": {
+      "nb": "Den var verdens høyeste bygning fra den stod ferdig. I 2020 var den USAs sjette høyeste og nummer 46 i verden.",
+      "sv": "Den var världens högsta byggnad från det att den stod färdig. År 2020 var den USA:s sjätte högsta och nummer 46 i världen."
+    },
+    "source": "Store norske leksikon – «Empire State Building»"
+  },
+  {
+    "id": "newyork-l-04",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "I 1625 begynte nederlenderne å bygge et fort på sørspissen av Manhattan. I 1664 overga guvernøren hele kolonien til engelskmennene uten kamp, og byen ble straks oppkalt etter hertugen av York. Hva het den før navneskiftet?",
+      "sv": "År 1625 började nederländarna bygga ett fort på Manhattans sydspets. År 1664 överlämnade guvernören hela kolonin till engelsmännen utan strid, och staden uppkallades genast efter hertigen av York. Vad hette den före namnbytet?"
+    },
+    "answer": "Nieuw Amsterdam",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet pekte rett mot hovedstaden i hjemlandet til dem som anla byen.",
+      "sv": "Namnet pekade rakt mot huvudstaden i hemlandet hos dem som anlade staden."
+    },
+    "funFact": {
+      "nb": "Hertugen av York ble senere kong Jakob 2. Kolonien het Nieuw-Nederland og strakte seg fra Cape Cod til Delaware Bay.",
+      "sv": "Hertigen av York blev senare kung Jakob II. Kolonin hette Nieuw-Nederland och sträckte sig från Cape Cod till Delaware Bay."
+    },
+    "source": "Store norske leksikon – «New York»"
+  },
+  {
+    "id": "newyork-l-05",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Engelskmannen studerte i Cambridge fra 1661, og i pestårene 1665 og 1666 la han grunnlaget for infinitesimalregningen og viste at hvitt lys består av spektralfargene. I 1687 kom «Principia». Hvem var han?",
+      "sv": "Engelsmannen studerade i Cambridge från 1661, och under peståren 1665 och 1666 lade han grunden för infinitesimalkalkylen och visade att vitt ljus består av spektralfärgerna. År 1687 kom «Principia». Vem var han?"
+    },
+    "answer": "Isaac Newton",
+    "answerKind": "person",
+    "person": {
+      "given": "Isaac",
+      "family": "Newton"
+    },
+    "hint": {
+      "nb": "Etternavnet hans begynner med det samme ordet som temaet.",
+      "sv": "Hans efternamn börjar med samma ord som temat."
+    },
+    "funFact": {
+      "nb": "Han ble født i Woolsthorpe i Lincolnshire og døde i London i 1727. «Principia» inneholder gravitasjonsloven og mekanikkens tre bevegelseslover.",
+      "sv": "Han föddes i Woolsthorpe i Lincolnshire och dog i London 1727. «Principia» innehåller gravitationslagen och mekanikens tre rörelselagar."
+    },
+    "source": "Store norske leksikon – «Isaac Newton»"
+  },
+  {
+    "id": "newyork-l-06",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Dette er det største av de historiske grevskapene i England, nesten tolv tusen kvadratkilometer mellom Penninene og Nordsjøen. Et historisk grevskap har ingen forvaltningsoppgaver i dag, men betyr mye for lokal identitet. Hva heter det?",
+      "sv": "Detta är det största av de historiska grevskapen i England, nästan tolv tusen kvadratkilometer mellan Penninerna och Nordsjön. Ett historiskt grevskap har inga förvaltningsuppgifter i dag men betyder mycket för lokal identitet. Vad heter det?"
+    },
+    "answer": "Yorkshire",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Hovedstaden i grevskapet har gitt navn til en langt større by på den andre siden av Atlanterhavet.",
+      "sv": "Grevskapets huvudstad har gett namn åt en långt större stad på andra sidan Atlanten."
+    },
+    "funFact": {
+      "nb": "Hovedstaden ble grunnlagt av romerne som Eboracum rundt år 71, og het Jorvik i vikingtiden, da den var et hovedsenter i Danelagen.",
+      "sv": "Huvudstaden grundades av romarna som Eboracum omkring år 71 och hette Jorvik under vikingatiden, då den var ett huvudcentrum i Danelagen."
+    },
+    "source": "Store norske leksikon – «Yorkshire» og «York – by i Storbritannia»"
+  },
+  {
+    "id": "newyork-l-07",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "transport"
+    ],
+    "prompt": {
+      "nb": "Sluppen på 38 tonn dro fra Stavanger i juli 1825 med 52 personer om bord og kom fram 9. oktober, etter 98 døgn. Underveis ble et pikebarn født, så de var 53 ved ankomst. Hva het fartøyet?",
+      "sv": "Slupen på 38 ton avseglade från Stavanger i juli 1825 med 52 personer ombord och kom fram den 9 oktober, efter 98 dygn. Under resan föddes en flicka, så de var 53 vid ankomsten. Vad hette fartyget?"
+    },
+    "answer": "Restauration",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Fartøyet kalles gjerne «den norske Mayflower».",
+      "sv": "Fartyget kallas gärna «den norska Mayflower»."
+    },
+    "funFact": {
+      "nb": "Reisen regnes som begynnelsen på den norske utvandringen til Nord-Amerika, og som den første organiserte gruppeutvandringen direkte fra Norge.",
+      "sv": "Resan räknas som början på den norska utvandringen till Nordamerika, och som den första organiserade gruppemigrationen direkt från Norge."
+    },
+    "source": "Store norske leksikon – «Restauration»"
+  },
+  {
+    "id": "newyork-l-08",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "2. februar 1935 sang hun Sieglinde i Wagners «Valkyrien» ved Metropolitan Opera, i en radiooverført lørdagsmatiné, og var stjerne over natten. Siden ble hun berømt som Isolde og Brünnhilde. Hvem var hun?",
+      "sv": "Den 2 februari 1935 sjöng hon Sieglinde i Wagners «Valkyrian» vid Metropolitan Opera, i en radiosänd lördagsmatiné, och var stjärna över en natt. Sedan blev hon berömd som Isolde och Brünnhilde. Vem var hon?"
+    },
+    "answer": "Kirsten Flagstad",
+    "answerKind": "person",
+    "person": {
+      "given": "Kirsten",
+      "family": "Flagstad"
+    },
+    "hint": {
+      "nb": "Hun ble født i Hamar i 1895 og døde i Oslo i 1962.",
+      "sv": "Hon föddes i Hamar 1895 och dog i Oslo 1962."
+    },
+    "funFact": {
+      "nb": "I 1958 ble hun Den Norske Operas første sjef. Sykdom tvang henne til å gå av høsten 1960.",
+      "sv": "År 1958 blev hon Den Norske Operas första chef. Sjukdom tvingade henne att avgå hösten 1960."
+    },
+    "source": "Store norske leksikon – «Kirsten Flagstad»"
+  },
+  {
+    "id": "newyork-l-09",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Hun ville ikke fly, så i august 2019 krysset hun Atlanterhavet som passasjer på en seilbåt. 23. september holdt hun tale på klimatoppmøtet i byen. Året før hadde hun startet skolestreiken for klimaet. Hvem er hun?",
+      "sv": "Hon ville inte flyga, så i augusti 2019 korsade hon Atlanten som passagerare på en segelbåt. Den 23 september höll hon tal på klimattoppmötet i staden. Året innan hade hon startat skolstrejken för klimatet. Vem är hon?"
+    },
+    "answer": "Greta Thunberg",
+    "answerKind": "person",
+    "person": {
+      "given": "Greta",
+      "family": "Thunberg"
+    },
+    "hint": {
+      "nb": "Streiken hennes ble internasjonalt kjent som «Fridays for Future».",
+      "sv": "Hennes strejk blev internationellt känd som «Fridays for Future»."
+    },
+    "funFact": {
+      "nb": "Våren 2019 deltok rundt 1,6 millioner ungdommer i over 120 land. Seilbåten het «Malizia II» og brukte femten døgn fra Plymouth.",
+      "sv": "Våren 2019 deltog omkring 1,6 miljoner ungdomar i över 120 länder. Segelbåten hette «Malizia II» och tog femton dygn från Plymouth."
+    },
+    "source": "Store norske leksikon – «Greta Thunberg»; engelsk Wikipedia – «Greta Thunberg»"
+  },
+  {
+    "id": "newyork-l-10",
+    "category": "newyork",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "design"
+    ],
+    "prompt": {
+      "nb": "Kjeden ble grunnlagt i Västerås i 1947 av Erling Persson og het først bare Hennes. Første butikk utenfor Sverige åpnet i Norge i 1964, og 31. mars 2000 åpnet den første amerikanske på Fifth Avenue. Hvilken kjede?",
+      "sv": "Kedjan grundades i Västerås 1947 av Erling Persson och hette först bara Hennes. Första butiken utanför Sverige öppnade i Norge 1964, och den 31 mars 2000 öppnade den första amerikanska på Fifth Avenue. Vilken kedja?"
+    },
+    "answer": "H&M",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den andre halvdelen av navnet kom med oppkjøpet av jaktutstyrsforhandleren Mauritz Widforss i 1968.",
+      "sv": "Den andra halvan av namnet kom med köpet av jaktutrustningshandlaren Mauritz Widforss 1968."
+    },
+    "funFact": {
+      "nb": "Vareutvalget ble utvidet med herrekonfeksjon på 1960-tallet, senere også barneklær og kosmetikk.",
+      "sv": "Sortimentet utökades med herrkonfektion på 1960-talet, senare även barnkläder och kosmetika."
+    },
+    "source": "Store norske leksikon – «Hennes & Mauritz»; engelsk Wikipedia – «H&M»"
+  }
+]

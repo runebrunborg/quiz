@@ -949,6 +949,80 @@ const scenes: Record<string, () => ReactElement> = {
       </g>
     </Frame>
   ),
+
+  /* -------------------------------------------------------------- New York */
+  newyork: () => (
+    <Frame id="s-newyork" sky={['#2B1A5E', '#0B0620']}>
+      <circle cx="330" cy="58" r="26" fill="#FF2D8E" opacity="0.4" />
+      {/* Skyline. Grunnlinja ligger paa 186, saa tittelsonen er ren. */}
+      <g fill="#191036">
+        <rect x="0" y="120" width="34" height="66" /><rect x="36" y="138" width="26" height="48" />
+        <rect x="64" y="104" width="30" height="82" /><rect x="96" y="150" width="22" height="36" />
+        <rect x="120" y="86" width="40" height="100" /><rect x="162" y="128" width="28" height="58" />
+        <rect x="192" y="64" width="34" height="122" /><rect x="205" y="36" width="8" height="28" />
+        <rect x="207" y="20" width="4" height="16" />
+        <rect x="228" y="116" width="24" height="70" /><rect x="254" y="96" width="44" height="90" />
+        <rect x="300" y="140" width="26" height="46" /><rect x="328" y="110" width="36" height="76" />
+        <rect x="366" y="132" width="40" height="54" />
+      </g>
+      {/* Lyset i vinduene er scenens ene bevegelse. */}
+      <g className="sc-glo" style={{ animationDuration: '11s' }}>
+        <g fill="#FFD98A" opacity="0.85">
+          <rect x="126" y="96" width="4" height="6" /><rect x="136" y="96" width="4" height="6" /><rect x="146" y="110" width="4" height="6" />
+          <rect x="126" y="118" width="4" height="6" /><rect x="146" y="132" width="4" height="6" /><rect x="136" y="146" width="4" height="6" />
+          <rect x="198" y="78" width="4" height="6" /><rect x="210" y="78" width="4" height="6" /><rect x="198" y="100" width="4" height="6" />
+          <rect x="216" y="100" width="4" height="6" /><rect x="210" y="124" width="4" height="6" /><rect x="198" y="146" width="4" height="6" />
+          <rect x="262" y="110" width="4" height="6" /><rect x="276" y="110" width="4" height="6" /><rect x="288" y="126" width="4" height="6" />
+          <rect x="262" y="140" width="4" height="6" /><rect x="276" y="158" width="4" height="6" />
+          <rect x="336" y="124" width="4" height="6" /><rect x="350" y="140" width="4" height="6" /><rect x="336" y="158" width="4" height="6" />
+        </g>
+      </g>
+      {/* Svakt motlys, saa silhuetten ikke forsvinner i den moerke himmelen. */}
+      <ellipse cx="70" cy="112" rx="52" ry="74" fill="#4A2E86" opacity="0.32" />
+      <g fill="#08040F">
+        <rect x="44" y="152" width="30" height="34" />
+        <path d="M50 154 L55 118 Q58 102 63 102 Q69 102 71 116 L74 154 Z" />
+        <circle cx="63" cy="96" r="8" />
+        <path d="M69 100 L84 70 L90 72 L75 104 Z" />
+      </g>
+      <g stroke="#08040F" strokeWidth="2.5" strokeLinecap="round">
+        <path d="M63 88 L60 80M63 88 L63 78M63 88 L67 79M63 88 L54 83M63 88 L72 83" />
+      </g>
+      <path d="M84 72 L96 60 L88 82 Z" fill="#FF7A3D" />
+    </Frame>
+  ),
+
+  /* --------------------------------------------------------------------- FN */
+  fn: () => (
+    <Frame id="s-fn" sky={['#1B5FA8', '#08203C']}>
+      {/* To olivengrener, holdt over tittelsonen. */}
+      <g stroke="#7FC4F5" strokeWidth="3" fill="none" strokeLinecap="round" opacity="0.9">
+        <path d="M136 180 C110 152 110 112 138 82" />
+        <path d="M264 180 C290 152 290 112 262 82" />
+      </g>
+      <g fill="#7FC4F5" opacity="0.9">
+        <ellipse cx="120" cy="162" rx="11" ry="5" transform="rotate(-35 120 162)" />
+        <ellipse cx="111" cy="136" rx="11" ry="5" transform="rotate(-15 111 136)" />
+        <ellipse cx="114" cy="110" rx="11" ry="5" transform="rotate(15 114 110)" />
+        <ellipse cx="126" cy="90" rx="11" ry="5" transform="rotate(40 126 90)" />
+        <ellipse cx="280" cy="162" rx="11" ry="5" transform="rotate(35 280 162)" />
+        <ellipse cx="289" cy="136" rx="11" ry="5" transform="rotate(15 289 136)" />
+        <ellipse cx="286" cy="110" rx="11" ry="5" transform="rotate(-15 286 110)" />
+        <ellipse cx="274" cy="90" rx="11" ry="5" transform="rotate(-40 274 90)" />
+      </g>
+      {/* Kloden puster; det er scenens ene bevegelse. */}
+      <g className="sc-pust" style={{ animationDuration: '14s', transformOrigin: '200px 116px' }}>
+        <circle cx="200" cy="116" r="54" fill="#BFE2FA" opacity="0.92" />
+        <g stroke="#1B5FA8" strokeWidth="2" fill="none" opacity="0.8">
+          <ellipse cx="200" cy="116" rx="54" ry="54" />
+          <ellipse cx="200" cy="116" rx="20" ry="54" />
+          <ellipse cx="200" cy="116" rx="40" ry="54" />
+          <path d="M146 116h108M154 88h92M154 144h92M168 66h64M168 166h64" />
+        </g>
+        <circle cx="200" cy="116" r="54" fill="none" stroke="#FF2D8E" strokeWidth="3" opacity="0.55" />
+      </g>
+    </Frame>
+  ),
 }
 
 export function ThemeScene({ scene }: { scene: string }) {

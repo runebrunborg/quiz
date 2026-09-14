@@ -1,0 +1,256 @@
+[
+  {
+    "id": "fn-l-01",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "I februar 1946 ble en nordmann utnevnt til organisasjonens aller første generalsekretær. Han hadde ledet Utenriksdepartementet i eksilregjeringen i London fra november 1940. I november 1952 bad han om å få gå av. Hvem var han?",
+      "sv": "I februari 1946 utsågs en norrman till organisationens allra första generalsekreterare. Han hade lett Utrikesdepartementet i exilregeringen i London sedan november 1940. I november 1952 bad han om att få avgå. Vem var han?"
+    },
+    "answer": "Trygve Lie",
+    "answerKind": "person",
+    "person": {
+      "given": "Trygve",
+      "family": "Lie"
+    },
+    "hint": {
+      "nb": "Han ble avløst av svensken Dag Hammarskjöld i april 1953.",
+      "sv": "Han efterträddes av svensken Dag Hammarskjöld i april 1953."
+    },
+    "funFact": {
+      "nb": "Bakgrunnen for avgangen var motstand fra Sovjetunionen etter at han støttet aksjonen for Sør-Korea, og presset mot sekretariatet under McCarthyismen.",
+      "sv": "Bakgrunden till avgången var motstånd från Sovjetunionen sedan han stött aktionen för Sydkorea, och pressen mot sekretariatet under McCarthyismen."
+    },
+    "source": "Store norske leksikon – «Trygve Lie»"
+  },
+  {
+    "id": "fn-l-02",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Fra 25. april til 26. juni 1945 forhandlet statene fram pakten som opprettet organisasjonen, i en amerikansk by i California. Pakten trådte i kraft 24. oktober samme år, med 51 opprinnelige medlemsland. Hvilken by?",
+      "sv": "Från den 25 april till den 26 juni 1945 förhandlade staterna fram stadgan som upprättade organisationen, i en amerikansk stad i Kalifornien. Stadgan trädde i kraft den 24 oktober samma år, med 51 ursprungliga medlemsländer. Vilken stad?"
+    },
+    "answer": "San Francisco",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Datoen 24. oktober markeres fortsatt hvert år som organisasjonens egen dag.",
+      "sv": "Datumet 24 oktober uppmärksammas fortfarande varje år som organisationens egen dag."
+    },
+    "funFact": {
+      "nb": "Pakten ble undertegnet 26. juni 1945 av 50 av de 51 grunnleggerne. Polens midlertidige regjering signerte først 15. oktober.",
+      "sv": "Stadgan undertecknades den 26 juni 1945 av 50 av de 51 grundarna. Polens provisoriska regering signerade först den 15 oktober."
+    },
+    "source": "Store norske leksikon – «De forente nasjoner»; engelsk Wikipedia – «Charter of the United Nations»"
+  },
+  {
+    "id": "fn-l-03",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "politikk"
+    ],
+    "prompt": {
+      "nb": "Sikkerhetsrådet har femten medlemmer: ti valgte for to år av gangen, og fem faste — Frankrike, Kina, Russland, Storbritannia og USA. De fem har en rett de andre mangler, i alle saker som ikke bare gjelder prosedyre. Hva kalles den?",
+      "sv": "Säkerhetsrådet har femton medlemmar: tio valda för två år i taget, och fem permanenta — Frankrike, Kina, Ryssland, Storbritannien och USA. De fem har en rätt som de andra saknar, i alla frågor som inte enbart gäller procedur. Vad kallas den?"
+    },
+    "answer": "Vetorett",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "De fem er landene som var allierte under andre verdenskrig.",
+      "sv": "De fem är länderna som var allierade under andra världskriget."
+    },
+    "funFact": {
+      "nb": "Et fast medlem kan avstå fra å stemme uten at vedtaket blokkeres. Trusselen om å bruke retten er ofte nok i seg selv.",
+      "sv": "En permanent medlem kan avstå från att rösta utan att beslutet blockeras. Hotet om att använda rätten räcker ofta i sig."
+    },
+    "source": "Store norske leksikon – «FNs sikkerhetsråd» og «vetorett»"
+  },
+  {
+    "id": "fn-l-04",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Den første fredsbevarende operasjonen kom i 1948, da observatører ble sendt for å overvåke våpenhvilen i Midtøsten. I 1988 fikk styrkene en utmerkelse «for preventing armed clashes and creating conditions for negotiations». Hvilken?",
+      "sv": "Den första fredsbevarande operationen kom 1948, då observatörer sändes för att övervaka vapenvilan i Mellanöstern. År 1988 fick styrkorna en utmärkelse «for preventing armed clashes and creating conditions for negotiations». Vilken?"
+    },
+    "answer": "Nobels fredspris",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den deles ut i Oslo, ikke i Stockholm.",
+      "sv": "Det delas ut i Oslo, inte i Stockholm."
+    },
+    "funFact": {
+      "nb": "Soldatene kalles gjerne blå beretter etter det lyseblå hodeplagget. Den første operasjonen het UNTSO.",
+      "sv": "Soldaterna kallas gärna blå baskrar efter det ljusblå huvudbonaden. Den första operationen hette UNTSO."
+    },
+    "source": "Store norske leksikon – «FNs fredsbevarende operasjoner»; Nobelprize.org – «The Nobel Peace Prize 1988»"
+  },
+  {
+    "id": "fn-l-05",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Organisasjonen ble opprettet i 1920 på grunnlag av en pakt fra året før, holdt til i Genève, og viste seg maktesløs da Japan gikk inn i Mandsjuria i 1931 og Italia angrep Etiopia i 1935. Den ble formelt oppløst 18. april 1946. Hva het den?",
+      "sv": "Organisationen upprättades 1920 på grundval av en pakt från året innan, höll till i Genève och visade sig maktlös när Japan gick in i Manchuriet 1931 och Italien angrep Etiopien 1935. Den upplöstes formellt den 18 april 1946. Vad hette den?"
+    },
+    "answer": {
+      "nb": "Folkeforbundet",
+      "sv": "Nationernas förbund"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Woodrow Wilsons fjortenpunktsprogram fra januar 1918 krevde «et alminnelig forbund av folkene».",
+      "sv": "Woodrow Wilsons fjortonpunktsprogram från januari 1918 krävde «ett allmänt förbund av folken»."
+    },
+    "funFact": {
+      "nb": "Eiendommer, bibliotek og arkiv ble overført til etterfølgeren. Tyskland og Japan trakk seg i 1933, Italia i 1937.",
+      "sv": "Egendomar, bibliotek och arkiv överfördes till efterträdaren. Tyskland och Japan drog sig ur 1933, Italien 1937."
+    },
+    "source": "Store norske leksikon – «Folkeforbundet»"
+  },
+  {
+    "id": "fn-l-06",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Fra 1922 delte Folkeforbundet ut et identitetskort til statsløse flyktninger, først russiske, senere armenere og andre. Rundt 450 000 ble utstedt, og 52 regjeringer godkjente det som reisedokument. Det bærer navnet til nordmannen som foreslo det. Hva kalles det?",
+      "sv": "Från 1922 delade Nationernas förbund ut ett identitetskort till statslösa flyktingar, först ryska, senare armenier och andra. Omkring 450 000 utfärdades, och 52 regeringar godkände det som resehandling. Det bär namnet på norrmannen som föreslog det. Vad kallas det?"
+    },
+    "answer": {
+      "nb": "Nansen-passet",
+      "sv": "Nansenpasset"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han var polarforsker, ble høykommissær for flyktninger i 1921 og fikk Nobels fredspris året etter.",
+      "sv": "Han var polarforskare, blev högkommissarie för flyktingar 1921 och fick Nobels fredspris året därpå."
+    },
+    "funFact": {
+      "nb": "Han foreslo passet på en konferanse i Genève i juli 1922. Fredsprisen fikk han blant annet for arbeidet med å sende krigsfanger hjem.",
+      "sv": "Han föreslog passet på en konferens i Genève i juli 1922. Fredspriset fick han bland annat för arbetet med att sända hem krigsfångar."
+    },
+    "source": "Store norske leksikon – «Nansen-pass» og «Fridtjof Nansen»; Nobelprize.org – «Fridtjof Nansen – Facts»"
+  },
+  {
+    "id": "fn-l-07",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Svensken ledet Det internasjonale atomenergibyrået i Wien fra 1981 til 1997, og fra 2000 organisasjonens våpeninspeksjonsbyrå for Irak. Arbeidet ble stanset før invasjonen i 2003, og han trakk seg. Hvem er han?",
+      "sv": "Svensken ledde Internationella atomenergiorganet i Wien från 1981 till 1997, och från 2000 organisationens vapeninspektionsorgan för Irak. Arbetet stoppades före invasionen 2003, och han drog sig tillbaka. Vem är han?"
+    },
+    "answer": "Hans Blix",
+    "answerKind": "person",
+    "person": {
+      "given": "Hans",
+      "family": "Blix"
+    },
+    "hint": {
+      "nb": "I 2004 ga han ut boka «Avgjørende dager», med kritikk av invasjonen.",
+      "sv": "År 2004 gav han ut boken «Avgörande dagar», med kritik av invasionen."
+    },
+    "funFact": {
+      "nb": "Våpeninspeksjonsbyrået het UNMOVIC, og han ledet det fra 2000 til 2003.",
+      "sv": "Vapeninspektionsorganet hette UNMOVIC, och han ledde det från 2000 till 2003."
+    },
+    "source": "Store norske leksikon – «Hans Blix»"
+  },
+  {
+    "id": "fn-l-08",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Fra 5. til 16. juni 1972 møttes 122 land til organisasjonens store miljøkonferanse, som endte med en erklæring på 26 prinsipper og en handlingsplan, og som førte til at miljøprogrammet UNEP ble opprettet samme år. I hvilken by?",
+      "sv": "Från den 5 till den 16 juni 1972 möttes 122 länder till organisationens stora miljökonferens, som slutade med en deklaration på 26 principer och en handlingsplan, och som ledde till att miljöprogrammet UNEP inrättades samma år. I vilken stad?"
+    },
+    "answer": "Stockholm",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Åpningsdagen 5. juni markeres i dag som Verdens miljødag.",
+      "sv": "Öppningsdagen den 5 juni uppmärksammas i dag som Världsmiljödagen."
+    },
+    "funFact": {
+      "nb": "UNEP har hovedkvarter i Nairobi. Verdens miljødag ble markert første gang i 1973, med temaet «Only one earth».",
+      "sv": "UNEP har högkvarter i Nairobi. Världsmiljödagen uppmärksammades första gången 1973, med temat «Only one earth»."
+    },
+    "source": "Engelsk Wikipedia – «United Nations Conference on the Human Environment» og «World Environment Day»; lex.dk – «UNEP»"
+  },
+  {
+    "id": "fn-l-09",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "kunst"
+    ],
+    "prompt": {
+      "nb": "Organisasjonen for utdanning, vitenskap og kultur ble opprettet i 1946 med hovedkontor i Paris. Den forvalter lista over verdens fremste kulturminner og naturområder, der Norge har åtte oppføringer, sist industriarven i Rjukan og Notodden. Hva heter den, i forkortelse?",
+      "sv": "Organisationen för utbildning, vetenskap och kultur bildades 1946 med huvudkontor i Paris. Den förvaltar listan över världens främsta kulturminnen och naturområden, där Norge har åtta poster, senast industriarvet i Rjukan och Notodden. Vad heter den, i förkortning?"
+    },
+    "answer": "UNESCO",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Lista ble opprettet ved verdensarvkonvensjonen av 1972 og har over tusen oppføringer.",
+      "sv": "Listan upprättades genom världsarvskonventionen 1972 och har över tusen poster."
+    },
+    "funFact": {
+      "nb": "De norske oppføringene er Urnes stavkirke og Bryggen i Bergen (1979), Røros (1980), bergkunsten i Alta (1985), Vegaøyene (2004), Struves meridianbue og vestnorsk fjordlandskap (2005) og Rjukan–Notodden (2015).",
+      "sv": "De norska posterna är Urnes stavkyrka och Bryggen i Bergen (1979), Røros (1980), bergkonsten i Alta (1985), Vegaöarna (2004), Struves meridianbåge och västnorskt fjordlandskap (2005) samt Rjukan–Notodden (2015)."
+    },
+    "source": "Store norske leksikon – «UNESCO» og «UNESCOs verdensarvliste»"
+  },
+  {
+    "id": "fn-l-10",
+    "category": "fn",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "medisin"
+    ],
+    "prompt": {
+      "nb": "Fondet ble opprettet i 1946 for å gi nødhjelp til barn i Europa og Asia etter krigen. Det har hovedkontor i New York og landkontorer i 126 land, og fikk fredsprisen i 1965. Hva heter det?",
+      "sv": "Fonden inrättades 1946 för att ge nödhjälp till barn i Europa och Asien efter kriget. Den har huvudkontor i New York och landkontor i 126 länder, och fick fredspriset 1965. Vad heter den?"
+    },
+    "answer": "UNICEF",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet begynner med de samme tre bokstavene som kultur- og utdanningsorganisasjonen i Paris.",
+      "sv": "Namnet börjar med samma tre bokstäver som kultur- och utbildningsorganisationen i Paris."
+    },
+    "funFact": {
+      "nb": "Det opprinnelige navnet var United Nations International Children's Emergency Fund. Begrunnelsen for prisen var «its effort to enhance solidarity between nations».",
+      "sv": "Det ursprungliga namnet var United Nations International Children's Emergency Fund. Motiveringen för priset var «its effort to enhance solidarity between nations»."
+    },
+    "source": "Store norske leksikon – «UNICEF»; Nobelprize.org – «The Nobel Peace Prize 1965»"
+  }
+]

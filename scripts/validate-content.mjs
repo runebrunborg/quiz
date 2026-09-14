@@ -80,6 +80,8 @@ const ANCHORS = {
   jens: ['jens', 'evensen', 'jens evensen'],
   sjomat: ['sjømat', 'sjomat', 'sjömat', 'seafood', 'fisk', 'fisken', 'skaldjur'],
   hinton: ['geoffrey', 'hinton', 'hintons', 'geoffrey hinton'],
+  newyork: ['new york', 'newyork', 'nya york', 'york', 'ny'],
+  fn: ['fn', 'fns', 'de forente nasjoner', 'forente nasjoner', 'forenta nationerna', 'united nations', 'un'],
 }
 
 /**

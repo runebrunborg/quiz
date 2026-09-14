@@ -1,0 +1,115 @@
+{
+  "category": "fn",
+  "lines": {
+    "0": [
+      {
+        "nb": "Forslaget ditt ble nedstemt før det kom på bordet.",
+        "sv": "Ditt förslag röstades ner innan det kom på bordet."
+      },
+      {
+        "nb": "Ingen delegasjon stemte sammen med deg.",
+        "sv": "Ingen delegation röstade tillsammans med dig."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett land stemte med deg, og det var ditt eget.",
+        "sv": "Ett land röstade med dig, och det var ditt eget."
+      },
+      {
+        "nb": "Du fikk ordet, men ikke oppmerksomheten i salen.",
+        "sv": "Du fick ordet, men inte uppmärksamheten i salen."
+      }
+    ],
+    "2": [
+      {
+        "nb": "To poeng, og resolusjonen falt i generalforsamlingen.",
+        "sv": "Två poäng, och resolutionen föll i generalförsamlingen."
+      },
+      {
+        "nb": "Tolken rakk aldri å oversette svarene dine.",
+        "sv": "Tolken hann aldrig översätta dina svar."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Tre rette. Forhandlingene fortsetter i morgen tidlig.",
+        "sv": "Tre rätt. Förhandlingarna fortsätter i morgon bitti."
+      },
+      {
+        "nb": "Du har fått observatørstatus, ikke stemmerett.",
+        "sv": "Du har fått observatörsstatus, inte rösträtt."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Fire poeng, og et utkast som kan bearbeides videre.",
+        "sv": "Fyra poäng, och ett utkast som kan bearbetas vidare."
+      },
+      {
+        "nb": "Halvveis fram til et kompromiss alle kan leve med.",
+        "sv": "Halvvägs fram till en kompromiss alla kan leva med."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Halvparten satt: nok til en erklæring, ikke til en traktat.",
+        "sv": "Hälften satt: nog till en deklaration, inte till ett fördrag."
+      },
+      {
+        "nb": "Fem rette er et brukbart utgangspunkt for videre samtaler.",
+        "sv": "Fem rätt är en användbar utgångspunkt för fortsatta samtal."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Nå begynner delegasjonene å høre etter.",
+        "sv": "Nu börjar delegationerna faktiskt lyssna på dig."
+      },
+      {
+        "nb": "Seks poeng, og forslaget ditt står på dagsordenen.",
+        "sv": "Sex poäng, och ditt förslag står på dagordningen."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Sju rette. Vedtaket går gjennom i komiteen.",
+        "sv": "Sju rätt. Beslutet går igenom i utskottet."
+      },
+      {
+        "nb": "Du har flertallet bak deg når det gjelder.",
+        "sv": "Du har majoriteten bakom dig när det gäller."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Åtte av ti. Bare ett veto skiller deg fra full enighet.",
+        "sv": "Åtta av tio. Bara ett veto skiljer dig från full enighet."
+      },
+      {
+        "nb": "Resolusjonen er vedtatt med stort flertall.",
+        "sv": "Resolutionen är antagen med stor majoritet."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ni rette, og ingen la ned veto denne gangen.",
+        "sv": "Nio rätt, och ingen lade in veto den här gången."
+      },
+      {
+        "nb": "Sikkerhetsrådet stemte nesten enstemmig for deg.",
+        "sv": "Säkerhetsrådet röstade nästan enhälligt för dig."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Du har fortjent en plass på talerstolen.",
+        "sv": "Full pott. Du har förtjänat en plats i talarstolen."
+      },
+      {
+        "nb": "Ti av ti: enstemmig vedtatt, uten et eneste forbehold.",
+        "sv": "Tio av tio: enhälligt antaget, utan ett enda förbehåll."
+      }
+    ]
+  }
+}

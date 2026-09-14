@@ -1,0 +1,115 @@
+{
+  "category": "newyork",
+  "lines": {
+    "0": [
+      {
+        "nb": "Byen svelget deg hel før du kom ut av første kvartal.",
+        "sv": "Staden svalde dig hel innan du kom ut ur första kvarteret."
+      },
+      {
+        "nb": "Du kom deg ikke engang gjennom køen på Ellis Island.",
+        "sv": "Du tog dig inte ens genom kön på Ellis Island."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett riktig svar, og drosjen kjørte videre uten deg.",
+        "sv": "Ett rätt svar, och taxin körde vidare utan dig."
+      },
+      {
+        "nb": "Du fant fram til Broadway, men ikke til teateret.",
+        "sv": "Du hittade fram till Broadway, men inte till teatern."
+      }
+    ],
+    "2": [
+      {
+        "nb": "To poeng: nok til en kaffe, ikke til husleia.",
+        "sv": "Två poäng: nog till en kaffe, inte till hyran."
+      },
+      {
+        "nb": "Du står fortsatt nede på gata og ser opp.",
+        "sv": "Du står fortfarande nere på gatan och tittar upp."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Du begynner å kjenne igjen et par gatehjørner.",
+        "sv": "Du börjar känna igen ett par gathörn."
+      },
+      {
+        "nb": "Tre rette, og T-banen går i det minste riktig vei.",
+        "sv": "Tre rätt, och tunnelbanan går åtminstone åt rätt håll."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Halvveis opp Empire State, og du tok trappa.",
+        "sv": "Halvvägs upp för Empire State, och du tog trappan."
+      },
+      {
+        "nb": "Du klarer deg i Brooklyn, men ikke på Manhattan.",
+        "sv": "Du klarar dig i Brooklyn, men inte på Manhattan."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Fem rette. Du er turist med et godt kart.",
+        "sv": "Fem rätt. Du är turist med en bra karta."
+      },
+      {
+        "nb": "Halve byen sitter; den andre halvparten gjenstår.",
+        "sv": "Halva staden sitter; den andra halvan återstår."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Nå ser du forskjell på uptown og downtown.",
+        "sv": "Nu ser du skillnad på uptown och downtown."
+      },
+      {
+        "nb": "Seks poeng, og du har sluttet å gå rundt og se opp.",
+        "sv": "Sex poäng, och du har slutat gå omkring och titta upp."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Sju rette. Du kunne ha guidet en venn gjennom byen.",
+        "sv": "Sju rätt. Du hade kunnat guida en vän genom staden."
+      },
+      {
+        "nb": "Du finner fram uten å spørre noen om veien.",
+        "sv": "Du hittar fram utan att fråga någon om vägen."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Åtte av ti. Du er snart å regne som innfødt.",
+        "sv": "Åtta av tio. Du är snart att räkna som infödd."
+      },
+      {
+        "nb": "Du bestiller kaffen riktig på første forsøk.",
+        "sv": "Du beställer kaffet rätt på första försöket."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ni rette. Bare ett kvartal igjen til toppen.",
+        "sv": "Nio rätt. Bara ett kvarter kvar till toppen."
+      },
+      {
+        "nb": "Nesten alt satt, og byen er nesten din.",
+        "sv": "Nästan allt satt, och staden är nästan din."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Klarer du det her, klarer du det hvor som helst.",
+        "sv": "Full pott. Klarar du det här, klarar du det var som helst."
+      },
+      {
+        "nb": "Ti av ti: byen som aldri sover, lot deg vinne likevel.",
+        "sv": "Tio av tio: staden som aldrig sover lät dig vinna ändå."
+      }
+    ]
+  }
+}
