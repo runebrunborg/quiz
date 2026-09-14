@@ -1,0 +1,250 @@
+[
+  {
+    "id": "torden-l-01",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "mytologi"
+    ],
+    "prompt": {
+      "nb": "Han er den høyeste og mektigste guden i gresk mytologi, bor på fjellet Olympos, sender regn og snø, og rammer syndere med kiler av lyn. Romerne kalte den tilsvarende guden Jupiter. Hvem er han?",
+      "sv": "Han är den högste och mäktigaste guden i grekisk mytologi, bor på berget Olympos, sänder regn och snö och drabbar syndare med kilar av blixt. Romarna kallade motsvarande gud Jupiter. Vem är han?"
+    },
+    "answer": "Zevs",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Han var gift med søsteren Hera, og blant barna er Ares og Hefaistos.",
+      "sv": "Han var gift med systern Hera, och bland barnen finns Ares och Hefaistos."
+    },
+    "funFact": {
+      "nb": "I kunsten er kilen formet som to lotusknopper forbundet av en smal stang. Navnet «Zevs pater» er etymologisk i slekt med det latinske Jupiter.",
+      "sv": "I konsten är kilen formad som två lotusknoppar förbundna av en smal stång. Namnet «Zeus pater» är etymologiskt besläktat med det latinska Jupiter."
+    },
+    "source": "Store norske leksikon – «Zevs»"
+  },
+  {
+    "id": "torden-l-02",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "vitenskap"
+    ],
+    "prompt": {
+      "nb": "Han var boktrykker i Philadelphia fra 1728, satt i femmannsutvalget bak uavhengighetserklæringen i 1776 og var utsending til Paris. Men han fant også opp lynavlederen, i 1752, og viste med en drake at lyn er en elektrisk gnist. Hvem?",
+      "sv": "Han var boktryckare i Philadelphia från 1728, satt i femmannautskottet bakom självständighetsförklaringen 1776 och var sändebud i Paris. Men han uppfann också åskledaren, 1752, och visade med en drake att blixten är en elektrisk gnista. Vem?"
+    },
+    "answer": "Benjamin Franklin",
+    "answerKind": "person",
+    "person": {
+      "given": "Benjamin",
+      "family": "Franklin"
+    },
+    "hint": {
+      "nb": "Han foreslo også sommertid og fant opp bifokale briller.",
+      "sv": "Han föreslog också sommartid och uppfann bifokala glasögon."
+    },
+    "funFact": {
+      "nb": "En lynavleder virker bare med solid jordforbindelse: kobberstenger og kobbertråd i et grovmasket nett over bygningen, ledet ned til jordelektroder.",
+      "sv": "En åskledare fungerar bara med solid jordförbindelse: kopparstänger och koppartråd i ett grovmaskigt nät över byggnaden, lett ner till jordelektroder."
+    },
+    "source": "Store norske leksikon – «Benjamin Franklin» og «lynavleder»"
+  },
+  {
+    "id": "torden-l-03",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Etter seieren ved Marstrand i juli 1719 skal sjøhelten ha latt sine fåtallige menn marsjere på kryss og tvers gjennom gatene, så svenskene trodde hæren var stor. I dag brukes uttrykket om at de samme folkene går igjen overalt. Hvilket uttrykk?",
+      "sv": "Efter segern vid Marstrand i juli 1719 ska sjöhjälten ha låtit sina fåtaliga män marschera kors och tvärs genom gatorna, så att svenskarna trodde att hären var stor. I dag används uttrycket om att samma personer går igen överallt. Vilket uttryck?"
+    },
+    "answer": "Tordenskiolds soldater",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Sjøhelten het Peter Wessel til han ble adlet i 1715.",
+      "sv": "Sjöhjälten hette Peter Wessel tills han adlades 1715."
+    },
+    "funFact": {
+      "nb": "Store norske leksikon kaller anekdoten tvilsom, og fører den tilbake til Caspar Peter Rothes biografi fra 1747–1750.",
+      "sv": "Store norske leksikon kallar anekdoten tvivelaktig och för den tillbaka till Caspar Peter Rothes biografi från 1747–1750."
+    },
+    "source": "Store norske leksikon – «Tordenskiolds soldater» og «Peter Wessel Tordenskiold»"
+  },
+  {
+    "id": "torden-l-04",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "film"
+    ],
+    "prompt": {
+      "nb": "Den fjerde filmen i Eon-serien om agent 007 kom i 1965, med Sean Connery i hovedrollen og Terence Young som regissør. Den bygger på Ian Flemings roman fra 1961. Hva heter filmen på engelsk?",
+      "sv": "Den fjärde filmen i Eon-serien om agent 007 kom 1965, med Sean Connery i huvudrollen och Terence Young som regissör. Den bygger på Ian Flemings roman från 1961. Vad heter filmen på engelska?"
+    },
+    "answer": "Thunderball",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den norske tittelen er «Agent 007 og Operasjon Tordensky».",
+      "sv": "Den norska titeln är «Agent 007 og Operasjon Tordensky»."
+    },
+    "funFact": {
+      "nb": "Connery spilte Bond i fem filmer mellom 1962 og 1967, og kom senere tilbake i «Diamonds Are Forever» i 1971 og «Never Say Never Again» i 1983.",
+      "sv": "Connery spelade Bond i fem filmer mellan 1962 och 1967, och kom senare tillbaka i «Diamonds Are Forever» 1971 och «Never Say Never Again» 1983."
+    },
+    "source": "Store norske leksikon – «James Bond»; engelsk Wikipedia – «Thunderball (film)»"
+  },
+  {
+    "id": "torden-l-05",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "musikk"
+    ],
+    "prompt": {
+      "nb": "Bandet ble stiftet i Sydney i 1973 av brødrene Angus og Malcolm Young, og gitaristen opptrer fortsatt i skoleuniform. I 1990 kom «Thunderstruck», førstesingelen fra albumet «The Razors Edge». Hvilket band?",
+      "sv": "Bandet bildades i Sydney 1973 av bröderna Angus och Malcolm Young, och gitarristen uppträder fortfarande i skoluniform. År 1990 kom «Thunderstruck», första singeln från albumet «The Razors Edge». Vilket band?"
+    },
+    "answer": "AC/DC",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet består av to forkortelser for strømtyper, skilt av en skråstrek.",
+      "sv": "Namnet består av två förkortningar för strömtyper, åtskilda av ett snedstreck."
+    },
+    "funFact": {
+      "nb": "Bon Scott var vokalist til 1980, deretter Brian Johnson. Blant albumene er «Highway to Hell» fra 1979 og «Back in Black» fra 1980.",
+      "sv": "Bon Scott var sångare till 1980, därefter Brian Johnson. Bland albumen finns «Highway to Hell» från 1979 och «Back in Black» från 1980."
+    },
+    "source": "Store norske leksikon – «AC/DC»; engelsk Wikipedia – «Thunderstruck (song)»"
+  },
+  {
+    "id": "torden-l-06",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "natur"
+    ],
+    "prompt": {
+      "nb": "Den svenske meteorologen lærte faget hos Vilhelm Bjerknes i Bergen, arbeidet siden ved MIT og i Chicago, og forklarte sist på 1930-tallet de lange bølgene i atmosfæren og havet som henger sammen med jordrotasjonen. Hvem var han?",
+      "sv": "Den svenske meteorologen lärde sig facket hos Vilhelm Bjerknes i Bergen, arbetade sedan vid MIT och i Chicago, och förklarade i slutet av 1930-talet de långa vågorna i atmosfären och havet som hänger samman med jordrotationen. Vem var han?"
+    },
+    "answer": "Carl Gustaf Rossby",
+    "answerKind": "person",
+    "person": {
+      "given": "Carl Gustaf",
+      "family": "Rossby"
+    },
+    "hint": {
+      "nb": "Bølgene bærer etternavnet hans, og han beskrev også først hvordan jetstrømmen bølger seg.",
+      "sv": "Vågorna bär hans efternamn, och han beskrev också först hur jetströmmen böljar."
+    },
+    "funFact": {
+      "nb": "Den grunnleggende artikkelen kom i 1939. Bølgene har bølgelengder på flere tusen kilometer, og er viktigst i jetstrømmene på midlere og høye breddegrader.",
+      "sv": "Den grundläggande artikeln kom 1939. Vågorna har våglängder på flera tusen kilometer och är viktigast i jetströmmarna på mellersta och höga breddgrader."
+    },
+    "source": "Store norske leksikon – «Carl Gustaf Rossby» og «rossbybølger»"
+  },
+  {
+    "id": "torden-l-07",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "Det svenske jagerflyet med deltavinge og canardvinger fløy første gang 8. februar 1967 og ble til slutt avløst av Gripen. Navnet betyr både en toppand og det gamle ordet for Tors lyn. Hva het flyet?",
+      "sv": "Det svenska jaktplanet med deltavinge och canardvingar flög första gången den 8 februari 1967 och avlöstes till slut av Gripen. Namnet betyder både en vigg, alltså en dykand, och det gamla ordet för Tors blixt. Vad hette planet?"
+    },
+    "answer": "Viggen",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Flyet het Saab 37, og typenavnet står i bestemt form.",
+      "sv": "Planet hette Saab 37, och typnamnet står i bestämd form."
+    },
+    "funFact": {
+      "nb": "Ordet «åskvigg» kommer av tordensteinene i nordisk folketro, som skulle stamme fra Tors lynnedslag. Fuglenavnet spiller på canardutformingen foran hovedvingen.",
+      "sv": "Ordet «åskvigg» kommer av åskstenarna i nordisk folktro, som skulle härröra från Tors blixtnedslag. Fågelnamnet anspelar på canardutformningen framför huvudvingen."
+    },
+    "source": "Store norske leksikon – «Viggen»; engelsk Wikipedia – «Saab 37 Viggen»"
+  },
+  {
+    "id": "torden-l-08",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "sprak"
+    ],
+    "prompt": {
+      "nb": "Dagen har navn etter den norrøne tordenguden, fra norrønt «þórsdagr». På engelsk heter den Thursday, på tysk Donnerstag. Hos romerne var den viet Jupiter, som også var en tordengud. Hvilken ukedag?",
+      "sv": "Dagen har namn efter den fornnordiska åskguden, från fornnordiskans «þórsdagr». På engelska heter den Thursday, på tyska Donnerstag. Hos romarna var den vigd åt Jupiter, som också var en åskgud. Vilken veckodag?"
+    },
+    "answer": "Torsdag",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er den fjerde i uka når man regner fra mandag.",
+      "sv": "Den är den fjärde i veckan när man räknar från måndag."
+    },
+    "funFact": {
+      "nb": "I førkristen tid var dagen hellig, med egne ritualer knyttet til kveldene. Den franske formen «jeudi» kommer av latin «dies Jovis», Jupiters dag.",
+      "sv": "I förkristen tid var dagen helig, med egna ritualer knutna till kvällarna. Den franska formen «jeudi» kommer av latinets «dies Jovis», Jupiters dag."
+    },
+    "source": "Store norske leksikon – «torsdag»; engelsk Wikipedia – «Thursday»"
+  },
+  {
+    "id": "torden-l-09",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Byen ligger på sørøstsiden av Streymoy og huser lagtinget og landsstyret. Navnet er satt sammen av et gudenavn og det norrøne ordet for havn, og bydelen Tinganes har navn etter tinget på neset. Hvilken hovedstad?",
+      "sv": "Staden ligger på sydöstra sidan av Streymoy och hyser lagtinget och landsstyret. Namnet är sammansatt av ett gudanamn och det fornnordiska ordet för hamn, och stadsdelen Tinganes har namn efter tinget på näset. Vilken huvudstad?"
+    },
+    "answer": "Tórshavn",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den er hovedstad på Færøyene, og rundt en tredjedel av øyenes befolkning bor der.",
+      "sv": "Den är huvudstad på Färöarna, och omkring en tredjedel av öarnas befolkning bor där."
+    },
+    "funFact": {
+      "nb": "Løgtinget skal være opprettet i år 900 og kalles verdens eldste lovgivende forsamling. Det har 33 medlemmer, valgt hvert fjerde år.",
+      "sv": "Lagtinget ska ha inrättats år 900 och kallas världens äldsta lagstiftande församling. Det har 33 ledamöter, valda vart fjärde år."
+    },
+    "source": "Store norske leksikon – «Tórshavn» og «Færøyene»"
+  },
+  {
+    "id": "torden-l-10",
+    "category": "torden",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "dyr"
+    ],
+    "prompt": {
+      "nb": "Billen er stor, rundaktig og mørk, og graver ned dyremøkk som den resirkulerer. Fire arter finnes i Norge, blant dem skogarten og engarten. Navnet ser ut til å komme fra tordenguden, men gjør det ikke. Hva heter den?",
+      "sv": "Skalbaggen är stor, rundaktig och mörk och gräver ner djurspillning som den återvinner. Fyra arter finns i Norge, bland dem skogsarten och ängsarten. Namnet ser ut att komma från åskguden, men gör det inte. Vad heter den?"
+    },
+    "answer": "Tordivel",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Familien heter Geotrupidae på latin, og det norske navnet begynner likevel på «tor».",
+      "sv": "Familjen heter Geotrupidae på latin, och det norska namnet börjar ändå på «tor»."
+    },
+    "funFact": {
+      "nb": "Navnet kommer av norrønt «torðyfill», av «torð-» som betyr møkk, og «-ýfill», trolig av et eldre ord for bille. Altså møkkbille, ikke tordenbille.",
+      "sv": "Namnet kommer av fornnordiskans «torðyfill», av «torð-» som betyder spillning, och «-ýfill», troligen av ett äldre ord för skalbagge. Alltså dyngbagge, inte åskbagge."
+    },
+    "source": "Store norske leksikon – «tordivler»"
+  }
+]

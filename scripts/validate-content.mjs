@@ -84,6 +84,7 @@ const ANCHORS = {
   fn: ['fn', 'fns', 'de forente nasjoner', 'forente nasjoner', 'forenta nationerna', 'united nations', 'un'],
   goteborg: ['goteborg', 'göteborg', 'gøteborg', 'gothenburg', 'gotheborg'],
   valley: ['silicon valley', 'siliconvalley', 'silicon', 'valley', 'silikondalen', 'kiseldalen'],
+  torden: ['torden', 'tordenen', 'tordenvaer', 'aska', 'askan', 'asklader', 'thunder', 'donner', 'tonnerre'],
 }
 
 /**

@@ -1092,6 +1092,29 @@ const scenes: Record<string, () => ReactElement> = {
       <circle cx="152" cy="94" r="6" fill="#FF2D8E" />
     </Frame>
   ),
+
+  /* ---------------------------------------------------------------- Torden */
+  torden: () => (
+    <Frame id="s-torden" sky={['#3A2E5C', '#0D0A1E']}>
+      {/* Bygeskya, bygd av overlappende former med lysere topp. */}
+      <g fill="#2A2150">
+        <circle cx="104" cy="100" r="36" /><circle cx="152" cy="82" r="46" /><circle cx="212" cy="74" r="54" />
+        <circle cx="272" cy="88" r="44" /><circle cx="318" cy="104" r="32" />
+        <rect x="70" y="96" width="264" height="40" rx="18" />
+      </g>
+      <g fill="#453A78" opacity="0.85">
+        <circle cx="152" cy="72" r="34" /><circle cx="212" cy="62" r="40" /><circle cx="268" cy="76" r="30" />
+      </g>
+      <g stroke="#6E63A8" strokeWidth="2.4" strokeLinecap="round" opacity="0.55">
+        <path d="M96 142l-8 26M124 148l-8 26M152 142l-8 30M296 146l-8 26M324 140l-8 28M350 150l-8 22" />
+      </g>
+      {/* Lynet er scenens ene bevegelse. */}
+      <g className="sc-glo" style={{ animationDuration: '7s' }}>
+        <path d="M250 122 L228 154 L244 154 L226 182 L262 146 L246 146 L264 122 Z" fill="#FFD24A" />
+        <path d="M250 122 L236 142 L250 142 L238 166 L256 144 L244 144 L258 122 Z" fill="#FFF0B8" opacity="0.9" />
+      </g>
+    </Frame>
+  ),
 }
 
 export function ThemeScene({ scene }: { scene: string }) {

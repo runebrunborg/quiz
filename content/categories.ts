@@ -252,6 +252,12 @@ export const CATEGORIES: Category[] = [
     scene: 'valley',
     gradient: ['#0E5A46', '#FF2D8E'],
   },
+  {
+    id: 'torden',
+    name: { nb: 'Torden', sv: 'Åska' },
+    scene: 'torden',
+    gradient: ['#3A2E5C', '#FF2D8E'],
+  },
 ]
 
 export const CATEGORY_BY_ID = new Map(CATEGORIES.map((c) => [c.id, c]))

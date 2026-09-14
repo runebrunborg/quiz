@@ -1,0 +1,115 @@
+{
+  "category": "torden",
+  "lines": {
+    "0": [
+      {
+        "nb": "Det ble ikke så mye som et grynt fra skyene.",
+        "sv": "Det blev inte så mycket som ett muller från molnen."
+      },
+      {
+        "nb": "Du så lynet, men gjettet på feil vær.",
+        "sv": "Du såg blixten, men gissade på fel väder."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett drønn i det fjerne, og så stille igjen.",
+        "sv": "Ett dån i fjärran, och sedan tyst igen."
+      },
+      {
+        "nb": "Været trakk forbi uten å treffe deg.",
+        "sv": "Ovädret drog förbi utan att träffa dig."
+      }
+    ],
+    "2": [
+      {
+        "nb": "To poeng. Du telte til tjue mellom lyn og skrall.",
+        "sv": "Två poäng. Du räknade till tjugo mellan blixt och skräll."
+      },
+      {
+        "nb": "Tordenen rullet, men langt utenfor rekkevidde.",
+        "sv": "Åskan rullade, men långt utom räckhåll."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Tre rette, og været nærmer seg langsomt.",
+        "sv": "Tre rätt, och ovädret närmar sig långsamt."
+      },
+      {
+        "nb": "Du kjenner trykket, men skyene har ikke sprukket.",
+        "sv": "Du känner trycket, men molnen har inte spruckit."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Fire poeng, og de første dråpene har begynt å falle.",
+        "sv": "Fyra poäng, och de första dropparna har börjat falla."
+      },
+      {
+        "nb": "Halvveis inn i bygen, og du står fortsatt tørr.",
+        "sv": "Halvvägs in i skuren, och du står fortfarande torr."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Halvparten satt. Tre sekunder mellom lyn og skrall.",
+        "sv": "Hälften satt. Tre sekunder mellan blixt och skräll."
+      },
+      {
+        "nb": "Fem rette, og været står rett over hodet på deg.",
+        "sv": "Fem rätt, och ovädret står rakt ovanför huvudet på dig."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Nå begynner det å smelle for alvor.",
+        "sv": "Nu börjar det smälla på allvar."
+      },
+      {
+        "nb": "Seks poeng, og lynene kommer tettere.",
+        "sv": "Sex poäng, och blixtarna kommer tätare."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Sju rette. Det lyser opp hele himmelen.",
+        "sv": "Sju rätt. Det lyser upp hela himlen."
+      },
+      {
+        "nb": "Du traff der det slo ned, sju ganger av ti.",
+        "sv": "Du träffade där det slog ner, sju gånger av tio."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Åtte av ti. Et skikkelig skrall over dalen.",
+        "sv": "Åtta av tio. En rejäl skräll över dalen."
+      },
+      {
+        "nb": "Bare et par skyer igjen mellom deg og full pott.",
+        "sv": "Bara ett par moln kvar mellan dig och full pott."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ni rette. Lynavlederen din står som den skal.",
+        "sv": "Nio rätt. Din åskledare står som den ska."
+      },
+      {
+        "nb": "Nesten alt satt, og ingenting gikk til jord forgjeves.",
+        "sv": "Nästan allt satt, och ingenting gick till jord förgäves."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Du slo ned i alle ti på én gang.",
+        "sv": "Full pott. Du slog ner i alla tio på en gång."
+      },
+      {
+        "nb": "Ti av ti: Tor selv hadde ikke truffet bedre.",
+        "sv": "Tio av tio: Tor själv hade inte träffat bättre."
+      }
+    ]
+  }
+}
