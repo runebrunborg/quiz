@@ -1,0 +1,253 @@
+[
+  {
+    "id": "goteborg-l-01",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "popkultur"
+    ],
+    "prompt": {
+      "nb": "Fornøyelsesparken åpnet 8. mai 1923 og er sammen med Gröna Lund i Stockholm Sveriges mest populære forlystelsesområde. Den ligger i byen ved Göta älvs munning. Hva heter parken?",
+      "sv": "Nöjesparken öppnade den 8 maj 1923 och är tillsammans med Gröna Lund i Stockholm Sveriges populäraste nöjesområde. Den ligger i staden vid Göta älvs mynning. Vad heter parken?"
+    },
+    "answer": "Liseberg",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den tar imot rundt tre millioner gjester i løpet av en sesong.",
+      "sv": "Den tar emot omkring tre miljoner gäster under en säsong."
+    },
+    "funFact": {
+      "nb": "Parken regnes som Skandinavias største fornøyelsespark.",
+      "sv": "Parken räknas som Skandinaviens största nöjespark."
+    },
+    "source": "lex.dk – «Liseberg»; Store norske leksikon – «Göteborg»; engelsk Wikipedia – «Liseberg»"
+  },
+  {
+    "id": "goteborg-l-02",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "arkitektur"
+    ],
+    "prompt": {
+      "nb": "Stilperioden varte fra omkring 1140 til 1500 og oppsto i fransk kirkearkitektur. Spisse buer avløste rundbuene, ribbehvelv og strebebuer flyttet vekten ut av veggene, og vinduene kunne bli store. Hva heter stilen?",
+      "sv": "Stilperioden varade från omkring 1140 till 1500 och uppstod i fransk kyrkoarkitektur. Spetsbågar avlöste rundbågarna, ribbvalv och strävbågar flyttade tyngden ut ur väggarna, och fönstren kunde bli stora. Vad heter stilen?"
+    },
+    "answer": {
+      "nb": "Gotikken",
+      "sv": "Gotiken"
+    },
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Navnet var opprinnelig ment som et skjellsord, og henspiller på et germansk folk.",
+      "sv": "Namnet var ursprungligen menat som ett skällsord och anspelar på ett germanskt folk."
+    },
+    "funFact": {
+      "nb": "Giorgio Vasari karakteriserte stilen som like barbarisk som goterne. Navnet ble stående, men uten negativ mening.",
+      "sv": "Giorgio Vasari beskrev stilen som lika barbarisk som goterna. Namnet blev kvar, men utan negativ innebörd."
+    },
+    "source": "Store norske leksikon – «gotikk»"
+  },
+  {
+    "id": "goteborg-l-03",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "sport"
+    ],
+    "prompt": {
+      "nb": "Arenaen stod klar i mai 1958 og ble bygd til fotball-VM samme år, der det ble spilt sju kamper på den. Den tar 43 000 tilskuere til idrett og 75 000 til konsert. Hva heter den?",
+      "sv": "Arenan stod klar i maj 1958 och byggdes till fotbolls-VM samma år, där sju matcher spelades på den. Den tar 43 000 åskådare vid idrott och 75 000 vid konsert. Vad heter den?"
+    },
+    "answer": "Nya Ullevi",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den ligger i Göteborg, og det første ordet i navnet skiller den fra en eldre arena like ved.",
+      "sv": "Den ligger i Göteborg, och det första ordet i namnet skiljer den från en äldre arena alldeles intill."
+    },
+    "funFact": {
+      "nb": "Den er Sveriges største konsertarena. Publikumsrekorden er rundt 73 800, satt på en konsert i 2025.",
+      "sv": "Den är Sveriges största konsertarena. Publikrekordet är omkring 73 800, satt på en konsert 2025."
+    },
+    "source": "Store norske leksikon – «Nya Ullevi»; engelsk Wikipedia – «Ullevi»"
+  },
+  {
+    "id": "goteborg-l-04",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "tv"
+    ],
+    "prompt": {
+      "nb": "8. mai 1989 dukket det opp en ny fiende i episoden «Q Who»: kybernetiske vesener koblet sammen i et kollektiv, med replikken «Resistance is futile». Navnet deres er andre halvdel av temaets navn. Hvilken TV-serie?",
+      "sv": "Den 8 maj 1989 dök en ny fiende upp i avsnittet «Q Who»: cybernetiska varelser sammankopplade i ett kollektiv, med repliken «Resistance is futile». Deras namn är andra halvan av temats namn. Vilken tv-serie?"
+    },
+    "answer": "Star Trek: The Next Generation",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Serien gikk fra 1987 til 1994, med Patrick Stewart som kaptein.",
+      "sv": "Serien gick från 1987 till 1994, med Patrick Stewart som kapten."
+    },
+    "funFact": {
+      "nb": "Replikken ble nummer 93 på TV Lands liste over de hundre største TV-sitatene. Kollektivet kalles «The Collective».",
+      "sv": "Repliken blev nummer 93 på TV Lands lista över de hundra största tv-citaten. Kollektivet kallas «The Collective»."
+    },
+    "source": "Engelsk Wikipedia – «Borg (Star Trek)»; Encyclopaedia Britannica – «Star Trek: The Next Generation»"
+  },
+  {
+    "id": "goteborg-l-05",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "militaerhistorie"
+    ],
+    "prompt": {
+      "nb": "8. juli 1716 gikk han inn i en trang fjord i Bohuslän med sju fartøy og nedkjempet 29 svenske skip på fem timer. Karl 12. avbrøt felttoget i Norge samme dag. Tre år senere tok han Marstrand. Hvem var han?",
+      "sv": "Den 8 juli 1716 gick han in i en trång fjord i Bohuslän med sju fartyg och besegrade 29 svenska skepp på fem timmar. Karl XII avbröt fälttåget i Norge samma dag. Tre år senare tog han Marstrand. Vem var han?"
+    },
+    "answer": "Peter Wessel Tordenskiold",
+    "answerKind": "person",
+    "person": {
+      "given": "Peter",
+      "family": "Tordenskiold"
+    },
+    "hint": {
+      "nb": "Han het opprinnelig Peter Jansen Wessel og ble adlet i 1715.",
+      "sv": "Han hette ursprungligen Peter Jansen Wessel och adlades 1715."
+    },
+    "funFact": {
+      "nb": "Han var født i Trondheim i 1690, som det fjortende av atten barn. Marstrand ligger omkring 30 kilometer nordvest for Göteborg; der landsatte han 600 mann i 1719.",
+      "sv": "Han föddes i Trondheim 1690, som det fjortonde av arton barn. Marstrand ligger omkring 30 kilometer nordväst om Göteborg; där landsatte han 600 man 1719."
+    },
+    "source": "Store norske leksikon – «Peter Wessel Tordenskiold», «Dynekilen» og «Marstrand»"
+  },
+  {
+    "id": "goteborg-l-06",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "litteratur"
+    ],
+    "prompt": {
+      "nb": "Sommeren 1816 satt hun sammen med mannen sin, Lord Byron og John Polidori ved Genèvesjøen, i et regnvær som ble til et veddemål om hvem som kunne skrive den beste skrekkhistorien. Hun vant, og i 1818 kom boka. Hvem var hun?",
+      "sv": "Sommaren 1816 satt hon tillsammans med sin man, Lord Byron och John Polidori vid Genèvesjön, i ett regnväder som blev till ett vad om vem som kunde skriva den bästa skräckhistorien. Hon vann, och 1818 kom boken. Vem var hon?"
+    },
+    "answer": "Mary Shelley",
+    "answerKind": "person",
+    "person": {
+      "given": "Mary",
+      "family": "Shelley"
+    },
+    "hint": {
+      "nb": "Boka heter «Frankenstein» og regnes av mange som den første science fiction-romanen.",
+      "sv": "Boken heter «Frankenstein» och räknas av många som den första science fiction-romanen."
+    },
+    "funFact": {
+      "nb": "Hun ble født i London i 1797 og døde der i 1851. Romanen knyttes både til romantikken og til den gotiske romanen.",
+      "sv": "Hon föddes i London 1797 och dog där 1851. Romanen knyts både till romantiken och till den gotiska romanen."
+    },
+    "source": "Store norske leksikon – «Mary Shelley» og «Frankenstein»"
+  },
+  {
+    "id": "goteborg-l-07",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "geografi"
+    ],
+    "prompt": {
+      "nb": "Havstykket mellom Danmark og Sverige er rundt 22 000 kvadratkilometer og strekker seg fra Sjælland og Fyn i sør til en linje mellom Skagen og Marstrand. Byen temaet er oppkalt etter ligger i den nordlige delen. Hva heter det?",
+      "sv": "Havsstycket mellan Danmark och Sverige är omkring 22 000 kvadratkilometer och sträcker sig från Själland och Fyn i söder till en linje mellan Skagen och Marstrand. Staden temat är uppkallat efter ligger i den norra delen. Vad heter det?"
+    },
+    "answer": "Kattegat",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Den vestlige delen er grunn, under 20 meter; det største dypet er rundt 130 meter utenfor Varberg.",
+      "sv": "Den västra delen är grund, under 20 meter; största djupet är omkring 130 meter utanför Varberg."
+    },
+    "funFact": {
+      "nb": "Byen ligger på begge sider av Göta älvs munning, omkring 140 kilometer sør for Norge.",
+      "sv": "Staden ligger på båda sidor om Göta älvs mynning, omkring 140 kilometer söder om Norge."
+    },
+    "source": "Store norske leksikon – «Kattegat» og «Göteborg»"
+  },
+  {
+    "id": "goteborg-l-08",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "int",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "Han førte østgoterne inn i Italia og styrte riket derfra fra 490-årene. Mausoleet hans i Ravenna er det eneste bevarte eksempelet på østgotisk arkitektur. Folket hans ga senere navn til en hel stilperiode, som skjellsord. Hvem var han?",
+      "sv": "Han förde östgoterna in i Italien och styrde riket därifrån från 490-talet. Hans mausoleum i Ravenna är det enda bevarade exemplet på östgotisk arkitektur. Hans folk gav senare namn åt en hel stilperiod, som skällsord. Vem var han?"
+    },
+    "answer": "Theoderik den store",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Tilnavnet hans er «den store», og riket hans i Italia varte til midten av 500-tallet.",
+      "sv": "Hans tillnamn är «den store», och hans rike i Italien varade till mitten av 500-talet."
+    },
+    "funFact": {
+      "nb": "Østgoterne vandret rundt år 150 fra Østersjøområdet til traktene ved Svartehavet. Riket i Italia opphørte mellom 552 og 555.",
+      "sv": "Östgoterna vandrade omkring år 150 från Östersjöområdet till trakterna vid Svarta havet. Riket i Italien upphörde mellan 552 och 555."
+    },
+    "source": "Store norske leksikon – «østgoterne» og «gotikk»"
+  },
+  {
+    "id": "goteborg-l-09",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "no",
+    "topics": [
+      "historie"
+    ],
+    "prompt": {
+      "nb": "26. februar 1658 måtte Danmark-Norge avstå Skåne, Blekinge og Halland, og fra Norge også Trondheim len og landskapet som strekker seg fra Svinesund ned til Göta älvs munning. Hva heter denne freden?",
+      "sv": "Den 26 februari 1658 måste Danmark-Norge avstå Skåne, Blekinge och Halland, och från Norge även Trondheims län och landskapet som sträcker sig från Svinesund ner till Göta älvs mynning. Vad heter denna fred?"
+    },
+    "answer": "Freden i Roskilde",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Uvanlig kulde lot svenske tropper gå over isen til de danske øyene, og hovedstaden var truet.",
+      "sv": "Ovanlig kyla lät svenska trupper gå över isen till de danska öarna, och huvudstaden var hotad."
+    },
+    "funFact": {
+      "nb": "Landskapet er Bohuslän, som hadde tilhørt Norge helt fra rikssamlingen. Krigen begynte da Danmark-Norge erklærte Sverige krig 1. juni 1657.",
+      "sv": "Landskapet är Bohuslän, som hade tillhört Norge ända från rikssamlingen. Kriget började när Danmark-Norge förklarade Sverige krig den 1 juni 1657."
+    },
+    "source": "Store norske leksikon – «freden i Roskilde» og «Bohuslän»"
+  },
+  {
+    "id": "goteborg-l-10",
+    "category": "goteborg",
+    "difficulty": "lett",
+    "origin": "se",
+    "topics": [
+      "okonomi"
+    ],
+    "prompt": {
+      "nb": "Selskapet ble grunnlagt i byen i 1731 og handlet med kinesiske havner: te, silke, porselen, krydder og pepper. 12. september 1745 sank et av skipene rett utenfor Älvsborg festning, ved innseilingen, etter en vellykket tur til Kina og hjem. Hva het selskapet?",
+      "sv": "Företaget grundades i staden 1731 och handlade med kinesiska hamnar: te, siden, porslin, kryddor och peppar. Den 12 september 1745 sjönk ett av skeppen strax utanför Älvsborgs fästning, vid inloppet, efter en lyckad resa till Kina och hem. Vad hette företaget?"
+    },
+    "answer": "Svenska Ostindiska Companiet",
+    "answerKind": "annet",
+    "hint": {
+      "nb": "Forkortelsen er SOIC, og selskapet hadde hovedsete i byen fra 1731.",
+      "sv": "Förkortningen är SOIC, och företaget hade sitt säte i staden från 1731."
+    },
+    "funFact": {
+      "nb": "Skipet som forliste, het «Götheborg». Selskapet drev i drøyt åtti år, over fire oktroiperioder.",
+      "sv": "Skeppet som förliste hette «Götheborg». Företaget verkade i drygt åttio år, över fyra oktrojperioder."
+    },
+    "source": "Engelsk Wikipedia – «Swedish East India Company»; Store norske leksikon – «Göteborg»"
+  }
+]

@@ -1023,6 +1023,43 @@ const scenes: Record<string, () => ReactElement> = {
       </g>
     </Frame>
   ),
+
+  /* -------------------------------------------------------------- Göteborg */
+  goteborg: () => (
+    <Frame id="s-goteborg" sky={['#0E6E8C', '#03222E']}>
+      <circle cx="52" cy="50" r="22" fill="#FF2D8E" opacity="0.32" />
+      <path d="M-10 158c50-5 100-11 150-9 44 2 78 7 112 8 34 1 100-3 158-5v20H-10z" fill="#022029" />
+      {/* Portalkrana paa verftssida. */}
+      <g fill="#07323F">
+        <rect x="292" y="58" width="10" height="110" /><rect x="352" y="58" width="10" height="110" />
+        <rect x="272" y="46" width="100" height="12" />
+        <path d="M272 46 L240 26 L254 24 L286 44 Z" />
+        <rect x="316" y="58" width="3" height="56" />
+        <rect x="308" y="114" width="19" height="12" />
+        <rect x="286" y="160" width="82" height="8" />
+      </g>
+      {/* Ostindiefarer med tre master. */}
+      <g>
+        <g fill="#062A36">
+          <rect x="112" y="62" width="5" height="86" /><rect x="152" y="52" width="5" height="96" /><rect x="192" y="64" width="5" height="84" />
+        </g>
+        <g fill="#EAF3F7" opacity="0.93">
+          <path d="M96 74 h18 v22 H96z" /><path d="M94 102 h20 v22 H94z" />
+          <path d="M135 64 h20 v24 h-20z" /><path d="M133 94 h22 v26 h-22z" />
+          <path d="M176 76 h18 v20 h-18z" /><path d="M174 102 h20 v22 h-20z" />
+        </g>
+        <path d="M88 146 h124 l-14 22 H102 Z" fill="#1A6E86" />
+        <path d="M88 146 h124 l-2 5 H90 Z" fill="#2E8CA4" />
+        <path d="M114 62 l7 -11 2 11z" fill="#FF2D8E" />
+      </g>
+      <rect x="-10" y="168" width="420" height="100" fill="#041E29" />
+      {/* Havflaten er scenens ene bevegelse. */}
+      <g className="sc-svai" style={{ animationDuration: '26s' }}>
+        <path d="M-14 174c46 12 92 12 138 0s92-12 138 0 92 12 148 0v26H-14z" fill="#0B5E78" opacity="0.6" />
+        <path d="M-14 198c40 10 80 10 120 0s80-10 120 0 80 10 140 0v24H-14z" fill="#12849E" opacity="0.34" />
+      </g>
+    </Frame>
+  ),
 }
 
 export function ThemeScene({ scene }: { scene: string }) {

@@ -1,0 +1,115 @@
+{
+  "category": "goteborg",
+  "lines": {
+    "0": [
+      {
+        "nb": "Båten gikk uten deg, og kaia lå tom igjen.",
+        "sv": "Båten gick utan dig, och kajen låg tom kvar."
+      },
+      {
+        "nb": "Du kom deg ikke lenger enn til billettluka.",
+        "sv": "Du kom inte längre än till biljettluckan."
+      }
+    ],
+    "1": [
+      {
+        "nb": "Ett poeng: nok til en kaffe på Avenyn, ikke mer.",
+        "sv": "En poäng: nog till en kaffe på Avenyn, inte mer."
+      },
+      {
+        "nb": "Regnet tok deg allerede i første kvartal.",
+        "sv": "Regnet tog dig redan i första kvarteret."
+      }
+    ],
+    "2": [
+      {
+        "nb": "To rette. Du fant havna, men aldri fram til kaia.",
+        "sv": "Två rätt. Du hittade hamnen, men aldrig fram till kajen."
+      },
+      {
+        "nb": "Vitsen din falt like flatt som været den dagen.",
+        "sv": "Ditt skämt föll lika platt som vädret den dagen."
+      }
+    ],
+    "3": [
+      {
+        "nb": "Tre poeng, og elva bærer deg i det minste riktig vei.",
+        "sv": "Tre poäng, och älven bär dig åtminstone åt rätt håll."
+      },
+      {
+        "nb": "Du begynner å kjenne igjen sporvognene.",
+        "sv": "Du börjar känna igen spårvagnarna i staden."
+      }
+    ],
+    "4": [
+      {
+        "nb": "Fire rette, og du er halvveis ut fjorden.",
+        "sv": "Fyra rätt, och du är halvvägs ut ur fjorden."
+      },
+      {
+        "nb": "Du har fått landkjenning, men ikke lagt til kai.",
+        "sv": "Du har fått landkänning, men inte lagt till vid kaj."
+      }
+    ],
+    "5": [
+      {
+        "nb": "Halve lasten kom fram i god behold.",
+        "sv": "Halva lasten kom fram i gott behåll."
+      },
+      {
+        "nb": "Fem poeng er en brukbar fangst for en dag på sjøen.",
+        "sv": "Fem poäng är en användbar fångst för en dag till sjöss."
+      }
+    ],
+    "6": [
+      {
+        "nb": "Nå begynner du å kjenne igjen skjærgården.",
+        "sv": "Nu börjar du känna igen skärgården."
+      },
+      {
+        "nb": "Seks rette, og vinden står endelig riktig vei.",
+        "sv": "Sex rätt, och vinden står äntligen åt rätt håll."
+      }
+    ],
+    "7": [
+      {
+        "nb": "Sju poeng. Lasten er verdt hele turen.",
+        "sv": "Sju poäng. Lasten är värd hela resan."
+      },
+      {
+        "nb": "Du kunne ha loset noen andre inn nå.",
+        "sv": "Du hade kunnat lotsa in någon annan nu."
+      }
+    ],
+    "8": [
+      {
+        "nb": "Åtte av ti, og du er nesten hjemme i havna.",
+        "sv": "Åtta av tio, och du är nästan hemma i hamnen."
+      },
+      {
+        "nb": "Bare et par knop unna målet.",
+        "sv": "Bara ett par knop från målet."
+      }
+    ],
+    "9": [
+      {
+        "nb": "Ni rette. Du la til kai uten en eneste skramme.",
+        "sv": "Nio rätt. Du lade till vid kaj utan en enda skråma."
+      },
+      {
+        "nb": "Nesten alt satt, og skipet er så godt som i havn.",
+        "sv": "Nästan allt satt, och skeppet är så gott som i hamn."
+      }
+    ],
+    "10": [
+      {
+        "nb": "Full pott. Hele lasten kom fram, og skipet med.",
+        "sv": "Full pott. Hela lasten kom fram, och skeppet med."
+      },
+      {
+        "nb": "Ti av ti: du kunne ha styrt ostindiefareren selv.",
+        "sv": "Tio av tio: du hade kunnat styra ostindiefararen själv."
+      }
+    ]
+  }
+}
