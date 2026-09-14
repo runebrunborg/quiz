@@ -15,6 +15,9 @@ import {
   poolFor,
   QUESTIONS_PER_ROUND,
   TOPICAL_PER_ROUND,
+  TOPICAL_FRESH_DAYS,
+  freshTopicalFor,
+  topicalFor,
 } from '../content'
 import {
   hasOnThisDay,
@@ -323,6 +326,38 @@ describe('dagsaktuelle spørsmål', () => {
     const round = composeRound(pool, 'no', 'frø', QUESTIONS_PER_ROUND, DAY)
     expect(round).toHaveLength(QUESTIONS_PER_ROUND)
     expect(round.slice(-TOPICAL_PER_ROUND).map((r) => r.id).sort()).toEqual(['x-l-a1', 'x-l-a2'])
+  })
+})
+
+describe('ferske hendelser på temakortet', () => {
+  const medHendelse = ALL_QUESTIONS.filter((x) => x.topical?.event)
+
+  function pluss(day: string, dager: number): string {
+    return new Date(Date.parse(day) + dager * 86_400_000).toISOString().slice(0, 10)
+  }
+
+  it('er alltid en delmengde av de aktive dagsaktuelle', () => {
+    for (const cat of CATEGORIES) {
+      for (const d of DIFFICULTIES) {
+        const ferske = freshTopicalFor(cat.id, d, DAY).map((x) => x.id)
+        const aktive = new Set(topicalFor(cat.id, d, DAY).map((x) => x.id))
+        for (const id of ferske) expect(aktive.has(id)).toBe(true)
+      }
+    }
+  })
+
+  it('tar med hendelsen rett etter at den skjedde, og slipper den når vinduet er ute', () => {
+    const q0 = medHendelse[0]
+    const rettEtter = pluss(q0.topical!.event, 2)
+    const lengeEtter = pluss(q0.topical!.event, TOPICAL_FRESH_DAYS + 10)
+    expect(freshTopicalFor(q0.category, q0.difficulty, rettEtter).map((x) => x.id)).toContain(q0.id)
+    expect(freshTopicalFor(q0.category, q0.difficulty, lengeEtter).map((x) => x.id)).not.toContain(q0.id)
+  })
+
+  it('teller aldri en hendelse som ikke har skjedd ennå', () => {
+    const q0 = medHendelse[0]
+    const foer = pluss(q0.topical!.event, -3)
+    expect(freshTopicalFor(q0.category, q0.difficulty, foer).map((x) => x.id)).not.toContain(q0.id)
   })
 })
 

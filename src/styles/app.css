@@ -69,10 +69,70 @@
   gap: 4px;
 }
 
-.cat-card__flags .pill {
+/* Merkene er ikoner, ikke tekst: tre ord per merke tok halve kortet, og de
+   samme merkene gar igjen pa hvert kort. Tegnforklaringen star over grida. */
+.flag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: var(--r-pill);
+  border: 1px solid var(--border);
+  background: rgba(5, 8, 30, 0.62);
   backdrop-filter: blur(6px);
+  color: var(--text-muted);
+  flex: none;
+}
+
+.flag svg {
+  width: 17px;
+  height: 17px;
+  display: block;
+}
+
+.flag--dag {
+  border-color: var(--border-pink);
+  background: rgba(255, 45, 142, 0.22);
+  color: var(--pink-200);
+}
+
+.flag--fersk {
+  border-color: rgba(255, 201, 77, 0.45);
+  background: rgba(255, 201, 77, 0.18);
+  color: var(--amber-400);
+}
+
+.flag--ny {
+  border-color: rgba(58, 214, 224, 0.45);
+  background: rgba(58, 214, 224, 0.16);
+  color: var(--cyan-400);
+}
+
+/* Tegnforklaring over temaene – bare merkene som faktisk er i bruk i dag. */
+.cat-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-2) var(--sp-5);
+  margin: 0 0 var(--sp-2);
   font-size: var(--step--1);
-  padding: 3px 9px;
+  color: var(--text-faint);
+}
+
+.cat-legend__item {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-2);
+}
+
+.cat-legend .flag {
+  width: 22px;
+  height: 22px;
+}
+
+.cat-legend .flag svg {
+  width: 14px;
+  height: 14px;
 }
 
 .cat-card__name {

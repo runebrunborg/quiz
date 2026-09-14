@@ -47,6 +47,31 @@ export function topicalFor(category: string, difficulty: Difficulty, day: string
   return rawPoolFor(category, difficulty).filter((q) => isTopicalActive(q, day))
 }
 
+/**
+ * Hvor lenge en hendelse regnes som fersk på temakortet.
+ *
+ * `until` sier bare når spørsmålet skal *slutte* å trekkes, og taket er tolv
+ * måneder. Merker man hvert tema som har et uutløpt dagsaktuelt spørsmål, får
+ * nesten hvert eneste kort et merke, og da er det ikke lenger et signal. Her
+ * er det hendelsens egen alder som teller.
+ */
+export const TOPICAL_FRESH_DAYS = 30
+
+/** Dagsaktuelle spørsmål om hendelser som faktisk er ferske nå. */
+export function freshTopicalFor(
+  category: string,
+  difficulty: Difficulty,
+  day: string = today(),
+): Question[] {
+  const now = Date.parse(day)
+  return topicalFor(category, difficulty, day).filter((q) => {
+    const event = Date.parse(q.topical?.event ?? '')
+    if (Number.isNaN(event)) return false
+    const age = (now - event) / 86_400_000
+    return age >= 0 && age <= TOPICAL_FRESH_DAYS
+  })
+}
+
 /** Spørsmål i temaet som har en «på denne dag»-variant for dagens dato. */
 export function datedFor(category: string, difficulty: Difficulty, day: string = today()): Question[] {
   return poolFor(category, difficulty, day).filter((q) => hasOnThisDay(q, day))

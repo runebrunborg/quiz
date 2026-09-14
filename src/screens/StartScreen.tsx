@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import type { Difficulty, Region } from '../../shared/types'
 import { langForRegion } from '../../shared/types'
-import { CategoryCard } from '../components/CategoryCard'
+import { CategoryCard, CategoryFlag } from '../components/CategoryCard'
 import { Segmented } from '../components/Segmented'
 import {
   ALL_QUESTIONS,
@@ -14,6 +14,7 @@ import {
   POOL_TARGET,
   poolFor,
   QUESTIONS_PER_ROUND,
+  freshTopicalFor,
 } from '../lib/content'
 import { loadPlayed, statusOf, unseenOf, type CategoryStatus, playedKey } from '../lib/played'
 import { loadPrefs, savePrefs } from '../lib/storage'
@@ -54,6 +55,10 @@ export default function StartScreen() {
         return {
           category: c,
           datedToday,
+          // Dagsaktuelle ligger per nivå, som resten av puljen, så merket
+          // følger nivået man har valgt. Bare ferske hendelser merkes – se
+          // TOPICAL_FRESH_DAYS.
+          topicalToday: freshTopicalFor(c.id, difficulty).length > 0,
           available: pool.length,
           status,
           entry,
@@ -65,6 +70,8 @@ export default function StartScreen() {
   const active = rows.filter((r) => r.status !== 'spilt')
   const archived = rows.filter((r) => r.status === 'spilt')
   const datedCount = active.filter((o) => o.datedToday).length
+  const topicalCount = active.filter((o) => o.topicalToday).length
+  const newCount = active.filter((o) => o.status === 'oppdatert').length
   const archiveOpen = archived.some((r) => r.category.id === category)
 
   const lang = langForRegion(region)
@@ -124,10 +131,25 @@ export default function StartScreen() {
 
         <div className="setup__row">
           <span className="setup__label">Tema</span>
-          {datedCount > 0 && (
-            <p className="setup__note">
-              {datedCount === 1 ? 'Ett tema' : `${datedCount} temaer`} har et spørsmål som treffer dagens dato, og
-              ligger derfor først.
+          {(datedCount > 0 || topicalCount > 0 || newCount > 0) && (
+            <p className="cat-legend">
+              {datedCount > 0 && (
+                <span className="cat-legend__item">
+                  <CategoryFlag kind="dag" /> {datedCount === 1 ? 'Ett tema' : `${datedCount} temaer`} treffer dagens
+                  dato, og ligger først
+                </span>
+              )}
+              {topicalCount > 0 && (
+                <span className="cat-legend__item">
+                  <CategoryFlag kind="fersk" /> {topicalCount === 1 ? 'Ett har' : `${topicalCount} har`} ferske
+                  nyhetsspørsmål
+                </span>
+              )}
+              {newCount > 0 && (
+                <span className="cat-legend__item">
+                  <CategoryFlag kind="ny" /> {newCount === 1 ? 'Ett har' : `${newCount} har`} nytt stoff siden sist
+                </span>
+              )}
             </p>
           )}
           {active.length > 0 ? (
@@ -140,6 +162,7 @@ export default function StartScreen() {
                   selected={category === r.category.id}
                   available={r.available}
                   datedToday={r.datedToday}
+                  topicalToday={r.topicalToday}
                   hasNew={r.status === 'oppdatert'}
                   note={r.status === 'oppdatert' ? `${r.unseen} du ikke har sett` : undefined}
                   onSelect={() => setCategory(r.category.id)}
@@ -171,6 +194,7 @@ export default function StartScreen() {
                     selected={category === r.category.id}
                     available={r.available}
                     datedToday={r.datedToday}
+                    topicalToday={r.topicalToday}
                     note={playedNote(r.entry?.at, r.unseen)}
                     onSelect={() => setCategory(r.category.id)}
                   />
