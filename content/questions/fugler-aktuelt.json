@@ -30,7 +30,10 @@
       "event": "2025-12-30",
       "until": "2026-12-31",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-17",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.birdlife.no/fuglekunnskap/aaretsfugl.php"
   },
   {
     "id": "fugler-m-a1",
@@ -55,14 +58,17 @@
       "sv": "Både kārearea och pūteketeke är namn på maori, och utnämningen arrangeras av naturvårdsorganisationen Forest & Bird."
     },
     "funFact": {
-      "nb": "Falken fikk 14 317 førstestemmer, etter at kåringen i 2025 gikk tilbake til vanlig flertallsvalg i stedet for rangerte stemmer.",
-      "sv": "Falken fick 14 317 förstahandsröster, efter att utnämningen 2025 gick tillbaka till vanligt majoritetsval i stället för rangordnade röster."
+      "nb": "Falken fikk 14 317 stemmer, etter at kåringen i 2025 gikk tilbake til vanlig flertallsvalg i stedet for rangerte stemmer.",
+      "sv": "Falken fick 14 317 röster, efter att utnämningen 2025 gick tillbaka till vanligt majoritetsval i stället för rangordnade röster."
     },
     "source": "Forest & Bird (New Zealand), kunngjort 29.09.2025",
     "topical": {
       "event": "2025-09-29",
       "until": "2026-09-30",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-17",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Bird_of_the_Year"
   }
 ]

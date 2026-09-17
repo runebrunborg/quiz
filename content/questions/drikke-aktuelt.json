@@ -63,6 +63,9 @@
       "event": "2026-03-08",
       "until": "2027-03-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-17",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"
   }
 ]

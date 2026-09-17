@@ -30,7 +30,10 @@
       "event": "2026-02",
       "until": "2027-02-28",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-17",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Johannes_H%C3%B8sflot_Kl%C3%A6bo"
   },
   {
     "id": "gull-m-a1",

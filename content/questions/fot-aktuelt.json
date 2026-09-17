@@ -23,15 +23,18 @@
       "sv": "Han spelar i Manchester City och är Norges mest målfarliga landslagsspelare."
     },
     "funFact": {
-      "nb": "Norge vant alle åtte kampene i gruppa, og kvelden i Milano ga Italia landets første hjemmetap i en gruppekamp i VM-kvalifisering. I juni 2026 sto han med 60 landslagsmål på 53 kamper.",
-      "sv": "Norge vann alla åtta matcherna i gruppen, och kvällen i Milano gav Italien landets första hemmaförlust i en gruppmatch i VM-kval. I juni 2026 stod han med 60 landslagsmål på 53 matcher."
+      "nb": "Norge vant alle åtte kampene i gruppa, og kvelden i Milano ga Italia landets første hjemmetap i en gruppekamp i VM-kvalifisering.",
+      "sv": "Norge vann alla åtta matcherna i gruppen, och kvällen i Milano gav Italien landets första hemmaförlust i en gruppmatch i VM-kval."
     },
     "source": "Store norske leksikon – Erling Braut Haaland (oppdatert 08.07.2026)",
     "topical": {
       "event": "2025-11-16",
       "until": "2026-11-30",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-17",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Erling_Braut_Haaland"
   },
   {
     "id": "fot-m-a1",
@@ -60,7 +63,10 @@
       "event": "2026-05-30",
       "until": "2027-05-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-17",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/2026_UEFA_Champions_League_final"
   },
   {
     "id": "fot-v-a1",
@@ -90,6 +96,9 @@
       "event": "2026-07-19",
       "until": "2027-07-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-17",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
   }
 ]
