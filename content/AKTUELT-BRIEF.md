@@ -30,6 +30,28 @@ To feller er verdt å kjenne:
 * **`tv2.no` svarer med gammelt innhold** – forsiden kom tilbake med saker fra
   2016. Ikke bruk den.
 
+### Tillegg fra kontrollrunden 19. september 2026
+
+* **`heritagedaily.com` er sperret av robots.txt.** To spørsmål i banken
+  (`havet-m-a1`, `havet-v-a2`) har den som kilde og lot seg ikke kontrollere
+  der. Begge ble belagt på nytt et annet sted – bruk heller `en.wikipedia.org`
+  eller `sciencenorway.no` for arkeologifunn.
+* **`sciencenorway.no` virker** (engelsk forskning.no). Den har ingen hentbar
+  søkeside, men forsiden lister artiklene med full URL, og et nytt kall mot
+  forsiden gir hrefen. Slik ble Øygarden-funnet kontrollert.
+* **`svt.se/sok` gir 404**, men seksjonsforsidene virker
+  (`svt.se/nyheter/vetenskap/` m.fl.) og lister artikler med URL. Samme
+  framgangsmåte som over.
+* **`aljazeera.com/search/...` er sperret av robots.txt.** Artikkel-URL-er er
+  ikke testet på nytt; finn dem et annet sted enn gjennom søket.
+* **NOAA:** `cpc.ncep.noaa.gov/.../enso_advisory/ensodisc.shtml` gir gjeldende
+  ENSO-vurdering og virker. Det finnes **ingen hentbar arkivside** for tidligere
+  måneder, og ENSO-bloggen på `climate.gov` ble arkivert i juni 2025. Skal du
+  datere en ENSO-melding til en bestemt måned, går det ikke å kontrollere her.
+* **`en.wikipedia.org` svarer av og til «cache-only» på enkeltartikler**
+  (`El Niño`, `Danish ship Dannebroge (1772)` denne runden) mens andre artikler
+  på samme vert virker. Prøv en beslektet artikkel i stedet for å gi opp.
+
 ## Verifiserte hendelser å bygge på
 
 Hentet og kontrollert 1. september 2026. Detaljer *skal likevel* sjekkes på nytt
