@@ -27,6 +27,9 @@
       "event": "2026-04-09",
       "until": "2027-04-30",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.svt.se/nyheter/vetenskap/har-utvecklar-forskarna-vaccin-mot-hjartinfarkt"
   }
 ]

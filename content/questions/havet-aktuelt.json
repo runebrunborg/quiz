@@ -9,8 +9,8 @@
       "vitenskap"
     ],
     "prompt": {
-      "nb": "Havet driver været. I juni 2026 slo den amerikanske hav- og væretaten NOAA fast at overflatevannet i det tropiske Stillehavet var blitt så varmt at fenomenet peruanske fiskere en gang kalte «Kristusbarnet» var i gang igjen – og at det kunne bli et av de kraftigste som er målt. Hva heter fenomenet?",
-      "sv": "Havet driver vädret. I juni 2026 konstaterade den amerikanska havs- och vädermyndigheten NOAA att ytvattnet i tropiska Stilla havet hade blivit så varmt att det fenomen som peruanska fiskare en gång kallade «Kristusbarnet» var i gång igen – och att det kunde bli ett av de kraftigaste som uppmätts. Vad heter fenomenet?"
+      "nb": "Havet driver været. I 2026 ble overflatevannet i det tropiske Stillehavet så varmt at fenomenet peruanske fiskere en gang kalte «Kristusbarnet», var i gang igjen. Den amerikanske hav- og væretaten NOAA venter at det kan bli det kraftigste som er målt siden 1950. Hva heter fenomenet?",
+      "sv": "Havet driver vädret. Under 2026 blev ytvattnet i tropiska Stilla havet så varmt att det fenomen som peruanska fiskare en gång kallade «Kristusbarnet» var i gång igen. Den amerikanska havs- och vädermyndigheten NOAA väntar sig att det kan bli det kraftigaste som uppmätts sedan 1950. Vad heter fenomenet?"
     },
     "answer": "El Niño",
     "answerKind": "annet",
@@ -19,15 +19,18 @@
       "sv": "Den kalla motsatsen har ett namn som betyder «flickan»."
     },
     "funFact": {
-      "nb": "Navnet kommer av at det varme vannet langs kysten av Peru ofte dukket opp rundt juletider. Fenomenet snur nedbørsmønstre over hele kloden: tørke i Australia og Indonesia, styrtregn langs vestkysten av Sør-Amerika.",
-      "sv": "Namnet kommer av att det varma vattnet längs Perus kust ofta dök upp kring juletid. Fenomenet vänder nedbördsmönster över hela jorden: torka i Australien och Indonesien, störtregn längs Sydamerikas västkust."
+      "nb": "Navnet kommer av at det varme vannet langs kysten av Peru ofte dukket opp rundt juletider. Fenomenet snur nedbørsmønstre over hele kloden: mindre regn i Australia og Indonesia, mer i sørøstlige Sør-Amerika og sørlige USA.",
+      "sv": "Namnet kommer av att det varma vattnet längs Perus kust ofta dök upp kring juletid. Fenomenet vänder nederbördsmönster över hela jorden: mindre regn i Australien och Indonesien, mer i sydöstra Sydamerika och södra USA."
     },
     "source": "NOAA Climate Prediction Center – El Niño-varsel 11.06.2026",
     "topical": {
-      "event": "2026-06-11",
-      "until": "2027-06-30",
+      "event": "2026-09-10",
+      "until": "2027-08-31",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
   },
   {
     "id": "havet-m-a1",
@@ -39,8 +42,8 @@
       "historie"
     ],
     "prompt": {
-      "nb": "I mars 2026 fant danske marinarkeologer vraket av linjeskipet Dannebroge på bunnen av Københavns havn, 225 år etter at det gikk tapt i slaget på Reden. Slaget huskes best for en britisk viseadmiral som holdt teleskopet mot sitt blinde øye og erklærte at han ikke så signalet om å bryte av. Hvem var han?",
-      "sv": "I mars 2026 hittade danska marinarkeologer vraket av linjeskeppet Dannebroge på bottnen av Köpenhamns hamn, 225 år efter att det gick förlorat i slaget på Köpenhamns redd. Slaget är mest känt för en brittisk viceamiral som höll teleskopet mot sitt blinda öga och förklarade att han inte såg signalen om att avbryta. Vem var han?"
+      "nb": "I 2026 fant danske marinarkeologer vraket av linjeskipet Dannebroge på bunnen av Københavns havn, 225 år etter at det gikk tapt i slaget på Reden. Slaget huskes best for en britisk viseadmiral som holdt teleskopet mot sitt blinde øye og erklærte at han ikke så signalet om å bryte av. Hvem var han?",
+      "sv": "Under 2026 hittade danska marinarkeologer vraket av linjeskeppet Dannebroge på bottnen av Köpenhamns hamn, 225 år efter att det gick förlorat i slaget på Köpenhamns redd. Slaget är mest känt för en brittisk viceamiral som höll teleskopet mot sitt blinda öga och förklarade att han inte såg signalen om att avbryta. Vem var han?"
     },
     "answer": "Horatio Nelson",
     "answerKind": "person",
@@ -61,7 +64,10 @@
       "event": "2026-03-03",
       "until": "2027-03-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1801)"
   },
   {
     "id": "havet-v-a1",
@@ -91,7 +97,10 @@
       "event": "2026-01-17",
       "until": "2027-01-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/High_Seas_Treaty"
   },
   {
     "id": "havet-v-a2",
@@ -121,6 +130,9 @@
       "event": "2026-03-10",
       "until": "2027-03-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.sciencenorway.no/archaeology-culture-hunting/large-man-made-belt-of-stones-discovered-underwater-in-norway-very-unusual/2628978"
   }
 ]

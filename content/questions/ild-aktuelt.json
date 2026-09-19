@@ -9,8 +9,8 @@
       "geografi"
     ],
     "prompt": {
-      "nb": "I august 2026 måtte flyplassen i Catania stenge gang på gang fordi askeskyer fra Europas mest aktive vulkan la seg over rullebanen. Verst var det 14. august, da flytrafikken sto stille i mer enn et døgn og hundrevis av reisende ble sittende fast. Hvilken vulkan er det?",
-      "sv": "I augusti 2026 måste flygplatsen i Catania stänga gång på gång eftersom askmoln från Europas mest aktiva vulkan lade sig över landningsbanan. Värst var det den 14 augusti, då flygtrafiken stod stilla i mer än ett dygn och hundratals resenärer blev strandsatta. Vilken vulkan är det?"
+      "nb": "I august 2026 måtte flyplassen i Catania stenge gang på gang fordi askeskyer fra Europas mest aktive vulkan la seg over rullebanen. Hundrevis av fly ble innstilt eller omdirigert, og trafikken kom først i gang igjen 15. august. Hvilken vulkan er det?",
+      "sv": "I augusti 2026 måste flygplatsen i Catania stänga gång på gång eftersom askmoln från Europas mest aktiva vulkan lade sig över landningsbanan. Hundratals flyg ställdes in eller omdirigerades, och trafiken kom i gång igen först den 15 augusti. Vilken vulkan är det?"
     },
     "answer": "Etna",
     "answerKind": "annet",
@@ -19,15 +19,18 @@
       "sv": "Vulkanen ligger på Sicilien och står på Unescos världsarvslista."
     },
     "funFact": {
-      "nb": "Etna er Europas høyeste aktive vulkan, over 3 300 meter, og har vært nesten sammenhengende i aktivitet i flere tusen år. Flyplassen i Catania er den travleste på Sicilia, og aske fra fjellet stanser trafikken der med jevne mellomrom.",
-      "sv": "Etna är Europas högsta aktiva vulkan, över 3 300 meter, och har varit nästan oavbrutet aktiv i flera tusen år. Flygplatsen i Catania är den mest trafikerade på Sicilien, och aska från berget stoppar trafiken där med jämna mellanrum."
+      "nb": "Etna er over 3 400 meter høy og har vært nesten sammenhengende i aktivitet i flere tusen år. Flyplassen i Catania er den travleste på Sicilia, og aske fra fjellet stanser trafikken der med jevne mellomrom.",
+      "sv": "Etna är över 3 400 meter högt och har varit nästan oavbrutet aktivt i flera tusen år. Flygplatsen i Catania är den mest trafikerade på Sicilien, och aska från berget stoppar trafiken där med jämna mellanrum."
     },
     "source": "Al Jazeera 14.08.2026 – «Mount Etna eruption and volcanic ash shut Sicily's busiest airport»",
     "topical": {
       "event": "2026-08-14",
       "until": "2027-08-31",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Mount_Etna"
   },
   {
     "id": "ild-m-a1",

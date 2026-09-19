@@ -22,15 +22,18 @@
       "sv": "Byggnaden fick sitt officiella namn av Theodore Roosevelt 1901; namnet hade använts informellt sedan 1811."
     },
     "funFact": {
-      "nb": "Ballsalen skal etter planen romme opp mot 999 gjester. 31. mars 2026 stanset en føderal dommer byggearbeidet og krevde at administrasjonen viste til en fullmakt fra Kongressen for rivingen.",
-      "sv": "Balsalen ska enligt planen rymma upp till 999 gäster. Den 31 mars 2026 stoppade en federal domare byggarbetet och krävde att administrationen visade upp ett bemyndigande från kongressen för rivningen."
+      "nb": "Ballsalen skal etter planen romme opp mot 999 gjester. 31. mars 2026 stanset en føderal dommer byggearbeidet midlertidig, men saken gikk videre i rettssystemet, og arbeidet var i gang igjen utover sommeren.",
+      "sv": "Balsalen ska enligt planen rymma upp till 999 gäster. Den 31 mars 2026 stoppade en federal domare bygget tillfälligt, men målet gick vidare i rättssystemet, och arbetet var i gång igen under sommaren."
     },
     "source": "Associated Press, oktober 2025 (via en.wikipedia.org – East Wing, kontrollert 01.09.2026)",
     "topical": {
       "event": "2025-10",
       "until": "2026-10-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/East_Wing"
   },
   {
     "id": "hus-v-a1",
@@ -64,6 +67,9 @@
       "event": "2025-09-25",
       "until": "2026-09-30",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Steven_Knight"
   }
 ]

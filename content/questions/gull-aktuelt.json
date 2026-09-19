@@ -67,7 +67,10 @@
       "event": "2026-02-14",
       "until": "2027-02-28",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Lucas_Braathen"
   },
   {
     "id": "gull-v-a1",
@@ -100,6 +103,9 @@
       "event": "2025-09-22",
       "until": "2026-09-22",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/2025_Ballon_d%27Or"
   }
 ]
