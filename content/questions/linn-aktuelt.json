@@ -30,6 +30,9 @@
       "event": "2026-02-10",
       "until": "2027-02-28",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Cross-country_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Women%27s_sprint"
   }
 ]

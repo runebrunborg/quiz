@@ -27,7 +27,10 @@
       "event": "2026-01",
       "until": "2027-01-31",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Starbucks"
   },
   {
     "id": "kaffe-v-a1",
@@ -38,8 +41,8 @@
       "okonomi"
     ],
     "prompt": {
-      "nb": "Friele i Bergen og svenske Gevalia tilhører det nederlandske kaffekonsernet JDE Peet's. I januar 2026 la et amerikansk drikkevareselskap fram et rent kontantbud på hele konsernet, med styrets støtte, og varslet samtidig at det selv skulle deles i en kaffedel og en brusdel. Hvilket selskap står bak budet?",
-      "sv": "Friele i Bergen och svenska Gevalia tillhör den nederländska kaffekoncernen JDE Peet's. I januari 2026 lade ett amerikanskt dryckesföretag fram ett rent kontantbud på hela koncernen, med styrelsens stöd, och meddelade samtidigt att det självt skulle delas i en kaffedel och en läskedel. Vilket företag ligger bakom budet?"
+      "nb": "Friele i Bergen og svenske Gevalia tilhører det nederlandske kaffekonsernet JDE Peet's. I januar 2026 la et amerikansk drikkevareselskap fram et rent kontantbud på hele konsernet, med styrets støtte, og har varslet at det selv skal deles i en kaffedel og en brusdel. Hvilket selskap står bak budet?",
+      "sv": "Friele i Bergen och svenska Gevalia tillhör den nederländska kaffekoncernen JDE Peet's. I januari 2026 lade ett amerikanskt dryckesföretag fram ett rent kontantbud på hela koncernen, med styrelsens stöd, och har meddelat att det självt ska delas i en kaffedel och en läskedel. Vilket företag ligger bakom budet?"
     },
     "answer": "Keurig Dr Pepper",
     "answerKind": "annet",
@@ -48,14 +51,17 @@
       "sv": "Namnet är sammansatt av en tillverkare av kaffekapselmaskiner och ett av USA:s äldsta läskmärken, sammanslagna 2018."
     },
     "funFact": {
-      "nb": "Oppkjøpet ble kunngjort 25. august 2025 og verdsatte JDE Peet's til 15,7 milliarder euro. Kjøperen varslet samtidig at konsernet skal splittes i to børsnoterte selskaper – «Global Coffee Co» og «Beverage Co» – innen utgangen av 2026.",
-      "sv": "Uppköpet tillkännagavs den 25 augusti 2025 och värderade JDE Peet's till 15,7 miljarder euro. Köparen meddelade samtidigt att koncernen ska delas i två börsnoterade bolag – «Global Coffee Co» och «Beverage Co» – före utgången av 2026."
+      "nb": "Avtalen ble først kunngjort i august 2025, og budet i januar 2026 verdsatte hver aksje i JDE Peet's til 31,85 euro. Kjøperen har varslet at konsernet skal splittes i to børsnoterte selskaper – «Global Coffee Co» og «Beverage Co» – innen utgangen av 2026.",
+      "sv": "Avtalet tillkännagavs först i augusti 2025, och budet i januari 2026 värderade varje aktie i JDE Peet's till 31,85 euro. Köparen har meddelat att koncernen ska delas i två börsnoterade bolag – «Global Coffee Co» och «Beverage Co» – före utgången av 2026."
     },
     "source": "Wikipedia (engelsk) – «Keurig Dr Pepper» og «JDE Peet's», lest 01.09.2026",
     "topical": {
       "event": "2026-01",
       "until": "2027-01-31",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Keurig_Dr_Pepper"
   }
 ]

@@ -40,7 +40,10 @@
           "sv": "På denna dag 2026 dog Harald 5 i Oslo, 35 år efter att han övertog tronen. Samma dag gick sonen från kronprins till kung, och hans dotter blev kronprinsessa. Vilket kunganamn, med nummer, tog den nye kungen?"
         }
       }
-    ]
+    ],
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Harald_5"
   },
   {
     "id": "kongelige-m-a1",
@@ -74,6 +77,9 @@
       "event": "2026-08-28",
       "until": "2027-08-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Ingrid_Alexandra"
   }
 ]

@@ -60,7 +60,10 @@
       "event": "2026-02-06",
       "until": "2027-02-28",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/2026_Winter_Olympics"
   },
   {
     "id": "ild-v-a1",
@@ -90,6 +93,9 @@
       "event": "2026-03-10",
       "until": "2027-03-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/K%C4%ABlauea"
   }
 ]

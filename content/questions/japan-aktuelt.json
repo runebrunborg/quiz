@@ -30,7 +30,10 @@
       "event": "2026-01-27",
       "until": "2027-01-31",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Panda_diplomacy"
   },
   {
     "id": "japan-m-a1",
@@ -60,7 +63,10 @@
       "event": "2025-10-13",
       "until": "2026-10-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Expo_2025"
   },
   {
     "id": "japan-v-a1",
@@ -94,6 +100,9 @@
       "event": "2025-10-21",
       "until": "2026-10-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-21",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Sanae_Takaichi"
   }
 ]
