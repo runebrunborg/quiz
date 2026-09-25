@@ -26,7 +26,10 @@
       "event": "2025-09-08",
       "until": "2026-09-30",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-25",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Stortingsvalget_2025"
   },
   {
     "id": "rod-v-a1",
@@ -38,8 +41,8 @@
       "vitenskap"
     ],
     "prompt": {
-      "nb": "Den 10. september 2025 la NASA fram en studie i Nature om en steinprøve fra Jezero-krateret: hvite gipsårer, rødlige hematittbånd og millimeterstore «leopardflekker» av jernfosfat og jernsulfid. Byrået kalte det en mulig biosignatur – det sterkeste sporet av fortidig liv på den røde planeten så langt. Hvilken rover boret prøven?",
-      "sv": "Den 10 september 2025 lade Nasa fram en studie i Nature om ett stenprov från Jezerokratern: vita gipsådror, rödaktiga hematitband och millimeterstora «leopardfläckar» av järnfosfat och järnsulfid. Myndigheten kallade det en möjlig biosignatur – det starkaste spåret av forntida liv på den röda planeten så här långt. Vilken rover borrade provet?"
+      "nb": "Den 10. september 2025 la NASA fram en studie i Nature om en steinprøve fra Jezero-krateret: hvite kalsiumsulfatårer, rødlige hematittbånd og millimeterstore «leopardflekker» av jernfosfat og jernsulfid. Byrået kalte det en mulig biosignatur – det sterkeste sporet av fortidig liv på den røde planeten så langt. Hvilken rover boret prøven?",
+      "sv": "Den 10 september 2025 lade Nasa fram en studie i Nature om ett stenprov från Jezerokratern: vita kalciumsulfatådror, rödaktiga hematitband och millimeterstora «leopardfläckar» av järnfosfat och järnsulfid. Myndigheten kallade det en möjlig biosignatur – det starkaste spåret av forntida liv på den röda planeten så här långt. Vilken rover borrade provet?"
     },
     "answer": "Perseverance",
     "answerKind": "annet",
@@ -56,6 +59,9 @@
       "event": "2025-09-10",
       "until": "2026-09-30",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-25",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Cheyava_Falls"
   }
 ]

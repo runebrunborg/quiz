@@ -30,7 +30,10 @@
       "event": "2026-02-06",
       "until": "2027-02-28",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-25",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Tina_and_Milo"
   },
   {
     "id": "rovdyr-m-a1",
@@ -60,6 +63,9 @@
       "event": "2025-09-02",
       "until": "2026-09-30",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-25",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Jaguar_Land_Rover"
   }
 ]

@@ -22,14 +22,17 @@
       "sv": "Ordet betyder bokstavligen att ta bort saltet; på engelska heter det desalination."
     },
     "funFact": {
-      "nb": "Metoden ble beskrevet i tidsskriftet Light: Science & Applications 27. mai 2026. Vanlige anlegg må slippe ut store mengder konsentrert saltlake, som er tyngre enn sjøvann og legger seg langs bunnen der den kan skade livet i havet.",
-      "sv": "Metoden beskrevs i tidskriften Light: Science & Applications den 27 maj 2026. Vanliga anläggningar måste släppa ut stora mängder koncentrerad saltlake, som är tyngre än havsvatten och lägger sig längs bottnen där den kan skada livet i havet."
+      "nb": "Metoden ble kunngjort 27. mai 2026 og er beskrevet i tidsskriftet Light: Science & Applications. Vanlige anlegg må slippe ut store mengder konsentrert saltlake, som er tyngre enn sjøvann og legger seg langs bunnen der den kan skade livet i havet.",
+      "sv": "Metoden tillkännagavs den 27 maj 2026 och beskrivs i tidskriften Light: Science & Applications. Vanliga anläggningar måste släppa ut stora mängder koncentrerad saltlake, som är tyngre än havsvatten och lägger sig längs bottnen där den kan skada livet i havet."
     },
     "source": "Light: Science & Applications, 27.05.2026 – Tang, Singh, Wei, Xu og Guo",
     "topical": {
       "event": "2026-05-27",
       "until": "2027-05-31",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-25",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/"
   }
 ]

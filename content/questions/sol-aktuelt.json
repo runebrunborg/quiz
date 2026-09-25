@@ -27,7 +27,10 @@
       "event": "2026-08-12",
       "until": "2027-08-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-25",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"
   },
   {
     "id": "sol-m-a1",
@@ -48,8 +51,8 @@
     },
     "answerKind": "annet",
     "hint": {
-      "nb": "Hovedstaden lå så vidt utenfor banen, med over 99 prosent dekning, mens byer som León og Zaragoza fikk full formørkelse.",
-      "sv": "Huvudstaden låg precis utanför banan, med över 99 procents täckning, medan städer som León och Zaragoza fick total förmörkelse."
+      "nb": "Hovedstaden lå så vidt utenfor banen, med over 99 prosent dekning, mens byer som Valladolid og Zaragoza fikk full formørkelse.",
+      "sv": "Huvudstaden låg precis utanför banan, med över 99 procents täckning, medan städer som Valladolid och Zaragoza fick total förmörkelse."
     },
     "funFact": {
       "nb": "Formørkelsen i 1905 fulgte omtrent samme strekning over landet, 30. august. Til sammen kunne nesten 980 millioner mennesker se minst en delvis formørkelse denne augustdagen i 2026.",
@@ -60,6 +63,9 @@
       "event": "2026-08-12",
       "until": "2027-08-01",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-25",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026"
   }
 ]

@@ -67,7 +67,10 @@
       "event": "2026-02-14",
       "until": "2027-02-28",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-25",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Lucas_Braathen"
   },
   {
     "id": "ring-v-a1",
@@ -101,6 +104,9 @@
       "event": "2025-09-13",
       "until": "2026-09-30",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-25",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez_vs._Terence_Crawford"
   }
 ]
