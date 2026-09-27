@@ -9,8 +9,8 @@
       "vitenskap"
     ],
     "prompt": {
-      "nb": "Klokka går 56 mikrosekunder fortere per døgn der enn på jorden, og i juni 2026 fortalte SVT at ESA og Nasa planlegger en egen koordinert tidsskala for stedet, med et atomur i et krater som aldri får sollys. Nasa vil ha astronauter tilbake dit i 2028. Hvor?",
-      "sv": "Klockan går 56 mikrosekunder fortare per dygn där än på jorden, och i juni 2026 berättade SVT att ESA och Nasa planerar en egen koordinerad tidsskala för platsen, med ett atomur i en krater som aldrig får solljus. Nasa vill ha astronauter tillbaka dit 2028. Var?"
+      "nb": "Klokka går litt fortere per døgn der enn på jorden, og både ESA og Nasa arbeider for en egen koordinert tidsskala for stedet, slik at navigasjon og kommunikasjon skal virke. Nasa vil ha astronauter tilbake dit i 2028. Hvor?",
+      "sv": "Klockan går lite fortare per dygn där än på jorden, och både ESA och Nasa arbetar för en egen koordinerad tidsskala för platsen, så att navigation och kommunikation ska fungera. Nasa vill ha astronauter tillbaka dit 2028. Var?"
     },
     "answer": "Månen",
     "answerKind": "annet",
@@ -19,15 +19,18 @@
       "sv": "Tidsskillnaden beror på svagare gravitation, och platsen har en sydpol där Nasa vill bygga en bas."
     },
     "funFact": {
-      "nb": "Forslaget kalles LTC, koordinert månetid. Fysikeren Jun Ye minner om at nøyaktig tid er avgjørende både for kommunikasjon og for navigasjon, og et atomur i et evig mørkt krater slipper unna store temperatursvingninger.",
-      "sv": "Förslaget kallas LTC, koordinerad måntid. Fysikern Jun Ye påminner om att exakt tid är avgörande både för kommunikation och navigation, och ett atomur i en evigt mörk krater slipper stora temperaturväxlingar."
+      "nb": "Forslaget kalles LTC, koordinert månetid. ESA og Nasa vil at Moonlight og det amerikanske relé- og navigasjonssystemet skal bruke samme tidsskala, slik at farkoster og mannskap kan navigere og kommunisere uten å regne om mellom ulike klokker.",
+      "sv": "Förslaget kallas LTC, koordinerad måntid. ESA och Nasa vill att Moonlight och det amerikanska relä- och navigationssystemet ska använda samma tidsskala, så att farkoster och besättningar kan navigera och kommunicera utan att räkna om mellan olika klockor."
     },
     "source": "SVT Nyheter 21.06.2026 (oppdatert 29.07.2026)",
     "topical": {
       "event": "2026-06-21",
       "until": "2027-06-30",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.esa.int/Applications/Satellite_navigation/Telling_time_on_the_Moon"
   },
   {
     "id": "tid-v-a1",
@@ -57,6 +60,9 @@
       "event": "2026-01-27",
       "until": "2027-01-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Doomsday_Clock"
   }
 ]

@@ -31,7 +31,10 @@
       "event": "2025-11-07",
       "until": "2026-11-30",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Frankenstein_(2025_film)"
   },
   {
     "id": "stein-m-a1",
@@ -61,7 +64,10 @@
       "event": "2026-02",
       "until": "2027-02-28",
       "evergreen": false
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/2024_YR4"
   },
   {
     "id": "stein-v-a1",
@@ -91,6 +97,9 @@
       "event": "2025-09-10",
       "until": "2026-09-30",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Cheyava_Falls"
   }
 ]

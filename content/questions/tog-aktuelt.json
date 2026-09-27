@@ -22,15 +22,18 @@
       "sv": "Landet har nio delstater, och huvudstaden ligger vid Donau."
     },
     "funFact": {
-      "nb": "Tunnelen gjennom Koralpe var det største enkeltarbeidet på banen og består av to enkeltsporede løp. Også turen fra hovedstaden til Klagenfurt ble merkbart kortere da banen kom i drift.",
-      "sv": "Tunneln genom Koralpe var banans största enskilda arbete och består av två enkelspåriga rör. Även resan från huvudstaden till Klagenfurt blev märkbart kortare när banan togs i drift."
+      "nb": "Koralmtunnelen består av to enkeltsporede løp med tverrforbindelser hver 500. meter. Også turen fra hovedstaden Wien til Klagenfurt ble merkbart kortere da banen kom i drift, med rundt tre kvarter.",
+      "sv": "Koralmtunneln består av två enkelspåriga rör med tvärförbindelser var 500:e meter. Även resan från huvudstaden Wien till Klagenfurt blev märkbart kortare när banan togs i drift, med ungefär tre kvart."
     },
     "source": "Wikipedia – Koralm Railway og 2025 in rail transport (lest 01.09.2026)",
     "topical": {
       "event": "2025-12",
       "until": "2026-12-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Koralm_Railway"
   },
   {
     "id": "tog-v-a1",
@@ -63,6 +66,9 @@
       "event": "2025-12",
       "until": "2026-12-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Mer%C3%A5kerbanen"
   }
 ]

@@ -52,6 +52,26 @@ To feller er verdt å kjenne:
   (`El Niño`, `Danish ship Dannebroge (1772)` denne runden) mens andre artikler
   på samme vert virker. Prøv en beslektet artikkel i stedet for å gi opp.
 
+### Tillegg fra kontrollrunden 27. september 2026
+
+* **`WebSearch` var avslått i denne okta** (proxyen svarte 403, «not enabled for
+  your organization»). Uten sok er en kilde som bare er oppgitt som «SVT Nyheter
+  21.06.2026», uten URL, i praksis uhentbar: seksjonsforsidene lister bare ferske
+  artikler, og en tre maneder gammel sak star ikke der. **Skriv alltid full URL i
+  `source`** nar kilden er en avis eller kringkaster – ellers kan ingen
+  kontrollere den senere.
+* **`esa.int` virker** og er en god forstelinje for romfart nar SNL mangler emnet.
+  `esa.int/Applications/Satellite_navigation/Telling_time_on_the_Moon` ble hentet
+  denne runden.
+* **Manens tidsavvik spriker: bruk ikke tallet.** ESA oppgir «rundt 56
+  mikrosekunder» per dogn, engelsk Wikipedia gjengir OSTP med 58,7
+  mikrosekunder. Samme storrelse, to troverdige kilder, ulikt tall – detaljen ble
+  tatt ut av `tid-l-a1`, pa linje med Empire State Building og Moores lov.
+* **`snl.no/norske_ekstremvaer_-_navn`** (URL-kodet:
+  `norske_ekstremv%C3%A6r_-_navn`) har full tabell over navngitte norske
+  ekstremvaer med maned, ar og fylker – men **ingen eksakte datoer**. Skal du ha
+  dag og dato for et uvaer, ma den komme et annet sted fra.
+
 ## Verifiserte hendelser å bygge på
 
 Hentet og kontrollert 1. september 2026. Detaljer *skal likevel* sjekkes på nytt

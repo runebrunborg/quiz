@@ -9,8 +9,8 @@
       "vitenskap"
     ],
     "prompt": {
-      "nb": "1. og 2. oktober 2025 fikk Agder, Telemark, Vestfold og Buskerud røde farevarsler for vind og regn, i det første navngitte ekstremværet i Norge siden Jakob året før. Navnet var ikke valgt av Meteorologisk institutt, men i Storbritannia, der uværet kom inn først. Hva het det?",
-      "sv": "Den 1 och 2 oktober 2025 fick Agder, Telemark, Vestfold och Buskerud röda varningar för vind och regn, i det första namngivna extremvädret i Norge sedan Jakob året innan. Namnet valdes inte av norska Meteorologisk institutt, utan i Storbritannien, där ovädret kom in först. Vad hette det?"
+      "nb": "I oktober 2025 fikk Agder, Telemark, Vestfold og Buskerud farevarsler for vind og regn, i det første navngitte ekstremværet i Norge siden Jakob året før. Navnet var ikke valgt av Meteorologisk institutt, men i Storbritannia, der uværet kom inn først. Hva het det?",
+      "sv": "I oktober 2025 fick Agder, Telemark, Vestfold och Buskerud varningar för vind och regn, i det första namngivna extremvädret i Norge sedan Jakob året innan. Namnet valdes inte av norska Meteorologisk institutt, utan i Storbritannien, där ovädret kom in först. Vad hette det?"
     },
     "answer": "Amy",
     "answerKind": "annet",
@@ -27,7 +27,10 @@
       "event": "2025-10-01",
       "until": "2026-10-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/norske_ekstremv%C3%A6r_-_navn"
   },
   {
     "id": "storm-m-a1",
@@ -57,7 +60,10 @@
       "event": "2026-04",
       "until": "2027-04-30",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/norske_ekstremv%C3%A6r_-_navn"
   },
   {
     "id": "storm-v-a1",
@@ -87,6 +93,9 @@
       "event": "2026-01",
       "until": "2027-01-31",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-27",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/norske_ekstremv%C3%A6r_-_navn"
   }
 ]
