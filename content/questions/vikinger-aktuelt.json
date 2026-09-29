@@ -27,6 +27,9 @@
       "event": "2026-04-08",
       "until": "2027-04-30",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/2026_in_archaeology"
   }
 ]

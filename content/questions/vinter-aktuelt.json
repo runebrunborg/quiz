@@ -27,7 +27,10 @@
       "event": "2026-02-06",
       "until": "2027-02-28",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/2026_Winter_Olympics"
   },
   {
     "id": "vinter-m-a1",
@@ -52,7 +55,7 @@
       "sv": "Ett litet mårddjur som är vanligt i de svenska fjällen, mindre än en mink, brunt på ryggen om sommaren och vitt om vintern."
     },
     "funFact": {
-      "nb": "Navnene kommer fra vertsbyene: Tina fra Cortina, Milo fra Milano. Milo, maskoten for Paralympics, er tegnet uten det ene bakbeinet og bruker halen til å bevege seg. Den hvite vinterpelsen kalles hermelin.",
+      "nb": "Navnene kommer fra vertsbyene: Tina fra Cortina, Milo fra Milano. Milo, maskoten for Paralympics, er tegnet uten ett av beina og bruker halen til å bevege seg. Den hvite vinterpelsen kalles hermelin.",
       "sv": "Namnen kommer från värdstäderna: Tina från Cortina, Milo från Milano. Milo, maskot för Paralympics, är ritad utan ett bakben och använder svansen för att röra sig. Förslagen kom från italienska skolbarn i en tävling med över 1600 bidrag."
     },
     "source": "en.wikipedia.org – Tina and Milo (hentet 01.09.2026); Fondazione Milano Cortina 2026, 07.02.2024",
@@ -60,7 +63,10 @@
       "event": "2026-02-06",
       "until": "2027-02-28",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Tina_and_Milo"
   },
   {
     "id": "vinter-v-a1",
@@ -94,6 +100,9 @@
       "event": "2026-02-06",
       "until": "2027-02-28",
       "evergreen": true
-    }
+    },
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Kirsty_Coventry"
   }
 ]

@@ -9,8 +9,8 @@
       "vikingtid"
     ],
     "prompt": {
-      "nb": "Han samlet Danmark under én krone på 900-tallet, kristnet danene og reiste den store Jellingsteinen til minne om foreldrene sine. Tilnavnet skal komme av en mørk, misfarget tann. Da Intel-ingeniørene i 1997 trengte et arbeidsnavn på en ny standard for trådløs kortdistansekommunikasjon, lånte de navnet hans. Hvilken vikingkonge?",
-      "sv": "Han samlade Danmark under en krona på 900-talet, kristnade danerna och reste den stora Jellingstenen till minne av sina föräldrar. Tillnamnet lär komma av en mörk, missfärgad tand. När Intel-ingenjörerna 1997 behövde ett arbetsnamn på en ny standard för trådlös kortdistanskommunikation lånade de hans namn. Vilken vikingakung?"
+      "nb": "Han samlet Danmark under én krone på 900-tallet, kristnet danene og reiste den store Jellingsteinen til minne om foreldrene sine. Tilnavnet skal komme av en mørk, misfarget tann. Da Intel-ingeniørene trengte et arbeidsnavn på en ny standard for trådløs kortdistansekommunikasjon, lånte de navnet hans. Hvilken vikingkonge?",
+      "sv": "Han samlade Danmark under en krona på 900-talet, kristnade danerna och reste den stora Jellingstenen till minne av sina föräldrar. Tillnamnet lär komma av en mörk, missfärgad tand. När Intel-ingenjörerna behövde ett arbetsnamn på en ny standard för trådlös kortdistanskommunikation lånade de hans namn. Vilken vikingakung?"
     },
     "answer": {
       "nb": "Harald Blåtann",
@@ -32,7 +32,10 @@
       "nb": "Bluetooth-logoen er en binderune av ᚼ (Hagall) og ᛒ (Bjarkan) – H og B. Navnet var ment som et midlertidig kodenavn mens markedsavdelingen fant på noe bedre, men det stakk av med seieren.",
       "sv": "Bluetooth-logotypen är en bindruna av ᚼ (Hagall) och ᛒ (Bjarkan) – H och B. Namnet var tänkt som ett tillfälligt kodnamn medan marknadsavdelningen hittade på något bättre, men det blev kvar."
     },
-    "source": "Bluetooth SIG – «Origin of the Name and Logo»"
+    "source": "Bluetooth SIG – «Origin of the Name and Logo»",
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.bluetooth.com/about-us/bluetooth-origin/"
   },
   {
     "id": "blaa-l-02",
@@ -57,10 +60,13 @@
       "sv": "Den hör till bardvalarna och silar maten genom barderna i stället för att tugga."
     },
     "funFact": {
-      "nb": "Moderne hvalfangst desimerte bestanden på 1900-tallet, og arten er fortsatt langt under det den en gang var. Et bevart blåhvalhjerte ved Royal Ontario Museum i Toronto veier rundt 180 kilo.",
-      "sv": "Modernt valfångst decimerade beståndet under 1900-talet, och arten är fortfarande långt under vad den en gång var. Ett bevarat blåvalshjärta på Royal Ontario Museum i Toronto väger omkring 180 kilo."
+      "nb": "Moderne hvalfangst desimerte bestanden på 1900-tallet, og arten er fortsatt langt under det den en gang var. Under gode forhold kan lydene fra en blåhval høres av andre hvaler opptil 1600 kilometer unna.",
+      "sv": "Modern valfångst decimerade beståndet under 1900-talet, och arten är fortfarande långt under vad den en gång var. Under goda förhållanden kan ljuden från en blåval höras av andra valar upp till 1600 kilometer bort."
     },
-    "source": "NOAA Fisheries – Blue Whale; Royal Ontario Museum"
+    "source": "NOAA Fisheries – Blue Whale; Store norske leksikon – blåhval",
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.fisheries.noaa.gov/species/blue-whale"
   },
   {
     "id": "blaa-l-03",
@@ -73,11 +79,11 @@
     ],
     "prompt": {
       "nb": "Belgieren Peyo tegnet dem første gang i 1958, som bifigurer i en historie om ridderen Johan og Pirlouit. De bor i sopphus, er «tre epler høye» og heter alle det samme etterfulgt av yrket eller lynnet sitt. Hva kalles dette blå folkeslaget på norsk?",
-      "sv": "Belgaren Peyo ritade dem första gången 1958, som bifigurer i en berättelse om riddaren Johan och Pirlouit. De bor i svamphus, är «tre äpplen höga» och heter alla samma sak följt av yrket eller lynnet sitt. Vad kallas detta blå folkslag på svenska?"
+      "sv": "Belgaren Peyo ritade dem första gången 1958, som bifigurer i en berättelse om riddaren Johan och Pirlouit. De bor i svamphus, är «tre äpplen höga» och heter alla samma sak följt av sitt yrke eller sitt lynne. Vad kallas detta blå folkslag på svenska?"
     },
     "answer": {
       "nb": "Smurfene",
-      "sv": "Smurferna"
+      "sv": "Smurfarna"
     },
     "answerKind": "annet",
     "hint": {
@@ -88,7 +94,10 @@
       "nb": "Navnet skal ha oppstått ved et middagsbord: Peyo ba kollegaen André Franquin om saltet, glemte ordet og sa «passe-moi le schtroumpf». Siden har de blitt tegnefilm, spillefilmer og fornøyelsespark.",
       "sv": "Namnet lär ha uppstått vid ett middagsbord: Peyo bad kollegan André Franquin om saltet, glömde ordet och sa «passe-moi le schtroumpf». Sedan dess har de blivit tecknad serie, långfilmer och nöjespark."
     },
-    "source": "Éditions Dupuis – Les Schtroumpfs; Peyo-arkivet"
+    "source": "Éditions Dupuis – Les Schtroumpfs; Peyo-arkivet",
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/The_Smurfs"
   },
   {
     "id": "blaa-l-04",
@@ -110,10 +119,13 @@
       "sv": "De rider på flygande, drakliknande varelser som kallas ikran."
     },
     "funFact": {
-      "nb": "Lingvisten Paul Frommer fikk i oppdrag å bygge språket deres fra bunnen av, med egen grammatikk, lydverk og et ordforråd på godt over tusen ord – og det vokser fortsatt.",
-      "sv": "Lingvisten Paul Frommer fick i uppdrag att bygga deras språk från grunden, med egen grammatik, ljudsystem och ett ordförråd på långt över tusen ord – och det växer fortfarande."
+      "nb": "Lingvisten Paul Frommer fikk i oppdrag å bygge språket deres fra bunnen av, med egen grammatikk, lydverk og et ordforråd på rundt tusen ord – og det vokser fortsatt.",
+      "sv": "Lingvisten Paul Frommer fick i uppdrag att bygga deras språk från grunden, med egen grammatik, ljudsystem och ett ordförråd på omkring tusen ord – och det växer fortfarande."
     },
-    "source": "20th Century Studios; Paul Frommer, University of Southern California"
+    "source": "20th Century Studios; Paul Frommer, University of Southern California",
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Avatar_(2009_film)"
   },
   {
     "id": "blaa-l-05",
@@ -125,8 +137,8 @@
       "mat-og-drikke"
     ],
     "prompt": {
-      "nb": "Verdens eldste og lengste skirenn går de ni milene fra Sälen til Mora, ble arrangert første gang i 1922 og har mottoet «I fäders spår för framtids segrar». Langs løypa deler funksjonærene ut en varm, blå drikk som er blitt et symbol på hele rennet. Hva slags drikk er det?",
-      "sv": "Världens äldsta och längsta skidlopp går de nio milen från Sälen till Mora, arrangerades första gången 1922 och har mottot «I fäders spår för framtids segrar». Längs banan delar funktionärerna ut en varm, blå dryck som blivit en symbol för hela loppet. Vilken dryck är det?"
+      "nb": "Verdens eldste skirenn går de ni milene fra Sälen til Mora, ble arrangert første gang i 1922 og har mottoet «I fäders spår för framtids segrar». Langs løypa deler funksjonærene ut en varm, blå drikk som er blitt et symbol på hele rennet. Hva slags drikk er det?",
+      "sv": "Världens äldsta skidlopp går de nio milen från Sälen till Mora, arrangerades första gången 1922 och har mottot «I fäders spår för framtids segrar». Längs banan delar funktionärerna ut en varm, blå dryck som blivit en symbol för hela loppet. Vilken dryck är det?"
     },
     "answer": {
       "nb": "Blåbærsuppe",
@@ -141,7 +153,10 @@
       "nb": "Rennet oppsto etter en avisartikkel av journalisten Anders Pers i 1922, som foreslo et skirenn i sporene til Gustav Vasa. Startfeltet er i dag på titusenvis av deltakere gjennom hele Vasaloppsveckan.",
       "sv": "Loppet uppstod efter en tidningsartikel av journalisten Anders Pers 1922, som föreslog ett skidlopp i Gustav Vasas spår. Startfältet är i dag tiotusentals deltagare under hela Vasaloppsveckan."
     },
-    "source": "Vasaloppet – offisiell historikk"
+    "source": "Vasaloppet – offisiell historikk",
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Vasaloppet"
   },
   {
     "id": "blaa-l-06",
@@ -152,8 +167,8 @@
       "natur"
     ],
     "prompt": {
-      "nb": "Den trives i kalkrik løvskog på Østlandet og i Trøndelag, blomstrer så tidlig at den ofte står mellom de siste snøflekkene i mars og april, og de blå «kronbladene» er egentlig begerblad – planten har ingen ekte kronblad. Hvilken vårblomst er dette?",
-      "sv": "Den trivs i kalkrik lövskog, blommar så tidigt att den ofta står mellan de sista snöfläckarna i mars och april, och de blå «kronbladen» är egentligen foderblad – växten har inga äkta kronblad. Vilken vårblomma är detta?"
+      "nb": "Den trives i kalkrik skog og kratt på Østlandet og i Trøndelag, blomstrer så tidlig om våren at den ofte står mellom de siste snøflekkene, og de blå «kronbladene» er egentlig begerblad – planten har ingen ekte kronblad. Hvilken vårblomst er dette?",
+      "sv": "Den trivs i kalkrik skog och snår, blommar så tidigt på våren att den ofta står mellan de sista snöfläckarna, och de blå «kronbladen» är egentligen foderblad – växten har inga äkta kronblad. Vilken vårblomma är detta?"
     },
     "answer": {
       "nb": "Blåveis",
@@ -165,10 +180,13 @@
       "sv": "Det latinska namnet är Hepatica nobilis, efter bladens likhet med en lever."
     },
     "funFact": {
-      "nb": "Den er landskapsblomst for Uppland i Sverige. I Norge er den vanlig på Østlandet, men mangler i store deler av Vestlandet og Nord-Norge.",
-      "sv": "Den är landskapsblomma för Uppland. I Norge är den vanlig på Østlandet men saknas i stora delar av Vestlandet och Nord-Norge."
+      "nb": "Den er fylkesblomst for Akershus. I Norge er den vanlig på Østlandet og i Trøndelag, men mangler i store deler av Vestlandet.",
+      "sv": "Den är landskapsblomma för Akershus fylke i Norge. Där är den vanlig i öster och i Trøndelag, men saknas i stora delar av västra Norge."
     },
-    "source": "Artsdatabanken; Den virtuella floran, Naturhistoriska riksmuseet"
+    "source": "Store norske leksikon – blåveis; en.wikipedia.org – Hepatica nobilis",
+    "verifiedAt": "2026-09-29",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/bl%C3%A5veis"
   },
   {
     "id": "blaa-l-07",
