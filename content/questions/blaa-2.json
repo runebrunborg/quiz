@@ -88,8 +88,8 @@
       "sprak"
     ],
     "prompt": {
-      "nb": "I norsk og svensk brukes et sammensatt ord om de blinkende varsellysene på politi-, brannvesen- og ambulansebiler – et ord som også brukes som fellesbetegnelse for selve utrykningen. Hvilket ord er dette?",
-      "sv": "På svenska och norska används ett sammansatt ord om de blinkande varningsljusen på polis-, brandkårs- och ambulansbilar – ett ord som även används som samlingsbegrepp för själva utryckningen. Vilket ord är detta?"
+      "nb": "I norsk og svensk brukes et sammensatt ord om de blinkende varsellysene på politi-, brannvesen- og ambulansebiler. Det norske akademis ordbok fører opp en eldre betydning i tillegg: et signalmiddel til sjøs som ble brent for å tilkalle los. Hvilket ord er dette?",
+      "sv": "På svenska och norska används ett sammansatt ord om de blinkande varningsljusen på polis-, brandkårs- och ambulansbilar. Det norska akademiens ordbok tar dessutom upp en äldre betydelse: ett signalmedel till sjöss som brändes för att tillkalla lots. Vilket ord är detta?"
     },
     "answer": {
       "nb": "Blålys",
@@ -101,10 +101,13 @@
       "sv": "Ordet är sammansatt av färgen på ljuset och själva ljuskällan."
     },
     "funFact": {
-      "nb": "Media omtaler ofte politi, brannvesen og ambulansetjeneste samlet som «blålysetatene».",
-      "sv": "Medier talar ofta om polis, brandkår och ambulanssjukvård samlat som «blåljusmyndigheterna»."
+      "nb": "Ordet har også en betydning i folketroen: et overnaturlig lys som lokker folk på villspor. I dansk oppslagsverk viser ordet til fyrverkeri.",
+      "sv": "Ordet har också en betydelse i folktron: ett övernaturligt ljus som lockar folk vilse. I danska uppslagsverk hänvisar ordet till fyrverkeri."
     },
-    "source": "Bokmålsordboka; Svenska Akademiens ordbok"
+    "source": "Bokmålsordboka; Svenska Akademiens ordbok",
+    "verifiedAt": "2026-10-01",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://naob.no/ordbok/bl%C3%A5lys"
   },
   {
     "id": "blaa-l-15",
