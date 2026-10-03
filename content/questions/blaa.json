@@ -572,8 +572,8 @@
       "natur"
     ],
     "prompt": {
-      "nb": "Midt i Kalmarsund ligger en naken granittøy uten fast bosetning, full av grotter og løse steinblokker. Den ble nasjonalpark i 1926, og folketroen knytter den til heksenes møteplass. Overtroen sier at det bringer ulykke å ta med seg stein derfra. Hva heter øya?",
-      "sv": "Mitt i Kalmarsund ligger en naken granitö utan fast bosättning, full av grottor och lösa stenblock. Den blev nationalpark 1926, och folktron knyter den till häxornas mötesplats. Vidskepelsen säger att det bringar olycka att ta med sig sten därifrån. Vad heter ön?"
+      "nb": "Midt i Kalmarsund ligger en naken granittøy uten fast bosetning, full av grotter og med en gammel steinlabyrint det er forbudt å ta stein fra. Den ble nasjonalpark i 1926, og i folketroen var den heksenes møteplass. Hva heter øya?",
+      "sv": "Mitt i Kalmarsund ligger en naken granitö utan fast bosättning, full av grottor och med en gammal stenlabyrint som det är förbjudet att ta sten från. Den blev nationalpark 1926, och i folktron var den häxornas mötesplats. Vad heter ön?"
     },
     "answer": {
       "nb": "Blå Jungfrun",
@@ -585,10 +585,13 @@
       "sv": "Namnet består av två ord, och det sista betyder «jungfru»."
     },
     "funFact": {
-      "nb": "Oskarshamn kommune får hvert år tilsendt stein i posten fra angrende turister. Øya har også en steinlabyrint kalt Trojeborg.",
-      "sv": "Oskarshamns kommun får varje år stenar skickade i posten från ångerfulla turister. Ön har också en stenlabyrint kallad Trojeborg."
+      "nb": "Det ble brutt rød granitt på øya fra 1904 til 1925, året før den ble nasjonalpark. Øya hører til Oskarshamns kommun og er folketroens Blåkulla.",
+      "sv": "Röd granit bröts på ön från 1904 till 1925, året innan den blev nationalpark. Ön hör till Oskarshamns kommun och är folktrons Blåkulla."
     },
-    "source": "Naturvårdsverket – Blå Jungfruns nationalpark"
+    "source": "Naturvårdsverket – Blå Jungfruns nationalpark",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Bl%C3%A5_Jungfrun"
   },
   {
     "id": "blaa-m-10",
@@ -600,8 +603,8 @@
       "design"
     ],
     "prompt": {
-      "nb": "Plateselskapet ble grunnlagt i New York i 1939 av den tyske innvandreren Alfred Lion, og ble hjemmet til Art Blakey, Thelonious Monk og Herbie Hancock. Grafikeren Reid Miles' omslag med skrå typografi og Francis Wolffs studiofotografier er like berømte som musikken. Hva heter selskapet?",
-      "sv": "Skivbolaget grundades i New York 1939 av den tyske invandraren Alfred Lion och blev hemmet för Art Blakey, Thelonious Monk och Herbie Hancock. Grafikern Reid Miles omslag med snedställd typografi och Francis Wolffs studiofotografier är lika berömda som musiken. Vad heter bolaget?"
+      "nb": "Plateselskapet ble grunnlagt i New York i 1939 av blant andre den tyske innvandreren Alfred Lion, og ble hjemmet til Art Blakey, Thelonious Monk og Herbie Hancock. Grafikeren Reid Miles' omslag med grotesk skrift og Francis Wolffs studiofotografier er like berømte som musikken. Hva heter selskapet?",
+      "sv": "Skivbolaget grundades i New York 1939 av bland andra den tyske invandraren Alfred Lion och blev hemmet för Art Blakey, Thelonious Monk och Herbie Hancock. Grafikern Reid Miles omslag med grotesk skrift och Francis Wolffs studiofotografier är lika berömda som musiken. Vad heter bolaget?"
     },
     "answer": "Blue Note Records",
     "answerKind": "annet",
@@ -613,7 +616,10 @@
       "nb": "Alfred Lion betalte musikerne for øvingstid før innspillingene – uvanlig i bransjen, og en viktig grunn til at katalogen holder så jevnt høyt nivå.",
       "sv": "Alfred Lion betalade musikerna för repetitionstid före inspelningarna – ovanligt i branschen, och en viktig orsak till att katalogen håller så jämnt hög nivå."
     },
-    "source": "Blue Note Records – selskapshistorikk"
+    "source": "Blue Note Records – selskapshistorikk",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Blue_Note_Records"
   },
   {
     "id": "blaa-v-01",
@@ -638,10 +644,13 @@
       "sv": "Pigmentet som gjordes av den heter ultramarin – «bortom havet», eftersom stenen kom sjövägen till Europa."
     },
     "funFact": {
-      "nb": "I 1826 vant franskmannen Jean-Baptiste Guimet en utlyst premie for å ha laget syntetisk ultramarin, og prisen på pigmentet stupte over natten.",
-      "sv": "År 1826 vann fransmannen Jean-Baptiste Guimet ett utlyst pris för att ha framställt syntetiskt ultramarin, och priset på pigmentet störtdök över en natt."
+      "nb": "Société d'Encouragement lyste i 1824 ut en premie på 6000 franc for å lage fargen kunstig. Franskmannen Jean-Baptiste Guimet klarte det få år etter, og prisen på pigmentet stupte.",
+      "sv": "Société d'Encouragement utlyste 1824 ett pris på 6000 franc för att framställa färgen konstgjort. Fransmannen Jean-Baptiste Guimet lyckades några år senare, och priset på pigmentet störtdök."
     },
-    "source": "The National Gallery, London – pigment compendium; Société d'Encouragement pour l'Industrie Nationale (1824-utlysningen)"
+    "source": "The National Gallery, London – pigment compendium; Société d'Encouragement pour l'Industrie Nationale (1824-utlysningen)",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Lapis_lazuli"
   },
   {
     "id": "blaa-v-02",
@@ -653,8 +662,8 @@
       "design"
     ],
     "prompt": {
-      "nb": "I 2009 varmet en doktorgradsstudent ved Oregon State University opp en blanding av manganoksid og andre grunnstoffer i en ovn, og fikk ut et forbløffende sterkt blått pulver. Det ble det første nye uorganiske blåpigmentet på nesten to hundre år, og navnet er satt sammen av grunnstoffsymbolene. Hva heter pigmentet?",
-      "sv": "År 2009 värmde en doktorand vid Oregon State University upp en blandning av manganoxid och andra grundämnen i en ugn och fick ut ett förbluffande starkt blått pulver. Det blev det första nya oorganiska blåpigmentet på nästan tvåhundra år, och namnet är sammansatt av grundämnessymbolerna. Vad heter pigmentet?"
+      "nb": "I 2009 varmet en doktorgradsstudent ved Oregon State University opp en blanding av manganoksid og andre grunnstoffer til rundt 1200 grader, og fikk ut et forbløffende sterkt blått pulver. Oppdagelsen var tilfeldig, og navnet er satt sammen av grunnstoffsymbolene. Hva heter pigmentet?",
+      "sv": "År 2009 värmde en doktorand vid Oregon State University upp en blandning av manganoxid och andra grundämnen till omkring 1200 grader och fick ut ett förbluffande starkt blått pulver. Upptäckten var en slump, och namnet är sammansatt av grundämnessymbolerna. Vad heter pigmentet?"
     },
     "answer": {
       "nb": "YInMn-blått",
@@ -669,7 +678,10 @@
       "nb": "Pigmentet reflekterer infrarødt lys godt, så maling laget med det holder overflater kjøligere i sol. Forskergruppen ble ledet av kjemikeren Mas Subramanian.",
       "sv": "Pigmentet reflekterar infrarött ljus väl, så färg gjord med det håller ytor svalare i sol. Forskargruppen leddes av kemisten Mas Subramanian."
     },
-    "source": "Oregon State University – Subramanian Group; Journal of the American Chemical Society (2009)"
+    "source": "Oregon State University – Subramanian Group; Journal of the American Chemical Society (2009)",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/YInMn_Blue"
   },
   {
     "id": "blaa-v-03",
@@ -732,10 +744,13 @@
       "sv": "Målningen heter «Vinternatt i Rondane», och efternamnet börjar på S."
     },
     "funFact": {
-      "nb": "Han fikk ideen på en skitur i Rondane rundt århundreskiftet. Han er også kjent for «Fra Nordenfjeldske» og for bildene fra Røros, der han bodde noen år.",
+      "nb": "Han fikk ideen på en skitur i Rondane rundt århundreskiftet. Han er også kjent for bildene fra Røros, der han bodde noen år.",
       "sv": "Han fick idén på en skidtur i Rondane kring sekelskiftet. Han är också känd för bilderna från Røros, där han bodde några år."
     },
-    "source": "Nasjonalmuseet, Oslo – Harald Sohlberg, «Vinternatt i Rondane»"
+    "source": "Nasjonalmuseet, Oslo – Harald Sohlberg, «Vinternatt i Rondane»",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Harald_Sohlberg"
   },
   {
     "id": "blaa-v-05",
@@ -747,8 +762,8 @@
       "geografi"
     ],
     "prompt": {
-      "nb": "Europavei 12 går fra Helsingfors over Vasa og Umeå og videre tvers over Kjølen til Mo i Rana. Den svensk-norske strekningen markedsføres under et eget turistnavn som spiller på alle innsjøene og fjordene den følger. Hva kalles veien?",
-      "sv": "Europaväg 12 går från Helsingfors över Vasa och Umeå och vidare tvärs över Kölen till Mo i Rana. Den svensk-norska sträckan marknadsförs under ett eget turistnamn som anspelar på alla sjöar och fjordar den följer. Vad kallas vägen?"
+      "nb": "Europavei 12 går fra Helsingfors over Vasa og Umeå og videre tvers over Kjølen til Mo i Rana. Derfra starter en internasjonal turistvei som følger Umeälven og innsjøene østover gjennom Sverige og Finland helt til Russland. Hva kalles turistveien?",
+      "sv": "Europaväg 12 går från Helsingfors över Vasa och Umeå och vidare tvärs över Kölen till Mo i Rana. Därifrån startar en internationell turistväg som följer Umeälven och sjöarna österut genom Sverige och Finland ända till Ryssland. Vad kallas turistvägen?"
     },
     "answer": {
       "nb": "Blå vägen",
@@ -760,10 +775,13 @@
       "sv": "Namnet är två ord, och det första är färgen."
     },
     "funFact": {
-      "nb": "Veien følger Umeälven store deler av veien gjennom Västerbotten og passerer Storuman og Tärnaby før den krysser grensen ved Umbukta.",
-      "sv": "Vägen följer Umeälven stora delar av sträckan genom Västerbotten och passerar Storuman och Tärnaby innan den korsar gränsen vid Umbukta."
+      "nb": "Turistveien ender i Pudozj i Russland. På svensk side følger den Umeälven og passerer Storuman, som ligger ved sørøstenden av innsjøen med samme navn.",
+      "sv": "Turistvägen slutar i Pudozj i Ryssland. På svensk sida följer den Umeälven och passerar Storuman, som ligger vid sydöstra änden av sjön med samma namn."
     },
-    "source": "Blå Vägen-föreningen; Trafikverket – E12"
+    "source": "Blå Vägen-föreningen; Trafikverket – E12",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Mo_i_Rana"
   },
   {
     "id": "blaa-v-06",
@@ -791,7 +809,10 @@
       "nb": "Blodet fra dolkhalen brukes til å lage LAL-testen, som legemiddelindustrien bruker for å avsløre bakterieforurensning i vaksiner og infusjonsvæsker.",
       "sv": "Blodet från dolksvansen används för att göra LAL-testet, som läkemedelsindustrin använder för att avslöja bakteriell kontaminering i vacciner och infusionsvätskor."
     },
-    "source": "Woods Hole Oceanographic Institution; U.S. Pharmacopeia – LAL-test"
+    "source": "Woods Hole Oceanographic Institution; U.S. Pharmacopeia – LAL-test",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Hemocyanin"
   },
   {
     "id": "blaa-v-07",
@@ -819,7 +840,10 @@
       "nb": "Han døde bare 34 år gammel i 1962. Bindemidlet han brukte var en syntetisk harpiks som lot pigmentkornene stå ubundet på overflaten – derav den støvete, dype matte virkningen.",
       "sv": "Han dog bara 34 år gammal 1962. Bindemedlet han använde var ett syntetiskt harts som lät pigmentkornen stå obundna på ytan – därav den dammiga, djupt matta verkan."
     },
-    "source": "Yves Klein Archives; Centre Pompidou"
+    "source": "Yves Klein Archives; Centre Pompidou",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/International_Klein_Blue"
   },
   {
     "id": "blaa-v-08",
@@ -844,10 +868,13 @@
       "sv": "Staden är Genève."
     },
     "funFact": {
-      "nb": "Blå Kors er i dag en internasjonal føderasjon med medlemsorganisasjoner i mer enn 40 land, og er en av Norges største ideelle aktører på sitt felt.",
-      "sv": "Blå Korset är i dag en internationell federation med medlemsorganisationer i mer än 40 länder, och är en av Norges största ideella aktörer på sitt område."
+      "nb": "Blå Kors er i dag en internasjonal bevegelse med medlemsorganisasjoner i en rekke land. Den første norske foreningen ble stiftet i Oslo i 1906, og det landsomfattende Blå Kors Norge kom i 1909.",
+      "sv": "Blå Korset är i dag en internationell rörelse med medlemsorganisationer i en rad länder. Den första norska föreningen bildades i Oslo 1906, och det landsomfattande Blå Kors Norge kom 1909."
     },
-    "source": "Blå Kors Norge; International Federation of the Blue Cross"
+    "source": "Blå Kors Norge; International Federation of the Blue Cross",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Bl%C3%A5_Kors"
   },
   {
     "id": "blaa-v-09",

@@ -320,8 +320,8 @@
       "sprak"
     ],
     "prompt": {
-      "nb": "Når et slag mot huden får blodårer til å briste under overflaten uten å lage sår, skifter huden farge over noen dager – først blåaktig, siden grønn og gul. Hvilket ord bruker vi om selve skaden?",
-      "sv": "När ett slag mot huden får blodkärl att brista under ytan utan att ge ett sår, byter huden färg under några dagar – först blåaktig, sedan grön och gul. Vilket ord används om själva skadan?"
+      "nb": "Når et slag mot huden får blodårer til å briste under overflaten uten at det blir sår, skifter stedet farge over noen dager, gjennom grønt til gult, før det forsvinner helt. Hvilket ord bruker vi i dagligtale om selve skaden?",
+      "sv": "När ett slag mot huden får blodkärl att brista under ytan utan att det blir sår, skiftar stället färg under några dagar, genom grönt till gult, innan det försvinner helt. Vilket ord använder vi i vardagligt tal om själva skadan?"
     },
     "answer": {
       "nb": "Blåmerke",
@@ -336,7 +336,10 @@
       "nb": "Den medisinske betegnelsen er hematom eller kontusjon, men i dagligtale bruker både nordmenn og svensker fargen på skaden som navn.",
       "sv": "Den medicinska termen är hematom eller kontusion, men i vardagligt tal använder både norrmän och svenskar färgen på skadan som namn."
     },
-    "source": "Bokmålsordboka; Svenska Akademiens ordbok"
+    "source": "Bokmålsordboka; Svenska Akademiens ordbok",
+    "verifiedAt": "2026-10-03",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Bruise"
   },
   {
     "id": "blaa-m-14",
