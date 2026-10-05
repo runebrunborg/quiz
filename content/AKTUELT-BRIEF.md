@@ -134,3 +134,24 @@ skiftet – ikke mot dødsfallet.
    dato i `source`.
 3. Legg på `topical` med `event`, `until` og en bevisst `evergreen`.
 4. `node scripts/validate-content.mjs` skal si `0 feil`.
+
+## Nettmiljøet – observasjoner fra kontrollrunden 5. oktober 2026
+
+* **britannica.com svarer, men gir ofte bare metadata og bildetekster.** Fire
+  Britannica-artikler ble hentet (Everest, Kilimanjaro, Olympos, Fuji) og ingen
+  av dem returnerte brødteksten – bare faktaboks, navigasjon og bildetekster.
+  `britannica.com/place/Matterhorn` svarer 404. Britannica er altså ikke lenger
+  en pålitelig kilde herfra; engelsk Wikipedia tok over på alle fire.
+* **`en.wikipedia.org` med prosentkodet tittel kan svare «cache-only».**
+  `/wiki/Bl%C3%A5vitt` ble avvist, mens vanlige ASCII-titler gikk greit i samme
+  økt. Prøv en omskriving eller et søk før du konkluderer.
+* **`lex.dk` har ingen hentbar søkeside.** Både `/<oppslag>` og
+  `/soeg?q=…` ga 404. SNLs eget søk (`snl.no/api/v1/search?query=…`) virker
+  og er inngangen som faktisk bærer.
+* **Bedriftenes egne historiesider er vanskelige å treffe.** `dnt.no/historikk`,
+  `dnt.no/om-dnt/historie`, `ica.se/ica-historien` (302 til forsiden),
+  `icagruppen.se/…/our-history` og `toblerone.com/en/our-story` ga alle 404 eller
+  omdirigering; `toblerone.co.uk` avvises av robots.txt. SNL dekket DNT-fakta
+  fullt ut – trinn 1 på stigen var bedre enn trinn 4 her.
+* **Centrum för Näringslivshistoria har søk, men null treff på Blåvitt.** Det
+  var kilden `blaa-v-09` oppga; spørsmålet er flagget.
