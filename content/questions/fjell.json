@@ -22,7 +22,10 @@
       "nb": "Landmåleren het George Everest, og etternavnet hans ble uttalt «IV-rist» – ikke slik fjellnavnet uttales i dag. Førstebestigningen kom 29. mai 1953.",
       "sv": "Lantmätaren hette George Everest, och hans efternamn uttalades «IV-rist» – inte som bergsnamnet uttalas i dag. Förstabestigningen kom den 29 maj 1953."
     },
-    "source": "Royal Geographical Society; Encyclopaedia Britannica – Mount Everest"
+    "source": "Royal Geographical Society; Encyclopaedia Britannica – Mount Everest",
+    "verifiedAt": "2026-10-05",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Mount_Everest"
   },
   {
     "id": "fjell-l-02",
@@ -33,20 +36,23 @@
       "vitenskap"
     ],
     "prompt": {
-      "nb": "Den ruver alene over savannen i Tanzania og er en sovende stratovulkan med tre kratre. Det høyeste punktet fikk etter selvstendigheten navnet Uhuru, som betyr «frihet» på swahili. Hvilket fjell er Afrikas høyeste?",
-      "sv": "Det reser sig ensamt över savannen i Tanzania och är en sovande stratovulkan med tre kratrar. Den högsta punkten fick efter självständigheten namnet Uhuru, som betyder «frihet» på swahili. Vilket berg är Afrikas högsta?"
+      "nb": "Den ruver alene over savannen i Tanzania og er en sovende stratovulkan med tre vulkankjegler. Det høyeste punktet fikk etter selvstendigheten navnet Uhuru, som betyr «frihet» på swahili. Hvilket fjell er Afrikas høyeste?",
+      "sv": "Det reser sig ensamt över savannen i Tanzania och är en sovande stratovulkan med tre vulkankäglor. Den högsta punkten fick efter självständigheten namnet Uhuru, som betyder «frihet» på swahili. Vilket berg är Afrikas högsta?"
     },
     "answer": "Kilimanjaro",
     "answerKind": "annet",
     "hint": {
-      "nb": "Toppen ligger 5895 meter over havet, og det høyeste av de tre kraterne heter Kibo.",
-      "sv": "Toppen ligger 5 895 meter över havet, och den högsta av de tre kratrarna heter Kibo."
+      "nb": "Toppen ligger 5895 meter over havet, og den høyeste av de tre kjeglene heter Kibo.",
+      "sv": "Toppen ligger 5 895 meter över havet, och den högsta av de tre käglorna heter Kibo."
     },
     "funFact": {
-      "nb": "Fram til 1964 het toppen Kaiser-Wilhelm-Spitze, et minne fra tiden som tysk koloni. De to andre kraterne heter Mawenzi og Shira.",
-      "sv": "Fram till 1964 hette toppen Kaiser-Wilhelm-Spitze, ett minne från tiden som tysk koloni. De två andra kratrarna heter Mawenzi och Shira."
+      "nb": "Fram til 1964 het toppen Kaiser-Wilhelm-Spitze, et minne fra tiden som tysk koloni. De to andre kjeglene heter Mawenzi og Shira.",
+      "sv": "Fram till 1964 hette toppen Kaiser-Wilhelm-Spitze, ett minne från tiden som tysk koloni. De två andra käglorna heter Mawenzi och Shira."
     },
-    "source": "Encyclopaedia Britannica – Kilimanjaro; Tanzania National Parks"
+    "source": "Encyclopaedia Britannica – Kilimanjaro; Tanzania National Parks",
+    "verifiedAt": "2026-10-05",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro"
   },
   {
     "id": "fjell-l-03",
@@ -96,7 +102,10 @@
       "nb": "Den første kjente bestigningen skjedde så sent som 2. august 1913, da sveitserne Frédéric Boissonnas og Daniel Baud-Bovy nådde toppen sammen med den lokale geitejegeren Christos Kakkalos.",
       "sv": "Den första kända bestigningen skedde så sent som den 2 augusti 1913, då schweizarna Frédéric Boissonnas och Daniel Baud-Bovy nådde toppen tillsammans med den lokala getjägaren Christos Kakkalos."
     },
-    "source": "Encyclopaedia Britannica – Mount Olympus"
+    "source": "Encyclopaedia Britannica – Mount Olympus",
+    "verifiedAt": "2026-10-05",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Mount_Olympus"
   },
   {
     "id": "fjell-l-05",
@@ -107,8 +116,8 @@
       "natur"
     ],
     "prompt": {
-      "nb": "Sveriges høyeste fjell har to topper. Sørtoppen bærer en isbre som smelter og måles på nytt hver sommer, mens den isfrie nordtoppen nå er den høyeste. Navnet er samisk og betyr omtrent «kjelekammen». Hva heter fjellet?",
-      "sv": "Sveriges högsta berg har två toppar. Sydtoppen bär en glaciär som smälter och mäts om varje sommar, medan den isfria nordtoppen nu är den högsta. Namnet är samiskt och betyder ungefär «kittelkammen». Vad heter berget?"
+      "nb": "Sveriges høyeste fjell har to topper. Sørtoppen bærer en isbre som smelter og krymper år for år, mens den isfrie nordtoppen nå er den høyeste. Navnet er samisk og betyr omtrent «kjelekammen». Hva heter fjellet?",
+      "sv": "Sveriges högsta berg har två toppar. Sydtoppen bär en glaciär som smälter och krymper år för år, medan den isfria nordtoppen nu är den högsta. Namnet är samiskt och betyder ungefär «kittelkammen». Vad heter berget?"
     },
     "answer": "Kebnekaise",
     "answerKind": "annet",
@@ -120,7 +129,10 @@
       "nb": "Det nordsamiske navnet er Giebmegáisi. Fordi breen på sørtoppen krymper, er den isfrie nordtoppen nå Sveriges høyeste faste punkt.",
       "sv": "Det nordsamiska namnet är Giebmegáisi. Eftersom glaciären på sydtoppen krymper är den isfria nordtoppen nu Sveriges högsta fasta punkt."
     },
-    "source": "Stockholms universitet – Tarfala forskningsstation"
+    "source": "Stockholms universitet – Tarfala forskningsstation",
+    "verifiedAt": "2026-10-05",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Kebnekaise"
   },
   {
     "id": "fjell-l-06",
@@ -132,8 +144,8 @@
       "mat-og-drikke"
     ],
     "prompt": {
-      "nb": "Sjokoladen Toblerone ble laget i Bern i 1908, og siden 1960 har et bestemt alpefjell preget innpakningen – med en bjørn skjult inne i fjellsiden. Fjellet ligger på grensen mellom Sveits og Italia. Hva heter det?",
-      "sv": "Chokladen Toblerone skapades i Bern 1908, och sedan 1960 har ett bestämt alpberg prytt förpackningen – med en björn dold inne i bergssidan. Berget ligger på gränsen mellan Schweiz och Italien. Vad heter det?"
+      "nb": "Sjokoladen Toblerone ble laget i Bern i 1908, og et bestemt alpefjell preger innpakningen – med en bjørn skjult inne i fjellsiden. Fjellet ligger på grensen mellom Sveits og Italia. Hva heter det?",
+      "sv": "Chokladen Toblerone skapades i Bern 1908, och ett bestämt alpberg pryder förpackningen – med en björn dold inne i bergssidan. Berget ligger på gränsen mellan Schweiz och Italien. Vad heter det?"
     },
     "answer": "Matterhorn",
     "answerKind": "annet",
@@ -145,7 +157,10 @@
       "nb": "Bjørnen er byvåpenet til Bern. Edward Whymper nådde toppen 14. juli 1865, men Michel Croz, Douglas Hadow, Charles Hudson og lord Francis Douglas omkom under nedstigningen.",
       "sv": "Björnen är Berns stadsvapen. Edward Whymper nådde toppen den 14 juli 1865, men Michel Croz, Douglas Hadow, Charles Hudson och lord Francis Douglas omkom under nedstigningen."
     },
-    "source": "Encyclopaedia Britannica – Matterhorn; Mondelez/Toblerone – merkehistorikk"
+    "source": "Encyclopaedia Britannica – Matterhorn; Mondelez/Toblerone – merkehistorikk",
+    "verifiedAt": "2026-10-05",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Matterhorn"
   },
   {
     "id": "fjell-l-07",
@@ -191,10 +206,13 @@
       "sv": "Det är Japans högsta berg, 3 776 meter, och en vulkan som senast fick utbrott vintern 1707–1708."
     },
     "funFact": {
-      "nb": "Unesco begrunnet oppføringen med at fjellet har inspirert kunstnere og diktere og vært mål for pilegrimer gjennom århundrer. Hokusai laget senere også en serie kalt «Hundre utsikter».",
-      "sv": "Unesco motiverade upptagandet med att berget har inspirerat konstnärer och diktare och varit mål för pilgrimer genom århundraden. Hokusai gjorde senare också en serie kallad «Hundra utsikter»."
+      "nb": "Unesco begrunnet oppføringen med at fjellet har inspirert kunstnere og diktere og vært mål for pilegrimer gjennom århundrer. Hokusai laget også en serie kalt «Hundre utsikter».",
+      "sv": "Unesco motiverade upptagandet med att berget har inspirerat konstnärer och diktare och varit mål för pilgrimer genom århundraden. Hokusai gjorde också en serie kallad «Hundra utsikter»."
     },
-    "source": "Unesco – World Heritage List, «Fujisan, sacred place and source of artistic inspiration»"
+    "source": "Unesco – World Heritage List, «Fujisan, sacred place and source of artistic inspiration»",
+    "verifiedAt": "2026-10-05",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://whc.unesco.org/en/list/1418/"
   },
   {
     "id": "fjell-l-09",

@@ -83,8 +83,8 @@
       "sport"
     ],
     "prompt": {
-      "nb": "Organisasjonen ble stiftet i Kristiania i 1868 på initiativ av Thomas Heftye, og driver i dag rundt 550 hytter og mer enn 20 000 kilometer merkede stier i norske fjell og skoger. Hvilken forening er dette?",
-      "sv": "Föreningen bildades i Kristiania 1868 på initiativ av Thomas Heftye, och driver i dag omkring 550 stugor och mer än 20 000 kilometer markerade leder i norska fjäll och skogar. Vilken förening är detta?"
+      "nb": "Organisasjonen ble stiftet i Christiania i 1868 på initiativ av Thomas Heftye, og driver i dag rundt 550 hytter og mer enn 20 000 kilometer merkede stier i norske fjell og skoger. Hvilken forening er dette?",
+      "sv": "Föreningen bildades i Christiania 1868 på initiativ av Thomas Heftye, och driver i dag omkring 550 stugor och mer än 20 000 kilometer markerade leder i norska fjäll och skogar. Vilken förening är detta?"
     },
     "answer": "Den Norske Turistforening",
     "answerKind": "annet",
@@ -96,7 +96,10 @@
       "nb": "DNT gir også ut håndboken «Til fots i Norge» og tidsskriftet «Fjell og Vidde», og arrangerer over 4000 turer og kurs i året.",
       "sv": "DNT ger också ut handboken «Til fots i Norge» och tidskriften «Fjell og Vidde», och arrangerar över 4 000 turer och kurser om året."
     },
-    "source": "Den Norske Turistforening – om oss / historikk"
+    "source": "Den Norske Turistforening – om oss / historikk",
+    "verifiedAt": "2026-10-05",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Den_Norske_Turistforening"
   },
   {
     "id": "fjell-l-15",

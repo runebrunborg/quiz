@@ -902,7 +902,12 @@
       "nb": "Samme kallenavn brukes om fotballklubben IFK Göteborg, som spiller i blått og hvitt – to helt ulike svenske institusjoner med samme økenavn.",
       "sv": "Samma smeknamn används om fotbollsklubben IFK Göteborg, som spelar i blått och vitt – två helt olika svenska institutioner med samma öknamn."
     },
-    "source": "ICA-historien; Centrum för Näringslivshistoria"
+    "source": "ICA-historien; Centrum för Näringslivshistoria",
+    "flagged": {
+      "at": "2026-10-05",
+      "by": "kontrollrunde",
+      "reason": "Ingen hentbar kilde dekker lanseringen i 1979 eller emballasjebeskrivelsen. Søket hos Centrum för Näringslivshistoria gir null treff på Blåvitt, og SNL, lex.dk, engelsk Wikipedia og ICAs egne sider har ingenting."
+    }
   },
   {
     "id": "blaa-v-10",
@@ -931,6 +936,9 @@
       "nb": "Verket heter «Photographs of British Algae: Cyanotype Impressions». Hun la algene rett på det lysfølsomme papiret, så bildene er skyggebilder – ingen kamera var involvert.",
       "sv": "Verket heter «Photographs of British Algae: Cyanotype Impressions». Hon lade algerna direkt på det ljuskänsliga papperet, så bilderna är skuggbilder – ingen kamera var inblandad."
     },
-    "source": "The British Library; The New York Public Library – Anna Atkins Collection"
+    "source": "The British Library; The New York Public Library – Anna Atkins Collection",
+    "verifiedAt": "2026-10-05",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Anna_Atkins"
   }
 ]
