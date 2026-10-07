@@ -111,8 +111,8 @@
       "geografi"
     ],
     "prompt": {
-      "nb": "Fjellet troner over Sveriges mest kjente skisportsted, er 1420 meter høyt og har vært mål for vintersportsturisme siden 1800-tallet. Det har vært vertskap for alpint verdensmesterskap tre ganger, senest i 2019. Hvilket fjell er dette?",
-      "sv": "Berget tronar över Sveriges mest kända skidort, är 1 420 meter högt och har varit mål för vintersportturism sedan 1800-talet. Det har varit värd för alpina VM tre gånger, senast 2019. Vilket berg är detta?"
+      "nb": "Fjellet troner over Sveriges mest kjente skisportsted, er 1420 meter høyt og har tatt imot turister siden jernbanen kom på 1880-tallet. Det har vært vertskap for alpint verdensmesterskap tre ganger, senest i 2019. Hvilket fjell er dette?",
+      "sv": "Berget tronar över Sveriges mest kända skidort, är 1 420 meter högt och har tagit emot turister sedan järnvägen kom på 1880-talet. Det har varit värd för alpina VM tre gånger, senast 2019. Vilket berg är detta?"
     },
     "answer": "Åreskutan",
     "answerKind": "annet",
@@ -124,7 +124,10 @@
       "nb": "De alpine verdensmesterskapene ble arrangert her i 1954, 2007 og 2019, og fjellet huser i dag Sveriges største skianlegg.",
       "sv": "De alpina VM-tävlingarna hölls här 1954, 2007 och 2019, och berget hyser i dag Sveriges största skidanläggning."
     },
-    "source": "FIS Alpine World Ski Championships – historikk; Åre kommun"
+    "source": "FIS Alpine World Ski Championships – historikk; Åre kommun",
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/%C3%85reskutan"
   },
   {
     "id": "fjell-l-16",
@@ -163,8 +166,8 @@
       "natur"
     ],
     "prompt": {
-      "nb": "Sveriges høyeste foss med fritt fall stuper 70 meter rett ned i en kløft i Fulufjällets nasjonalpark, som ble opprettet i 2002. Vannet kommer fra en liten isbre høyt oppe i fjellet. Hva heter fossen?",
-      "sv": "Sveriges högsta fall med fritt fall störtar 70 meter rakt ner i en klyfta i Fulufjällets nationalpark, som bildades 2002. Vattnet kommer från en liten glaciär högt uppe i berget. Vad heter fallet?"
+      "nb": "Sveriges høyeste foss med fritt fall stuper 70 meter rett ned i en kløft i Fulufjällets nasjonalpark, som ble opprettet i 2002. Vannet kommer fra en bekk som renner over fjellplatået. Hva heter fossen?",
+      "sv": "Sveriges högsta fall med fritt fall störtar 70 meter rakt ner i en klyfta i Fulufjällets nationalpark, som bildades 2002. Vattnet kommer från en bäck som rinner över fjällplatån. Vad heter fallet?"
     },
     "answer": "Njupeskär",
     "answerKind": "annet",
@@ -173,10 +176,13 @@
       "sv": "Fallets totala höjd, inklusive den branta delen ovanför det fria fallet, är 93 meter."
     },
     "funFact": {
-      "nb": "Fossen skapes av smeltevann og nedbør som samles i en li over stupet, og turen dit fra parkeringen følger en godt tilrettelagt sti på noen kilometer.",
-      "sv": "Fallet skapas av smältvatten och nederbörd som samlas i en sluttning ovanför stupet, och vandringen dit från parkeringen följer en välanlagd led på några kilometer."
+      "nb": "Bekken heter Njupån. Over tusenvis av år har det fallende vannet gravd ut den store kløfta nedenfor, og fra et utsiktspunkt øverst ser man både ravinen og landskapet omkring.",
+      "sv": "Bäcken heter Njupån. Under tusentals år har det fallande vattnet gröpt ur den stora klyftan nedanför, och från en utsiktsplats högst upp ser man både ravinen och landskapet runt omkring."
     },
-    "source": "Sveriges Nationalparker – Fulufjällets nationalpark; Naturvårdsverket"
+    "source": "Sveriges Nationalparker – Fulufjällets nationalpark; Naturvårdsverket",
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Fulufj%C3%A4llet_National_Park"
   },
   {
     "id": "fjell-l-18",
@@ -201,7 +207,10 @@
       "nb": "Reservatet ble utvidet i 1988 og forvaltes med mål om å kombinere naturvern, reindrift, friluftsliv og annen bruk av fjellet.",
       "sv": "Reservatet utvidgades 1988 och förvaltas med målet att kombinera naturvård, renskötsel, friluftsliv och annan användning av fjället."
     },
-    "source": "Naturvårdsverket – Vindelfjällens naturreservat"
+    "source": "Naturvårdsverket – Vindelfjällens naturreservat",
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Vindelfj%C3%A4llen_Nature_Reserve"
   },
   {
     "id": "fjell-l-19",
@@ -212,20 +221,23 @@
       "geografi"
     ],
     "prompt": {
-      "nb": "Fjellet i Alaska er Nord-Amerikas høyeste, med en topp 6190 meter over havet. I 2015 fikk det tilbake et navn fra et atabaskisk urfolksspråk, etter mer enn hundre år under et navn gitt til ære for en amerikansk president. Hvilket fjell er dette?",
-      "sv": "Berget i Alaska är Nordamerikas högsta, med en topp 6 190 meter över havet. År 2015 fick det tillbaka ett namn från ett atabaskiskt urfolksspråk, efter mer än hundra år under ett namn som hedrade en amerikansk president. Vilket berg är detta?"
+      "nb": "Nord-Amerikas høyeste fjell ligger i Alaska og har en topp 6190 meter over havet. I 2015 ga amerikanske myndigheter det tilbake et eldre navn fra urfolksspråket koyukon, etter mer enn hundre år under navnet til en amerikansk president. Hvilket navn var det?",
+      "sv": "Nordamerikas högsta berg ligger i Alaska och har en topp 6 190 meter över havet. År 2015 gav amerikanska myndigheter det tillbaka ett äldre namn från urfolksspråket koyukon, efter mer än hundra år under namnet efter en amerikansk president. Vilket namn var det?"
     },
     "answer": "Denali",
     "answerKind": "annet",
     "hint": {
-      "nb": "Det tidligere navnet æret William McKinley, som ble president i 1897 uten noen gang å ha besøkt Alaska.",
-      "sv": "Det tidigare namnet hedrade William McKinley, som blev president 1897 utan att någonsin ha besökt Alaska."
+      "nb": "Det tidligere navnet ble foreslått i 1896 av gullgraveren William Dickey, som ville støtte presidentkandidaten William McKinley.",
+      "sv": "Det tidigare namnet föreslogs 1896 av guldgrävaren William Dickey, som ville stödja presidentkandidaten William McKinley."
     },
     "funFact": {
-      "nb": "Målt fra fot til topp er fjellet blant de høyeste på land i verden, siden foten ligger nær havnivå mens for eksempel Mount Everest starter fra et høytliggende platå.",
-      "sv": "Mätt från fot till topp är berget bland de högsta på land i världen, eftersom foten ligger nära havsnivå medan till exempel Mount Everest utgår från en högt belägen platå."
+      "nb": "I 2025 gikk amerikanske myndigheter tilbake til navnet Mount McKinley, mens nasjonalparken rundt fortsatt heter Denali. Delstatens egne myndigheter, urfolk og mange klatrere bruker fortsatt det eldre navnet.",
+      "sv": "År 2025 återgick amerikanska myndigheter till namnet Mount McKinley, medan nationalparken runt omkring fortfarande heter Denali. Delstatens egna myndigheter, urfolk och många klättrare använder fortfarande det äldre namnet."
     },
-    "source": "U.S. Department of the Interior (2015); Encyclopaedia Britannica – Denali"
+    "source": "U.S. Department of the Interior (2015); Encyclopaedia Britannica – Denali",
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Denali"
   },
   {
     "id": "fjell-l-20",
@@ -236,8 +248,8 @@
       "geografi"
     ],
     "prompt": {
-      "nb": "Med sine 6961 meter er dette den høyeste toppen i både Sør-Amerika og hele den vestlige halvkule, og en av de mest fremtredende toppene i verden nest etter Everest. Fjellet ligger i Andesfjellene i Argentina. Hvilket fjell er dette?",
-      "sv": "Med sina 6 961 meter är detta den högsta toppen i både Sydamerika och hela västra halvklotet, och en av de mest framträdande topparna i världen näst efter Everest. Berget ligger i Anderna i Argentina. Vilket berg är detta?"
+      "nb": "Med en topp på nesten 7000 meter er dette den høyeste toppen i både Sør-Amerika og hele den vestlige halvkule, og en av de mest fremtredende toppene i verden nest etter Everest. Fjellet ligger i Andesfjellene i Argentina. Hvilket fjell er dette?",
+      "sv": "Med en topp på nästan 7 000 meter är detta den högsta toppen i både Sydamerika och hela västra halvklotet, och en av de mest framträdande topparna i världen näst efter Everest. Berget ligger i Anderna i Argentina. Vilket berg är detta?"
     },
     "answer": "Aconcagua",
     "answerKind": "annet",
@@ -249,7 +261,10 @@
       "nb": "Til tross for høyden regnes Aconcagua som teknisk enkel å bestige via normalruten, men den store høyden og kraftige vinder gjør den likevel farlig for uerfarne.",
       "sv": "Trots höjden räknas Aconcagua som tekniskt enkel att bestiga via normalleden, men den stora höjden och de kraftiga vindarna gör den ändå farlig för oerfarna."
     },
-    "source": "Encyclopaedia Britannica – Aconcagua"
+    "source": "Encyclopaedia Britannica – Aconcagua",
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Aconcagua"
   },
   {
     "id": "fjell-m-11",

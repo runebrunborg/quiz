@@ -284,8 +284,8 @@
       "sv": "Det är Alpernas högsta berg och ligger på gränsen mellan Frankrike och Italien, vid staden Chamonix."
     },
     "funFact": {
-      "nb": "Saussure gikk selv opp året etter, i 1787. Snø- og isdekket på toppen varierer, så høyden oppgis litt ulikt fra måling til måling, rundt 4808 meter.",
-      "sv": "Saussure gick själv upp året därpå, 1787. Snö- och istäcket på toppen varierar, så höjden anges lite olika från mätning till mätning, omkring 4 808 meter."
+      "nb": "Saussure gikk selv opp året etter, i 1787. Snø- og isdekket på toppen varierer, så høyden oppgis litt ulikt fra måling til måling, rundt 4807 meter.",
+      "sv": "Saussure gick själv upp året därpå, 1787. Snö- och istäcket på toppen varierar, så höjden anges lite olika från mätning till mätning, omkring 4 807 meter."
     },
     "source": "Encyclopaedia Britannica – Mont Blanc",
     "onThisDay": [
@@ -297,7 +297,10 @@
           "sv": "På denna dag 1786 nådde Jacques Balmat och läkaren Michel Paccard en topp i Alperna, densamma som naturforskaren Horace-Bénédict de Saussure hade utlovat belöning för. Bedriften räknas som början på den moderna alpinismen. Vilket berg besteg de?"
         }
       }
-    ]
+    ],
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Mont_Blanc"
   },
   {
     "id": "fjell-m-02",
@@ -346,7 +349,10 @@
       "nb": "Førstebestigningen kom 31. juli 1954, ved italienerne Achille Compagnoni og Lino Lacedelli på en ekspedisjon ledet av Ardito Desio. Kallenavnet «Savage Mountain» stammer fra klatreren George Bell.",
       "sv": "Förstabestigningen kom den 31 juli 1954, av italienarna Achille Compagnoni och Lino Lacedelli på en expedition ledd av Ardito Desio. Smeknamnet «Savage Mountain» kommer från klättraren George Bell."
     },
-    "source": "Encyclopaedia Britannica – K2"
+    "source": "Encyclopaedia Britannica – K2",
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/K2"
   },
   {
     "id": "fjell-m-04",
@@ -367,10 +373,13 @@
       "sv": "Den nordligaste etappen går genom Abisko nationalpark och förbi Sveriges högsta bergsmassiv."
     },
     "funFact": {
-      "nb": "Navnet dukket opp første gang i 1928, da fjellstasjonen i Kvikkjokk åpnet. Løypa ble forlenget til Hemavan i 1975, samtidig med opprettelsen av Vindelfjällens naturreservat.",
-      "sv": "Namnet dök upp första gången 1928, då fjällstationen i Kvikkjokk öppnade. Leden förlängdes till Hemavan 1975, samtidigt som Vindelfjällens naturreservat bildades."
+      "nb": "Navnet dukket opp første gang i 1928, da fjellstasjonen i Kvikkjokk åpnet. Løypa ble forlenget til Hemavan i 1975, og er i dag omtrent 440 kilometer lang.",
+      "sv": "Namnet dök upp första gången 1928, då fjällstationen i Kvikkjokk öppnade. Leden förlängdes till Hemavan 1975, och är i dag ungefär 440 kilometer lång."
     },
-    "source": "Svenska Turistföreningen (STF); Naturvårdsverket"
+    "source": "Svenska Turistföreningen (STF); Naturvårdsverket",
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Kungsleden"
   },
   {
     "id": "fjell-m-05",
@@ -398,7 +407,10 @@
       "nb": "Ekspedisjonen var britisk og ble ledet av John Hunt. I 1960 grunnla han Himalayan Trust, som har bygd skoler og sykehus for sherpaene i Khumbu.",
       "sv": "Expeditionen var brittisk och leddes av John Hunt. År 1960 grundade han Himalayan Trust, som har byggt skolor och sjukhus för sherpafolket i Khumbu."
     },
-    "source": "Encyclopaedia Britannica – Sir Edmund Hillary"
+    "source": "Encyclopaedia Britannica – Sir Edmund Hillary",
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Edmund_Hillary"
   },
   {
     "id": "fjell-m-06",
@@ -433,8 +445,8 @@
       "sport"
     ],
     "prompt": {
-      "nb": "Han vokste opp i en liten fjellbygd i Lappland, kjørte bare slalåm og storslalåm, og vant 86 renn i verdenscupen. Under vinter-OL i Lake Placid i 1980 tok han gull i begge grenene. Hva heter alpinisten?",
-      "sv": "Han växte upp i en liten fjällby i Lappland, körde bara slalom och storslalom, och vann 86 lopp i världscupen. Under vinter-OS i Lake Placid 1980 tog han guld i båda grenarna. Vad heter alpinisten?"
+      "nb": "Han vokste opp i en liten fjellbygd i Lappland, satset på slalåm og storslalåm, og vant 86 renn i verdenscupen. Under vinter-OL i Lake Placid i 1980 tok han gull i begge grenene. Hva heter alpinisten?",
+      "sv": "Han växte upp i en liten fjällby i Lappland, satsade på slalom och storslalom, och vann 86 lopp i världscupen. Under vinter-OS i Lake Placid 1980 tog han guld i båda grenarna. Vad heter alpinisten?"
     },
     "answer": "Ingemar Stenmark",
     "answerKind": "person",
@@ -450,7 +462,10 @@
       "nb": "De 86 seirene fordeler seg på 46 i storslalåm og 40 i slalåm. Han vant verdenscupen sammenlagt tre år på rad, 1976, 1977 og 1978.",
       "sv": "De 86 segrarna fördelar sig på 46 i storslalom och 40 i slalom. Han vann världscupen sammanlagt tre år i rad: 1976, 1977 och 1978."
     },
-    "source": "Internationella Skidförbundet (FIS); Sveriges Olympiska Kommitté"
+    "source": "Internationella Skidförbundet (FIS); Sveriges Olympiska Kommitté",
+    "verifiedAt": "2026-10-07",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Ingemar_Stenmark"
   },
   {
     "id": "fjell-m-08",
