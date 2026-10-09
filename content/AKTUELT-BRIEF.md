@@ -155,3 +155,22 @@ skiftet – ikke mot dødsfallet.
   fullt ut – trinn 1 på stigen var bedre enn trinn 4 her.
 * **Centrum för Näringslivshistoria har søk, men null treff på Blåvitt.** Det
   var kilden `blaa-v-09` oppga; spørsmålet er flagget.
+
+## Nettmiljøet – observasjoner fra kontrollrunden 9. oktober 2026
+
+* **Prosentkodede Wikipedia-titler virker likevel.**
+  `/wiki/G%C3%B6ran_Kropp` og `/wiki/Vildmarksv%C3%A4gen` ga begge full
+  artikkeltekst. Notatet fra 5. oktober om «cache-only» gjelder altså ikke
+  prosentkodingen i seg selv – prøv adressen før du gir opp den.
+* **britannica.com er ujevn, ikke død.** `/place/Annapurna` ga full brødtekst,
+  mens `/place/Ojos-del-Salado` og `/biography/Maurice-Herzog` svarte med
+  klientfeil i samme økt. Engelsk Wikipedia dekket begge to.
+* **`lex.dk/api/v1/search` svarer, men med tom liste.** Samme form som SNLs
+  søk (`snl.no/api/v1/search?query=…`), som virker. Lex-søket kan altså ikke
+  brukes som trinn 2 på stigen slik SPEC beskriver.
+* **SNL-søket treffer på brødtekst, ikke på tittel.** Søk på «sameby» ga
+  Paulus Utsi, Älvdalen og Britta Marakatt-Labba; søk på «Göran Kropp» ga
+  skolopendere og Astrid Lindgren (ordet «kroppen»). `snl.no/sameby` finnes
+  ikke. Les trefflistene som stikkord, ikke som fasit, og gjett heller slugen.
+* **pubs.usgs.gov lar seg hente.** `pubs.usgs.gov/gip/dynamic/himalaya.html`
+  ga full tekst, men verten står ikke i `SOURCE_HOSTS_KNOWN`.

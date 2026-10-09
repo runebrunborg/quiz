@@ -301,8 +301,8 @@
       "dyr"
     ],
     "prompt": {
-      "nb": "I den samiske reindriftskulturen er dette den grunnleggende driftsenheten – en gruppe familier som sammen forvalter beiteland og flytter reinflokken gjennom årstidene. Norges reindriftslov anerkjente i 2007 enheten som grunnlaget for retten til areal og drift. Hva kalles enheten?",
-      "sv": "I den samiska renskötselkulturen är detta den grundläggande driftsenheten – en grupp familjer som tillsammans förvaltar betesmark och flyttar renhjorden genom årstiderna. Norges renskötsellag erkände 2007 enheten som grunden för rätten till mark och drift. Vad kallas enheten?"
+      "nb": "I den samiske reindriftskulturen er dette den grunnleggende driftsenheten – en gruppe reineiere som sammen bruker bestemte sommer- og vinterbeiter. Norges reindriftslov fra 2007 gir enheten en sentral plass og definerer den som en gruppe som driver reindrift i fellesskap på bestemte arealer. Hva kalles enheten?",
+      "sv": "I den samiska renskötselkulturen är detta den grundläggande driftsenheten – en grupp renägare som tillsammans använder bestämda sommar- och vinterbeten. Norges renskötsellag från 2007 ger enheten en central plats och definierar den som en grupp som bedriver renskötsel gemensamt på bestämda arealer. Vad kallas enheten?"
     },
     "answer": "Siida",
     "answerKind": "annet",
@@ -311,10 +311,13 @@
       "sv": "Ordet är samiskt och används både om själva gruppen och om de områden den förfogar över."
     },
     "funFact": {
-      "nb": "Siidaen har røtter langt tilbake i tid og er fortsatt en sentral sosial og økonomisk enhet i norsk reindrift, ved siden av det formelle reinbeitedistriktet.",
-      "sv": "Siidan har rötter långt tillbaka i tiden och är fortfarande en central social och ekonomisk enhet i norsk renskötsel, vid sidan av det formella renbetesdistriktet."
+      "nb": "Historisk var en siida et lite samfunn på opptil rundt 200 personer, styrt av et eldreråd med en siida-isit som leder. Bruksretten til land var i stor grad delt mellom familiene og slektene.",
+      "sv": "Historiskt var en siida ett litet samhälle på upp till omkring 200 personer, styrt av ett äldreråd med en siida-isit som ledare. Nyttjanderätten till mark var till stor del delad mellan familjerna och släkterna."
     },
-    "source": "Reindriftsloven (2007); Sametinget"
+    "source": "Reindriftsloven (2007); Sametinget",
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/siida"
   },
   {
     "id": "fjell-m-13",
@@ -378,8 +381,8 @@
       "dyr"
     ],
     "prompt": {
-      "nb": "I Skandinavias fjellheim lever et lite rovdyr med hvit vinterpels og rund kroppsform tilpasset ekstrem kulde. Til tross for fredning i flere tiår teller den samlede bestanden i Norge, Sverige og Finland i dag færre enn 200 voksne dyr. Hvilket rovdyr er dette?",
-      "sv": "I Skandinaviens fjällvärld lever ett litet rovdjur med vit vinterpäls och rundad kroppsform anpassad till extrem kyla. Trots fridlysning i flera decennier räknar den sammanlagda populationen i Norge, Sverige och Finland i dag färre än 200 vuxna djur. Vilket rovdjur är detta?"
+      "nb": "Høyt oppe på Skandinavias karrige vidder lever et lite rovdyr med hvit vinterpels og rund kroppsform tilpasset ekstrem kulde. Det ble fredet i Sverige i 1928 og i Norge i 1930, men er fortsatt oppført som sterkt truet i begge land. Hvilket rovdyr er dette?",
+      "sv": "Högt uppe på Skandinaviens karga vidder lever ett litet rovdjur med vit vinterpäls och rundad kroppsform anpassad till extrem kyla. Det fridlystes i Sverige 1928 och i Norge 1930, men är fortfarande upptaget som starkt hotat i båda länderna. Vilket rovdjur är detta?"
     },
     "answer": {
       "nb": "Fjellrev",
@@ -391,10 +394,13 @@
       "sv": "Djuret tillhör hunddjuren och byter päls med årstiderna – vit om vintern, brun eller grå om sommaren."
     },
     "funFact": {
-      "nb": "Arten er symboldyret for Vindelfjällens naturreservat i Sverige, og flere prosjekter driver støttefôring og overvåking for å hjelpe bestanden på fote igjen.",
-      "sv": "Arten är symboldjur för Vindelfjällens naturreservat i Sverige, och flera projekt bedriver stödutfodring och övervakning för att hjälpa beståndet på fötter igen."
+      "nb": "Arten er et av symbolene for Vindelfjällens naturreservat i Sverige. Forskningsprosjektet SEFALO, ledet fra Stockholms universitet, har siden 1980-tallet undersøkt hvorfor bestanden ikke tar seg opp igjen til tross for fredningen.",
+      "sv": "Arten är en av symbolerna för Vindelfjällens naturreservat i Sverige. Forskningsprojektet SEFALO, som leds från Stockholms universitet, har sedan 1980-talet undersökt varför beståndet inte återhämtar sig trots fridlysningen."
     },
-    "source": "IUCN Red List – Vulpes lagopus; Naturvårdsverket"
+    "source": "IUCN Red List – Vulpes lagopus; Naturvårdsverket",
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/fjellrev"
   },
   {
     "id": "fjell-m-16",
@@ -422,7 +428,10 @@
       "nb": "Han hadde allerede nådd sørtoppen 3. mai samme år, men snudde da tiden ble for knapp. Etter Everest syklet han også en del av veien hjem igjen.",
       "sv": "Han hade redan nått sydtoppen den 3 maj samma år, men vände då tiden blev för knapp. Efter Everest cyklade han också en bit av vägen hem igen."
     },
-    "source": "Svenskt biografiskt lexikon – Göran Kropp"
+    "source": "Svenskt biografiskt lexikon – Göran Kropp",
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/G%C3%B6ran_Kropp"
   },
   {
     "id": "fjell-m-17",
@@ -446,7 +455,10 @@
       "nb": "Langs veien finnes også fossen Hällingsåfallet, kalt «Sveriges svar på Niagarafallene», og landets lengste grotte, Korallgrottan.",
       "sv": "Längs vägen finns också fallet Hällingsåfallet, kallat «Sveriges svar på Niagarafallen», och landets längsta grotta, Korallgrottan."
     },
-    "source": "Turistvägar i Sverige – Vildmarksvägen; Strömsunds kommun"
+    "source": "Turistvägar i Sverige – Vildmarksvägen; Strömsunds kommun",
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Vildmarksv%C3%A4gen"
   },
   {
     "id": "fjell-m-18",
@@ -468,10 +480,13 @@
       "sv": "Ordet betyder bokstavligen «samisk by», även om det inte är en tätort i vanlig mening."
     },
     "funFact": {
-      "nb": "Betegnelsen «lappby» fra 1886 er i dag erstattet av «sameby» i den svenske reindriftsloven, ettersom «lapp» regnes som et utdatert og nedsettende ord.",
-      "sv": "Beteckningen «lappby» från 1886 har i dag ersatts av «sameby» i den svenska renskötsellagen, eftersom «lapp» anses vara ett föråldrat och nedsättande ord."
+      "nb": "Betegnelsen «lappby» fra 1886 er i dag erstattet av «sameby» i den svenske reindriftsloven. Beiteretten tilhører det samiske folket, og det er derfor enheten bærer navnet sitt.",
+      "sv": "Beteckningen «lappby» från 1886 har i dag ersatts av «sameby» i den svenska renskötsellagen. Betesrätten tillhör det samiska folket, och det är därför enheten bär sitt namn."
     },
-    "source": "Sametinget; svensk renskötsellagstiftning (1886)"
+    "source": "Sametinget; svensk renskötsellagstiftning (1886)",
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Sameby"
   },
   {
     "id": "fjell-m-19",
@@ -488,14 +503,17 @@
     "answer": "Ojos del Salado",
     "answerKind": "annet",
     "hint": {
-      "nb": "Navnet betyr «de salte øynene» på spansk, etter saltavleiringer nær toppen.",
-      "sv": "Namnet betyder «de salta ögonen» på spanska, efter saltavlagringar nära toppen."
+      "nb": "Navnet tolkes gjerne som «de salte øynene» på spansk, etter mineralavleiringer i fjellsidene.",
+      "sv": "Namnet tolkas gärna som «de salta ögonen» på spanska, efter mineralavlagringar i bergssidorna."
     },
     "funFact": {
       "nb": "Fjellet er den nest høyeste toppen i Andesfjellene etter Aconcagua, og har vært mål for flere forsøk på å kjøre bil til svært høye høyder.",
       "sv": "Berget är den näst högsta toppen i Anderna efter Aconcagua, och har varit mål för flera försök att köra bil till mycket höga höjder."
     },
-    "source": "Encyclopaedia Britannica – Ojos del Salado"
+    "source": "Encyclopaedia Britannica – Ojos del Salado",
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Ojos_del_Salado"
   },
   {
     "id": "fjell-m-20",
@@ -520,7 +538,10 @@
       "nb": "De fire som lyktes, var Anderl Heckmair, Ludwig Vörg, Heinrich Harrer og Fritz Kasparek. Harrer skrev senere boken «Sju år i Tibet».",
       "sv": "De fyra som lyckades var Anderl Heckmair, Ludwig Vörg, Heinrich Harrer och Fritz Kasparek. Harrer skrev senare boken «Sju år i Tibet»."
     },
-    "source": "Encyclopaedia Britannica – Eiger"
+    "source": "Encyclopaedia Britannica – Eiger",
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Eiger"
   },
   {
     "id": "fjell-v-11",

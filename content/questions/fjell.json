@@ -477,8 +477,8 @@
       "natur"
     ],
     "prompt": {
-      "nb": "Himalaya vokser fortsatt noen millimeter i året fordi to kontinentplater presses mot hverandre. Den ene er den eurasiske. Hvilken plate er den andre, den som for rundt 50 millioner år siden begynte å skyve fjellkjeden opp?",
-      "sv": "Himalaya växer fortfarande några millimeter om året eftersom två kontinentalplattor pressas mot varandra. Den ena är den eurasiska. Vilken platta är den andra, den som för ungefär 50 miljoner år sedan började skjuta upp bergskedjan?"
+      "nb": "Himalaya vokser fortsatt, fordi to kontinentplater presses mot hverandre. Kollisjonen mellom dem bygde både fjellkjeden og Tibet-platet, og den ene av platene er den eurasiske. Hvilken plate er den andre?",
+      "sv": "Himalaya växer fortfarande, eftersom två kontinentalplattor pressas mot varandra. Kollisionen mellan dem byggde både bergskedjan och Tibetanska plattån, och den ena av plattorna är den eurasiska. Vilken platta är den andra?"
     },
     "answer": {
       "nb": "Den indiske platen",
@@ -486,14 +486,17 @@
     },
     "answerKind": "annet",
     "hint": {
-      "nb": "Platen bærer et subkontinent som en gang lå langt sør på den gamle sørkontinenten Gondwana og drev nordover over ekvator.",
-      "sv": "Plattan bär en subkontinent som en gång låg långt söderut på den gamla sydkontinenten Gondwana och drev norrut över ekvatorn."
+      "nb": "Platen bærer et subkontinent som drev nordover over ekvator og til slutt kolliderte med Asia.",
+      "sv": "Plattan bär en subkontinent som drev norrut över ekvatorn och till slut kolliderade med Asien."
     },
     "funFact": {
-      "nb": "Platen beveger seg fortsatt nordover med rundt 67 millimeter i året, og Himalaya heves omtrent 5 millimeter årlig. Den samme kollisjonen har løftet Tibet-platået.",
-      "sv": "Plattan rör sig fortfarande norrut med omkring 67 millimeter om året, och Himalaya höjs ungefär 5 millimeter årligen. Samma kollision har lyft Tibetanska platån."
+      "nb": "Platen var en del av superkontinentet Gondwana til for rundt 140 millioner år siden. For omtrent 100 millioner år siden skilte den lag med Madagaskar og begynte å drive nordover.",
+      "sv": "Plattan var en del av superkontinenten Gondwana till för omkring 140 miljoner år sedan. För ungefär 100 miljoner år sedan skildes den från Madagaskar och började driva norrut."
     },
-    "source": "United States Geological Survey (USGS) – «This Dynamic Earth»"
+    "source": "United States Geological Survey (USGS) – «This Dynamic Earth»",
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Indian_Plate"
   },
   {
     "id": "fjell-m-09",
@@ -534,20 +537,23 @@
       "historie"
     ],
     "prompt": {
-      "nb": "Under byen i Norrbotten ligger malmfjellet Kiirunavaara, der gruveselskapet LKAB bryter jernmalm så dypt at grunnen over setter seg. Derfor flyttes hele bysentrum tre kilometer østover. Hvilken by er dette?",
-      "sv": "Under staden i Norrbotten ligger malmberget Kiirunavaara, där gruvbolaget LKAB bryter järnmalm så djupt att marken ovanför sätter sig. Därför flyttas hela stadskärnan tre kilometer österut. Vilken stad är detta?"
+      "nb": "Under denne byen i Norrbotten bryter gruveselskapet LKAB jernmalm så dypt at grunnen over setter seg og berggrunnen sprekker opp. Derfor flyttes hele bysentrum tre kilometer østover. Hvilken by er dette?",
+      "sv": "Under denna stad i Norrbotten bryter gruvbolaget LKAB järnmalm så djupt att marken ovanför sätter sig och berggrunden spricker upp. Därför flyttas hela stadskärnan tre kilometer österut. Vilken stad är detta?"
     },
     "answer": "Kiruna",
     "answerKind": "annet",
     "hint": {
-      "nb": "Byen ligger nord for polarsirkelen, og selskapsnavnet LKAB inneholder navnene på to malmfjell.",
-      "sv": "Staden ligger norr om polcirkeln, och bolagsnamnet LKAB innehåller namnen på två malmberg."
+      "nb": "Byen ligger nord for polarsirkelen, og malmen fraktes ut med Ofotbanen til Narvik.",
+      "sv": "Staden ligger norr om polcirkeln, och malmen fraktas ut med Ofotbanan till Narvik."
     },
     "funFact": {
-      "nb": "Flyttingen startet i 2014 og skal pågå i flere tiår. Det nye sentrumet åpnet i 2022, og 21 utvalgte bygninger flyttes fysisk til den nye plasseringen.",
-      "sv": "Flytten startade 2014 och ska pågå i flera decennier. Den nya stadskärnan invigdes 2022, och 21 utvalda byggnader flyttas fysiskt till den nya platsen."
+      "nb": "Flyttingen startet i 2014 og er planlagt å pågå til rundt 2100. Selskapsnavnet LKAB står for Luossavaara–Kiirunavaara AB, etter de to malmfjellene ved byen.",
+      "sv": "Flytten startade 2014 och är planerad att pågå till omkring 2100. Bolagsnamnet LKAB står för Luossavaara–Kiirunavaara AB, efter de två malmbergen vid staden."
     },
-    "source": "LKAB; Kiruna kommun – «Kiruna stadsomvandling»"
+    "source": "LKAB; Kiruna kommun – «Kiruna stadsomvandling»",
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Kiruna"
   },
   {
     "id": "fjell-v-01",
@@ -581,7 +587,10 @@
           "sv": "På denna dag 1950 stod fransmännen Maurice Herzog och Louis Lachenal på en topp i Nepal och gjorde något ingen hade gjort före dem: de stod på ett berg över 8 000 meter. Nedstigningen kostade dem fingrar och tår. Vilket berg var det?"
         }
       }
-    ]
+    ],
+    "verifiedAt": "2026-10-09",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Maurice_Herzog"
   },
   {
     "id": "fjell-v-02",
