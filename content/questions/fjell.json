@@ -657,7 +657,10 @@
           "sv": "På denna dag 1978 stod han och Peter Habeler på världens högsta topp utan syrgas, något många läkare hade menat var omöjligt. Åtta år senare blev han den förste som hade bestigit alla fjorton åttatusenmeterstopparna. Vem är detta?"
         }
       }
-    ]
+    ],
+    "verifiedAt": "2026-10-11",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Reinhold_Messner"
   },
   {
     "id": "fjell-v-04",
@@ -669,20 +672,23 @@
       "vitenskap"
     ],
     "prompt": {
-      "nb": "Med sine 1797 meter er dette Sveriges høyeste fjell sør for polarsirkelen, og på nordsiden ligger landets sørligste isbre. Fjellet ligger i Härjedalen, nær grensen mot Norge. Hva heter det?",
-      "sv": "Med sina 1 797 meter är detta Sveriges högsta berg söder om polcirkeln, och på nordsidan ligger landets sydligaste glaciär. Berget ligger i Härjedalen, nära gränsen mot Norge. Vad heter det?"
+      "nb": "Dette er Sveriges høyeste fjell sør for polarsirkelen, og her ligger landets sørligste isbre. Fjellet ligger nordvest i Härjedalen, nær grensen mot Norge. Hva heter det?",
+      "sv": "Detta är Sveriges högsta berg söder om polcirkeln, och här ligger landets sydligaste glaciär. Berget ligger nordväst i Härjedalen, nära gränsen mot Norge. Vad heter det?"
     },
     "answer": "Helagsfjället",
     "answerKind": "annet",
     "hint": {
-      "nb": "Isbreen på nordsiden bærer samme navn som fjellet, og Svenska Turistföreningen driver en fjellstasjon i området.",
-      "sv": "Glaciären på nordsidan bär samma namn som berget, och Svenska Turistföreningen driver en fjällstation i området."
+      "nb": "Isbreen bærer samme navn som fjellet, og Svenska Turistföreningen driver en fjellstasjon i dalen øst for toppen.",
+      "sv": "Glaciären bär samma namn som berget, och Svenska Turistföreningen driver en fjällstation i dalen öster om toppen."
     },
     "funFact": {
-      "nb": "Isbreen ligger i en nordvendt skål der snøen overlever sommeren. Lenger nord i samme fjellkjede finnes langt større breer, som Storglaciären ved Kebnekaise.",
-      "sv": "Glaciären ligger i en nordvänd skål där snön överlever sommaren. Längre norrut i samma fjällkedja finns betydligt större glaciärer, som Storglaciären vid Kebnekaise."
+      "nb": "Breen ligger i en skål der snøen overlever sommeren. Lenger nord i samme fjellkjede finnes større breer, som Storglaciären ved Kebnekaise.",
+      "sv": "Glaciären ligger i en skål där snön överlever sommaren. Längre norrut i samma fjällkedja finns större glaciärer, som Storglaciären vid Kebnekaise."
     },
-    "source": "Naturvårdsverket; Länsstyrelsen i Jämtlands län – fjällinformation"
+    "source": "Naturvårdsverket; Länsstyrelsen i Jämtlands län – fjällinformation",
+    "verifiedAt": "2026-10-11",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Helags"
   },
   {
     "id": "fjell-v-05",
@@ -711,7 +717,10 @@
       "nb": "Han ble funnet 8160 meter over havet, snaut 700 høydemeter under toppen. Om han rakk toppen før han omkom, er fortsatt ubesvart.",
       "sv": "Han hittades 8 160 meter över havet, knappt 700 höjdmeter under toppen. Om han hann till toppen innan han omkom är fortfarande obesvarat."
     },
-    "source": "Royal Geographical Society; Encyclopaedia Britannica – George Mallory"
+    "source": "Royal Geographical Society; Encyclopaedia Britannica – George Mallory",
+    "verifiedAt": "2026-10-11",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/George_Mallory"
   },
   {
     "id": "fjell-v-06",
@@ -722,8 +731,8 @@
       "natur"
     ],
     "prompt": {
-      "nb": "Etter flere dødsulykker laget Den Norske Turistforening og Norges Røde Kors i 1952 et sett enkle råd for tur i høyfjellet. De ble skjerpet i 1967, etter en påske der 17 mennesker omkom. Hva kalles disse rådene?",
-      "sv": "Efter flera dödsolyckor tog Den Norske Turistforening och Norges Röda Kors 1952 fram en uppsättning enkla råd för turer i högfjället. De skärptes 1967, efter en påsk då 17 människor omkom. Vad kallas dessa råd?"
+      "nb": "Etter flere dødsulykker laget Den Norske Turistforening og Norges Røde Kors i 1952 et sett enkle råd for tur i høyfjellet. De ble omarbeidet i 1967, etter en påske der 17 mennesker omkom. Hva kalles disse rådene?",
+      "sv": "Efter flera dödsolyckor tog Den Norske Turistforening och Norges Röda Kors 1952 fram en uppsättning enkla råd för turer i högfjället. De omarbetades 1967, efter en påsk då 17 människor omkom. Vad kallas dessa råd?"
     },
     "answer": "Fjellvettreglene",
     "answerKind": "annet",
@@ -735,7 +744,10 @@
       "nb": "Revisjonen i 2016 tok blant annet høyde for toppturer på randonée-ski og økt press på redningstjenesten. Fjellklatreren Cecilie Skog var med i arbeidsgruppen.",
       "sv": "Revideringen 2016 tog bland annat hänsyn till toppturer på randonéeskidor och ökat tryck på räddningstjänsten. Bergsklättraren Cecilie Skog ingick i arbetsgruppen."
     },
-    "source": "Den Norske Turistforening; Norges Røde Kors – fjellvettreglene"
+    "source": "Den Norske Turistforening; Norges Røde Kors – fjellvettreglene",
+    "verifiedAt": "2026-10-11",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/fjellvettreglene"
   },
   {
     "id": "fjell-v-07",
@@ -752,14 +764,17 @@
     "answer": "Tarfala",
     "answerKind": "annet",
     "hint": {
-      "nb": "Navnet er samisk og deles av dalen, forskningsstasjonen og innsjøen midt i dalen.",
-      "sv": "Namnet är samiskt och delas av dalen, forskningsstationen och sjön mitt i dalen."
+      "nb": "Navnet er samisk og deles av dalen og forskningsstasjonen.",
+      "sv": "Namnet är samiskt och delas av dalen och forskningsstationen."
     },
     "funFact": {
       "nb": "Stasjonen ligger 1135 meter over havet, om lag 150 kilometer nord for polarsirkelen. Herfra måles også høyden på Kebnekaises sørtopp hver sommer.",
       "sv": "Stationen ligger 1 135 meter över havet, ungefär 150 kilometer norr om polcirkeln. Härifrån mäts också höjden på Kebnekaises sydtopp varje sommar."
     },
-    "source": "Stockholms universitet – Tarfala forskningsstation"
+    "source": "Stockholms universitet – Tarfala forskningsstation",
+    "verifiedAt": "2026-10-11",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Tarfala_Research_Station"
   },
   {
     "id": "fjell-v-08",
@@ -780,10 +795,13 @@
       "sv": "Den är Ecuadors högsta berg, 6 263 meter, och Alexander von Humboldt försökte bestiga den 1802."
     },
     "funFact": {
-      "nb": "Toppen ligger rundt to kilometer lengre fra jordas sentrum enn Mount Everests topp. Humboldt nådde ikke helt opp, men høyden han kom til, ble regnet som datidens høyderekord.",
-      "sv": "Toppen ligger omkring två kilometer längre från jordens centrum än Mount Everests topp. Humboldt nådde inte ända upp, men höjden han kom till räknades som dåtidens höjdrekord."
+      "nb": "Toppen ligger rundt to kilometer lengre fra jordas sentrum enn Mount Everests topp. Humboldt nådde ikke helt opp, men kom høyere enn noen europeer hadde gjort før ham, så langt det er dokumentert.",
+      "sv": "Toppen ligger omkring två kilometer längre från jordens centrum än Mount Everests topp. Humboldt nådde inte ända upp, men kom högre än någon europé hade gjort före honom, så långt det är dokumenterat."
     },
-    "source": "Encyclopaedia Britannica – Chimborazo; Instituto Geográfico Militar del Ecuador"
+    "source": "Encyclopaedia Britannica – Chimborazo; Instituto Geográfico Militar del Ecuador",
+    "verifiedAt": "2026-10-11",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Chimborazo"
   },
   {
     "id": "fjell-v-09",
@@ -837,6 +855,9 @@
       "nb": "Dalbunnen ligger rundt 950 meter over havet, med innsjøen Čuonjájávri. U-formen er typisk for daler gravd ut av isbreer, i motsetning til elvedalenes V-form.",
       "sv": "Dalbotten ligger omkring 950 meter över havet, med sjön Čuonjájávri. U-formen är typisk för dalar urgröpta av glaciärer, till skillnad från älvdalarnas V-form."
     },
-    "source": "Naturvårdsverket – Abisko nationalpark; Institutet för språk och folkminnen – samiska ortnamn"
+    "source": "Naturvårdsverket – Abisko nationalpark; Institutet för språk och folkminnen – samiska ortnamn",
+    "verifiedAt": "2026-10-11",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Lapporten"
   }
 ]
