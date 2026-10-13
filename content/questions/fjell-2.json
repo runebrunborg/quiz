@@ -754,7 +754,10 @@
       "nb": "Fjellet ligger i Ngari i det tibetanske høylandet, nær der grensene til Kina, India og Nepal møtes, og mange pilegrimer går i stedet rundt fjellet i en rituell vandring.",
       "sv": "Berget ligger i Ngari på den tibetanska högplatån, nära där gränserna mot Kina, Indien och Nepal möts, och många pilgrimer vandrar i stället runt berget i en rituell vandring."
     },
-    "source": "Encyclopaedia Britannica – Mount Kailas"
+    "source": "Encyclopaedia Britannica – Mount Kailas",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Mount_Kailash"
   },
   {
     "id": "fjell-v-19",
@@ -765,8 +768,8 @@
       "medisin"
     ],
     "prompt": {
-      "nb": "3. juli 1953 fortsatte han alene de siste 1300 høydemeterne til toppen av Nanga Parbat, etter at følgesvennene hans hadde snudd. Han nådde toppen klokken sju om kvelden, helt uten flaskeoksygen – den første soloerobringen av en åttetusenmeter. Hvem var klatreren?",
-      "sv": "Den 3 juli 1953 fortsatte han ensam de sista 1 300 höjdmetrarna till toppen av Nanga Parbat, sedan hans följeslagare hade vänt. Han nådde toppen klockan sju på kvällen, helt utan flasksyre – den första solobestigningen av en åttatusenmeterstopp. Vem var klättraren?"
+      "nb": "3. juli 1953 fortsatte han alene de siste 1300 høydemeterne til toppen av Nanga Parbat, etter at følgesvennene hans hadde snudd. Han nådde toppen klokken sju om kvelden, helt uten flaskeoksygen – den eneste førstebestigningen av en åttetusenmeter som noen har gjort alene. Hvem var klatreren?",
+      "sv": "Den 3 juli 1953 fortsatte han ensam de sista 1 300 höjdmetrarna till toppen av Nanga Parbat, sedan hans följeslagare hade vänt. Han nådde toppen klockan sju på kvällen, helt utan extra syrgas – den enda förstabestigningen av ett åttatusenmeterstopp som någon har gjort ensam. Vem var klättraren?"
     },
     "answer": "Hermann Buhl",
     "answerKind": "person",
@@ -779,10 +782,13 @@
       "sv": "Han var österrikare, och nedstigningen blev så krävande att han fick tillbringa natten stående på en klipphylla utan tältutrustning."
     },
     "funFact": {
-      "nb": "Nanga Parbat hadde krevd mange liv i tidligere forsøk, og bestigningen regnes som en av alpinismens mest ekstreme prestasjoner på grunn av den ekstremt tynne luften i den høyden.",
-      "sv": "Nanga Parbat hade dessförinnan krävt många liv i tidigare försök, och bestigningen räknas som en av alpinismens mest extrema prestationer på grund av den extremt tunna luften på den höjden."
+      "nb": "Nanga Parbat har fått kallenavnet «Killer Mountain»: 31 klatrere hadde mistet livet på fjellet før denne førstebestigningen. Buhl var ute i 40 timer fra han forlot teltet til han var tilbake.",
+      "sv": "Nanga Parbat har fått smeknamnet «Killer Mountain»: 31 klättrare hade mist livet på berget före denna förstabestigning. Buhl var ute i 40 timmar från det att han lämnade tältet tills han var tillbaka."
     },
-    "source": "Encyclopaedia Britannica – Nanga Parbat; Hermann Buhl, «Achttausend drüber und drunter» (1954)"
+    "source": "Encyclopaedia Britannica – Nanga Parbat; Hermann Buhl, «Achttausend drüber und drunter» (1954)",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Nanga_Parbat"
   },
   {
     "id": "fjell-v-20",
@@ -793,19 +799,22 @@
       "historie"
     ],
     "prompt": {
-      "nb": "Organisasjonen ble stiftet i Stockholm i 1885 for å fremme kjennskap til og turisme i det svenske fjellet, og bygde etter hvert et nettverk av fjellstasjoner og hytter som fortsatt driftes i dag. Hvilken forening er dette?",
-      "sv": "Föreningen bildades i Stockholm 1885 för att främja kännedom om och turism i den svenska fjällvärlden, och byggde efter hand upp ett nätverk av fjällstationer och stugor som fortfarande drivs i dag. Vilken förening är detta?"
+      "nb": "Organisasjonen ble stiftet i 1885 av en krets naturvitere i Uppsala som ville gjøre det svenske fjellet kjent og tilgjengelig, og den bygde etter hvert opp et nettverk av fjellstasjoner og hytter som fortsatt driftes i dag. Hva heter organisasjonen?",
+      "sv": "Organisationen bildades 1885 av en krets naturvetare i Uppsala som ville göra den svenska fjällvärlden känd och tillgänglig, och den byggde efter hand upp ett nätverk av fjällstationer och stugor som fortfarande drivs i dag. Vad heter organisationen?"
     },
     "answer": "Svenska Turistföreningen",
     "answerKind": "annet",
     "hint": {
-      "nb": "Foreningen forkortes STF og står blant annet bak Kungsleden gjennom Lappland.",
-      "sv": "Föreningen förkortas STF och står bland annat bakom Kungsleden genom Lappland."
+      "nb": "Den står blant annet bak vandringsleden Kungsleden gjennom Lappland.",
+      "sv": "Den står bland annat bakom vandringsleden Kungsleden genom Lappland."
     },
     "funFact": {
-      "nb": "STF regnes som en av verdens eldste turistforeninger og driver i dag et stort nettverk av vandrerhjem og fjellstasjoner rundt om i Sverige.",
-      "sv": "STF räknas som en av världens äldsta turistföreningar och driver i dag ett stort nätverk av vandrarhem och fjällstationer runt om i Sverige."
+      "nb": "Foreningen ble stiftet 27. februar 1885, etter mønster av Den Norske Turistforening, og hadde i 2019 rundt 240 000 medlemmer fordelt på 65 lokalavdelinger.",
+      "sv": "Föreningen bildades den 27 februari 1885, med Den Norske Turistforening som förebild, och hade 2019 omkring 240 000 medlemmar i 65 lokalavdelningar."
     },
-    "source": "Svenska Turistföreningen – historik"
+    "source": "Svenska Turistföreningen – historik",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://de.wikipedia.org/wiki/Svenska_Turistf%C3%B6reningen"
   }
 ]

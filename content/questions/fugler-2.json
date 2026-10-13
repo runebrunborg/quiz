@@ -82,10 +82,13 @@
       "sv": "Det är samma fågel som är känd som visdomens symbol i grekisk mytologi."
     },
     "funFact": {
-      "nb": "Uttrykket «det er ugler i mosen» er ført opp i Det Norske Akademis ordbok, og brukes når man mistenker at noe skjules eller ikke stemmer.",
-      "sv": "Samma uttryck finns även i svenskan, «ana ugglor i mossen», och används när man misstänker att något inte stämmer eller döljs."
+      "nb": "Uttrykket kommer fra dansk, der «mose» betyr myr. Opprinnelig het det «der er ulve i mosen» – slik står det i Peder Syvs danske ordspråkssamling fra 1682 – og «ulver» ble med tiden til «ugler».",
+      "sv": "Uttrycket kommer från danskan, där «mose» betyder myr. Ursprungligen löd det «der er ulve i mosen» – så står det i Peder Syvs danska ordspråkssamling från 1682 – och «ulvar» blev med tiden «ugglor»."
     },
-    "source": "Det Norske Akademis ordbok (naob.no) – «ugle»"
+    "source": "Det Norske Akademis ordbok (naob.no) – «ugle»",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/ugler_i_mosen"
   },
   {
     "id": "fugler-l-15",
@@ -371,7 +374,10 @@
       "nb": "Praksisen har foregått i så lang tid at UNESCO trekker den fram som et eksempel på hvordan mennesker og natur kan leve i gjensidig nytte over generasjoner.",
       "sv": "Bruket har pågått så länge att Unesco lyfter fram det som ett exempel på hur människor och natur kan leva i ömsesidig nytta över generationer."
     },
-    "source": "UNESCO World Heritage – Vega Archipelago"
+    "source": "UNESCO World Heritage – Vega Archipelago",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Vega"
   },
   {
     "id": "fugler-m-18",

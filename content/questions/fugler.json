@@ -8,20 +8,23 @@
       "dyr"
     ],
     "prompt": {
-      "nb": "Denne flygeudyktige duefuglen fantes bare på øya Mauritius i Indiahavet. Etter at sjøfolk og innførte dyr som rotter og griser kom til øya, ble den utryddet på under hundre år – siste sikre observasjon var i 1662. Hvilken fugl er dette?",
-      "sv": "Denna flygoförmögna duvfågel fanns bara på ön Mauritius i Indiska oceanen. Efter att sjömän och införda djur som råttor och grisar kommit till ön utrotades den på mindre än hundra år – senaste säkra observationen var 1662. Vilken fågel är detta?"
+      "nb": "Denne flygeudyktige duefuglen fantes bare på øya Mauritius i Indiahavet. Etter at sjøfolk og innførte dyr som rotter og griser kom til øya, ble den utryddet på under hundre år, i løpet av 1600-tallet. Hvilken fugl er dette?",
+      "sv": "Denna flygoförmögna duvfågel fanns bara på ön Mauritius i Indiska oceanen. Efter att sjömän och införda djur som råttor och grisar kommit till ön utrotades den på mindre än hundra år, under 1600-talet. Vilken fågel är detta?"
     },
     "answer": "Dodo",
     "answerKind": "annet",
     "hint": {
-      "nb": "Navnet er i dag også et hverdagsord for noe som er hopeløst gammeldags eller utdatert.",
-      "sv": "Namnet är i dag också ett vardagsord för något som är hopplöst gammaldags eller föråldrat."
+      "nb": "Fuglen er i dag blitt selve symbolet på arter mennesket har utryddet.",
+      "sv": "Fågeln har i dag blivit själva symbolen för arter som människan har utrotat."
     },
     "funFact": {
       "nb": "Det vitenskapelige navnet er Raphus cucullatus. Fordi fuglen manglet naturlige fiender på Mauritius, var den fryktløs overfor mennesker – noe som gjorde den svært lett å jakte på.",
       "sv": "Det vetenskapliga namnet är Raphus cucullatus. Eftersom fågeln saknade naturliga fiender på Mauritius var den orädd inför människor – vilket gjorde den mycket lätt att jaga."
     },
-    "source": "IUCN Red List – Raphus cucullatus"
+    "source": "IUCN Red List – Raphus cucullatus",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Dodo"
   },
   {
     "id": "fugler-l-02",
@@ -97,8 +100,8 @@
       "mytologi"
     ],
     "prompt": {
-      "nb": "Hver morgen sender guden Odin ut disse to ravnene for å fly over hele verden, og hver kveld setter de seg på skuldrene hans og hvisker nyheter i øret hans. Navnene betyr «tanke» og «minne». Hva heter ravnene?",
-      "sv": "Varje morgon skickar guden Oden ut dessa två korpar för att flyga över hela världen, och varje kväll sätter de sig på hans axlar och viskar nyheter i hans öra. Namnen betyder «tanke» och «minne». Vad heter korparna?"
+      "nb": "Hver morgen sender guden Odin ut disse to ravnene for å fly over hele verden, og når de kommer tilbake, setter de seg på skuldrene hans og hvisker nyheter i øret hans. Navnene betyr «tanke» og «minne». Hva heter ravnene?",
+      "sv": "Varje morgon skickar guden Oden ut dessa två korpar för att flyga över hela världen, och när de kommer tillbaka sätter de sig på hans axlar och viskar nyheter i hans öra. Namnen betyder «tanke» och «minne». Vad heter korparna?"
     },
     "answer": {
       "nb": "Hugin og Munin",
@@ -110,10 +113,13 @@
       "sv": "De omtalas i både den poetiska Eddan och Snorre Sturlassons Prosaeddan."
     },
     "funFact": {
-      "nb": "Odin kalles i eddadiktningen «ravneguden». I diktet Grimnesmål bekymrer han seg for at ravnene en dag skal utebli fra sin daglige flytur.",
-      "sv": "Oden kallas i eddadiktningen «korpguden». I dikten Grimnesmål oroar han sig för att korparna en dag ska utebli från sin dagliga flygtur."
+      "nb": "Odin har tilnavnet «Ravneguden» nettopp etter disse to. I diktet Grimnesmål bekymrer han seg for at ravnene en dag skal utebli fra sin daglige flytur.",
+      "sv": "Oden har tillnamnet «Korpguden» just efter dessa två. I dikten Grimnesmål oroar han sig för att korparna en dag ska utebli från sin dagliga flygtur."
     },
-    "source": "Snorre Sturlason, Prosaedda; Den poetiske Edda, «Grimnesmål»"
+    "source": "Snorre Sturlason, Prosaedda; Den poetiske Edda, «Grimnesmål»",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://snl.no/Hugin_og_Munin"
   },
   {
     "id": "fugler-l-05",
@@ -137,10 +143,13 @@
       "sv": "Sagan heter «Den fula ankungen», men ankungen var aldrig någon anka."
     },
     "funFact": {
-      "nb": "Andersen skrev eventyret delvis om sitt eget liv – han følte seg lenge som en outsider før han fikk anerkjennelse som forfatter.",
-      "sv": "Andersen skrev sagan delvis om sitt eget liv – han kände sig länge som en outsider innan han fick erkännande som författare."
+      "nb": "Eventyret kom ut 11. november 1843 i samlingen «Nye Eventyr», utgitt hos C.A. Reitzel i København.",
+      "sv": "Sagan utkom den 11 november 1843 i samlingen «Nye Eventyr», utgiven hos C.A. Reitzel i Köpenhamn."
     },
-    "source": "H.C. Andersen, «Den grimme Ælling» (1843)"
+    "source": "H.C. Andersen, «Den grimme Ælling» (1843)",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/The_Ugly_Duckling"
   },
   {
     "id": "fugler-l-06",
@@ -330,6 +339,9 @@
       "sv": "Dikten trycktes först i New York Evening Mirror den 29 januari 1845 och gjorde honom snabbt känd, även om han tjänade mycket lite på den ekonomiskt."
     },
     "source": "The Raven, New York Evening Mirror (29. januar 1845)",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/The_Raven",
     "onThisDay": [
       {
         "day": "01-29",
@@ -463,7 +475,10 @@
       "nb": "Fordi platene skulle romme fugler i full størrelse – også store som traner og ørner – måtte han male mange av dem i vridde, unaturlige positurer for at de skulle passe på arket.",
       "sv": "Eftersom plattorna skulle rymma fåglar i full storlek – även stora som tranor och örnar – fick han måla många av dem i vridna, onaturliga positioner för att de skulle få plats på arket."
     },
-    "source": "Audubon.org – Birds of America"
+    "source": "Audubon.org – Birds of America",
+    "verifiedAt": "2026-10-13",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/John_James_Audubon"
   },
   {
     "id": "fugler-m-07",
