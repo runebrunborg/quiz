@@ -84,7 +84,10 @@
       "nb": "De 28 medaljene er flere enn noen annen utøver har tatt i olympiske leker. Han er født 30. juni 1985.",
       "sv": "De 28 medaljerna är fler än någon annan idrottare tagit i olympiska spel. Han är född den 30 juni 1985."
     },
-    "source": "Encyclopaedia Britannica – Michael Phelps"
+    "source": "Encyclopaedia Britannica – Michael Phelps",
+    "verifiedAt": "2026-10-15",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.britannica.com/biography/Michael-Phelps"
   },
   {
     "id": "gull-l-04",
@@ -135,7 +138,10 @@
       "nb": "Han ble kvitt forbannelsen ved å bade i elva Paktolos ved Sardes i dagens Tyrkia, som ifølge sagnet fikk sin gullførende sand nettopp derfra. I en annen fortelling ga Apollon ham eselører.",
       "sv": "Han blev av med förbannelsen genom att bada i floden Paktolos vid Sardes i dagens Turkiet, som enligt sägnen fick sin guldförande sand just därifrån. I en annan berättelse gav Apollon honom åsneöron."
     },
-    "source": "Encyclopaedia Britannica – Midas"
+    "source": "Encyclopaedia Britannica – Midas",
+    "verifiedAt": "2026-10-15",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.britannica.com/topic/Midas-Greek-mythology"
   },
   {
     "id": "gull-l-06",
@@ -163,7 +169,10 @@
       "nb": "Avlen startet i Kina under Song-dynastiet (960–1279). I akvarium blir fisken gjerne 5–10 centimeter, men kommer den ut i det fri kan den bli opptil 30 centimeter lang.",
       "sv": "Aveln startade i Kina under Songdynastin (960–1279). I akvarium blir fisken oftast 5–10 centimeter, men kommer den ut i det fria kan den bli upp till 30 centimeter lång."
     },
-    "source": "Encyclopaedia Britannica – goldfish"
+    "source": "Encyclopaedia Britannica – goldfish",
+    "verifiedAt": "2026-10-15",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.britannica.com/animal/goldfish"
   },
   {
     "id": "gull-l-07",
@@ -228,8 +237,8 @@
       "film"
     ],
     "prompt": {
-      "nb": "Kunstneren Karl Axel Pehrson, som selv samlet på biller, formet i 1964 en statuett inspirert av en billes skimrende flukt – den minnet ham om en filmstrimmel som flyr forbi. Statuetten deles ut av Svenska Filminstitutet. Hva heter prisen?",
-      "sv": "Konstnären Karl Axel Pehrson, som själv samlade på skalbaggar, formgav 1964 en statyett inspirerad av en skalbagges skimrande flykt – den påminde honom om en filmremsa som flyger förbi. Statyetten delas ut av Svenska Filminstitutet. Vad heter priset?"
+      "nb": "Kunstneren Karl Axel Pehrson vant designkonkurransen med en statuett inspirert av en billes skimrende flukt – den minnet ham om en filmstrimmel som flyr forbi. Statuetten har vært delt ut av Svenska Filminstitutet siden 1964. Hva heter prisen?",
+      "sv": "Konstnären Karl Axel Pehrson vann designtävlingen med en statyett inspirerad av en skalbagges skimrande flykt – den påminde honom om en filmremsa som flyger förbi. Statyetten har delats ut av Svenska Filminstitutet sedan 1964. Vad heter priset?"
     },
     "answer": "Guldbaggen",
     "answerKind": "annet",
@@ -238,10 +247,13 @@
       "sv": "Det är Sveriges främsta filmpris, utdelat sedan 1964."
     },
     "funFact": {
-      "nb": "Siden 1964 er det delt ut nesten 600 statuetter, i dag i nitten klasser. Galaen produseres sammen med SVT.",
-      "sv": "Sedan 1964 har nästan 600 statyetter delats ut, i dag i nitton klasser. Galan produceras tillsammans med SVT."
+      "nb": "Statuetten er laget av emaljert og forgylt kobber og veier rundt 1,2 kilo. Designkonkurransen ble satt i gang av Harry Schein, som den gang var sjef for Svenska Filminstitutet.",
+      "sv": "Statyetten är gjord av emaljerad och förgylld koppar och väger omkring 1,2 kilo. Designtävlingen tillkom på initiativ av Harry Schein, som då var chef för Svenska Filminstitutet."
     },
-    "source": "Guldbaggen / Svenska Filminstitutet"
+    "source": "Guldbaggen / Svenska Filminstitutet",
+    "verifiedAt": "2026-10-15",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Guldbagge_Awards"
   },
   {
     "id": "gull-l-10",
@@ -303,7 +315,10 @@
           "sv": "På denna dag 1922 dök det första trappsteget upp i sanden i Konungarnas dal. Tre veckor senare stod han framför en förseglad dörr in till en nästan orörd faraograv med guldmask och tusentals föremål. Lord Carnarvon bekostade utgrävningen. Vilken brittisk arkeolog?"
         }
       }
-    ]
+    ],
+    "verifiedAt": "2026-10-15",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.britannica.com/biography/Howard-Carter"
   },
   {
     "id": "gull-m-02",
