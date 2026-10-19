@@ -750,7 +750,7 @@
       "okonomi"
     ],
     "prompt": {
-      "nb": "Denne kongen av Lydia, i dagens Tyrkia, lot gull renses for sølv ved å varme det opp sammen med bordsalt, og fikk laget verdens første standardiserte myntmynter av rent gull, kalt kroiseider. Navnet hans lever videre i uttrykket «rik som...». Hvem var han?",
+      "nb": "Denne kongen av Lydia, i dagens Tyrkia, lot gull renses for sølv ved å varme det opp sammen med bordsalt, og fikk laget verdens første standardiserte mynter av rent gull, kalt kroiseider. Navnet hans lever videre i uttrykket «rik som...». Hvem var han?",
       "sv": "Denne kungen av Lydien, i dagens Turkiet, lät rena guld från silver genom att hetta upp det tillsammans med bordssalt, och lät prägla världens första standardiserade guldmynt, kroeseider. Hans namn lever kvar i uttrycket «rik som...». Vem var han?"
     },
     "answer": {
@@ -763,10 +763,13 @@
       "sv": "Uttrycket används fortfarande på svenska och norska om någon som är mycket rik."
     },
     "funFact": {
-      "nb": "Faren hans, Alyattes, hadde alt eksperimentert med myntpreging i elektrum - en naturlig gull-sølv-legering fra elva Paktolos. Han selv ble til slutt beseiret av perserkongen Kyros den store, rundt 547 f.Kr.",
-      "sv": "Hans far, Alyattes, hade redan experimenterat med myntprägling i elektrum - en naturlig guld-silverlegering från floden Paktolos. Han själv besegrades till slut av perserkungen Kyros den store, omkring 547 f.Kr."
+      "nb": "Faren hans, Alyattes, hadde alt eksperimentert med myntpreging i elektrum - en naturlig gull-sølv-legering fra elva Paktolos. Han selv ble til slutt beseiret av perserkongen Kyros den store.",
+      "sv": "Hans far, Alyattes, hade redan experimenterat med myntprägling i elektrum - en naturlig guld-silverlegering från floden Paktolos. Han själv besegrades till slut av perserkungen Kyros den store."
     },
-    "source": "Encyclopaedia Britannica – Croesus"
+    "source": "Encyclopaedia Britannica – Croesus",
+    "verifiedAt": "2026-10-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://en.wikipedia.org/wiki/Croesus"
   },
   {
     "id": "gull-v-20",

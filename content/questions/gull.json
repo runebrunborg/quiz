@@ -822,8 +822,8 @@
       "kunst"
     ],
     "prompt": {
-      "nb": "I en utstilling ved Historiska museet i Stockholm vises nesten 3000 gjenstander, blant dem tre sjeldne halskrager av gull fra 400-tallet med bittesmå menneske- og dyrefigurer. Til sammen rundt 52 kilo gull og over 200 kilo sølv. Hva heter utstillingen?",
-      "sv": "I en utställning på Historiska museet i Stockholm visas nästan 3000 föremål, bland dem tre sällsynta halskragar av guld från 400-talet med pyttesmå människo- och djurfigurer. Sammanlagt omkring 52 kilo guld och över 200 kilo silver. Vad heter utställningen?"
+      "nb": "I en utstilling ved Historiska museet i Stockholm vises nesten 3000 gjenstander, blant dem tre sjeldne halskrager av gull fra 400-tallet med bittesmå menneske- og dyrefigurer. Museets samlinger rommer 52 kilo gull og over 200 kilo sølv. Hva heter utstillingen?",
+      "sv": "I en utställning på Historiska museet i Stockholm visas nästan 3000 föremål, bland dem tre sällsynta halskragar av guld från 400-talet med pyttesmå människo- och djurfigurer. Museets samlingar rymmer 52 kilo guld och över 200 kilo silver. Vad heter utställningen?"
     },
     "answer": "Guldrummet",
     "answerKind": "annet",
@@ -835,7 +835,10 @@
       "nb": "De tre halskragene ble funnet hver for seg på 1800-tallet og kan åpnes med en sinnrik låsemekanisme. Samlingen rommer også Elisabethrelikvariet og Duneskatten fra Gotland.",
       "sv": "De tre halskragarna hittades var för sig på 1800-talet och kan öppnas med en sinnrik låsmekanism. Samlingen rymmer också Elisabethrelikvariet och Duneskatten från Gotland."
     },
-    "source": "Historiska museet, Stockholm – Guldrummet"
+    "source": "Historiska museet, Stockholm – Guldrummet",
+    "verifiedAt": "2026-10-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://historiska.se/utstallningar/guldrummet/"
   },
   {
     "id": "gull-v-10",
@@ -859,6 +862,9 @@
       "nb": "Vinnerne får «guldägg», de nest beste «silverägg», og i tillegg deles det ut fem spesialpriser. Konkurransen har vært arrangert siden 1961.",
       "sv": "Vinnarna får «guldägg», tvåorna «silverägg», och dessutom delas fem specialpriser ut. Tävlingen har arrangerats sedan 1961."
     },
-    "source": "Guldägget – Sveriges Kommunikationsbyråer"
+    "source": "Guldägget – Sveriges Kommunikationsbyråer",
+    "verifiedAt": "2026-10-19",
+    "verifiedBy": "kontrollrunde",
+    "verifiedUrl": "https://www.guldagget.se/om-guldagget/"
   }
 ]
